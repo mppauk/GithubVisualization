@@ -1,6 +1,6 @@
 function loadJson(pathExtension){
     return new Promise(function(resolve, reject){
-        var path = "http://localhost:8080/"+ pathExtension;
+        var path = "GithubData/"+ pathExtension;
         var xhRequest = new XMLHttpRequest();
         xhRequest.overrideMimeType('application/json');
         xhRequest.onload = function (){

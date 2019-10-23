@@ -1,0 +1,95 @@
+<!doctype html>
+<html>
+    <head>
+        <link href="vis-network.min.css" rel="stylesheet" type="text/css"/>
+        <link rel="stylesheet" href="dashboard.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+        <link rel="stylesheet" href="https://npmcdn.com/flatpickr@4.5.7/dist/flatpickr.css">
+        <link rel="stylesheet" href="https://unpkg.com/flatpickr@4.1.4/dist/plugins/confirmDate/confirmDate.css"/>
+
+        <script type="text/javascript" src="vis.js"></script>
+        <script src="https://npmcdn.com/flatpickr@4.5.7/dist/flatpickr.js"></script>
+        <script src="https://unpkg.com/flatpickr@4.5.7/dist/plugins/rangePlugin.js"></script>
+        <script src="https://unpkg.com/flatpickr@4.1.4/dist/plugins/confirmDate/confirmDate.js"></script>
+
+        <script type="text/javascript" src = "NetworkVisualization/RepositoryGraph/network_initialization.js"></script>
+        <script type="text/javascript" src = "NetworkVisualization/RepositoryGraph/animation_control.js"></script>
+        <script type="text/javascript" src = "NetworkVisualization/RepositoryGraph/statistics.js"></script>
+        <script type="text/javascript" src = "NetworkVisualization/RepositoryGraph/time_range_control.js"></script>
+        <script type="text/javascript" src = "VulnerabilityAlertsVisualization/network_initialization.js"></script>
+        <script type="text/javascript" src = "DashboardUtils.js"></script>
+        <script type="text/javascript" src = "NetworkVisualization/OrganizationGraph/network_initialization.js"></script>
+
+        
+    </head>
+    <body>
+        <div class="topwindow">
+            <div id="organization_network"></div>
+        </div>
+        <div class="windowcontainer">
+            <div class="leftwindow"> 
+                <div id="network_container"></div>
+                <div id="side_panel">
+                    <div>
+                        <h3>Time Range</h3>
+                        <label>Begin Range:
+                            <br/>
+                            <input class="range_picker" id="range_picker_begin"></input>
+                        </label>
+                        <br/>
+                        <label>End Range:
+                            <br/>
+                            <input class="range_picker" id="range_picker_end"></input>
+                        </label>
+                    </div>
+                    <div>
+                        <h3>View Time</h3>
+                        <input id="current_time_picker"></input>
+                    </div>
+                    <div>
+                        <h3>Step Size</h3>
+                        <form>
+                            <select id="step_selection">
+                                <option value="1hour">1 hour</option>
+                                <option value="2hour">2 hours</option>
+                                <option value="6hour">6 hours</option>
+                                <option value="12hour">12 hours</option>
+                                <option value="24hour">24 hours</option>
+                            </select>
+                        </form>
+                    </div>
+                    <div>
+                        <h3>Animation Control</h3>
+                        <button id="back">Back</button>
+                        <button id="play">Play</button>
+                        <button id="next"> Forward </button>
+                    </div>
+                    <div>
+                        <h3>Statistics</h3>
+                        <div id="row">
+                            <div id="column">
+                                <h4>Repository Statistics</h4>
+                                <ul id="RepoStats">
+                                    <li id = "forks"></li>
+                                    <li id = "branches"></li>
+                                </ul>
+                            </div>
+                            <div id="column">
+                                <h4>Changes in Time Range</h4>
+                                <ul id="24hrStats">
+                                    <li id = "commit_count"></li>
+                                    <li id = "author_count"></li>
+                                    <li id = "additions"></li>
+                                    <li id = "deletions"></li>
+                                </ul>
+        
+                            </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="rightwindow">
+                <div id="vulnerability_network"></div>
+        </div>
+         </div>
+    </body>

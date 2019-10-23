@@ -1,0 +1,108 @@
+/* Conatiner CSS Elements */
+
+html{
+    height: 100%;
+    overflow:hidden;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    overflow:hidden;
+    background-color: #222222;
+}
+
+.windowcontainer{
+    display:inline-block;
+    width: 100%;
+    height: 69%;
+}
+
+.leftwindow{
+    width: 55%;
+    height: 100%;
+    float:left;
+    display:inline-block;
+}
+
+.topwindow{
+    width: 100%;
+    height: 30%;
+    display: block;
+    overflow:hidden;
+}
+
+.rightwindow{
+    width: 45%;
+    height: 100%;
+    float:right;
+}
+
+/* Organization Network CSS Elements*/
+
+#organization_network {
+    width: 99%;
+    height: 95%;
+    border: 1px solid #444444;
+    background-color: #222222;
+}
+
+/* Commit Network CSS Elements*/
+
+
+#network_container{
+    width: 78%;
+    height: 98%;
+    border: 1px solid #444444;
+    background-color: #222222;
+    float: left;
+}
+#side_panel{
+    color: #d3d3d3;
+    overflow-x: auto;
+    overflow-y: auto;
+    height: 95%;
+    padding-left: 1%;
+    float: left;
+    width:20%
+}
+
+#date_display {
+    width:100%;
+    height:100%;
+
+}
+.tab { margin-left: 80px; }
+#start_range_picker{
+    width: 100%;
+}
+#author_tab{
+    overflow-y:auto;
+    overflow-x:hidden;
+    width: 100%;
+    height: 100%;
+}
+.column {
+    float: left;
+    width: 50%;
+}
+.row:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+h4{
+    margin-left: 5px;
+    padding: 5px;
+}
+
+/* Vulnerability network CSS elements */
+
+
+#vulnerability_network {
+    width: 98%;
+    height: 98%;
+    border: 1px solid #444444;
+    background-color: #222222;
+    float: left;
+}

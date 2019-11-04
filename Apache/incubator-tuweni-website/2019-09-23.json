@@ -1,0 +1,110 @@
+[
+  {
+    "RepositoryName": "incubator-tuweni-website",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T00:11:10Z",
+    "EndDate": "2019-09-23T01:11:10",
+    "Branches": 2,
+    "Forks": 2,
+    "Files": [
+      {
+        "Sha": "b141b1c5f9b8041a8cf5b917826f3ae59dff794d",
+        "FileName": "download.md",
+        "Path": "download.md",
+        "DateUpdated": "2019-09-23T01:09:36Z",
+        "Additions": 15,
+        "Deletions": 1,
+        "Commits": [
+          "3ba6ac0b1e2ef92d1b8d019f11690e0567c7b7dc"
+        ]
+      },
+      {
+        "Sha": "84358199194bbe847de9a285cd5fc025ae7a4560",
+        "FileName": "download.md",
+        "Path": "download.md",
+        "DateUpdated": "2019-09-23T00:59:04Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "4f6f933e9edcba3f97d04f7fc98efb17d9f94e8f"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "3ba6ac0b1e2ef92d1b8d019f11690e0567c7b7dc",
+        "Author": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Commitor": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Date": "2019-09-23T01:09:36Z",
+        "additions": 15,
+        "deletions": 1,
+        "files": [
+          "b141b1c5f9b8041a8cf5b917826f3ae59dff794d"
+        ]
+      },
+      {
+        "sha": "4f6f933e9edcba3f97d04f7fc98efb17d9f94e8f",
+        "Author": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Commitor": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Date": "2019-09-23T00:59:04Z",
+        "additions": 5,
+        "deletions": 5,
+        "files": [
+          "84358199194bbe847de9a285cd5fc025ae7a4560"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-tuweni-website",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T01:07:35Z",
+    "EndDate": "2019-09-23T02:07:35",
+    "Branches": 2,
+    "Forks": 2,
+    "Files": [
+      {
+        "Sha": "b141b1c5f9b8041a8cf5b917826f3ae59dff794d",
+        "FileName": "download.md",
+        "Path": "download.md",
+        "DateUpdated": "2019-09-23T01:09:36Z",
+        "Additions": 15,
+        "Deletions": 1,
+        "Commits": [
+          "3ba6ac0b1e2ef92d1b8d019f11690e0567c7b7dc"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "3ba6ac0b1e2ef92d1b8d019f11690e0567c7b7dc",
+        "Author": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Commitor": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Date": "2019-09-23T01:09:36Z",
+        "additions": 15,
+        "deletions": 1,
+        "files": [
+          "b141b1c5f9b8041a8cf5b917826f3ae59dff794d"
+        ]
+      }
+    ]
+  }
+]

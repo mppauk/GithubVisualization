@@ -1,0 +1,78 @@
+[
+  {
+    "RepositoryName": "couchdb-pkg",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T04:48:18Z",
+    "EndDate": "2019-09-24T05:48:18",
+    "Branches": 5,
+    "Forks": 15,
+    "Files": [
+      {
+        "Sha": "28628fb36d97fe7cfdd1e3310e5d1b16381b1593",
+        "FileName": "README-SNAP.md",
+        "Path": "README-SNAP.md",
+        "DateUpdated": "2019-09-24T05:09:03Z",
+        "Additions": 27,
+        "Deletions": 3,
+        "Commits": [
+          "956c3068e8fa26ec3de7b29c73ac256ff6109db1"
+        ]
+      },
+      {
+        "Sha": "e6e8e218008d02ff7aa59516d0adab1785d3263c",
+        "FileName": "install",
+        "Path": "snap/hooks/install",
+        "DateUpdated": "2019-09-24T05:09:03Z",
+        "Additions": 4,
+        "Deletions": 2,
+        "Commits": [
+          "956c3068e8fa26ec3de7b29c73ac256ff6109db1"
+        ]
+      },
+      {
+        "Sha": "248e6b3d27af04bef4f84df06a29928716965ad2",
+        "FileName": "pre-refresh",
+        "Path": "snap/hooks/pre-refresh",
+        "DateUpdated": "2019-09-24T05:09:03Z",
+        "Additions": 22,
+        "Deletions": 0,
+        "Commits": [
+          "956c3068e8fa26ec3de7b29c73ac256ff6109db1"
+        ]
+      },
+      {
+        "Sha": "9137f128ef354af41874a9fe4678dab4fe7b94b5",
+        "FileName": "snapcraft.yaml",
+        "Path": "snap/snapcraft.yaml",
+        "DateUpdated": "2019-09-24T05:09:03Z",
+        "Additions": 11,
+        "Deletions": 4,
+        "Commits": [
+          "956c3068e8fa26ec3de7b29c73ac256ff6109db1"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "956c3068e8fa26ec3de7b29c73ac256ff6109db1",
+        "Author": {
+          "name": "\"Simon Klassen\"",
+          "location": "Singapore"
+        },
+        "Commitor": {
+          "name": "\"Joan Touzet\"",
+          "location": "Toronto, ON, Canada"
+        },
+        "Date": "2019-09-24T05:09:03Z",
+        "additions": 64,
+        "deletions": 9,
+        "files": [
+          "28628fb36d97fe7cfdd1e3310e5d1b16381b1593",
+          "e6e8e218008d02ff7aa59516d0adab1785d3263c",
+          "248e6b3d27af04bef4f84df06a29928716965ad2",
+          "9137f128ef354af41874a9fe4678dab4fe7b94b5"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "RepositoryName": "trafficserver",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T23:02:09Z",
+    "EndDate": "2019-09-25T00:02:09",
+    "Branches": 37,
+    "Forks": 600,
+    "Files": [
+      {
+        "Sha": "02732ee469e359dd134181625b194c864725f3ca",
+        "FileName": "h2spec_stdout.gold",
+        "Path": "tests/gold_tests/h2/gold/h2spec_stdout.gold",
+        "DateUpdated": "2019-09-24T23:15:05Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "097017d7122d7b1ba82bfe5ea92f85ab7a17599b"
+        ]
+      },
+      {
+        "Sha": "a188e80a251671586419589d4114eb5b643bcc45",
+        "FileName": "h2spec.test.py",
+        "Path": "tests/gold_tests/h2/h2spec.test.py",
+        "DateUpdated": "2019-09-24T23:15:05Z",
+        "Additions": 83,
+        "Deletions": 0,
+        "Commits": [
+          "097017d7122d7b1ba82bfe5ea92f85ab7a17599b"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "097017d7122d7b1ba82bfe5ea92f85ab7a17599b",
+        "Author": {
+          "name": "\"Masaori Koshiba\"",
+          "location": "Tokyo"
+        },
+        "Commitor": {
+          "name": "\"Masaori Koshiba\"",
+          "location": "Tokyo"
+        },
+        "Date": "2019-09-24T23:15:05Z",
+        "additions": 86,
+        "deletions": 0,
+        "files": [
+          "02732ee469e359dd134181625b194c864725f3ca",
+          "a188e80a251671586419589d4114eb5b643bcc45"
+        ]
+      }
+    ]
+  }
+]

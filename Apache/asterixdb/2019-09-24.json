@@ -1,0 +1,1156 @@
+[
+  {
+    "RepositoryName": "asterixdb",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T02:47:16Z",
+    "EndDate": "2019-09-24T03:47:16",
+    "Branches": 11,
+    "Forks": 90,
+    "Files": [
+      {
+        "Sha": "36e925bdc5dfff92a8a65772f46f58c64d9f8572",
+        "FileName": "cc.conf",
+        "Path": "asterixdb/asterix-app/src/main/resources/cc.conf",
+        "DateUpdated": "2019-09-24T03:38:21Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a04071045f1459e0a44596c025bb4b2622726eb6"
+        ]
+      },
+      {
+        "Sha": "016c485bb073d6a819d552f4944618f2b66ac278",
+        "FileName": "cc2.conf",
+        "Path": "asterixdb/asterix-app/src/main/resources/cc2.conf",
+        "DateUpdated": "2019-09-24T03:38:21Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a04071045f1459e0a44596c025bb4b2622726eb6"
+        ]
+      },
+      {
+        "Sha": "88362aabc5a675e33eda05d0ebdde1817fe496ae",
+        "FileName": "cc3.conf",
+        "Path": "asterixdb/asterix-app/src/main/resources/cc3.conf",
+        "DateUpdated": "2019-09-24T03:38:21Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a04071045f1459e0a44596c025bb4b2622726eb6"
+        ]
+      },
+      {
+        "Sha": "105d313411ecec6c429556ab462bdb2194f17aa1",
+        "FileName": "cc-compression.conf",
+        "Path": "asterixdb/asterix-app/src/test/resources/cc-compression.conf",
+        "DateUpdated": "2019-09-24T03:38:21Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a04071045f1459e0a44596c025bb4b2622726eb6"
+        ]
+      },
+      {
+        "Sha": "5543e512e8b818b407d9a53509270494645d0ae7",
+        "FileName": "cc-multipart.conf",
+        "Path": "asterixdb/asterix-app/src/test/resources/cc-multipart.conf",
+        "DateUpdated": "2019-09-24T03:38:21Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a04071045f1459e0a44596c025bb4b2622726eb6"
+        ]
+      },
+      {
+        "Sha": "794b5b0ab9bdc4e0fe046da3ba61f038a0851db5",
+        "FileName": "cc-single.conf",
+        "Path": "asterixdb/asterix-app/src/test/resources/cc-single.conf",
+        "DateUpdated": "2019-09-24T03:38:21Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a04071045f1459e0a44596c025bb4b2622726eb6"
+        ]
+      },
+      {
+        "Sha": "b456155cef4925b5cff8dedbc5e4127ddb386096",
+        "FileName": "cc-small-txn-log-partition.conf",
+        "Path": "asterixdb/asterix-app/src/test/resources/cc-small-txn-log-partition.conf",
+        "DateUpdated": "2019-09-24T03:38:21Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a04071045f1459e0a44596c025bb4b2622726eb6"
+        ]
+      },
+      {
+        "Sha": "499e9fcee0869dbb12b6f879bf929a0c0c46639b",
+        "FileName": "cc-ssl.conf",
+        "Path": "asterixdb/asterix-app/src/test/resources/cc-ssl.conf",
+        "DateUpdated": "2019-09-24T03:38:21Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a04071045f1459e0a44596c025bb4b2622726eb6"
+        ]
+      },
+      {
+        "Sha": "41296a7284963eb06d8a7b999d341ec6de039474",
+        "FileName": "cc-storage.conf",
+        "Path": "asterixdb/asterix-app/src/test/resources/cc-storage.conf",
+        "DateUpdated": "2019-09-24T03:38:21Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a04071045f1459e0a44596c025bb4b2622726eb6"
+        ]
+      },
+      {
+        "Sha": "b176852ab54f9d0f479f2114114a6dda098a2e51",
+        "FileName": "cc-stringoffset.conf",
+        "Path": "asterixdb/asterix-app/src/test/resources/cc-stringoffset.conf",
+        "DateUpdated": "2019-09-24T03:38:21Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a04071045f1459e0a44596c025bb4b2622726eb6"
+        ]
+      },
+      {
+        "Sha": "10c0b9925d3d1bfb9b21b2a13e7d3d1524a14049",
+        "FileName": "cc.conf",
+        "Path": "asterixdb/asterix-app/src/test/resources/cc.conf",
+        "DateUpdated": "2019-09-24T03:38:21Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a04071045f1459e0a44596c025bb4b2622726eb6"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a04071045f1459e0a44596c025bb4b2622726eb6",
+        "Author": {
+          "name": "\"Murtadha Hubail\""
+        },
+        "Commitor": {
+          "name": "\"Murtadha Hubail\""
+        },
+        "Date": "2019-09-24T03:38:21Z",
+        "additions": 11,
+        "deletions": 11,
+        "files": [
+          "36e925bdc5dfff92a8a65772f46f58c64d9f8572",
+          "016c485bb073d6a819d552f4944618f2b66ac278",
+          "88362aabc5a675e33eda05d0ebdde1817fe496ae",
+          "105d313411ecec6c429556ab462bdb2194f17aa1",
+          "5543e512e8b818b407d9a53509270494645d0ae7",
+          "794b5b0ab9bdc4e0fe046da3ba61f038a0851db5",
+          "b456155cef4925b5cff8dedbc5e4127ddb386096",
+          "499e9fcee0869dbb12b6f879bf929a0c0c46639b",
+          "41296a7284963eb06d8a7b999d341ec6de039474",
+          "b176852ab54f9d0f479f2114114a6dda098a2e51",
+          "10c0b9925d3d1bfb9b21b2a13e7d3d1524a14049"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "asterixdb",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T04:47:28Z",
+    "EndDate": "2019-09-24T05:47:28",
+    "Branches": 11,
+    "Forks": 90,
+    "Files": [
+      {
+        "Sha": "a38be4a39f84b95a5248796f8c462fe433605483",
+        "FileName": "PersistedResourceRegistry.java",
+        "Path": "asterixdb/asterix-app/src/main/java/org/apache/asterix/app/io/PersistedResourceRegistry.java",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "fc347c9b0f0720b0d791a847d8d175fddf016179",
+        "FileName": "NCAppRuntimeContext.java",
+        "Path": "asterixdb/asterix-app/src/main/java/org/apache/asterix/app/nc/NCAppRuntimeContext.java",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "a758511e7631069dfe376356c4a2e5a5681f14aa",
+        "FileName": "MetadataTxnTest.java",
+        "Path": "asterixdb/asterix-app/src/test/java/org/apache/asterix/test/metadata/MetadataTxnTest.java",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "74c4faa99f1f2350c4b8a7d8b5f07b9e4db44c35",
+        "FileName": "dataset_with_meta-1.1.adm",
+        "Path": "asterixdb/asterix-app/src/test/resources/metadata/results/basic/dataset_with_meta-1/dataset_with_meta-1.1.adm",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "f91c42aa520a00d7ca7df943988485d62e668b12",
+        "FileName": "dataset_with_meta-2.1.adm",
+        "Path": "asterixdb/asterix-app/src/test/resources/metadata/results/basic/dataset_with_meta-2/dataset_with_meta-2.1.adm",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "57346ae11ad8f90162c2a79c6ce60d0f3afae39a",
+        "FileName": "dataset_with_meta-2.3.adm",
+        "Path": "asterixdb/asterix-app/src/test/resources/metadata/results/basic/dataset_with_meta-3/dataset_with_meta-2.3.adm",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "ea31b65e7de57d4f7528abe86e01e9dfd743765f",
+        "FileName": "dataset_with_meta-4.3.adm",
+        "Path": "asterixdb/asterix-app/src/test/resources/metadata/results/basic/dataset_with_meta-4/dataset_with_meta-4.3.adm",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "b294dd841bfe5443182dbd89060879158ca1c1f4",
+        "FileName": "dataset_with_meta-5.3.adm",
+        "Path": "asterixdb/asterix-app/src/test/resources/metadata/results/basic/dataset_with_meta-5/dataset_with_meta-5.3.adm",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "8133271059e3c252e8e2dbe8c977ad7fefae404a",
+        "FileName": "issue_251_dataset_hint_1.1.adm",
+        "Path": "asterixdb/asterix-app/src/test/resources/metadata/results/basic/issue_251_dataset_hint_1/issue_251_dataset_hint_1.1.adm",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "5a70c8e4a39df61e11a657b5a8321d7c67856b5f",
+        "FileName": "issue_251_dataset_hint_2.1.adm",
+        "Path": "asterixdb/asterix-app/src/test/resources/metadata/results/basic/issue_251_dataset_hint_2/issue_251_dataset_hint_2.1.adm",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "fc1dcf5d8a79014babf97d9054a5d782ed7b9098",
+        "FileName": "issue_251_dataset_hint_3.1.adm",
+        "Path": "asterixdb/asterix-app/src/test/resources/metadata/results/basic/issue_251_dataset_hint_3/issue_251_dataset_hint_3.1.adm",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "9620d175e86649bbb096abb5ceee5007fa637cbd",
+        "FileName": "issue_251_dataset_hint_4.1.adm",
+        "Path": "asterixdb/asterix-app/src/test/resources/metadata/results/basic/issue_251_dataset_hint_4/issue_251_dataset_hint_4.1.adm",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "4ca2cef91a3d71ff0b1425498ebabf9679ba2954",
+        "FileName": "meta02.1.adm",
+        "Path": "asterixdb/asterix-app/src/test/resources/metadata/results/basic/meta02/meta02.1.adm",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "45160b53c0e9de3c88696476f580efc51d09800e",
+        "FileName": "meta09.1.adm",
+        "Path": "asterixdb/asterix-app/src/test/resources/metadata/results/basic/meta09/meta09.1.adm",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "e8dbbe90b15ce2906fc5a72657513db0d55bdd4b",
+        "FileName": "metadata_compaction_policy.1.adm",
+        "Path": "asterixdb/asterix-app/src/test/resources/metadata/results/basic/metadata_compaction_policy/metadata_compaction_policy.1.adm",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "d96df28c2f784039a9a67a4fc40ae0d8d362a293",
+        "FileName": "metadata_dataset.1.adm",
+        "Path": "asterixdb/asterix-app/src/test/resources/metadata/results/basic/metadata_dataset/metadata_dataset.1.adm",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 14,
+        "Deletions": 14,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "109396673ae14b177de4ba0f9bb46cd7744ffb75",
+        "FileName": "using-concurrent-merge-policy.1.ddl.sqlpp",
+        "Path": "asterixdb/asterix-app/src/test/resources/runtimets/queries_sqlpp/dml/using-concurrent-merge-policy/using-concurrent-merge-policy.1.ddl.sqlpp",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 60,
+        "Deletions": 0,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "546a831db660c8f84bdc161f3ff6f670ccf10028",
+        "FileName": "using-concurrent-merge-policy.2.update.sqlpp",
+        "Path": "asterixdb/asterix-app/src/test/resources/runtimets/queries_sqlpp/dml/using-concurrent-merge-policy/using-concurrent-merge-policy.2.update.sqlpp",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 24,
+        "Deletions": 0,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "cb4011136bbe38289a293bcbeb9c015fc42ea652",
+        "FileName": "using-concurrent-merge-policy.3.ddl.sqlpp",
+        "Path": "asterixdb/asterix-app/src/test/resources/runtimets/queries_sqlpp/dml/using-concurrent-merge-policy/using-concurrent-merge-policy.3.ddl.sqlpp",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 27,
+        "Deletions": 0,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "2dd6408e2de6b0d0c39dc4fdfae88e3abdcdac10",
+        "FileName": "using-concurrent-merge-policy.4.update.sqlpp",
+        "Path": "asterixdb/asterix-app/src/test/resources/runtimets/queries_sqlpp/dml/using-concurrent-merge-policy/using-concurrent-merge-policy.4.update.sqlpp",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 24,
+        "Deletions": 0,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "5295e7e6f0dc4a0634ebc0d401e9d7def9a6d75c",
+        "FileName": "using-concurrent-merge-policy.5.query.sqlpp",
+        "Path": "asterixdb/asterix-app/src/test/resources/runtimets/queries_sqlpp/dml/using-concurrent-merge-policy/using-concurrent-merge-policy.5.query.sqlpp",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 27,
+        "Deletions": 0,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "57f1f411a9a9dfa1f8b9011cdd7329f9983031ae",
+        "FileName": "cross-dv02.1.adm",
+        "Path": "asterixdb/asterix-app/src/test/resources/runtimets/results/cross-dataverse/cross-dv02/cross-dv02.1.adm",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 4,
+        "Deletions": 8,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2",
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "e8e2aac3243cd9f65650d6feb18e305871dc7d7f",
+        "FileName": "cross-dv19.1.adm",
+        "Path": "asterixdb/asterix-app/src/test/resources/runtimets/results/cross-dataverse/cross-dv19/cross-dv19.1.adm",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "199ac15263b4901f4720a01c4f4202e511bb90fe",
+        "FileName": "using-concurrent-merge-policy.1.adm",
+        "Path": "asterixdb/asterix-app/src/test/resources/runtimets/results/dml/using-concurrent-merge-policy/using-concurrent-merge-policy.1.adm",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 167,
+        "Deletions": 0,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "1132f8f8e57c794d73e224284e73598bb94b76e6",
+        "FileName": "udf23.1.adm",
+        "Path": "asterixdb/asterix-app/src/test/resources/runtimets/results/user-defined-functions/udf23/udf23.1.adm",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "1ca022a215c86b66d09eb95d99c8b6de2769b39b",
+        "FileName": "testsuite_sqlpp.xml",
+        "Path": "asterixdb/asterix-app/src/test/resources/runtimets/testsuite_sqlpp.xml",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "6a080bd2f3df826c145c435f3ca6baebeed793dd",
+        "FileName": "StorageConstants.java",
+        "Path": "asterixdb/asterix-common/src/main/java/org/apache/asterix/common/utils/StorageConstants.java",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 7,
+        "Deletions": 4,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "a26a63848fc68b3a962c9bdac5f39c6ef003435a",
+        "FileName": "DatasetDeclParametersUtil.java",
+        "Path": "asterixdb/asterix-lang-common/src/main/java/org/apache/asterix/lang/common/util/DatasetDeclParametersUtil.java",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 12,
+        "Deletions": 1,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "e25c7c0c1addd9325d3c96234d8d296d342ed125",
+        "FileName": "MetadataBootstrap.java",
+        "Path": "asterixdb/asterix-metadata/src/main/java/org/apache/asterix/metadata/bootstrap/MetadataBootstrap.java",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 21,
+        "Deletions": 3,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "05b478a4ae1565409737768cdb108741b0a635b9",
+        "FileName": "ConcurrentMergePolicy.java",
+        "Path": "hyracks-fullstack/hyracks/hyracks-storage-am-lsm-common/src/main/java/org/apache/hyracks/storage/am/lsm/common/impls/ConcurrentMergePolicy.java",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 179,
+        "Deletions": 0,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "ee5a9edb0fa55895a473c581c3c4b6817b889be8",
+        "FileName": "ConcurrentMergePolicyFactory.java",
+        "Path": "hyracks-fullstack/hyracks/hyracks-storage-am-lsm-common/src/main/java/org/apache/hyracks/storage/am/lsm/common/impls/ConcurrentMergePolicyFactory.java",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 74,
+        "Deletions": 0,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      },
+      {
+        "Sha": "098aa51eed415e6ab6663500e9adc5270c6bde1f",
+        "FileName": "ConcurrentMergePolicyTest.java",
+        "Path": "hyracks-fullstack/hyracks/hyracks-tests/hyracks-storage-am-lsm-common-test/src/test/java/org/apache/hyracks/storage/am/lsm/common/test/ConcurrentMergePolicyTest.java",
+        "DateUpdated": "2019-09-24T05:03:15Z",
+        "Additions": 190,
+        "Deletions": 0,
+        "Commits": [
+          "baad7d3beee2d3ce0ad3985605cab51a7441dff2"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "baad7d3beee2d3ce0ad3985605cab51a7441dff2",
+        "Author": {
+          "name": "\"Luo Chen\"",
+          "location": "USA",
+          "company": "UC Irvine"
+        },
+        "Commitor": {
+          "name": "\"Luo Chen\"",
+          "location": "USA",
+          "company": "UC Irvine"
+        },
+        "Date": "2019-09-24T05:03:15Z",
+        "additions": 868,
+        "deletions": 56,
+        "files": [
+          "a38be4a39f84b95a5248796f8c462fe433605483",
+          "fc347c9b0f0720b0d791a847d8d175fddf016179",
+          "a758511e7631069dfe376356c4a2e5a5681f14aa",
+          "74c4faa99f1f2350c4b8a7d8b5f07b9e4db44c35",
+          "f91c42aa520a00d7ca7df943988485d62e668b12",
+          "57346ae11ad8f90162c2a79c6ce60d0f3afae39a",
+          "ea31b65e7de57d4f7528abe86e01e9dfd743765f",
+          "b294dd841bfe5443182dbd89060879158ca1c1f4",
+          "8133271059e3c252e8e2dbe8c977ad7fefae404a",
+          "5a70c8e4a39df61e11a657b5a8321d7c67856b5f",
+          "fc1dcf5d8a79014babf97d9054a5d782ed7b9098",
+          "9620d175e86649bbb096abb5ceee5007fa637cbd",
+          "4ca2cef91a3d71ff0b1425498ebabf9679ba2954",
+          "45160b53c0e9de3c88696476f580efc51d09800e",
+          "e8dbbe90b15ce2906fc5a72657513db0d55bdd4b",
+          "d96df28c2f784039a9a67a4fc40ae0d8d362a293",
+          "109396673ae14b177de4ba0f9bb46cd7744ffb75",
+          "546a831db660c8f84bdc161f3ff6f670ccf10028",
+          "cb4011136bbe38289a293bcbeb9c015fc42ea652",
+          "2dd6408e2de6b0d0c39dc4fdfae88e3abdcdac10",
+          "5295e7e6f0dc4a0634ebc0d401e9d7def9a6d75c",
+          "57f1f411a9a9dfa1f8b9011cdd7329f9983031ae",
+          "57f1f411a9a9dfa1f8b9011cdd7329f9983031ae",
+          "e8e2aac3243cd9f65650d6feb18e305871dc7d7f",
+          "199ac15263b4901f4720a01c4f4202e511bb90fe",
+          "1132f8f8e57c794d73e224284e73598bb94b76e6",
+          "1ca022a215c86b66d09eb95d99c8b6de2769b39b",
+          "6a080bd2f3df826c145c435f3ca6baebeed793dd",
+          "a26a63848fc68b3a962c9bdac5f39c6ef003435a",
+          "e25c7c0c1addd9325d3c96234d8d296d342ed125",
+          "05b478a4ae1565409737768cdb108741b0a635b9",
+          "ee5a9edb0fa55895a473c581c3c4b6817b889be8",
+          "098aa51eed415e6ab6663500e9adc5270c6bde1f"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "asterixdb",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T22:03:20Z",
+    "EndDate": "2019-09-24T23:03:20",
+    "Branches": 11,
+    "Forks": 90,
+    "Files": [
+      {
+        "Sha": "20673eb9f8b70c2df1ae3c40b7219067e6dfb073",
+        "FileName": "AsterixOptimizationContext.java",
+        "Path": "asterixdb/asterix-algebra/src/main/java/org/apache/asterix/optimizer/base/AsterixOptimizationContext.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "d573b52da260d7ddda1e43137259788aba75d4dc",
+        "FileName": "APIFramework.java",
+        "Path": "asterixdb/asterix-app/src/main/java/org/apache/asterix/api/common/APIFramework.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 12,
+        "Deletions": 22,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "1cdf6f76fcde7bfc13cb3a3ead2896b6ed35eb0d",
+        "FileName": "AsterixJavaClient.java",
+        "Path": "asterixdb/asterix-app/src/main/java/org/apache/asterix/api/java/AsterixJavaClient.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "866391875a26bb71b34a09c1703b3c2bf00cdb53",
+        "FileName": "JsonLogicalPlanTest.java",
+        "Path": "asterixdb/asterix-app/src/test/java/org/apache/asterix/test/jsonplan/JsonLogicalPlanTest.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 16,
+        "Deletions": 5,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "ab68701520c53170ad750dee57100fd92f33e7e3",
+        "FileName": "HeuristicCompilerFactoryBuilder.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-compiler/src/main/java/org/apache/hyracks/algebricks/compiler/api/HeuristicCompilerFactoryBuilder.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 4,
+        "Deletions": 3,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "35acfb8c36e1fe9db2cd3703ac6f2fc9903a1a18",
+        "FileName": "pom.xml",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/pom.xml",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "726a5dfb7ac7c0e0f6fddfe19660818dc949f07d",
+        "FileName": "IOptimizationContext.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/algebra/base/IOptimizationContext.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "f77d9db6e4abd71a7b89a8d1db5815eb1e345b35",
+        "FileName": "IntersectOperator.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/algebra/operators/logical/IntersectOperator.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "b5b01a0b455f5c62445c3c159f8f6e80eab76c11",
+        "FileName": "ALogicalPlanImpl.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/algebra/plan/ALogicalPlanImpl.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 3,
+        "Deletions": 6,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "9164e6dd9c1b87c8f59326ea730f25bc9ff5aed2",
+        "FileName": "AbstractLogicalOperatorPrettyPrintVisitor.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/algebra/prettyprint/AbstractLogicalOperatorPrettyPrintVisitor.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 18,
+        "Deletions": 44,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "2444ce8460caccb5aac84faeb6589d2982528df7",
+        "FileName": "AlgebricksStringBuilderWriter.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/algebra/prettyprint/AlgebricksStringBuilderWriter.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 58,
+        "Deletions": 0,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "922e0ee87264ef136649d2cd5cc73902e70a701c",
+        "FileName": "IPlanPrettyPrinter.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/algebra/prettyprint/IPlanPrettyPrinter.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 41,
+        "Deletions": 0,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "6794c64de4654f833a7adaa4a9aaf336f7e0cbf7",
+        "FileName": "LogicalExpressionPrettyPrintVisitor.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/algebra/prettyprint/LogicalExpressionPrettyPrintVisitor.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 7,
+        "Deletions": 8,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "52c7e2a0644e27b5671c21e318cf060b0961cfa2",
+        "FileName": "LogicalOperatorPrettyPrintVisitor.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/algebra/prettyprint/LogicalOperatorPrettyPrintVisitor.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 40,
+        "Deletions": 31,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "6422302f73a87844c4b4960129df49298de43b14",
+        "FileName": "LogicalOperatorPrettyPrintVisitorJson.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/algebra/prettyprint/LogicalOperatorPrettyPrintVisitorJson.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 645,
+        "Deletions": 586,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "9b3a6d821a4a1d5ebe4eb7fd2bc7c390bab3247f",
+        "FileName": "PlanPrettyPrinter.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/algebra/prettyprint/PlanPrettyPrinter.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 8,
+        "Deletions": 8,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "96e15daafc556210b3e1192ec266a00015e12471",
+        "FileName": "AbstractRuleController.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/rewriter/base/AbstractRuleController.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 3,
+        "Deletions": 7,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "0fa002362f0104d46d826c1c52f9e2dfdecf5a0f",
+        "FileName": "AlgebricksOptimizationContext.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/rewriter/base/AlgebricksOptimizationContext.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "25d53b0e412a5489a768c254d436483e4b0d0d53",
+        "FileName": "HeuristicOptimizer.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/rewriter/base/HeuristicOptimizer.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 2,
+        "Deletions": 8,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "9236545e054aebf56b0c171941afd5948c518762",
+        "FileName": "EnforceStructuralPropertiesRule.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-rewriter/src/main/java/org/apache/hyracks/algebricks/rewriter/rules/EnforceStructuralPropertiesRule.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 6,
+        "Deletions": 9,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "5716262ba5fbe7f2d956a79f976a2e4d6112594b",
+        "FileName": "ErrorCode.java",
+        "Path": "hyracks-fullstack/hyracks/hyracks-api/src/main/java/org/apache/hyracks/api/exceptions/ErrorCode.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "fcbb6bb3d9d6239c192ebe6b1970fe2942c2c85c",
+        "FileName": "en.properties",
+        "Path": "hyracks-fullstack/hyracks/hyracks-api/src/main/resources/errormsg/en.properties",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "5f048be5375c80c858a48e7e1280c01d18ea4387",
+        "Author": {
+          "name": "\"Ali Alsuliman\""
+        },
+        "Commitor": {
+          "name": "\"Ali Alsuliman\""
+        },
+        "Date": "2019-09-24T22:55:53Z",
+        "additions": 900,
+        "deletions": 749,
+        "files": [
+          "20673eb9f8b70c2df1ae3c40b7219067e6dfb073",
+          "d573b52da260d7ddda1e43137259788aba75d4dc",
+          "1cdf6f76fcde7bfc13cb3a3ead2896b6ed35eb0d",
+          "866391875a26bb71b34a09c1703b3c2bf00cdb53",
+          "ab68701520c53170ad750dee57100fd92f33e7e3",
+          "35acfb8c36e1fe9db2cd3703ac6f2fc9903a1a18",
+          "726a5dfb7ac7c0e0f6fddfe19660818dc949f07d",
+          "f77d9db6e4abd71a7b89a8d1db5815eb1e345b35",
+          "b5b01a0b455f5c62445c3c159f8f6e80eab76c11",
+          "9164e6dd9c1b87c8f59326ea730f25bc9ff5aed2",
+          "2444ce8460caccb5aac84faeb6589d2982528df7",
+          "922e0ee87264ef136649d2cd5cc73902e70a701c",
+          "6794c64de4654f833a7adaa4a9aaf336f7e0cbf7",
+          "52c7e2a0644e27b5671c21e318cf060b0961cfa2",
+          "6422302f73a87844c4b4960129df49298de43b14",
+          "9b3a6d821a4a1d5ebe4eb7fd2bc7c390bab3247f",
+          "96e15daafc556210b3e1192ec266a00015e12471",
+          "0fa002362f0104d46d826c1c52f9e2dfdecf5a0f",
+          "25d53b0e412a5489a768c254d436483e4b0d0d53",
+          "9236545e054aebf56b0c171941afd5948c518762",
+          "5716262ba5fbe7f2d956a79f976a2e4d6112594b",
+          "fcbb6bb3d9d6239c192ebe6b1970fe2942c2c85c"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "asterixdb",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T22:47:04Z",
+    "EndDate": "2019-09-24T23:47:04",
+    "Branches": 11,
+    "Forks": 90,
+    "Files": [
+      {
+        "Sha": "20673eb9f8b70c2df1ae3c40b7219067e6dfb073",
+        "FileName": "AsterixOptimizationContext.java",
+        "Path": "asterixdb/asterix-algebra/src/main/java/org/apache/asterix/optimizer/base/AsterixOptimizationContext.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "d573b52da260d7ddda1e43137259788aba75d4dc",
+        "FileName": "APIFramework.java",
+        "Path": "asterixdb/asterix-app/src/main/java/org/apache/asterix/api/common/APIFramework.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 12,
+        "Deletions": 22,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "1cdf6f76fcde7bfc13cb3a3ead2896b6ed35eb0d",
+        "FileName": "AsterixJavaClient.java",
+        "Path": "asterixdb/asterix-app/src/main/java/org/apache/asterix/api/java/AsterixJavaClient.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "866391875a26bb71b34a09c1703b3c2bf00cdb53",
+        "FileName": "JsonLogicalPlanTest.java",
+        "Path": "asterixdb/asterix-app/src/test/java/org/apache/asterix/test/jsonplan/JsonLogicalPlanTest.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 16,
+        "Deletions": 5,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "ab68701520c53170ad750dee57100fd92f33e7e3",
+        "FileName": "HeuristicCompilerFactoryBuilder.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-compiler/src/main/java/org/apache/hyracks/algebricks/compiler/api/HeuristicCompilerFactoryBuilder.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 4,
+        "Deletions": 3,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "35acfb8c36e1fe9db2cd3703ac6f2fc9903a1a18",
+        "FileName": "pom.xml",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/pom.xml",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "726a5dfb7ac7c0e0f6fddfe19660818dc949f07d",
+        "FileName": "IOptimizationContext.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/algebra/base/IOptimizationContext.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "f77d9db6e4abd71a7b89a8d1db5815eb1e345b35",
+        "FileName": "IntersectOperator.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/algebra/operators/logical/IntersectOperator.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "b5b01a0b455f5c62445c3c159f8f6e80eab76c11",
+        "FileName": "ALogicalPlanImpl.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/algebra/plan/ALogicalPlanImpl.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 3,
+        "Deletions": 6,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "9164e6dd9c1b87c8f59326ea730f25bc9ff5aed2",
+        "FileName": "AbstractLogicalOperatorPrettyPrintVisitor.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/algebra/prettyprint/AbstractLogicalOperatorPrettyPrintVisitor.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 18,
+        "Deletions": 44,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "2444ce8460caccb5aac84faeb6589d2982528df7",
+        "FileName": "AlgebricksStringBuilderWriter.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/algebra/prettyprint/AlgebricksStringBuilderWriter.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 58,
+        "Deletions": 0,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "922e0ee87264ef136649d2cd5cc73902e70a701c",
+        "FileName": "IPlanPrettyPrinter.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/algebra/prettyprint/IPlanPrettyPrinter.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 41,
+        "Deletions": 0,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "6794c64de4654f833a7adaa4a9aaf336f7e0cbf7",
+        "FileName": "LogicalExpressionPrettyPrintVisitor.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/algebra/prettyprint/LogicalExpressionPrettyPrintVisitor.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 7,
+        "Deletions": 8,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "52c7e2a0644e27b5671c21e318cf060b0961cfa2",
+        "FileName": "LogicalOperatorPrettyPrintVisitor.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/algebra/prettyprint/LogicalOperatorPrettyPrintVisitor.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 40,
+        "Deletions": 31,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "6422302f73a87844c4b4960129df49298de43b14",
+        "FileName": "LogicalOperatorPrettyPrintVisitorJson.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/algebra/prettyprint/LogicalOperatorPrettyPrintVisitorJson.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 645,
+        "Deletions": 586,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "9b3a6d821a4a1d5ebe4eb7fd2bc7c390bab3247f",
+        "FileName": "PlanPrettyPrinter.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/algebra/prettyprint/PlanPrettyPrinter.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 8,
+        "Deletions": 8,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "96e15daafc556210b3e1192ec266a00015e12471",
+        "FileName": "AbstractRuleController.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/rewriter/base/AbstractRuleController.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 3,
+        "Deletions": 7,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "0fa002362f0104d46d826c1c52f9e2dfdecf5a0f",
+        "FileName": "AlgebricksOptimizationContext.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/rewriter/base/AlgebricksOptimizationContext.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "25d53b0e412a5489a768c254d436483e4b0d0d53",
+        "FileName": "HeuristicOptimizer.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-core/src/main/java/org/apache/hyracks/algebricks/core/rewriter/base/HeuristicOptimizer.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 2,
+        "Deletions": 8,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "9236545e054aebf56b0c171941afd5948c518762",
+        "FileName": "EnforceStructuralPropertiesRule.java",
+        "Path": "hyracks-fullstack/algebricks/algebricks-rewriter/src/main/java/org/apache/hyracks/algebricks/rewriter/rules/EnforceStructuralPropertiesRule.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 6,
+        "Deletions": 9,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "5716262ba5fbe7f2d956a79f976a2e4d6112594b",
+        "FileName": "ErrorCode.java",
+        "Path": "hyracks-fullstack/hyracks/hyracks-api/src/main/java/org/apache/hyracks/api/exceptions/ErrorCode.java",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      },
+      {
+        "Sha": "fcbb6bb3d9d6239c192ebe6b1970fe2942c2c85c",
+        "FileName": "en.properties",
+        "Path": "hyracks-fullstack/hyracks/hyracks-api/src/main/resources/errormsg/en.properties",
+        "DateUpdated": "2019-09-24T22:55:53Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "5f048be5375c80c858a48e7e1280c01d18ea4387"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "5f048be5375c80c858a48e7e1280c01d18ea4387",
+        "Author": {
+          "name": "\"Ali Alsuliman\""
+        },
+        "Commitor": {
+          "name": "\"Ali Alsuliman\""
+        },
+        "Date": "2019-09-24T22:55:53Z",
+        "additions": 900,
+        "deletions": 749,
+        "files": [
+          "20673eb9f8b70c2df1ae3c40b7219067e6dfb073",
+          "d573b52da260d7ddda1e43137259788aba75d4dc",
+          "1cdf6f76fcde7bfc13cb3a3ead2896b6ed35eb0d",
+          "866391875a26bb71b34a09c1703b3c2bf00cdb53",
+          "ab68701520c53170ad750dee57100fd92f33e7e3",
+          "35acfb8c36e1fe9db2cd3703ac6f2fc9903a1a18",
+          "726a5dfb7ac7c0e0f6fddfe19660818dc949f07d",
+          "f77d9db6e4abd71a7b89a8d1db5815eb1e345b35",
+          "b5b01a0b455f5c62445c3c159f8f6e80eab76c11",
+          "9164e6dd9c1b87c8f59326ea730f25bc9ff5aed2",
+          "2444ce8460caccb5aac84faeb6589d2982528df7",
+          "922e0ee87264ef136649d2cd5cc73902e70a701c",
+          "6794c64de4654f833a7adaa4a9aaf336f7e0cbf7",
+          "52c7e2a0644e27b5671c21e318cf060b0961cfa2",
+          "6422302f73a87844c4b4960129df49298de43b14",
+          "9b3a6d821a4a1d5ebe4eb7fd2bc7c390bab3247f",
+          "96e15daafc556210b3e1192ec266a00015e12471",
+          "0fa002362f0104d46d826c1c52f9e2dfdecf5a0f",
+          "25d53b0e412a5489a768c254d436483e4b0d0d53",
+          "9236545e054aebf56b0c171941afd5948c518762",
+          "5716262ba5fbe7f2d956a79f976a2e4d6112594b",
+          "fcbb6bb3d9d6239c192ebe6b1970fe2942c2c85c"
+        ]
+      }
+    ]
+  }
+]

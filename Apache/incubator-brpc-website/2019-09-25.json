@@ -1,0 +1,178 @@
+[
+  {
+    "RepositoryName": "incubator-brpc-website",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T00:48:26Z",
+    "EndDate": "2019-09-25T01:48:26",
+    "Branches": 2,
+    "Forks": 1,
+    "Files": [
+      {
+        "Sha": "8456c452b2ffacf28bcbf5f956e4af1e60b52203",
+        "FileName": ".asf.yaml",
+        "Path": ".asf.yaml",
+        "DateUpdated": "2019-09-25T01:42:06Z",
+        "Additions": 1,
+        "Deletions": 8,
+        "Commits": [
+          "b0c5c6112faf464113a052a448ed54bcf19f19a2",
+          "dcdcc1ccc0ede5ef1b3e4acebf3d4888eb697ef1",
+          "bdfc711b981280f1ded99a9b763c5317464a7f3e",
+          "1a0831dfffc5536e5110e3d9fab6dc4b92a5eed4"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "b0c5c6112faf464113a052a448ed54bcf19f19a2",
+        "Author": {
+          "name": "\"tanzhongyi\"",
+          "location": "beijing,china",
+          "company": "baidu.com"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T01:42:06Z",
+        "additions": 0,
+        "deletions": 3,
+        "files": [
+          "8456c452b2ffacf28bcbf5f956e4af1e60b52203"
+        ]
+      },
+      {
+        "sha": "dcdcc1ccc0ede5ef1b3e4acebf3d4888eb697ef1",
+        "Author": {
+          "name": "\"tanzhongyi\"",
+          "location": "beijing,china",
+          "company": "baidu.com"
+        },
+        "Commitor": {
+          "name": "\"tanzhongyi\"",
+          "location": "beijing,china",
+          "company": "baidu.com"
+        },
+        "Date": "2019-09-25T01:40:40Z",
+        "additions": 0,
+        "deletions": 3,
+        "files": [
+          "8456c452b2ffacf28bcbf5f956e4af1e60b52203"
+        ]
+      },
+      {
+        "sha": "bdfc711b981280f1ded99a9b763c5317464a7f3e",
+        "Author": {
+          "name": "\"tanzhongyi\"",
+          "location": "beijing,china",
+          "company": "baidu.com"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T01:05:47Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "8456c452b2ffacf28bcbf5f956e4af1e60b52203"
+        ]
+      },
+      {
+        "sha": "1a0831dfffc5536e5110e3d9fab6dc4b92a5eed4",
+        "Author": {
+          "name": "\"tanzhongyi\"",
+          "location": "beijing,china",
+          "company": "baidu.com"
+        },
+        "Commitor": {
+          "name": "\"tanzhongyi\"",
+          "location": "beijing,china",
+          "company": "baidu.com"
+        },
+        "Date": "2019-09-25T00:53:52Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "8456c452b2ffacf28bcbf5f956e4af1e60b52203"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-brpc-website",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T01:05:06Z",
+    "EndDate": "2019-09-25T02:05:06",
+    "Branches": 2,
+    "Forks": 2,
+    "Files": [
+      {
+        "Sha": "8456c452b2ffacf28bcbf5f956e4af1e60b52203",
+        "FileName": ".asf.yaml",
+        "Path": ".asf.yaml",
+        "DateUpdated": "2019-09-25T01:42:06Z",
+        "Additions": 1,
+        "Deletions": 7,
+        "Commits": [
+          "b0c5c6112faf464113a052a448ed54bcf19f19a2",
+          "dcdcc1ccc0ede5ef1b3e4acebf3d4888eb697ef1",
+          "bdfc711b981280f1ded99a9b763c5317464a7f3e"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "b0c5c6112faf464113a052a448ed54bcf19f19a2",
+        "Author": {
+          "name": "\"tanzhongyi\"",
+          "location": "beijing,china",
+          "company": "baidu.com"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T01:42:06Z",
+        "additions": 0,
+        "deletions": 3,
+        "files": [
+          "8456c452b2ffacf28bcbf5f956e4af1e60b52203"
+        ]
+      },
+      {
+        "sha": "dcdcc1ccc0ede5ef1b3e4acebf3d4888eb697ef1",
+        "Author": {
+          "name": "\"tanzhongyi\"",
+          "location": "beijing,china",
+          "company": "baidu.com"
+        },
+        "Commitor": {
+          "name": "\"tanzhongyi\"",
+          "location": "beijing,china",
+          "company": "baidu.com"
+        },
+        "Date": "2019-09-25T01:40:40Z",
+        "additions": 0,
+        "deletions": 3,
+        "files": [
+          "8456c452b2ffacf28bcbf5f956e4af1e60b52203"
+        ]
+      },
+      {
+        "sha": "bdfc711b981280f1ded99a9b763c5317464a7f3e",
+        "Author": {
+          "name": "\"tanzhongyi\"",
+          "location": "beijing,china",
+          "company": "baidu.com"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T01:05:47Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "8456c452b2ffacf28bcbf5f956e4af1e60b52203"
+        ]
+      }
+    ]
+  }
+]

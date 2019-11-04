@@ -1,0 +1,66 @@
+[
+  {
+    "RepositoryName": "trafficserver",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T23:02:21Z",
+    "EndDate": "2019-09-26T00:02:21",
+    "Branches": 37,
+    "Forks": 600,
+    "Files": [
+      {
+        "Sha": "034b556cec3a33f79761011f915bc8d706bb5d0b",
+        "FileName": "client_context_dump.cc",
+        "Path": "example/plugins/c-api/client_context_dump/client_context_dump.cc",
+        "DateUpdated": "2019-09-25T23:06:13Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "6c0eb634b5082532b52272a8d3d7e7905f74d00c"
+        ]
+      },
+      {
+        "Sha": "0dae517ff7b7756200fd19cb8c638f9b478fd3ea",
+        "FileName": "P_SSLNetVConnection.h",
+        "Path": "iocore/net/P_SSLNetVConnection.h",
+        "DateUpdated": "2019-09-25T23:06:13Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "6c0eb634b5082532b52272a8d3d7e7905f74d00c"
+        ]
+      },
+      {
+        "Sha": "fd6ab40b5d94415d5fc2a870685292624c5d65d0",
+        "FileName": "cert_reporting_tool.cc",
+        "Path": "plugins/experimental/cert_reporting_tool/cert_reporting_tool.cc",
+        "DateUpdated": "2019-09-25T23:06:13Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "6c0eb634b5082532b52272a8d3d7e7905f74d00c"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "6c0eb634b5082532b52272a8d3d7e7905f74d00c",
+        "Author": {
+          "name": "\"Masakazu Kitajo\"",
+          "location": "Tokyo, Japan"
+        },
+        "Commitor": {
+          "name": "\"Masakazu Kitajo\"",
+          "location": "Tokyo, Japan"
+        },
+        "Date": "2019-09-25T23:06:13Z",
+        "additions": 10,
+        "deletions": 2,
+        "files": [
+          "034b556cec3a33f79761011f915bc8d706bb5d0b",
+          "0dae517ff7b7756200fd19cb8c638f9b478fd3ea",
+          "fd6ab40b5d94415d5fc2a870685292624c5d65d0"
+        ]
+      }
+    ]
+  }
+]

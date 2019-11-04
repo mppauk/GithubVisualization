@@ -1,0 +1,312 @@
+[
+  {
+    "RepositoryName": "incubator-mxnet",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T00:04:09Z",
+    "EndDate": "2019-09-26T01:04:09",
+    "Branches": 25,
+    "Forks": 6329,
+    "Files": [
+      {
+        "Sha": "14ec59f53f72f73aaa3a3a51a01d28a5def64b1f",
+        "FileName": "c_api.cc",
+        "Path": "src/c_api/c_api.cc",
+        "DateUpdated": "2019-09-26T00:50:31Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "1a2da12fa6c4b93c264611c99f9535079c845251"
+        ]
+      },
+      {
+        "Sha": "02a7368cce9780a18fd5f7a67c1c62d134b15555",
+        "FileName": "mkldnn_deconvolution.cc",
+        "Path": "src/operator/nn/mkldnn/mkldnn_deconvolution.cc",
+        "DateUpdated": "2019-09-26T00:50:31Z",
+        "Additions": 7,
+        "Deletions": 4,
+        "Commits": [
+          "1a2da12fa6c4b93c264611c99f9535079c845251"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "1a2da12fa6c4b93c264611c99f9535079c845251",
+        "Author": {
+          "name": "\"Tao Lv\"",
+          "location": "Shanghai, China",
+          "company": "Intel"
+        },
+        "Commitor": {
+          "name": "\"PatricZhao\"",
+          "location": "shanghai",
+          "company": "Intel "
+        },
+        "Date": "2019-09-26T00:50:31Z",
+        "additions": 14,
+        "deletions": 4,
+        "files": [
+          "14ec59f53f72f73aaa3a3a51a01d28a5def64b1f",
+          "02a7368cce9780a18fd5f7a67c1c62d134b15555"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-mxnet",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T07:03:42Z",
+    "EndDate": "2019-09-26T08:03:42",
+    "Branches": 25,
+    "Forks": 6331,
+    "Files": [
+      {
+        "Sha": "e8332f1a83efdf8b92dc7acebdeb83ec41ea94b8",
+        "FileName": "_op.py",
+        "Path": "python/mxnet/ndarray/numpy/_op.py",
+        "DateUpdated": "2019-09-26T07:21:24Z",
+        "Additions": 204,
+        "Deletions": 3,
+        "Commits": [
+          "c5007ea01ad1b88e43cc669385a4a76b7020ce94"
+        ]
+      },
+      {
+        "Sha": "7ba0f0d7d813d873e2ceb732980eaba8050789bd",
+        "FileName": "multiarray.py",
+        "Path": "python/mxnet/numpy/multiarray.py",
+        "DateUpdated": "2019-09-26T07:21:24Z",
+        "Additions": 194,
+        "Deletions": 6,
+        "Commits": [
+          "c5007ea01ad1b88e43cc669385a4a76b7020ce94"
+        ]
+      },
+      {
+        "Sha": "9c055c401b315a282a3e7a94236bd24cd1e18103",
+        "FileName": "_symbol.py",
+        "Path": "python/mxnet/symbol/numpy/_symbol.py",
+        "DateUpdated": "2019-09-26T07:21:24Z",
+        "Additions": 163,
+        "Deletions": 5,
+        "Commits": [
+          "c5007ea01ad1b88e43cc669385a4a76b7020ce94"
+        ]
+      },
+      {
+        "Sha": "dc83a4b1f87fc8477317cf4dffba6bcd55de1356",
+        "FileName": "elemwise_op_common.h",
+        "Path": "src/operator/elemwise_op_common.h",
+        "DateUpdated": "2019-09-26T07:21:24Z",
+        "Additions": 19,
+        "Deletions": 0,
+        "Commits": [
+          "c5007ea01ad1b88e43cc669385a4a76b7020ce94"
+        ]
+      },
+      {
+        "Sha": "92655c146193bf62619bfb0ed55b1080ed79f4d6",
+        "FileName": "mshadow_op.h",
+        "Path": "src/operator/mshadow_op.h",
+        "DateUpdated": "2019-09-26T07:21:24Z",
+        "Additions": 43,
+        "Deletions": 0,
+        "Commits": [
+          "c5007ea01ad1b88e43cc669385a4a76b7020ce94"
+        ]
+      },
+      {
+        "Sha": "a786d1db5892e269435cdb204c387c4d628c794a",
+        "FileName": "np_elemwise_broadcast_op.cc",
+        "Path": "src/operator/numpy/np_elemwise_broadcast_op.cc",
+        "DateUpdated": "2019-09-26T07:21:24Z",
+        "Additions": 33,
+        "Deletions": 0,
+        "Commits": [
+          "c5007ea01ad1b88e43cc669385a4a76b7020ce94"
+        ]
+      },
+      {
+        "Sha": "806debf431b59d0e87a5deced2b8aaaf5a3c350b",
+        "FileName": "np_elemwise_broadcast_op.cu",
+        "Path": "src/operator/numpy/np_elemwise_broadcast_op.cu",
+        "DateUpdated": "2019-09-26T07:21:24Z",
+        "Additions": 6,
+        "Deletions": 0,
+        "Commits": [
+          "c5007ea01ad1b88e43cc669385a4a76b7020ce94"
+        ]
+      },
+      {
+        "Sha": "2477573c241323ea923bb9d6fd3b877e8eb67e24",
+        "FileName": "np_init_op.cc",
+        "Path": "src/operator/numpy/np_init_op.cc",
+        "DateUpdated": "2019-09-26T07:21:24Z",
+        "Additions": 10,
+        "Deletions": 0,
+        "Commits": [
+          "c5007ea01ad1b88e43cc669385a4a76b7020ce94"
+        ]
+      },
+      {
+        "Sha": "e68dd9ad36a1506593bea6533ffe15c490724611",
+        "FileName": "np_init_op.cu",
+        "Path": "src/operator/numpy/np_init_op.cu",
+        "DateUpdated": "2019-09-26T07:21:24Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "c5007ea01ad1b88e43cc669385a4a76b7020ce94"
+        ]
+      },
+      {
+        "Sha": "3e1c345d59c344a96d56df2637d046ab5de5384c",
+        "FileName": "np_init_op.h",
+        "Path": "src/operator/numpy/np_init_op.h",
+        "DateUpdated": "2019-09-26T07:21:24Z",
+        "Additions": 40,
+        "Deletions": 1,
+        "Commits": [
+          "c5007ea01ad1b88e43cc669385a4a76b7020ce94"
+        ]
+      },
+      {
+        "Sha": "1ad74e887b6cad2d8cb0459f2d0881a2c7933e53",
+        "FileName": "np_tril_op-inl.h",
+        "Path": "src/operator/numpy/np_tril_op-inl.h",
+        "DateUpdated": "2019-09-26T07:21:24Z",
+        "Additions": 233,
+        "Deletions": 0,
+        "Commits": [
+          "c5007ea01ad1b88e43cc669385a4a76b7020ce94"
+        ]
+      },
+      {
+        "Sha": "5c4b339b77688a7f0ce73dade4b1e48ead0ae6f9",
+        "FileName": "np_tril_op.cc",
+        "Path": "src/operator/numpy/np_tril_op.cc",
+        "DateUpdated": "2019-09-26T07:21:24Z",
+        "Additions": 61,
+        "Deletions": 0,
+        "Commits": [
+          "c5007ea01ad1b88e43cc669385a4a76b7020ce94"
+        ]
+      },
+      {
+        "Sha": "64613b505dedec4bca13a749da0744353cf9adc5",
+        "FileName": "np_tril_op.cu",
+        "Path": "src/operator/numpy/np_tril_op.cu",
+        "DateUpdated": "2019-09-26T07:21:24Z",
+        "Additions": 38,
+        "Deletions": 0,
+        "Commits": [
+          "c5007ea01ad1b88e43cc669385a4a76b7020ce94"
+        ]
+      },
+      {
+        "Sha": "b81cd78ad5071d65874099b7742e4ef740c7d900",
+        "FileName": "operator_tune.cc",
+        "Path": "src/operator/operator_tune.cc",
+        "DateUpdated": "2019-09-26T07:21:24Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "c5007ea01ad1b88e43cc669385a4a76b7020ce94"
+        ]
+      },
+      {
+        "Sha": "9961218b5482dfb249bdb3e4f96128902dae38ab",
+        "FileName": "indexing_op.cc",
+        "Path": "src/operator/tensor/indexing_op.cc",
+        "DateUpdated": "2019-09-26T07:21:24Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "c5007ea01ad1b88e43cc669385a4a76b7020ce94"
+        ]
+      },
+      {
+        "Sha": "77d85d8e1e1057d683a717ee22ed4da268c82b49",
+        "FileName": "indexing_op.cu",
+        "Path": "src/operator/tensor/indexing_op.cu",
+        "DateUpdated": "2019-09-26T07:21:24Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "c5007ea01ad1b88e43cc669385a4a76b7020ce94"
+        ]
+      },
+      {
+        "Sha": "16520ddbb242d86bea06c06e91e3b448dedd6c96",
+        "FileName": "indexing_op.h",
+        "Path": "src/operator/tensor/indexing_op.h",
+        "DateUpdated": "2019-09-26T07:21:24Z",
+        "Additions": 7,
+        "Deletions": 3,
+        "Commits": [
+          "c5007ea01ad1b88e43cc669385a4a76b7020ce94"
+        ]
+      },
+      {
+        "Sha": "3a5e72b53d582de2f26f70f05b6a3d1951c77365",
+        "FileName": "test_numpy_ndarray.py",
+        "Path": "tests/python/unittest/test_numpy_ndarray.py",
+        "DateUpdated": "2019-09-26T07:21:24Z",
+        "Additions": 45,
+        "Deletions": 0,
+        "Commits": [
+          "c5007ea01ad1b88e43cc669385a4a76b7020ce94"
+        ]
+      },
+      {
+        "Sha": "7e3d9655f771c72685d87c0d3437f808848b8ca1",
+        "FileName": "test_numpy_op.py",
+        "Path": "tests/python/unittest/test_numpy_op.py",
+        "DateUpdated": "2019-09-26T07:21:24Z",
+        "Additions": 210,
+        "Deletions": 0,
+        "Commits": [
+          "c5007ea01ad1b88e43cc669385a4a76b7020ce94"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c5007ea01ad1b88e43cc669385a4a76b7020ce94",
+        "Author": {
+          "name": "\"Huang, Guangtai\"",
+          "location": "Shanghai",
+          "company": "SUSTech"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-26T07:21:24Z",
+        "additions": 1318,
+        "deletions": 18,
+        "files": [
+          "e8332f1a83efdf8b92dc7acebdeb83ec41ea94b8",
+          "7ba0f0d7d813d873e2ceb732980eaba8050789bd",
+          "9c055c401b315a282a3e7a94236bd24cd1e18103",
+          "dc83a4b1f87fc8477317cf4dffba6bcd55de1356",
+          "92655c146193bf62619bfb0ed55b1080ed79f4d6",
+          "a786d1db5892e269435cdb204c387c4d628c794a",
+          "806debf431b59d0e87a5deced2b8aaaf5a3c350b",
+          "2477573c241323ea923bb9d6fd3b877e8eb67e24",
+          "e68dd9ad36a1506593bea6533ffe15c490724611",
+          "3e1c345d59c344a96d56df2637d046ab5de5384c",
+          "1ad74e887b6cad2d8cb0459f2d0881a2c7933e53",
+          "5c4b339b77688a7f0ce73dade4b1e48ead0ae6f9",
+          "64613b505dedec4bca13a749da0744353cf9adc5",
+          "b81cd78ad5071d65874099b7742e4ef740c7d900",
+          "9961218b5482dfb249bdb3e4f96128902dae38ab",
+          "77d85d8e1e1057d683a717ee22ed4da268c82b49",
+          "16520ddbb242d86bea06c06e91e3b448dedd6c96",
+          "3a5e72b53d582de2f26f70f05b6a3d1951c77365",
+          "7e3d9655f771c72685d87c0d3437f808848b8ca1"
+        ]
+      }
+    ]
+  }
+]

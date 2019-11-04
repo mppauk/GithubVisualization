@@ -1,0 +1,66 @@
+[
+  {
+    "RepositoryName": "dubbo",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T12:02:49Z",
+    "EndDate": "2019-09-26T13:02:49",
+    "Branches": 10,
+    "Forks": 19220,
+    "Files": [
+      {
+        "Sha": "eb0042ba36e14578f25f974a531adf9261618bca",
+        "FileName": "URL.java",
+        "Path": "dubbo-common/src/main/java/org/apache/dubbo/common/URL.java",
+        "DateUpdated": "2019-09-26T12:16:29Z",
+        "Additions": 14,
+        "Deletions": 34,
+        "Commits": [
+          "4e101490b227052aefaafffbc247d3826297d2b5"
+        ]
+      },
+      {
+        "Sha": "4709bc17b978323eb6d89d4e2e2ef5cd7724c39b",
+        "FileName": "URLBuilder.java",
+        "Path": "dubbo-common/src/main/java/org/apache/dubbo/common/URLBuilder.java",
+        "DateUpdated": "2019-09-26T12:16:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "4e101490b227052aefaafffbc247d3826297d2b5"
+        ]
+      },
+      {
+        "Sha": "581869c5471b609f09a51631c2175e45253e2155",
+        "FileName": "Version.java",
+        "Path": "dubbo-common/src/main/java/org/apache/dubbo/common/Version.java",
+        "DateUpdated": "2019-09-26T12:16:29Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "4e101490b227052aefaafffbc247d3826297d2b5"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "4e101490b227052aefaafffbc247d3826297d2b5",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"kimmking\"",
+          "location": "Peking",
+          "company": "http://kimmking.github.io"
+        },
+        "Date": "2019-09-26T12:16:29Z",
+        "additions": 18,
+        "deletions": 38,
+        "files": [
+          "eb0042ba36e14578f25f974a531adf9261618bca",
+          "4709bc17b978323eb6d89d4e2e2ef5cd7724c39b",
+          "581869c5471b609f09a51631c2175e45253e2155"
+        ]
+      }
+    ]
+  }
+]

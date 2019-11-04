@@ -1,0 +1,40 @@
+[
+  {
+    "RepositoryName": "infrastructure-puppet",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T02:02:58Z",
+    "EndDate": "2019-09-26T03:02:58",
+    "Branches": 351,
+    "Forks": 124,
+    "Files": [
+      {
+        "Sha": "1880da7e1e9b37177f46bebf8986c05104451f63",
+        "FileName": "loggy.py",
+        "Path": "modules/loggy/files/loggy.py",
+        "DateUpdated": "2019-09-26T02:16:38Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "af8cb6974fab4b3a608bcd5d47d8643f83f765a3"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "af8cb6974fab4b3a608bcd5d47d8643f83f765a3",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T02:16:38Z",
+        "additions": 2,
+        "deletions": 1,
+        "files": [
+          "1880da7e1e9b37177f46bebf8986c05104451f63"
+        ]
+      }
+    ]
+  }
+]

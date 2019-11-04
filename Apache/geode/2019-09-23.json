@@ -1,0 +1,64 @@
+[
+  {
+    "RepositoryName": "geode",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T15:03:04Z",
+    "EndDate": "2019-09-23T16:03:04",
+    "Branches": 30,
+    "Forks": 539,
+    "Files": [
+      {
+        "Sha": "b3392b399e36803255a078d6311547d53e27faec",
+        "FileName": "ManagementLoggingFilter.java",
+        "Path": "geode-web-management/src/main/java/org/apache/geode/management/internal/rest/ManagementLoggingFilter.java",
+        "DateUpdated": "2019-09-23T15:43:28Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "14bdcc610d62cc24986592482bbde46cc83332dc"
+        ]
+      },
+      {
+        "Sha": "73ad7ecec547dd9d571cb84697d0b61a3cdfe75b",
+        "FileName": "ManagementControllerAdvice.java",
+        "Path": "geode-web-management/src/main/java/org/apache/geode/management/internal/rest/controllers/ManagementControllerAdvice.java",
+        "DateUpdated": "2019-09-23T15:43:28Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "14bdcc610d62cc24986592482bbde46cc83332dc"
+        ]
+      },
+      {
+        "Sha": "6c38d9c54c6bf6a4c65fefd9870cfa4cb687efc2",
+        "FileName": "MemberManagementController.java",
+        "Path": "geode-web-management/src/main/java/org/apache/geode/management/internal/rest/controllers/MemberManagementController.java",
+        "DateUpdated": "2019-09-23T15:43:28Z",
+        "Additions": 6,
+        "Deletions": 1,
+        "Commits": [
+          "14bdcc610d62cc24986592482bbde46cc83332dc"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "14bdcc610d62cc24986592482bbde46cc83332dc",
+        "Author": {
+          "name": "\"Jinmei Liao\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T15:43:28Z",
+        "additions": 11,
+        "deletions": 3,
+        "files": [
+          "b3392b399e36803255a078d6311547d53e27faec",
+          "73ad7ecec547dd9d571cb84697d0b61a3cdfe75b",
+          "6c38d9c54c6bf6a4c65fefd9870cfa4cb687efc2"
+        ]
+      }
+    ]
+  }
+]

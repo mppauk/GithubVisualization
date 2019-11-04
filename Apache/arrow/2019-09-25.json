@@ -1,0 +1,1237 @@
+[
+  {
+    "RepositoryName": "arrow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T01:47:27Z",
+    "EndDate": "2019-09-25T02:47:27",
+    "Branches": 6,
+    "Forks": 1127,
+    "Files": [
+      {
+        "Sha": "3333218cd4d2b187734e3e0e9a44f3d63221b756",
+        "FileName": "array.R",
+        "Path": "r/R/array.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "7ce881f90b08c6d1a7afa3b7a4be96e550454de4",
+        "FileName": "arrow-package.R",
+        "Path": "r/R/arrow-package.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 5,
+        "Deletions": 2,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "3bf72985bd9b5bc291fdc27b5871e65f5d2fb8b2",
+        "FileName": "chunked-array.R",
+        "Path": "r/R/chunked-array.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "6273ffc2c87ddb9fdbbd5913cc56f075b821e780",
+        "FileName": "dictionary.R",
+        "Path": "r/R/dictionary.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 21,
+        "Deletions": 10,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "152099c0d10a991339ab44abb132cc9d76893bdb",
+        "FileName": "field.R",
+        "Path": "r/R/field.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "3814a2a2b78c0bb63feac41f36dc0afa7168f411",
+        "FileName": "record-batch.R",
+        "Path": "r/R/record-batch.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 9,
+        "Deletions": 0,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "a2ee00c0ac63098635125ee111e37cb1c52576c6",
+        "FileName": "schema.R",
+        "Path": "r/R/schema.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "bd3f447c84eb4155207c2f579833f161ceef6b60",
+        "FileName": "table.R",
+        "Path": "r/R/table.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "1e130787c6897398bf835982baeede55acc25baf",
+        "FileName": "type.R",
+        "Path": "r/R/type.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 0,
+        "Deletions": 6,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "cb57d1ab992027c045a775f3bdadd75d746d67b5",
+        "FileName": "README.Rmd",
+        "Path": "r/README.Rmd",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 6,
+        "Deletions": 2,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "937f00d85afaeb08941e5e95f3c02fd2548afc06",
+        "FileName": "README.md",
+        "Path": "r/README.md",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 35,
+        "Deletions": 16,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "2716a173c78821525dd7b3b9419c4eef85844083",
+        "FileName": "dictionary.Rd",
+        "Path": "r/man/dictionary.Rd",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 5,
+        "Deletions": 4,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "016b137f04c065b1ec7c0b785b486b01ecc9b0e2",
+        "FileName": "test-Array.R",
+        "Path": "r/tests/testthat/test-Array.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 6,
+        "Deletions": 1,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "97b8f6948682acc13d213ae26ff8cd9373003523",
+        "FileName": "test-RecordBatch.R",
+        "Path": "r/tests/testthat/test-RecordBatch.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 21,
+        "Deletions": 4,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "d1b00ed40e90b0e270aa84b28833f85f167c0112",
+        "FileName": "test-Table.R",
+        "Path": "r/tests/testthat/test-Table.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "0e2a21ba5e6c426aba59e39682cc6fd62f60046d",
+        "FileName": "test-chunked-array.R",
+        "Path": "r/tests/testthat/test-chunked-array.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 51,
+        "Deletions": 2,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "5a408ed3f6cd1198857d0226e5af1cf660f5be97",
+        "FileName": "test-data-type.R",
+        "Path": "r/tests/testthat/test-data-type.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "8a4c88f46dd4c849ed7eeae5973a1707abd2dee8",
+        "FileName": "test-field.R",
+        "Path": "r/tests/testthat/test-field.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "b6bfab0fdbd5299459c1919abeeeec8da4f4316e",
+        "FileName": "test-type.R",
+        "Path": "r/tests/testthat/test-type.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 1,
+        "Deletions": 4,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a89c803ad86ad7e22890fe3b8314bb41eec7d5af",
+        "Author": {
+          "name": "\"Neal Richardson\"",
+          "location": "San Francisco, CA",
+          "company": "Ursa Labs/RStudio"
+        },
+        "Commitor": {
+          "name": "\"Neal Richardson\"",
+          "location": "San Francisco, CA",
+          "company": "Ursa Labs/RStudio"
+        },
+        "Date": "2019-09-25T02:07:46Z",
+        "additions": 209,
+        "deletions": 55,
+        "files": [
+          "3333218cd4d2b187734e3e0e9a44f3d63221b756",
+          "7ce881f90b08c6d1a7afa3b7a4be96e550454de4",
+          "3bf72985bd9b5bc291fdc27b5871e65f5d2fb8b2",
+          "6273ffc2c87ddb9fdbbd5913cc56f075b821e780",
+          "152099c0d10a991339ab44abb132cc9d76893bdb",
+          "3814a2a2b78c0bb63feac41f36dc0afa7168f411",
+          "a2ee00c0ac63098635125ee111e37cb1c52576c6",
+          "bd3f447c84eb4155207c2f579833f161ceef6b60",
+          "1e130787c6897398bf835982baeede55acc25baf",
+          "cb57d1ab992027c045a775f3bdadd75d746d67b5",
+          "937f00d85afaeb08941e5e95f3c02fd2548afc06",
+          "2716a173c78821525dd7b3b9419c4eef85844083",
+          "016b137f04c065b1ec7c0b785b486b01ecc9b0e2",
+          "97b8f6948682acc13d213ae26ff8cd9373003523",
+          "d1b00ed40e90b0e270aa84b28833f85f167c0112",
+          "0e2a21ba5e6c426aba59e39682cc6fd62f60046d",
+          "5a408ed3f6cd1198857d0226e5af1cf660f5be97",
+          "8a4c88f46dd4c849ed7eeae5973a1707abd2dee8",
+          "b6bfab0fdbd5299459c1919abeeeec8da4f4316e"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "arrow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T02:03:42Z",
+    "EndDate": "2019-09-25T03:03:42",
+    "Branches": 6,
+    "Forks": 1127,
+    "Files": [
+      {
+        "Sha": "66ab766ed7c2f840b56434631110e9be8b3fd46a",
+        "FileName": "array.cc",
+        "Path": "cpp/src/arrow/array.cc",
+        "DateUpdated": "2019-09-25T03:02:07Z",
+        "Additions": 9,
+        "Deletions": 1,
+        "Commits": [
+          "199d3cf9c8a149798d75c322fc3095459de31b3d"
+        ]
+      },
+      {
+        "Sha": "843138a55b5af07ccd4b02dd3f6b7fc56374c2e9",
+        "FileName": "array.pxi",
+        "Path": "python/pyarrow/array.pxi",
+        "DateUpdated": "2019-09-25T03:02:07Z",
+        "Additions": 15,
+        "Deletions": 5,
+        "Commits": [
+          "199d3cf9c8a149798d75c322fc3095459de31b3d"
+        ]
+      },
+      {
+        "Sha": "f4deb2418650dc6c4b6ffc1a7699a69777d63552",
+        "FileName": "test_array.py",
+        "Path": "python/pyarrow/tests/test_array.py",
+        "DateUpdated": "2019-09-25T03:02:07Z",
+        "Additions": 7,
+        "Deletions": 2,
+        "Commits": [
+          "199d3cf9c8a149798d75c322fc3095459de31b3d"
+        ]
+      },
+      {
+        "Sha": "bfb1e8e5d0b5375d2b3509a056a4be1725ad2ea4",
+        "FileName": "conftest.py",
+        "Path": "python/pyarrow/tests/conftest.py",
+        "DateUpdated": "2019-09-25T02:56:15Z",
+        "Additions": 5,
+        "Deletions": 13,
+        "Commits": [
+          "232cde05dcb30d768b321e213cda90600c02cfd7"
+        ]
+      },
+      {
+        "Sha": "7c75a2a830c4a3a36c93d29231e5b0778571a937",
+        "FileName": "test_array.py",
+        "Path": "python/pyarrow/tests/test_array.py",
+        "DateUpdated": "2019-09-25T02:56:15Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "232cde05dcb30d768b321e213cda90600c02cfd7"
+        ]
+      },
+      {
+        "Sha": "76148e7d8b2d39419425477624c5ca2d736a8f03",
+        "FileName": "test_io.py",
+        "Path": "python/pyarrow/tests/test_io.py",
+        "DateUpdated": "2019-09-25T02:56:15Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "232cde05dcb30d768b321e213cda90600c02cfd7"
+        ]
+      },
+      {
+        "Sha": "6aeed0a1892d57a98cb62845815b07390b9e7b99",
+        "FileName": "test_parquet.py",
+        "Path": "python/pyarrow/tests/test_parquet.py",
+        "DateUpdated": "2019-09-25T02:56:15Z",
+        "Additions": 2,
+        "Deletions": 4,
+        "Commits": [
+          "232cde05dcb30d768b321e213cda90600c02cfd7"
+        ]
+      },
+      {
+        "Sha": "5ba54d3277b5096b6d9e65635f96aa9a337abfbe",
+        "FileName": "test_serialization.py",
+        "Path": "python/pyarrow/tests/test_serialization.py",
+        "DateUpdated": "2019-09-25T02:56:15Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "232cde05dcb30d768b321e213cda90600c02cfd7"
+        ]
+      },
+      {
+        "Sha": "3333218cd4d2b187734e3e0e9a44f3d63221b756",
+        "FileName": "array.R",
+        "Path": "r/R/array.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "7ce881f90b08c6d1a7afa3b7a4be96e550454de4",
+        "FileName": "arrow-package.R",
+        "Path": "r/R/arrow-package.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 5,
+        "Deletions": 2,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "3bf72985bd9b5bc291fdc27b5871e65f5d2fb8b2",
+        "FileName": "chunked-array.R",
+        "Path": "r/R/chunked-array.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "6273ffc2c87ddb9fdbbd5913cc56f075b821e780",
+        "FileName": "dictionary.R",
+        "Path": "r/R/dictionary.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 21,
+        "Deletions": 10,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "152099c0d10a991339ab44abb132cc9d76893bdb",
+        "FileName": "field.R",
+        "Path": "r/R/field.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "3814a2a2b78c0bb63feac41f36dc0afa7168f411",
+        "FileName": "record-batch.R",
+        "Path": "r/R/record-batch.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 9,
+        "Deletions": 0,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "a2ee00c0ac63098635125ee111e37cb1c52576c6",
+        "FileName": "schema.R",
+        "Path": "r/R/schema.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "bd3f447c84eb4155207c2f579833f161ceef6b60",
+        "FileName": "table.R",
+        "Path": "r/R/table.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "1e130787c6897398bf835982baeede55acc25baf",
+        "FileName": "type.R",
+        "Path": "r/R/type.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 0,
+        "Deletions": 6,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "cb57d1ab992027c045a775f3bdadd75d746d67b5",
+        "FileName": "README.Rmd",
+        "Path": "r/README.Rmd",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 6,
+        "Deletions": 2,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "937f00d85afaeb08941e5e95f3c02fd2548afc06",
+        "FileName": "README.md",
+        "Path": "r/README.md",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 35,
+        "Deletions": 16,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "2716a173c78821525dd7b3b9419c4eef85844083",
+        "FileName": "dictionary.Rd",
+        "Path": "r/man/dictionary.Rd",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 5,
+        "Deletions": 4,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "016b137f04c065b1ec7c0b785b486b01ecc9b0e2",
+        "FileName": "test-Array.R",
+        "Path": "r/tests/testthat/test-Array.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 6,
+        "Deletions": 1,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "97b8f6948682acc13d213ae26ff8cd9373003523",
+        "FileName": "test-RecordBatch.R",
+        "Path": "r/tests/testthat/test-RecordBatch.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 21,
+        "Deletions": 4,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "d1b00ed40e90b0e270aa84b28833f85f167c0112",
+        "FileName": "test-Table.R",
+        "Path": "r/tests/testthat/test-Table.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "0e2a21ba5e6c426aba59e39682cc6fd62f60046d",
+        "FileName": "test-chunked-array.R",
+        "Path": "r/tests/testthat/test-chunked-array.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 51,
+        "Deletions": 2,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "5a408ed3f6cd1198857d0226e5af1cf660f5be97",
+        "FileName": "test-data-type.R",
+        "Path": "r/tests/testthat/test-data-type.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "8a4c88f46dd4c849ed7eeae5973a1707abd2dee8",
+        "FileName": "test-field.R",
+        "Path": "r/tests/testthat/test-field.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      },
+      {
+        "Sha": "b6bfab0fdbd5299459c1919abeeeec8da4f4316e",
+        "FileName": "test-type.R",
+        "Path": "r/tests/testthat/test-type.R",
+        "DateUpdated": "2019-09-25T02:07:46Z",
+        "Additions": 1,
+        "Deletions": 4,
+        "Commits": [
+          "a89c803ad86ad7e22890fe3b8314bb41eec7d5af"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "199d3cf9c8a149798d75c322fc3095459de31b3d",
+        "Author": {
+          "name": "\"Joris Van den Bossche\""
+        },
+        "Commitor": {
+          "name": "\"Wes McKinney\"",
+          "location": "Nashville, TN",
+          "company": "@ursa-labs / @rstudio"
+        },
+        "Date": "2019-09-25T03:02:07Z",
+        "additions": 31,
+        "deletions": 8,
+        "files": [
+          "66ab766ed7c2f840b56434631110e9be8b3fd46a",
+          "843138a55b5af07ccd4b02dd3f6b7fc56374c2e9",
+          "f4deb2418650dc6c4b6ffc1a7699a69777d63552"
+        ]
+      },
+      {
+        "sha": "232cde05dcb30d768b321e213cda90600c02cfd7",
+        "Author": {
+          "name": "\"Joris Van den Bossche\""
+        },
+        "Commitor": {
+          "name": "\"Wes McKinney\"",
+          "location": "Nashville, TN",
+          "company": "@ursa-labs / @rstudio"
+        },
+        "Date": "2019-09-25T02:56:15Z",
+        "additions": 16,
+        "deletions": 24,
+        "files": [
+          "bfb1e8e5d0b5375d2b3509a056a4be1725ad2ea4",
+          "7c75a2a830c4a3a36c93d29231e5b0778571a937",
+          "76148e7d8b2d39419425477624c5ca2d736a8f03",
+          "6aeed0a1892d57a98cb62845815b07390b9e7b99",
+          "5ba54d3277b5096b6d9e65635f96aa9a337abfbe"
+        ]
+      },
+      {
+        "sha": "a89c803ad86ad7e22890fe3b8314bb41eec7d5af",
+        "Author": {
+          "name": "\"Neal Richardson\"",
+          "location": "San Francisco, CA",
+          "company": "Ursa Labs/RStudio"
+        },
+        "Commitor": {
+          "name": "\"Neal Richardson\"",
+          "location": "San Francisco, CA",
+          "company": "Ursa Labs/RStudio"
+        },
+        "Date": "2019-09-25T02:07:46Z",
+        "additions": 209,
+        "deletions": 55,
+        "files": [
+          "3333218cd4d2b187734e3e0e9a44f3d63221b756",
+          "7ce881f90b08c6d1a7afa3b7a4be96e550454de4",
+          "3bf72985bd9b5bc291fdc27b5871e65f5d2fb8b2",
+          "6273ffc2c87ddb9fdbbd5913cc56f075b821e780",
+          "152099c0d10a991339ab44abb132cc9d76893bdb",
+          "3814a2a2b78c0bb63feac41f36dc0afa7168f411",
+          "a2ee00c0ac63098635125ee111e37cb1c52576c6",
+          "bd3f447c84eb4155207c2f579833f161ceef6b60",
+          "1e130787c6897398bf835982baeede55acc25baf",
+          "cb57d1ab992027c045a775f3bdadd75d746d67b5",
+          "937f00d85afaeb08941e5e95f3c02fd2548afc06",
+          "2716a173c78821525dd7b3b9419c4eef85844083",
+          "016b137f04c065b1ec7c0b785b486b01ecc9b0e2",
+          "97b8f6948682acc13d213ae26ff8cd9373003523",
+          "d1b00ed40e90b0e270aa84b28833f85f167c0112",
+          "0e2a21ba5e6c426aba59e39682cc6fd62f60046d",
+          "5a408ed3f6cd1198857d0226e5af1cf660f5be97",
+          "8a4c88f46dd4c849ed7eeae5973a1707abd2dee8",
+          "b6bfab0fdbd5299459c1919abeeeec8da4f4316e"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "arrow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T02:47:24Z",
+    "EndDate": "2019-09-25T03:47:24",
+    "Branches": 6,
+    "Forks": 1127,
+    "Files": [
+      {
+        "Sha": "66ab766ed7c2f840b56434631110e9be8b3fd46a",
+        "FileName": "array.cc",
+        "Path": "cpp/src/arrow/array.cc",
+        "DateUpdated": "2019-09-25T03:02:07Z",
+        "Additions": 9,
+        "Deletions": 1,
+        "Commits": [
+          "199d3cf9c8a149798d75c322fc3095459de31b3d"
+        ]
+      },
+      {
+        "Sha": "843138a55b5af07ccd4b02dd3f6b7fc56374c2e9",
+        "FileName": "array.pxi",
+        "Path": "python/pyarrow/array.pxi",
+        "DateUpdated": "2019-09-25T03:02:07Z",
+        "Additions": 15,
+        "Deletions": 5,
+        "Commits": [
+          "199d3cf9c8a149798d75c322fc3095459de31b3d"
+        ]
+      },
+      {
+        "Sha": "f4deb2418650dc6c4b6ffc1a7699a69777d63552",
+        "FileName": "test_array.py",
+        "Path": "python/pyarrow/tests/test_array.py",
+        "DateUpdated": "2019-09-25T03:02:07Z",
+        "Additions": 7,
+        "Deletions": 2,
+        "Commits": [
+          "199d3cf9c8a149798d75c322fc3095459de31b3d"
+        ]
+      },
+      {
+        "Sha": "bfb1e8e5d0b5375d2b3509a056a4be1725ad2ea4",
+        "FileName": "conftest.py",
+        "Path": "python/pyarrow/tests/conftest.py",
+        "DateUpdated": "2019-09-25T02:56:15Z",
+        "Additions": 5,
+        "Deletions": 13,
+        "Commits": [
+          "232cde05dcb30d768b321e213cda90600c02cfd7"
+        ]
+      },
+      {
+        "Sha": "7c75a2a830c4a3a36c93d29231e5b0778571a937",
+        "FileName": "test_array.py",
+        "Path": "python/pyarrow/tests/test_array.py",
+        "DateUpdated": "2019-09-25T02:56:15Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "232cde05dcb30d768b321e213cda90600c02cfd7"
+        ]
+      },
+      {
+        "Sha": "76148e7d8b2d39419425477624c5ca2d736a8f03",
+        "FileName": "test_io.py",
+        "Path": "python/pyarrow/tests/test_io.py",
+        "DateUpdated": "2019-09-25T02:56:15Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "232cde05dcb30d768b321e213cda90600c02cfd7"
+        ]
+      },
+      {
+        "Sha": "6aeed0a1892d57a98cb62845815b07390b9e7b99",
+        "FileName": "test_parquet.py",
+        "Path": "python/pyarrow/tests/test_parquet.py",
+        "DateUpdated": "2019-09-25T02:56:15Z",
+        "Additions": 2,
+        "Deletions": 4,
+        "Commits": [
+          "232cde05dcb30d768b321e213cda90600c02cfd7"
+        ]
+      },
+      {
+        "Sha": "5ba54d3277b5096b6d9e65635f96aa9a337abfbe",
+        "FileName": "test_serialization.py",
+        "Path": "python/pyarrow/tests/test_serialization.py",
+        "DateUpdated": "2019-09-25T02:56:15Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "232cde05dcb30d768b321e213cda90600c02cfd7"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "199d3cf9c8a149798d75c322fc3095459de31b3d",
+        "Author": {
+          "name": "\"Joris Van den Bossche\""
+        },
+        "Commitor": {
+          "name": "\"Wes McKinney\"",
+          "location": "Nashville, TN",
+          "company": "@ursa-labs / @rstudio"
+        },
+        "Date": "2019-09-25T03:02:07Z",
+        "additions": 31,
+        "deletions": 8,
+        "files": [
+          "66ab766ed7c2f840b56434631110e9be8b3fd46a",
+          "843138a55b5af07ccd4b02dd3f6b7fc56374c2e9",
+          "f4deb2418650dc6c4b6ffc1a7699a69777d63552"
+        ]
+      },
+      {
+        "sha": "232cde05dcb30d768b321e213cda90600c02cfd7",
+        "Author": {
+          "name": "\"Joris Van den Bossche\""
+        },
+        "Commitor": {
+          "name": "\"Wes McKinney\"",
+          "location": "Nashville, TN",
+          "company": "@ursa-labs / @rstudio"
+        },
+        "Date": "2019-09-25T02:56:15Z",
+        "additions": 16,
+        "deletions": 24,
+        "files": [
+          "bfb1e8e5d0b5375d2b3509a056a4be1725ad2ea4",
+          "7c75a2a830c4a3a36c93d29231e5b0778571a937",
+          "76148e7d8b2d39419425477624c5ca2d736a8f03",
+          "6aeed0a1892d57a98cb62845815b07390b9e7b99",
+          "5ba54d3277b5096b6d9e65635f96aa9a337abfbe"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "arrow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T03:46:47Z",
+    "EndDate": "2019-09-25T04:46:47",
+    "Branches": 6,
+    "Forks": 1127,
+    "Files": [
+      {
+        "Sha": "755db54ae5c79e82f21cfd82eaad2de583d2eb76",
+        "FileName": "LICENSE.txt",
+        "Path": "LICENSE.txt",
+        "DateUpdated": "2019-09-25T04:32:56Z",
+        "Additions": 28,
+        "Deletions": 0,
+        "Commits": [
+          "4fe330aa4ed4564c9502733e25fc2b762e1002bf"
+        ]
+      },
+      {
+        "Sha": "d575faff822aa15a413a9b0bb8f2ca35f6d0ecbf",
+        "FileName": "CMakeLists.txt",
+        "Path": "cpp/src/arrow/CMakeLists.txt",
+        "DateUpdated": "2019-09-25T04:32:56Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "4fe330aa4ed4564c9502733e25fc2b762e1002bf"
+        ]
+      },
+      {
+        "Sha": "9ab41412ac3f3130c53eb0e9a5c5deea0b36a5d5",
+        "FileName": "base64.h",
+        "Path": "cpp/src/arrow/util/base64.h",
+        "DateUpdated": "2019-09-25T04:32:56Z",
+        "Additions": 34,
+        "Deletions": 0,
+        "Commits": [
+          "4fe330aa4ed4564c9502733e25fc2b762e1002bf"
+        ]
+      },
+      {
+        "Sha": "50ece19455ed2f4fd8118e90c2130bae55670327",
+        "FileName": "base64.cpp",
+        "Path": "cpp/src/arrow/vendored/base64.cpp",
+        "DateUpdated": "2019-09-25T04:32:56Z",
+        "Additions": 128,
+        "Deletions": 0,
+        "Commits": [
+          "4fe330aa4ed4564c9502733e25fc2b762e1002bf"
+        ]
+      },
+      {
+        "Sha": "7b803fa261f07cc9b14d529ce0dd7b8b1aaad703",
+        "FileName": "reader_internal.cc",
+        "Path": "cpp/src/parquet/arrow/reader_internal.cc",
+        "DateUpdated": "2019-09-25T04:32:56Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "4fe330aa4ed4564c9502733e25fc2b762e1002bf"
+        ]
+      },
+      {
+        "Sha": "18c01a527ea1f1731dfe56d2366f3b3cd21aee6e",
+        "FileName": "writer.cc",
+        "Path": "cpp/src/parquet/arrow/writer.cc",
+        "DateUpdated": "2019-09-25T04:32:56Z",
+        "Additions": 8,
+        "Deletions": 1,
+        "Commits": [
+          "4fe330aa4ed4564c9502733e25fc2b762e1002bf"
+        ]
+      },
+      {
+        "Sha": "35a40241450d2697400ab72abf3cf50fdfe27996",
+        "FileName": "test_extension_type.py",
+        "Path": "python/pyarrow/tests/test_extension_type.py",
+        "DateUpdated": "2019-09-25T04:32:56Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "4fe330aa4ed4564c9502733e25fc2b762e1002bf"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "4fe330aa4ed4564c9502733e25fc2b762e1002bf",
+        "Author": {
+          "name": "\"Wes McKinney\"",
+          "location": "Nashville, TN",
+          "company": "@ursa-labs / @rstudio"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-25T04:32:56Z",
+        "additions": 206,
+        "deletions": 3,
+        "files": [
+          "755db54ae5c79e82f21cfd82eaad2de583d2eb76",
+          "d575faff822aa15a413a9b0bb8f2ca35f6d0ecbf",
+          "9ab41412ac3f3130c53eb0e9a5c5deea0b36a5d5",
+          "50ece19455ed2f4fd8118e90c2130bae55670327",
+          "7b803fa261f07cc9b14d529ce0dd7b8b1aaad703",
+          "18c01a527ea1f1731dfe56d2366f3b3cd21aee6e",
+          "35a40241450d2697400ab72abf3cf50fdfe27996"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "arrow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T04:03:30Z",
+    "EndDate": "2019-09-25T05:03:30",
+    "Branches": 6,
+    "Forks": 1127,
+    "Files": [
+      {
+        "Sha": "755db54ae5c79e82f21cfd82eaad2de583d2eb76",
+        "FileName": "LICENSE.txt",
+        "Path": "LICENSE.txt",
+        "DateUpdated": "2019-09-25T04:32:56Z",
+        "Additions": 28,
+        "Deletions": 0,
+        "Commits": [
+          "4fe330aa4ed4564c9502733e25fc2b762e1002bf"
+        ]
+      },
+      {
+        "Sha": "d575faff822aa15a413a9b0bb8f2ca35f6d0ecbf",
+        "FileName": "CMakeLists.txt",
+        "Path": "cpp/src/arrow/CMakeLists.txt",
+        "DateUpdated": "2019-09-25T04:32:56Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "4fe330aa4ed4564c9502733e25fc2b762e1002bf"
+        ]
+      },
+      {
+        "Sha": "9ab41412ac3f3130c53eb0e9a5c5deea0b36a5d5",
+        "FileName": "base64.h",
+        "Path": "cpp/src/arrow/util/base64.h",
+        "DateUpdated": "2019-09-25T04:32:56Z",
+        "Additions": 34,
+        "Deletions": 0,
+        "Commits": [
+          "4fe330aa4ed4564c9502733e25fc2b762e1002bf"
+        ]
+      },
+      {
+        "Sha": "50ece19455ed2f4fd8118e90c2130bae55670327",
+        "FileName": "base64.cpp",
+        "Path": "cpp/src/arrow/vendored/base64.cpp",
+        "DateUpdated": "2019-09-25T04:32:56Z",
+        "Additions": 128,
+        "Deletions": 0,
+        "Commits": [
+          "4fe330aa4ed4564c9502733e25fc2b762e1002bf"
+        ]
+      },
+      {
+        "Sha": "7b803fa261f07cc9b14d529ce0dd7b8b1aaad703",
+        "FileName": "reader_internal.cc",
+        "Path": "cpp/src/parquet/arrow/reader_internal.cc",
+        "DateUpdated": "2019-09-25T04:32:56Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "4fe330aa4ed4564c9502733e25fc2b762e1002bf"
+        ]
+      },
+      {
+        "Sha": "18c01a527ea1f1731dfe56d2366f3b3cd21aee6e",
+        "FileName": "writer.cc",
+        "Path": "cpp/src/parquet/arrow/writer.cc",
+        "DateUpdated": "2019-09-25T04:32:56Z",
+        "Additions": 8,
+        "Deletions": 1,
+        "Commits": [
+          "4fe330aa4ed4564c9502733e25fc2b762e1002bf"
+        ]
+      },
+      {
+        "Sha": "35a40241450d2697400ab72abf3cf50fdfe27996",
+        "FileName": "test_extension_type.py",
+        "Path": "python/pyarrow/tests/test_extension_type.py",
+        "DateUpdated": "2019-09-25T04:32:56Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "4fe330aa4ed4564c9502733e25fc2b762e1002bf"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "4fe330aa4ed4564c9502733e25fc2b762e1002bf",
+        "Author": {
+          "name": "\"Wes McKinney\"",
+          "location": "Nashville, TN",
+          "company": "@ursa-labs / @rstudio"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-25T04:32:56Z",
+        "additions": 206,
+        "deletions": 3,
+        "files": [
+          "755db54ae5c79e82f21cfd82eaad2de583d2eb76",
+          "d575faff822aa15a413a9b0bb8f2ca35f6d0ecbf",
+          "9ab41412ac3f3130c53eb0e9a5c5deea0b36a5d5",
+          "50ece19455ed2f4fd8118e90c2130bae55670327",
+          "7b803fa261f07cc9b14d529ce0dd7b8b1aaad703",
+          "18c01a527ea1f1731dfe56d2366f3b3cd21aee6e",
+          "35a40241450d2697400ab72abf3cf50fdfe27996"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "arrow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T04:46:57Z",
+    "EndDate": "2019-09-25T05:46:57",
+    "Branches": 6,
+    "Forks": 1127,
+    "Files": [
+      {
+        "Sha": "7e9616483c09b806d33320c54d83c555f8fc9db6",
+        "FileName": "context.rs",
+        "Path": "rust/datafusion/src/execution/context.rs",
+        "DateUpdated": "2019-09-25T05:23:58Z",
+        "Additions": 49,
+        "Deletions": 5,
+        "Commits": [
+          "7f2d637db821ec6849b5d3e1c76307c288f57030"
+        ]
+      },
+      {
+        "Sha": "f0c34c228db027a9f1ed9f94d6c487ecc01dda04",
+        "FileName": "mod.rs",
+        "Path": "rust/datafusion/src/execution/physical_plan/mod.rs",
+        "DateUpdated": "2019-09-25T05:23:58Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "7f2d637db821ec6849b5d3e1c76307c288f57030"
+        ]
+      },
+      {
+        "Sha": "ca5e58e3e218ed0379d6402f614465f977374362",
+        "FileName": "selection.rs",
+        "Path": "rust/datafusion/src/execution/physical_plan/selection.rs",
+        "DateUpdated": "2019-09-25T05:23:58Z",
+        "Additions": 184,
+        "Deletions": 0,
+        "Commits": [
+          "7f2d637db821ec6849b5d3e1c76307c288f57030"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "7f2d637db821ec6849b5d3e1c76307c288f57030",
+        "Author": {
+          "name": "\"Andy Grove\"",
+          "location": "Broomfield, CO",
+          "company": "@RMS "
+        },
+        "Commitor": {
+          "name": "\"Andy Grove\"",
+          "location": "Broomfield, CO",
+          "company": "@RMS "
+        },
+        "Date": "2019-09-25T05:23:58Z",
+        "additions": 234,
+        "deletions": 5,
+        "files": [
+          "7e9616483c09b806d33320c54d83c555f8fc9db6",
+          "f0c34c228db027a9f1ed9f94d6c487ecc01dda04",
+          "ca5e58e3e218ed0379d6402f614465f977374362"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "arrow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T10:03:34Z",
+    "EndDate": "2019-09-25T11:03:34",
+    "Branches": 6,
+    "Forks": 1127,
+    "Files": [
+      {
+        "Sha": "09ac5b9868517a84fb5f34c122262b3fad0ef3b7",
+        "FileName": "Doxyfile",
+        "Path": "cpp/apidoc/Doxyfile",
+        "DateUpdated": "2019-09-25T10:23:01Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "511c08947608069dc5f940ffdbe136d8b96a1af4"
+        ]
+      },
+      {
+        "Sha": "c2a3f4411d7ada3309ea818847a1b5f1370cbd1d",
+        "FileName": "server.h",
+        "Path": "cpp/src/arrow/flight/server.h",
+        "DateUpdated": "2019-09-25T10:23:01Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "511c08947608069dc5f940ffdbe136d8b96a1af4"
+        ]
+      },
+      {
+        "Sha": "2aaa3d36877a1acaba59d775bcfd74bfc8b1e88a",
+        "FileName": "types.h",
+        "Path": "cpp/src/arrow/flight/types.h",
+        "DateUpdated": "2019-09-25T10:23:01Z",
+        "Additions": 26,
+        "Deletions": 19,
+        "Commits": [
+          "511c08947608069dc5f940ffdbe136d8b96a1af4"
+        ]
+      },
+      {
+        "Sha": "f07d410eefaadc101c95cf461fc8ade9f848e881",
+        "FileName": "status.h",
+        "Path": "cpp/src/arrow/status.h",
+        "DateUpdated": "2019-09-25T10:23:01Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "511c08947608069dc5f940ffdbe136d8b96a1af4"
+        ]
+      },
+      {
+        "Sha": "7801d88f04f13f2bb3784c62fe24bba2de60d3c6",
+        "FileName": "flight.rst",
+        "Path": "docs/source/cpp/api/flight.rst",
+        "DateUpdated": "2019-09-25T10:23:01Z",
+        "Additions": 53,
+        "Deletions": 1,
+        "Commits": [
+          "511c08947608069dc5f940ffdbe136d8b96a1af4"
+        ]
+      },
+      {
+        "Sha": "4749229b4583cd9f0faddc4041fa73eb8b1d93ea",
+        "FileName": "support.rst",
+        "Path": "docs/source/cpp/api/support.rst",
+        "DateUpdated": "2019-09-25T10:23:01Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "511c08947608069dc5f940ffdbe136d8b96a1af4"
+        ]
+      },
+      {
+        "Sha": "c1d2e43b9f4540fc4d7b684d0359156940775262",
+        "FileName": "flight.rst",
+        "Path": "docs/source/cpp/flight.rst",
+        "DateUpdated": "2019-09-25T10:23:01Z",
+        "Additions": 119,
+        "Deletions": 0,
+        "Commits": [
+          "511c08947608069dc5f940ffdbe136d8b96a1af4"
+        ]
+      },
+      {
+        "Sha": "4c918b3d96c30056ab0a8293044468a201bcbc47",
+        "FileName": "getting_started.rst",
+        "Path": "docs/source/cpp/getting_started.rst",
+        "DateUpdated": "2019-09-25T10:23:01Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "511c08947608069dc5f940ffdbe136d8b96a1af4"
+        ]
+      },
+      {
+        "Sha": "7ffa243012826ba4be1dff17004d7f69e6b8a3b5",
+        "FileName": "Flight.rst",
+        "Path": "docs/source/format/Flight.rst",
+        "DateUpdated": "2019-09-25T10:23:01Z",
+        "Additions": 45,
+        "Deletions": 1,
+        "Commits": [
+          "511c08947608069dc5f940ffdbe136d8b96a1af4"
+        ]
+      },
+      {
+        "Sha": "e75930a1bc4c3a31457bc36515655b0aded8101f",
+        "FileName": "parquet.py",
+        "Path": "python/pyarrow/parquet.py",
+        "DateUpdated": "2019-09-25T10:15:25Z",
+        "Additions": 37,
+        "Deletions": 14,
+        "Commits": [
+          "502865da771cfaf75abfdc29902eda835169006b"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "511c08947608069dc5f940ffdbe136d8b96a1af4",
+        "Author": {
+          "name": "\"David Li\""
+        },
+        "Commitor": {
+          "name": "\"Antoine Pitrou\""
+        },
+        "Date": "2019-09-25T10:23:01Z",
+        "additions": 256,
+        "deletions": 24,
+        "files": [
+          "09ac5b9868517a84fb5f34c122262b3fad0ef3b7",
+          "c2a3f4411d7ada3309ea818847a1b5f1370cbd1d",
+          "2aaa3d36877a1acaba59d775bcfd74bfc8b1e88a",
+          "f07d410eefaadc101c95cf461fc8ade9f848e881",
+          "7801d88f04f13f2bb3784c62fe24bba2de60d3c6",
+          "4749229b4583cd9f0faddc4041fa73eb8b1d93ea",
+          "c1d2e43b9f4540fc4d7b684d0359156940775262",
+          "4c918b3d96c30056ab0a8293044468a201bcbc47",
+          "7ffa243012826ba4be1dff17004d7f69e6b8a3b5"
+        ]
+      },
+      {
+        "sha": "502865da771cfaf75abfdc29902eda835169006b",
+        "Author": {
+          "name": "\"Aaron Opfer\"",
+          "location": "Chicago, Illinois"
+        },
+        "Commitor": {
+          "name": "\"Antoine Pitrou\""
+        },
+        "Date": "2019-09-25T10:15:25Z",
+        "additions": 37,
+        "deletions": 14,
+        "files": [
+          "e75930a1bc4c3a31457bc36515655b0aded8101f"
+        ]
+      }
+    ]
+  }
+]

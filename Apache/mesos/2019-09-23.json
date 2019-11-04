@@ -1,0 +1,332 @@
+[
+  {
+    "RepositoryName": "mesos",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T12:02:53Z",
+    "EndDate": "2019-09-23T13:02:53",
+    "Branches": 7,
+    "Forks": 1623,
+    "Files": [
+      {
+        "Sha": "7a239d846de5679e9c2b80aa4e617a72fdeac92c",
+        "FileName": "jsonify.hpp",
+        "Path": "3rdparty/stout/include/stout/jsonify.hpp",
+        "DateUpdated": "2019-09-23T12:55:34Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "8f769b71d5b8ea024c68c01962e7e0b3cbadd56f"
+        ]
+      },
+      {
+        "Sha": "66e78b3fff337c7b653927a050d2c0ab42d6af77",
+        "FileName": "metrics.cpp",
+        "Path": "3rdparty/libprocess/src/metrics/metrics.cpp",
+        "DateUpdated": "2019-09-23T12:24:13Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b7d4e7aff3e34c724945f47b9b967e078f9f46a1"
+        ]
+      },
+      {
+        "Sha": "69e5e24b248c7c913421de5e42713c34fd79ad46",
+        "FileName": "exec.cpp",
+        "Path": "src/exec/exec.cpp",
+        "DateUpdated": "2019-09-23T12:24:13Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "06bcb3581d0f20993bb2d0a37989bfb21eb97be7"
+        ]
+      },
+      {
+        "Sha": "b4126037ed3e14a93d4acb9d02b62115ba4ef690",
+        "FileName": "executor.cpp",
+        "Path": "src/executor/executor.cpp",
+        "DateUpdated": "2019-09-23T12:24:13Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "06bcb3581d0f20993bb2d0a37989bfb21eb97be7"
+        ]
+      },
+      {
+        "Sha": "091061a5a8eb184513f0d237d1a45339049402b2",
+        "FileName": "files.cpp",
+        "Path": "src/files/files.cpp",
+        "DateUpdated": "2019-09-23T12:24:13Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "06bcb3581d0f20993bb2d0a37989bfb21eb97be7"
+        ]
+      },
+      {
+        "Sha": "e5bc493e05a82bfc72cf280b0c699a5d690c3333",
+        "FileName": "master.cpp",
+        "Path": "src/master/master.cpp",
+        "DateUpdated": "2019-09-23T12:24:13Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "06bcb3581d0f20993bb2d0a37989bfb21eb97be7"
+        ]
+      },
+      {
+        "Sha": "79734851d694b1c08bdf37b020eef78f0d475a70",
+        "FileName": "metrics.cpp",
+        "Path": "src/master/metrics.cpp",
+        "DateUpdated": "2019-09-23T12:24:13Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "06bcb3581d0f20993bb2d0a37989bfb21eb97be7"
+        ]
+      },
+      {
+        "Sha": "3a5a74bf4e64eeaed161bb2e7875e185f2271aef",
+        "FileName": "fetcher.cpp",
+        "Path": "src/slave/containerizer/fetcher.cpp",
+        "DateUpdated": "2019-09-23T12:24:13Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "06bcb3581d0f20993bb2d0a37989bfb21eb97be7"
+        ]
+      },
+      {
+        "Sha": "f8de3d2315554be3840911324ac645e21dfc04a0",
+        "FileName": "posix.hpp",
+        "Path": "src/slave/containerizer/mesos/isolators/posix.hpp",
+        "DateUpdated": "2019-09-23T12:24:13Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "06bcb3581d0f20993bb2d0a37989bfb21eb97be7"
+        ]
+      },
+      {
+        "Sha": "a5b49903e8fbeba5d2701412cdfff3c4673c6fc8",
+        "FileName": "launcher.cpp",
+        "Path": "src/slave/containerizer/mesos/launcher.cpp",
+        "DateUpdated": "2019-09-23T12:24:13Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "06bcb3581d0f20993bb2d0a37989bfb21eb97be7"
+        ]
+      },
+      {
+        "Sha": "3d0b291fa878ab22625435afe2a219d6f776e52c",
+        "FileName": "provisioner.cpp",
+        "Path": "src/slave/containerizer/mesos/provisioner/provisioner.cpp",
+        "DateUpdated": "2019-09-23T12:24:13Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "06bcb3581d0f20993bb2d0a37989bfb21eb97be7"
+        ]
+      },
+      {
+        "Sha": "3839a120446339fea8aa857f431a2dba28ed4002",
+        "FileName": "slave.cpp",
+        "Path": "src/slave/slave.cpp",
+        "DateUpdated": "2019-09-23T12:24:13Z",
+        "Additions": 5,
+        "Deletions": 4,
+        "Commits": [
+          "06bcb3581d0f20993bb2d0a37989bfb21eb97be7"
+        ]
+      },
+      {
+        "Sha": "8ca28695562c61a8de0eb942b547cbfefc61fb84",
+        "FileName": "log.cpp",
+        "Path": "src/state/log.cpp",
+        "DateUpdated": "2019-09-23T12:24:13Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "06bcb3581d0f20993bb2d0a37989bfb21eb97be7"
+        ]
+      },
+      {
+        "Sha": "b23162d68e2aeaa7b1f1c0d74804bbef5cb1f045",
+        "FileName": "slave_recovery_tests.cpp",
+        "Path": "src/tests/slave_recovery_tests.cpp",
+        "DateUpdated": "2019-09-23T12:24:13Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "06bcb3581d0f20993bb2d0a37989bfb21eb97be7"
+        ]
+      },
+      {
+        "Sha": "25cc8efa56c1be2d71dfcffacaa09401abb83a05",
+        "FileName": "task_status_update_manager_tests.cpp",
+        "Path": "src/tests/task_status_update_manager_tests.cpp",
+        "DateUpdated": "2019-09-23T12:24:13Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "06bcb3581d0f20993bb2d0a37989bfb21eb97be7"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "8f769b71d5b8ea024c68c01962e7e0b3cbadd56f",
+        "Author": {
+          "name": "\"Benjamin Bannier\"",
+          "location": "Hamburg, Germany",
+          "company": "@mesosphere "
+        },
+        "Commitor": {
+          "name": "\"Benjamin Bannier\"",
+          "location": "Hamburg, Germany",
+          "company": "@mesosphere "
+        },
+        "Date": "2019-09-23T12:55:34Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "7a239d846de5679e9c2b80aa4e617a72fdeac92c"
+        ]
+      },
+      {
+        "sha": "b7d4e7aff3e34c724945f47b9b967e078f9f46a1",
+        "Author": {
+          "name": "\"Benjamin Bannier\"",
+          "location": "Hamburg, Germany",
+          "company": "@mesosphere "
+        },
+        "Commitor": {
+          "name": "\"Benjamin Bannier\"",
+          "location": "Hamburg, Germany",
+          "company": "@mesosphere "
+        },
+        "Date": "2019-09-23T12:24:13Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "66e78b3fff337c7b653927a050d2c0ab42d6af77"
+        ]
+      },
+      {
+        "sha": "06bcb3581d0f20993bb2d0a37989bfb21eb97be7",
+        "Author": {
+          "name": "\"Benjamin Bannier\"",
+          "location": "Hamburg, Germany",
+          "company": "@mesosphere "
+        },
+        "Commitor": {
+          "name": "\"Benjamin Bannier\"",
+          "location": "Hamburg, Germany",
+          "company": "@mesosphere "
+        },
+        "Date": "2019-09-23T12:24:13Z",
+        "additions": 34,
+        "deletions": 33,
+        "files": [
+          "69e5e24b248c7c913421de5e42713c34fd79ad46",
+          "b4126037ed3e14a93d4acb9d02b62115ba4ef690",
+          "091061a5a8eb184513f0d237d1a45339049402b2",
+          "e5bc493e05a82bfc72cf280b0c699a5d690c3333",
+          "79734851d694b1c08bdf37b020eef78f0d475a70",
+          "3a5a74bf4e64eeaed161bb2e7875e185f2271aef",
+          "f8de3d2315554be3840911324ac645e21dfc04a0",
+          "a5b49903e8fbeba5d2701412cdfff3c4673c6fc8",
+          "3d0b291fa878ab22625435afe2a219d6f776e52c",
+          "3839a120446339fea8aa857f431a2dba28ed4002",
+          "8ca28695562c61a8de0eb942b547cbfefc61fb84",
+          "b23162d68e2aeaa7b1f1c0d74804bbef5cb1f045",
+          "25cc8efa56c1be2d71dfcffacaa09401abb83a05"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "mesos",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T13:02:43Z",
+    "EndDate": "2019-09-23T14:02:43",
+    "Branches": 7,
+    "Forks": 1623,
+    "Files": [
+      {
+        "Sha": "5e87583a9dd1f70d6eb467ba6f430009914017cc",
+        "FileName": "test_csi_user_framework.cpp",
+        "Path": "src/examples/test_csi_user_framework.cpp",
+        "DateUpdated": "2019-09-23T13:48:23Z",
+        "Additions": 43,
+        "Deletions": 37,
+        "Commits": [
+          "6ded10fe66a19c61497bf8b1b42793a0abf931fd"
+        ]
+      },
+      {
+        "Sha": "ff2a0bcba0bb24c549304a2b50601615b6893aea",
+        "FileName": "clang-tidy",
+        "Path": "support/clang-tidy",
+        "DateUpdated": "2019-09-23T13:33:57Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "9a6c69ced048697176ac32d6c99308d1cb05ddee"
+        ]
+      },
+      {
+        "Sha": "7d17a82c023c614016e771c305e3a114731eb832",
+        "FileName": "Dockerfile",
+        "Path": "support/mesos-tidy/Dockerfile",
+        "DateUpdated": "2019-09-23T13:33:57Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "9a6c69ced048697176ac32d6c99308d1cb05ddee"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "6ded10fe66a19c61497bf8b1b42793a0abf931fd",
+        "Author": {
+          "name": "\"Benjamin Bannier\"",
+          "location": "Hamburg, Germany",
+          "company": "@mesosphere "
+        },
+        "Commitor": {
+          "name": "\"Benjamin Bannier\"",
+          "location": "Hamburg, Germany",
+          "company": "@mesosphere "
+        },
+        "Date": "2019-09-23T13:48:23Z",
+        "additions": 43,
+        "deletions": 37,
+        "files": [
+          "5e87583a9dd1f70d6eb467ba6f430009914017cc"
+        ]
+      },
+      {
+        "sha": "9a6c69ced048697176ac32d6c99308d1cb05ddee",
+        "Author": {
+          "name": "\"Benjamin Bannier\"",
+          "location": "Hamburg, Germany",
+          "company": "@mesosphere "
+        },
+        "Commitor": {
+          "name": "\"Benjamin Bannier\"",
+          "location": "Hamburg, Germany",
+          "company": "@mesosphere "
+        },
+        "Date": "2019-09-23T13:33:57Z",
+        "additions": 4,
+        "deletions": 3,
+        "files": [
+          "ff2a0bcba0bb24c549304a2b50601615b6893aea",
+          "7d17a82c023c614016e771c305e3a114731eb832"
+        ]
+      }
+    ]
+  }
+]

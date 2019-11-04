@@ -1,0 +1,176 @@
+[
+  {
+    "RepositoryName": "skywalking",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T01:47:28Z",
+    "EndDate": "2019-09-24T02:47:28",
+    "Branches": 8,
+    "Forks": 3008,
+    "Files": [
+      {
+        "Sha": "f4a8142795d57f6dbbb0b524c2d5233e544cf229",
+        "FileName": "CallbackAdapter.java",
+        "Path": "apm-sniffer/apm-sdk-plugin/kafka-plugin/src/main/java/org/apache/skywalking/apm/plugin/kafka/CallbackAdapter.java",
+        "DateUpdated": "2019-09-24T02:21:33Z",
+        "Additions": 62,
+        "Deletions": 0,
+        "Commits": [
+          "8de9f7d74ce2429391f92afbfc86360ffb529746"
+        ]
+      },
+      {
+        "Sha": "6e48f8356ddf4548d40479dd3d1f2f97715699e3",
+        "FileName": "CallbackCache.java",
+        "Path": "apm-sniffer/apm-sdk-plugin/kafka-plugin/src/main/java/org/apache/skywalking/apm/plugin/kafka/CallbackCache.java",
+        "DateUpdated": "2019-09-24T02:21:33Z",
+        "Additions": 56,
+        "Deletions": 0,
+        "Commits": [
+          "8de9f7d74ce2429391f92afbfc86360ffb529746"
+        ]
+      },
+      {
+        "Sha": "9fb123abb7671f01573456e1520061e3b56fa5ba",
+        "FileName": "CallbackConstructorInterceptor.java",
+        "Path": "apm-sniffer/apm-sdk-plugin/kafka-plugin/src/main/java/org/apache/skywalking/apm/plugin/kafka/CallbackConstructorInterceptor.java",
+        "DateUpdated": "2019-09-24T02:21:33Z",
+        "Additions": 43,
+        "Deletions": 0,
+        "Commits": [
+          "8de9f7d74ce2429391f92afbfc86360ffb529746"
+        ]
+      },
+      {
+        "Sha": "68b41d9d038e17d61b7e92e0dcc60efbad41bf3f",
+        "FileName": "CallbackInterceptor.java",
+        "Path": "apm-sniffer/apm-sdk-plugin/kafka-plugin/src/main/java/org/apache/skywalking/apm/plugin/kafka/CallbackInterceptor.java",
+        "DateUpdated": "2019-09-24T02:21:33Z",
+        "Additions": 21,
+        "Deletions": 10,
+        "Commits": [
+          "8de9f7d74ce2429391f92afbfc86360ffb529746"
+        ]
+      },
+      {
+        "Sha": "5cc5abcde9c3b726fbf88b61ed351cb2eaa65836",
+        "FileName": "KafkaProducerInterceptor.java",
+        "Path": "apm-sniffer/apm-sdk-plugin/kafka-plugin/src/main/java/org/apache/skywalking/apm/plugin/kafka/KafkaProducerInterceptor.java",
+        "DateUpdated": "2019-09-24T02:21:33Z",
+        "Additions": 4,
+        "Deletions": 3,
+        "Commits": [
+          "8de9f7d74ce2429391f92afbfc86360ffb529746"
+        ]
+      },
+      {
+        "Sha": "a23b83a042dffb19ba39c388200105c9c0ef621e",
+        "FileName": "KafkaTemplateCallbackInterceptor.java",
+        "Path": "apm-sniffer/apm-sdk-plugin/kafka-plugin/src/main/java/org/apache/skywalking/apm/plugin/kafka/KafkaTemplateCallbackInterceptor.java",
+        "DateUpdated": "2019-09-24T02:21:33Z",
+        "Additions": 45,
+        "Deletions": 0,
+        "Commits": [
+          "8de9f7d74ce2429391f92afbfc86360ffb529746"
+        ]
+      },
+      {
+        "Sha": "c9c0f541f46eb9d3a61b376cd916a19f5af8fb23",
+        "FileName": "ProducerConstructorMapInterceptor.java",
+        "Path": "apm-sniffer/apm-sdk-plugin/kafka-plugin/src/main/java/org/apache/skywalking/apm/plugin/kafka/ProducerConstructorMapInterceptor.java",
+        "DateUpdated": "2019-09-24T02:21:33Z",
+        "Additions": 5,
+        "Deletions": 1,
+        "Commits": [
+          "8de9f7d74ce2429391f92afbfc86360ffb529746"
+        ]
+      },
+      {
+        "Sha": "8f797d0d7737e7723be377d6c79717a1cfac5dd4",
+        "FileName": "AbstractKafkaTemplateInstrumentation.java",
+        "Path": "apm-sniffer/apm-sdk-plugin/kafka-plugin/src/main/java/org/apache/skywalking/apm/plugin/kafka/define/AbstractKafkaTemplateInstrumentation.java",
+        "DateUpdated": "2019-09-24T02:21:33Z",
+        "Additions": 32,
+        "Deletions": 0,
+        "Commits": [
+          "8de9f7d74ce2429391f92afbfc86360ffb529746"
+        ]
+      },
+      {
+        "Sha": "e8481dd6db5f9936f0e61f1a721a97534c5cd0ed",
+        "FileName": "KafkaTemplateCallbackInstrumentation.java",
+        "Path": "apm-sniffer/apm-sdk-plugin/kafka-plugin/src/main/java/org/apache/skywalking/apm/plugin/kafka/define/KafkaTemplateCallbackInstrumentation.java",
+        "DateUpdated": "2019-09-24T02:21:33Z",
+        "Additions": 66,
+        "Deletions": 0,
+        "Commits": [
+          "8de9f7d74ce2429391f92afbfc86360ffb529746"
+        ]
+      },
+      {
+        "Sha": "9b480a11ccbd07d3cc374707c1d3c617dfa24592",
+        "FileName": "KafkaTemplateInstrumentation.java",
+        "Path": "apm-sniffer/apm-sdk-plugin/kafka-plugin/src/main/java/org/apache/skywalking/apm/plugin/kafka/define/KafkaTemplateInstrumentation.java",
+        "DateUpdated": "2019-09-24T02:21:33Z",
+        "Additions": 72,
+        "Deletions": 0,
+        "Commits": [
+          "8de9f7d74ce2429391f92afbfc86360ffb529746"
+        ]
+      },
+      {
+        "Sha": "64f3d72fc7d4d2a332cfe9557acaddaeb3bf2b4d",
+        "FileName": "skywalking-plugin.def",
+        "Path": "apm-sniffer/apm-sdk-plugin/kafka-plugin/src/main/resources/skywalking-plugin.def",
+        "DateUpdated": "2019-09-24T02:21:33Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "8de9f7d74ce2429391f92afbfc86360ffb529746"
+        ]
+      },
+      {
+        "Sha": "818a52ab47d71191fd5cd749d1db092f6e18f513",
+        "FileName": "CallbackInterceptorTest.java",
+        "Path": "apm-sniffer/apm-sdk-plugin/kafka-plugin/src/test/java/org/apache/skywalking/apm/plugin/kafka/CallbackInterceptorTest.java",
+        "DateUpdated": "2019-09-24T02:21:33Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "8de9f7d74ce2429391f92afbfc86360ffb529746"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "8de9f7d74ce2429391f92afbfc86360ffb529746",
+        "Author": {
+          "name": "\"Stalary\"",
+          "location": "BeiJing",
+          "company": "Netease-Youdao"
+        },
+        "Commitor": {
+          "name": "\"å?´æ™Ÿ Wu Sheng\"",
+          "location": "Beijing(China), SF(US)",
+          "company": "@apache  @tetrateio "
+        },
+        "Date": "2019-09-24T02:21:33Z",
+        "additions": 412,
+        "deletions": 16,
+        "files": [
+          "f4a8142795d57f6dbbb0b524c2d5233e544cf229",
+          "6e48f8356ddf4548d40479dd3d1f2f97715699e3",
+          "9fb123abb7671f01573456e1520061e3b56fa5ba",
+          "68b41d9d038e17d61b7e92e0dcc60efbad41bf3f",
+          "5cc5abcde9c3b726fbf88b61ed351cb2eaa65836",
+          "a23b83a042dffb19ba39c388200105c9c0ef621e",
+          "c9c0f541f46eb9d3a61b376cd916a19f5af8fb23",
+          "8f797d0d7737e7723be377d6c79717a1cfac5dd4",
+          "e8481dd6db5f9936f0e61f1a721a97534c5cd0ed",
+          "9b480a11ccbd07d3cc374707c1d3c617dfa24592",
+          "64f3d72fc7d4d2a332cfe9557acaddaeb3bf2b4d",
+          "818a52ab47d71191fd5cd749d1db092f6e18f513"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "RepositoryName": "kylin",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T15:02:53Z",
+    "EndDate": "2019-09-23T16:02:53",
+    "Branches": 24,
+    "Forks": 1062,
+    "Files": [
+      {
+        "Sha": "fd86c6256c7313ac2eb4a8297aa52f6838640873",
+        "FileName": "DateFormat.java",
+        "Path": "core-common/src/main/java/org/apache/kylin/common/util/DateFormat.java",
+        "DateUpdated": "2019-09-23T15:46:34Z",
+        "Additions": 9,
+        "Deletions": 2,
+        "Commits": [
+          "19706b2e2aeac0e65ec467c55a8b90bb5b43ff51"
+        ]
+      },
+      {
+        "Sha": "46f5c9739af26a05bb3a590eaa9bc9ccb0a1712e",
+        "FileName": "BasicTest.java",
+        "Path": "core-common/src/test/java/org/apache/kylin/common/util/BasicTest.java",
+        "DateUpdated": "2019-09-23T15:46:34Z",
+        "Additions": 20,
+        "Deletions": 35,
+        "Commits": [
+          "19706b2e2aeac0e65ec467c55a8b90bb5b43ff51"
+        ]
+      },
+      {
+        "Sha": "7ad4dd3f7baa1ba10e183d35ec159e11c9a6d42a",
+        "FileName": "CubeManager.java",
+        "Path": "core-cube/src/main/java/org/apache/kylin/cube/CubeManager.java",
+        "DateUpdated": "2019-09-23T15:14:37Z",
+        "Additions": 20,
+        "Deletions": 16,
+        "Commits": [
+          "9ae2bd17489e87efacd7b177735c9ddc8e03e09f"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "19706b2e2aeac0e65ec467c55a8b90bb5b43ff51",
+        "Author": {
+          "name": "\"Ni Chunen\"",
+          "location": "Shanghai",
+          "company": "Kyligence"
+        },
+        "Commitor": {
+          "name": "\"Ni Chunen\"",
+          "location": "Shanghai",
+          "company": "Kyligence"
+        },
+        "Date": "2019-09-23T15:46:34Z",
+        "additions": 29,
+        "deletions": 37,
+        "files": [
+          "fd86c6256c7313ac2eb4a8297aa52f6838640873",
+          "46f5c9739af26a05bb3a590eaa9bc9ccb0a1712e"
+        ]
+      },
+      {
+        "sha": "9ae2bd17489e87efacd7b177735c9ddc8e03e09f",
+        "Author": {
+          "name": "\"Xiaoxiang Yu\"",
+          "location": "Shanghai, China",
+          "company": "@Kyligence "
+        },
+        "Commitor": {
+          "name": "\"Ni Chunen\"",
+          "location": "Shanghai",
+          "company": "Kyligence"
+        },
+        "Date": "2019-09-23T15:14:37Z",
+        "additions": 20,
+        "deletions": 16,
+        "files": [
+          "7ad4dd3f7baa1ba10e183d35ec159e11c9a6d42a"
+        ]
+      }
+    ]
+  }
+]

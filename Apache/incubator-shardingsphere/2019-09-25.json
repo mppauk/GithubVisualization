@@ -1,0 +1,2042 @@
+[
+  {
+    "RepositoryName": "incubator-shardingsphere",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T02:47:19Z",
+    "EndDate": "2019-09-25T03:47:19",
+    "Branches": 4,
+    "Forks": 3058,
+    "Files": [
+      {
+        "Sha": "821a5f6ff28a9940809a670a3529541c0070f142",
+        "FileName": "Authentication.java",
+        "Path": "sharding-core/sharding-core-common/src/main/java/org/apache/shardingsphere/core/rule/Authentication.java",
+        "DateUpdated": "2019-09-25T03:12:40Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "23610f4ef80b0283ff21d19e1a7a3aad2bde2f6e"
+        ]
+      },
+      {
+        "Sha": "6f1b9c84c2cb2e98a70372b4ccf1f6fcf53704c1",
+        "FileName": "YamlAuthenticationConfiguration.java",
+        "Path": "sharding-core/sharding-core-common/src/main/java/org/apache/shardingsphere/core/yaml/config/common/YamlAuthenticationConfiguration.java",
+        "DateUpdated": "2019-09-25T03:12:40Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "23610f4ef80b0283ff21d19e1a7a3aad2bde2f6e"
+        ]
+      },
+      {
+        "Sha": "3de0451948cd66a316dbee4dd83cca144aace0de",
+        "FileName": "dcl-integrate-test-cases.xml",
+        "Path": "sharding-integration-test/sharding-jdbc-test/src/test/resources/integrate/cases/dcl/dcl-integrate-test-cases.xml",
+        "DateUpdated": "2019-09-25T03:10:54Z",
+        "Additions": 120,
+        "Deletions": 24,
+        "Commits": [
+          "fcd7940e3f0f4aeedf6e51ae9043f8f090cfc013"
+        ]
+      },
+      {
+        "Sha": "59f0f86ccd22a6be21412ed336a78fe054b3c4bd",
+        "FileName": "create_user.xml",
+        "Path": "sharding-sql-test/src/main/resources/sql/sharding/dcl/create_user.xml",
+        "DateUpdated": "2019-09-25T03:10:54Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcd7940e3f0f4aeedf6e51ae9043f8f090cfc013"
+        ]
+      },
+      {
+        "Sha": "350257e82f1d9bf29d641679bd4a923bd6822dd4",
+        "FileName": "QueryRow.java",
+        "Path": "sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/row/QueryRow.java",
+        "DateUpdated": "2019-09-25T03:09:26Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "1332264f48d9389f9c2924462704a0ae5d0ece12"
+        ]
+      },
+      {
+        "Sha": "0de7c9ccdd4bcdbe5a426e6b26a31e9e5be1dbea",
+        "FileName": "QueryRowTest.java",
+        "Path": "sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/core/execute/sql/execute/row/QueryRowTest.java",
+        "DateUpdated": "2019-09-25T03:09:26Z",
+        "Additions": 9,
+        "Deletions": 0,
+        "Commits": [
+          "1332264f48d9389f9c2924462704a0ae5d0ece12"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "23610f4ef80b0283ff21d19e1a7a3aad2bde2f6e",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Liang Zhang\"",
+          "location": "Beijing China",
+          "company": "@apache @shardingjdbc @elasticjob "
+        },
+        "Date": "2019-09-25T03:12:40Z",
+        "additions": 4,
+        "deletions": 4,
+        "files": [
+          "821a5f6ff28a9940809a670a3529541c0070f142",
+          "6f1b9c84c2cb2e98a70372b4ccf1f6fcf53704c1"
+        ]
+      },
+      {
+        "sha": "fcd7940e3f0f4aeedf6e51ae9043f8f090cfc013",
+        "Author": {
+          "name": "\"Chris Cao\"",
+          "location": "Beijing, China",
+          "company": "@apache @sharding-sphere  @elasticjob "
+        },
+        "Commitor": {
+          "name": "\"Liang Zhang\"",
+          "location": "Beijing China",
+          "company": "@apache @shardingjdbc @elasticjob "
+        },
+        "Date": "2019-09-25T03:10:54Z",
+        "additions": 125,
+        "deletions": 29,
+        "files": [
+          "3de0451948cd66a316dbee4dd83cca144aace0de",
+          "59f0f86ccd22a6be21412ed336a78fe054b3c4bd"
+        ]
+      },
+      {
+        "sha": "1332264f48d9389f9c2924462704a0ae5d0ece12",
+        "Author": {
+          "name": "\"å­™ä¸?æœ?\"",
+          "location": "Beijing China",
+          "company": "@Apache"
+        },
+        "Commitor": {
+          "name": "\"Liang Zhang\"",
+          "location": "Beijing China",
+          "company": "@apache @shardingjdbc @elasticjob "
+        },
+        "Date": "2019-09-25T03:09:26Z",
+        "additions": 13,
+        "deletions": 1,
+        "files": [
+          "350257e82f1d9bf29d641679bd4a923bd6822dd4",
+          "0de7c9ccdd4bcdbe5a426e6b26a31e9e5be1dbea"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-shardingsphere",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T03:03:39Z",
+    "EndDate": "2019-09-25T04:03:39",
+    "Branches": 4,
+    "Forks": 3058,
+    "Files": [
+      {
+        "Sha": "821a5f6ff28a9940809a670a3529541c0070f142",
+        "FileName": "Authentication.java",
+        "Path": "sharding-core/sharding-core-common/src/main/java/org/apache/shardingsphere/core/rule/Authentication.java",
+        "DateUpdated": "2019-09-25T03:12:40Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "23610f4ef80b0283ff21d19e1a7a3aad2bde2f6e"
+        ]
+      },
+      {
+        "Sha": "6f1b9c84c2cb2e98a70372b4ccf1f6fcf53704c1",
+        "FileName": "YamlAuthenticationConfiguration.java",
+        "Path": "sharding-core/sharding-core-common/src/main/java/org/apache/shardingsphere/core/yaml/config/common/YamlAuthenticationConfiguration.java",
+        "DateUpdated": "2019-09-25T03:12:40Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "23610f4ef80b0283ff21d19e1a7a3aad2bde2f6e"
+        ]
+      },
+      {
+        "Sha": "3de0451948cd66a316dbee4dd83cca144aace0de",
+        "FileName": "dcl-integrate-test-cases.xml",
+        "Path": "sharding-integration-test/sharding-jdbc-test/src/test/resources/integrate/cases/dcl/dcl-integrate-test-cases.xml",
+        "DateUpdated": "2019-09-25T03:10:54Z",
+        "Additions": 120,
+        "Deletions": 24,
+        "Commits": [
+          "fcd7940e3f0f4aeedf6e51ae9043f8f090cfc013"
+        ]
+      },
+      {
+        "Sha": "59f0f86ccd22a6be21412ed336a78fe054b3c4bd",
+        "FileName": "create_user.xml",
+        "Path": "sharding-sql-test/src/main/resources/sql/sharding/dcl/create_user.xml",
+        "DateUpdated": "2019-09-25T03:10:54Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcd7940e3f0f4aeedf6e51ae9043f8f090cfc013"
+        ]
+      },
+      {
+        "Sha": "350257e82f1d9bf29d641679bd4a923bd6822dd4",
+        "FileName": "QueryRow.java",
+        "Path": "sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/row/QueryRow.java",
+        "DateUpdated": "2019-09-25T03:09:26Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "1332264f48d9389f9c2924462704a0ae5d0ece12"
+        ]
+      },
+      {
+        "Sha": "0de7c9ccdd4bcdbe5a426e6b26a31e9e5be1dbea",
+        "FileName": "QueryRowTest.java",
+        "Path": "sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/core/execute/sql/execute/row/QueryRowTest.java",
+        "DateUpdated": "2019-09-25T03:09:26Z",
+        "Additions": 9,
+        "Deletions": 0,
+        "Commits": [
+          "1332264f48d9389f9c2924462704a0ae5d0ece12"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "23610f4ef80b0283ff21d19e1a7a3aad2bde2f6e",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Liang Zhang\"",
+          "location": "Beijing China",
+          "company": "@apache @shardingjdbc @elasticjob "
+        },
+        "Date": "2019-09-25T03:12:40Z",
+        "additions": 4,
+        "deletions": 4,
+        "files": [
+          "821a5f6ff28a9940809a670a3529541c0070f142",
+          "6f1b9c84c2cb2e98a70372b4ccf1f6fcf53704c1"
+        ]
+      },
+      {
+        "sha": "fcd7940e3f0f4aeedf6e51ae9043f8f090cfc013",
+        "Author": {
+          "name": "\"Chris Cao\"",
+          "location": "Beijing, China",
+          "company": "@apache @sharding-sphere  @elasticjob "
+        },
+        "Commitor": {
+          "name": "\"Liang Zhang\"",
+          "location": "Beijing China",
+          "company": "@apache @shardingjdbc @elasticjob "
+        },
+        "Date": "2019-09-25T03:10:54Z",
+        "additions": 125,
+        "deletions": 29,
+        "files": [
+          "3de0451948cd66a316dbee4dd83cca144aace0de",
+          "59f0f86ccd22a6be21412ed336a78fe054b3c4bd"
+        ]
+      },
+      {
+        "sha": "1332264f48d9389f9c2924462704a0ae5d0ece12",
+        "Author": {
+          "name": "\"å­™ä¸?æœ?\"",
+          "location": "Beijing China",
+          "company": "@Apache"
+        },
+        "Commitor": {
+          "name": "\"Liang Zhang\"",
+          "location": "Beijing China",
+          "company": "@apache @shardingjdbc @elasticjob "
+        },
+        "Date": "2019-09-25T03:09:26Z",
+        "additions": 13,
+        "deletions": 1,
+        "files": [
+          "350257e82f1d9bf29d641679bd4a923bd6822dd4",
+          "0de7c9ccdd4bcdbe5a426e6b26a31e9e5be1dbea"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-shardingsphere",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T04:46:47Z",
+    "EndDate": "2019-09-25T05:46:47",
+    "Branches": 4,
+    "Forks": 3058,
+    "Files": [
+      {
+        "Sha": "63163b6d889727adcf82c220fcd66c62086c3279",
+        "FileName": "BaseShardingEngineTest.java",
+        "Path": "sharding-core/sharding-core-entry/src/test/java/org/apache/shardingsphere/core/BaseShardingEngineTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "7ae60cbcca811ade4985f1ff8820a1e013ac3234",
+        "FileName": "AggregationDistinctQueryMetaData.java",
+        "Path": "sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/result/AggregationDistinctQueryMetaData.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "99690b6370f145050b0be3ef18c8b0bb42a7ad7c",
+        "FileName": "AggregationDistinctQueryResult.java",
+        "Path": "sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/core/execute/sql/execute/result/AggregationDistinctQueryResult.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "76ee9d10efe4c597addb6c76e8f96b1668870c3e",
+        "FileName": "AggregationDistinctQueryMetaDataTest.java",
+        "Path": "sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/core/execute/sql/execute/result/AggregationDistinctQueryMetaDataTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "a8a7fc71aa5fda93e5d1a6691449cf6fbe5a5b3a",
+        "FileName": "AggregationDistinctQueryResultTest.java",
+        "Path": "sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/core/execute/sql/execute/result/AggregationDistinctQueryResultTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "1fe67ceed0e03b845d9bb09e2cf404880f714488",
+        "FileName": "MergeEngineFactory.java",
+        "Path": "sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/MergeEngineFactory.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "18590b38989e70738e0d9d412dca512fb9077cfe",
+        "FileName": "DALMergeEngine.java",
+        "Path": "sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dal/DALMergeEngine.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "fa59a1f11123bce2cfa677972e89307242a422e0",
+        "FileName": "DescribeTableMergedResult.java",
+        "Path": "sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dal/desc/DescribeTableMergedResult.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "2f91a5e89616659211492f2473a0d07a2e1210f8",
+        "FileName": "DQLMergeEngine.java",
+        "Path": "sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/DQLMergeEngine.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 8,
+        "Deletions": 7,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "7255e0227ed44fd9f4a03f6d2b568d995adafa12",
+        "FileName": "GroupByMemoryMergedResult.java",
+        "Path": "sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/groupby/GroupByMemoryMergedResult.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "4290ae3a5b5146338a15cfbe4a05e31732f32ef7",
+        "FileName": "GroupByRowComparator.java",
+        "Path": "sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/groupby/GroupByRowComparator.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "db32c628d0f66c9058e9f411ccf5e43196da95c5",
+        "FileName": "GroupByStreamMergedResult.java",
+        "Path": "sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/groupby/GroupByStreamMergedResult.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "d193da3912b6c347cb6a007020350107e7775fa3",
+        "FileName": "GroupByValue.java",
+        "Path": "sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/groupby/GroupByValue.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "8676fd30d2414ab5c8bd2c7dd7bc08e21c6c90f7",
+        "FileName": "OrderByStreamMergedResult.java",
+        "Path": "sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/orderby/OrderByStreamMergedResult.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "2dc134e6f2ada25c9c41d107a117aa8a1efa3c4b",
+        "FileName": "OrderByValue.java",
+        "Path": "sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/orderby/OrderByValue.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "f7b683f8e0e7d822987715129c4bf11ccc6af91a",
+        "FileName": "LimitDecoratorMergedResult.java",
+        "Path": "sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/pagination/LimitDecoratorMergedResult.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "d2b614e304c30c0725c68243c82bb0b60b879f8c",
+        "FileName": "RowNumberDecoratorMergedResult.java",
+        "Path": "sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/pagination/RowNumberDecoratorMergedResult.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "1ab8a30418e4b4f52bc983bc95eb4c0038b95890",
+        "FileName": "TopAndRowNumberDecoratorMergedResult.java",
+        "Path": "sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/core/merge/dql/pagination/TopAndRowNumberDecoratorMergedResult.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "460bc549b4b14b66307c16b5a14762f6bbd6b060",
+        "FileName": "MergeEngineFactoryTest.java",
+        "Path": "sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/MergeEngineFactoryTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 10,
+        "Deletions": 10,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "0e56c8ad3e028998f10038402496a9a2369c2b07",
+        "FileName": "DALMergeEngineTest.java",
+        "Path": "sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dal/DALMergeEngineTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "cef13dfbddb5d11e8b26b860cb0f2318b0648f27",
+        "FileName": "DescribeTableMergedResultTest.java",
+        "Path": "sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dal/desc/DescribeTableMergedResultTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "09e0c9f35464c9aecef2d5adf2eabd8c52162e7c",
+        "FileName": "DQLMergeEngineTest.java",
+        "Path": "sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/DQLMergeEngineTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 52,
+        "Deletions": 53,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "0a7a06c6a31c4d25b8f76f846490ef8065585a65",
+        "FileName": "GroupByMemoryMergedResultTest.java",
+        "Path": "sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/groupby/GroupByMemoryMergedResultTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 13,
+        "Deletions": 14,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "36d46db0370795173419513341a6cd9792b9a53d",
+        "FileName": "GroupByRowComparatorTest.java",
+        "Path": "sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/groupby/GroupByRowComparatorTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 13,
+        "Deletions": 14,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "2493fa19f3bc10d93a5120899ad02526bf36dd12",
+        "FileName": "GroupByStreamMergedResultTest.java",
+        "Path": "sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/groupby/GroupByStreamMergedResultTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 14,
+        "Deletions": 15,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "364dff3d245061ee82fffef345898c2ac77a3a08",
+        "FileName": "GroupByValueTest.java",
+        "Path": "sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/groupby/GroupByValueTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "13a31c7ff803f33d594962493496617e88c4a5d7",
+        "FileName": "IteratorStreamMergedResultTest.java",
+        "Path": "sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/iterator/IteratorStreamMergedResultTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 15,
+        "Deletions": 16,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "13c3927e7dbc477d2cf16f5876bf8435c1c16e7d",
+        "FileName": "OrderByStreamMergedResultTest.java",
+        "Path": "sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/orderby/OrderByStreamMergedResultTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 15,
+        "Deletions": 16,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "19fb3db0db32380f84280355cdec8be02089ad85",
+        "FileName": "OrderByValueTest.java",
+        "Path": "sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/orderby/OrderByValueTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "6d124cfc3146594cbcbaaffd5fb0e489ed5c1d18",
+        "FileName": "LimitDecoratorMergedResultTest.java",
+        "Path": "sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/pagination/LimitDecoratorMergedResultTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 15,
+        "Deletions": 16,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "db327bc7abd5f21a0106e62e7e4fd6463657d0ba",
+        "FileName": "RowNumberDecoratorMergedResultTest.java",
+        "Path": "sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/pagination/RowNumberDecoratorMergedResultTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 17,
+        "Deletions": 18,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "a1b42740675e5600ea77353d7754559cbf62e295",
+        "FileName": "TopAndRowNumberDecoratorMergedResultTest.java",
+        "Path": "sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/core/merge/dql/pagination/TopAndRowNumberDecoratorMergedResultTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 20,
+        "Deletions": 21,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "6e33a6e8b20ae18ae2a43b10e984ada783424696",
+        "FileName": "OptimizedStatementFactory.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/OptimizedStatementFactory.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "e38da8d891c7c64c851ccc82bd3487491283fa3e",
+        "FileName": "OptimizeEngine.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/api/engine/OptimizeEngine.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 0,
+        "Deletions": 46,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "c85bef535bf01d5d2c550014c2c6c3dab4c42640",
+        "FileName": "Table.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/Table.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "007419728a27bd0df33274db18dd0e5a6a83be54",
+        "FileName": "Tables.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/Tables.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "25138d3abd8e8c9dc142c3fd890bf3b38ea92495",
+        "FileName": "InsertValue.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/insert/InsertValue.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "e2774e73f16a61fbf32a83f0c4d97aac9815e257",
+        "FileName": "DerivedLiteralExpressionSegment.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/insert/expression/DerivedLiteralExpressionSegment.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "f17617cc4098c894c3df0e61d2e93b9cf69dab86",
+        "FileName": "DerivedParameterMarkerExpressionSegment.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/insert/expression/DerivedParameterMarkerExpressionSegment.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "ef7c930bebd8940187a23df8c5ff33fbb83ba417",
+        "FileName": "DerivedSimpleExpressionSegment.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/insert/expression/DerivedSimpleExpressionSegment.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "8254dd9fec9b76f987691b9abf4431cca5d5c862",
+        "FileName": "GroupBy.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/select/groupby/GroupBy.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "56ba253777fb8a86d724d309a0997245950929b4",
+        "FileName": "GroupByEngine.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/select/groupby/engine/GroupByEngine.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "421634807a11d6696ad2dd9ff8ca7e56e21986ff",
+        "FileName": "DerivedColumn.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/select/item/DerivedColumn.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "e158edf4a1cd49de2c7f10476a230dba3d8f03a4",
+        "FileName": "SelectItem.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/select/item/SelectItem.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "54296ca44d7d4043e26163ae2bab08c5bd1bbe10",
+        "FileName": "SelectItems.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/select/item/SelectItems.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 14,
+        "Deletions": 12,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "a82f5e9f9141be832b24dc06e555291175de74ba",
+        "FileName": "SelectItemEngine.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/select/item/engine/SelectItemEngine.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 8,
+        "Deletions": 8,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "5881dfe9c3d059720ed661094b231e42d24abd77",
+        "FileName": "SelectItemsEngine.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/select/item/engine/SelectItemsEngine.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 12,
+        "Deletions": 13,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "7f800c19bef405b0b8947955891a9a763679a4f3",
+        "FileName": "AggregationDistinctSelectItem.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/select/item/impl/AggregationDistinctSelectItem.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "2b2860341f535e4a586591c32481c46fdd912e2d",
+        "FileName": "AggregationSelectItem.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/select/item/impl/AggregationSelectItem.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "07726e60aa3541283d28af6ca7f35080951219b1",
+        "FileName": "ColumnSelectItem.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/select/item/impl/ColumnSelectItem.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "6c055f21c48584c5a74d09945aef193b8dcf7bbe",
+        "FileName": "DerivedSelectItem.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/select/item/impl/DerivedSelectItem.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "6565689307c74b19196f42982f5e7bf78c0b402f",
+        "FileName": "ExpressionSelectItem.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/select/item/impl/ExpressionSelectItem.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "2ee3069fdf2d54a815e942d97aaaeda8e5a1f79b",
+        "FileName": "ShorthandSelectItem.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/select/item/impl/ShorthandSelectItem.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "6fc60ee4e8f5d96c0578ee384bb90bfc89d3b253",
+        "FileName": "OrderBy.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/select/orderby/OrderBy.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "087706a4a09d58d687a5d4ba1014675cf564395e",
+        "FileName": "OrderByItem.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/select/orderby/OrderByItem.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "591bb07bd4b6c1b91246b41bac826fb8f0fe7515",
+        "FileName": "OrderByEngine.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/select/orderby/engine/OrderByEngine.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 4,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "c1e9db694eb1ec719c15813d19a41c8ecb930292",
+        "FileName": "Pagination.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/select/pagination/Pagination.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "27f54ac052a4c9e7853c9a38c764aaaa745c5682",
+        "FileName": "LimitPaginationEngine.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/select/pagination/engine/LimitPaginationEngine.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "39d8eb2eded072ad982d65b36d225de2f810a08b",
+        "FileName": "PaginationEngine.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/select/pagination/engine/PaginationEngine.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "0c33604245c2eb600034ca17c46fa474eeb4aaa1",
+        "FileName": "RowNumberPaginationEngine.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/select/pagination/engine/RowNumberPaginationEngine.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "35f7a36a492e123f61e173b21254b61c11e16e43",
+        "FileName": "TopPaginationEngine.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/segment/select/pagination/engine/TopPaginationEngine.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "c638b48733d923872a17445684a890b6f18f8553",
+        "FileName": "ShardingSelectOptimizeEngine.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/sharding/engnie/ShardingSelectOptimizeEngine.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 0,
+        "Deletions": 68,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "08ecc4d87fbda7185d1b8dee3d96759724ff1274",
+        "FileName": "OptimizedStatement.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/statement/OptimizedStatement.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "34056ae631cadf559afe30b8862733d80e7f9655",
+        "FileName": "CommonOptimizedStatement.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/statement/impl/CommonOptimizedStatement.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 4,
+        "Deletions": 3,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "ccfd2fcb254789b379e9c812aad66fb85a47582c",
+        "FileName": "InsertOptimizedStatement.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/statement/impl/InsertOptimizedStatement.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 9,
+        "Deletions": 15,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "3d74f24bad63862de36b88dc4ef33eb2a0d800d1",
+        "FileName": "SelectOptimizedStatement.java",
+        "Path": "sharding-core/sharding-core-optimize/src/main/java/org/apache/shardingsphere/core/optimize/statement/impl/SelectOptimizedStatement.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 52,
+        "Deletions": 22,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "3f5691a7e3dfa999d1ee714c220c027b5ee0086f",
+        "FileName": "TestQueryAssistedShardingEncryptor.java",
+        "Path": "sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/fixture/TestQueryAssistedShardingEncryptor.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 0,
+        "Deletions": 55,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "369967b8fcdc667a44e17c7d6c2978258ae1bc14",
+        "FileName": "TestShardingEncryptor.java",
+        "Path": "sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/fixture/TestShardingEncryptor.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 0,
+        "Deletions": 50,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "ede40ff79be1222bc346aaafae24e702b5ac835d",
+        "FileName": "TestShardingKeyGenerator.java",
+        "Path": "sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/fixture/TestShardingKeyGenerator.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 0,
+        "Deletions": 44,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "5d9f436d9605f4aed33cac7a58171dba1b0fb77d",
+        "FileName": "TablesTest.java",
+        "Path": "sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/segment/TablesTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "ab7025f59b6555c4453b22e84a372521949d324b",
+        "FileName": "DerivedColumnTest.java",
+        "Path": "sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/segment/select/item/DerivedColumnTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "1d0848d9809bb4f4a8d19e77ade6478061dda2c7",
+        "FileName": "SelectItemsTest.java",
+        "Path": "sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/segment/select/item/SelectItemsTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 29,
+        "Deletions": 24,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "82cb0fd3e4aef20523282bc7dab1ac1176e46293",
+        "FileName": "AggregationDistinctSelectItemTest.java",
+        "Path": "sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/segment/select/item/impl/AggregationDistinctSelectItemTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "5f372a5d7b5ea47d3fef864354c328281a704816",
+        "FileName": "PaginationTest.java",
+        "Path": "sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/segment/select/pagination/PaginationTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 7,
+        "Deletions": 6,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "cb551286b5ed26b35942f680626fbfd2a7658895",
+        "FileName": "ShardingSelectOptimizeEngineTest.java",
+        "Path": "sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/sharding/engnie/ShardingSelectOptimizeEngineTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 0,
+        "Deletions": 190,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "8d8bcdc3049bde6f7eef4fbc4db3f6777baaecf5",
+        "FileName": "InsertOptimizeStatementTest.java",
+        "Path": "sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/statement/impl/InsertOptimizeStatementTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "2417573c97e210a5c77ae42d970eb311efbda94f",
+        "FileName": "SelectOptimizedStatementTest.java",
+        "Path": "sharding-core/sharding-core-optimize/src/test/java/org/apache/shardingsphere/core/optimize/statement/impl/SelectOptimizedStatementTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 35,
+        "Deletions": 20,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "7c67ed5ba0b9d99938582b9052546a02d6ccc6aa",
+        "FileName": "org.apache.shardingsphere.spi.encrypt.ShardingEncryptor",
+        "Path": "sharding-core/sharding-core-optimize/src/test/resources/META-INF/services/org.apache.shardingsphere.spi.encrypt.ShardingEncryptor",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 0,
+        "Deletions": 19,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "68d7ed7dd9e1f13d5bbf62a69312af97ef2c01e0",
+        "FileName": "org.apache.shardingsphere.spi.keygen.ShardingKeyGenerator",
+        "Path": "sharding-core/sharding-core-optimize/src/test/resources/META-INF/services/org.apache.shardingsphere.spi.keygen.ShardingKeyGenerator",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 0,
+        "Deletions": 18,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "496fc5c1453d8d0a9bd37bdc3d03c6bf2628807b",
+        "FileName": "optimize-rule.yaml",
+        "Path": "sharding-core/sharding-core-optimize/src/test/resources/yaml/optimize-rule.yaml",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 0,
+        "Deletions": 88,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "81d6710c21837a55ddf29eae6f08922234813e6f",
+        "FileName": "SQLRewriteEngine.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/SQLRewriteEngine.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "fb9d17bee216d6a02c9d4d3255fe21b5522f501d",
+        "FileName": "StandardParameterBuilder.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/builder/parameter/standard/StandardParameterBuilder.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "389ccf3a62e6fd2e06a9d1956ee8b1c192f104fb",
+        "FileName": "WhereClauseEncryptConditionEngine.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/encrypt/WhereClauseEncryptConditionEngine.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "d978df25cff97ffbd26e9964ef43967010b78753",
+        "FileName": "InsertRewriteStatement.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/statement/InsertRewriteStatement.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "d61301339eed8c17294561ba484f8a0999de90c2",
+        "FileName": "RewriteStatement.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/statement/RewriteStatement.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "7d91f8dee74e53eddc97ee5a1151395d9bcbc336",
+        "FileName": "RewriteStatementFactory.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/statement/RewriteStatementFactory.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "2e770cdd9b0a25b928aebf186326c116fbba7bd5",
+        "FileName": "AggregationDistinctTokenGenerator.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/AggregationDistinctTokenGenerator.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "7c1e28a6d9bc49129b36a4150399b6ce26d1c22f",
+        "FileName": "InsertCipherNameTokenGenerator.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/InsertCipherNameTokenGenerator.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "55ae7f546fd806f7a23d2b18e59184300b949b8b",
+        "FileName": "InsertGeneratedKeyNameTokenGenerator.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/InsertGeneratedKeyNameTokenGenerator.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "c7d44d0b03abb51468a101ebc24c7cd760f0e860",
+        "FileName": "InsertQueryAndPlainNamesTokenGenerator.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/InsertQueryAndPlainNamesTokenGenerator.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "51aab376be97bf8506aa28e5ecb48c6a40953ee7",
+        "FileName": "InsertRegularNamesTokenGenerator.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/InsertRegularNamesTokenGenerator.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "30e3c91ef60823323bd022554011ae58e7967b2a",
+        "FileName": "InsertSetCipherColumnTokenGenerator.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/InsertSetCipherColumnTokenGenerator.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "316657bc32cc51a37aa034af19672ff3df7a7478",
+        "FileName": "InsertSetGeneratedKeyColumnTokenGenerator.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/InsertSetGeneratedKeyColumnTokenGenerator.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "6383442c443ab2b2f9e5fd06b14b54a8c1f5d2f7",
+        "FileName": "InsertSetQueryAndPlainColumnsTokenGenerator.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/InsertSetQueryAndPlainColumnsTokenGenerator.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "0e7781573b841e24471dc7e0ad912a86444a63a5",
+        "FileName": "InsertValuesTokenGenerator.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/InsertValuesTokenGenerator.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "fd3e7fd7ee4706afda91001765c212bac779afce",
+        "FileName": "OffsetTokenGenerator.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/OffsetTokenGenerator.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "efdbd7397da444b379d793cd97a10c7b38452979",
+        "FileName": "OrderByTokenGenerator.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/OrderByTokenGenerator.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "8bf992e3151ab64ffec1b7b7feb3fbb28d2102db",
+        "FileName": "RowCountTokenGenerator.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/RowCountTokenGenerator.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "8231771de238049501a2e314bfeb6080cc3f81c1",
+        "FileName": "SelectEncryptItemTokenGenerator.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/SelectEncryptItemTokenGenerator.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "d5c6490fb91aa402d773e7ae36c0fb13f2cd68b9",
+        "FileName": "SelectItemPrefixTokenGenerator.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/SelectItemPrefixTokenGenerator.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "81dd5d56e0c64f3209683ebdb3724e5eaf10c9b1",
+        "FileName": "SelectItemsTokenGenerator.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/SelectItemsTokenGenerator.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "ea8529a1d65d12debe4076ea7ff09c8d95bc55ff",
+        "FileName": "TableTokenGenerator.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/TableTokenGenerator.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "2e6422c28151de2d28e9d62388ad3d14ce0781cb",
+        "FileName": "UpdateEncryptColumnTokenGenerator.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/core/rewrite/token/generator/UpdateEncryptColumnTokenGenerator.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "ae7bc7d3fdcf14c38bfaa6a07a7fb9bb7709c4ff",
+        "FileName": "StandardParameterBuilderTest.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/test/java/org/apache/shardingsphere/core/rewrite/builder/parameter/standard/StandardParameterBuilderTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "caabcfd1715415724d5d586a7992444a5de50094",
+        "FileName": "EncryptSQLRewriteEngineTest.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/test/java/org/apache/shardingsphere/core/rewrite/rewriter/EncryptSQLRewriteEngineTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "71f7769e08fc3538ecb58af3cc0d1f254c5e6450",
+        "FileName": "ShardingSQLRewriteEngineTest.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/test/java/org/apache/shardingsphere/core/rewrite/rewriter/ShardingSQLRewriteEngineTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 36,
+        "Deletions": 36,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "4fa71de23d767b570cc247a22f51f4450ba3f1ea",
+        "FileName": "SQLTokenGenerateEngineTest.java",
+        "Path": "sharding-core/sharding-core-rewrite/src/test/java/org/apache/shardingsphere/core/rewrite/token/SQLTokenGenerateEngineTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 13,
+        "Deletions": 14,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "f4f37991fe27c6f932a2d2bd79228d5e00be86df",
+        "FileName": "SQLLogger.java",
+        "Path": "sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/SQLLogger.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "1347bc5e9b56b2b3eab7dad1ce423f0721cca806",
+        "FileName": "SQLRouteResult.java",
+        "Path": "sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/SQLRouteResult.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "3cdb9624890f521e5af2abe6d276ace54114129e",
+        "FileName": "RoutingEngineFactory.java",
+        "Path": "sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/RoutingEngineFactory.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "5f6a7cdaa324817d3d842bdb570345d0b9a4a2a8",
+        "FileName": "ShardingRouter.java",
+        "Path": "sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/ShardingRouter.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "c536139639ebcec7aed212dbe7343c39eb0cb2fc",
+        "FileName": "Column.java",
+        "Path": "sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/condition/Column.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "0d503ec0b26be69296c2d471542a7115367935cb",
+        "FileName": "InsertClauseShardingConditionEngine.java",
+        "Path": "sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/condition/engine/InsertClauseShardingConditionEngine.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "4954ce8a5fca4bef9122651f5ce63f28ba1b4749",
+        "FileName": "WhereClauseShardingConditionEngine.java",
+        "Path": "sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/condition/engine/WhereClauseShardingConditionEngine.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "c924d763a606f0769fcd91dec40d854a69b05566",
+        "FileName": "ConditionValueGenerator.java",
+        "Path": "sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/condition/generator/ConditionValueGenerator.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "ba737962fceafea072194cfb42154b3a93629b5f",
+        "FileName": "ConditionValueGeneratorFactory.java",
+        "Path": "sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/condition/generator/ConditionValueGeneratorFactory.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "a98e1d30722e1340b4b7eed1be32d9a8fbb3949c",
+        "FileName": "ConditionValueBetweenOperatorGenerator.java",
+        "Path": "sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/condition/generator/impl/ConditionValueBetweenOperatorGenerator.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "5a7fbedf891cb1068d8cc5fb17fe6a8fffab1c01",
+        "FileName": "ConditionValueCompareOperatorGenerator.java",
+        "Path": "sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/condition/generator/impl/ConditionValueCompareOperatorGenerator.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "13771fef417cfedcc052280deecb40eb5786cd0e",
+        "FileName": "ConditionValueInOperatorGenerator.java",
+        "Path": "sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/condition/generator/impl/ConditionValueInOperatorGenerator.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "58a9c16af963cb4627e12442ec9f92b6ca13c54d",
+        "FileName": "ShardingUpdateStatementValidator.java",
+        "Path": "sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/router/sharding/validator/impl/ShardingUpdateStatementValidator.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "2a8d1e188d917be67cd94f5dfb04e5966637b4a2",
+        "FileName": "TableBroadcastRoutingEngine.java",
+        "Path": "sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/broadcast/TableBroadcastRoutingEngine.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "08ac06c8eae43952f9c3d09399f721a2ff295cb1",
+        "FileName": "ComplexRoutingEngine.java",
+        "Path": "sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/complex/ComplexRoutingEngine.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "f5809028d60360ccb9a808b18bd59f530b714020",
+        "FileName": "StandardRoutingEngine.java",
+        "Path": "sharding-core/sharding-core-route/src/main/java/org/apache/shardingsphere/core/route/type/standard/StandardRoutingEngine.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "27077bc657c36eaa0fb6b3da107da7024c2fe8db",
+        "FileName": "DatabaseTest.java",
+        "Path": "sharding-core/sharding-core-route/src/test/java/org/apache/shardingsphere/core/route/DatabaseTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "c08b63e984048cf8894b6dfa3d6b8b69c770eeab",
+        "FileName": "ShardingMasterSlaveRouterTest.java",
+        "Path": "sharding-core/sharding-core-route/src/test/java/org/apache/shardingsphere/core/route/router/masterslave/ShardingMasterSlaveRouterTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "632bb846a3594cfb34b8e8b07c63ee06e3de6d87",
+        "FileName": "RoutingEngineFactoryTest.java",
+        "Path": "sharding-core/sharding-core-route/src/test/java/org/apache/shardingsphere/core/route/router/sharding/RoutingEngineFactoryTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "6a22f026ba8679b6f11d1d5e540a6d0bb4348d3f",
+        "FileName": "ColumnTest.java",
+        "Path": "sharding-core/sharding-core-route/src/test/java/org/apache/shardingsphere/core/route/router/sharding/condition/ColumnTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "2945677d970c7dc3ea89c45e1ef7b9282fd914f0",
+        "FileName": "TableBroadcastRoutingEngineTest.java",
+        "Path": "sharding-core/sharding-core-route/src/test/java/org/apache/shardingsphere/core/route/type/broadcast/TableBroadcastRoutingEngineTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "6c725cea575d51c0bf26f80de4c76a8bf1a53351",
+        "FileName": "ComplexRoutingEngineTest.java",
+        "Path": "sharding-core/sharding-core-route/src/test/java/org/apache/shardingsphere/core/route/type/complex/ComplexRoutingEngineTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 9,
+        "Deletions": 10,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "d0fe9a0a29b7d0ac3b6e1360aefe74752c15b972",
+        "FileName": "StandardRoutingEngineTest.java",
+        "Path": "sharding-core/sharding-core-route/src/test/java/org/apache/shardingsphere/core/route/type/standard/StandardRoutingEngineTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 10,
+        "Deletions": 11,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "5bbe78bbfe3980a1755a6ab34412a205bc3551a3",
+        "FileName": "AbstractStatementExecutor.java",
+        "Path": "sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/AbstractStatementExecutor.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "a9e74eb5530b72f13d90cda352da23994715fe77",
+        "FileName": "EncryptResultSet.java",
+        "Path": "sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/resultset/EncryptResultSet.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "b4520b14ef2083564dfa004ee338df58379deab0",
+        "FileName": "EncryptResultSetMetaData.java",
+        "Path": "sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/resultset/EncryptResultSetMetaData.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "e411af9fc0ed7f18bd6f264cba0a6cb5cccfcf24",
+        "FileName": "ShardingResultSetMetaData.java",
+        "Path": "sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/resultset/ShardingResultSetMetaData.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "33982785866fedc0d10a57f68854229c1060654d",
+        "FileName": "EncryptPreparedStatement.java",
+        "Path": "sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/EncryptPreparedStatement.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "ca7719ab7ffb47cd6cb037412d9ccef05a2d706d",
+        "FileName": "EncryptStatement.java",
+        "Path": "sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/EncryptStatement.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "5b2bd84df6fcb79a555709545b74d83ab74299a0",
+        "FileName": "ShardingPreparedStatement.java",
+        "Path": "sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingPreparedStatement.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "7d25b468852661f2e02129a020b3af3f7c6207e0",
+        "FileName": "ShardingStatement.java",
+        "Path": "sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "91b5278a19fe75e5a2dcbac0f36f872c7c85e19f",
+        "FileName": "ShardingResultSetTest.java",
+        "Path": "sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/resultset/ShardingResultSetTest.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "25695337c5178313e7838f102b15dd528752e0e9",
+        "FileName": "JDBCDatabaseCommunicationEngine.java",
+        "Path": "sharding-proxy/sharding-proxy-backend/src/main/java/org/apache/shardingsphere/shardingproxy/backend/communication/jdbc/JDBCDatabaseCommunicationEngine.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "5222535e743b2a9c4b0d06a21b7dcc52351f621d",
+        "FileName": "PreparedStatementExecutorWrapper.java",
+        "Path": "sharding-proxy/sharding-proxy-backend/src/main/java/org/apache/shardingsphere/shardingproxy/backend/communication/jdbc/wrapper/PreparedStatementExecutorWrapper.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "efc37732aa8a04fe08193766d9069d4bc94a2f39",
+        "FileName": "StatementExecutorWrapper.java",
+        "Path": "sharding-proxy/sharding-proxy-backend/src/main/java/org/apache/shardingsphere/shardingproxy/backend/communication/jdbc/wrapper/StatementExecutorWrapper.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "d326221a2399ff1b0945022217fab3855129f228",
+        "FileName": "LogicSchema.java",
+        "Path": "sharding-proxy/sharding-proxy-backend/src/main/java/org/apache/shardingsphere/shardingproxy/backend/schema/LogicSchema.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "11c0095498adb6e34b1a18689e81534c1c42dcdb",
+        "FileName": "ShardingSchema.java",
+        "Path": "sharding-proxy/sharding-proxy-backend/src/main/java/org/apache/shardingsphere/shardingproxy/backend/schema/impl/ShardingSchema.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      },
+      {
+        "Sha": "10217dad19c3df21ae0b0f766e2e2b0e7d3e9ed5",
+        "FileName": "MySQLComStmtPrepareExecutor.java",
+        "Path": "sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/query/binary/prepare/MySQLComStmtPrepareExecutor.java",
+        "DateUpdated": "2019-09-25T05:07:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "461c1c74dfba7290e4923388bfd7f394406dfa5c"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "461c1c74dfba7290e4923388bfd7f394406dfa5c",
+        "Author": {
+          "name": "\"Liang Zhang\"",
+          "location": "Beijing China",
+          "company": "@apache @shardingjdbc @elasticjob "
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T05:07:44Z",
+        "additions": 621,
+        "deletions": 1152,
+        "files": [
+          "63163b6d889727adcf82c220fcd66c62086c3279",
+          "7ae60cbcca811ade4985f1ff8820a1e013ac3234",
+          "99690b6370f145050b0be3ef18c8b0bb42a7ad7c",
+          "76ee9d10efe4c597addb6c76e8f96b1668870c3e",
+          "a8a7fc71aa5fda93e5d1a6691449cf6fbe5a5b3a",
+          "1fe67ceed0e03b845d9bb09e2cf404880f714488",
+          "18590b38989e70738e0d9d412dca512fb9077cfe",
+          "fa59a1f11123bce2cfa677972e89307242a422e0",
+          "2f91a5e89616659211492f2473a0d07a2e1210f8",
+          "7255e0227ed44fd9f4a03f6d2b568d995adafa12",
+          "4290ae3a5b5146338a15cfbe4a05e31732f32ef7",
+          "db32c628d0f66c9058e9f411ccf5e43196da95c5",
+          "d193da3912b6c347cb6a007020350107e7775fa3",
+          "8676fd30d2414ab5c8bd2c7dd7bc08e21c6c90f7",
+          "2dc134e6f2ada25c9c41d107a117aa8a1efa3c4b",
+          "f7b683f8e0e7d822987715129c4bf11ccc6af91a",
+          "d2b614e304c30c0725c68243c82bb0b60b879f8c",
+          "1ab8a30418e4b4f52bc983bc95eb4c0038b95890",
+          "460bc549b4b14b66307c16b5a14762f6bbd6b060",
+          "0e56c8ad3e028998f10038402496a9a2369c2b07",
+          "cef13dfbddb5d11e8b26b860cb0f2318b0648f27",
+          "09e0c9f35464c9aecef2d5adf2eabd8c52162e7c",
+          "0a7a06c6a31c4d25b8f76f846490ef8065585a65",
+          "36d46db0370795173419513341a6cd9792b9a53d",
+          "2493fa19f3bc10d93a5120899ad02526bf36dd12",
+          "364dff3d245061ee82fffef345898c2ac77a3a08",
+          "13a31c7ff803f33d594962493496617e88c4a5d7",
+          "13c3927e7dbc477d2cf16f5876bf8435c1c16e7d",
+          "19fb3db0db32380f84280355cdec8be02089ad85",
+          "6d124cfc3146594cbcbaaffd5fb0e489ed5c1d18",
+          "db327bc7abd5f21a0106e62e7e4fd6463657d0ba",
+          "a1b42740675e5600ea77353d7754559cbf62e295",
+          "6e33a6e8b20ae18ae2a43b10e984ada783424696",
+          "e38da8d891c7c64c851ccc82bd3487491283fa3e",
+          "c85bef535bf01d5d2c550014c2c6c3dab4c42640",
+          "007419728a27bd0df33274db18dd0e5a6a83be54",
+          "25138d3abd8e8c9dc142c3fd890bf3b38ea92495",
+          "e2774e73f16a61fbf32a83f0c4d97aac9815e257",
+          "f17617cc4098c894c3df0e61d2e93b9cf69dab86",
+          "ef7c930bebd8940187a23df8c5ff33fbb83ba417",
+          "8254dd9fec9b76f987691b9abf4431cca5d5c862",
+          "56ba253777fb8a86d724d309a0997245950929b4",
+          "421634807a11d6696ad2dd9ff8ca7e56e21986ff",
+          "e158edf4a1cd49de2c7f10476a230dba3d8f03a4",
+          "54296ca44d7d4043e26163ae2bab08c5bd1bbe10",
+          "a82f5e9f9141be832b24dc06e555291175de74ba",
+          "5881dfe9c3d059720ed661094b231e42d24abd77",
+          "7f800c19bef405b0b8947955891a9a763679a4f3",
+          "2b2860341f535e4a586591c32481c46fdd912e2d",
+          "07726e60aa3541283d28af6ca7f35080951219b1",
+          "6c055f21c48584c5a74d09945aef193b8dcf7bbe",
+          "6565689307c74b19196f42982f5e7bf78c0b402f",
+          "2ee3069fdf2d54a815e942d97aaaeda8e5a1f79b",
+          "6fc60ee4e8f5d96c0578ee384bb90bfc89d3b253",
+          "087706a4a09d58d687a5d4ba1014675cf564395e",
+          "591bb07bd4b6c1b91246b41bac826fb8f0fe7515",
+          "c1e9db694eb1ec719c15813d19a41c8ecb930292",
+          "27f54ac052a4c9e7853c9a38c764aaaa745c5682",
+          "39d8eb2eded072ad982d65b36d225de2f810a08b",
+          "0c33604245c2eb600034ca17c46fa474eeb4aaa1",
+          "35f7a36a492e123f61e173b21254b61c11e16e43",
+          "c638b48733d923872a17445684a890b6f18f8553",
+          "08ecc4d87fbda7185d1b8dee3d96759724ff1274",
+          "34056ae631cadf559afe30b8862733d80e7f9655",
+          "ccfd2fcb254789b379e9c812aad66fb85a47582c",
+          "3d74f24bad63862de36b88dc4ef33eb2a0d800d1",
+          "3f5691a7e3dfa999d1ee714c220c027b5ee0086f",
+          "369967b8fcdc667a44e17c7d6c2978258ae1bc14",
+          "ede40ff79be1222bc346aaafae24e702b5ac835d",
+          "5d9f436d9605f4aed33cac7a58171dba1b0fb77d",
+          "ab7025f59b6555c4453b22e84a372521949d324b",
+          "1d0848d9809bb4f4a8d19e77ade6478061dda2c7",
+          "82cb0fd3e4aef20523282bc7dab1ac1176e46293",
+          "5f372a5d7b5ea47d3fef864354c328281a704816",
+          "cb551286b5ed26b35942f680626fbfd2a7658895",
+          "8d8bcdc3049bde6f7eef4fbc4db3f6777baaecf5",
+          "2417573c97e210a5c77ae42d970eb311efbda94f",
+          "7c67ed5ba0b9d99938582b9052546a02d6ccc6aa",
+          "68d7ed7dd9e1f13d5bbf62a69312af97ef2c01e0",
+          "496fc5c1453d8d0a9bd37bdc3d03c6bf2628807b",
+          "81d6710c21837a55ddf29eae6f08922234813e6f",
+          "fb9d17bee216d6a02c9d4d3255fe21b5522f501d",
+          "389ccf3a62e6fd2e06a9d1956ee8b1c192f104fb",
+          "d978df25cff97ffbd26e9964ef43967010b78753",
+          "d61301339eed8c17294561ba484f8a0999de90c2",
+          "7d91f8dee74e53eddc97ee5a1151395d9bcbc336",
+          "2e770cdd9b0a25b928aebf186326c116fbba7bd5",
+          "7c1e28a6d9bc49129b36a4150399b6ce26d1c22f",
+          "55ae7f546fd806f7a23d2b18e59184300b949b8b",
+          "c7d44d0b03abb51468a101ebc24c7cd760f0e860",
+          "51aab376be97bf8506aa28e5ecb48c6a40953ee7",
+          "30e3c91ef60823323bd022554011ae58e7967b2a",
+          "316657bc32cc51a37aa034af19672ff3df7a7478",
+          "6383442c443ab2b2f9e5fd06b14b54a8c1f5d2f7",
+          "0e7781573b841e24471dc7e0ad912a86444a63a5",
+          "fd3e7fd7ee4706afda91001765c212bac779afce",
+          "efdbd7397da444b379d793cd97a10c7b38452979",
+          "8bf992e3151ab64ffec1b7b7feb3fbb28d2102db",
+          "8231771de238049501a2e314bfeb6080cc3f81c1",
+          "d5c6490fb91aa402d773e7ae36c0fb13f2cd68b9",
+          "81dd5d56e0c64f3209683ebdb3724e5eaf10c9b1",
+          "ea8529a1d65d12debe4076ea7ff09c8d95bc55ff",
+          "2e6422c28151de2d28e9d62388ad3d14ce0781cb",
+          "ae7bc7d3fdcf14c38bfaa6a07a7fb9bb7709c4ff",
+          "caabcfd1715415724d5d586a7992444a5de50094",
+          "71f7769e08fc3538ecb58af3cc0d1f254c5e6450",
+          "4fa71de23d767b570cc247a22f51f4450ba3f1ea",
+          "f4f37991fe27c6f932a2d2bd79228d5e00be86df",
+          "1347bc5e9b56b2b3eab7dad1ce423f0721cca806",
+          "3cdb9624890f521e5af2abe6d276ace54114129e",
+          "5f6a7cdaa324817d3d842bdb570345d0b9a4a2a8",
+          "c536139639ebcec7aed212dbe7343c39eb0cb2fc",
+          "0d503ec0b26be69296c2d471542a7115367935cb",
+          "4954ce8a5fca4bef9122651f5ce63f28ba1b4749",
+          "c924d763a606f0769fcd91dec40d854a69b05566",
+          "ba737962fceafea072194cfb42154b3a93629b5f",
+          "a98e1d30722e1340b4b7eed1be32d9a8fbb3949c",
+          "5a7fbedf891cb1068d8cc5fb17fe6a8fffab1c01",
+          "13771fef417cfedcc052280deecb40eb5786cd0e",
+          "58a9c16af963cb4627e12442ec9f92b6ca13c54d",
+          "2a8d1e188d917be67cd94f5dfb04e5966637b4a2",
+          "08ac06c8eae43952f9c3d09399f721a2ff295cb1",
+          "f5809028d60360ccb9a808b18bd59f530b714020",
+          "27077bc657c36eaa0fb6b3da107da7024c2fe8db",
+          "c08b63e984048cf8894b6dfa3d6b8b69c770eeab",
+          "632bb846a3594cfb34b8e8b07c63ee06e3de6d87",
+          "6a22f026ba8679b6f11d1d5e540a6d0bb4348d3f",
+          "2945677d970c7dc3ea89c45e1ef7b9282fd914f0",
+          "6c725cea575d51c0bf26f80de4c76a8bf1a53351",
+          "d0fe9a0a29b7d0ac3b6e1360aefe74752c15b972",
+          "5bbe78bbfe3980a1755a6ab34412a205bc3551a3",
+          "a9e74eb5530b72f13d90cda352da23994715fe77",
+          "b4520b14ef2083564dfa004ee338df58379deab0",
+          "e411af9fc0ed7f18bd6f264cba0a6cb5cccfcf24",
+          "33982785866fedc0d10a57f68854229c1060654d",
+          "ca7719ab7ffb47cd6cb037412d9ccef05a2d706d",
+          "5b2bd84df6fcb79a555709545b74d83ab74299a0",
+          "7d25b468852661f2e02129a020b3af3f7c6207e0",
+          "91b5278a19fe75e5a2dcbac0f36f872c7c85e19f",
+          "25695337c5178313e7838f102b15dd528752e0e9",
+          "5222535e743b2a9c4b0d06a21b7dcc52351f621d",
+          "efc37732aa8a04fe08193766d9069d4bc94a2f39",
+          "d326221a2399ff1b0945022217fab3855129f228",
+          "11c0095498adb6e34b1a18689e81534c1c42dcdb",
+          "10217dad19c3df21ae0b0f766e2e2b0e7d3e9ed5"
+        ]
+      }
+    ]
+  }
+]

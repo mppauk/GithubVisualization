@@ -1,0 +1,44 @@
+[
+  {
+    "RepositoryName": "lucene-solr",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T04:03:28Z",
+    "EndDate": "2019-09-26T05:03:28",
+    "Branches": 97,
+    "Forks": 2049,
+    "Files": [
+      {
+        "Sha": "ae4358dd15f0233be5fb53270916f890187a7d97",
+        "FileName": "json-facet-api.adoc",
+        "Path": "solr/solr-ref-guide/src/json-facet-api.adoc",
+        "DateUpdated": "2019-09-26T04:20:34Z",
+        "Additions": 90,
+        "Deletions": 0,
+        "Commits": [
+          "42e64ffd53def30dd2bfe2ddb955e9c8d8e83329"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "42e64ffd53def30dd2bfe2ddb955e9c8d8e83329",
+        "Author": {
+          "name": "\"S N Munendra\"",
+          "location": "India",
+          "company": "@unbxd "
+        },
+        "Commitor": {
+          "name": "\"S N Munendra\"",
+          "location": "India",
+          "company": "@unbxd "
+        },
+        "Date": "2019-09-26T04:20:34Z",
+        "additions": 90,
+        "deletions": 0,
+        "files": [
+          "ae4358dd15f0233be5fb53270916f890187a7d97"
+        ]
+      }
+    ]
+  }
+]

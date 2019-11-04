@@ -1,0 +1,41 @@
+[
+  {
+    "RepositoryName": "nifi-registry",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T18:03:43Z",
+    "EndDate": "2019-09-23T19:03:43",
+    "Branches": 12,
+    "Forks": 65,
+    "Files": [
+      {
+        "Sha": "e7a46b7aa5a09fcd22c85ad5b4a87cc8dc0d3816",
+        "FileName": "RunNiFiRegistry.java",
+        "Path": "nifi-registry-core/nifi-registry-bootstrap/src/main/java/org/apache/nifi/registry/bootstrap/RunNiFiRegistry.java",
+        "DateUpdated": "2019-09-23T18:26:34Z",
+        "Additions": 9,
+        "Deletions": 1,
+        "Commits": [
+          "71aa4cc92a6410d70980567e6963967301708548"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "71aa4cc92a6410d70980567e6963967301708548",
+        "Author": {
+          "name": "\"Kevin Doran\"",
+          "location": "Maryland, USA"
+        },
+        "Commitor": {
+          "name": "\"Bryan Bende\""
+        },
+        "Date": "2019-09-23T18:26:34Z",
+        "additions": 9,
+        "deletions": 1,
+        "files": [
+          "e7a46b7aa5a09fcd22c85ad5b4a87cc8dc0d3816"
+        ]
+      }
+    ]
+  }
+]

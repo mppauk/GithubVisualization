@@ -1,0 +1,242 @@
+[
+  {
+    "RepositoryName": "karaf-decanter",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T06:03:08Z",
+    "EndDate": "2019-09-26T07:03:08",
+    "Branches": 2,
+    "Forks": 37,
+    "Files": [
+      {
+        "Sha": "ad97a1f005a3734f85e36a8b996bbc8167f17462",
+        "FileName": "SystemCollector.java",
+        "Path": "collector/system/src/main/java/org/apache/karaf/decanter/collector/system/SystemCollector.java",
+        "DateUpdated": "2019-09-26T07:00:51Z",
+        "Additions": 6,
+        "Deletions": 1,
+        "Commits": [
+          "a475f9433a40049fe751e2f36ca3a40b20a084de"
+        ]
+      },
+      {
+        "Sha": "f76e5833fb8b1b1c66bc09c849d765e4874d7105",
+        "FileName": "pom.xml",
+        "Path": "alerting/checker/pom.xml",
+        "DateUpdated": "2019-09-26T07:00:09Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "b5471599746d355fa9f0b16e089f6aee727ec36b"
+        ]
+      },
+      {
+        "Sha": "d1ebe8155eff911e405f4503a5c2c0682be23289",
+        "FileName": "AlertStoreImpl.java",
+        "Path": "alerting/checker/src/main/java/org/apache/karaf/decanter/alerting/checker/AlertStoreImpl.java",
+        "DateUpdated": "2019-09-26T07:00:09Z",
+        "Additions": 51,
+        "Deletions": 3,
+        "Commits": [
+          "b5471599746d355fa9f0b16e089f6aee727ec36b"
+        ]
+      },
+      {
+        "Sha": "1c40a189fe89d71644acd77db014136bab67053d",
+        "FileName": "AlertStoreImplTest.java",
+        "Path": "alerting/checker/src/test/java/org/apache/karaf/decanter/alerting/checker/AlertStoreImplTest.java",
+        "DateUpdated": "2019-09-26T07:00:09Z",
+        "Additions": 83,
+        "Deletions": 0,
+        "Commits": [
+          "b5471599746d355fa9f0b16e089f6aee727ec36b"
+        ]
+      },
+      {
+        "Sha": "c8c69d90cfcb9b69d457c483c759628c85b3ad34",
+        "FileName": "pom.xml",
+        "Path": "appender/cassandra/pom.xml",
+        "DateUpdated": "2019-09-26T06:59:26Z",
+        "Additions": 10,
+        "Deletions": 5,
+        "Commits": [
+          "5d1ffac10dc82219e622bfa63bb91b2eb43c37fe"
+        ]
+      },
+      {
+        "Sha": "58819049bc83c712b66e14db8e7897324932b23c",
+        "FileName": "CassandraAppender.java",
+        "Path": "appender/cassandra/src/main/java/org/apache/karaf/decanter/appender/cassandra/CassandraAppender.java",
+        "DateUpdated": "2019-09-26T06:59:26Z",
+        "Additions": 102,
+        "Deletions": 26,
+        "Commits": [
+          "5d1ffac10dc82219e622bfa63bb91b2eb43c37fe"
+        ]
+      },
+      {
+        "Sha": "f279f8f12272b1e70ac876aba90f98c9a4f7187c",
+        "FileName": "CassandraAppenderTest.java",
+        "Path": "appender/cassandra/src/test/java/org/apache/karaf/decanter/appender/cassandra/CassandraAppenderTest.java",
+        "DateUpdated": "2019-09-26T06:59:26Z",
+        "Additions": 111,
+        "Deletions": 41,
+        "Commits": [
+          "5d1ffac10dc82219e622bfa63bb91b2eb43c37fe"
+        ]
+      },
+      {
+        "Sha": "e4f17cd60d622bdd259c8df525723e5272dce55f",
+        "FileName": "cassandra-rackdc.properties",
+        "Path": "appender/cassandra/src/test/resources/cassandra-rackdc.properties",
+        "DateUpdated": "2019-09-26T06:59:26Z",
+        "Additions": 27,
+        "Deletions": 0,
+        "Commits": [
+          "5d1ffac10dc82219e622bfa63bb91b2eb43c37fe"
+        ]
+      },
+      {
+        "Sha": "a90f5a14703e8e660d7589dd9bfacc990452cc53",
+        "FileName": "cassandra.yaml",
+        "Path": "appender/cassandra/src/test/resources/cassandra.yaml",
+        "DateUpdated": "2019-09-26T06:59:26Z",
+        "Additions": 875,
+        "Deletions": 224,
+        "Commits": [
+          "5d1ffac10dc82219e622bfa63bb91b2eb43c37fe"
+        ]
+      },
+      {
+        "Sha": "269ebfa7f960b2ca8f0b5eefb85ff26bf40ab7c7",
+        "FileName": "logback.xml",
+        "Path": "appender/cassandra/src/test/resources/logback.xml",
+        "DateUpdated": "2019-09-26T06:59:26Z",
+        "Additions": 102,
+        "Deletions": 0,
+        "Commits": [
+          "5d1ffac10dc82219e622bfa63bb91b2eb43c37fe"
+        ]
+      },
+      {
+        "Sha": "cc91619dff3717d6ba79107daa4015dbfd066681",
+        "FileName": "feature.xml",
+        "Path": "assembly/src/main/feature/feature.xml",
+        "DateUpdated": "2019-09-26T06:59:26Z",
+        "Additions": 19,
+        "Deletions": 13,
+        "Commits": [
+          "5d1ffac10dc82219e622bfa63bb91b2eb43c37fe"
+        ]
+      },
+      {
+        "Sha": "6f400c61f8530ac5591f2fcbb0d50c66eca4f00f",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-26T06:59:26Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "5d1ffac10dc82219e622bfa63bb91b2eb43c37fe"
+        ]
+      },
+      {
+        "Sha": "6093aff033c34345982e8c6760482832ab310bed",
+        "FileName": "pom.xml",
+        "Path": "backend/elasticsearch-6.x/pom.xml",
+        "DateUpdated": "2019-09-26T06:57:06Z",
+        "Additions": 0,
+        "Deletions": 8,
+        "Commits": [
+          "fb25d9f9996b24c906fb407684805d9534d9f95e"
+        ]
+      },
+      {
+        "Sha": "bf2f10a476597d9558939a121fde458d9ce19104",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-26T06:57:06Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "fb25d9f9996b24c906fb407684805d9534d9f95e"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a475f9433a40049fe751e2f36ca3a40b20a084de",
+        "Author": {
+          "name": "\"Jean-Baptiste Onofré\"",
+          "location": "Paris, France"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T07:00:51Z",
+        "additions": 6,
+        "deletions": 1,
+        "files": [
+          "ad97a1f005a3734f85e36a8b996bbc8167f17462"
+        ]
+      },
+      {
+        "sha": "b5471599746d355fa9f0b16e089f6aee727ec36b",
+        "Author": {
+          "name": "\"Jean-Baptiste Onofré\"",
+          "location": "Paris, France"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T07:00:09Z",
+        "additions": 142,
+        "deletions": 3,
+        "files": [
+          "f76e5833fb8b1b1c66bc09c849d765e4874d7105",
+          "d1ebe8155eff911e405f4503a5c2c0682be23289",
+          "1c40a189fe89d71644acd77db014136bab67053d"
+        ]
+      },
+      {
+        "sha": "5d1ffac10dc82219e622bfa63bb91b2eb43c37fe",
+        "Author": {
+          "name": "\"Jean-Baptiste Onofré\"",
+          "location": "Paris, France"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T06:59:26Z",
+        "additions": 1248,
+        "deletions": 311,
+        "files": [
+          "c8c69d90cfcb9b69d457c483c759628c85b3ad34",
+          "58819049bc83c712b66e14db8e7897324932b23c",
+          "f279f8f12272b1e70ac876aba90f98c9a4f7187c",
+          "e4f17cd60d622bdd259c8df525723e5272dce55f",
+          "a90f5a14703e8e660d7589dd9bfacc990452cc53",
+          "269ebfa7f960b2ca8f0b5eefb85ff26bf40ab7c7",
+          "cc91619dff3717d6ba79107daa4015dbfd066681",
+          "6f400c61f8530ac5591f2fcbb0d50c66eca4f00f"
+        ]
+      },
+      {
+        "sha": "fb25d9f9996b24c906fb407684805d9534d9f95e",
+        "Author": {
+          "name": "\"Jean-Baptiste Onofré\"",
+          "location": "Paris, France"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T06:57:06Z",
+        "additions": 2,
+        "deletions": 10,
+        "files": [
+          "6093aff033c34345982e8c6760482832ab310bed",
+          "bf2f10a476597d9558939a121fde458d9ce19104"
+        ]
+      }
+    ]
+  }
+]

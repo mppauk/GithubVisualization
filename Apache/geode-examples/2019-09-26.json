@@ -1,0 +1,44 @@
+[
+  {
+    "RepositoryName": "geode-examples",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T00:04:41Z",
+    "EndDate": "2019-09-26T01:04:41",
+    "Branches": 3,
+    "Forks": 53,
+    "Files": [
+      {
+        "Sha": "8504daee844f29a1c362e17962be6ac471652cc7",
+        "FileName": "gradle.properties",
+        "Path": "gradle.properties",
+        "DateUpdated": "2019-09-26T00:07:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "a3bc317ee7aeb1c90d986ffae171617f201ce64c"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a3bc317ee7aeb1c90d986ffae171617f201ce64c",
+        "Author": {
+          "name": "\"Owen Nichols\"",
+          "location": "Beaverton, OR",
+          "company": "Pivotal"
+        },
+        "Commitor": {
+          "name": "\"Owen Nichols\"",
+          "location": "Beaverton, OR",
+          "company": "Pivotal"
+        },
+        "Date": "2019-09-26T00:07:44Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "8504daee844f29a1c362e17962be6ac471652cc7"
+        ]
+      }
+    ]
+  }
+]

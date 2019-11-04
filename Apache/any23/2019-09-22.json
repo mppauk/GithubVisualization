@@ -1,0 +1,100 @@
+[
+  {
+    "RepositoryName": "any23",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-22T22:02:25Z",
+    "EndDate": "2019-09-22T23:02:25",
+    "Branches": 7,
+    "Forks": 46,
+    "Files": [
+      {
+        "Sha": "2ea04a003730108759d4b8ca4717aea434dda8da",
+        "FileName": "BaseRDFExtractor.java",
+        "Path": "core/src/main/java/org/apache/any23/extractor/rdf/BaseRDFExtractor.java",
+        "DateUpdated": "2019-09-22T22:20:53Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "51c992a41c1851074068c7753a83d58b8378ae8d"
+        ]
+      },
+      {
+        "Sha": "602740955f6147a828306147de56ee2555a1e06c",
+        "FileName": "BaseRDFaExtractor.java",
+        "Path": "core/src/main/java/org/apache/any23/extractor/rdfa/BaseRDFaExtractor.java",
+        "DateUpdated": "2019-09-22T22:20:53Z",
+        "Additions": 72,
+        "Deletions": 123,
+        "Commits": [
+          "51c992a41c1851074068c7753a83d58b8378ae8d"
+        ]
+      },
+      {
+        "Sha": "066f05066aeb398e5eb0aefeaf1196c40187dc84",
+        "FileName": "JsoupScanner.java",
+        "Path": "core/src/main/java/org/apache/any23/extractor/rdfa/JsoupScanner.java",
+        "DateUpdated": "2019-09-22T22:20:53Z",
+        "Additions": 172,
+        "Deletions": 0,
+        "Commits": [
+          "51c992a41c1851074068c7753a83d58b8378ae8d"
+        ]
+      },
+      {
+        "Sha": "ff0d03c5af0c91ed15631462b3386d6a1e30d733",
+        "FileName": "RDFa11Extractor.java",
+        "Path": "core/src/main/java/org/apache/any23/extractor/rdfa/RDFa11Extractor.java",
+        "DateUpdated": "2019-09-22T22:20:53Z",
+        "Additions": 37,
+        "Deletions": 2,
+        "Commits": [
+          "51c992a41c1851074068c7753a83d58b8378ae8d"
+        ]
+      },
+      {
+        "Sha": "d8583b3407655f0c935dada3d968adf369fc9602",
+        "FileName": "RDFaExtractor.java",
+        "Path": "core/src/main/java/org/apache/any23/extractor/rdfa/RDFaExtractor.java",
+        "DateUpdated": "2019-09-22T22:20:53Z",
+        "Additions": 37,
+        "Deletions": 2,
+        "Commits": [
+          "51c992a41c1851074068c7753a83d58b8378ae8d"
+        ]
+      },
+      {
+        "Sha": "b642a1c61704e95ec1d4607848516d3db16200f1",
+        "FileName": "SemarglSink.java",
+        "Path": "core/src/main/java/org/apache/any23/extractor/rdfa/SemarglSink.java",
+        "DateUpdated": "2019-09-22T22:20:53Z",
+        "Additions": 99,
+        "Deletions": 0,
+        "Commits": [
+          "51c992a41c1851074068c7753a83d58b8378ae8d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "51c992a41c1851074068c7753a83d58b8378ae8d",
+        "Author": {
+          "name": "\"Hans Brende\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-22T22:20:53Z",
+        "additions": 419,
+        "deletions": 127,
+        "files": [
+          "2ea04a003730108759d4b8ca4717aea434dda8da",
+          "602740955f6147a828306147de56ee2555a1e06c",
+          "066f05066aeb398e5eb0aefeaf1196c40187dc84",
+          "ff0d03c5af0c91ed15631462b3386d6a1e30d733",
+          "d8583b3407655f0c935dada3d968adf369fc9602",
+          "b642a1c61704e95ec1d4607848516d3db16200f1"
+        ]
+      }
+    ]
+  }
+]

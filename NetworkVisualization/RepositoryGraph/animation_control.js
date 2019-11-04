@@ -86,7 +86,7 @@ async function incrementNetwork(incrDir){
         }
         var i;
         for(i=SnapshotIndex;i<Snapshots.length;i++){
-            var dateStr = RepositoryData.snapshots[i].EndDate.replace("T"," ");
+            var dateStr = RepositoryData[i].EndDate.replace("T"," ");
             var NextSnapshotBeginDate = new Date(dateStr + " UTC");
             if(NextSnapshotBeginDate > currentDateTime)
                 break;
@@ -112,7 +112,7 @@ async function incrementNetwork(incrDir){
         }
         var i;
         for(i=SnapshotIndex;i>0;i--){
-            var dateStr = RepositoryData.snapshots[i-1].EndDate.replace("T", " ");
+            var dateStr = RepositoryData[i-1].EndDate.replace("T", " ");
             var NextSnapshotBeginDate = new Date(dateStr.replace("Z"," UTC"));
             if(NextSnapshotBeginDate < currentDateTime)
                 break;
@@ -141,7 +141,7 @@ async function stepNetwork(){
     }
     var i;
     for(i=SnapshotIndex;i<Snapshots.length;i++){
-        var dateStr = RepositoryData.snapshots[i].EndDate.replace("T"," ");
+        var dateStr = RepositoryData[i].EndDate.replace("T"," ");
         var NextSnapshotBeginDate = new Date(dateStr + " UTC");
         if(NextSnapshotBeginDate > currentDateTime)
             break;

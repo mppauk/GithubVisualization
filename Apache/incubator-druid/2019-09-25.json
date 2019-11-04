@@ -1,0 +1,324 @@
+[
+  {
+    "RepositoryName": "incubator-druid",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T23:02:23Z",
+    "EndDate": "2019-09-25T00:02:23",
+    "Branches": 35,
+    "Forks": 2179,
+    "Files": [
+      {
+        "Sha": "2bf55dfcf872c777258467b8b1aa0eafa3c34a86",
+        "FileName": "package-lock.json",
+        "Path": "web-console/package-lock.json",
+        "DateUpdated": "2019-09-24T23:32:02Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "0467cce7a029753bf284a8a0fd54c370dcbe4b36"
+        ]
+      },
+      {
+        "Sha": "687721609626e46415f4823fcdd948fb2659bc3d",
+        "FileName": "package.json",
+        "Path": "web-console/package.json",
+        "DateUpdated": "2019-09-24T23:32:02Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0467cce7a029753bf284a8a0fd54c370dcbe4b36"
+        ]
+      },
+      {
+        "Sha": "39e79a4b3c84212db050ab90913127274e2b65bb",
+        "FileName": "number-menu-items.spec.tsx.snap",
+        "Path": "web-console/src/views/query-view/column-tree/column-tree-menu/number-menu-items/__snapshots__/number-menu-items.spec.tsx.snap",
+        "DateUpdated": "2019-09-24T23:32:02Z",
+        "Additions": 392,
+        "Deletions": 53,
+        "Commits": [
+          "0467cce7a029753bf284a8a0fd54c370dcbe4b36"
+        ]
+      },
+      {
+        "Sha": "3ca046e6d6fa71b17776983e060e47fe4a118eca",
+        "FileName": "number-menu-items.spec.tsx",
+        "Path": "web-console/src/views/query-view/column-tree/column-tree-menu/number-menu-items/number-menu-items.spec.tsx",
+        "DateUpdated": "2019-09-24T23:32:02Z",
+        "Additions": 15,
+        "Deletions": 2,
+        "Commits": [
+          "0467cce7a029753bf284a8a0fd54c370dcbe4b36"
+        ]
+      },
+      {
+        "Sha": "3e6975a7f4ffe46092c6d81d47919bcaa6be99d1",
+        "FileName": "number-menu-items.tsx",
+        "Path": "web-console/src/views/query-view/column-tree/column-tree-menu/number-menu-items/number-menu-items.tsx",
+        "DateUpdated": "2019-09-24T23:32:02Z",
+        "Additions": 15,
+        "Deletions": 0,
+        "Commits": [
+          "0467cce7a029753bf284a8a0fd54c370dcbe4b36"
+        ]
+      },
+      {
+        "Sha": "2553ef6131178f382dcbf524e7280b4da815ee5c",
+        "FileName": "string-menu-items.spec.tsx.snap",
+        "Path": "web-console/src/views/query-view/column-tree/column-tree-menu/string-menu-items/__snapshots__/string-menu-items.spec.tsx.snap",
+        "DateUpdated": "2019-09-24T23:32:02Z",
+        "Additions": 392,
+        "Deletions": 53,
+        "Commits": [
+          "0467cce7a029753bf284a8a0fd54c370dcbe4b36"
+        ]
+      },
+      {
+        "Sha": "e952810b3a4264facefa86e896a437d11d15ca26",
+        "FileName": "string-menu-items.spec.tsx",
+        "Path": "web-console/src/views/query-view/column-tree/column-tree-menu/string-menu-items/string-menu-items.spec.tsx",
+        "DateUpdated": "2019-09-24T23:32:02Z",
+        "Additions": 15,
+        "Deletions": 2,
+        "Commits": [
+          "0467cce7a029753bf284a8a0fd54c370dcbe4b36"
+        ]
+      },
+      {
+        "Sha": "da9fc216346531868a3791495fd5c56288f3bd2a",
+        "FileName": "string-menu-items.tsx",
+        "Path": "web-console/src/views/query-view/column-tree/column-tree-menu/string-menu-items/string-menu-items.tsx",
+        "DateUpdated": "2019-09-24T23:32:02Z",
+        "Additions": 15,
+        "Deletions": 0,
+        "Commits": [
+          "0467cce7a029753bf284a8a0fd54c370dcbe4b36"
+        ]
+      },
+      {
+        "Sha": "1da73ccb05c37d0e4226ef85c80693b6d0672867",
+        "FileName": "time-menu-items.spec.tsx.snap",
+        "Path": "web-console/src/views/query-view/column-tree/column-tree-menu/time-menu-items/__snapshots__/time-menu-items.spec.tsx.snap",
+        "DateUpdated": "2019-09-24T23:32:02Z",
+        "Additions": 392,
+        "Deletions": 53,
+        "Commits": [
+          "0467cce7a029753bf284a8a0fd54c370dcbe4b36"
+        ]
+      },
+      {
+        "Sha": "a6a1c9adefdf8660bff126a8084a36ed05340ea7",
+        "FileName": "time-menu-items.spec.tsx",
+        "Path": "web-console/src/views/query-view/column-tree/column-tree-menu/time-menu-items/time-menu-items.spec.tsx",
+        "DateUpdated": "2019-09-24T23:32:02Z",
+        "Additions": 15,
+        "Deletions": 2,
+        "Commits": [
+          "0467cce7a029753bf284a8a0fd54c370dcbe4b36"
+        ]
+      },
+      {
+        "Sha": "cb67476b50b0b0e2876098356f06612d0eda173e",
+        "FileName": "time-menu-items.tsx",
+        "Path": "web-console/src/views/query-view/column-tree/column-tree-menu/time-menu-items/time-menu-items.tsx",
+        "DateUpdated": "2019-09-24T23:32:02Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "0467cce7a029753bf284a8a0fd54c370dcbe4b36"
+        ]
+      },
+      {
+        "Sha": "860f6cc11061a8497fef69e71350d3d07f179aef",
+        "FileName": "HttpFirehoseFactory.java",
+        "Path": "server/src/main/java/org/apache/druid/segment/realtime/firehose/HttpFirehoseFactory.java",
+        "DateUpdated": "2019-09-24T23:08:43Z",
+        "Additions": 22,
+        "Deletions": 30,
+        "Commits": [
+          "eabddffd6ea182a7a8417d68e5982b9bbf5bdf1c"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "0467cce7a029753bf284a8a0fd54c370dcbe4b36",
+        "Author": {
+          "name": "\"Evan Ren\""
+        },
+        "Commitor": {
+          "name": "\"Vadim Ogievetsky\"",
+          "location": "San Francisco, CA",
+          "company": "Imply Data"
+        },
+        "Date": "2019-09-24T23:32:02Z",
+        "additions": 1269,
+        "deletions": 169,
+        "files": [
+          "2bf55dfcf872c777258467b8b1aa0eafa3c34a86",
+          "687721609626e46415f4823fcdd948fb2659bc3d",
+          "39e79a4b3c84212db050ab90913127274e2b65bb",
+          "3ca046e6d6fa71b17776983e060e47fe4a118eca",
+          "3e6975a7f4ffe46092c6d81d47919bcaa6be99d1",
+          "2553ef6131178f382dcbf524e7280b4da815ee5c",
+          "e952810b3a4264facefa86e896a437d11d15ca26",
+          "da9fc216346531868a3791495fd5c56288f3bd2a",
+          "1da73ccb05c37d0e4226ef85c80693b6d0672867",
+          "a6a1c9adefdf8660bff126a8084a36ed05340ea7",
+          "cb67476b50b0b0e2876098356f06612d0eda173e"
+        ]
+      },
+      {
+        "sha": "eabddffd6ea182a7a8417d68e5982b9bbf5bdf1c",
+        "Author": {
+          "name": "\"Clint Wylie\"",
+          "location": "San Francisco, CA",
+          "company": "@implydata "
+        },
+        "Commitor": {
+          "name": "\"Gian Merlino\"",
+          "location": "San Francisco, CA",
+          "company": "Imply"
+        },
+        "Date": "2019-09-24T23:08:43Z",
+        "additions": 22,
+        "deletions": 30,
+        "files": [
+          "860f6cc11061a8497fef69e71350d3d07f179aef"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-druid",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T00:46:10Z",
+    "EndDate": "2019-09-25T01:46:10",
+    "Branches": 35,
+    "Forks": 2179,
+    "Files": [
+      {
+        "Sha": "cb2bd46e424ee1a4de7ccd3cb57d387a01436fc3",
+        "FileName": "pom.xml",
+        "Path": "website/pom.xml",
+        "DateUpdated": "2019-09-25T01:19:06Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "563718c5b2b64f35953b5bee91c4b9244d2c8974"
+        ]
+      },
+      {
+        "Sha": "dba1d6ea3d19e4a0f7276fe208533145e4258d70",
+        "FileName": "build-to-docs",
+        "Path": "website/script/build-to-docs",
+        "DateUpdated": "2019-09-25T01:19:06Z",
+        "Additions": 10,
+        "Deletions": 9,
+        "Commits": [
+          "563718c5b2b64f35953b5bee91c4b9244d2c8974"
+        ]
+      },
+      {
+        "Sha": "07ddb6f55a5b97c0770f4b5796f0b311ec4bcdd8",
+        "FileName": "fix-path.js",
+        "Path": "website/script/fix-path.js",
+        "DateUpdated": "2019-09-25T01:19:06Z",
+        "Additions": 6,
+        "Deletions": 5,
+        "Commits": [
+          "563718c5b2b64f35953b5bee91c4b9244d2c8974"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "563718c5b2b64f35953b5bee91c4b9244d2c8974",
+        "Author": {
+          "name": "\"Vadim Ogievetsky\"",
+          "location": "San Francisco, CA",
+          "company": "Imply Data"
+        },
+        "Commitor": {
+          "name": "\"Clint Wylie\"",
+          "location": "San Francisco, CA",
+          "company": "@implydata "
+        },
+        "Date": "2019-09-25T01:19:06Z",
+        "additions": 18,
+        "deletions": 14,
+        "files": [
+          "cb2bd46e424ee1a4de7ccd3cb57d387a01436fc3",
+          "dba1d6ea3d19e4a0f7276fe208533145e4258d70",
+          "07ddb6f55a5b97c0770f4b5796f0b311ec4bcdd8"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-druid",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T01:02:43Z",
+    "EndDate": "2019-09-25T02:02:43",
+    "Branches": 35,
+    "Forks": 2179,
+    "Files": [
+      {
+        "Sha": "cb2bd46e424ee1a4de7ccd3cb57d387a01436fc3",
+        "FileName": "pom.xml",
+        "Path": "website/pom.xml",
+        "DateUpdated": "2019-09-25T01:19:06Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "563718c5b2b64f35953b5bee91c4b9244d2c8974"
+        ]
+      },
+      {
+        "Sha": "dba1d6ea3d19e4a0f7276fe208533145e4258d70",
+        "FileName": "build-to-docs",
+        "Path": "website/script/build-to-docs",
+        "DateUpdated": "2019-09-25T01:19:06Z",
+        "Additions": 10,
+        "Deletions": 9,
+        "Commits": [
+          "563718c5b2b64f35953b5bee91c4b9244d2c8974"
+        ]
+      },
+      {
+        "Sha": "07ddb6f55a5b97c0770f4b5796f0b311ec4bcdd8",
+        "FileName": "fix-path.js",
+        "Path": "website/script/fix-path.js",
+        "DateUpdated": "2019-09-25T01:19:06Z",
+        "Additions": 6,
+        "Deletions": 5,
+        "Commits": [
+          "563718c5b2b64f35953b5bee91c4b9244d2c8974"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "563718c5b2b64f35953b5bee91c4b9244d2c8974",
+        "Author": {
+          "name": "\"Vadim Ogievetsky\"",
+          "location": "San Francisco, CA",
+          "company": "Imply Data"
+        },
+        "Commitor": {
+          "name": "\"Clint Wylie\"",
+          "location": "San Francisco, CA",
+          "company": "@implydata "
+        },
+        "Date": "2019-09-25T01:19:06Z",
+        "additions": 18,
+        "deletions": 14,
+        "files": [
+          "cb2bd46e424ee1a4de7ccd3cb57d387a01436fc3",
+          "dba1d6ea3d19e4a0f7276fe208533145e4258d70",
+          "07ddb6f55a5b97c0770f4b5796f0b311ec4bcdd8"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "RepositoryName": "airflow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T10:03:10Z",
+    "EndDate": "2019-09-25T11:03:10",
+    "Branches": 8,
+    "Forks": 5219,
+    "Files": [
+      {
+        "Sha": "ac943d9be8f3dd9fb04f7f0fe1ad6685534b75dd",
+        "FileName": "conf.py",
+        "Path": "docs/conf.py",
+        "DateUpdated": "2019-09-25T10:26:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "66a139d734bd434caa792007c3b980ca4cf8f931"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "66a139d734bd434caa792007c3b980ca4cf8f931",
+        "Author": {
+          "name": "\"Ash Berlin-Taylor\"",
+          "location": "London"
+        },
+        "Commitor": {
+          "name": "\"Kaxil Naik\"",
+          "location": "United Kingdom",
+          "company": "@astronomer "
+        },
+        "Date": "2019-09-25T10:26:00Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "ac943d9be8f3dd9fb04f7f0fe1ad6685534b75dd"
+        ]
+      }
+    ]
+  }
+]

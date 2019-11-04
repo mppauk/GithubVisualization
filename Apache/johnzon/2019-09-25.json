@@ -1,0 +1,110 @@
+[
+  {
+    "RepositoryName": "johnzon",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T03:46:13Z",
+    "EndDate": "2019-09-25T04:46:13",
+    "Branches": 8,
+    "Forks": 49,
+    "Files": [
+      {
+        "Sha": "feb3703fcafbf95279ba7d5e6538b003884a7405",
+        "FileName": ".gitattributes",
+        "Path": "johnzon-maven-plugin/.gitattributes",
+        "DateUpdated": "2019-09-25T04:41:34Z",
+        "Additions": 16,
+        "Deletions": 0,
+        "Commits": [
+          "f4fc305afe3c2c5e2a4f87464f7c3d47e45ddb89"
+        ]
+      },
+      {
+        "Sha": "d0e89e18b25bf5bb8558c4b75453a203c337e26c",
+        "FileName": "ExampleToModelMojoTest.java",
+        "Path": "johnzon-maven-plugin/src/test/java/org/apache/johnzon/maven/plugin/ExampleToModelMojoTest.java",
+        "DateUpdated": "2019-09-25T04:41:34Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "f4fc305afe3c2c5e2a4f87464f7c3d47e45ddb89"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "f4fc305afe3c2c5e2a4f87464f7c3d47e45ddb89",
+        "Author": {
+          "name": "\"Markus KARG\"",
+          "location": "Pforzheim, Germany",
+          "company": "Head Crashing Informatics"
+        },
+        "Commitor": {
+          "name": "\"Romain Manni-Bucau\"",
+          "location": "France",
+          "company": "Apache \u003c3"
+        },
+        "Date": "2019-09-25T04:41:34Z",
+        "additions": 17,
+        "deletions": 1,
+        "files": [
+          "feb3703fcafbf95279ba7d5e6538b003884a7405",
+          "d0e89e18b25bf5bb8558c4b75453a203c337e26c"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "johnzon",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T04:02:53Z",
+    "EndDate": "2019-09-25T05:02:53",
+    "Branches": 8,
+    "Forks": 49,
+    "Files": [
+      {
+        "Sha": "feb3703fcafbf95279ba7d5e6538b003884a7405",
+        "FileName": ".gitattributes",
+        "Path": "johnzon-maven-plugin/.gitattributes",
+        "DateUpdated": "2019-09-25T04:41:34Z",
+        "Additions": 16,
+        "Deletions": 0,
+        "Commits": [
+          "f4fc305afe3c2c5e2a4f87464f7c3d47e45ddb89"
+        ]
+      },
+      {
+        "Sha": "d0e89e18b25bf5bb8558c4b75453a203c337e26c",
+        "FileName": "ExampleToModelMojoTest.java",
+        "Path": "johnzon-maven-plugin/src/test/java/org/apache/johnzon/maven/plugin/ExampleToModelMojoTest.java",
+        "DateUpdated": "2019-09-25T04:41:34Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "f4fc305afe3c2c5e2a4f87464f7c3d47e45ddb89"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "f4fc305afe3c2c5e2a4f87464f7c3d47e45ddb89",
+        "Author": {
+          "name": "\"Markus KARG\"",
+          "location": "Pforzheim, Germany",
+          "company": "Head Crashing Informatics"
+        },
+        "Commitor": {
+          "name": "\"Romain Manni-Bucau\"",
+          "location": "France",
+          "company": "Apache \u003c3"
+        },
+        "Date": "2019-09-25T04:41:34Z",
+        "additions": 17,
+        "deletions": 1,
+        "files": [
+          "feb3703fcafbf95279ba7d5e6538b003884a7405",
+          "d0e89e18b25bf5bb8558c4b75453a203c337e26c"
+        ]
+      }
+    ]
+  }
+]

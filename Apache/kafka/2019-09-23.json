@@ -1,0 +1,361 @@
+[
+  {
+    "RepositoryName": "kafka",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T14:02:16Z",
+    "EndDate": "2019-09-23T15:02:16",
+    "Branches": 20,
+    "Forks": 7234,
+    "Files": [
+      {
+        "Sha": "961bec80044fd074cfacbd0eddf2dbf909e5b776",
+        "FileName": "StreamsMetricsImpl.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/metrics/StreamsMetricsImpl.java",
+        "DateUpdated": "2019-09-23T14:12:45Z",
+        "Additions": 69,
+        "Deletions": 14,
+        "Commits": [
+          "e98e239a0c7fd9a500de606b7a05582f1a384da4"
+        ]
+      },
+      {
+        "Sha": "2d53440ef472494cecb0d754fc66e05398df2a78",
+        "FileName": "NamedCache.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/state/internals/NamedCache.java",
+        "DateUpdated": "2019-09-23T14:12:45Z",
+        "Additions": 14,
+        "Deletions": 74,
+        "Commits": [
+          "e98e239a0c7fd9a500de606b7a05582f1a384da4"
+        ]
+      },
+      {
+        "Sha": "3744428ba58282d5764f7f3a40139f2248d17fc6",
+        "FileName": "NamedCacheMetrics.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/state/internals/metrics/NamedCacheMetrics.java",
+        "DateUpdated": "2019-09-23T14:12:45Z",
+        "Additions": 86,
+        "Deletions": 0,
+        "Commits": [
+          "e98e239a0c7fd9a500de606b7a05582f1a384da4"
+        ]
+      },
+      {
+        "Sha": "cac33c980f369a397ee612e714c4ac341cd3ee01",
+        "FileName": "MetricsIntegrationTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/integration/MetricsIntegrationTest.java",
+        "DateUpdated": "2019-09-23T14:12:45Z",
+        "Additions": 35,
+        "Deletions": 9,
+        "Commits": [
+          "e98e239a0c7fd9a500de606b7a05582f1a384da4"
+        ]
+      },
+      {
+        "Sha": "b5891197661665fd64c55c7f70ce13398c4eda08",
+        "FileName": "StreamsMetricsImplTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/processor/internals/metrics/StreamsMetricsImplTest.java",
+        "DateUpdated": "2019-09-23T14:12:45Z",
+        "Additions": 45,
+        "Deletions": 1,
+        "Commits": [
+          "e98e239a0c7fd9a500de606b7a05582f1a384da4"
+        ]
+      },
+      {
+        "Sha": "ea52b4e82d8607d2e74feab86a822060f4552185",
+        "FileName": "NamedCacheTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/state/internals/NamedCacheTest.java",
+        "DateUpdated": "2019-09-23T14:12:45Z",
+        "Additions": 1,
+        "Deletions": 32,
+        "Commits": [
+          "e98e239a0c7fd9a500de606b7a05582f1a384da4"
+        ]
+      },
+      {
+        "Sha": "46ea302738bea6aa88315cea663ca9ca96e5d907",
+        "FileName": "NamedCacheMetricsTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/state/internals/metrics/NamedCacheMetricsTest.java",
+        "DateUpdated": "2019-09-23T14:12:45Z",
+        "Additions": 117,
+        "Deletions": 0,
+        "Commits": [
+          "e98e239a0c7fd9a500de606b7a05582f1a384da4"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "e98e239a0c7fd9a500de606b7a05582f1a384da4",
+        "Author": {
+          "name": "\"Bruno Cadonna\"",
+          "company": "Confluent"
+        },
+        "Commitor": {
+          "name": "\"Bill Bejeck\""
+        },
+        "Date": "2019-09-23T14:12:45Z",
+        "additions": 367,
+        "deletions": 130,
+        "files": [
+          "961bec80044fd074cfacbd0eddf2dbf909e5b776",
+          "2d53440ef472494cecb0d754fc66e05398df2a78",
+          "3744428ba58282d5764f7f3a40139f2248d17fc6",
+          "cac33c980f369a397ee612e714c4ac341cd3ee01",
+          "b5891197661665fd64c55c7f70ce13398c4eda08",
+          "ea52b4e82d8607d2e74feab86a822060f4552185",
+          "46ea302738bea6aa88315cea663ca9ca96e5d907"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "kafka",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T16:02:12Z",
+    "EndDate": "2019-09-23T17:02:12",
+    "Branches": 20,
+    "Forks": 7235,
+    "Files": [
+      {
+        "Sha": "01021fce16a315e9c91e5276eb42bd1e85bff706",
+        "FileName": "AuthorizerIntegrationTest.scala",
+        "Path": "core/src/test/scala/integration/kafka/api/AuthorizerIntegrationTest.scala",
+        "DateUpdated": "2019-09-23T16:24:32Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "b4035610b8ec77ab152c89a655f3ba0453c39cdd"
+        ]
+      },
+      {
+        "Sha": "16e3cbc9260c7f2b4b99a3231be7d385bbf61cd6",
+        "FileName": "DynamicConnectionQuotaTest.scala",
+        "Path": "core/src/test/scala/integration/kafka/network/DynamicConnectionQuotaTest.scala",
+        "DateUpdated": "2019-09-23T16:24:32Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "b4035610b8ec77ab152c89a655f3ba0453c39cdd"
+        ]
+      },
+      {
+        "Sha": "2b3f3218190856c280f01aa70347982fe73612c5",
+        "FileName": "MetadataRequestTest.scala",
+        "Path": "core/src/test/scala/unit/kafka/server/MetadataRequestTest.scala",
+        "DateUpdated": "2019-09-23T16:24:32Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "b4035610b8ec77ab152c89a655f3ba0453c39cdd"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "b4035610b8ec77ab152c89a655f3ba0453c39cdd",
+        "Author": {
+          "name": "\"Guozhang Wang\"",
+          "location": "San Franscisco",
+          "company": "@confluentinc "
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T16:24:32Z",
+        "additions": 2,
+        "deletions": 4,
+        "files": [
+          "01021fce16a315e9c91e5276eb42bd1e85bff706",
+          "16e3cbc9260c7f2b4b99a3231be7d385bbf61cd6",
+          "2b3f3218190856c280f01aa70347982fe73612c5"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "kafka",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T17:02:37Z",
+    "EndDate": "2019-09-23T18:02:37",
+    "Branches": 20,
+    "Forks": 7235,
+    "Files": [
+      {
+        "Sha": "6b3c42302a1ab9fe9dd023df3209b3552e19ddfd",
+        "FileName": "KGroupedStream.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/kstream/KGroupedStream.java",
+        "DateUpdated": "2019-09-23T17:11:56Z",
+        "Additions": 200,
+        "Deletions": 0,
+        "Commits": [
+          "beac4c7534ef0cd7be92514a8d92639bf417221c"
+        ]
+      },
+      {
+        "Sha": "6eb70d9f0b9ea782dac80e097c5f740378794e34",
+        "FileName": "KGroupedTable.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/kstream/KGroupedTable.java",
+        "DateUpdated": "2019-09-23T17:11:56Z",
+        "Additions": 307,
+        "Deletions": 0,
+        "Commits": [
+          "beac4c7534ef0cd7be92514a8d92639bf417221c"
+        ]
+      },
+      {
+        "Sha": "67df8059356fd12bd1a0ae6880df47a75a5c0c6f",
+        "FileName": "SessionWindowedKStream.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/kstream/SessionWindowedKStream.java",
+        "DateUpdated": "2019-09-23T17:11:56Z",
+        "Additions": 259,
+        "Deletions": 0,
+        "Commits": [
+          "beac4c7534ef0cd7be92514a8d92639bf417221c"
+        ]
+      },
+      {
+        "Sha": "57f5e2b9dc34340003495c4d7c8757a82a7c0c72",
+        "FileName": "TimeWindowedKStream.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/kstream/TimeWindowedKStream.java",
+        "DateUpdated": "2019-09-23T17:11:56Z",
+        "Additions": 278,
+        "Deletions": 0,
+        "Commits": [
+          "beac4c7534ef0cd7be92514a8d92639bf417221c"
+        ]
+      },
+      {
+        "Sha": "b77a2303d9d29d448438adcea6fbc2c6020fd17d",
+        "FileName": "GroupedStreamAggregateBuilder.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/kstream/internals/GroupedStreamAggregateBuilder.java",
+        "DateUpdated": "2019-09-23T17:11:56Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "beac4c7534ef0cd7be92514a8d92639bf417221c"
+        ]
+      },
+      {
+        "Sha": "ca43c566c1a14a6477978dec7f380ae791aed508",
+        "FileName": "InternalStreamsBuilder.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/kstream/internals/InternalStreamsBuilder.java",
+        "DateUpdated": "2019-09-23T17:11:56Z",
+        "Additions": 20,
+        "Deletions": 6,
+        "Commits": [
+          "beac4c7534ef0cd7be92514a8d92639bf417221c"
+        ]
+      },
+      {
+        "Sha": "57511056a90322ec2dfe130d59e24c8fa404b17d",
+        "FileName": "KGroupedStreamImpl.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/kstream/internals/KGroupedStreamImpl.java",
+        "DateUpdated": "2019-09-23T17:11:56Z",
+        "Additions": 39,
+        "Deletions": 7,
+        "Commits": [
+          "beac4c7534ef0cd7be92514a8d92639bf417221c"
+        ]
+      },
+      {
+        "Sha": "e3d03a5bc2e5994dab1e09cac44a9950a252568c",
+        "FileName": "KGroupedTableImpl.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/kstream/internals/KGroupedTableImpl.java",
+        "DateUpdated": "2019-09-23T17:11:56Z",
+        "Additions": 60,
+        "Deletions": 17,
+        "Commits": [
+          "beac4c7534ef0cd7be92514a8d92639bf417221c"
+        ]
+      },
+      {
+        "Sha": "ac49f9187cf76eccb89864e2b93ec54983436e36",
+        "FileName": "SessionWindowedKStreamImpl.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/kstream/internals/SessionWindowedKStreamImpl.java",
+        "DateUpdated": "2019-09-23T17:11:56Z",
+        "Additions": 55,
+        "Deletions": 8,
+        "Commits": [
+          "beac4c7534ef0cd7be92514a8d92639bf417221c"
+        ]
+      },
+      {
+        "Sha": "84316cbe9ccf4b659151747ca47fdb4107d3060e",
+        "FileName": "TimeWindowedKStreamImpl.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/kstream/internals/TimeWindowedKStreamImpl.java",
+        "DateUpdated": "2019-09-23T17:11:56Z",
+        "Additions": 55,
+        "Deletions": 8,
+        "Commits": [
+          "beac4c7534ef0cd7be92514a8d92639bf417221c"
+        ]
+      },
+      {
+        "Sha": "197e2344153dcc94b419ec7642dedc3091ea8a74",
+        "FileName": "StreamsBuilderTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/StreamsBuilderTest.java",
+        "DateUpdated": "2019-09-23T17:11:56Z",
+        "Additions": 23,
+        "Deletions": 1,
+        "Commits": [
+          "beac4c7534ef0cd7be92514a8d92639bf417221c"
+        ]
+      },
+      {
+        "Sha": "b693dc7640fb58fffb42f687d45b26ca8171a3c2",
+        "FileName": "SessionWindowedKStreamImplTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/kstream/internals/SessionWindowedKStreamImplTest.java",
+        "DateUpdated": "2019-09-23T17:11:56Z",
+        "Additions": 10,
+        "Deletions": 3,
+        "Commits": [
+          "beac4c7534ef0cd7be92514a8d92639bf417221c"
+        ]
+      },
+      {
+        "Sha": "0327ebd20cadb94383b4eb0251793420757aa1d4",
+        "FileName": "TimeWindowedKStreamImplTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/kstream/internals/TimeWindowedKStreamImplTest.java",
+        "DateUpdated": "2019-09-23T17:11:56Z",
+        "Additions": 12,
+        "Deletions": 2,
+        "Commits": [
+          "beac4c7534ef0cd7be92514a8d92639bf417221c"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "beac4c7534ef0cd7be92514a8d92639bf417221c",
+        "Author": {
+          "name": "\"Florian Hussonnois\"",
+          "location": "Paris, France",
+          "company": "StreamThoughts"
+        },
+        "Commitor": {
+          "name": "\"Bill Bejeck\""
+        },
+        "Date": "2019-09-23T17:11:56Z",
+        "additions": 1320,
+        "deletions": 54,
+        "files": [
+          "6b3c42302a1ab9fe9dd023df3209b3552e19ddfd",
+          "6eb70d9f0b9ea782dac80e097c5f740378794e34",
+          "67df8059356fd12bd1a0ae6880df47a75a5c0c6f",
+          "57f5e2b9dc34340003495c4d7c8757a82a7c0c72",
+          "b77a2303d9d29d448438adcea6fbc2c6020fd17d",
+          "ca43c566c1a14a6477978dec7f380ae791aed508",
+          "57511056a90322ec2dfe130d59e24c8fa404b17d",
+          "e3d03a5bc2e5994dab1e09cac44a9950a252568c",
+          "ac49f9187cf76eccb89864e2b93ec54983436e36",
+          "84316cbe9ccf4b659151747ca47fdb4107d3060e",
+          "197e2344153dcc94b419ec7642dedc3091ea8a74",
+          "b693dc7640fb58fffb42f687d45b26ca8171a3c2",
+          "0327ebd20cadb94383b4eb0251793420757aa1d4"
+        ]
+      }
+    ]
+  }
+]

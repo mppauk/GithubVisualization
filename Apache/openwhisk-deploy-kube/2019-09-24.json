@@ -1,0 +1,41 @@
+[
+  {
+    "RepositoryName": "openwhisk-deploy-kube",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T11:48:15Z",
+    "EndDate": "2019-09-24T12:48:15",
+    "Branches": 1,
+    "Forks": 125,
+    "Files": [
+      {
+        "Sha": "ccca3259e043386421926033b6f12603938938a7",
+        "FileName": "values.yaml",
+        "Path": "helm/openwhisk/values.yaml",
+        "DateUpdated": "2019-09-24T12:25:55Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "f33d9167ebb1f19ad17aba0b5025d5e73e1a0ff6"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "f33d9167ebb1f19ad17aba0b5025d5e73e1a0ff6",
+        "Author": {
+          "name": "\"David Grove\"",
+          "company": "IBM Research"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T12:25:55Z",
+        "additions": 1,
+        "deletions": 2,
+        "files": [
+          "ccca3259e043386421926033b6f12603938938a7"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "RepositoryName": "oozie",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T11:46:29Z",
+    "EndDate": "2019-09-24T12:46:29",
+    "Branches": 15,
+    "Forks": 398,
+    "Files": [
+      {
+        "Sha": "e40bd1a34419f8403e6f36007a87f62b7769f15e",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-24T11:50:41Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "8a4b6b5bb055fc700f819439a8e8e43cd463154f"
+        ]
+      },
+      {
+        "Sha": "076dd57805f729643922744759a55d2f53f4ce37",
+        "FileName": "release-log.txt",
+        "Path": "release-log.txt",
+        "DateUpdated": "2019-09-24T11:50:41Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "8a4b6b5bb055fc700f819439a8e8e43cd463154f"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "8a4b6b5bb055fc700f819439a8e8e43cd463154f",
+        "Author": {
+          "name": "\"András Salamon\"",
+          "location": "Hungary"
+        },
+        "Commitor": {
+          "name": "\"András Salamon\"",
+          "location": "Hungary"
+        },
+        "Date": "2019-09-24T11:50:41Z",
+        "additions": 2,
+        "deletions": 1,
+        "files": [
+          "e40bd1a34419f8403e6f36007a87f62b7769f15e",
+          "076dd57805f729643922744759a55d2f53f4ce37"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "RepositoryName": "orc",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T21:47:00Z",
+    "EndDate": "2019-09-24T22:47:00",
+    "Branches": 11,
+    "Forks": 209,
+    "Files": [
+      {
+        "Sha": "270bd6cc7b5cad4198ea438be78b2b2127716c1e",
+        "FileName": "TreeReaderFactory.java",
+        "Path": "java/core/src/java/org/apache/orc/impl/TreeReaderFactory.java",
+        "DateUpdated": "2019-09-24T22:10:00Z",
+        "Additions": 6,
+        "Deletions": 2,
+        "Commits": [
+          "d10142c49fa4d4bdc9d187195a34377f60d486b1"
+        ]
+      },
+      {
+        "Sha": "7730aa5bb373bea48704ca900c33bb310e8b896b",
+        "FileName": "TestOrcDSTNoTimezone.java",
+        "Path": "java/core/src/test/org/apache/orc/TestOrcDSTNoTimezone.java",
+        "DateUpdated": "2019-09-24T22:10:00Z",
+        "Additions": 118,
+        "Deletions": 0,
+        "Commits": [
+          "d10142c49fa4d4bdc9d187195a34377f60d486b1"
+        ]
+      },
+      {
+        "Sha": "48208bbf691e1674cf652a1c2e8c8aeba3940fea",
+        "FileName": "TestOrcNoTimezone.java",
+        "Path": "java/core/src/test/org/apache/orc/TestOrcNoTimezone.java",
+        "DateUpdated": "2019-09-24T22:10:00Z",
+        "Additions": 119,
+        "Deletions": 0,
+        "Commits": [
+          "d10142c49fa4d4bdc9d187195a34377f60d486b1"
+        ]
+      },
+      {
+        "Sha": "c8360506b9df3e27d5b729ef601f98dbdb5d80b2",
+        "FileName": "orc-file-dst-no-timezone.orc",
+        "Path": "java/core/src/test/resources/orc-file-dst-no-timezone.orc",
+        "DateUpdated": "2019-09-24T22:10:00Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "d10142c49fa4d4bdc9d187195a34377f60d486b1"
+        ]
+      },
+      {
+        "Sha": "18d69ea78f67a01da89b75c349d687638c1a26fd",
+        "FileName": "orc-file-no-timezone.orc",
+        "Path": "java/core/src/test/resources/orc-file-no-timezone.orc",
+        "DateUpdated": "2019-09-24T22:10:00Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "d10142c49fa4d4bdc9d187195a34377f60d486b1"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d10142c49fa4d4bdc9d187195a34377f60d486b1",
+        "Author": {
+          "name": "\"Jesús Camacho Rodríguez\"",
+          "location": "CA, USA",
+          "company": "Hortonworks, Inc."
+        },
+        "Commitor": {
+          "name": "\"Jesús Camacho Rodríguez\"",
+          "location": "CA, USA",
+          "company": "Hortonworks, Inc."
+        },
+        "Date": "2019-09-24T22:10:00Z",
+        "additions": 243,
+        "deletions": 2,
+        "files": [
+          "270bd6cc7b5cad4198ea438be78b2b2127716c1e",
+          "7730aa5bb373bea48704ca900c33bb310e8b896b",
+          "48208bbf691e1674cf652a1c2e8c8aeba3940fea",
+          "c8360506b9df3e27d5b729ef601f98dbdb5d80b2",
+          "18d69ea78f67a01da89b75c349d687638c1a26fd"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "orc",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T22:03:31Z",
+    "EndDate": "2019-09-24T23:03:31",
+    "Branches": 11,
+    "Forks": 209,
+    "Files": [
+      {
+        "Sha": "270bd6cc7b5cad4198ea438be78b2b2127716c1e",
+        "FileName": "TreeReaderFactory.java",
+        "Path": "java/core/src/java/org/apache/orc/impl/TreeReaderFactory.java",
+        "DateUpdated": "2019-09-24T22:10:00Z",
+        "Additions": 6,
+        "Deletions": 2,
+        "Commits": [
+          "d10142c49fa4d4bdc9d187195a34377f60d486b1"
+        ]
+      },
+      {
+        "Sha": "7730aa5bb373bea48704ca900c33bb310e8b896b",
+        "FileName": "TestOrcDSTNoTimezone.java",
+        "Path": "java/core/src/test/org/apache/orc/TestOrcDSTNoTimezone.java",
+        "DateUpdated": "2019-09-24T22:10:00Z",
+        "Additions": 118,
+        "Deletions": 0,
+        "Commits": [
+          "d10142c49fa4d4bdc9d187195a34377f60d486b1"
+        ]
+      },
+      {
+        "Sha": "48208bbf691e1674cf652a1c2e8c8aeba3940fea",
+        "FileName": "TestOrcNoTimezone.java",
+        "Path": "java/core/src/test/org/apache/orc/TestOrcNoTimezone.java",
+        "DateUpdated": "2019-09-24T22:10:00Z",
+        "Additions": 119,
+        "Deletions": 0,
+        "Commits": [
+          "d10142c49fa4d4bdc9d187195a34377f60d486b1"
+        ]
+      },
+      {
+        "Sha": "c8360506b9df3e27d5b729ef601f98dbdb5d80b2",
+        "FileName": "orc-file-dst-no-timezone.orc",
+        "Path": "java/core/src/test/resources/orc-file-dst-no-timezone.orc",
+        "DateUpdated": "2019-09-24T22:10:00Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "d10142c49fa4d4bdc9d187195a34377f60d486b1"
+        ]
+      },
+      {
+        "Sha": "18d69ea78f67a01da89b75c349d687638c1a26fd",
+        "FileName": "orc-file-no-timezone.orc",
+        "Path": "java/core/src/test/resources/orc-file-no-timezone.orc",
+        "DateUpdated": "2019-09-24T22:10:00Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "d10142c49fa4d4bdc9d187195a34377f60d486b1"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d10142c49fa4d4bdc9d187195a34377f60d486b1",
+        "Author": {
+          "name": "\"Jesús Camacho Rodríguez\"",
+          "location": "CA, USA",
+          "company": "Hortonworks, Inc."
+        },
+        "Commitor": {
+          "name": "\"Jesús Camacho Rodríguez\"",
+          "location": "CA, USA",
+          "company": "Hortonworks, Inc."
+        },
+        "Date": "2019-09-24T22:10:00Z",
+        "additions": 243,
+        "deletions": 2,
+        "files": [
+          "270bd6cc7b5cad4198ea438be78b2b2127716c1e",
+          "7730aa5bb373bea48704ca900c33bb310e8b896b",
+          "48208bbf691e1674cf652a1c2e8c8aeba3940fea",
+          "c8360506b9df3e27d5b729ef601f98dbdb5d80b2",
+          "18d69ea78f67a01da89b75c349d687638c1a26fd"
+        ]
+      }
+    ]
+  }
+]

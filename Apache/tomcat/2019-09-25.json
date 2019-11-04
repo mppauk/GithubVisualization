@@ -1,0 +1,104 @@
+[
+  {
+    "RepositoryName": "tomcat",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T05:45:56Z",
+    "EndDate": "2019-09-25T06:45:56",
+    "Branches": 4,
+    "Forks": 2594,
+    "Files": [
+      {
+        "Sha": "299b961fb0a517e442c9a3a25a68b557dbbca05d",
+        "FileName": "StaticMembershipService.java",
+        "Path": "java/org/apache/catalina/tribes/membership/StaticMembershipService.java",
+        "DateUpdated": "2019-09-25T06:16:14Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "dd2faecf717b852de31e33f69c6be2844fbaea78"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "dd2faecf717b852de31e33f69c6be2844fbaea78",
+        "Date": "2019-09-25T06:16:14Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "299b961fb0a517e442c9a3a25a68b557dbbca05d"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "tomcat",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T06:02:28Z",
+    "EndDate": "2019-09-25T07:02:28",
+    "Branches": 4,
+    "Forks": 2594,
+    "Files": [
+      {
+        "Sha": "299b961fb0a517e442c9a3a25a68b557dbbca05d",
+        "FileName": "StaticMembershipService.java",
+        "Path": "java/org/apache/catalina/tribes/membership/StaticMembershipService.java",
+        "DateUpdated": "2019-09-25T06:16:14Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "dd2faecf717b852de31e33f69c6be2844fbaea78"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "dd2faecf717b852de31e33f69c6be2844fbaea78",
+        "Date": "2019-09-25T06:16:14Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "299b961fb0a517e442c9a3a25a68b557dbbca05d"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "tomcat",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T20:02:25Z",
+    "EndDate": "2019-09-25T21:02:25",
+    "Branches": 4,
+    "Forks": 2595,
+    "Files": [
+      {
+        "Sha": "a3a22d905dec11b29e0cced55451cff747594eb2",
+        "FileName": "TestChunkedInputFilter.java",
+        "Path": "test/org/apache/coyote/http11/filters/TestChunkedInputFilter.java",
+        "DateUpdated": "2019-09-25T20:39:30Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "bfff085526f4c3625316be311ca5b3dee41d83b3"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "bfff085526f4c3625316be311ca5b3dee41d83b3",
+        "Author": {
+          "name": "\"Mark Thomas\""
+        },
+        "Commitor": {
+          "name": "\"Mark Thomas\""
+        },
+        "Date": "2019-09-25T20:39:30Z",
+        "additions": 1,
+        "deletions": 0,
+        "files": [
+          "a3a22d905dec11b29e0cced55451cff747594eb2"
+        ]
+      }
+    ]
+  }
+]

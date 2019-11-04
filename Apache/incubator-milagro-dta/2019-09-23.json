@@ -1,0 +1,161 @@
+[
+  {
+    "RepositoryName": "incubator-milagro-dta",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T09:03:59Z",
+    "EndDate": "2019-09-23T10:03:59",
+    "Branches": 5,
+    "Forks": 2,
+    "Files": [
+      {
+        "Sha": "3953a8b7f8d936b9eb47e7db0c6c4f416bb6b59b",
+        "FileName": "main.go",
+        "Path": "cmd/service/main.go",
+        "DateUpdated": "2019-09-23T09:04:04Z",
+        "Additions": 19,
+        "Deletions": 3,
+        "Commits": [
+          "1388150a30c85b25e6742e14f7a8f72f0bdc15fd"
+        ]
+      },
+      {
+        "Sha": "a4d6047a644dad0c08133ceb98a849dbf7313ccd",
+        "FileName": "e2e_test.sh",
+        "Path": "cmd/servicetester/e2e_test.sh",
+        "DateUpdated": "2019-09-23T09:04:04Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "1388150a30c85b25e6742e14f7a8f72f0bdc15fd"
+        ]
+      },
+      {
+        "Sha": "b63bedf0ec9267a2f3bc14a03b178d273970847b",
+        "FileName": "go.mod",
+        "Path": "go.mod",
+        "DateUpdated": "2019-09-23T09:04:04Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "1388150a30c85b25e6742e14f7a8f72f0bdc15fd"
+        ]
+      },
+      {
+        "Sha": "c31086cf9616602ba041eb6dc010c0350b6562bb",
+        "FileName": "go.sum",
+        "Path": "go.sum",
+        "DateUpdated": "2019-09-23T09:04:04Z",
+        "Additions": 5,
+        "Deletions": 67,
+        "Commits": [
+          "1388150a30c85b25e6742e14f7a8f72f0bdc15fd"
+        ]
+      },
+      {
+        "Sha": "901bc5fe2d69d9cdc261bd6177d0010436b1fe4e",
+        "FileName": "http.go",
+        "Path": "libs/transport/http.go",
+        "DateUpdated": "2019-09-23T09:04:04Z",
+        "Additions": 10,
+        "Deletions": 2,
+        "Commits": [
+          "1388150a30c85b25e6742e14f7a8f72f0bdc15fd"
+        ]
+      },
+      {
+        "Sha": "108df16c1818dd9e1d73a2c50c2e339aae17e9f2",
+        "FileName": "service.go",
+        "Path": "pkg/bitcoinplugin/service.go",
+        "DateUpdated": "2019-09-23T09:04:04Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "1388150a30c85b25e6742e14f7a8f72f0bdc15fd"
+        ]
+      },
+      {
+        "Sha": "4902af1dd448fd78daa0886cb8889bc18cb70cea",
+        "FileName": "init.go",
+        "Path": "pkg/defaultservice/init.go",
+        "DateUpdated": "2019-09-23T09:04:04Z",
+        "Additions": 76,
+        "Deletions": 0,
+        "Commits": [
+          "1388150a30c85b25e6742e14f7a8f72f0bdc15fd"
+        ]
+      },
+      {
+        "Sha": "f03ef54513826560850c6c1525821945e1bb235e",
+        "FileName": "service.go",
+        "Path": "pkg/defaultservice/service.go",
+        "DateUpdated": "2019-09-23T09:04:04Z",
+        "Additions": 6,
+        "Deletions": 16,
+        "Commits": [
+          "1388150a30c85b25e6742e14f7a8f72f0bdc15fd"
+        ]
+      },
+      {
+        "Sha": "1481e8f880a79234c0c26e114f162dd296712abd",
+        "FileName": "endpoints.go",
+        "Path": "pkg/endpoints/endpoints.go",
+        "DateUpdated": "2019-09-23T09:04:04Z",
+        "Additions": 30,
+        "Deletions": 15,
+        "Commits": [
+          "1388150a30c85b25e6742e14f7a8f72f0bdc15fd"
+        ]
+      },
+      {
+        "Sha": "0121994c1aa55bc727ac3be10f4c187a844170f9",
+        "FileName": "service.go",
+        "Path": "pkg/service/service.go",
+        "DateUpdated": "2019-09-23T09:04:04Z",
+        "Additions": 9,
+        "Deletions": 1,
+        "Commits": [
+          "1388150a30c85b25e6742e14f7a8f72f0bdc15fd"
+        ]
+      },
+      {
+        "Sha": "4d9881f14781307c5c570d3c8581b0210866529e",
+        "FileName": "plugin.go",
+        "Path": "plugins/plugin.go",
+        "DateUpdated": "2019-09-23T09:04:04Z",
+        "Additions": 2,
+        "Deletions": 8,
+        "Commits": [
+          "1388150a30c85b25e6742e14f7a8f72f0bdc15fd"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "1388150a30c85b25e6742e14f7a8f72f0bdc15fd",
+        "Author": {
+          "name": "\"Stanislav Mihaylov\"",
+          "location": "Sofia, Bulgaria"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T09:04:04Z",
+        "additions": 166,
+        "deletions": 117,
+        "files": [
+          "3953a8b7f8d936b9eb47e7db0c6c4f416bb6b59b",
+          "a4d6047a644dad0c08133ceb98a849dbf7313ccd",
+          "b63bedf0ec9267a2f3bc14a03b178d273970847b",
+          "c31086cf9616602ba041eb6dc010c0350b6562bb",
+          "901bc5fe2d69d9cdc261bd6177d0010436b1fe4e",
+          "108df16c1818dd9e1d73a2c50c2e339aae17e9f2",
+          "4902af1dd448fd78daa0886cb8889bc18cb70cea",
+          "f03ef54513826560850c6c1525821945e1bb235e",
+          "1481e8f880a79234c0c26e114f162dd296712abd",
+          "0121994c1aa55bc727ac3be10f4c187a844170f9",
+          "4d9881f14781307c5c570d3c8581b0210866529e"
+        ]
+      }
+    ]
+  }
+]

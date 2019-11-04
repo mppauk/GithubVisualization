@@ -1,0 +1,668 @@
+[
+  {
+    "RepositoryName": "hadoop-submarine",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T01:04:57Z",
+    "EndDate": "2019-09-26T02:04:57",
+    "Branches": 1,
+    "Forks": 8,
+    "Files": [
+      {
+        "Sha": "b4194bd2ca6326b83cbe8f52cca465b02cb412f7",
+        "FileName": "submarine.sql",
+        "Path": "docs/database/submarine.sql",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "deffe9d97c5c7a51cb175de582294e4d8ede42e3",
+        "FileName": "MybatisGenerator.md",
+        "Path": "docs/helper/MybatisGenerator.md",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 59,
+        "Deletions": 0,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "fc1f92cb5720f2be0394c77eace0f949d21c2bdd",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "1bbc97f39e3c804543ee12540dfd8a437a623465",
+        "FileName": "pom.xml",
+        "Path": "submarine-workbench/submarine-server/pom.xml",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "945f5ed8550c09a3f1bdb07d2bd902d4ff1c7458",
+        "FileName": "Dict.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/annotation/Dict.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 7,
+        "Deletions": 10,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "7c18a7d36bf6019d662c76cdf6efba58074ee780",
+        "FileName": "SubmarineApi.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/annotation/SubmarineApi.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 6,
+        "Deletions": 9,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "1ddad2dd584889bc2f5429bbf1b497a0686ee4ab",
+        "FileName": "MyBatisUtil.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/database/MyBatisUtil.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "64b38af2997e408d1f8660a9c72516648ca3f470",
+        "FileName": "SysDeptSelect.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/database/entity/SysDeptSelect.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "4b95f48dbae3ee0f5decc8b38d1d3fee732cbf06",
+        "FileName": "SysMessage.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/database/entity/SysMessage.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 67,
+        "Deletions": 0,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "e76492c379dc79fbcd5c3a85bb94d3ea28ca3ad6",
+        "FileName": "Team.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/database/entity/Team.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "43381e943051118935d798b0ed5812dd2c74b231",
+        "FileName": "TeamMember.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/database/entity/TeamMember.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 12,
+        "Deletions": 1,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "40c4c6925dd2cd0ffa3381d64c0ad054df3e17d0",
+        "FileName": "SysMessageMapper.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/database/mappers/SysMessageMapper.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 32,
+        "Deletions": 0,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "089c7c8eec7932335df4a5eeefb31c9bd0401d75",
+        "FileName": "TeamMapper.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/database/mappers/TeamMapper.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 37,
+        "Deletions": 0,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "50d2e0f43e55e63875e47c08e2cd7afe9ea9f352",
+        "FileName": "TeamMemberMapper.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/database/mappers/TeamMemberMapper.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 38,
+        "Deletions": 0,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "2ca57eda8737329ccce31a221b7d25b8b32bb173",
+        "FileName": "SysMessageService.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/database/service/SysMessageService.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 43,
+        "Deletions": 0,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "cdd1e2b318b27836f8dfc6e59f393590f76b7618",
+        "FileName": "SysUserService.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/database/service/SysUserService.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "c9939ddaec87bc0107ee61789bd8cc27b0bfd37f",
+        "FileName": "TeamMemberService.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/database/service/TeamMemberService.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 84,
+        "Deletions": 0,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "9ad9c8a24084e443558a65aa6e48ac1c0ddfcabf",
+        "FileName": "TeamService.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/database/service/TeamService.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 179,
+        "Deletions": 0,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "efd8e2cbea41e159491ad5e5202a1ef251526d1b",
+        "FileName": "DepartmentUtil.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/database/utils/DepartmentUtil.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "836084dbf603d691424291560bb7801f4430ce7a",
+        "FileName": "DictAnnotation.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/database/utils/DictAnnotation.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "b1c37833dc2394b0e4380da8c1d9c1da799537ed",
+        "FileName": "MybatisGeneratorMain.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/database/utils/MybatisGeneratorMain.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 67,
+        "Deletions": 0,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "cd53cf986ea0680dd18b8999fa56fc8d4de74044",
+        "FileName": "Permission.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/entity/Permission.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "42e9630596df626fa45287ac1f16b8ed1506aaf4",
+        "FileName": "Role.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/entity/Role.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 8,
+        "Deletions": 8,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "ff8d455589ec2d819bf0aad28e719475b8b357c1",
+        "FileName": "User.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/entity/User.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 15,
+        "Deletions": 15,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "1a0103877b2bb254164f2fb32cdf197595cdb4bf",
+        "FileName": "UserInfo.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/entity/UserInfo.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 14,
+        "Deletions": 14,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "7a0f0c72b72294890199914938b863212059bf93",
+        "FileName": "SysDeptRestApi.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/rest/SysDeptRestApi.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "cd1025e0757d3e98de74f646bedb91f1396a8847",
+        "FileName": "SysDictItemRestApi.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/rest/SysDictItemRestApi.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "ddf38aaecf37684bc39ddabbb2f0133dbc5a2564",
+        "FileName": "SysDictRestApi.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/rest/SysDictRestApi.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "f2477e41a7645c5ee25167f9ca9ec6beb9259b90",
+        "FileName": "SystemRestApi.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/rest/SystemRestApi.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "ec269ab10ca90876bebd15ff284c64765fe45275",
+        "FileName": "TeamRestApi.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/rest/TeamRestApi.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 57,
+        "Deletions": 55,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "bc1af9b16b09da494af0923b611e2a014dcd6f79",
+        "FileName": "JsonExclusionStrategy.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/server/JsonExclusionStrategy.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 6,
+        "Deletions": 9,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "fd6bfa0427d05749f5d1874da38e86ded6b4670f",
+        "FileName": "JsonResponse.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/server/JsonResponse.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 12,
+        "Deletions": 15,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "350fdea78bffb2c3a3540a187ce94672fe8df709",
+        "FileName": "SubmarineConfiguration.java",
+        "Path": "submarine-workbench/submarine-server/src/main/java/org/apache/submarine/server/SubmarineConfiguration.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "604c01fd950916d66147dab6df34c961952c8454",
+        "FileName": "mbgConfiguration.xml",
+        "Path": "submarine-workbench/submarine-server/src/main/resources/mbgConfiguration.xml",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 63,
+        "Deletions": 0,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "22649101bde9c01a24e1e8d98884af072df2b99c",
+        "FileName": "mybatis-config.xml",
+        "Path": "submarine-workbench/submarine-server/src/main/resources/mybatis-config.xml",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "7a62bf5de34ba97c26cec3be83b54484889402a0",
+        "FileName": "SysMessageMapper.xml",
+        "Path": "submarine-workbench/submarine-server/src/main/resources/org/apache/submarine/database/mappers/SysMessageMapper.xml",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 200,
+        "Deletions": 0,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "7f6dc538a11f0b7a8f608c4b5a062a0fe836bc18",
+        "FileName": "TeamMapper.xml",
+        "Path": "submarine-workbench/submarine-server/src/main/resources/org/apache/submarine/database/mappers/TeamMapper.xml",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 146,
+        "Deletions": 0,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "e9ae7c970354af8bae7e8b6bc1189b16d92a9fd8",
+        "FileName": "TeamMemberMapper.xml",
+        "Path": "submarine-workbench/submarine-server/src/main/resources/org/apache/submarine/database/mappers/TeamMemberMapper.xml",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 187,
+        "Deletions": 0,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "09e69c1807cb12b54b99acf22d6d98d241c8dd69",
+        "FileName": "SysUserServiceTest.java",
+        "Path": "submarine-workbench/submarine-server/src/test/java/org/apache/submarine/database/service/SysUserServiceTest.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "56ad735a04913be4c4c424f0debf0cf933cf8f29",
+        "FileName": "TeamServiceTest.java",
+        "Path": "submarine-workbench/submarine-server/src/test/java/org/apache/submarine/database/service/TeamServiceTest.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 146,
+        "Deletions": 0,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "ac35a75b0f16522942fc35dc392f9e826ce40421",
+        "FileName": "CommonDataTest.java",
+        "Path": "submarine-workbench/submarine-server/src/test/java/org/apache/submarine/rest/CommonDataTest.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "30625f393c77fa7861c6decd77231bff49bccc8d",
+        "FileName": "SysDeptRestApiTest.java",
+        "Path": "submarine-workbench/submarine-server/src/test/java/org/apache/submarine/rest/SysDeptRestApiTest.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "f8aa01a773837005a7932bc7b311df9071c6108e",
+        "FileName": "SysDictItemRestApiTest.java",
+        "Path": "submarine-workbench/submarine-server/src/test/java/org/apache/submarine/rest/SysDictItemRestApiTest.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "c834e930a2254aeca433d9685cf6c7d5076dad33",
+        "FileName": "SysDictRestApiTest.java",
+        "Path": "submarine-workbench/submarine-server/src/test/java/org/apache/submarine/rest/SysDictRestApiTest.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "3811eb124a0d248abfca23c430ff4b7735ec6dfd",
+        "FileName": "SysUserRestApiTest.java",
+        "Path": "submarine-workbench/submarine-server/src/test/java/org/apache/submarine/rest/SysUserRestApiTest.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      },
+      {
+        "Sha": "3f7160aa2573ce4ea4e889acec3e4b2750094da2",
+        "FileName": "JsonResponseTest.java",
+        "Path": "submarine-workbench/submarine-server/src/test/java/org/apache/submarine/server/JsonResponseTest.java",
+        "DateUpdated": "2019-09-26T01:45:09Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "553f4c167bb004b734c3eec62a07c0a6e221b6c6"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "553f4c167bb004b734c3eec62a07c0a6e221b6c6",
+        "Author": {
+          "name": "\"Linhao Zhu\"",
+          "location": "Hangzhou City, Zhejiang, China",
+          "company": "Dahua Technology Co. LTD"
+        },
+        "Commitor": {
+          "name": "\"tangzhankun\"",
+          "location": "Shanghai",
+          "company": "Cloudera"
+        },
+        "Date": "2019-09-26T01:45:09Z",
+        "additions": 1546,
+        "deletions": 185,
+        "files": [
+          "b4194bd2ca6326b83cbe8f52cca465b02cb412f7",
+          "deffe9d97c5c7a51cb175de582294e4d8ede42e3",
+          "fc1f92cb5720f2be0394c77eace0f949d21c2bdd",
+          "1bbc97f39e3c804543ee12540dfd8a437a623465",
+          "945f5ed8550c09a3f1bdb07d2bd902d4ff1c7458",
+          "7c18a7d36bf6019d662c76cdf6efba58074ee780",
+          "1ddad2dd584889bc2f5429bbf1b497a0686ee4ab",
+          "64b38af2997e408d1f8660a9c72516648ca3f470",
+          "4b95f48dbae3ee0f5decc8b38d1d3fee732cbf06",
+          "e76492c379dc79fbcd5c3a85bb94d3ea28ca3ad6",
+          "43381e943051118935d798b0ed5812dd2c74b231",
+          "40c4c6925dd2cd0ffa3381d64c0ad054df3e17d0",
+          "089c7c8eec7932335df4a5eeefb31c9bd0401d75",
+          "50d2e0f43e55e63875e47c08e2cd7afe9ea9f352",
+          "2ca57eda8737329ccce31a221b7d25b8b32bb173",
+          "cdd1e2b318b27836f8dfc6e59f393590f76b7618",
+          "c9939ddaec87bc0107ee61789bd8cc27b0bfd37f",
+          "9ad9c8a24084e443558a65aa6e48ac1c0ddfcabf",
+          "efd8e2cbea41e159491ad5e5202a1ef251526d1b",
+          "836084dbf603d691424291560bb7801f4430ce7a",
+          "b1c37833dc2394b0e4380da8c1d9c1da799537ed",
+          "cd53cf986ea0680dd18b8999fa56fc8d4de74044",
+          "42e9630596df626fa45287ac1f16b8ed1506aaf4",
+          "ff8d455589ec2d819bf0aad28e719475b8b357c1",
+          "1a0103877b2bb254164f2fb32cdf197595cdb4bf",
+          "7a0f0c72b72294890199914938b863212059bf93",
+          "cd1025e0757d3e98de74f646bedb91f1396a8847",
+          "ddf38aaecf37684bc39ddabbb2f0133dbc5a2564",
+          "f2477e41a7645c5ee25167f9ca9ec6beb9259b90",
+          "ec269ab10ca90876bebd15ff284c64765fe45275",
+          "bc1af9b16b09da494af0923b611e2a014dcd6f79",
+          "fd6bfa0427d05749f5d1874da38e86ded6b4670f",
+          "350fdea78bffb2c3a3540a187ce94672fe8df709",
+          "604c01fd950916d66147dab6df34c961952c8454",
+          "22649101bde9c01a24e1e8d98884af072df2b99c",
+          "7a62bf5de34ba97c26cec3be83b54484889402a0",
+          "7f6dc538a11f0b7a8f608c4b5a062a0fe836bc18",
+          "e9ae7c970354af8bae7e8b6bc1189b16d92a9fd8",
+          "09e69c1807cb12b54b99acf22d6d98d241c8dd69",
+          "56ad735a04913be4c4c424f0debf0cf933cf8f29",
+          "ac35a75b0f16522942fc35dc392f9e826ce40421",
+          "30625f393c77fa7861c6decd77231bff49bccc8d",
+          "f8aa01a773837005a7932bc7b311df9071c6108e",
+          "c834e930a2254aeca433d9685cf6c7d5076dad33",
+          "3811eb124a0d248abfca23c430ff4b7735ec6dfd",
+          "3f7160aa2573ce4ea4e889acec3e4b2750094da2"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "hadoop-submarine",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T05:04:38Z",
+    "EndDate": "2019-09-26T06:04:38",
+    "Branches": 1,
+    "Forks": 10,
+    "Files": [
+      {
+        "Sha": "e3cc90f6403d2c4806df271db38e6a4294c2f592",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-26T05:26:33Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "6bab25e45b207332f3dc3aaba03ebba4e04a9d5e"
+        ]
+      },
+      {
+        "Sha": "020118bb49b98d9cfbe90758d5a9238b2f3917f4",
+        "FileName": "pom.xml",
+        "Path": "submarine-workbench/submarine-server/pom.xml",
+        "DateUpdated": "2019-09-26T05:26:33Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "6bab25e45b207332f3dc3aaba03ebba4e04a9d5e"
+        ]
+      },
+      {
+        "Sha": "b0e20b9c2fcf111679150a829ac43a1edcbba3e2",
+        "FileName": "tony",
+        "Path": "submodules/tony",
+        "DateUpdated": "2019-09-26T05:21:24Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "f81f11a48753fbfc448f2ec351ce43cdce6e8c16"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "6bab25e45b207332f3dc3aaba03ebba4e04a9d5e",
+        "Author": {
+          "name": "\"Linhao Zhu\"",
+          "location": "Hangzhou City, Zhejiang, China",
+          "company": "Dahua Technology Co. LTD"
+        },
+        "Commitor": {
+          "name": "\"tangzhankun\"",
+          "location": "Shanghai",
+          "company": "Cloudera"
+        },
+        "Date": "2019-09-26T05:26:33Z",
+        "additions": 8,
+        "deletions": 0,
+        "files": [
+          "e3cc90f6403d2c4806df271db38e6a4294c2f592",
+          "020118bb49b98d9cfbe90758d5a9238b2f3917f4"
+        ]
+      },
+      {
+        "sha": "f81f11a48753fbfc448f2ec351ce43cdce6e8c16",
+        "Author": {
+          "name": "\"Zac Zhou\"",
+          "location": "Hangzhou",
+          "company": "Netease"
+        },
+        "Commitor": {
+          "name": "\"tangzhankun\"",
+          "location": "Shanghai",
+          "company": "Cloudera"
+        },
+        "Date": "2019-09-26T05:21:24Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "b0e20b9c2fcf111679150a829ac43a1edcbba3e2"
+        ]
+      }
+    ]
+  }
+]

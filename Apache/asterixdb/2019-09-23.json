@@ -1,0 +1,124 @@
+[
+  {
+    "RepositoryName": "asterixdb",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T14:03:06Z",
+    "EndDate": "2019-09-23T15:03:06",
+    "Branches": 11,
+    "Forks": 89,
+    "Files": [
+      {
+        "Sha": "e242258d62f5cdb1510ea481e90afa3686ce278d",
+        "FileName": "IRequestParameters.java",
+        "Path": "asterixdb/asterix-algebra/src/main/java/org/apache/asterix/translator/IRequestParameters.java",
+        "DateUpdated": "2019-09-23T14:32:56Z",
+        "Additions": 0,
+        "Deletions": 5,
+        "Commits": [
+          "d739683d7b3f934020c5fa06913bd5d57843ce35"
+        ]
+      },
+      {
+        "Sha": "8077172906e458131a8e4efc9683159a2bee70ab",
+        "FileName": "SessionConfig.java",
+        "Path": "asterixdb/asterix-algebra/src/main/java/org/apache/asterix/translator/SessionConfig.java",
+        "DateUpdated": "2019-09-23T14:32:56Z",
+        "Additions": 12,
+        "Deletions": 0,
+        "Commits": [
+          "d739683d7b3f934020c5fa06913bd5d57843ce35"
+        ]
+      },
+      {
+        "Sha": "5069b9ffdd20c9dba51ffef013264e090fa87112",
+        "FileName": "APIFramework.java",
+        "Path": "asterixdb/asterix-app/src/main/java/org/apache/asterix/api/common/APIFramework.java",
+        "DateUpdated": "2019-09-23T14:32:56Z",
+        "Additions": 1,
+        "Deletions": 5,
+        "Commits": [
+          "d739683d7b3f934020c5fa06913bd5d57843ce35"
+        ]
+      },
+      {
+        "Sha": "69d5c70df740b094d5678d71f808d88889fd2eda",
+        "FileName": "NCQueryServiceServlet.java",
+        "Path": "asterixdb/asterix-app/src/main/java/org/apache/asterix/api/http/server/NCQueryServiceServlet.java",
+        "DateUpdated": "2019-09-23T14:32:56Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "d739683d7b3f934020c5fa06913bd5d57843ce35"
+        ]
+      },
+      {
+        "Sha": "c82bac272f1b2cd196ccb5484bee1ef5d692e784",
+        "FileName": "QueryServiceServlet.java",
+        "Path": "asterixdb/asterix-app/src/main/java/org/apache/asterix/api/http/server/QueryServiceServlet.java",
+        "DateUpdated": "2019-09-23T14:32:56Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "d739683d7b3f934020c5fa06913bd5d57843ce35"
+        ]
+      },
+      {
+        "Sha": "e58ad06b2e5fa604997688984a234a3129f52c7e",
+        "FileName": "ExecuteStatementRequestMessage.java",
+        "Path": "asterixdb/asterix-app/src/main/java/org/apache/asterix/app/message/ExecuteStatementRequestMessage.java",
+        "DateUpdated": "2019-09-23T14:32:56Z",
+        "Additions": 3,
+        "Deletions": 4,
+        "Commits": [
+          "d739683d7b3f934020c5fa06913bd5d57843ce35"
+        ]
+      },
+      {
+        "Sha": "aed358eb6b434f89b82825c8f428e97d2887306f",
+        "FileName": "QueryTranslator.java",
+        "Path": "asterixdb/asterix-app/src/main/java/org/apache/asterix/app/translator/QueryTranslator.java",
+        "DateUpdated": "2019-09-23T14:32:56Z",
+        "Additions": 1,
+        "Deletions": 3,
+        "Commits": [
+          "d739683d7b3f934020c5fa06913bd5d57843ce35"
+        ]
+      },
+      {
+        "Sha": "90602e7c0b87643808dd298bf6166df08f76b811",
+        "FileName": "RequestParameters.java",
+        "Path": "asterixdb/asterix-app/src/main/java/org/apache/asterix/app/translator/RequestParameters.java",
+        "DateUpdated": "2019-09-23T14:32:56Z",
+        "Additions": 2,
+        "Deletions": 11,
+        "Commits": [
+          "d739683d7b3f934020c5fa06913bd5d57843ce35"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d739683d7b3f934020c5fa06913bd5d57843ce35",
+        "Author": {
+          "name": "\"Ali Alsuliman\""
+        },
+        "Commitor": {
+          "name": "\"Ali Alsuliman\""
+        },
+        "Date": "2019-09-23T14:32:56Z",
+        "additions": 27,
+        "deletions": 35,
+        "files": [
+          "e242258d62f5cdb1510ea481e90afa3686ce278d",
+          "8077172906e458131a8e4efc9683159a2bee70ab",
+          "5069b9ffdd20c9dba51ffef013264e090fa87112",
+          "69d5c70df740b094d5678d71f808d88889fd2eda",
+          "c82bac272f1b2cd196ccb5484bee1ef5d692e784",
+          "e58ad06b2e5fa604997688984a234a3129f52c7e",
+          "aed358eb6b434f89b82825c8f428e97d2887306f",
+          "90602e7c0b87643808dd298bf6166df08f76b811"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "RepositoryName": "dubbo",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T00:04:03Z",
+    "EndDate": "2019-09-24T01:04:03",
+    "Branches": 10,
+    "Forks": 19186,
+    "Files": [
+      {
+        "Sha": "0b53dc50269c9136590c3541ab6c607a2eee55d2",
+        "FileName": "DecodeableRpcResult.java",
+        "Path": "dubbo-rpc/dubbo-rpc-dubbo/src/main/java/org/apache/dubbo/rpc/protocol/dubbo/DecodeableRpcResult.java",
+        "DateUpdated": "2019-09-24T00:32:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "600f0db5fa3516fcee5e9b70e4bf100e49741840"
+        ]
+      },
+      {
+        "Sha": "239841ad3ac306d081eb0fd0cb84839722d637ae",
+        "FileName": "GsonJsonObjectInput.java",
+        "Path": "dubbo-serialization/dubbo-serialization-gson/src/main/java/org/apache/dubbo/common/serialize/gson/GsonJsonObjectInput.java",
+        "DateUpdated": "2019-09-24T00:32:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "600f0db5fa3516fcee5e9b70e4bf100e49741840"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "600f0db5fa3516fcee5e9b70e4bf100e49741840",
+        "Author": {
+          "name": "\"张志勇\"",
+          "location": "beijing",
+          "company": "xiaomi"
+        },
+        "Commitor": {
+          "name": "\"Xin Wang\"",
+          "location": "Beijing,China",
+          "company": "@apache "
+        },
+        "Date": "2019-09-24T00:32:29Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "0b53dc50269c9136590c3541ab6c607a2eee55d2",
+          "239841ad3ac306d081eb0fd0cb84839722d637ae"
+        ]
+      }
+    ]
+  }
+]

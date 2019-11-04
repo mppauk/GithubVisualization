@@ -1,0 +1,4564 @@
+[
+  {
+    "RepositoryName": "incubator-weex",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T05:47:15Z",
+    "EndDate": "2019-09-25T06:47:15",
+    "Branches": 15,
+    "Forks": 1732,
+    "Files": [
+      {
+        "Sha": "e124c5bc18db672c9262ecf349537ab145b546db",
+        "FileName": "WXComponent_internal.h",
+        "Path": "ios/sdk/WeexSDK/Sources/Component/WXComponent_internal.h",
+        "DateUpdated": "2019-09-25T06:03:46Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "87454ac332908c2d21bebc694e8db0538b05a3a0"
+        ]
+      },
+      {
+        "Sha": "c4eb81f25e5b04dd59434e0f36f2e193b5f5e5b1",
+        "FileName": "WXComponent+Display.m",
+        "Path": "ios/sdk/WeexSDK/Sources/Display/WXComponent+Display.m",
+        "DateUpdated": "2019-09-25T06:03:46Z",
+        "Additions": 48,
+        "Deletions": 13,
+        "Commits": [
+          "87454ac332908c2d21bebc694e8db0538b05a3a0"
+        ]
+      },
+      {
+        "Sha": "8423f78cd608015cf63ad2bf21418a642a6785e7",
+        "FileName": "WXResourceLoader.m",
+        "Path": "ios/sdk/WeexSDK/Sources/Loader/WXResourceLoader.m",
+        "DateUpdated": "2019-09-25T06:03:46Z",
+        "Additions": 1,
+        "Deletions": 8,
+        "Commits": [
+          "87454ac332908c2d21bebc694e8db0538b05a3a0"
+        ]
+      },
+      {
+        "Sha": "9c99ac9959d1651c27441aba107530549922e18c",
+        "FileName": "WXComponent.mm",
+        "Path": "ios/sdk/WeexSDK/Sources/Model/WXComponent.mm",
+        "DateUpdated": "2019-09-25T06:03:46Z",
+        "Additions": 5,
+        "Deletions": 4,
+        "Commits": [
+          "87454ac332908c2d21bebc694e8db0538b05a3a0"
+        ]
+      },
+      {
+        "Sha": "187da8bf9b084a6387ba85081dd0f72e756d2b82",
+        "FileName": "WXConvert.h",
+        "Path": "ios/sdk/WeexSDK/Sources/Utility/WXConvert.h",
+        "DateUpdated": "2019-09-25T06:03:46Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "87454ac332908c2d21bebc694e8db0538b05a3a0"
+        ]
+      },
+      {
+        "Sha": "6861b0873b9a2fada6018e77894fe73a0c4f888f",
+        "FileName": "WXConvert.m",
+        "Path": "ios/sdk/WeexSDK/Sources/Utility/WXConvert.m",
+        "DateUpdated": "2019-09-25T06:03:46Z",
+        "Additions": 30,
+        "Deletions": 0,
+        "Commits": [
+          "87454ac332908c2d21bebc694e8db0538b05a3a0"
+        ]
+      },
+      {
+        "Sha": "78f8cb22154757a336e503adfa3f818a8401f32c",
+        "FileName": "WXComponent+ViewManagement.mm",
+        "Path": "ios/sdk/WeexSDK/Sources/View/WXComponent+ViewManagement.mm",
+        "DateUpdated": "2019-09-25T06:03:46Z",
+        "Additions": 7,
+        "Deletions": 6,
+        "Commits": [
+          "87454ac332908c2d21bebc694e8db0538b05a3a0"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "87454ac332908c2d21bebc694e8db0538b05a3a0",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-25T06:03:46Z",
+        "additions": 98,
+        "deletions": 36,
+        "files": [
+          "e124c5bc18db672c9262ecf349537ab145b546db",
+          "c4eb81f25e5b04dd59434e0f36f2e193b5f5e5b1",
+          "8423f78cd608015cf63ad2bf21418a642a6785e7",
+          "9c99ac9959d1651c27441aba107530549922e18c",
+          "187da8bf9b084a6387ba85081dd0f72e756d2b82",
+          "6861b0873b9a2fada6018e77894fe73a0c4f888f",
+          "78f8cb22154757a336e503adfa3f818a8401f32c"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-weex",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T07:03:44Z",
+    "EndDate": "2019-09-25T08:03:44",
+    "Branches": 15,
+    "Forks": 1732,
+    "Files": [
+      {
+        "Sha": "c1e495c7760d962a81fd17dda255193ba375ebac",
+        "FileName": ".travis.yml",
+        "Path": ".travis.yml",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 6,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "91976e413b0538e27809cd60f6eec910222cb4f5",
+        "FileName": "CHANGELOG.md",
+        "Path": "CHANGELOG.md",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "af4d9c066410c357c540ae19c9b28a7449b5f9ce",
+        "FileName": "README.md",
+        "Path": "android/README.md",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 23,
+        "Deletions": 6,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "642d523d8d354b167707e31bb5f936a9410065d8",
+        "FileName": "build.gradle",
+        "Path": "android/build.gradle",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "f29323dc68e0dd68e99e61565128a6df04e2ba91",
+        "FileName": ".gitignore",
+        "Path": "android/sdk/.gitignore",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "239bde2bb55d034f2515eb7f863488c3b1b77761",
+        "FileName": "README.md",
+        "Path": "android/sdk/README.md",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 0,
+        "Deletions": 7,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "48b70764b13cfaa175b754a5a9acc7cd0dfe864d",
+        "FileName": "build.gradle",
+        "Path": "android/sdk/build.gradle",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 12,
+        "Deletions": 4,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "345bb3dbbcdc0c6709d836388107dbcb8e69e0f0",
+        "FileName": "packageName.gradle",
+        "Path": "android/sdk/buildSrc/packageName.gradle",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 38,
+        "Deletions": 13,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "19b57c01759b1f0fa49d2552b60e55fc16bdae4b",
+        "FileName": "proguard-rules.pro",
+        "Path": "android/sdk/proguard-rules.pro",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "3c06bb4f06afe78aa844499edab3f3e417609acc",
+        "FileName": "AndroidManifest.xml",
+        "Path": "android/sdk/src/main/AndroidManifest.xml",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "f77eb7eaed2d33c3cd0147d93aa690e01d64bac8",
+        "FileName": "ComponentObserver.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ComponentObserver.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "0398aec7c396fa0cbf288dfc9e163b1f9ed265e8",
+        "FileName": "IWXActivityStateListener.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/IWXActivityStateListener.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "82f70fa094816f4892242313ff6e62426fba7557",
+        "FileName": "IWXRenderListener.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/IWXRenderListener.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 4,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "580b02ac1c9427c41e37c71150b3797098550205",
+        "FileName": "IWXStatisticsListener.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/IWXStatisticsListener.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "911271b46ad3ff3cbed2422cd73bbd08acf884cb",
+        "FileName": "InitConfig.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/InitConfig.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 14,
+        "Deletions": 14,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "29af1b6fe7512989b5d8fa7d3724ebd876bb2445",
+        "FileName": "RenderContainer.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/RenderContainer.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "6688fc33d5901d4d04cf421b2fab520e591a6f25",
+        "FileName": "Script.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/Script.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "d1d87fae3a29458975ed976943babef253ebe8a1",
+        "FileName": "WXEnvironment.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/WXEnvironment.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 11,
+        "Deletions": 10,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "9ad32e1b4ff8b0dfdd0a191e704e4b065139ff64",
+        "FileName": "WXGlobalEventModule.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/WXGlobalEventModule.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "75c1f85514d4cf72a04708fe7be3f9d1617b3057",
+        "FileName": "WXGlobalEventReceiver.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/WXGlobalEventReceiver.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "234c3c4f5d3ed44746133f9c4c0a464e9caeb1b6",
+        "FileName": "WXHttpListener.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/WXHttpListener.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 12,
+        "Deletions": 12,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "ed1cda6290daa8a8bbf51f641cf28017248591be",
+        "FileName": "WXSDKEngine.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/WXSDKEngine.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 75,
+        "Deletions": 77,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "ad6efe1097126996d3d612d8ef8971dd878b4178",
+        "FileName": "WXSDKInstance.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/WXSDKInstance.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 59,
+        "Deletions": 59,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "628e4ccab2ea9ba0e51d4103c26692eab0a4f896",
+        "FileName": "WXSDKManager.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/WXSDKManager.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 36,
+        "Deletions": 36,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "2d98862b6299a987913840a8f4279b7807db9448",
+        "FileName": "WeexFrameRateControl.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/WeexFrameRateControl.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "e1410251fa140a2459b9f3014a0a365e28c56b4c",
+        "FileName": "ClassLoaderAdapter.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/adapter/ClassLoaderAdapter.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "70f24a221013016be12172b65073e3ffc86646b5",
+        "FileName": "DefaultUriAdapter.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/adapter/DefaultUriAdapter.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "7f5fe12a4b3dacf9d7000c4e06de2889318e556d",
+        "FileName": "DefaultWXHttpAdapter.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/adapter/DefaultWXHttpAdapter.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "60fca0deb665c790d88ee3373bc7586d58ea5df8",
+        "FileName": "DrawableStrategy.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/adapter/DrawableStrategy.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "254fa45bf2e00e18a12800daa14e106b4f2a64b4",
+        "FileName": "ICrashInfoReporter.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/adapter/ICrashInfoReporter.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "c71351d4429f7c66fa6721cc0b19d2e3e9890208",
+        "FileName": "IDrawableLoader.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/adapter/IDrawableLoader.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "e0ce304e709c63990059d6a002ca2716b0007702",
+        "FileName": "ITracingAdapter.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/adapter/ITracingAdapter.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "7682339669b642e9e26d92cb9eabfa46c415c1d9",
+        "FileName": "IWXAccessibilityRoleAdapter.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/adapter/IWXAccessibilityRoleAdapter.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "17791e3c1b282c6a3ede04fc55978e7704e63c84",
+        "FileName": "IWXConfigAdapter.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/adapter/IWXConfigAdapter.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "0da8e2487052d6fca96c6371920bab48aa8be57c",
+        "FileName": "IWXHttpAdapter.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/adapter/IWXHttpAdapter.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "ffbad5251e5904429793932f3ba1437faf6d2fbb",
+        "FileName": "IWXImgLoaderAdapter.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/adapter/IWXImgLoaderAdapter.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "0bedb93057beec620ec94af7db0b601fd1285795",
+        "FileName": "IWXJSExceptionAdapter.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/adapter/IWXJSExceptionAdapter.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "4af06236d946cc84c37031364bcdaaa3b14e697b",
+        "FileName": "IWXJsFileLoaderAdapter.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/adapter/IWXJsFileLoaderAdapter.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "1bce4a8581ae141c396fe57be6ee1b8f3d916152",
+        "FileName": "IWXJscProcessManager.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/adapter/IWXJscProcessManager.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "c6525662ee3543d568e5faf63ceeeea5fc9c9856",
+        "FileName": "IWXSoLoaderAdapter.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/adapter/IWXSoLoaderAdapter.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "fcdd71112c445117a7057b6f82b99b01677c71fd",
+        "FileName": "IWXUserTrackAdapter.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/adapter/IWXUserTrackAdapter.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "264dc178de71774a7001803a3a6aaf458c5b087a",
+        "FileName": "URIAdapter.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/adapter/URIAdapter.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "7174925a9675e57b43fa2d921f00b5488b4e5cf6",
+        "FileName": "Component.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/annotation/Component.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "7f8ce5b4501659408465cca34e2cf91ca08593d1",
+        "FileName": "JSMethod.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/annotation/JSMethod.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "1c09643da31abf858935630cdaa5870bfde1cea6",
+        "FileName": "IWXClipboard.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/appfram/clipboard/IWXClipboard.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "b38f9f0b6fa7466928e420da0dee0830fb66aae6",
+        "FileName": "WXClipboardModule.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/appfram/clipboard/WXClipboardModule.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "6f97e84189caa8a62c21c461ac7c2decdbecd081",
+        "FileName": "IActivityNavBarSetter.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/appfram/navigator/IActivityNavBarSetter.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "60ddbb4e433bdaaefbe0183c9e3823081fa117e7",
+        "FileName": "INavigator.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/appfram/navigator/INavigator.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "674c89d64d6c002c6d975e9882fa727833d306ba",
+        "FileName": "WXNavigatorModule.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/appfram/navigator/WXNavigatorModule.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 8,
+        "Deletions": 8,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "9739bd66e47c74fc6459d08bb35d98aaf0e8efaa",
+        "FileName": "DatePickerImpl.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/appfram/pickers/DatePickerImpl.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "5b312af146cf4fc8090a2b2b8dc354900cde35eb",
+        "FileName": "WXPickersModule.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/appfram/pickers/WXPickersModule.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "2a0a6bb1b148c140bc47f8053141d2f3d067c3e1",
+        "FileName": "DefaultWXStorage.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/appfram/storage/DefaultWXStorage.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "ea6dc0624ba9e940a08b1f4ad0160de06dc06796",
+        "FileName": "IWXStorage.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/appfram/storage/IWXStorage.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "543e4c311e46fb565a6e9f34c809d092c13a7bce",
+        "FileName": "IWXStorageAdapter.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/appfram/storage/IWXStorageAdapter.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "4225e66e3ccfd88a49cb5e340ddeb2d3341c3163",
+        "FileName": "StorageResultHandler.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/appfram/storage/StorageResultHandler.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "1ae25f2506565042ff4fcea4a45567cd38f810fb",
+        "FileName": "WXSQLiteOpenHelper.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/appfram/storage/WXSQLiteOpenHelper.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "cb4b6de65623ccde8af1b28160fa466c8f03db70",
+        "FileName": "WXStorageModule.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/appfram/storage/WXStorageModule.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "1386620436405edf07e9462dcc8742f47bbbaf60",
+        "FileName": "IWebSocketAdapter.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/appfram/websocket/IWebSocketAdapter.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "9ae2e4f9c41a67d932ab9286c732119250e1d9d0",
+        "FileName": "IWebSocketAdapterFactory.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/appfram/websocket/IWebSocketAdapterFactory.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "82c7fa9f11b8c101441c29d9b146c990c6a0cf0f",
+        "FileName": "WebSocketCloseCodes.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/appfram/websocket/WebSocketCloseCodes.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "7b7ccf1f36ba10686ab2ebae07ee16beba0fc4a9",
+        "FileName": "WebSocketModule.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/appfram/websocket/WebSocketModule.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "a9c6fd948c7ccf2d062d21913c361d8ea30ca05d",
+        "FileName": "CalledByNative.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/base/CalledByNative.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "d2ad9c3dd067253983fbc2d9e07c20adcbbab09b",
+        "FileName": "FloatUtil.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/base/FloatUtil.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "5663b49dd1af91d2b8e0af8653c4a4c5793c0af4",
+        "FileName": "SystemMessageHandler.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/base/SystemMessageHandler.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "63b315b47f8ba7c8f539879df9dccdd4baecd83f",
+        "FileName": "EventResult.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/bridge/EventResult.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "0b5232a573acd9167bccfb40e403cf86be5b7d64",
+        "FileName": "Invoker.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/bridge/Invoker.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "815f19f19d85dca429378106b4e11afe0a5af4bd",
+        "FileName": "JSCallback.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/bridge/JSCallback.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "a2f0c30e27a1ab7d88b6397a968cdb174c61b78e",
+        "FileName": "JavascriptInvokable.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/bridge/JavascriptInvokable.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "812421afb89f2c54ad9f367ebad675f5db3b6e18",
+        "FileName": "MethodInvoker.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/bridge/MethodInvoker.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "0248766f44c92bb790f52fc824325e2814719b67",
+        "FileName": "ModuleFactory.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/bridge/ModuleFactory.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 5,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "3166e0bb17628b3784c493cfe982aa9a9fae13b0",
+        "FileName": "ModuleFactoryImpl.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/bridge/ModuleFactoryImpl.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "ebf17adbfa3dd7e005e24d972b81e40abd6b9e10",
+        "FileName": "NativeInvokeHelper.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/bridge/NativeInvokeHelper.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 6,
+        "Deletions": 7,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "fc87a6797c0b5f344ef5c5e5d74af8e641664f36",
+        "FileName": "RequestHandler.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/bridge/RequestHandler.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 16,
+        "Deletions": 16,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "203b3d8fa1e1481a57eda2ab37ec78b7d22587d0",
+        "FileName": "ResultCallback.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/bridge/ResultCallback.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "d945a0fed5fdcfbeb4ea699cca5850d41d8508d0",
+        "FileName": "ResultCallbackManager.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/bridge/ResultCallbackManager.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "ef869875d8c2905093f8fec1a9c4a82e80edd51e",
+        "FileName": "SimpleJSCallback.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/bridge/SimpleJSCallback.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "ac02b42dd1b69de87cf006b30ced62eb9add4ff5",
+        "FileName": "WXBridge.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/bridge/WXBridge.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 21,
+        "Deletions": 20,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "ad41e190635f458518c1ff8d7af916bd289fe24d",
+        "FileName": "WXBridgeManager.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/bridge/WXBridgeManager.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 62,
+        "Deletions": 62,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "bed2a43959e483cb31398d0fda7dd0b1badcbc66",
+        "FileName": "WXDebugJsBridge.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/bridge/WXDebugJsBridge.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "68ca5e2d8243110de8824d21d1afa5fd32e65b04",
+        "FileName": "WXHashMap.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/bridge/WXHashMap.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "7642cad4dc443e609c8460d0923a16114ece3a66",
+        "FileName": "WXJSObject.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/bridge/WXJSObject.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "25fdbe6d2e8b8c077be9ec997ba951c85796f294",
+        "FileName": "WXModuleManager.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/bridge/WXModuleManager.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 19,
+        "Deletions": 19,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "66b98e606e011f086751333a0a09fbc9eb8e507b",
+        "FileName": "WXParams.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/bridge/WXParams.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "69ab29a0363816af553272234b476560f16676fa",
+        "FileName": "WXServiceManager.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/bridge/WXServiceManager.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 4,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "3f5e526229f8d16a20db14421811f8bf07167902",
+        "FileName": "WXTask.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/bridge/WXTask.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "f1678357fcaad1d9b2b253b76a1d66156314780f",
+        "FileName": "WXValidateProcessor.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/bridge/WXValidateProcessor.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "d3d3232dda42c0b032cb78ebec0636d018b17c8b",
+        "FileName": "Constants.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/Constants.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "8beca57e84cd8ace553f66416e7d7bf63e2b1144",
+        "FileName": "Destroyable.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/Destroyable.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "3a4ab5d8415cf37bdbed8e883901e453402c7c40",
+        "FileName": "ICheckBindingScroller.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/ICheckBindingScroller.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "01858eaa065943f1247e746ea7afca11a08fc3a6",
+        "FileName": "IWXBridge.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/IWXBridge.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "6d762684bf78fc6c71c5703023b398dd383e1ebe",
+        "FileName": "IWXDebugConfig.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/IWXDebugConfig.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "4b3ae4a4c6fc692f1d3dcb515f1907d1b4574c0f",
+        "FileName": "IWXObject.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/IWXObject.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "450b8aee4394b76a59f96c69bb46927e7e83897f",
+        "FileName": "OnWXScrollListener.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/OnWXScrollListener.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "8e3a105150dc5a16d16fcd18374b1ab8b9d77d96",
+        "FileName": "RenderTypes.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/RenderTypes.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "f31ef932b92cf10712a819755428af3f999da8cf",
+        "FileName": "TypeModuleFactory.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/TypeModuleFactory.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "1cbf4b0c8a90769ef2cc539eedaeb32a7c891159",
+        "FileName": "WXCompatModule.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/WXCompatModule.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "88fd5f15f1fcff78d4957d2df2016809c6c5a1f9",
+        "FileName": "WXConfig.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/WXConfig.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "793d9ea6569a08719a05a474013a997e5158b260",
+        "FileName": "WXErrorCode.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/WXErrorCode.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "4afb5e79dfa7f789f9e16645a549967e60a10db6",
+        "FileName": "WXException.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/WXException.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "6904ce6407c27565bce490a513351e2c649b758e",
+        "FileName": "WXImageSharpen.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/WXImageSharpen.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "e32e37014aaf84f8cb3b48a1f29f7cd35b59966f",
+        "FileName": "WXImageStrategy.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/WXImageStrategy.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "e51fe0250dfa1f012d7c1c15fb37ec8c2ae5e7d1",
+        "FileName": "WXInstanceWrap.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/WXInstanceWrap.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "f2e3307fbd18fe9e598017072ec6beaf010694f8",
+        "FileName": "WXJSBridgeMsgType.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/WXJSBridgeMsgType.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "8d1b358bd080a0d011844f3e82e15d8db8173d2d",
+        "FileName": "WXJSEngineListener.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/WXJSEngineListener.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "9b627c378f22719f20d507fbd057685102ff4676",
+        "FileName": "WXJSExceptionInfo.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/WXJSExceptionInfo.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "bd2d347b6f59d2a1b7a1f15d431b08bb0613196d",
+        "FileName": "WXJSService.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/WXJSService.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "4086a02db32b88d78187725ab1f73d2c6a2994bc",
+        "FileName": "WXModule.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/WXModule.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "038771c6ad7b692b42941354c64b837d054c8c3d",
+        "FileName": "WXModuleAnno.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/WXModuleAnno.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "7024086468681d004a03fe82cb86ba99ac54155c",
+        "FileName": "WXPerformance.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/WXPerformance.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 9,
+        "Deletions": 8,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "02d6696b3b16325e1e66fd489c4c4e9d705c9a8c",
+        "FileName": "WXRefreshData.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/WXRefreshData.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "2dcc5cd5c7607e778cd5ce0be5131974c01f4bb9",
+        "FileName": "WXRenderStrategy.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/WXRenderStrategy.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "d0aa52ce32dafcb21d974e7bd93712ebd488c3cb",
+        "FileName": "WXRequest.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/WXRequest.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "f261ac9ff605cac44a8255e2f535aec79b17288e",
+        "FileName": "WXRequestListener.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/WXRequestListener.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "4c209ccc1fd2ce507caca15faa59f390eca3ea28",
+        "FileName": "WXResponse.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/WXResponse.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "0673f8d82aac3fbd63e89a3f406439a39ddb3218",
+        "FileName": "WXRuntimeException.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/WXRuntimeException.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "f9ee2f44a2294ff54b768bc2d3b7cb00683e2593",
+        "FileName": "WXThread.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/WXThread.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 7,
+        "Deletions": 8,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "8753ca9f6071e1f59aa4f7e588b44e216ef5480b",
+        "FileName": "WXWorkThreadManager.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/common/WXWorkThreadManager.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "70a7a8c364d4489dae3ee5d5b01617344049c385",
+        "FileName": "CSSConstants.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/dom/CSSConstants.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "9c20d868e598bcd9be3acf500c5eb6562ae365e8",
+        "FileName": "CSSShorthand.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/dom/CSSShorthand.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "f54f12d8fbc541786400e8bc035f0a8b7fc01e2e",
+        "FileName": "RenderContext.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/dom/RenderContext.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "98be70aa888efed9dbe75ccebb1cfca0262bd2e8",
+        "FileName": "TextDecorationSpan.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/dom/TextDecorationSpan.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "a04c70e20f84d5649108f6c6a58c575a5817f1fe",
+        "FileName": "WXAttr.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/dom/WXAttr.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 14,
+        "Deletions": 14,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "f8834d63758ccf4afb5927ecea6de5f38a1d0df0",
+        "FileName": "WXCustomStyleSpan.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/dom/WXCustomStyleSpan.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "71277f107bbb090a3153cef740c4bb4e49d78426",
+        "FileName": "WXEvent.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/dom/WXEvent.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 4,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "303ab2a6a7075d03583031e9eb9f941e62f59b35",
+        "FileName": "WXImageQuality.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/dom/WXImageQuality.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "8c7d279af8dec40d1989666ca02e010c977ab185",
+        "FileName": "WXLineHeightSpan.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/dom/WXLineHeightSpan.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "5a5fd38bcf33b7fae97f8a2bae54c36d220a8052",
+        "FileName": "WXStyle.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/dom/WXStyle.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "482e8c886cd3c2ad97d20c7ff1b816be2bcee84e",
+        "FileName": "ELUtils.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/dom/binding/ELUtils.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "8d54f14953c40f6f2a2fbbb1da35f6f782a22016",
+        "FileName": "JSONUtils.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/dom/binding/JSONUtils.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "e58a583827810939f9ddbee265d67d41bbde6039",
+        "FileName": "WXStatement.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/dom/binding/WXStatement.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "d4239649f499d1ecf7582019c3e433750d0c7bf6",
+        "FileName": "WXTransition.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/dom/transition/WXTransition.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 25,
+        "Deletions": 29,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "b492d53db04e24e5125f93acb5a1dcbd5950e680",
+        "FileName": "ArrayStack.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/el/parse/ArrayStack.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "d593a0186f0722e09b00aa844632abe9d925439d",
+        "FileName": "Block.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/el/parse/Block.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "839d541841674a1678fd1037a0b810b5a8852028",
+        "FileName": "Operator.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/el/parse/Operator.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "61d1842dc441067d7cc766100556a11a333cea26",
+        "FileName": "Operators.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/el/parse/Operators.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "ea850321ed7f4616e2a95b84e779e58927b27fcc",
+        "FileName": "Parser.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/el/parse/Parser.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "2136633587aaa839f86dcc992b03412b8f74a90c",
+        "FileName": "Symbol.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/el/parse/Symbol.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "f0d6186f3c2049a1742c7990a17d50a4ce359959",
+        "FileName": "Token.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/el/parse/Token.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "9140e607e1a4c1c5bfafadbffc38348fe64cd838",
+        "FileName": "FontAdapter.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/font/FontAdapter.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "50cd1b9199bf3482fa752841a7d0cd819f9d72e9",
+        "FileName": "FontListener.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/font/FontListener.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "9a82f6b0ac0a9ec6070110dc6dc8e25130fbbd86",
+        "FileName": "Options.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/http/Options.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "69b3892a8efac37a96296f98c007fc28ef36a22d",
+        "FileName": "Status.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/http/Status.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "d8f2577f1c3bae29359ab0b8d8a198c9aeda13bd",
+        "FileName": "WXHttpUtil.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/http/WXHttpUtil.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "ba3844b8afdbd569f7bc57416da0c740f5b1434a",
+        "FileName": "WXStreamModule.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/http/WXStreamModule.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 17,
+        "Deletions": 16,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "dd5915df43fd7f54864202730608cd6c6e433c71",
+        "FileName": "InstanceOnFireEventInterceptor.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/instance/InstanceOnFireEventInterceptor.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 5,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "309c2bf8430b2a8d5768de0827cb3eb890a0b2bf",
+        "FileName": "ContentBoxMeasurement.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/layout/ContentBoxMeasurement.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 5,
+        "Deletions": 6,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "c44b49b4c153704ec404fd0556aaefde7a8e50c5",
+        "FileName": "MeasureMode.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/layout/MeasureMode.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "476027e80f77522eea0cca4cdcae5eef2f436690",
+        "FileName": "MeasureSize.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/layout/MeasureSize.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "dca61a04f7a48063485251a38e070be1b8c66e50",
+        "FileName": "TextContentBoxMeasurement.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/layout/measurefunc/TextContentBoxMeasurement.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 19,
+        "Deletions": 26,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "45fb7bde9761b17ede247b2b1241d366df53cd40",
+        "FileName": "IApmGenerator.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/performance/IApmGenerator.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "5015f017243009347639039f3e63c4ab2c51d3ae",
+        "FileName": "IWXAnalyzer.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/performance/IWXAnalyzer.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "de1c56fec0a1db5f35f9b013bfa7632c3bc772ab",
+        "FileName": "IWXApmMonitorAdapter.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/performance/IWXApmMonitorAdapter.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "17e069cf282be6761c47021e025985468622ab80",
+        "FileName": "WXAnalyzerDataTransfer.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/performance/WXAnalyzerDataTransfer.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 9,
+        "Deletions": 10,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "273a60e7e7076afd962211b39e86f1b316937a28",
+        "FileName": "WXInstanceApm.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/performance/WXInstanceApm.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 13,
+        "Deletions": 13,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "00328ff33aaace44d6f9912529f539a872418d17",
+        "FileName": "WXStateRecord.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/performance/WXStateRecord.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 5,
+        "Deletions": 7,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "0ea349c8323fbe7eeed26e488dabff69910a47f3",
+        "FileName": "WhiteScreenUtils.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/performance/WhiteScreenUtils.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 5,
+        "Deletions": 8,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "2fc3192672a2940f9e1d81ce6bb12bc27a750e9d",
+        "FileName": "WXAbstractRenderContainer.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/render/WXAbstractRenderContainer.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "83f2f552970d1cc962de9333fa8fcf50b6cb6849",
+        "FileName": "Stopwatch.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/tracing/Stopwatch.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "834fb1c6ef6d28ef2c31233baf028cf12d27db77",
+        "FileName": "WXTracing.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/tracing/WXTracing.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "c249182af3878379e9ce0b628f2efcbc2c2760ac",
+        "FileName": "ComponentCreator.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/ComponentCreator.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "1b2c6800d904036e08cac205723adf2587361d53",
+        "FileName": "ExternalLoaderComponentHolder.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/ExternalLoaderComponentHolder.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "d78f535f1fc77be6ad1a471c24c8aef0dd28ae71",
+        "FileName": "IExternalComponentGetter.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/IExternalComponentGetter.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "bc7ca928ef7669bf2d51a99761edc68884b315b8",
+        "FileName": "IExternalModuleGetter.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/IExternalModuleGetter.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "d3a21f2af9fdab14190a860c2d36f70d75cda340",
+        "FileName": "IFComponentHolder.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/IFComponentHolder.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "fe9d0e603fdd6250c3757205bb72c597ea5465ac",
+        "FileName": "RenderContextImpl.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/RenderContextImpl.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 4,
+        "Deletions": 9,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "48c78ef1ed52e4a61067d6347044ba52bc55918e",
+        "FileName": "SimpleComponentHolder.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/SimpleComponentHolder.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 17,
+        "Deletions": 18,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "eee9be05ff8b887cd307be22cdc35f6f974b8a47",
+        "FileName": "WXComponentRegistry.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/WXComponentRegistry.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 11,
+        "Deletions": 13,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "58c7b7eb2e3c0b8e80e613139182adebec70c7da",
+        "FileName": "WXRenderHandler.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/WXRenderHandler.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "d401643d14ef45fc544e2b9ee9b4b3d9334ad56e",
+        "FileName": "WXRenderManager.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/WXRenderManager.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 13,
+        "Deletions": 14,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "70d3933575392e876defb16422abcd22cefd7390",
+        "FileName": "ActionAddRule.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/ActionAddRule.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "9f2e96d49247666caaa03d14816221ae098487d8",
+        "FileName": "ActionGetComponentRect.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/ActionGetComponentRect.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 9,
+        "Deletions": 8,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "64de952161421a348f1c528d4ca00595d97f79b2",
+        "FileName": "ActionGetLayoutDirection.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/ActionGetLayoutDirection.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 10,
+        "Deletions": 9,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "0d5bf2a2a7850e4ddde02bdf96d3be52e49ada41",
+        "FileName": "ActionInvokeMethod.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/ActionInvokeMethod.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 6,
+        "Deletions": 5,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "96830c38c8761290c0caefdb346d7376086db01a",
+        "FileName": "ActionReloadPage.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/ActionReloadPage.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "c91969c095893f47af85d99d2022d0595e2a2efc",
+        "FileName": "BasicComponentData.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/BasicComponentData.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 8,
+        "Deletions": 8,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "16e5472b77b790ed1ea2a5d79944e1094fb06271",
+        "FileName": "BasicGraphicAction.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/BasicGraphicAction.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 7,
+        "Deletions": 6,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "13e429ee339e10b30a4d9ffc9351c1f5ad6f682c",
+        "FileName": "GraphicActionAbstractAddElement.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicActionAbstractAddElement.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 10,
+        "Deletions": 9,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "e2e7ca7212537114d715eacacc97905ed2b48f35",
+        "FileName": "GraphicActionAddChildToRichtext.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicActionAddChildToRichtext.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 4,
+        "Deletions": 5,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "8ab6cba478b5f4b61dc3e134acc8fc4ee2a481d7",
+        "FileName": "GraphicActionAddElement.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicActionAddElement.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 13,
+        "Deletions": 13,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "0134ead54cff4d222a6d48f7f929560d709d1f06",
+        "FileName": "GraphicActionAddEvent.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicActionAddEvent.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 8,
+        "Deletions": 7,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "f7831be0bfde28c7c57223db3f61af6850b35789",
+        "FileName": "GraphicActionAnimation.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicActionAnimation.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 19,
+        "Deletions": 18,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "8e3a62e523054e6e3523caeef4e893a6acc9a8c7",
+        "FileName": "GraphicActionAppendTreeCreateFinish.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicActionAppendTreeCreateFinish.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 5,
+        "Deletions": 6,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "53cddfb78b2215136230c09463efcfba103e0a04",
+        "FileName": "GraphicActionBatchAction.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicActionBatchAction.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "e99772d3d86d40934fc87d52e864a66f2cd48562",
+        "FileName": "GraphicActionBatchBegin.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicActionBatchBegin.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "3ba83555e732c868fcf6df4ff82718be7276139b",
+        "FileName": "GraphicActionBatchEnd.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicActionBatchEnd.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "dad6032f0a4a51b637b7ec1138ff435d868b5f14",
+        "FileName": "GraphicActionCreateBody.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicActionCreateBody.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 7,
+        "Deletions": 8,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "717934f4cdd35e19e13e0c5de58bbb87b3526e1f",
+        "FileName": "GraphicActionCreateFinish.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicActionCreateFinish.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "c2c2c0c8f7143811b41afc3acb925d52aa04e754",
+        "FileName": "GraphicActionLayout.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicActionLayout.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 6,
+        "Deletions": 5,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "4c38840e8d2c13856a893a05d4ebd2fd2a2a3d85",
+        "FileName": "GraphicActionMoveElement.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicActionMoveElement.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 7,
+        "Deletions": 6,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "3f6fde7c908c85f47943ff2cea9d63c1bf958f1c",
+        "FileName": "GraphicActionRefreshFinish.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicActionRefreshFinish.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 4,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "0c405fc44f0a048dc9c92b514d493295b609ca05",
+        "FileName": "GraphicActionRemoveChildFromRichtext.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicActionRemoveChildFromRichtext.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 4,
+        "Deletions": 5,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "abf4a8bb0eb9e5a111587381210a2c96a82578c7",
+        "FileName": "GraphicActionRemoveElement.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicActionRemoveElement.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 7,
+        "Deletions": 6,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "57270445fa2beade73dff5a5d6277dbfd3156e12",
+        "FileName": "GraphicActionRemoveEvent.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicActionRemoveEvent.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 8,
+        "Deletions": 7,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "8c8615fdd180a65e71f281836d33a571db8a7a3e",
+        "FileName": "GraphicActionRenderSuccess.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicActionRenderSuccess.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "5a4b8092e521265637e9ebbeb455fc116792cf9f",
+        "FileName": "GraphicActionScrollToElement.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicActionScrollToElement.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 7,
+        "Deletions": 6,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "d7713cebf013f303e8668be765703b1b5df93f37",
+        "FileName": "GraphicActionUpdateAttr.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicActionUpdateAttr.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "19b896bb011cf319747734ea664fd5c831def4b9",
+        "FileName": "GraphicActionUpdateRichtextAttr.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicActionUpdateRichtextAttr.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "b9cc2e5b1be3985de557a35bb11ef0581ac9e7bc",
+        "FileName": "GraphicActionUpdateRichtextStyle.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicActionUpdateRichtextStyle.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 4,
+        "Deletions": 5,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "fd9e99922ff0bf4641c80f220ef7e22d0a65adc7",
+        "FileName": "GraphicActionUpdateStyle.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicActionUpdateStyle.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 8,
+        "Deletions": 8,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "5796caf6abfd5ae6a4abd6ac23cb5db40859412a",
+        "FileName": "GraphicPosition.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicPosition.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "f52364422a3995f75c03b8c1708ae311c3f69d49",
+        "FileName": "GraphicSize.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/GraphicSize.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "c140e493948062cc426709cb0b25311063348958",
+        "FileName": "IExecutable.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/IExecutable.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "ef14a2e5e51f18cc166e6cc4aea370999dd8611e",
+        "FileName": "UpdateComponentDataAction.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/action/UpdateComponentDataAction.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 10,
+        "Deletions": 9,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "b6eab016ee710df7e0f5152dee9e88ddf99df3ef",
+        "FileName": "BackgroundColorProperty.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/animation/BackgroundColorProperty.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "50243884da39c94eaacd9131269b2589b8f62555",
+        "FileName": "CameraDistanceProperty.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/animation/CameraDistanceProperty.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "9fc404e5d593c8b6b43cc5126f056d91fcc6f92c",
+        "FileName": "HeightProperty.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/animation/HeightProperty.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "f4ef1d7c86c0d1beeb07ac62eaa6b14458cdff5a",
+        "FileName": "LayoutParamsProperty.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/animation/LayoutParamsProperty.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "9087fab10cce829e2258f23d9fefaec0607356c0",
+        "FileName": "TransformParser.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/animation/TransformParser.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 10,
+        "Deletions": 10,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "57a8bc73cf5c2fe3b4a366d786873d554550fa55",
+        "FileName": "WXAnimationBean.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/animation/WXAnimationBean.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 7,
+        "Deletions": 10,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "6874630f8225c05d27f910886346c04c783b962f",
+        "FileName": "WXAnimationModule.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/animation/WXAnimationModule.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 7,
+        "Deletions": 8,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "1e9bf82eff4f9fcfea9fac8d9fad8ccd55891a46",
+        "FileName": "WidthProperty.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/animation/WidthProperty.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "3111b4f6722c91139c58d625e646deb9bb337b39",
+        "FileName": "AbstractEditComponent.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/AbstractEditComponent.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 21,
+        "Deletions": 23,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "1668171e840f44d89b9301e9d0ab307623eee008",
+        "FileName": "AppearanceHelper.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/AppearanceHelper.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "32637b7e537289d659e36c291b818c430d074e69",
+        "FileName": "NestedContainer.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/NestedContainer.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "7a8299a4b8c04377c2971b1748244afe6b44c889",
+        "FileName": "Scrollable.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/Scrollable.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "06b0da5ff80e280a1467ab164ec8c0a10e7b9ca3",
+        "FileName": "Textarea.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/Textarea.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 8,
+        "Deletions": 7,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "f8d45bc4d3497ae31b0d837dac32603375493b8c",
+        "FileName": "WXA.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/WXA.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 8,
+        "Deletions": 8,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "5ab59e6211f81d4b8c904f86751a26f0d0cbc6e8",
+        "FileName": "WXBaseRefresh.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/WXBaseRefresh.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 7,
+        "Deletions": 6,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "b6f7ccc60db294977b02e113e18c8fa6c42346b7",
+        "FileName": "WXBasicComponentType.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/WXBasicComponentType.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "9bdee051eedb1366f201ac555c21a9dc2deae990",
+        "FileName": "WXComponent.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/WXComponent.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 67,
+        "Deletions": 64,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "7a4290c690f03c70ae1095db195e4c031f0effb3",
+        "FileName": "WXComponentFactory.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/WXComponentFactory.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 9,
+        "Deletions": 15,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "d2a8fbfee572f0051bd83b1f37f9765b8dd096c8",
+        "FileName": "WXComponentProp.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/WXComponentProp.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "e22acd7218dd5467267ae3e366cd4e4d7ee42547",
+        "FileName": "WXDiv.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/WXDiv.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 9,
+        "Deletions": 13,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "2687095cb9dc7f3675697f00bea37dfe41c2fd01",
+        "FileName": "WXEmbed.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/WXEmbed.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 20,
+        "Deletions": 18,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "4172cfa90928fa2f22de603382feceb78b8e6b6a",
+        "FileName": "WXHeader.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/WXHeader.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "dbb70d3eb7571ae979fe64b17805333885596c80",
+        "FileName": "WXImage.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/WXImage.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 27,
+        "Deletions": 27,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "c5688e2d1425c54bf16a444a8b6ee50d3a728144",
+        "FileName": "WXIndicator.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/WXIndicator.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 11,
+        "Deletions": 11,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "51cc895d41ae3670bf62abfcf460fa73b7b17ad2",
+        "FileName": "WXInput.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/WXInput.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "f83349ccb1d5a2a6e27f6ea05337e22d98de68f3",
+        "FileName": "WXLoading.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/WXLoading.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 14,
+        "Deletions": 13,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "25e4682e8e650460bdf9b9b848fc40c20d3b59c3",
+        "FileName": "WXLoadingIndicator.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/WXLoadingIndicator.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 8,
+        "Deletions": 8,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "7a9cd7978962918bb72f2df926dda54f3b72aa06",
+        "FileName": "WXRefresh.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/WXRefresh.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 12,
+        "Deletions": 12,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "d814eb35ee4c5cb374d18930b213789656c5dd76",
+        "FileName": "WXScroller.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/WXScroller.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 24,
+        "Deletions": 24,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "9459f875006e6b8a4c1f8bfaef41c6b55aabecf7",
+        "FileName": "WXSlider.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/WXSlider.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 17,
+        "Deletions": 17,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "cfd7d0b19b5d6c6e706012425c954dbe9639371e",
+        "FileName": "WXSliderNeighbor.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/WXSliderNeighbor.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 13,
+        "Deletions": 12,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "32c06a23dffc63036831f4b136a618c9a5be83bd",
+        "FileName": "WXSwitch.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/WXSwitch.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 9,
+        "Deletions": 10,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "729414be9e8134b9fc4ed477689c23ed570159cb",
+        "FileName": "WXText.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/WXText.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 15,
+        "Deletions": 15,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "5f6db1b04723cae7ef3547117426e45a25ccbb96",
+        "FileName": "WXTextDecoration.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/WXTextDecoration.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "6b238e48e7ad5caf577eaf04482fd57a3100628a",
+        "FileName": "WXVContainer.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/WXVContainer.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 10,
+        "Deletions": 10,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "a4f875fe107f4660fa9ec79985f8b38ae8fae7a6",
+        "FileName": "WXVideo.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/WXVideo.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 15,
+        "Deletions": 13,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "321c36a671bb0d862218264014672824077a7d30",
+        "FileName": "WXWeb.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/WXWeb.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 12,
+        "Deletions": 11,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "85b063ff2f004312f525c60d30b6ec8179362a85",
+        "FileName": "WXBasicComponent.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/basic/WXBasicComponent.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 9,
+        "Deletions": 10,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "8b9e364fb78041cb9d3aaf8fadcb733a6ede1be3",
+        "FileName": "AsynLayoutTask.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/binding/AsynLayoutTask.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 6,
+        "Deletions": 5,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "2095e029a54c7bed9d8f8b62f638c0a2630068ec",
+        "FileName": "Layouts.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/binding/Layouts.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 14,
+        "Deletions": 14,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "5529048c2c2b9b9d5899b2dc4ee1110c2c622f34",
+        "FileName": "Statements.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/binding/Statements.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 32,
+        "Deletions": 31,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "339c267273f92be6693c645f4e1ed4a8c4bdaa64",
+        "FileName": "ScrollStartEndHelper.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/helper/ScrollStartEndHelper.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 9,
+        "Deletions": 9,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "b524e1665fb92edcdf7e30c8e0394fde98410dab",
+        "FileName": "SoftKeyboardDetector.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/helper/SoftKeyboardDetector.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "58b1d94d2c92188d5072f09e7a4855affb56318d",
+        "FileName": "WXStickyHelper.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/helper/WXStickyHelper.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 4,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "600fde7d3bf4397c48a528fa441abb49caacf6cf",
+        "FileName": "WXTimeInputHelper.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/helper/WXTimeInputHelper.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "ecbd621314de0a5e66e29c803f389fab563f5a34",
+        "FileName": "BasicListComponent.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/BasicListComponent.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 36,
+        "Deletions": 34,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "944e91c6e1cee8c011d802131f66cca8622f08c7",
+        "FileName": "DefaultDragHelper.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/DefaultDragHelper.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "8d3337f93e6bee9b77c190fbc417c444bd96cc47",
+        "FileName": "DragHelper.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/DragHelper.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 6,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "0a71b3bdb5f3ee987c3a639bc22d3003e476507b",
+        "FileName": "DragSupportCallback.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/DragSupportCallback.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 7,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "9cf2c370f3a9211b859e3f019e9fc3ae8035cec8",
+        "FileName": "EventTrigger.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/EventTrigger.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "0f58a25c16eeec3d2c7ceb776b03c014c4d32d30",
+        "FileName": "GapItemDecoration.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/GapItemDecoration.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "1473b8d690dbfd37b19cce4fc7d545b8489d0a99",
+        "FileName": "HorizontalListComponent.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/HorizontalListComponent.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "0b6fdd7f3774d215979e9d88e4c9506b8d7228dd",
+        "FileName": "ListComponentView.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/ListComponentView.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "61177415c051e0df9758a20ca569bbef1db49aaa",
+        "FileName": "RecyclerTransform.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/RecyclerTransform.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "4f3b3d851bace3a2ac319434d0461fb6b1ec4c0f",
+        "FileName": "SimpleListComponent.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/SimpleListComponent.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 7,
+        "Deletions": 6,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "f6ea5ccb8928963317156540c813ac9d17a0dfb1",
+        "FileName": "SimpleRecyclerView.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/SimpleRecyclerView.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 9,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "8b0efd92a587b1c5d8ace69c1ab16200ab63cdf4",
+        "FileName": "StickyHeaderHelper.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/StickyHeaderHelper.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 4,
+        "Deletions": 5,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "4efee98880d556db53c75ded2fcfe583d1c5926f",
+        "FileName": "WXCell.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/WXCell.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 19,
+        "Deletions": 21,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "542d7ad10c2642e8865591c15247502d52a097d0",
+        "FileName": "WXListComponent.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/WXListComponent.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 22,
+        "Deletions": 24,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "7419aaf2fb6de4ee3336f0d0220b660ff937706c",
+        "FileName": "WXPagerSnapHelper.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/WXPagerSnapHelper.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "098405df99efa9ed5a4f5cdf865797f9277c54c1",
+        "FileName": "AsyncCellLoadTask.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/template/AsyncCellLoadTask.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "1abfd213b386a1a3ed44c90ff0b77198c38b7e18",
+        "FileName": "CellDataManager.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/template/CellDataManager.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "9e1c1ca77d99644099dd44b67d76df240c25abbd",
+        "FileName": "CellRenderContext.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/template/CellRenderContext.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "1fc059374790d17f1290b5d27cf98521bd7d0c39",
+        "FileName": "CellRenderState.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/template/CellRenderState.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "3af1e37818a565d85dce02e35bb978bdf144b479",
+        "FileName": "PositionRef.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/template/PositionRef.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "4564c96b7de16f5d9a9f9190e3bb76d60c75318a",
+        "FileName": "Selector.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/template/Selector.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 5,
+        "Deletions": 6,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "1021ea790d56800166e37a0dbecd437e31d7b7fa",
+        "FileName": "TemplateCache.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/template/TemplateCache.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "3ab9d3311aa45ada3e77eb73780125eae24898b8",
+        "FileName": "TemplateDom.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/template/TemplateDom.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 9,
+        "Deletions": 8,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "e0630f5a86c1d87d89288dea67948521cb26c0f2",
+        "FileName": "TemplateStickyHelper.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/template/TemplateStickyHelper.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "0742a800861211ac8220178d788ec5ec24931b4a",
+        "FileName": "TemplateViewHolder.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/template/TemplateViewHolder.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "30fbfcf2005731c9474886027e0c406356009156",
+        "FileName": "VirtualComponentLifecycle.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/template/VirtualComponentLifecycle.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "4cd5311431e4320d119dd96c109b206cd138fdd3",
+        "FileName": "WXRecyclerTemplateList.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/template/WXRecyclerTemplateList.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 49,
+        "Deletions": 49,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "1fdde016aeda594d51fe07ff9f119cb16d030ac2",
+        "FileName": "NativeRenderLayoutDirection.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/template/jni/NativeRenderLayoutDirection.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "6031a9faa393f11879494f5d5d2af0c02f8df28f",
+        "FileName": "NativeRenderObjectUtils.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/list/template/jni/NativeRenderObjectUtils.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 5,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "8585fe604c780d6b75a6cd60b4e1e4a439f9e5b7",
+        "FileName": "OnActivePseudoListner.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/pesudo/OnActivePseudoListner.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "0a9af49596c1f6e8854d2f585b77b3078be66cd3",
+        "FileName": "PesudoStatus.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/pesudo/PesudoStatus.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 5,
+        "Deletions": 4,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "eb92540a05f90c0a99d763acff85022843397ea8",
+        "FileName": "TouchActivePseudoListener.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/pesudo/TouchActivePseudoListener.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "0e8180a1913433877e1ffbce340c2accc56df4e3",
+        "FileName": "WXRichText.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/richtext/WXRichText.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 10,
+        "Deletions": 10,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "7ca9e8bd6b80fdca0773755c4c154f6e659c900d",
+        "FileName": "WXRichTextView.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/richtext/WXRichTextView.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "5ecd96390254d876533f89ec19590d91df3424f9",
+        "FileName": "ANode.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/richtext/node/ANode.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 6,
+        "Deletions": 7,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "c8362976d9dcf9de56fecc7fe0eb21740e3f6d4a",
+        "FileName": "ImgNode.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/richtext/node/ImgNode.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 14,
+        "Deletions": 16,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "d0a6e606cab47e12b16f956eedb0c44201390f95",
+        "FileName": "RichTextNode.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/richtext/node/RichTextNode.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 9,
+        "Deletions": 9,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "a1d331375795e1ec8b3dc7eb04eea582b062e436",
+        "FileName": "RichTextNodeCreator.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/richtext/node/RichTextNodeCreator.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "24c69f96afdd4a7dbd3ab4cadf409d87e6515abd",
+        "FileName": "RichTextNodeManager.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/richtext/node/RichTextNodeManager.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "6f0d499858f8fa0d6fd564b6e6f2368f72b3ae1c",
+        "FileName": "SpanNode.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/richtext/node/SpanNode.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 4,
+        "Deletions": 6,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "2a4e7b4f44528ce80c842e1c2ef9f7f9f210b3cf",
+        "FileName": "ASpan.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/richtext/span/ASpan.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "d27b20240e6e786341883b5567d87a65202517f9",
+        "FileName": "ImgSpan.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/richtext/span/ImgSpan.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "6e6286cf3f464215195dfbdbcca4d7932354e074",
+        "FileName": "ItemClickSpan.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/component/richtext/span/ItemClickSpan.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "26477d0a20e8f3fee4d6d051b60a295daea0dd66",
+        "FileName": "AutoScanConfigRegister.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/config/AutoScanConfigRegister.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 6,
+        "Deletions": 8,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "16759ebfc20dd3d9bf9d5585b0ac9d1d8171fd6b",
+        "FileName": "ConfigComponentHolder.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/config/ConfigComponentHolder.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 14,
+        "Deletions": 13,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "c3973ee41e78b0894737dfcec41ff01eea6b1c77",
+        "FileName": "ConfigModuleFactory.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/config/ConfigModuleFactory.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 14,
+        "Deletions": 12,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "f18b149074f246669855fb67c1d72b1d30ce77b8",
+        "FileName": "FlatComponent.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/flat/FlatComponent.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "9bb3ddaa869ef296bf90af516c5014ec98c409d8",
+        "FileName": "FlatGUIContext.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/flat/FlatGUIContext.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 8,
+        "Deletions": 8,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "58b8e0dadda7bee5de220b0ca0303f9493024462",
+        "FileName": "WidgetContainer.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/flat/WidgetContainer.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "f2682deadf55dca92c3898c906b9f09ecca0ac8c",
+        "FileName": "AndroidViewWidget.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/flat/widget/AndroidViewWidget.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "c766a5d1a4dee441575fbca2a7b8c52c5826544d",
+        "FileName": "BaseWidget.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/flat/widget/BaseWidget.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "30b0faf5617ef0f9f1150e1af4904537a568de85",
+        "FileName": "TextWidget.java",
+        "Path": "android/sdk/src/main/java/org/apache/weex/ui/flat/widget/TextWidget.java",
+        "DateUpdated": "2019-09-25T07:30:00Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7548ba6214ddfe16455cf03c577941f1dfb1ecdc"
+        ]
+      },
+      {
+        "Sha": "66b305e9f0f17b2058c71a9d830e51ec13e86f6e",
+        "FileName": "TestActivity.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/TestActivity.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 29,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "9ca09d928251a2af719b75d94effa6f6bf0cb56d",
+        "FileName": "TestApplication.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/TestApplication.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 27,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "0864653ce6525e2acec7af3fd56095afd696f2d4",
+        "FileName": "WXSDKEngineTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/WXSDKEngineTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 108,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "6be97aef34db0bcd416c5085a97841b0a22718a6",
+        "FileName": "WXSDKInstanceTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/WXSDKInstanceTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 198,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "ae6442d97728912c6841d05f965765910e7d011f",
+        "FileName": "WXSDKManagerTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/WXSDKManagerTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 49,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "3c4d84b34955276a8cd5047a7c1e33a514d50b1c",
+        "FileName": "DefaultUriAdapterTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/adapter/DefaultUriAdapterTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 116,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "4f2de367b29ddd95a0290975d8bd773e1072640e",
+        "FileName": "WXClipboardModuleTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/appfram/clipboard/WXClipboardModuleTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 75,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "9084adc0d1ce567a4d754d7f2cbe51cc16ebc457",
+        "FileName": "WXNavigatorModuleTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/appfram/navigator/WXNavigatorModuleTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 174,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "fae69b81555dcacbadf99fa4e076082d408640fd",
+        "FileName": "DefaultWXStorageTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/appfram/storage/DefaultWXStorageTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 107,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "1ff7c89988af5c7fe9e318c3efea68c19872596e",
+        "FileName": "WXStorageModuleTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/appfram/storage/WXStorageModuleTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 130,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "61a3f142b8e71455764016ec59b661320917eed1",
+        "FileName": "WXBridgeManagerTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/bridge/WXBridgeManagerTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 168,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "13feaf64b50f0d8f3f79b984d54448b930b822ae",
+        "FileName": "WXBridgeTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/bridge/WXBridgeTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 77,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "71638ae0276cb68dc3a21ee7633ce0483b05c99b",
+        "FileName": "WXHashMapTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/bridge/WXHashMapTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 85,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "c4c92d84968c9094b9c6010120eff4836f9366f9",
+        "FileName": "WXModuleManagerTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/bridge/WXModuleManagerTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 103,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "b1158d40f20578ce28a4d0c6bd2bd97d7d7534af",
+        "FileName": "TestModule.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/common/TestModule.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 44,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "ae9fc65ce3d7fcc620531b94393cbcf030a1cdd1",
+        "FileName": "TestModuleFactory.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/common/TestModuleFactory.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 37,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "5860720639151fac8b03784d2885e279bb402e6b",
+        "FileName": "WXModuleTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/common/WXModuleTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 28,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "c122418502aa808bbab68b0766562fe5f057cea6",
+        "FileName": "WXAttrTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/dom/WXAttrTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 137,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "261b5b767bea32d05f8d06a52cfaa8d43add5b16",
+        "FileName": "WXDomManagerTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/dom/WXDomManagerTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 69,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "4bdd77a334904228df7f0044c686300aacfb976b",
+        "FileName": "WXDomStatementTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/dom/WXDomStatementTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 292,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "f6641d4e13e96cfdd5cdc689f5ab2b5baf285b5d",
+        "FileName": "WXStyleTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/dom/WXStyleTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 138,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "c01259a1779a26b29627bdbd243a1f8a1bb28b90",
+        "FileName": "WXTextDomObjectTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/dom/WXTextDomObjectTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 87,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "e0a2aa3259b8c7ca4379e1bda897f7df1287b8dd",
+        "FileName": "WXStreamModuleTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/http/WXStreamModuleTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 188,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "1ddb122bbe3b02c876f9e0b13b2e0e9d5269dc4a",
+        "FileName": "ComponentHolderTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/ComponentHolderTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 66,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "1c4fef9ed08f463862a630cca65e8f59fe5d95b9",
+        "FileName": "WXRenderStatementTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/WXRenderStatementTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 137,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "7dd485834b4eb4205d5debd918feda554c3013d3",
+        "FileName": "WXAnimationModuleTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/animation/WXAnimationModuleTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 61,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "bcafc2a19f37ca27fec9f9b409755f2a4de008c1",
+        "FileName": "ComponentTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/component/ComponentTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 94,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "8a40791f56f99f85e33a5f7a0ba6a61fccff1f21",
+        "FileName": "EditComponentTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/component/EditComponentTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 136,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "1ac43e6ceec619d46f5e92d0ac2b77569b8708af",
+        "FileName": "TestComponent.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/component/TestComponent.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 35,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "f0d060b875031df0ad4a6a8582e142280ccd4ec8",
+        "FileName": "TestConstants.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/component/TestConstants.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 36,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "33fe97d40d7f7808ee0555020996fcf75b603410",
+        "FileName": "TextareaTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/component/TextareaTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 69,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "8ea91f1cfd799f938ed000792aca82166db21bff",
+        "FileName": "WXComponentTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/component/WXComponentTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 114,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "310af8e1f1dc7fdca824b873f04cb2f1ff6f1419",
+        "FileName": "WXDivTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/component/WXDivTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 120,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "752b42587adb86fca247fb7f5f1c831da79ff9ed",
+        "FileName": "WXEmbedTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/component/WXEmbedTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 69,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "740f7c4a120d727017fb36e995ffa54b08c4606d",
+        "FileName": "WXHeaderTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/component/WXHeaderTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 35,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "9999f7131b07ee80c1f81bede95887f2c54fe116",
+        "FileName": "WXImageTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/component/WXImageTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 155,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "59d803ed5a91895b7c9d6188a5fe55bf24ac6f45",
+        "FileName": "WXLoadingTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/component/WXLoadingTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 70,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "99ca1511108c62a2a9652105f391f5cb09d73f54",
+        "FileName": "WXRefreshTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/component/WXRefreshTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 74,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "185ab2e837e1648ae5f2278bcba4216a43cb00a2",
+        "FileName": "WXScrollerTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/component/WXScrollerTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 80,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "0f18fa52099f1db50d19d00488a6dd0e521b35d0",
+        "FileName": "WXSliderNeighborTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/component/WXSliderNeighborTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 101,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "697d3b427c2c871998f5f9a7d4044c3a4067ea53",
+        "FileName": "WXSliderTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/component/WXSliderTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 151,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "63f8d6a93afa444b095c5166b8c6bb75fb4cddaf",
+        "FileName": "WXSwitchTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/component/WXSwitchTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 72,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "c311ffb90fd7b9e031314366e3700c9799c7d48e",
+        "FileName": "WXTextTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/component/WXTextTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 161,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "d01caa5cb11ea4dc3024583228e6f50ff1525ce8",
+        "FileName": "WXVideoTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/component/WXVideoTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 80,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "53d1773818f8f74937d7366581bda927efc617e9",
+        "FileName": "WXWebTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/component/WXWebTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 174,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "f9e9ee2ab1cf2ad5f4144df443f467bb8c174e6e",
+        "FileName": "WXTimeInputHelperTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/component/helper/WXTimeInputHelperTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 68,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "474bdcf0a5874287eb166fb6fb67ca4565feaafc",
+        "FileName": "DefaultDragHelperTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/component/list/DefaultDragHelperTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 129,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "feb2b05d3ce1f5622d9ea8f8458a9528eff71282",
+        "FileName": "WXListComponentTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/component/list/WXListComponentTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 123,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "d58a0dcf70157451c83598bf90d62fd5668a5841",
+        "FileName": "WXMetaModuleTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/module/WXMetaModuleTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 77,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "17d3fba0568be36cf5746d9add1b0b361a7a57e9",
+        "FileName": "WXModalUIModuleTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/module/WXModalUIModuleTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 80,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "7fe508c41091781c466a40c4fab5b0e1eac251d6",
+        "FileName": "WXTimerModuleTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/module/WXTimerModuleTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 197,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "acb8e869d30be27279968a93ac5eb004ac6a0177",
+        "FileName": "WXWebViewModuleTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/module/WXWebViewModuleTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 65,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "90b96f7e77fc958d1053a0d1afae3d9592a3d718",
+        "FileName": "WXCirclePageAdapterTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/view/WXCirclePageAdapterTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 107,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "3873aa1a9bb368f9bd1beb780017664520e52d07",
+        "FileName": "WXScrollViewTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/view/WXScrollViewTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 87,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "7b8b5cdad8af8e53550d42c07d1254386324358e",
+        "FileName": "WXWebViewTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/view/WXWebViewTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 128,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "827e6321747d26dc1006bdab35c55e7383fe3e4a",
+        "FileName": "BorderCornerTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/view/border/BorderCornerTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 320,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "49caafab68c857dee04ddfeabab7714f78af39f8",
+        "FileName": "BorderDrawableTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/view/border/BorderDrawableTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 377,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "125f9d12ef211fddcc74ff0217b6fb9d81bb3580",
+        "FileName": "WXGestureTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/ui/view/gesture/WXGestureTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 77,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "aa1c719c9a333b1ed1cc72287a49c088e268ce60",
+        "FileName": "FunctionParserTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/utils/FunctionParserTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 40,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "7416b8df0522bab3c84b12dd94ce30a974a3d36a",
+        "FileName": "TypefaceUtilTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/utils/TypefaceUtilTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 51,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "64a072039e91c5b3da641d85a9478783dfa2113f",
+        "FileName": "WXFileUtilsTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/utils/WXFileUtilsTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 65,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "92f64eba48ab099077db4b881167799f07bc71b4",
+        "FileName": "WXJsonUtilsTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/utils/WXJsonUtilsTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 100,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "ece6e0ef6e89796ffeb499a2b0c3f27f157c2686",
+        "FileName": "WXLogUtilsTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/utils/WXLogUtilsTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 95,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "18df37985c46366c207599e8c97622506cf86c9a",
+        "FileName": "WXReflectionUtilsTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/utils/WXReflectionUtilsTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 126,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "caaf8ab2d89abef737d614b1ed7cb02e067ff8fc",
+        "FileName": "WXResourceUtilsTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/utils/WXResourceUtilsTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 145,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "e981c69e4add0b54b5872900bd87e3b071149a17",
+        "FileName": "WXUtilsTest.java",
+        "Path": "android/sdk/src/test/java/com/taobao/weex/utils/WXUtilsTest.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 184,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      },
+      {
+        "Sha": "d6f285cba042c7cc8416677577e372124a19a386",
+        "FileName": "MockitoConfiguration.java",
+        "Path": "android/sdk/src/test/java/org/mockito/configuration/MockitoConfiguration.java",
+        "DateUpdated": "2019-09-25T07:29:48Z",
+        "Additions": 0,
+        "Deletions": 29,
+        "Commits": [
+          "601fcb261004ba76119b221666d9ac88b57283d3"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "7548ba6214ddfe16455cf03c577941f1dfb1ecdc",
+        "Author": {
+          "name": "\"YorkShen\"",
+          "location": "HangZhou, China",
+          "company": "Alibaba Group"
+        },
+        "Commitor": {
+          "name": "\"chen\"",
+          "location": "ChengDu,China",
+          "company": "SiChuan University"
+        },
+        "Date": "2019-09-25T07:30:00Z",
+        "additions": 2309,
+        "deletions": 2334,
+        "files": [
+          "c1e495c7760d962a81fd17dda255193ba375ebac",
+          "91976e413b0538e27809cd60f6eec910222cb4f5",
+          "af4d9c066410c357c540ae19c9b28a7449b5f9ce",
+          "642d523d8d354b167707e31bb5f936a9410065d8",
+          "f29323dc68e0dd68e99e61565128a6df04e2ba91",
+          "239bde2bb55d034f2515eb7f863488c3b1b77761",
+          "48b70764b13cfaa175b754a5a9acc7cd0dfe864d",
+          "345bb3dbbcdc0c6709d836388107dbcb8e69e0f0",
+          "19b57c01759b1f0fa49d2552b60e55fc16bdae4b",
+          "3c06bb4f06afe78aa844499edab3f3e417609acc",
+          "f77eb7eaed2d33c3cd0147d93aa690e01d64bac8",
+          "0398aec7c396fa0cbf288dfc9e163b1f9ed265e8",
+          "82f70fa094816f4892242313ff6e62426fba7557",
+          "580b02ac1c9427c41e37c71150b3797098550205",
+          "911271b46ad3ff3cbed2422cd73bbd08acf884cb",
+          "29af1b6fe7512989b5d8fa7d3724ebd876bb2445",
+          "6688fc33d5901d4d04cf421b2fab520e591a6f25",
+          "d1d87fae3a29458975ed976943babef253ebe8a1",
+          "9ad32e1b4ff8b0dfdd0a191e704e4b065139ff64",
+          "75c1f85514d4cf72a04708fe7be3f9d1617b3057",
+          "234c3c4f5d3ed44746133f9c4c0a464e9caeb1b6",
+          "ed1cda6290daa8a8bbf51f641cf28017248591be",
+          "ad6efe1097126996d3d612d8ef8971dd878b4178",
+          "628e4ccab2ea9ba0e51d4103c26692eab0a4f896",
+          "2d98862b6299a987913840a8f4279b7807db9448",
+          "e1410251fa140a2459b9f3014a0a365e28c56b4c",
+          "70f24a221013016be12172b65073e3ffc86646b5",
+          "7f5fe12a4b3dacf9d7000c4e06de2889318e556d",
+          "60fca0deb665c790d88ee3373bc7586d58ea5df8",
+          "254fa45bf2e00e18a12800daa14e106b4f2a64b4",
+          "c71351d4429f7c66fa6721cc0b19d2e3e9890208",
+          "e0ce304e709c63990059d6a002ca2716b0007702",
+          "7682339669b642e9e26d92cb9eabfa46c415c1d9",
+          "17791e3c1b282c6a3ede04fc55978e7704e63c84",
+          "0da8e2487052d6fca96c6371920bab48aa8be57c",
+          "ffbad5251e5904429793932f3ba1437faf6d2fbb",
+          "0bedb93057beec620ec94af7db0b601fd1285795",
+          "4af06236d946cc84c37031364bcdaaa3b14e697b",
+          "1bce4a8581ae141c396fe57be6ee1b8f3d916152",
+          "c6525662ee3543d568e5faf63ceeeea5fc9c9856",
+          "fcdd71112c445117a7057b6f82b99b01677c71fd",
+          "264dc178de71774a7001803a3a6aaf458c5b087a",
+          "7174925a9675e57b43fa2d921f00b5488b4e5cf6",
+          "7f8ce5b4501659408465cca34e2cf91ca08593d1",
+          "1c09643da31abf858935630cdaa5870bfde1cea6",
+          "b38f9f0b6fa7466928e420da0dee0830fb66aae6",
+          "6f97e84189caa8a62c21c461ac7c2decdbecd081",
+          "60ddbb4e433bdaaefbe0183c9e3823081fa117e7",
+          "674c89d64d6c002c6d975e9882fa727833d306ba",
+          "9739bd66e47c74fc6459d08bb35d98aaf0e8efaa",
+          "5b312af146cf4fc8090a2b2b8dc354900cde35eb",
+          "2a0a6bb1b148c140bc47f8053141d2f3d067c3e1",
+          "ea6dc0624ba9e940a08b1f4ad0160de06dc06796",
+          "543e4c311e46fb565a6e9f34c809d092c13a7bce",
+          "4225e66e3ccfd88a49cb5e340ddeb2d3341c3163",
+          "1ae25f2506565042ff4fcea4a45567cd38f810fb",
+          "cb4b6de65623ccde8af1b28160fa466c8f03db70",
+          "1386620436405edf07e9462dcc8742f47bbbaf60",
+          "9ae2e4f9c41a67d932ab9286c732119250e1d9d0",
+          "82c7fa9f11b8c101441c29d9b146c990c6a0cf0f",
+          "7b7ccf1f36ba10686ab2ebae07ee16beba0fc4a9",
+          "a9c6fd948c7ccf2d062d21913c361d8ea30ca05d",
+          "d2ad9c3dd067253983fbc2d9e07c20adcbbab09b",
+          "5663b49dd1af91d2b8e0af8653c4a4c5793c0af4",
+          "63b315b47f8ba7c8f539879df9dccdd4baecd83f",
+          "0b5232a573acd9167bccfb40e403cf86be5b7d64",
+          "815f19f19d85dca429378106b4e11afe0a5af4bd",
+          "a2f0c30e27a1ab7d88b6397a968cdb174c61b78e",
+          "812421afb89f2c54ad9f367ebad675f5db3b6e18",
+          "0248766f44c92bb790f52fc824325e2814719b67",
+          "3166e0bb17628b3784c493cfe982aa9a9fae13b0",
+          "ebf17adbfa3dd7e005e24d972b81e40abd6b9e10",
+          "fc87a6797c0b5f344ef5c5e5d74af8e641664f36",
+          "203b3d8fa1e1481a57eda2ab37ec78b7d22587d0",
+          "d945a0fed5fdcfbeb4ea699cca5850d41d8508d0",
+          "ef869875d8c2905093f8fec1a9c4a82e80edd51e",
+          "ac02b42dd1b69de87cf006b30ced62eb9add4ff5",
+          "ad41e190635f458518c1ff8d7af916bd289fe24d",
+          "bed2a43959e483cb31398d0fda7dd0b1badcbc66",
+          "68ca5e2d8243110de8824d21d1afa5fd32e65b04",
+          "7642cad4dc443e609c8460d0923a16114ece3a66",
+          "25fdbe6d2e8b8c077be9ec997ba951c85796f294",
+          "66b98e606e011f086751333a0a09fbc9eb8e507b",
+          "69ab29a0363816af553272234b476560f16676fa",
+          "3f5e526229f8d16a20db14421811f8bf07167902",
+          "f1678357fcaad1d9b2b253b76a1d66156314780f",
+          "d3d3232dda42c0b032cb78ebec0636d018b17c8b",
+          "8beca57e84cd8ace553f66416e7d7bf63e2b1144",
+          "3a4ab5d8415cf37bdbed8e883901e453402c7c40",
+          "01858eaa065943f1247e746ea7afca11a08fc3a6",
+          "6d762684bf78fc6c71c5703023b398dd383e1ebe",
+          "4b3ae4a4c6fc692f1d3dcb515f1907d1b4574c0f",
+          "450b8aee4394b76a59f96c69bb46927e7e83897f",
+          "8e3a105150dc5a16d16fcd18374b1ab8b9d77d96",
+          "f31ef932b92cf10712a819755428af3f999da8cf",
+          "1cbf4b0c8a90769ef2cc539eedaeb32a7c891159",
+          "88fd5f15f1fcff78d4957d2df2016809c6c5a1f9",
+          "793d9ea6569a08719a05a474013a997e5158b260",
+          "4afb5e79dfa7f789f9e16645a549967e60a10db6",
+          "6904ce6407c27565bce490a513351e2c649b758e",
+          "e32e37014aaf84f8cb3b48a1f29f7cd35b59966f",
+          "e51fe0250dfa1f012d7c1c15fb37ec8c2ae5e7d1",
+          "f2e3307fbd18fe9e598017072ec6beaf010694f8",
+          "8d1b358bd080a0d011844f3e82e15d8db8173d2d",
+          "9b627c378f22719f20d507fbd057685102ff4676",
+          "bd2d347b6f59d2a1b7a1f15d431b08bb0613196d",
+          "4086a02db32b88d78187725ab1f73d2c6a2994bc",
+          "038771c6ad7b692b42941354c64b837d054c8c3d",
+          "7024086468681d004a03fe82cb86ba99ac54155c",
+          "02d6696b3b16325e1e66fd489c4c4e9d705c9a8c",
+          "2dcc5cd5c7607e778cd5ce0be5131974c01f4bb9",
+          "d0aa52ce32dafcb21d974e7bd93712ebd488c3cb",
+          "f261ac9ff605cac44a8255e2f535aec79b17288e",
+          "4c209ccc1fd2ce507caca15faa59f390eca3ea28",
+          "0673f8d82aac3fbd63e89a3f406439a39ddb3218",
+          "f9ee2f44a2294ff54b768bc2d3b7cb00683e2593",
+          "8753ca9f6071e1f59aa4f7e588b44e216ef5480b",
+          "70a7a8c364d4489dae3ee5d5b01617344049c385",
+          "9c20d868e598bcd9be3acf500c5eb6562ae365e8",
+          "f54f12d8fbc541786400e8bc035f0a8b7fc01e2e",
+          "98be70aa888efed9dbe75ccebb1cfca0262bd2e8",
+          "a04c70e20f84d5649108f6c6a58c575a5817f1fe",
+          "f8834d63758ccf4afb5927ecea6de5f38a1d0df0",
+          "71277f107bbb090a3153cef740c4bb4e49d78426",
+          "303ab2a6a7075d03583031e9eb9f941e62f59b35",
+          "8c7d279af8dec40d1989666ca02e010c977ab185",
+          "5a5fd38bcf33b7fae97f8a2bae54c36d220a8052",
+          "482e8c886cd3c2ad97d20c7ff1b816be2bcee84e",
+          "8d54f14953c40f6f2a2fbbb1da35f6f782a22016",
+          "e58a583827810939f9ddbee265d67d41bbde6039",
+          "d4239649f499d1ecf7582019c3e433750d0c7bf6",
+          "b492d53db04e24e5125f93acb5a1dcbd5950e680",
+          "d593a0186f0722e09b00aa844632abe9d925439d",
+          "839d541841674a1678fd1037a0b810b5a8852028",
+          "61d1842dc441067d7cc766100556a11a333cea26",
+          "ea850321ed7f4616e2a95b84e779e58927b27fcc",
+          "2136633587aaa839f86dcc992b03412b8f74a90c",
+          "f0d6186f3c2049a1742c7990a17d50a4ce359959",
+          "9140e607e1a4c1c5bfafadbffc38348fe64cd838",
+          "50cd1b9199bf3482fa752841a7d0cd819f9d72e9",
+          "9a82f6b0ac0a9ec6070110dc6dc8e25130fbbd86",
+          "69b3892a8efac37a96296f98c007fc28ef36a22d",
+          "d8f2577f1c3bae29359ab0b8d8a198c9aeda13bd",
+          "ba3844b8afdbd569f7bc57416da0c740f5b1434a",
+          "dd5915df43fd7f54864202730608cd6c6e433c71",
+          "309c2bf8430b2a8d5768de0827cb3eb890a0b2bf",
+          "c44b49b4c153704ec404fd0556aaefde7a8e50c5",
+          "476027e80f77522eea0cca4cdcae5eef2f436690",
+          "dca61a04f7a48063485251a38e070be1b8c66e50",
+          "45fb7bde9761b17ede247b2b1241d366df53cd40",
+          "5015f017243009347639039f3e63c4ab2c51d3ae",
+          "de1c56fec0a1db5f35f9b013bfa7632c3bc772ab",
+          "17e069cf282be6761c47021e025985468622ab80",
+          "273a60e7e7076afd962211b39e86f1b316937a28",
+          "00328ff33aaace44d6f9912529f539a872418d17",
+          "0ea349c8323fbe7eeed26e488dabff69910a47f3",
+          "2fc3192672a2940f9e1d81ce6bb12bc27a750e9d",
+          "83f2f552970d1cc962de9333fa8fcf50b6cb6849",
+          "834fb1c6ef6d28ef2c31233baf028cf12d27db77",
+          "c249182af3878379e9ce0b628f2efcbc2c2760ac",
+          "1b2c6800d904036e08cac205723adf2587361d53",
+          "d78f535f1fc77be6ad1a471c24c8aef0dd28ae71",
+          "bc7ca928ef7669bf2d51a99761edc68884b315b8",
+          "d3a21f2af9fdab14190a860c2d36f70d75cda340",
+          "fe9d0e603fdd6250c3757205bb72c597ea5465ac",
+          "48c78ef1ed52e4a61067d6347044ba52bc55918e",
+          "eee9be05ff8b887cd307be22cdc35f6f974b8a47",
+          "58c7b7eb2e3c0b8e80e613139182adebec70c7da",
+          "d401643d14ef45fc544e2b9ee9b4b3d9334ad56e",
+          "70d3933575392e876defb16422abcd22cefd7390",
+          "9f2e96d49247666caaa03d14816221ae098487d8",
+          "64de952161421a348f1c528d4ca00595d97f79b2",
+          "0d5bf2a2a7850e4ddde02bdf96d3be52e49ada41",
+          "96830c38c8761290c0caefdb346d7376086db01a",
+          "c91969c095893f47af85d99d2022d0595e2a2efc",
+          "16e5472b77b790ed1ea2a5d79944e1094fb06271",
+          "13e429ee339e10b30a4d9ffc9351c1f5ad6f682c",
+          "e2e7ca7212537114d715eacacc97905ed2b48f35",
+          "8ab6cba478b5f4b61dc3e134acc8fc4ee2a481d7",
+          "0134ead54cff4d222a6d48f7f929560d709d1f06",
+          "f7831be0bfde28c7c57223db3f61af6850b35789",
+          "8e3a62e523054e6e3523caeef4e893a6acc9a8c7",
+          "53cddfb78b2215136230c09463efcfba103e0a04",
+          "e99772d3d86d40934fc87d52e864a66f2cd48562",
+          "3ba83555e732c868fcf6df4ff82718be7276139b",
+          "dad6032f0a4a51b637b7ec1138ff435d868b5f14",
+          "717934f4cdd35e19e13e0c5de58bbb87b3526e1f",
+          "c2c2c0c8f7143811b41afc3acb925d52aa04e754",
+          "4c38840e8d2c13856a893a05d4ebd2fd2a2a3d85",
+          "3f6fde7c908c85f47943ff2cea9d63c1bf958f1c",
+          "0c405fc44f0a048dc9c92b514d493295b609ca05",
+          "abf4a8bb0eb9e5a111587381210a2c96a82578c7",
+          "57270445fa2beade73dff5a5d6277dbfd3156e12",
+          "8c8615fdd180a65e71f281836d33a571db8a7a3e",
+          "5a4b8092e521265637e9ebbeb455fc116792cf9f",
+          "d7713cebf013f303e8668be765703b1b5df93f37",
+          "19b896bb011cf319747734ea664fd5c831def4b9",
+          "b9cc2e5b1be3985de557a35bb11ef0581ac9e7bc",
+          "fd9e99922ff0bf4641c80f220ef7e22d0a65adc7",
+          "5796caf6abfd5ae6a4abd6ac23cb5db40859412a",
+          "f52364422a3995f75c03b8c1708ae311c3f69d49",
+          "c140e493948062cc426709cb0b25311063348958",
+          "ef14a2e5e51f18cc166e6cc4aea370999dd8611e",
+          "b6eab016ee710df7e0f5152dee9e88ddf99df3ef",
+          "50243884da39c94eaacd9131269b2589b8f62555",
+          "9fc404e5d593c8b6b43cc5126f056d91fcc6f92c",
+          "f4ef1d7c86c0d1beeb07ac62eaa6b14458cdff5a",
+          "9087fab10cce829e2258f23d9fefaec0607356c0",
+          "57a8bc73cf5c2fe3b4a366d786873d554550fa55",
+          "6874630f8225c05d27f910886346c04c783b962f",
+          "1e9bf82eff4f9fcfea9fac8d9fad8ccd55891a46",
+          "3111b4f6722c91139c58d625e646deb9bb337b39",
+          "1668171e840f44d89b9301e9d0ab307623eee008",
+          "32637b7e537289d659e36c291b818c430d074e69",
+          "7a8299a4b8c04377c2971b1748244afe6b44c889",
+          "06b0da5ff80e280a1467ab164ec8c0a10e7b9ca3",
+          "f8d45bc4d3497ae31b0d837dac32603375493b8c",
+          "5ab59e6211f81d4b8c904f86751a26f0d0cbc6e8",
+          "b6f7ccc60db294977b02e113e18c8fa6c42346b7",
+          "9bdee051eedb1366f201ac555c21a9dc2deae990",
+          "7a4290c690f03c70ae1095db195e4c031f0effb3",
+          "d2a8fbfee572f0051bd83b1f37f9765b8dd096c8",
+          "e22acd7218dd5467267ae3e366cd4e4d7ee42547",
+          "2687095cb9dc7f3675697f00bea37dfe41c2fd01",
+          "4172cfa90928fa2f22de603382feceb78b8e6b6a",
+          "dbb70d3eb7571ae979fe64b17805333885596c80",
+          "c5688e2d1425c54bf16a444a8b6ee50d3a728144",
+          "51cc895d41ae3670bf62abfcf460fa73b7b17ad2",
+          "f83349ccb1d5a2a6e27f6ea05337e22d98de68f3",
+          "25e4682e8e650460bdf9b9b848fc40c20d3b59c3",
+          "7a9cd7978962918bb72f2df926dda54f3b72aa06",
+          "d814eb35ee4c5cb374d18930b213789656c5dd76",
+          "9459f875006e6b8a4c1f8bfaef41c6b55aabecf7",
+          "cfd7d0b19b5d6c6e706012425c954dbe9639371e",
+          "32c06a23dffc63036831f4b136a618c9a5be83bd",
+          "729414be9e8134b9fc4ed477689c23ed570159cb",
+          "5f6db1b04723cae7ef3547117426e45a25ccbb96",
+          "6b238e48e7ad5caf577eaf04482fd57a3100628a",
+          "a4f875fe107f4660fa9ec79985f8b38ae8fae7a6",
+          "321c36a671bb0d862218264014672824077a7d30",
+          "85b063ff2f004312f525c60d30b6ec8179362a85",
+          "8b9e364fb78041cb9d3aaf8fadcb733a6ede1be3",
+          "2095e029a54c7bed9d8f8b62f638c0a2630068ec",
+          "5529048c2c2b9b9d5899b2dc4ee1110c2c622f34",
+          "339c267273f92be6693c645f4e1ed4a8c4bdaa64",
+          "b524e1665fb92edcdf7e30c8e0394fde98410dab",
+          "58b1d94d2c92188d5072f09e7a4855affb56318d",
+          "600fde7d3bf4397c48a528fa441abb49caacf6cf",
+          "ecbd621314de0a5e66e29c803f389fab563f5a34",
+          "944e91c6e1cee8c011d802131f66cca8622f08c7",
+          "8d3337f93e6bee9b77c190fbc417c444bd96cc47",
+          "0a71b3bdb5f3ee987c3a639bc22d3003e476507b",
+          "9cf2c370f3a9211b859e3f019e9fc3ae8035cec8",
+          "0f58a25c16eeec3d2c7ceb776b03c014c4d32d30",
+          "1473b8d690dbfd37b19cce4fc7d545b8489d0a99",
+          "0b6fdd7f3774d215979e9d88e4c9506b8d7228dd",
+          "61177415c051e0df9758a20ca569bbef1db49aaa",
+          "4f3b3d851bace3a2ac319434d0461fb6b1ec4c0f",
+          "f6ea5ccb8928963317156540c813ac9d17a0dfb1",
+          "8b0efd92a587b1c5d8ace69c1ab16200ab63cdf4",
+          "4efee98880d556db53c75ded2fcfe583d1c5926f",
+          "542d7ad10c2642e8865591c15247502d52a097d0",
+          "7419aaf2fb6de4ee3336f0d0220b660ff937706c",
+          "098405df99efa9ed5a4f5cdf865797f9277c54c1",
+          "1abfd213b386a1a3ed44c90ff0b77198c38b7e18",
+          "9e1c1ca77d99644099dd44b67d76df240c25abbd",
+          "1fc059374790d17f1290b5d27cf98521bd7d0c39",
+          "3af1e37818a565d85dce02e35bb978bdf144b479",
+          "4564c96b7de16f5d9a9f9190e3bb76d60c75318a",
+          "1021ea790d56800166e37a0dbecd437e31d7b7fa",
+          "3ab9d3311aa45ada3e77eb73780125eae24898b8",
+          "e0630f5a86c1d87d89288dea67948521cb26c0f2",
+          "0742a800861211ac8220178d788ec5ec24931b4a",
+          "30fbfcf2005731c9474886027e0c406356009156",
+          "4cd5311431e4320d119dd96c109b206cd138fdd3",
+          "1fdde016aeda594d51fe07ff9f119cb16d030ac2",
+          "6031a9faa393f11879494f5d5d2af0c02f8df28f",
+          "8585fe604c780d6b75a6cd60b4e1e4a439f9e5b7",
+          "0a9af49596c1f6e8854d2f585b77b3078be66cd3",
+          "eb92540a05f90c0a99d763acff85022843397ea8",
+          "0e8180a1913433877e1ffbce340c2accc56df4e3",
+          "7ca9e8bd6b80fdca0773755c4c154f6e659c900d",
+          "5ecd96390254d876533f89ec19590d91df3424f9",
+          "c8362976d9dcf9de56fecc7fe0eb21740e3f6d4a",
+          "d0a6e606cab47e12b16f956eedb0c44201390f95",
+          "a1d331375795e1ec8b3dc7eb04eea582b062e436",
+          "24c69f96afdd4a7dbd3ab4cadf409d87e6515abd",
+          "6f0d499858f8fa0d6fd564b6e6f2368f72b3ae1c",
+          "2a4e7b4f44528ce80c842e1c2ef9f7f9f210b3cf",
+          "d27b20240e6e786341883b5567d87a65202517f9",
+          "6e6286cf3f464215195dfbdbcca4d7932354e074",
+          "26477d0a20e8f3fee4d6d051b60a295daea0dd66",
+          "16759ebfc20dd3d9bf9d5585b0ac9d1d8171fd6b",
+          "c3973ee41e78b0894737dfcec41ff01eea6b1c77",
+          "f18b149074f246669855fb67c1d72b1d30ce77b8",
+          "9bb3ddaa869ef296bf90af516c5014ec98c409d8",
+          "58b8e0dadda7bee5de220b0ca0303f9493024462",
+          "f2682deadf55dca92c3898c906b9f09ecca0ac8c",
+          "c766a5d1a4dee441575fbca2a7b8c52c5826544d",
+          "30b0faf5617ef0f9f1150e1af4904537a568de85"
+        ]
+      },
+      {
+        "sha": "601fcb261004ba76119b221666d9ac88b57283d3",
+        "Author": {
+          "name": "\"YorkShen\"",
+          "location": "HangZhou, China",
+          "company": "Alibaba Group"
+        },
+        "Commitor": {
+          "name": "\"chen\"",
+          "location": "ChengDu,China",
+          "company": "SiChuan University"
+        },
+        "Date": "2019-09-25T07:29:48Z",
+        "additions": 0,
+        "deletions": 7226,
+        "files": [
+          "66b305e9f0f17b2058c71a9d830e51ec13e86f6e",
+          "9ca09d928251a2af719b75d94effa6f6bf0cb56d",
+          "0864653ce6525e2acec7af3fd56095afd696f2d4",
+          "6be97aef34db0bcd416c5085a97841b0a22718a6",
+          "ae6442d97728912c6841d05f965765910e7d011f",
+          "3c4d84b34955276a8cd5047a7c1e33a514d50b1c",
+          "4f2de367b29ddd95a0290975d8bd773e1072640e",
+          "9084adc0d1ce567a4d754d7f2cbe51cc16ebc457",
+          "fae69b81555dcacbadf99fa4e076082d408640fd",
+          "1ff7c89988af5c7fe9e318c3efea68c19872596e",
+          "61a3f142b8e71455764016ec59b661320917eed1",
+          "13feaf64b50f0d8f3f79b984d54448b930b822ae",
+          "71638ae0276cb68dc3a21ee7633ce0483b05c99b",
+          "c4c92d84968c9094b9c6010120eff4836f9366f9",
+          "b1158d40f20578ce28a4d0c6bd2bd97d7d7534af",
+          "ae9fc65ce3d7fcc620531b94393cbcf030a1cdd1",
+          "5860720639151fac8b03784d2885e279bb402e6b",
+          "c122418502aa808bbab68b0766562fe5f057cea6",
+          "261b5b767bea32d05f8d06a52cfaa8d43add5b16",
+          "4bdd77a334904228df7f0044c686300aacfb976b",
+          "f6641d4e13e96cfdd5cdc689f5ab2b5baf285b5d",
+          "c01259a1779a26b29627bdbd243a1f8a1bb28b90",
+          "e0a2aa3259b8c7ca4379e1bda897f7df1287b8dd",
+          "1ddb122bbe3b02c876f9e0b13b2e0e9d5269dc4a",
+          "1c4fef9ed08f463862a630cca65e8f59fe5d95b9",
+          "7dd485834b4eb4205d5debd918feda554c3013d3",
+          "bcafc2a19f37ca27fec9f9b409755f2a4de008c1",
+          "8a40791f56f99f85e33a5f7a0ba6a61fccff1f21",
+          "1ac43e6ceec619d46f5e92d0ac2b77569b8708af",
+          "f0d060b875031df0ad4a6a8582e142280ccd4ec8",
+          "33fe97d40d7f7808ee0555020996fcf75b603410",
+          "8ea91f1cfd799f938ed000792aca82166db21bff",
+          "310af8e1f1dc7fdca824b873f04cb2f1ff6f1419",
+          "752b42587adb86fca247fb7f5f1c831da79ff9ed",
+          "740f7c4a120d727017fb36e995ffa54b08c4606d",
+          "9999f7131b07ee80c1f81bede95887f2c54fe116",
+          "59d803ed5a91895b7c9d6188a5fe55bf24ac6f45",
+          "99ca1511108c62a2a9652105f391f5cb09d73f54",
+          "185ab2e837e1648ae5f2278bcba4216a43cb00a2",
+          "0f18fa52099f1db50d19d00488a6dd0e521b35d0",
+          "697d3b427c2c871998f5f9a7d4044c3a4067ea53",
+          "63f8d6a93afa444b095c5166b8c6bb75fb4cddaf",
+          "c311ffb90fd7b9e031314366e3700c9799c7d48e",
+          "d01caa5cb11ea4dc3024583228e6f50ff1525ce8",
+          "53d1773818f8f74937d7366581bda927efc617e9",
+          "f9e9ee2ab1cf2ad5f4144df443f467bb8c174e6e",
+          "474bdcf0a5874287eb166fb6fb67ca4565feaafc",
+          "feb2b05d3ce1f5622d9ea8f8458a9528eff71282",
+          "d58a0dcf70157451c83598bf90d62fd5668a5841",
+          "17d3fba0568be36cf5746d9add1b0b361a7a57e9",
+          "7fe508c41091781c466a40c4fab5b0e1eac251d6",
+          "acb8e869d30be27279968a93ac5eb004ac6a0177",
+          "90b96f7e77fc958d1053a0d1afae3d9592a3d718",
+          "3873aa1a9bb368f9bd1beb780017664520e52d07",
+          "7b8b5cdad8af8e53550d42c07d1254386324358e",
+          "827e6321747d26dc1006bdab35c55e7383fe3e4a",
+          "49caafab68c857dee04ddfeabab7714f78af39f8",
+          "125f9d12ef211fddcc74ff0217b6fb9d81bb3580",
+          "aa1c719c9a333b1ed1cc72287a49c088e268ce60",
+          "7416b8df0522bab3c84b12dd94ce30a974a3d36a",
+          "64a072039e91c5b3da641d85a9478783dfa2113f",
+          "92f64eba48ab099077db4b881167799f07bc71b4",
+          "ece6e0ef6e89796ffeb499a2b0c3f27f157c2686",
+          "18df37985c46366c207599e8c97622506cf86c9a",
+          "caaf8ab2d89abef737d614b1ed7cb02e067ff8fc",
+          "e981c69e4add0b54b5872900bd87e3b071149a17",
+          "d6f285cba042c7cc8416677577e372124a19a386"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "RepositoryName": "incubator-doris",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T07:03:26Z",
+    "EndDate": "2019-09-23T08:03:26",
+    "Branches": 12,
+    "Forks": 359,
+    "Files": [
+      {
+        "Sha": "9b3459e36b4c1bf996374996efaf76169c2bdcd3",
+        "FileName": "PlanNode.java",
+        "Path": "fe/src/main/java/org/apache/doris/planner/PlanNode.java",
+        "DateUpdated": "2019-09-23T07:09:04Z",
+        "Additions": 4,
+        "Deletions": 2,
+        "Commits": [
+          "4c7b52d077e29327b8593ba3e9516c4df212e57d"
+        ]
+      },
+      {
+        "Sha": "4f9993d30b0f379c58b85a6f67c13cfae775cc55",
+        "FileName": "SingleNodePlanner.java",
+        "Path": "fe/src/main/java/org/apache/doris/planner/SingleNodePlanner.java",
+        "DateUpdated": "2019-09-23T07:09:04Z",
+        "Additions": 0,
+        "Deletions": 2,
+        "Commits": [
+          "4c7b52d077e29327b8593ba3e9516c4df212e57d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "4c7b52d077e29327b8593ba3e9516c4df212e57d",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"ZHAO Chun\"",
+          "location": "Beijing, China"
+        },
+        "Date": "2019-09-23T07:09:04Z",
+        "additions": 4,
+        "deletions": 4,
+        "files": [
+          "9b3459e36b4c1bf996374996efaf76169c2bdcd3",
+          "4f9993d30b0f379c58b85a6f67c13cfae775cc55"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-doris",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T10:03:17Z",
+    "EndDate": "2019-09-23T11:03:17",
+    "Branches": 12,
+    "Forks": 359,
+    "Files": [
+      {
+        "Sha": "4dc4aff70fe49ad0b986b98cd638aa21084e9c87",
+        "FileName": "AnalyticExpr.java",
+        "Path": "fe/src/main/java/org/apache/doris/analysis/AnalyticExpr.java",
+        "DateUpdated": "2019-09-23T10:42:25Z",
+        "Additions": 10,
+        "Deletions": 4,
+        "Commits": [
+          "fded13e3cdfcab40e2009bbaee176fbb89419657"
+        ]
+      },
+      {
+        "Sha": "6912997c1c71f9c30808912362d1e3d89d77829f",
+        "FileName": "StringLiteral.java",
+        "Path": "fe/src/main/java/org/apache/doris/analysis/StringLiteral.java",
+        "DateUpdated": "2019-09-23T10:42:25Z",
+        "Additions": 6,
+        "Deletions": 0,
+        "Commits": [
+          "fded13e3cdfcab40e2009bbaee176fbb89419657"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "fded13e3cdfcab40e2009bbaee176fbb89419657",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"ZHAO Chun\"",
+          "location": "Beijing, China"
+        },
+        "Date": "2019-09-23T10:42:25Z",
+        "additions": 16,
+        "deletions": 4,
+        "files": [
+          "4dc4aff70fe49ad0b986b98cd638aa21084e9c87",
+          "6912997c1c71f9c30808912362d1e3d89d77829f"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-doris",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T11:03:49Z",
+    "EndDate": "2019-09-23T12:03:49",
+    "Branches": 12,
+    "Forks": 359,
+    "Files": [
+      {
+        "Sha": "8c19b39735c43253156c0f0a75079eea966e3142",
+        "FileName": "decimal_operators.cpp",
+        "Path": "be/src/exprs/decimal_operators.cpp",
+        "DateUpdated": "2019-09-23T11:56:20Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "c3fccb7a495a24f7e58f8756424abaa0e7de47af"
+        ]
+      },
+      {
+        "Sha": "a46532ca5d3d6e10373ff722b601a65c74abcd7f",
+        "FileName": "decimal_operators.h",
+        "Path": "be/src/exprs/decimal_operators.h",
+        "DateUpdated": "2019-09-23T11:56:20Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "c3fccb7a495a24f7e58f8756424abaa0e7de47af"
+        ]
+      },
+      {
+        "Sha": "0a5732123b5da2ccca3c711731d458329089ef06",
+        "FileName": "decimalv2_operators.cpp",
+        "Path": "be/src/exprs/decimalv2_operators.cpp",
+        "DateUpdated": "2019-09-23T11:56:20Z",
+        "Additions": 13,
+        "Deletions": 0,
+        "Commits": [
+          "c3fccb7a495a24f7e58f8756424abaa0e7de47af"
+        ]
+      },
+      {
+        "Sha": "8030985d46566c6803615ba7970dde3dc852a42a",
+        "FileName": "decimalv2_operators.h",
+        "Path": "be/src/exprs/decimalv2_operators.h",
+        "DateUpdated": "2019-09-23T11:56:20Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "c3fccb7a495a24f7e58f8756424abaa0e7de47af"
+        ]
+      },
+      {
+        "Sha": "ba1c81977e19bf0523c267d81b1c42e5f2e16cf9",
+        "FileName": "CastExpr.java",
+        "Path": "fe/src/main/java/org/apache/doris/analysis/CastExpr.java",
+        "DateUpdated": "2019-09-23T11:56:20Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "c3fccb7a495a24f7e58f8756424abaa0e7de47af"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c3fccb7a495a24f7e58f8756424abaa0e7de47af",
+        "Author": {
+          "name": "\"ZHAO Chun\"",
+          "location": "Beijing, China"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T11:56:20Z",
+        "additions": 31,
+        "deletions": 2,
+        "files": [
+          "8c19b39735c43253156c0f0a75079eea966e3142",
+          "a46532ca5d3d6e10373ff722b601a65c74abcd7f",
+          "0a5732123b5da2ccca3c711731d458329089ef06",
+          "8030985d46566c6803615ba7970dde3dc852a42a",
+          "ba1c81977e19bf0523c267d81b1c42e5f2e16cf9"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "RepositoryName": "commons-net",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T21:02:57Z",
+    "EndDate": "2019-09-24T22:02:57",
+    "Branches": 11,
+    "Forks": 89,
+    "Files": [
+      {
+        "Sha": "643e18ddc9a6ac2311d6cf5f58f40e3ff2175868",
+        "FileName": "changes.xml",
+        "Path": "src/changes/changes.xml",
+        "DateUpdated": "2019-09-24T21:57:52Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "33d23d6b6a3201cc3ffe2eb16a0e8a1a4a4b4c8a"
+        ]
+      },
+      {
+        "Sha": "51e306f8aea0f33cdc65d8fd76fb1084b7f5c5c7",
+        "FileName": "IMAPClient.java",
+        "Path": "src/main/java/org/apache/commons/net/imap/IMAPClient.java",
+        "DateUpdated": "2019-09-24T21:57:52Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "33d23d6b6a3201cc3ffe2eb16a0e8a1a4a4b4c8a"
+        ]
+      },
+      {
+        "Sha": "ddcca6a1fe3c336e76b5ad1bd918675a222e2757",
+        "FileName": "IMAP.java",
+        "Path": "src/main/java/org/apache/commons/net/imap/IMAP.java",
+        "DateUpdated": "2019-09-24T21:54:16Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "08321f04c2714682cff6b2948177231170f98754"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "33d23d6b6a3201cc3ffe2eb16a0e8a1a4a4b4c8a",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-24T21:57:52Z",
+        "additions": 5,
+        "deletions": 2,
+        "files": [
+          "643e18ddc9a6ac2311d6cf5f58f40e3ff2175868",
+          "51e306f8aea0f33cdc65d8fd76fb1084b7f5c5c7"
+        ]
+      },
+      {
+        "sha": "08321f04c2714682cff6b2948177231170f98754",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-24T21:54:16Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "ddcca6a1fe3c336e76b5ad1bd918675a222e2757"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "commons-net",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T21:46:09Z",
+    "EndDate": "2019-09-24T22:46:09",
+    "Branches": 11,
+    "Forks": 89,
+    "Files": [
+      {
+        "Sha": "643e18ddc9a6ac2311d6cf5f58f40e3ff2175868",
+        "FileName": "changes.xml",
+        "Path": "src/changes/changes.xml",
+        "DateUpdated": "2019-09-24T21:57:52Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "33d23d6b6a3201cc3ffe2eb16a0e8a1a4a4b4c8a"
+        ]
+      },
+      {
+        "Sha": "51e306f8aea0f33cdc65d8fd76fb1084b7f5c5c7",
+        "FileName": "IMAPClient.java",
+        "Path": "src/main/java/org/apache/commons/net/imap/IMAPClient.java",
+        "DateUpdated": "2019-09-24T21:57:52Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "33d23d6b6a3201cc3ffe2eb16a0e8a1a4a4b4c8a"
+        ]
+      },
+      {
+        "Sha": "ddcca6a1fe3c336e76b5ad1bd918675a222e2757",
+        "FileName": "IMAP.java",
+        "Path": "src/main/java/org/apache/commons/net/imap/IMAP.java",
+        "DateUpdated": "2019-09-24T21:54:16Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "08321f04c2714682cff6b2948177231170f98754"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "33d23d6b6a3201cc3ffe2eb16a0e8a1a4a4b4c8a",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-24T21:57:52Z",
+        "additions": 5,
+        "deletions": 2,
+        "files": [
+          "643e18ddc9a6ac2311d6cf5f58f40e3ff2175868",
+          "51e306f8aea0f33cdc65d8fd76fb1084b7f5c5c7"
+        ]
+      },
+      {
+        "sha": "08321f04c2714682cff6b2948177231170f98754",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-24T21:54:16Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "ddcca6a1fe3c336e76b5ad1bd918675a222e2757"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "commons-net",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T22:46:23Z",
+    "EndDate": "2019-09-24T23:46:23",
+    "Branches": 11,
+    "Forks": 89,
+    "Files": [
+      {
+        "Sha": "eaeb0a8413b6866607c2daf9b59d9513f0fd9e2c",
+        "FileName": "IMAPImportMbox.java",
+        "Path": "src/main/java/org/apache/commons/net/examples/mail/IMAPImportMbox.java",
+        "DateUpdated": "2019-09-24T23:27:26Z",
+        "Additions": 15,
+        "Deletions": 3,
+        "Commits": [
+          "ab90a71cf2b43792799866c9ed78823bf34b6298"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "ab90a71cf2b43792799866c9ed78823bf34b6298",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-24T23:27:26Z",
+        "additions": 15,
+        "deletions": 3,
+        "files": [
+          "eaeb0a8413b6866607c2daf9b59d9513f0fd9e2c"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "RepositoryName": "directory-ldap-api",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T01:47:49Z",
+    "EndDate": "2019-09-25T02:47:49",
+    "Branches": 40,
+    "Forks": 14,
+    "Files": [
+      {
+        "Sha": "2742b5232a4803f077f5421cb294a90a490e12fc",
+        "FileName": "PagedResultsImpl.java",
+        "Path": "ldap/model/src/main/java/org/apache/directory/api/ldap/model/message/controls/PagedResultsImpl.java",
+        "DateUpdated": "2019-09-25T02:36:18Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "7a6cd62ec4ea807225134e0ce838cd8dd2b367e9"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "7a6cd62ec4ea807225134e0ce838cd8dd2b367e9",
+        "Date": "2019-09-25T02:36:18Z",
+        "additions": 0,
+        "deletions": 1,
+        "files": [
+          "2742b5232a4803f077f5421cb294a90a490e12fc"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "directory-ldap-api",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T02:04:29Z",
+    "EndDate": "2019-09-25T03:04:29",
+    "Branches": 40,
+    "Forks": 14,
+    "Files": [
+      {
+        "Sha": "2742b5232a4803f077f5421cb294a90a490e12fc",
+        "FileName": "PagedResultsImpl.java",
+        "Path": "ldap/model/src/main/java/org/apache/directory/api/ldap/model/message/controls/PagedResultsImpl.java",
+        "DateUpdated": "2019-09-25T02:36:18Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "7a6cd62ec4ea807225134e0ce838cd8dd2b367e9"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "7a6cd62ec4ea807225134e0ce838cd8dd2b367e9",
+        "Date": "2019-09-25T02:36:18Z",
+        "additions": 0,
+        "deletions": 1,
+        "files": [
+          "2742b5232a4803f077f5421cb294a90a490e12fc"
+        ]
+      }
+    ]
+  }
+]

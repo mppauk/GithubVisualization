@@ -1,0 +1,194 @@
+[
+  {
+    "RepositoryName": "hadoop-submarine",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T01:48:35Z",
+    "EndDate": "2019-09-25T02:48:35",
+    "Branches": 2,
+    "Forks": 8,
+    "Files": [
+      {
+        "Sha": "bb5a188800a2cef89ab02ff3e62a4271689370d6",
+        "FileName": "README.md",
+        "Path": "dev-support/cicd/README.md",
+        "DateUpdated": "2019-09-25T02:45:07Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "193321ad823a4eaf503a3fec8f67bf5e13499693"
+        ]
+      },
+      {
+        "Sha": "91cdd34e8ae566c3944e4ebf8edb631226fb0069",
+        "FileName": "build_and_start_cicd_image.sh",
+        "Path": "dev-support/cicd/build_and_start_cicd_image.sh",
+        "DateUpdated": "2019-09-25T02:45:07Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "193321ad823a4eaf503a3fec8f67bf5e13499693"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "193321ad823a4eaf503a3fec8f67bf5e13499693",
+        "Author": {
+          "name": "\"tangzhankun\"",
+          "location": "Shanghai",
+          "company": "Cloudera"
+        },
+        "Commitor": {
+          "name": "\"tangzhankun\"",
+          "location": "Shanghai",
+          "company": "Cloudera"
+        },
+        "Date": "2019-09-25T02:45:07Z",
+        "additions": 9,
+        "deletions": 0,
+        "files": [
+          "bb5a188800a2cef89ab02ff3e62a4271689370d6",
+          "91cdd34e8ae566c3944e4ebf8edb631226fb0069"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "hadoop-submarine",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T02:05:15Z",
+    "EndDate": "2019-09-25T03:05:15",
+    "Branches": 1,
+    "Forks": 8,
+    "Files": [
+      {
+        "Sha": "bb5a188800a2cef89ab02ff3e62a4271689370d6",
+        "FileName": "README.md",
+        "Path": "dev-support/cicd/README.md",
+        "DateUpdated": "2019-09-25T02:45:07Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "193321ad823a4eaf503a3fec8f67bf5e13499693"
+        ]
+      },
+      {
+        "Sha": "91cdd34e8ae566c3944e4ebf8edb631226fb0069",
+        "FileName": "build_and_start_cicd_image.sh",
+        "Path": "dev-support/cicd/build_and_start_cicd_image.sh",
+        "DateUpdated": "2019-09-25T02:45:07Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "193321ad823a4eaf503a3fec8f67bf5e13499693"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "193321ad823a4eaf503a3fec8f67bf5e13499693",
+        "Author": {
+          "name": "\"tangzhankun\"",
+          "location": "Shanghai",
+          "company": "Cloudera"
+        },
+        "Commitor": {
+          "name": "\"tangzhankun\"",
+          "location": "Shanghai",
+          "company": "Cloudera"
+        },
+        "Date": "2019-09-25T02:45:07Z",
+        "additions": 9,
+        "deletions": 0,
+        "files": [
+          "bb5a188800a2cef89ab02ff3e62a4271689370d6",
+          "91cdd34e8ae566c3944e4ebf8edb631226fb0069"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "hadoop-submarine",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T02:48:44Z",
+    "EndDate": "2019-09-25T03:48:44",
+    "Branches": 1,
+    "Forks": 8,
+    "Files": [
+      {
+        "Sha": "ff3b0ed960d9f35aeb74909e82f187d0faa70f5a",
+        "FileName": "build_and_start_cicd_image.sh",
+        "Path": "dev-support/cicd/build_and_start_cicd_image.sh",
+        "DateUpdated": "2019-09-25T03:10:12Z",
+        "Additions": 16,
+        "Deletions": 0,
+        "Commits": [
+          "80c65625c67aba9c11e86e8112320edb944e81d5"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "80c65625c67aba9c11e86e8112320edb944e81d5",
+        "Author": {
+          "name": "\"tangzhankun\"",
+          "location": "Shanghai",
+          "company": "Cloudera"
+        },
+        "Commitor": {
+          "name": "\"tangzhankun\"",
+          "location": "Shanghai",
+          "company": "Cloudera"
+        },
+        "Date": "2019-09-25T03:10:12Z",
+        "additions": 16,
+        "deletions": 0,
+        "files": [
+          "ff3b0ed960d9f35aeb74909e82f187d0faa70f5a"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "hadoop-submarine",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T03:05:00Z",
+    "EndDate": "2019-09-25T04:05:00",
+    "Branches": 1,
+    "Forks": 8,
+    "Files": [
+      {
+        "Sha": "ff3b0ed960d9f35aeb74909e82f187d0faa70f5a",
+        "FileName": "build_and_start_cicd_image.sh",
+        "Path": "dev-support/cicd/build_and_start_cicd_image.sh",
+        "DateUpdated": "2019-09-25T03:10:12Z",
+        "Additions": 16,
+        "Deletions": 0,
+        "Commits": [
+          "80c65625c67aba9c11e86e8112320edb944e81d5"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "80c65625c67aba9c11e86e8112320edb944e81d5",
+        "Author": {
+          "name": "\"tangzhankun\"",
+          "location": "Shanghai",
+          "company": "Cloudera"
+        },
+        "Commitor": {
+          "name": "\"tangzhankun\"",
+          "location": "Shanghai",
+          "company": "Cloudera"
+        },
+        "Date": "2019-09-25T03:10:12Z",
+        "additions": 16,
+        "deletions": 0,
+        "files": [
+          "ff3b0ed960d9f35aeb74909e82f187d0faa70f5a"
+        ]
+      }
+    ]
+  }
+]

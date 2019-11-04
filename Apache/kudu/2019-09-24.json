@@ -1,0 +1,202 @@
+[
+  {
+    "RepositoryName": "kudu",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T01:03:26Z",
+    "EndDate": "2019-09-24T02:03:26",
+    "Branches": 20,
+    "Forks": 300,
+    "Files": [
+      {
+        "Sha": "1c91826bbdafec2337e54aaa039df945d11d812c",
+        "FileName": "consensus_queue.cc",
+        "Path": "src/kudu/consensus/consensus_queue.cc",
+        "DateUpdated": "2019-09-24T01:48:36Z",
+        "Additions": 3,
+        "Deletions": 6,
+        "Commits": [
+          "cc70b3b965cbb86ddf96c2040b3e6a55721adc00"
+        ]
+      },
+      {
+        "Sha": "c478be86d40fe3c4665680aa2766469d0654a3b7",
+        "FileName": "quorum_util-test.cc",
+        "Path": "src/kudu/consensus/quorum_util-test.cc",
+        "DateUpdated": "2019-09-24T01:48:36Z",
+        "Additions": 350,
+        "Deletions": 471,
+        "Commits": [
+          "cc70b3b965cbb86ddf96c2040b3e6a55721adc00"
+        ]
+      },
+      {
+        "Sha": "40f09cb84d9748ae58611fcb01415bd532d591ee",
+        "FileName": "quorum_util.cc",
+        "Path": "src/kudu/consensus/quorum_util.cc",
+        "DateUpdated": "2019-09-24T01:48:36Z",
+        "Additions": 4,
+        "Deletions": 9,
+        "Commits": [
+          "cc70b3b965cbb86ddf96c2040b3e6a55721adc00"
+        ]
+      },
+      {
+        "Sha": "cc113190dde91bd345f5975eb047f8aef038d048",
+        "FileName": "quorum_util.h",
+        "Path": "src/kudu/consensus/quorum_util.h",
+        "DateUpdated": "2019-09-24T01:48:36Z",
+        "Additions": 7,
+        "Deletions": 22,
+        "Commits": [
+          "cc70b3b965cbb86ddf96c2040b3e6a55721adc00"
+        ]
+      },
+      {
+        "Sha": "84f336eb8669a7ff281f2981ba7f9db78d9b8be8",
+        "FileName": "raft_consensus.cc",
+        "Path": "src/kudu/consensus/raft_consensus.cc",
+        "DateUpdated": "2019-09-24T01:48:36Z",
+        "Additions": 0,
+        "Deletions": 7,
+        "Commits": [
+          "cc70b3b965cbb86ddf96c2040b3e6a55721adc00"
+        ]
+      },
+      {
+        "Sha": "83bea9e7fada171c5e9d9f3be43da238164f0a9a",
+        "FileName": "catalog_manager.cc",
+        "Path": "src/kudu/master/catalog_manager.cc",
+        "DateUpdated": "2019-09-24T01:48:36Z",
+        "Additions": 2,
+        "Deletions": 9,
+        "Commits": [
+          "cc70b3b965cbb86ddf96c2040b3e6a55721adc00"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "cc70b3b965cbb86ddf96c2040b3e6a55721adc00",
+        "Author": {
+          "name": "\"Andrew Wong\"",
+          "location": "San Francisco"
+        },
+        "Commitor": {
+          "name": "\"Andrew Wong\"",
+          "location": "San Francisco"
+        },
+        "Date": "2019-09-24T01:48:36Z",
+        "additions": 366,
+        "deletions": 524,
+        "files": [
+          "1c91826bbdafec2337e54aaa039df945d11d812c",
+          "c478be86d40fe3c4665680aa2766469d0654a3b7",
+          "40f09cb84d9748ae58611fcb01415bd532d591ee",
+          "cc113190dde91bd345f5975eb047f8aef038d048",
+          "84f336eb8669a7ff281f2981ba7f9db78d9b8be8",
+          "83bea9e7fada171c5e9d9f3be43da238164f0a9a"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "kudu",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T01:47:35Z",
+    "EndDate": "2019-09-24T02:47:35",
+    "Branches": 20,
+    "Forks": 300,
+    "Files": [
+      {
+        "Sha": "1c91826bbdafec2337e54aaa039df945d11d812c",
+        "FileName": "consensus_queue.cc",
+        "Path": "src/kudu/consensus/consensus_queue.cc",
+        "DateUpdated": "2019-09-24T01:48:36Z",
+        "Additions": 3,
+        "Deletions": 6,
+        "Commits": [
+          "cc70b3b965cbb86ddf96c2040b3e6a55721adc00"
+        ]
+      },
+      {
+        "Sha": "c478be86d40fe3c4665680aa2766469d0654a3b7",
+        "FileName": "quorum_util-test.cc",
+        "Path": "src/kudu/consensus/quorum_util-test.cc",
+        "DateUpdated": "2019-09-24T01:48:36Z",
+        "Additions": 350,
+        "Deletions": 471,
+        "Commits": [
+          "cc70b3b965cbb86ddf96c2040b3e6a55721adc00"
+        ]
+      },
+      {
+        "Sha": "40f09cb84d9748ae58611fcb01415bd532d591ee",
+        "FileName": "quorum_util.cc",
+        "Path": "src/kudu/consensus/quorum_util.cc",
+        "DateUpdated": "2019-09-24T01:48:36Z",
+        "Additions": 4,
+        "Deletions": 9,
+        "Commits": [
+          "cc70b3b965cbb86ddf96c2040b3e6a55721adc00"
+        ]
+      },
+      {
+        "Sha": "cc113190dde91bd345f5975eb047f8aef038d048",
+        "FileName": "quorum_util.h",
+        "Path": "src/kudu/consensus/quorum_util.h",
+        "DateUpdated": "2019-09-24T01:48:36Z",
+        "Additions": 7,
+        "Deletions": 22,
+        "Commits": [
+          "cc70b3b965cbb86ddf96c2040b3e6a55721adc00"
+        ]
+      },
+      {
+        "Sha": "84f336eb8669a7ff281f2981ba7f9db78d9b8be8",
+        "FileName": "raft_consensus.cc",
+        "Path": "src/kudu/consensus/raft_consensus.cc",
+        "DateUpdated": "2019-09-24T01:48:36Z",
+        "Additions": 0,
+        "Deletions": 7,
+        "Commits": [
+          "cc70b3b965cbb86ddf96c2040b3e6a55721adc00"
+        ]
+      },
+      {
+        "Sha": "83bea9e7fada171c5e9d9f3be43da238164f0a9a",
+        "FileName": "catalog_manager.cc",
+        "Path": "src/kudu/master/catalog_manager.cc",
+        "DateUpdated": "2019-09-24T01:48:36Z",
+        "Additions": 2,
+        "Deletions": 9,
+        "Commits": [
+          "cc70b3b965cbb86ddf96c2040b3e6a55721adc00"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "cc70b3b965cbb86ddf96c2040b3e6a55721adc00",
+        "Author": {
+          "name": "\"Andrew Wong\"",
+          "location": "San Francisco"
+        },
+        "Commitor": {
+          "name": "\"Andrew Wong\"",
+          "location": "San Francisco"
+        },
+        "Date": "2019-09-24T01:48:36Z",
+        "additions": 366,
+        "deletions": 524,
+        "files": [
+          "1c91826bbdafec2337e54aaa039df945d11d812c",
+          "c478be86d40fe3c4665680aa2766469d0654a3b7",
+          "40f09cb84d9748ae58611fcb01415bd532d591ee",
+          "cc113190dde91bd345f5975eb047f8aef038d048",
+          "84f336eb8669a7ff281f2981ba7f9db78d9b8be8",
+          "83bea9e7fada171c5e9d9f3be43da238164f0a9a"
+        ]
+      }
+    ]
+  }
+]

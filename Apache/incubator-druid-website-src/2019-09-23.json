@@ -1,0 +1,44 @@
+[
+  {
+    "RepositoryName": "incubator-druid-website-src",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T00:11:07Z",
+    "EndDate": "2019-09-23T01:11:07",
+    "Branches": 4,
+    "Forks": 15,
+    "Files": [
+      {
+        "Sha": "cff3f79c67be4edadd2e161985161c986966cfac",
+        "FileName": "package-lock.json",
+        "Path": "package-lock.json",
+        "DateUpdated": "2019-09-23T00:25:07Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "dd32d8686d860831965771ff443051494cee9f47"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "dd32d8686d860831965771ff443051494cee9f47",
+        "Author": {
+          "name": "\"Clint Wylie\"",
+          "location": "San Francisco, CA",
+          "company": "@implydata "
+        },
+        "Commitor": {
+          "name": "\"Clint Wylie\"",
+          "location": "San Francisco, CA",
+          "company": "@implydata "
+        },
+        "Date": "2019-09-23T00:25:07Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "cff3f79c67be4edadd2e161985161c986966cfac"
+        ]
+      }
+    ]
+  }
+]

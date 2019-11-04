@@ -1,0 +1,44 @@
+[
+  {
+    "RepositoryName": "plc4x-build-tools",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T11:05:08Z",
+    "EndDate": "2019-09-25T12:05:08",
+    "Branches": 4,
+    "Forks": 0,
+    "Files": [
+      {
+        "Sha": "699a3a32e3083a755fbe4ee91f744a20d376c2a1",
+        "FileName": "EnumField.java",
+        "Path": "code-generation/types-base/src/main/java/org/apache/plc4x/plugins/codegenerator/types/fields/EnumField.java",
+        "DateUpdated": "2019-09-25T11:46:12Z",
+        "Additions": 28,
+        "Deletions": 0,
+        "Commits": [
+          "5f477eb4abca03ee217878f4c18addd3348dc973"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "5f477eb4abca03ee217878f4c18addd3348dc973",
+        "Author": {
+          "name": "\"Christofer Dutz\"",
+          "location": "Frankfurt, Germany",
+          "company": "codecentric AG"
+        },
+        "Commitor": {
+          "name": "\"Christofer Dutz\"",
+          "location": "Frankfurt, Germany",
+          "company": "codecentric AG"
+        },
+        "Date": "2019-09-25T11:46:12Z",
+        "additions": 28,
+        "deletions": 0,
+        "files": [
+          "699a3a32e3083a755fbe4ee91f744a20d376c2a1"
+        ]
+      }
+    ]
+  }
+]

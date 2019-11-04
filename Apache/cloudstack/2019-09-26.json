@@ -1,0 +1,151 @@
+[
+  {
+    "RepositoryName": "cloudstack",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T05:02:31Z",
+    "EndDate": "2019-09-26T06:02:31",
+    "Branches": 176,
+    "Forks": 726,
+    "Files": [
+      {
+        "Sha": "186c654fda383306e04b97dd9693502b922d0c47",
+        "FileName": "FirstFitAllocator.java",
+        "Path": "server/src/main/java/com/cloud/agent/manager/allocator/impl/FirstFitAllocator.java",
+        "DateUpdated": "2019-09-26T05:36:18Z",
+        "Additions": 1,
+        "Deletions": 7,
+        "Commits": [
+          "6cec7c7fe932267353301b072ddbc2369ed9f9e2"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "6cec7c7fe932267353301b072ddbc2369ed9f9e2",
+        "Author": {
+          "name": "\"Rohit Yadav\"",
+          "company": "@ShapeBlue"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T05:36:18Z",
+        "additions": 1,
+        "deletions": 7,
+        "files": [
+          "186c654fda383306e04b97dd9693502b922d0c47"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "cloudstack",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T12:03:01Z",
+    "EndDate": "2019-09-26T13:03:01",
+    "Branches": 176,
+    "Forks": 726,
+    "Files": [
+      {
+        "Sha": "2503b33e33314356120acf72e520e7feb527340b",
+        "FileName": "UserVmManagerImpl.java",
+        "Path": "server/src/main/java/com/cloud/vm/UserVmManagerImpl.java",
+        "DateUpdated": "2019-09-26T12:48:20Z",
+        "Additions": 16,
+        "Deletions": 18,
+        "Commits": [
+          "666ec698a2d774f72d6ce27a2f489492d9f865af",
+          "b853ebd8f75f8e72544be8c18b866c722020ff80"
+        ]
+      },
+      {
+        "Sha": "faedcbc73eb13b1a9501c03a3c7977a5e4826635",
+        "FileName": "control",
+        "Path": "debian/control",
+        "DateUpdated": "2019-09-26T12:47:03Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "899eab66c1cb177d951a467ccc5965546771caa4"
+        ]
+      },
+      {
+        "Sha": "3e0dd3cff4342c61da901a16d037c4ab52f72889",
+        "FileName": "cloud.spec",
+        "Path": "packaging/centos7/cloud.spec",
+        "DateUpdated": "2019-09-26T12:47:03Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "899eab66c1cb177d951a467ccc5965546771caa4"
+        ]
+      },
+      {
+        "Sha": "f93f089f1118762d0888cd021f8a8df783cca802",
+        "FileName": "security_group.py",
+        "Path": "scripts/vm/network/security_group.py",
+        "DateUpdated": "2019-09-26T12:47:03Z",
+        "Additions": 12,
+        "Deletions": 14,
+        "Commits": [
+          "899eab66c1cb177d951a467ccc5965546771caa4"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "666ec698a2d774f72d6ce27a2f489492d9f865af",
+        "Author": {
+          "name": "\"Rohit Yadav\"",
+          "company": "@ShapeBlue"
+        },
+        "Commitor": {
+          "name": "\"Rohit Yadav\"",
+          "company": "@ShapeBlue"
+        },
+        "Date": "2019-09-26T12:48:20Z",
+        "additions": 16,
+        "deletions": 9,
+        "files": [
+          "2503b33e33314356120acf72e520e7feb527340b"
+        ]
+      },
+      {
+        "sha": "899eab66c1cb177d951a467ccc5965546771caa4",
+        "Author": {
+          "name": "\"Wido den Hollander\"",
+          "location": "Netherlands",
+          "company": "@PCextreme @42on "
+        },
+        "Commitor": {
+          "name": "\"Rohit Yadav\"",
+          "company": "@ShapeBlue"
+        },
+        "Date": "2019-09-26T12:47:03Z",
+        "additions": 17,
+        "deletions": 17,
+        "files": [
+          "faedcbc73eb13b1a9501c03a3c7977a5e4826635",
+          "3e0dd3cff4342c61da901a16d037c4ab52f72889",
+          "f93f089f1118762d0888cd021f8a8df783cca802"
+        ]
+      },
+      {
+        "sha": "b853ebd8f75f8e72544be8c18b866c722020ff80",
+        "Author": {
+          "name": "\"Rohit Yadav\"",
+          "company": "@ShapeBlue"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T12:46:37Z",
+        "additions": 16,
+        "deletions": 9,
+        "files": [
+          "2503b33e33314356120acf72e520e7feb527340b"
+        ]
+      }
+    ]
+  }
+]

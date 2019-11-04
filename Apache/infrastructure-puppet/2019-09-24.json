@@ -1,0 +1,134 @@
+[
+  {
+    "RepositoryName": "infrastructure-puppet",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T00:46:59Z",
+    "EndDate": "2019-09-24T01:46:59",
+    "Branches": 351,
+    "Forks": 124,
+    "Files": [
+      {
+        "Sha": "50ede6b5c4257349f81613aa76edb82ed04ea9c6",
+        "FileName": "gitbox.apache.org.yaml",
+        "Path": "data/nodes/gitbox.apache.org.yaml",
+        "DateUpdated": "2019-09-24T01:22:30Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "bd10c705b6b0dad42f512db0cf48e3b520a68746"
+        ]
+      },
+      {
+        "Sha": "d5a8a0e1a36be937929dffb723101441e9e65fcb",
+        "FileName": "init.pp",
+        "Path": "modules/gitbox/manifests/init.pp",
+        "DateUpdated": "2019-09-24T01:17:25Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "e86ae4c9fab5f13dd0f63ba45bbc7d523fa6735b"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "bd10c705b6b0dad42f512db0cf48e3b520a68746",
+        "Author": {
+          "name": "\"Daniel Gruno\"",
+          "location": "Copenhagen, Denmark"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T01:22:30Z",
+        "additions": 8,
+        "deletions": 0,
+        "files": [
+          "50ede6b5c4257349f81613aa76edb82ed04ea9c6"
+        ]
+      },
+      {
+        "sha": "e86ae4c9fab5f13dd0f63ba45bbc7d523fa6735b",
+        "Author": {
+          "name": "\"Daniel Gruno\"",
+          "location": "Copenhagen, Denmark"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T01:17:25Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "d5a8a0e1a36be937929dffb723101441e9e65fcb"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "infrastructure-puppet",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T01:02:57Z",
+    "EndDate": "2019-09-24T02:02:57",
+    "Branches": 351,
+    "Forks": 124,
+    "Files": [
+      {
+        "Sha": "50ede6b5c4257349f81613aa76edb82ed04ea9c6",
+        "FileName": "gitbox.apache.org.yaml",
+        "Path": "data/nodes/gitbox.apache.org.yaml",
+        "DateUpdated": "2019-09-24T01:22:30Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "bd10c705b6b0dad42f512db0cf48e3b520a68746"
+        ]
+      },
+      {
+        "Sha": "d5a8a0e1a36be937929dffb723101441e9e65fcb",
+        "FileName": "init.pp",
+        "Path": "modules/gitbox/manifests/init.pp",
+        "DateUpdated": "2019-09-24T01:17:25Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "e86ae4c9fab5f13dd0f63ba45bbc7d523fa6735b"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "bd10c705b6b0dad42f512db0cf48e3b520a68746",
+        "Author": {
+          "name": "\"Daniel Gruno\"",
+          "location": "Copenhagen, Denmark"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T01:22:30Z",
+        "additions": 8,
+        "deletions": 0,
+        "files": [
+          "50ede6b5c4257349f81613aa76edb82ed04ea9c6"
+        ]
+      },
+      {
+        "sha": "e86ae4c9fab5f13dd0f63ba45bbc7d523fa6735b",
+        "Author": {
+          "name": "\"Daniel Gruno\"",
+          "location": "Copenhagen, Denmark"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T01:17:25Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "d5a8a0e1a36be937929dffb723101441e9e65fcb"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "RepositoryName": "royale-docs",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T18:04:04Z",
+    "EndDate": "2019-09-23T19:04:04",
+    "Branches": 4,
+    "Forks": 6,
+    "Files": [
+      {
+        "Sha": "e7ac50fd86df0fb0d70c22e8ebd1df25204b5278",
+        "FileName": "docpage.html",
+        "Path": "_layouts/docpage.html",
+        "DateUpdated": "2019-09-23T18:49:10Z",
+        "Additions": 29,
+        "Deletions": 4,
+        "Commits": [
+          "3cc1012e09f262bfc61fae5c20a0b4769bfe1b5a"
+        ]
+      },
+      {
+        "Sha": "8eb665b8abe2910363a48f2d579a17d4ab93f785",
+        "FileName": "docsearch.sass",
+        "Path": "_sass/docsearch.sass",
+        "DateUpdated": "2019-09-23T18:49:10Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "3cc1012e09f262bfc61fae5c20a0b4769bfe1b5a"
+        ]
+      },
+      {
+        "Sha": "25c65e62c53099a32c024bad47622c11af1eb79a",
+        "FileName": "sidebar.sass",
+        "Path": "_sass/sidebar.sass",
+        "DateUpdated": "2019-09-23T18:49:10Z",
+        "Additions": 63,
+        "Deletions": 111,
+        "Commits": [
+          "3cc1012e09f262bfc61fae5c20a0b4769bfe1b5a"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "3cc1012e09f262bfc61fae5c20a0b4769bfe1b5a",
+        "Author": {
+          "name": "\"Carlos Rovira\"",
+          "location": "Spain",
+          "company": "Codeoscopic S.A."
+        },
+        "Commitor": {
+          "name": "\"Carlos Rovira\"",
+          "location": "Spain",
+          "company": "Codeoscopic S.A."
+        },
+        "Date": "2019-09-23T18:49:10Z",
+        "additions": 93,
+        "deletions": 116,
+        "files": [
+          "e7ac50fd86df0fb0d70c22e8ebd1df25204b5278",
+          "8eb665b8abe2910363a48f2d579a17d4ab93f785",
+          "25c65e62c53099a32c024bad47622c11af1eb79a"
+        ]
+      }
+    ]
+  }
+]

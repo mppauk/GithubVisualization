@@ -1,0 +1,370 @@
+[
+  {
+    "RepositoryName": "ignite",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T07:03:32Z",
+    "EndDate": "2019-09-26T08:03:32",
+    "Branches": 357,
+    "Forks": 1335,
+    "Files": [
+      {
+        "Sha": "adef655b85d1102508b652659e81b5a61251d210",
+        "FileName": "PlatformThreadNamesTask.java",
+        "Path": "modules/core/src/test/java/org/apache/ignite/platform/PlatformThreadNamesTask.java",
+        "DateUpdated": "2019-09-26T07:41:49Z",
+        "Additions": 65,
+        "Deletions": 0,
+        "Commits": [
+          "738cb67fa332239fa1fc6f31daafbc4410abb58e"
+        ]
+      },
+      {
+        "Sha": "9ef5c5b0a0bf243840d96f470b0b4de5d390631b",
+        "FileName": "Apache.Ignite.Core.Tests.DotNetCore.csproj",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core.Tests.DotNetCore/Apache.Ignite.Core.Tests.DotNetCore.csproj",
+        "DateUpdated": "2019-09-26T07:41:49Z",
+        "Additions": 6,
+        "Deletions": 0,
+        "Commits": [
+          "738cb67fa332239fa1fc6f31daafbc4410abb58e"
+        ]
+      },
+      {
+        "Sha": "0f7187c606716813c6676ebfea8bed68842e9b60",
+        "FileName": "Apache.Ignite.Core.Tests.csproj",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core.Tests/Apache.Ignite.Core.Tests.csproj",
+        "DateUpdated": "2019-09-26T07:41:49Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "738cb67fa332239fa1fc6f31daafbc4410abb58e"
+        ]
+      },
+      {
+        "Sha": "66b4795b12158e7e278f495ae6fab992aaf15ebe",
+        "FileName": "JniThreadDetachTest.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core.Tests/Unmanaged/JniThreadDetachTest.cs",
+        "DateUpdated": "2019-09-26T07:41:49Z",
+        "Additions": 58,
+        "Deletions": 0,
+        "Commits": [
+          "738cb67fa332239fa1fc6f31daafbc4410abb58e"
+        ]
+      },
+      {
+        "Sha": "1723f92a11763ff053bd98adab2cf56ee1fc7d9e",
+        "FileName": "UnmanagedThreadTest.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core.Tests/Unmanaged/UnmanagedThreadTest.cs",
+        "DateUpdated": "2019-09-26T07:41:49Z",
+        "Additions": 88,
+        "Deletions": 0,
+        "Commits": [
+          "738cb67fa332239fa1fc6f31daafbc4410abb58e"
+        ]
+      },
+      {
+        "Sha": "7c9ff90ad8456be4659eda92a0f66739e3956232",
+        "FileName": "Apache.Ignite.Core.csproj",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core/Apache.Ignite.Core.csproj",
+        "DateUpdated": "2019-09-26T07:41:49Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "738cb67fa332239fa1fc6f31daafbc4410abb58e"
+        ]
+      },
+      {
+        "Sha": "411b9c546ce204553039cc43282259538e29a51f",
+        "FileName": "Callbacks.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core/Impl/Unmanaged/Jni/Callbacks.cs",
+        "DateUpdated": "2019-09-26T07:41:49Z",
+        "Additions": 11,
+        "Deletions": 7,
+        "Commits": [
+          "738cb67fa332239fa1fc6f31daafbc4410abb58e"
+        ]
+      },
+      {
+        "Sha": "fbe91f05218893ab161bdfa71244c31ba343c1a7",
+        "FileName": "Env.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core/Impl/Unmanaged/Jni/Env.cs",
+        "DateUpdated": "2019-09-26T07:41:49Z",
+        "Additions": 9,
+        "Deletions": 1,
+        "Commits": [
+          "738cb67fa332239fa1fc6f31daafbc4410abb58e"
+        ]
+      },
+      {
+        "Sha": "1132412c1eadb07da70017f875ee4996dfe3854f",
+        "FileName": "Jvm.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core/Impl/Unmanaged/Jni/Jvm.cs",
+        "DateUpdated": "2019-09-26T07:41:49Z",
+        "Additions": 23,
+        "Deletions": 0,
+        "Commits": [
+          "738cb67fa332239fa1fc6f31daafbc4410abb58e"
+        ]
+      },
+      {
+        "Sha": "0b097d1cbe2e18a08727bbe9be580404bb4fc512",
+        "FileName": "JvmDelegates.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core/Impl/Unmanaged/Jni/JvmDelegates.cs",
+        "DateUpdated": "2019-09-26T07:41:49Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "738cb67fa332239fa1fc6f31daafbc4410abb58e"
+        ]
+      },
+      {
+        "Sha": "b27da51d180a023c26566e604494cfdd170cbc56",
+        "FileName": "UnmanagedThread.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core/Impl/Unmanaged/UnmanagedThread.cs",
+        "DateUpdated": "2019-09-26T07:41:49Z",
+        "Additions": 216,
+        "Deletions": 0,
+        "Commits": [
+          "738cb67fa332239fa1fc6f31daafbc4410abb58e"
+        ]
+      },
+      {
+        "Sha": "2000bc6ad17e8d545b91480a312e487a29983221",
+        "FileName": "Apache.Ignite.Core.Tests.DotNetCore.csproj",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core.Tests.DotNetCore/Apache.Ignite.Core.Tests.DotNetCore.csproj",
+        "DateUpdated": "2019-09-26T07:35:42Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "c5562e893693c985e5e488eed67a60c9191545c6"
+        ]
+      },
+      {
+        "Sha": "0a7b97a2ac35615eac78016a83e889e3eed703e1",
+        "FileName": "Apache.Ignite.Core.Tests.csproj",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core.Tests/Apache.Ignite.Core.Tests.csproj",
+        "DateUpdated": "2019-09-26T07:35:42Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "c5562e893693c985e5e488eed67a60c9191545c6"
+        ]
+      },
+      {
+        "Sha": "2956669e36e8b82238033fb8fd258e8e10107fea",
+        "FileName": "CacheAbstractTransactionalTest.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core.Tests/Cache/CacheAbstractTransactionalTest.cs",
+        "DateUpdated": "2019-09-26T07:35:42Z",
+        "Additions": 10,
+        "Deletions": 2,
+        "Commits": [
+          "c5562e893693c985e5e488eed67a60c9191545c6"
+        ]
+      },
+      {
+        "Sha": "fbaa3992c2d91b6c0ce4f1e504229e35195dcc52",
+        "FileName": "DataStorageMetricsTest.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core.Tests/Cache/DataStorageMetricsTest.cs",
+        "DateUpdated": "2019-09-26T07:35:42Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c5562e893693c985e5e488eed67a60c9191545c6"
+        ]
+      },
+      {
+        "Sha": "85bb74902d9bea3a432e294234d83d9deb91b2a0",
+        "FileName": "PersistenceTest.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core.Tests/Cache/PersistenceTest.cs",
+        "DateUpdated": "2019-09-26T07:35:42Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "c5562e893693c985e5e488eed67a60c9191545c6"
+        ]
+      },
+      {
+        "Sha": "7f1a6f42411783628f028e40121f264dcf4d9fde",
+        "FileName": "CacheTest.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core.Tests/Client/Cache/CacheTest.cs",
+        "DateUpdated": "2019-09-26T07:35:42Z",
+        "Additions": 5,
+        "Deletions": 2,
+        "Commits": [
+          "c5562e893693c985e5e488eed67a60c9191545c6"
+        ]
+      },
+      {
+        "Sha": "810cc0cc61a0cd6864c2da618244de541ec8a8d2",
+        "FileName": "ClientConnectionTest.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core.Tests/Client/ClientConnectionTest.cs",
+        "DateUpdated": "2019-09-26T07:35:42Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "c5562e893693c985e5e488eed67a60c9191545c6"
+        ]
+      },
+      {
+        "Sha": "0e98aa25f3ec8827c5f34195f1aa2ac8db30e823",
+        "FileName": "ClientTestBase.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core.Tests/Client/ClientTestBase.cs",
+        "DateUpdated": "2019-09-26T07:35:42Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "c5562e893693c985e5e488eed67a60c9191545c6"
+        ]
+      },
+      {
+        "Sha": "1a275386d8b4f33f0d302acab71cfa9bdc105f0e",
+        "FileName": "CancellationTest.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core.Tests/Compute/CancellationTest.cs",
+        "DateUpdated": "2019-09-26T07:35:42Z",
+        "Additions": 10,
+        "Deletions": 5,
+        "Commits": [
+          "c5562e893693c985e5e488eed67a60c9191545c6"
+        ]
+      },
+      {
+        "Sha": "c76365b59d779222a2fe2d161ee99a6d661b074c",
+        "FileName": "DisposeAction.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core.Tests/DisposeAction.cs",
+        "DateUpdated": "2019-09-26T07:35:42Z",
+        "Additions": 47,
+        "Deletions": 0,
+        "Commits": [
+          "c5562e893693c985e5e488eed67a60c9191545c6"
+        ]
+      },
+      {
+        "Sha": "e1f86409c5e6f9c0b07c73813a3a79a0bc7c362a",
+        "FileName": "EnvVar.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core.Tests/EnvVar.cs",
+        "DateUpdated": "2019-09-26T07:35:42Z",
+        "Additions": 1,
+        "Deletions": 30,
+        "Commits": [
+          "c5562e893693c985e5e488eed67a60c9191545c6"
+        ]
+      },
+      {
+        "Sha": "af1096be185dd54c0a1364e8dcd9d3a97b3d52fd",
+        "FileName": "MessagingTest.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core.Tests/MessagingTest.cs",
+        "DateUpdated": "2019-09-26T07:35:42Z",
+        "Additions": 3,
+        "Deletions": 5,
+        "Commits": [
+          "c5562e893693c985e5e488eed67a60c9191545c6"
+        ]
+      },
+      {
+        "Sha": "bc0065fbfab516683319cc4cea338703b144d3c1",
+        "FileName": "TestUtils.Windows.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core.Tests/TestUtils.Windows.cs",
+        "DateUpdated": "2019-09-26T07:35:42Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c5562e893693c985e5e488eed67a60c9191545c6"
+        ]
+      },
+      {
+        "Sha": "14569f6c47f7fd7c75d4a9445d92c52d98a7f744",
+        "FileName": "ClientSocket.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core/Impl/Client/ClientSocket.cs",
+        "DateUpdated": "2019-09-26T07:35:42Z",
+        "Additions": 13,
+        "Deletions": 6,
+        "Commits": [
+          "c5562e893693c985e5e488eed67a60c9191545c6"
+        ]
+      },
+      {
+        "Sha": "c2490eeb58812ac8233d6546394c3ff7d115cf03",
+        "FileName": "MethodId.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core/Impl/Unmanaged/Jni/MethodId.cs",
+        "DateUpdated": "2019-09-26T07:35:42Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c5562e893693c985e5e488eed67a60c9191545c6"
+        ]
+      },
+      {
+        "Sha": "7b834ce81b67272c5456e3957a9770ff66d6fe6f",
+        "FileName": "UnmanagedCallbacks.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core/Impl/Unmanaged/UnmanagedCallbacks.cs",
+        "DateUpdated": "2019-09-26T07:35:42Z",
+        "Additions": 7,
+        "Deletions": 1,
+        "Commits": [
+          "c5562e893693c985e5e488eed67a60c9191545c6"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "738cb67fa332239fa1fc6f31daafbc4410abb58e",
+        "Author": {
+          "name": "\"Pavel Tupitsyn\"",
+          "location": "St. Petersburg, Russia",
+          "company": "@apache "
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T07:41:49Z",
+        "additions": 480,
+        "deletions": 10,
+        "files": [
+          "adef655b85d1102508b652659e81b5a61251d210",
+          "9ef5c5b0a0bf243840d96f470b0b4de5d390631b",
+          "0f7187c606716813c6676ebfea8bed68842e9b60",
+          "66b4795b12158e7e278f495ae6fab992aaf15ebe",
+          "1723f92a11763ff053bd98adab2cf56ee1fc7d9e",
+          "7c9ff90ad8456be4659eda92a0f66739e3956232",
+          "411b9c546ce204553039cc43282259538e29a51f",
+          "fbe91f05218893ab161bdfa71244c31ba343c1a7",
+          "1132412c1eadb07da70017f875ee4996dfe3854f",
+          "0b097d1cbe2e18a08727bbe9be580404bb4fc512",
+          "b27da51d180a023c26566e604494cfdd170cbc56"
+        ]
+      },
+      {
+        "sha": "c5562e893693c985e5e488eed67a60c9191545c6",
+        "Author": {
+          "name": "\"Pavel Tupitsyn\"",
+          "location": "St. Petersburg, Russia",
+          "company": "@apache "
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T07:35:42Z",
+        "additions": 109,
+        "deletions": 57,
+        "files": [
+          "2000bc6ad17e8d545b91480a312e487a29983221",
+          "0a7b97a2ac35615eac78016a83e889e3eed703e1",
+          "2956669e36e8b82238033fb8fd258e8e10107fea",
+          "fbaa3992c2d91b6c0ce4f1e504229e35195dcc52",
+          "85bb74902d9bea3a432e294234d83d9deb91b2a0",
+          "7f1a6f42411783628f028e40121f264dcf4d9fde",
+          "810cc0cc61a0cd6864c2da618244de541ec8a8d2",
+          "0e98aa25f3ec8827c5f34195f1aa2ac8db30e823",
+          "1a275386d8b4f33f0d302acab71cfa9bdc105f0e",
+          "c76365b59d779222a2fe2d161ee99a6d661b074c",
+          "e1f86409c5e6f9c0b07c73813a3a79a0bc7c362a",
+          "af1096be185dd54c0a1364e8dcd9d3a97b3d52fd",
+          "bc0065fbfab516683319cc4cea338703b144d3c1",
+          "14569f6c47f7fd7c75d4a9445d92c52d98a7f744",
+          "c2490eeb58812ac8233d6546394c3ff7d115cf03",
+          "7b834ce81b67272c5456e3957a9770ff66d6fe6f"
+        ]
+      }
+    ]
+  }
+]

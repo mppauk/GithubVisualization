@@ -1,0 +1,442 @@
+[
+  {
+    "RepositoryName": "incubator-mxnet",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T01:47:19Z",
+    "EndDate": "2019-09-24T02:47:19",
+    "Branches": 24,
+    "Forks": 6319,
+    "Files": [
+      {
+        "Sha": "2c4127b9a0888c14101b1655c1ac1739f527d448",
+        "FileName": "leaky_relu-inl.h",
+        "Path": "src/operator/leaky_relu-inl.h",
+        "DateUpdated": "2019-09-24T02:39:41Z",
+        "Additions": 38,
+        "Deletions": 154,
+        "Commits": [
+          "a77bd75a850a5a3af0445adcd2257ce9b0a9c570"
+        ]
+      },
+      {
+        "Sha": "4d1c5ca10a30d7ce66e4836bf6016d20558d2565",
+        "FileName": "leaky_relu.cc",
+        "Path": "src/operator/leaky_relu.cc",
+        "DateUpdated": "2019-09-24T02:39:41Z",
+        "Additions": 168,
+        "Deletions": 20,
+        "Commits": [
+          "a77bd75a850a5a3af0445adcd2257ce9b0a9c570"
+        ]
+      },
+      {
+        "Sha": "fa8e95b4b9520d0dc98772395c76be10d135bc55",
+        "FileName": "leaky_relu.cu",
+        "Path": "src/operator/leaky_relu.cu",
+        "DateUpdated": "2019-09-24T02:39:41Z",
+        "Additions": 6,
+        "Deletions": 8,
+        "Commits": [
+          "a77bd75a850a5a3af0445adcd2257ce9b0a9c570"
+        ]
+      },
+      {
+        "Sha": "9c21b7f70f520b274dfce4f87e839253730137dc",
+        "FileName": "mkldnn_act-inl.h",
+        "Path": "src/operator/nn/mkldnn/mkldnn_act-inl.h",
+        "DateUpdated": "2019-09-24T02:39:41Z",
+        "Additions": 31,
+        "Deletions": 4,
+        "Commits": [
+          "a77bd75a850a5a3af0445adcd2257ce9b0a9c570"
+        ]
+      },
+      {
+        "Sha": "f221ddf5e345e2c3b5b5f4147c9aca4814d0eaf4",
+        "FileName": "mkldnn_act.cc",
+        "Path": "src/operator/nn/mkldnn/mkldnn_act.cc",
+        "DateUpdated": "2019-09-24T02:39:41Z",
+        "Additions": 109,
+        "Deletions": 16,
+        "Commits": [
+          "a77bd75a850a5a3af0445adcd2257ce9b0a9c570"
+        ]
+      },
+      {
+        "Sha": "9e8725e776e5d3330df93d2cd875111f6edc0b81",
+        "FileName": "mkldnn_base-inl.h",
+        "Path": "src/operator/nn/mkldnn/mkldnn_base-inl.h",
+        "DateUpdated": "2019-09-24T02:39:41Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "a77bd75a850a5a3af0445adcd2257ce9b0a9c570"
+        ]
+      },
+      {
+        "Sha": "b564a3318402b8e27a3d39c9cc16c90bb0b39f63",
+        "FileName": "mkldnn_ops-inl.h",
+        "Path": "src/operator/nn/mkldnn/mkldnn_ops-inl.h",
+        "DateUpdated": "2019-09-24T02:39:41Z",
+        "Additions": 7,
+        "Deletions": 1,
+        "Commits": [
+          "a77bd75a850a5a3af0445adcd2257ce9b0a9c570"
+        ]
+      },
+      {
+        "Sha": "002b012bc35efdf830e2f5c0a89d9fa44d1d7bb9",
+        "FileName": "mkldnn_conv-inl.h",
+        "Path": "src/operator/subgraph/mkldnn/mkldnn_conv-inl.h",
+        "DateUpdated": "2019-09-24T02:39:41Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "a77bd75a850a5a3af0445adcd2257ce9b0a9c570"
+        ]
+      },
+      {
+        "Sha": "886a21b44fc92cbbc8723917f4e8fd4e615f54bc",
+        "FileName": "mkldnn_conv.cc",
+        "Path": "src/operator/subgraph/mkldnn/mkldnn_conv.cc",
+        "DateUpdated": "2019-09-24T02:39:41Z",
+        "Additions": 5,
+        "Deletions": 1,
+        "Commits": [
+          "a77bd75a850a5a3af0445adcd2257ce9b0a9c570"
+        ]
+      },
+      {
+        "Sha": "ff6589e6fb0a33c34ef1eec7e46c9710f5eac0c5",
+        "FileName": "mkldnn_conv_property.h",
+        "Path": "src/operator/subgraph/mkldnn/mkldnn_conv_property.h",
+        "DateUpdated": "2019-09-24T02:39:41Z",
+        "Additions": 11,
+        "Deletions": 1,
+        "Commits": [
+          "a77bd75a850a5a3af0445adcd2257ce9b0a9c570"
+        ]
+      },
+      {
+        "Sha": "dc494b25b549b76e704c46a12cdd5c87f4a114d2",
+        "FileName": "test_subgraph.py",
+        "Path": "tests/python/mkl/test_subgraph.py",
+        "DateUpdated": "2019-09-24T02:39:41Z",
+        "Additions": 14,
+        "Deletions": 3,
+        "Commits": [
+          "a77bd75a850a5a3af0445adcd2257ce9b0a9c570"
+        ]
+      },
+      {
+        "Sha": "d11443ca839ac745ea6214bb1d4040285fea79aa",
+        "FileName": "test_gluon.py",
+        "Path": "tests/python/unittest/test_gluon.py",
+        "DateUpdated": "2019-09-24T02:39:41Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a77bd75a850a5a3af0445adcd2257ce9b0a9c570"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a77bd75a850a5a3af0445adcd2257ce9b0a9c570",
+        "Author": {
+          "name": "\"Xinyu Chen\"",
+          "location": "shanghai",
+          "company": "Intel"
+        },
+        "Commitor": {
+          "name": "\"PatricZhao\"",
+          "location": "shanghai",
+          "company": "Intel "
+        },
+        "Date": "2019-09-24T02:39:41Z",
+        "additions": 400,
+        "deletions": 216,
+        "files": [
+          "2c4127b9a0888c14101b1655c1ac1739f527d448",
+          "4d1c5ca10a30d7ce66e4836bf6016d20558d2565",
+          "fa8e95b4b9520d0dc98772395c76be10d135bc55",
+          "9c21b7f70f520b274dfce4f87e839253730137dc",
+          "f221ddf5e345e2c3b5b5f4147c9aca4814d0eaf4",
+          "9e8725e776e5d3330df93d2cd875111f6edc0b81",
+          "b564a3318402b8e27a3d39c9cc16c90bb0b39f63",
+          "002b012bc35efdf830e2f5c0a89d9fa44d1d7bb9",
+          "886a21b44fc92cbbc8723917f4e8fd4e615f54bc",
+          "ff6589e6fb0a33c34ef1eec7e46c9710f5eac0c5",
+          "dc494b25b549b76e704c46a12cdd5c87f4a114d2",
+          "d11443ca839ac745ea6214bb1d4040285fea79aa"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-mxnet",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T21:03:54Z",
+    "EndDate": "2019-09-24T22:03:54",
+    "Branches": 25,
+    "Forks": 6328,
+    "Files": [
+      {
+        "Sha": "2f7254040475692e51823cd7386c9ddbe464d3a9",
+        "FileName": "cuda_utils.h",
+        "Path": "src/common/cuda_utils.h",
+        "DateUpdated": "2019-09-24T21:54:32Z",
+        "Additions": 68,
+        "Deletions": 8,
+        "Commits": [
+          "a5e698ac939afd541e1201363ec06b74ce394385"
+        ]
+      },
+      {
+        "Sha": "d90aa268195a8217584ba9a78a9f596638eb6a4a",
+        "FileName": "mxnet_op.h",
+        "Path": "src/operator/mxnet_op.h",
+        "DateUpdated": "2019-09-24T21:54:32Z",
+        "Additions": 10,
+        "Deletions": 0,
+        "Commits": [
+          "a5e698ac939afd541e1201363ec06b74ce394385"
+        ]
+      },
+      {
+        "Sha": "28b6905148e4d9cd187f69b36241b7cd84a6c07a",
+        "FileName": "fully_connected-inl.h",
+        "Path": "src/operator/nn/fully_connected-inl.h",
+        "DateUpdated": "2019-09-24T21:54:32Z",
+        "Additions": 207,
+        "Deletions": 14,
+        "Commits": [
+          "a5e698ac939afd541e1201363ec06b74ce394385"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a5e698ac939afd541e1201363ec06b74ce394385",
+        "Author": {
+          "name": "\"Przemyslaw Tredak\"",
+          "company": "@NVIDIA"
+        },
+        "Commitor": {
+          "name": "\"Dick Carter\"",
+          "location": "Santa Clara, CA",
+          "company": "NVIDIA"
+        },
+        "Date": "2019-09-24T21:54:32Z",
+        "additions": 285,
+        "deletions": 22,
+        "files": [
+          "2f7254040475692e51823cd7386c9ddbe464d3a9",
+          "d90aa268195a8217584ba9a78a9f596638eb6a4a",
+          "28b6905148e4d9cd187f69b36241b7cd84a6c07a"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-mxnet",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T21:46:57Z",
+    "EndDate": "2019-09-24T22:46:57",
+    "Branches": 25,
+    "Forks": 6328,
+    "Files": [
+      {
+        "Sha": "b3b188a2cf3ba1f97203168518d30adfadaca5b6",
+        "FileName": "Makefile",
+        "Path": "Makefile",
+        "DateUpdated": "2019-09-24T22:39:20Z",
+        "Additions": 6,
+        "Deletions": 2,
+        "Commits": [
+          "35ef45cb97849f36123ae741de493fc5e8fa8c0e"
+        ]
+      },
+      {
+        "Sha": "2f7254040475692e51823cd7386c9ddbe464d3a9",
+        "FileName": "cuda_utils.h",
+        "Path": "src/common/cuda_utils.h",
+        "DateUpdated": "2019-09-24T21:54:32Z",
+        "Additions": 68,
+        "Deletions": 8,
+        "Commits": [
+          "a5e698ac939afd541e1201363ec06b74ce394385"
+        ]
+      },
+      {
+        "Sha": "d90aa268195a8217584ba9a78a9f596638eb6a4a",
+        "FileName": "mxnet_op.h",
+        "Path": "src/operator/mxnet_op.h",
+        "DateUpdated": "2019-09-24T21:54:32Z",
+        "Additions": 10,
+        "Deletions": 0,
+        "Commits": [
+          "a5e698ac939afd541e1201363ec06b74ce394385"
+        ]
+      },
+      {
+        "Sha": "28b6905148e4d9cd187f69b36241b7cd84a6c07a",
+        "FileName": "fully_connected-inl.h",
+        "Path": "src/operator/nn/fully_connected-inl.h",
+        "DateUpdated": "2019-09-24T21:54:32Z",
+        "Additions": 207,
+        "Deletions": 14,
+        "Commits": [
+          "a5e698ac939afd541e1201363ec06b74ce394385"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "35ef45cb97849f36123ae741de493fc5e8fa8c0e",
+        "Author": {
+          "name": "\"Huang, Guangtai\"",
+          "location": "Shanghai",
+          "company": "SUSTech"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-24T22:39:20Z",
+        "additions": 6,
+        "deletions": 2,
+        "files": [
+          "b3b188a2cf3ba1f97203168518d30adfadaca5b6"
+        ]
+      },
+      {
+        "sha": "a5e698ac939afd541e1201363ec06b74ce394385",
+        "Author": {
+          "name": "\"Przemyslaw Tredak\"",
+          "company": "@NVIDIA"
+        },
+        "Commitor": {
+          "name": "\"Dick Carter\"",
+          "location": "Santa Clara, CA",
+          "company": "NVIDIA"
+        },
+        "Date": "2019-09-24T21:54:32Z",
+        "additions": 285,
+        "deletions": 22,
+        "files": [
+          "2f7254040475692e51823cd7386c9ddbe464d3a9",
+          "d90aa268195a8217584ba9a78a9f596638eb6a4a",
+          "28b6905148e4d9cd187f69b36241b7cd84a6c07a"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-mxnet",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T22:03:28Z",
+    "EndDate": "2019-09-24T23:03:28",
+    "Branches": 25,
+    "Forks": 6328,
+    "Files": [
+      {
+        "Sha": "40fdaa51573e30b461f4b0ba9f2bb9252b7a35b4",
+        "FileName": "loss.py",
+        "Path": "python/mxnet/gluon/loss.py",
+        "DateUpdated": "2019-09-24T22:59:21Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "985a4ca62766ddca22b995a663d258003602f6af"
+        ]
+      },
+      {
+        "Sha": "b3b188a2cf3ba1f97203168518d30adfadaca5b6",
+        "FileName": "Makefile",
+        "Path": "Makefile",
+        "DateUpdated": "2019-09-24T22:39:20Z",
+        "Additions": 6,
+        "Deletions": 2,
+        "Commits": [
+          "35ef45cb97849f36123ae741de493fc5e8fa8c0e"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "985a4ca62766ddca22b995a663d258003602f6af",
+        "Author": {
+          "name": "null",
+          "location": "Berkeley"
+        },
+        "Commitor": {
+          "name": "\"Xingjian Shi\"",
+          "company": "Amazon Web Services"
+        },
+        "Date": "2019-09-24T22:59:21Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "40fdaa51573e30b461f4b0ba9f2bb9252b7a35b4"
+        ]
+      },
+      {
+        "sha": "35ef45cb97849f36123ae741de493fc5e8fa8c0e",
+        "Author": {
+          "name": "\"Huang, Guangtai\"",
+          "location": "Shanghai",
+          "company": "SUSTech"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-24T22:39:20Z",
+        "additions": 6,
+        "deletions": 2,
+        "files": [
+          "b3b188a2cf3ba1f97203168518d30adfadaca5b6"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-mxnet",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T22:47:12Z",
+    "EndDate": "2019-09-24T23:47:12",
+    "Branches": 25,
+    "Forks": 6328,
+    "Files": [
+      {
+        "Sha": "40fdaa51573e30b461f4b0ba9f2bb9252b7a35b4",
+        "FileName": "loss.py",
+        "Path": "python/mxnet/gluon/loss.py",
+        "DateUpdated": "2019-09-24T22:59:21Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "985a4ca62766ddca22b995a663d258003602f6af"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "985a4ca62766ddca22b995a663d258003602f6af",
+        "Author": {
+          "name": "null",
+          "location": "Berkeley"
+        },
+        "Commitor": {
+          "name": "\"Xingjian Shi\"",
+          "company": "Amazon Web Services"
+        },
+        "Date": "2019-09-24T22:59:21Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "40fdaa51573e30b461f4b0ba9f2bb9252b7a35b4"
+        ]
+      }
+    ]
+  }
+]

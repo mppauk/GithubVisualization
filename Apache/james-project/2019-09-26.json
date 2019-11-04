@@ -1,0 +1,1728 @@
+[
+  {
+    "RepositoryName": "james-project",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T02:03:13Z",
+    "EndDate": "2019-09-26T03:03:13",
+    "Branches": 17,
+    "Forks": 253,
+    "Files": [
+      {
+        "Sha": "6df4dee2fc302513c48e127ea9f8ed2a037d35cf",
+        "FileName": "MemoryMailRepository.java",
+        "Path": "server/mailrepository/mailrepository-memory/src/main/java/org/apache/james/mailrepository/memory/MemoryMailRepository.java",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 16,
+        "Deletions": 8,
+        "Commits": [
+          "d1cca6c2a5306f35d8a32435220e820b3ce929db"
+        ]
+      },
+      {
+        "Sha": "426c795abefd884c63eed71d0774b2f0c68ee8be",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/sieve-file/pom.xml",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "07fcf1cad681ef2bf2a58262b62c4cfe2b850d68"
+        ]
+      },
+      {
+        "Sha": "afb97957b2eee8d799578bdfc21300e6f73587f3",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/sieve-jpa/pom.xml",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "07fcf1cad681ef2bf2a58262b62c4cfe2b850d68"
+        ]
+      },
+      {
+        "Sha": "b9f4542054433af001daa68b274ecd8858e0dcde",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 22,
+        "Deletions": 0,
+        "Commits": [
+          "e7dbd2ab63b893c0ee60115e2a58d0433e332b33"
+        ]
+      },
+      {
+        "Sha": "41257af18875156232373d243862d5dc892911c8",
+        "FileName": "JPAMailRepositoryModule.java",
+        "Path": "server/container/guice/jpa-common-guice/src/main/java/org/apache/james/modules/data/JPAMailRepositoryModule.java",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 6,
+        "Deletions": 0,
+        "Commits": [
+          "54f717693ab708b304346b4645ef69e74eedf7bc"
+        ]
+      },
+      {
+        "Sha": "f4c8937e127b02248ab4a267cb0ae0c5a6659c7b",
+        "FileName": "mailetcontainer.xml",
+        "Path": "server/protocols/webadmin-integration-test/src/test/resources/mailetcontainer.xml",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "5643ced584a52f579713657151b6c731d232b6b8"
+        ]
+      },
+      {
+        "Sha": "626e0a2bad8f786f172036c6b92f1e61e5b2f2e1",
+        "FileName": "mailrepositorystore.xml",
+        "Path": "server/protocols/jmap-draft-integration-testing/rabbitmq-jmap-draft-integration-testing/src/test/resources/mailrepositorystore.xml",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 0,
+        "Deletions": 42,
+        "Commits": [
+          "f9266e82123cae9b148d10821685b992d5cc145e",
+          "e67161de12656a99c6597f8c52b300efd1a15541",
+          "5ab9e9157118e2fbcd29a1e5d2fa7f7a8b79975d",
+          "5ab9e9157118e2fbcd29a1e5d2fa7f7a8b79975d",
+          "5ab9e9157118e2fbcd29a1e5d2fa7f7a8b79975d",
+          "5ab9e9157118e2fbcd29a1e5d2fa7f7a8b79975d",
+          "88fba4f8114a9755b27f658d2318fc437ec23f13",
+          "88fba4f8114a9755b27f658d2318fc437ec23f13",
+          "6399f69db0952dbaaf995aa2e845758131e818d3"
+        ]
+      },
+      {
+        "Sha": "172d4e0c80496e89f48632d9c796807f9165c953",
+        "FileName": "MailImpl.java",
+        "Path": "server/container/core/src/main/java/org/apache/james/server/core/MailImpl.java",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "c23c3d4dc606f71b3ff621d0797f73c33c5025d1"
+        ]
+      },
+      {
+        "Sha": "0717b475334d8c6a2cd721ceed7a23b1db8d78a1",
+        "FileName": "MailImplTest.java",
+        "Path": "server/container/core/src/test/java/org/apache/james/server/core/MailImplTest.java",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 6,
+        "Deletions": 0,
+        "Commits": [
+          "c23c3d4dc606f71b3ff621d0797f73c33c5025d1"
+        ]
+      },
+      {
+        "Sha": "3a945a45ddb174d4f05ace80bda3d9466c170360",
+        "FileName": "MemoryMailRepository.java",
+        "Path": "server/mailrepository/mailrepository-memory/src/main/java/org/apache/james/mailrepository/memory/MemoryMailRepository.java",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 9,
+        "Deletions": 2,
+        "Commits": [
+          "6c972a230e648a4c97a080f7b4efc2a2ac816e70"
+        ]
+      },
+      {
+        "Sha": "20ed0270d0ab93f614f250aee37f6171ac57fec7",
+        "FileName": "mailetcontainer.xml",
+        "Path": "server/protocols/jmap-draft-integration-testing/memory-jmap-draft-integration-testing/src/test/resources/mailetcontainer.xml",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "e67161de12656a99c6597f8c52b300efd1a15541"
+        ]
+      },
+      {
+        "Sha": "ed3e003d4e2acca4ba60682a39eefca32b653a6c",
+        "FileName": "mailrepositorystore.xml",
+        "Path": "server/protocols/jmap-draft-integration-testing/memory-jmap-draft-integration-testing/src/test/resources/mailrepositorystore.xml",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 0,
+        "Deletions": 8,
+        "Commits": [
+          "e67161de12656a99c6597f8c52b300efd1a15541"
+        ]
+      },
+      {
+        "Sha": "c5e13dc59cf47fb37492c1e9bbcbe60f94112a64",
+        "FileName": "MailetErrorsTest.java",
+        "Path": "server/mailet/integration-testing/src/test/java/org/apache/james/mailets/MailetErrorsTest.java",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "41845d34e11c132555e36ced7baee9521fb4c0da"
+        ]
+      },
+      {
+        "Sha": "0c1af052edb8fa0fb049347b138db4d8a058d16b",
+        "FileName": "NetworkMatcherIntegrationTest.java",
+        "Path": "server/mailet/integration-testing/src/test/java/org/apache/james/mailets/NetworkMatcherIntegrationTest.java",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "41845d34e11c132555e36ced7baee9521fb4c0da"
+        ]
+      },
+      {
+        "Sha": "d96391b5e2b9f2a2f1f994ff58e8d4a094bdc4f0",
+        "FileName": "SmtpAuthIntegrationTest.java",
+        "Path": "server/mailet/integration-testing/src/test/java/org/apache/james/mailets/SmtpAuthIntegrationTest.java",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "41845d34e11c132555e36ced7baee9521fb4c0da"
+        ]
+      },
+      {
+        "Sha": "10454f2b93d952b8396265c93c83ac8ba5ae39aa",
+        "FileName": "CommonProcessors.java",
+        "Path": "server/mailet/integration-testing/src/test/java/org/apache/james/mailets/configuration/CommonProcessors.java",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "41845d34e11c132555e36ced7baee9521fb4c0da"
+        ]
+      },
+      {
+        "Sha": "3422ec730e63db88b47bc64ea41d5881f8bbcfd8",
+        "FileName": "AliasMappingTest.java",
+        "Path": "server/mailet/integration-testing/src/test/java/org/apache/james/transport/mailets/AliasMappingTest.java",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "41845d34e11c132555e36ced7baee9521fb4c0da"
+        ]
+      },
+      {
+        "Sha": "413bde7a1c9a8fa003dd2e2f75be212b8224c33c",
+        "FileName": "DlpIntegrationTest.java",
+        "Path": "server/mailet/integration-testing/src/test/java/org/apache/james/transport/mailets/DlpIntegrationTest.java",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "41845d34e11c132555e36ced7baee9521fb4c0da"
+        ]
+      },
+      {
+        "Sha": "cc6fc22e1e608f4dce892bdbcc5f774134e4e6dd",
+        "FileName": "MailReprocessingIntegrationTest.java",
+        "Path": "server/mailet/integration-testing/src/test/java/org/apache/james/transport/mailets/MailReprocessingIntegrationTest.java",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "41845d34e11c132555e36ced7baee9521fb4c0da"
+        ]
+      },
+      {
+        "Sha": "b37eea28ef75c8f7b0de4905bd3d5e8c5156955b",
+        "FileName": "ToRepositoryTest.java",
+        "Path": "server/mailet/integration-testing/src/test/java/org/apache/james/transport/mailets/ToRepositoryTest.java",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "41845d34e11c132555e36ced7baee9521fb4c0da"
+        ]
+      },
+      {
+        "Sha": "9e360b99dfad6eebca927d4a103e456acdaf16e9",
+        "FileName": "ToSenderDomainRepositoryTest.java",
+        "Path": "server/mailet/integration-testing/src/test/java/org/apache/james/transport/mailets/ToSenderDomainRepositoryTest.java",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "41845d34e11c132555e36ced7baee9521fb4c0da"
+        ]
+      },
+      {
+        "Sha": "7685e0d092ef87c4f0262ba24dcfa7d48209b3fd",
+        "FileName": "mailrepositorystore.xml",
+        "Path": "server/mailet/integration-testing/src/test/resources/mailrepositorystore.xml",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 2,
+        "Deletions": 4,
+        "Commits": [
+          "41845d34e11c132555e36ced7baee9521fb4c0da",
+          "a9746729729db9a0a57d975e410ef3f959ca56b5"
+        ]
+      },
+      {
+        "Sha": "9e73a33777563382efd15844364fc15573c82e18",
+        "FileName": "FakeMail.java",
+        "Path": "mailet/test/src/main/java/org/apache/mailet/base/test/FakeMail.java",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 10,
+        "Deletions": 3,
+        "Commits": [
+          "2b4fcb7b330e3964c1b11eb0d6bac79f11f2ed5f"
+        ]
+      },
+      {
+        "Sha": "7fa9f5a0854c260a323dbe1ea5e54154a3491438",
+        "FileName": "MailRepositoryStoreConfigurationTest.java",
+        "Path": "server/data/data-memory/src/test/java/org/apache/james/mailrepository/memory/MailRepositoryStoreConfigurationTest.java",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2b4fcb7b330e3964c1b11eb0d6bac79f11f2ed5f"
+        ]
+      },
+      {
+        "Sha": "8e253fd7781686e49b053b4e6c7ffb91161f9bdf",
+        "FileName": "mailetcontainer.xml",
+        "Path": "server/container/guice/cassandra-ldap-guice/src/test/resources/mailetcontainer.xml",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 3,
+        "Deletions": 6,
+        "Commits": [
+          "5ab9e9157118e2fbcd29a1e5d2fa7f7a8b79975d",
+          "5ab9e9157118e2fbcd29a1e5d2fa7f7a8b79975d"
+        ]
+      },
+      {
+        "Sha": "dcff65449ed3ad5bb3befac7397a0a0655087c46",
+        "FileName": "mailetcontainer.xml",
+        "Path": "server/container/guice/cassandra-rabbitmq-guice/src/test/resources/mailetcontainer.xml",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "5ab9e9157118e2fbcd29a1e5d2fa7f7a8b79975d"
+        ]
+      },
+      {
+        "Sha": "34d5c8b6e7e6f7ebd2f84e7a0a682300652e7e29",
+        "FileName": "mailetcontainer.xml",
+        "Path": "mpt/impl/smtp/cassandra-rabbitmq-object-storage/src/test/resources/mailetcontainer.xml",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 3,
+        "Deletions": 6,
+        "Commits": [
+          "88fba4f8114a9755b27f658d2318fc437ec23f13",
+          "88fba4f8114a9755b27f658d2318fc437ec23f13"
+        ]
+      },
+      {
+        "Sha": "f87d1a50081086acc4c1a545afcab19ae35482c7",
+        "FileName": "mailetcontainer.xml",
+        "Path": "server/container/guice/cassandra-guice/src/test/resources/mailetcontainer.xml",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "6399f69db0952dbaaf995aa2e845758131e818d3"
+        ]
+      },
+      {
+        "Sha": "fce6040668e85f7b2e3ad5e29cb7edc6bc7f32c4",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/guice-common/pom.xml",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "c2ea9c8a8fa783442cedf95ef45be8c7d788b850"
+        ]
+      },
+      {
+        "Sha": "909b3d833e1c7143f59a39a6eb8fe548139960a8",
+        "FileName": "MailStoreRepositoryModule.java",
+        "Path": "server/container/guice/guice-common/src/main/java/org/apache/james/modules/server/MailStoreRepositoryModule.java",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "c2ea9c8a8fa783442cedf95ef45be8c7d788b850"
+        ]
+      },
+      {
+        "Sha": "b3c0b2995919fdd2a45e6bdd4e65e71b552356c6",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/jpa-common-guice/pom.xml",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "c2ea9c8a8fa783442cedf95ef45be8c7d788b850"
+        ]
+      },
+      {
+        "Sha": "59cd67d9ec0e2ad2e0bcd4a7d8f1aa2320544542",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/jpa-guice/pom.xml",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "c2ea9c8a8fa783442cedf95ef45be8c7d788b850"
+        ]
+      },
+      {
+        "Sha": "c81a673c435c76d6519a3e7b377ee6694c1fd223",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/memory-guice/pom.xml",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "c2ea9c8a8fa783442cedf95ef45be8c7d788b850"
+        ]
+      },
+      {
+        "Sha": "7f3d345a3b2fc867d6d55bcc1b7f703b35a1c043",
+        "FileName": "mailetcontainer.xml",
+        "Path": "server/container/guice/memory-guice/src/test/resources/mailetcontainer.xml",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "c2ea9c8a8fa783442cedf95ef45be8c7d788b850"
+        ]
+      },
+      {
+        "Sha": "a607d6ccb29863428b565e8de840f1e7566cd129",
+        "FileName": "mailrepositorystore.xml",
+        "Path": "server/container/guice/memory-guice/src/test/resources/mailrepositorystore.xml",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 2,
+        "Deletions": 5,
+        "Commits": [
+          "c2ea9c8a8fa783442cedf95ef45be8c7d788b850"
+        ]
+      },
+      {
+        "Sha": "0ac4ab67e7358d85c1cd7011512d7d5061379b76",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/pom.xml",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 13,
+        "Deletions": 1,
+        "Commits": [
+          "c2ea9c8a8fa783442cedf95ef45be8c7d788b850"
+        ]
+      },
+      {
+        "Sha": "69dbc5a7d082dc022b2eeb6138701bef2fb51ae8",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/sieve-file/pom.xml",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 53,
+        "Deletions": 0,
+        "Commits": [
+          "c2ea9c8a8fa783442cedf95ef45be8c7d788b850"
+        ]
+      },
+      {
+        "Sha": "d27d1a34185ed52e5b421d7263dd8ed271cf0d66",
+        "FileName": "SieveFileRepositoryModule.java",
+        "Path": "server/container/guice/sieve-file/src/main/java/org/apache/james/modules/data/SieveFileRepositoryModule.java",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "c2ea9c8a8fa783442cedf95ef45be8c7d788b850"
+        ]
+      },
+      {
+        "Sha": "11643af6ed90f76524de9aacfe5602bf309e660f",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/sieve-jpa/pom.xml",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 53,
+        "Deletions": 0,
+        "Commits": [
+          "c2ea9c8a8fa783442cedf95ef45be8c7d788b850"
+        ]
+      },
+      {
+        "Sha": "2d984e3933067e9d5b19aec8d14daea7557d5269",
+        "FileName": "SieveJPARepositoryModules.java",
+        "Path": "server/container/guice/sieve-jpa/src/main/java/org/apache/james/modules/data/SieveJPARepositoryModules.java",
+        "DateUpdated": "2019-09-26T02:09:04Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "c2ea9c8a8fa783442cedf95ef45be8c7d788b850"
+        ]
+      },
+      {
+        "Sha": "431e2e6474a73f655df6076d694ea46fe6acd73f",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/memory-guice/pom.xml",
+        "DateUpdated": "2019-09-26T02:08:45Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "3d734c09360d07d3332ca43e3115b53f13ddac9f"
+        ]
+      },
+      {
+        "Sha": "29c82be95a72b22b7a1ff1aa6eac6348a84c1f99",
+        "FileName": "MemoryJmapTestRule.java",
+        "Path": "server/container/guice/memory-guice/src/test/java/org/apache/james/MemoryJmapTestRule.java",
+        "DateUpdated": "2019-09-26T02:08:45Z",
+        "Additions": 0,
+        "Deletions": 3,
+        "Commits": [
+          "3d734c09360d07d3332ca43e3115b53f13ddac9f"
+        ]
+      },
+      {
+        "Sha": "9fb06618b52648cdfb84ee64bb05c91772cd7853",
+        "FileName": "MemorySendMDNMethodTest.java",
+        "Path": "server/protocols/jmap-draft-integration-testing/memory-jmap-draft-integration-testing/src/test/java/org/apache/james/jmap/memory/MemorySendMDNMethodTest.java",
+        "DateUpdated": "2019-09-26T02:08:45Z",
+        "Additions": 0,
+        "Deletions": 3,
+        "Commits": [
+          "3d734c09360d07d3332ca43e3115b53f13ddac9f"
+        ]
+      },
+      {
+        "Sha": "01f0ef685e3e962c74c8b1780e9add215f608456",
+        "FileName": "MemorySpamAssassinContractTest.java",
+        "Path": "server/protocols/jmap-draft-integration-testing/memory-jmap-draft-integration-testing/src/test/java/org/apache/james/jmap/memory/MemorySpamAssassinContractTest.java",
+        "DateUpdated": "2019-09-26T02:08:45Z",
+        "Additions": 0,
+        "Deletions": 3,
+        "Commits": [
+          "3d734c09360d07d3332ca43e3115b53f13ddac9f"
+        ]
+      },
+      {
+        "Sha": "348dad21dcb1fc27976abed881889bf4ff13f263",
+        "FileName": "MemoryStepdefs.java",
+        "Path": "server/protocols/jmap-draft-integration-testing/memory-jmap-draft-integration-testing/src/test/java/org/apache/james/jmap/memory/cucumber/MemoryStepdefs.java",
+        "DateUpdated": "2019-09-26T02:08:45Z",
+        "Additions": 1,
+        "Deletions": 4,
+        "Commits": [
+          "3d734c09360d07d3332ca43e3115b53f13ddac9f"
+        ]
+      },
+      {
+        "Sha": "32e064de1d5e98c64f8263e002ca030ec3ccd1ad",
+        "FileName": "config-recipientrewritetable.xml",
+        "Path": "src/site/xdoc/server/config-recipientrewritetable.xml",
+        "DateUpdated": "2019-09-26T02:07:58Z",
+        "Additions": 0,
+        "Deletions": 34,
+        "Commits": [
+          "a013083d29f5a24a17f039cf98aafc1112b40a94"
+        ]
+      },
+      {
+        "Sha": "32e9659cf9b4ec3984763bf6db8f51b219bd483f",
+        "FileName": "config-users.xml",
+        "Path": "src/site/xdoc/server/config-users.xml",
+        "DateUpdated": "2019-09-26T02:07:58Z",
+        "Additions": 0,
+        "Deletions": 7,
+        "Commits": [
+          "a013083d29f5a24a17f039cf98aafc1112b40a94"
+        ]
+      },
+      {
+        "Sha": "5f08bab3a5e4502fb5d58ca8ec315b77d23a409d",
+        "FileName": "mailetcontainer.xml",
+        "Path": "server/app/src/main/resources/mailetcontainer.xml",
+        "DateUpdated": "2019-09-26T02:07:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "fd1104a525b7729e5f4086c2003b713de08645ea"
+        ]
+      },
+      {
+        "Sha": "6d86b1b9307d5ccb04ea7f0a405434ddc6a3f904",
+        "FileName": "recipientrewritetable.xml",
+        "Path": "server/app/src/main/resources/recipientrewritetable.xml",
+        "DateUpdated": "2019-09-26T02:07:58Z",
+        "Additions": 0,
+        "Deletions": 11,
+        "Commits": [
+          "fd1104a525b7729e5f4086c2003b713de08645ea"
+        ]
+      },
+      {
+        "Sha": "11864fe92e9a3d770c104c2fc125dd5e3f05db97",
+        "FileName": "usersrepository.xml",
+        "Path": "server/app/src/main/resources/usersrepository.xml",
+        "DateUpdated": "2019-09-26T02:07:58Z",
+        "Additions": 0,
+        "Deletions": 18,
+        "Commits": [
+          "fd1104a525b7729e5f4086c2003b713de08645ea"
+        ]
+      },
+      {
+        "Sha": "55589631ffd3ddd393e683291e27bb6df3aa43d5",
+        "FileName": "CHANGELOG.md",
+        "Path": "CHANGELOG.md",
+        "DateUpdated": "2019-09-26T02:07:43Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "fe96b291cadf72f6d16a5e413cd915fafcbb82a1"
+        ]
+      },
+      {
+        "Sha": "3ee23cb733dd0c58adba08d2d885da8225865a4c",
+        "FileName": "upgrade-instructions.md",
+        "Path": "upgrade-instructions.md",
+        "DateUpdated": "2019-09-26T02:07:43Z",
+        "Additions": 23,
+        "Deletions": 0,
+        "Commits": [
+          "fe96b291cadf72f6d16a5e413cd915fafcbb82a1"
+        ]
+      },
+      {
+        "Sha": "9ea2ad4e1ab58663461caa3a8fb02359f6c002a3",
+        "FileName": "AbstractQuotaMatcher.java",
+        "Path": "mailet/standard/src/main/java/org/apache/james/transport/matchers/AbstractQuotaMatcher.java",
+        "DateUpdated": "2019-09-26T02:06:57Z",
+        "Additions": 0,
+        "Deletions": 168,
+        "Commits": [
+          "e7a03c47fc777ab419f645bad370b6a37eaa33da"
+        ]
+      },
+      {
+        "Sha": "7674706e97e61ba8d0eafe0635945d269245cec3",
+        "FileName": "AbstractStorageQuota.java",
+        "Path": "server/mailet/mailets/src/main/java/org/apache/james/transport/matchers/AbstractStorageQuota.java",
+        "DateUpdated": "2019-09-26T02:06:57Z",
+        "Additions": 0,
+        "Deletions": 155,
+        "Commits": [
+          "08d9053aae42e6d4367a01810d90e25f3c4bb86b"
+        ]
+      },
+      {
+        "Sha": "89159592467ac428d9a3881562af3bd6752b9610",
+        "FileName": "MailboxQuotaFixed.java",
+        "Path": "server/mailet/mailets/src/main/java/org/apache/james/transport/matchers/MailboxQuotaFixed.java",
+        "DateUpdated": "2019-09-26T02:06:57Z",
+        "Additions": 0,
+        "Deletions": 46,
+        "Commits": [
+          "5c94b21b8e5c9f6120289c9301b822a282b80bbb"
+        ]
+      },
+      {
+        "Sha": "a5284d8496d65e606064cf5877236ad73585aa54",
+        "FileName": "sqlResources.xml",
+        "Path": "dockerfiles/run/spring/destination/conf/sqlResources.xml",
+        "DateUpdated": "2019-09-26T02:06:57Z",
+        "Additions": 0,
+        "Deletions": 216,
+        "Commits": [
+          "bcab768141dc9a2b60efcccf81277645092c07e6"
+        ]
+      },
+      {
+        "Sha": "1e67b510f8427959c0e435201a4de7bd944b6efb",
+        "FileName": "sqlResources.xml",
+        "Path": "server/app/src/main/resources/sqlResources.xml",
+        "DateUpdated": "2019-09-26T02:06:57Z",
+        "Additions": 0,
+        "Deletions": 298,
+        "Commits": [
+          "33ae78b83c185c0a6b26ca2ff35044e2d8f5e423"
+        ]
+      },
+      {
+        "Sha": "4e90638a55510318337ddfd9daf680e6cfe870de",
+        "FileName": "sqlResources-mail.xml",
+        "Path": "server/data/data-jdbc/src/test/resources/sqlResources-mail.xml",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 887,
+        "Commits": [
+          "6af60b48852d57201713f36299263265762f6ec6"
+        ]
+      },
+      {
+        "Sha": "3d6d9f9e350d6573649b9cce717660906fa6568e",
+        "FileName": "sqlResources.xml",
+        "Path": "server/data/data-jdbc/src/test/resources/sqlResources.xml",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 758,
+        "Commits": [
+          "6af60b48852d57201713f36299263265762f6ec6"
+        ]
+      },
+      {
+        "Sha": "e4f16079fe5a9771daaf3e47e356c30ec9545e15",
+        "FileName": "JDBCAlias.java",
+        "Path": "server/mailet/mailets/src/main/java/org/apache/james/transport/mailets/JDBCAlias.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 180,
+        "Commits": [
+          "591cde2590845bbe8a7ba40679fd2da8ebc612bd"
+        ]
+      },
+      {
+        "Sha": "35de38eb6f316f2f9c48fef4bd30aa5e66708901",
+        "FileName": "AbstractJdbcUsersRepository.java",
+        "Path": "server/data/data-jdbc/src/main/java/org/apache/james/user/jdbc/AbstractJdbcUsersRepository.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 705,
+        "Commits": [
+          "10690f4e17d870f7b495781f432d66be562d90d9"
+        ]
+      },
+      {
+        "Sha": "daa110a2d682b4046b1e78ca00c015773f28f84d",
+        "FileName": "DefaultUsersJdbcRepository.java",
+        "Path": "server/data/data-jdbc/src/main/java/org/apache/james/user/jdbc/DefaultUsersJdbcRepository.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 82,
+        "Commits": [
+          "10690f4e17d870f7b495781f432d66be562d90d9"
+        ]
+      },
+      {
+        "Sha": "94b19dd561c6216b906e1f23aa854e033206e3db",
+        "FileName": "JamesUsersJdbcRepository.java",
+        "Path": "server/data/data-jdbc/src/main/java/org/apache/james/user/jdbc/JamesUsersJdbcRepository.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 131,
+        "Commits": [
+          "10690f4e17d870f7b495781f432d66be562d90d9"
+        ]
+      },
+      {
+        "Sha": "88a442a3850d7b67fcb3cfea020f05f674d95340",
+        "FileName": "AbstractUsersJdbcRepositoryTest.java",
+        "Path": "server/data/data-jdbc/src/test/java/org/apache/james/user/jdbc/AbstractUsersJdbcRepositoryTest.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 33,
+        "Commits": [
+          "10690f4e17d870f7b495781f432d66be562d90d9"
+        ]
+      },
+      {
+        "Sha": "d73d0ecb7252057e1deb283454504d54ddbcd4e8",
+        "FileName": "DefaultUsersJdbcRepositoryTest.java",
+        "Path": "server/data/data-jdbc/src/test/java/org/apache/james/user/jdbc/DefaultUsersJdbcRepositoryTest.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 106,
+        "Commits": [
+          "10690f4e17d870f7b495781f432d66be562d90d9"
+        ]
+      },
+      {
+        "Sha": "f5d003db324f2a3445c048fb4abe9aa19b10ac25",
+        "FileName": "JamesUsersJdbcRepositoryTest.java",
+        "Path": "server/data/data-jdbc/src/test/java/org/apache/james/user/jdbc/JamesUsersJdbcRepositoryTest.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 105,
+        "Commits": [
+          "10690f4e17d870f7b495781f432d66be562d90d9"
+        ]
+      },
+      {
+        "Sha": "40f03efb3a3aefa1eb6c286f88036c8a242d8aa9",
+        "FileName": "JDBCRecipientRewriteTable.java",
+        "Path": "server/data/data-jdbc/src/main/java/org/apache/james/rrt/jdbc/JDBCRecipientRewriteTable.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 429,
+        "Commits": [
+          "62d610b4efa9b22e9e27e0cc6b58bcef2360a104"
+        ]
+      },
+      {
+        "Sha": "eb47663dafecb350822803892a868be8346be85f",
+        "FileName": "JDBCRecipientRewriteTableTest.java",
+        "Path": "server/data/data-jdbc/src/test/java/org/apache/james/rrt/jdbc/JDBCRecipientRewriteTableTest.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 66,
+        "Commits": [
+          "62d610b4efa9b22e9e27e0cc6b58bcef2360a104"
+        ]
+      },
+      {
+        "Sha": "b09158f8811942c73bfd59846316fc7922a9ee45",
+        "FileName": "JDBCStepdefs.java",
+        "Path": "server/data/data-jdbc/src/test/java/org/apache/james/rrt/jdbc/JDBCStepdefs.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 68,
+        "Commits": [
+          "62d610b4efa9b22e9e27e0cc6b58bcef2360a104"
+        ]
+      },
+      {
+        "Sha": "7732555fc01cd117d2e34aab7588aa54acd25c66",
+        "FileName": "RewriteTablesTest.java",
+        "Path": "server/data/data-jdbc/src/test/java/org/apache/james/rrt/jdbc/RewriteTablesTest.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 32,
+        "Commits": [
+          "62d610b4efa9b22e9e27e0cc6b58bcef2360a104"
+        ]
+      },
+      {
+        "Sha": "495d7b7c59d3f71968fc63296d00eabf4b439195",
+        "FileName": "UsersRepositoryAliasingForwarding.java",
+        "Path": "server/mailet/mailets/src/main/java/org/apache/james/transport/mailets/UsersRepositoryAliasingForwarding.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 93,
+        "Commits": [
+          "622269ecf448c7b298b48ad0d136f03aabfb0108"
+        ]
+      },
+      {
+        "Sha": "63659b24b4a3ff0d9e902be612aeed1d563bbc17",
+        "FileName": "AbstractRecipientRewriteTable.java",
+        "Path": "server/mailet/mailets/src/main/java/org/apache/james/transport/mailets/AbstractRecipientRewriteTable.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 282,
+        "Commits": [
+          "0a50f833b36f199140ac0f7d865aa072dd4bbae6"
+        ]
+      },
+      {
+        "Sha": "c656105392e3895e5aa63fc226da3097985b24b8",
+        "FileName": "XMLRecipientRewriteTable.java",
+        "Path": "server/mailet/mailets/src/main/java/org/apache/james/transport/mailets/XMLRecipientRewriteTable.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 123,
+        "Commits": [
+          "92fafb8b38dc0df94de5ebd6e009bba6bf1eb911"
+        ]
+      },
+      {
+        "Sha": "806be12b9fedb3301fa9a3725f6a0d24fce69dff",
+        "FileName": "JDBCRecipientRewriteTable.java",
+        "Path": "server/mailet/mailets/src/main/java/org/apache/james/transport/mailets/JDBCRecipientRewriteTable.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 206,
+        "Commits": [
+          "b687054c34d66e3ad6509dda4325529559aa6761"
+        ]
+      },
+      {
+        "Sha": "73671ec70be894f19ac58fa513d1434c0db5ebfe",
+        "FileName": "SieveDefaultRepository.java",
+        "Path": "server/data/data-file/src/main/java/org/apache/james/sieverepository/file/SieveDefaultRepository.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 175,
+        "Commits": [
+          "81820e6c13b200bb5f9a75cd5aac2d6a954aa63c"
+        ]
+      },
+      {
+        "Sha": "280bb1d51c4ff2b03efb51f33c73d7e211b4cf51",
+        "FileName": "pom.xml",
+        "Path": "mailbox/caching/pom.xml",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 60,
+        "Commits": [
+          "18b0733d12698c37ed559c5b438c87746733825b"
+        ]
+      },
+      {
+        "Sha": "327a85f6d0fb439f4a42f0ed852dd682f727ba04",
+        "FileName": "CacheInvalidatingMailboxListener.java",
+        "Path": "mailbox/caching/src/main/java/org/apache/james/mailbox/caching/CacheInvalidatingMailboxListener.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 83,
+        "Commits": [
+          "18b0733d12698c37ed559c5b438c87746733825b"
+        ]
+      },
+      {
+        "Sha": "fb0bc35b08661b40ae54e637469c8afc26eeaa00",
+        "FileName": "CacheLoaderFromUnderlying.java",
+        "Path": "mailbox/caching/src/main/java/org/apache/james/mailbox/caching/CacheLoaderFromUnderlying.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 11,
+        "Commits": [
+          "18b0733d12698c37ed559c5b438c87746733825b"
+        ]
+      },
+      {
+        "Sha": "757ebd81f6b6c61f12c1d4f4a7eb57c4e454a53b",
+        "FileName": "CachingMailboxMapper.java",
+        "Path": "mailbox/caching/src/main/java/org/apache/james/mailbox/caching/CachingMailboxMapper.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 138,
+        "Commits": [
+          "18b0733d12698c37ed559c5b438c87746733825b"
+        ]
+      },
+      {
+        "Sha": "c443f2c272b8a51ba6503135562f786217ef3248",
+        "FileName": "CachingMailboxSessionMapperFactory.java",
+        "Path": "mailbox/caching/src/main/java/org/apache/james/mailbox/caching/CachingMailboxSessionMapperFactory.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 77,
+        "Commits": [
+          "18b0733d12698c37ed559c5b438c87746733825b"
+        ]
+      },
+      {
+        "Sha": "f6d617b784ecba1420398ca19d9d31ff214d6d00",
+        "FileName": "CachingMessageMapper.java",
+        "Path": "mailbox/caching/src/main/java/org/apache/james/mailbox/caching/CachingMessageMapper.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 163,
+        "Commits": [
+          "18b0733d12698c37ed559c5b438c87746733825b"
+        ]
+      },
+      {
+        "Sha": "664e1f241115725996a5ee03d9902a090507b766",
+        "FileName": "MailboxByPathCache.java",
+        "Path": "mailbox/caching/src/main/java/org/apache/james/mailbox/caching/MailboxByPathCache.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 30,
+        "Commits": [
+          "18b0733d12698c37ed559c5b438c87746733825b"
+        ]
+      },
+      {
+        "Sha": "a183eae36d5720b9f0fd5596402736700db9360d",
+        "FileName": "MailboxMetadataCache.java",
+        "Path": "mailbox/caching/src/main/java/org/apache/james/mailbox/caching/MailboxMetadataCache.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 38,
+        "Commits": [
+          "18b0733d12698c37ed559c5b438c87746733825b"
+        ]
+      },
+      {
+        "Sha": "3647dd780d33a3793020d9ef1eeceaf788177116",
+        "FileName": "AbstractGuavaCache.java",
+        "Path": "mailbox/caching/src/main/java/org/apache/james/mailbox/caching/guava/AbstractGuavaCache.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 22,
+        "Commits": [
+          "18b0733d12698c37ed559c5b438c87746733825b"
+        ]
+      },
+      {
+        "Sha": "a8226e033cda7de94e0290c5fdfaa6f4c38dbf58",
+        "FileName": "GuavaCacheWrapper.java",
+        "Path": "mailbox/caching/src/main/java/org/apache/james/mailbox/caching/guava/GuavaCacheWrapper.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 44,
+        "Commits": [
+          "18b0733d12698c37ed559c5b438c87746733825b"
+        ]
+      },
+      {
+        "Sha": "ae1cce956b40b6935538d8678ec44f22e53e1082",
+        "FileName": "GuavaMailboxByPathCache.java",
+        "Path": "mailbox/caching/src/main/java/org/apache/james/mailbox/caching/guava/GuavaMailboxByPathCache.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 68,
+        "Commits": [
+          "18b0733d12698c37ed559c5b438c87746733825b"
+        ]
+      },
+      {
+        "Sha": "ee7586b75d87294a7304a15e62132215b008fc18",
+        "FileName": "GuavaMailboxMetadataCache.java",
+        "Path": "mailbox/caching/src/main/java/org/apache/james/mailbox/caching/guava/GuavaMailboxMetadataCache.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 153,
+        "Commits": [
+          "18b0733d12698c37ed559c5b438c87746733825b"
+        ]
+      },
+      {
+        "Sha": "1b7a79ec0d9069cbb21d03bc953aafe01c6ce7a5",
+        "FileName": "CacheInvalidatingMailboxListenerTest.java",
+        "Path": "mailbox/caching/src/test/java/org/apache/james/mailbox/caching/CacheInvalidatingMailboxListenerTest.java",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 37,
+        "Commits": [
+          "18b0733d12698c37ed559c5b438c87746733825b"
+        ]
+      },
+      {
+        "Sha": "d2d85a8562149160e72a4d497fb6452979664d81",
+        "FileName": "pom.xml",
+        "Path": "mailbox/pom.xml",
+        "DateUpdated": "2019-09-26T02:06:56Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "18b0733d12698c37ed559c5b438c87746733825b"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d1cca6c2a5306f35d8a32435220e820b3ce929db",
+        "Author": {
+          "name": "\"Gautier DI FOLCO\"",
+          "location": "Lyon, France",
+          "company": "@linagora "
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:09:04Z",
+        "additions": 16,
+        "deletions": 8,
+        "files": [
+          "6df4dee2fc302513c48e127ea9f8ed2a037d35cf"
+        ]
+      },
+      {
+        "sha": "07fcf1cad681ef2bf2a58262b62c4cfe2b850d68",
+        "Author": {
+          "name": "\"Rene Cordier\"",
+          "location": "Hanoi",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:09:04Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "426c795abefd884c63eed71d0774b2f0c68ee8be",
+          "afb97957b2eee8d799578bdfc21300e6f73587f3"
+        ]
+      },
+      {
+        "sha": "e7dbd2ab63b893c0ee60115e2a58d0433e332b33",
+        "Author": {
+          "name": "\"Gautier DI FOLCO\"",
+          "location": "Lyon, France",
+          "company": "@linagora "
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:09:04Z",
+        "additions": 22,
+        "deletions": 0,
+        "files": [
+          "b9f4542054433af001daa68b274ecd8858e0dcde"
+        ]
+      },
+      {
+        "sha": "54f717693ab708b304346b4645ef69e74eedf7bc",
+        "Author": {
+          "name": "\"Gautier DI FOLCO\"",
+          "location": "Lyon, France",
+          "company": "@linagora "
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:09:04Z",
+        "additions": 6,
+        "deletions": 0,
+        "files": [
+          "41257af18875156232373d243862d5dc892911c8"
+        ]
+      },
+      {
+        "sha": "5643ced584a52f579713657151b6c731d232b6b8",
+        "Author": {
+          "name": "\"Gautier DI FOLCO\"",
+          "location": "Lyon, France",
+          "company": "@linagora "
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:09:04Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "f4c8937e127b02248ab4a267cb0ae0c5a6659c7b"
+        ]
+      },
+      {
+        "sha": "f9266e82123cae9b148d10821685b992d5cc145e",
+        "Author": {
+          "name": "\"Gautier DI FOLCO\"",
+          "location": "Lyon, France",
+          "company": "@linagora "
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:09:04Z",
+        "additions": 0,
+        "deletions": 6,
+        "files": [
+          "626e0a2bad8f786f172036c6b92f1e61e5b2f2e1"
+        ]
+      },
+      {
+        "sha": "c23c3d4dc606f71b3ff621d0797f73c33c5025d1",
+        "Author": {
+          "name": "\"Gautier DI FOLCO\"",
+          "location": "Lyon, France",
+          "company": "@linagora "
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:09:04Z",
+        "additions": 7,
+        "deletions": 0,
+        "files": [
+          "172d4e0c80496e89f48632d9c796807f9165c953",
+          "0717b475334d8c6a2cd721ceed7a23b1db8d78a1"
+        ]
+      },
+      {
+        "sha": "6c972a230e648a4c97a080f7b4efc2a2ac816e70",
+        "Author": {
+          "name": "\"Gautier DI FOLCO\"",
+          "location": "Lyon, France",
+          "company": "@linagora "
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:09:04Z",
+        "additions": 9,
+        "deletions": 2,
+        "files": [
+          "3a945a45ddb174d4f05ace80bda3d9466c170360"
+        ]
+      },
+      {
+        "sha": "e67161de12656a99c6597f8c52b300efd1a15541",
+        "Author": {
+          "name": "\"Gautier DI FOLCO\"",
+          "location": "Lyon, France",
+          "company": "@linagora "
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:09:04Z",
+        "additions": 1,
+        "deletions": 15,
+        "files": [
+          "20ed0270d0ab93f614f250aee37f6171ac57fec7",
+          "ed3e003d4e2acca4ba60682a39eefca32b653a6c",
+          "626e0a2bad8f786f172036c6b92f1e61e5b2f2e1"
+        ]
+      },
+      {
+        "sha": "41845d34e11c132555e36ced7baee9521fb4c0da",
+        "Author": {
+          "name": "\"Gautier DI FOLCO\"",
+          "location": "Lyon, France",
+          "company": "@linagora "
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:09:04Z",
+        "additions": 14,
+        "deletions": 14,
+        "files": [
+          "c5e13dc59cf47fb37492c1e9bbcbe60f94112a64",
+          "0c1af052edb8fa0fb049347b138db4d8a058d16b",
+          "d96391b5e2b9f2a2f1f994ff58e8d4a094bdc4f0",
+          "10454f2b93d952b8396265c93c83ac8ba5ae39aa",
+          "3422ec730e63db88b47bc64ea41d5881f8bbcfd8",
+          "413bde7a1c9a8fa003dd2e2f75be212b8224c33c",
+          "cc6fc22e1e608f4dce892bdbcc5f774134e4e6dd",
+          "b37eea28ef75c8f7b0de4905bd3d5e8c5156955b",
+          "9e360b99dfad6eebca927d4a103e456acdaf16e9",
+          "7685e0d092ef87c4f0262ba24dcfa7d48209b3fd"
+        ]
+      },
+      {
+        "sha": "a9746729729db9a0a57d975e410ef3f959ca56b5",
+        "Author": {
+          "name": "\"Gautier DI FOLCO\"",
+          "location": "Lyon, France",
+          "company": "@linagora "
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:09:04Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "7685e0d092ef87c4f0262ba24dcfa7d48209b3fd"
+        ]
+      },
+      {
+        "sha": "2b4fcb7b330e3964c1b11eb0d6bac79f11f2ed5f",
+        "Author": {
+          "name": "\"Rémi Kowalski\""
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:09:04Z",
+        "additions": 11,
+        "deletions": 4,
+        "files": [
+          "9e73a33777563382efd15844364fc15573c82e18",
+          "7fa9f5a0854c260a323dbe1ea5e54154a3491438"
+        ]
+      },
+      {
+        "sha": "5ab9e9157118e2fbcd29a1e5d2fa7f7a8b79975d",
+        "Author": {
+          "name": "\"Rémi Kowalski\""
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:09:04Z",
+        "additions": 13,
+        "deletions": 27,
+        "files": [
+          "8e253fd7781686e49b053b4e6c7ffb91161f9bdf",
+          "626e0a2bad8f786f172036c6b92f1e61e5b2f2e1",
+          "dcff65449ed3ad5bb3befac7397a0a0655087c46",
+          "626e0a2bad8f786f172036c6b92f1e61e5b2f2e1",
+          "8e253fd7781686e49b053b4e6c7ffb91161f9bdf",
+          "626e0a2bad8f786f172036c6b92f1e61e5b2f2e1",
+          "626e0a2bad8f786f172036c6b92f1e61e5b2f2e1"
+        ]
+      },
+      {
+        "sha": "88fba4f8114a9755b27f658d2318fc437ec23f13",
+        "Author": {
+          "name": "\"Rémi Kowalski\""
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:09:04Z",
+        "additions": 10,
+        "deletions": 12,
+        "files": [
+          "34d5c8b6e7e6f7ebd2f84e7a0a682300652e7e29",
+          "626e0a2bad8f786f172036c6b92f1e61e5b2f2e1",
+          "34d5c8b6e7e6f7ebd2f84e7a0a682300652e7e29",
+          "626e0a2bad8f786f172036c6b92f1e61e5b2f2e1"
+        ]
+      },
+      {
+        "sha": "6399f69db0952dbaaf995aa2e845758131e818d3",
+        "Author": {
+          "name": "\"Gautier DI FOLCO\"",
+          "location": "Lyon, France",
+          "company": "@linagora "
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:09:04Z",
+        "additions": 3,
+        "deletions": 9,
+        "files": [
+          "f87d1a50081086acc4c1a545afcab19ae35482c7",
+          "626e0a2bad8f786f172036c6b92f1e61e5b2f2e1"
+        ]
+      },
+      {
+        "sha": "c2ea9c8a8fa783442cedf95ef45be8c7d788b850",
+        "Author": {
+          "name": "\"Matthieu Baechler\"",
+          "location": "Privas, France",
+          "company": "Baechler Craftsmanship"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:09:04Z",
+        "additions": 144,
+        "deletions": 17,
+        "files": [
+          "fce6040668e85f7b2e3ad5e29cb7edc6bc7f32c4",
+          "909b3d833e1c7143f59a39a6eb8fe548139960a8",
+          "b3c0b2995919fdd2a45e6bdd4e65e71b552356c6",
+          "59cd67d9ec0e2ad2e0bcd4a7d8f1aa2320544542",
+          "c81a673c435c76d6519a3e7b377ee6694c1fd223",
+          "7f3d345a3b2fc867d6d55bcc1b7f703b35a1c043",
+          "a607d6ccb29863428b565e8de840f1e7566cd129",
+          "0ac4ab67e7358d85c1cd7011512d7d5061379b76",
+          "69dbc5a7d082dc022b2eeb6138701bef2fb51ae8",
+          "d27d1a34185ed52e5b421d7263dd8ed271cf0d66",
+          "11643af6ed90f76524de9aacfe5602bf309e660f",
+          "2d984e3933067e9d5b19aec8d14daea7557d5269"
+        ]
+      },
+      {
+        "sha": "3d734c09360d07d3332ca43e3115b53f13ddac9f",
+        "Author": {
+          "name": "\"Matthieu Baechler\"",
+          "location": "Privas, France",
+          "company": "Baechler Craftsmanship"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:08:45Z",
+        "additions": 1,
+        "deletions": 17,
+        "files": [
+          "431e2e6474a73f655df6076d694ea46fe6acd73f",
+          "29c82be95a72b22b7a1ff1aa6eac6348a84c1f99",
+          "9fb06618b52648cdfb84ee64bb05c91772cd7853",
+          "01f0ef685e3e962c74c8b1780e9add215f608456",
+          "348dad21dcb1fc27976abed881889bf4ff13f263"
+        ]
+      },
+      {
+        "sha": "a013083d29f5a24a17f039cf98aafc1112b40a94",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:07:58Z",
+        "additions": 0,
+        "deletions": 41,
+        "files": [
+          "32e064de1d5e98c64f8263e002ca030ec3ccd1ad",
+          "32e9659cf9b4ec3984763bf6db8f51b219bd483f"
+        ]
+      },
+      {
+        "sha": "fd1104a525b7729e5f4086c2003b713de08645ea",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:07:58Z",
+        "additions": 1,
+        "deletions": 30,
+        "files": [
+          "5f08bab3a5e4502fb5d58ca8ec315b77d23a409d",
+          "6d86b1b9307d5ccb04ea7f0a405434ddc6a3f904",
+          "11864fe92e9a3d770c104c2fc125dd5e3f05db97"
+        ]
+      },
+      {
+        "sha": "fe96b291cadf72f6d16a5e413cd915fafcbb82a1",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:07:43Z",
+        "additions": 31,
+        "deletions": 0,
+        "files": [
+          "55589631ffd3ddd393e683291e27bb6df3aa43d5",
+          "3ee23cb733dd0c58adba08d2d885da8225865a4c"
+        ]
+      },
+      {
+        "sha": "e7a03c47fc777ab419f645bad370b6a37eaa33da",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:06:57Z",
+        "additions": 0,
+        "deletions": 168,
+        "files": [
+          "9ea2ad4e1ab58663461caa3a8fb02359f6c002a3"
+        ]
+      },
+      {
+        "sha": "08d9053aae42e6d4367a01810d90e25f3c4bb86b",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:06:57Z",
+        "additions": 0,
+        "deletions": 155,
+        "files": [
+          "7674706e97e61ba8d0eafe0635945d269245cec3"
+        ]
+      },
+      {
+        "sha": "5c94b21b8e5c9f6120289c9301b822a282b80bbb",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:06:57Z",
+        "additions": 0,
+        "deletions": 46,
+        "files": [
+          "89159592467ac428d9a3881562af3bd6752b9610"
+        ]
+      },
+      {
+        "sha": "bcab768141dc9a2b60efcccf81277645092c07e6",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:06:57Z",
+        "additions": 0,
+        "deletions": 216,
+        "files": [
+          "a5284d8496d65e606064cf5877236ad73585aa54"
+        ]
+      },
+      {
+        "sha": "33ae78b83c185c0a6b26ca2ff35044e2d8f5e423",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:06:57Z",
+        "additions": 0,
+        "deletions": 298,
+        "files": [
+          "1e67b510f8427959c0e435201a4de7bd944b6efb"
+        ]
+      },
+      {
+        "sha": "6af60b48852d57201713f36299263265762f6ec6",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:06:56Z",
+        "additions": 0,
+        "deletions": 1645,
+        "files": [
+          "4e90638a55510318337ddfd9daf680e6cfe870de",
+          "3d6d9f9e350d6573649b9cce717660906fa6568e"
+        ]
+      },
+      {
+        "sha": "591cde2590845bbe8a7ba40679fd2da8ebc612bd",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:06:56Z",
+        "additions": 0,
+        "deletions": 180,
+        "files": [
+          "e4f16079fe5a9771daaf3e47e356c30ec9545e15"
+        ]
+      },
+      {
+        "sha": "10690f4e17d870f7b495781f432d66be562d90d9",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:06:56Z",
+        "additions": 0,
+        "deletions": 1162,
+        "files": [
+          "35de38eb6f316f2f9c48fef4bd30aa5e66708901",
+          "daa110a2d682b4046b1e78ca00c015773f28f84d",
+          "94b19dd561c6216b906e1f23aa854e033206e3db",
+          "88a442a3850d7b67fcb3cfea020f05f674d95340",
+          "d73d0ecb7252057e1deb283454504d54ddbcd4e8",
+          "f5d003db324f2a3445c048fb4abe9aa19b10ac25"
+        ]
+      },
+      {
+        "sha": "62d610b4efa9b22e9e27e0cc6b58bcef2360a104",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:06:56Z",
+        "additions": 0,
+        "deletions": 595,
+        "files": [
+          "40f03efb3a3aefa1eb6c286f88036c8a242d8aa9",
+          "eb47663dafecb350822803892a868be8346be85f",
+          "b09158f8811942c73bfd59846316fc7922a9ee45",
+          "7732555fc01cd117d2e34aab7588aa54acd25c66"
+        ]
+      },
+      {
+        "sha": "622269ecf448c7b298b48ad0d136f03aabfb0108",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:06:56Z",
+        "additions": 0,
+        "deletions": 93,
+        "files": [
+          "495d7b7c59d3f71968fc63296d00eabf4b439195"
+        ]
+      },
+      {
+        "sha": "0a50f833b36f199140ac0f7d865aa072dd4bbae6",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:06:56Z",
+        "additions": 0,
+        "deletions": 282,
+        "files": [
+          "63659b24b4a3ff0d9e902be612aeed1d563bbc17"
+        ]
+      },
+      {
+        "sha": "92fafb8b38dc0df94de5ebd6e009bba6bf1eb911",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:06:56Z",
+        "additions": 0,
+        "deletions": 123,
+        "files": [
+          "c656105392e3895e5aa63fc226da3097985b24b8"
+        ]
+      },
+      {
+        "sha": "b687054c34d66e3ad6509dda4325529559aa6761",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:06:56Z",
+        "additions": 0,
+        "deletions": 206,
+        "files": [
+          "806be12b9fedb3301fa9a3725f6a0d24fce69dff"
+        ]
+      },
+      {
+        "sha": "81820e6c13b200bb5f9a75cd5aac2d6a954aa63c",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:06:56Z",
+        "additions": 0,
+        "deletions": 175,
+        "files": [
+          "73671ec70be894f19ac58fa513d1434c0db5ebfe"
+        ]
+      },
+      {
+        "sha": "18b0733d12698c37ed559c5b438c87746733825b",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-26T02:06:56Z",
+        "additions": 0,
+        "deletions": 925,
+        "files": [
+          "280bb1d51c4ff2b03efb51f33c73d7e211b4cf51",
+          "327a85f6d0fb439f4a42f0ed852dd682f727ba04",
+          "fb0bc35b08661b40ae54e637469c8afc26eeaa00",
+          "757ebd81f6b6c61f12c1d4f4a7eb57c4e454a53b",
+          "c443f2c272b8a51ba6503135562f786217ef3248",
+          "f6d617b784ecba1420398ca19d9d31ff214d6d00",
+          "664e1f241115725996a5ee03d9902a090507b766",
+          "a183eae36d5720b9f0fd5596402736700db9360d",
+          "3647dd780d33a3793020d9ef1eeceaf788177116",
+          "a8226e033cda7de94e0290c5fdfaa6f4c38dbf58",
+          "ae1cce956b40b6935538d8678ec44f22e53e1082",
+          "ee7586b75d87294a7304a15e62132215b008fc18",
+          "1b7a79ec0d9069cbb21d03bc953aafe01c6ce7a5",
+          "d2d85a8562149160e72a4d497fb6452979664d81"
+        ]
+      }
+    ]
+  }
+]

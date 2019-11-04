@@ -1,0 +1,82 @@
+[
+  {
+    "RepositoryName": "incubator-dolphinscheduler",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T07:04:38Z",
+    "EndDate": "2019-09-25T08:04:38",
+    "Branches": 9,
+    "Forks": 716,
+    "Files": [
+      {
+        "Sha": "fe24d0220955f1e1033ba9c8c95855422571f2c7",
+        "FileName": "pom.xml",
+        "Path": "escheduler-common/pom.xml",
+        "DateUpdated": "2019-09-25T07:21:54Z",
+        "Additions": 6,
+        "Deletions": 0,
+        "Commits": [
+          "24740522e379a4a5e11774667046a791e2650135"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "24740522e379a4a5e11774667046a791e2650135",
+        "Author": {
+          "name": "\"Yongchao Zhang\"",
+          "location": "北京",
+          "company": "�?帮规划"
+        },
+        "Commitor": {
+          "name": "\"dailidong\""
+        },
+        "Date": "2019-09-25T07:21:54Z",
+        "additions": 6,
+        "deletions": 0,
+        "files": [
+          "fe24d0220955f1e1033ba9c8c95855422571f2c7"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-dolphinscheduler",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T10:04:28Z",
+    "EndDate": "2019-09-25T11:04:28",
+    "Branches": 9,
+    "Forks": 717,
+    "Files": [
+      {
+        "Sha": "dee22d6f368b9c21f18341c0a455f6dda20cbd7e",
+        "FileName": "ProcessDao.java",
+        "Path": "escheduler-dao/src/main/java/cn/escheduler/dao/ProcessDao.java",
+        "DateUpdated": "2019-09-25T10:46:37Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "a58ed30167b5bb5b3993ad739fc52fd8c3e322d7"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a58ed30167b5bb5b3993ad739fc52fd8c3e322d7",
+        "Author": {
+          "name": "\"taox\"",
+          "location": "beijing china",
+          "company": "developerstation"
+        },
+        "Commitor": {
+          "name": "\"dailidong\""
+        },
+        "Date": "2019-09-25T10:46:37Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "dee22d6f368b9c21f18341c0a455f6dda20cbd7e"
+        ]
+      }
+    ]
+  }
+]

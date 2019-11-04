@@ -1,0 +1,43 @@
+[
+  {
+    "RepositoryName": "camel-website",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T10:04:20Z",
+    "EndDate": "2019-09-26T11:04:20",
+    "Branches": 3,
+    "Forks": 20,
+    "Files": [
+      {
+        "Sha": "7f1f2528da3dcb754eeccd4255c7de41a0d0271f",
+        "FileName": "site.yml",
+        "Path": "site.yml",
+        "DateUpdated": "2019-09-26T10:32:39Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b7ceaa1382eeca9be53446cd890c236194f16f3b"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "b7ceaa1382eeca9be53446cd890c236194f16f3b",
+        "Author": {
+          "name": "\"Peter Palaga\"",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Zoran Regvart\"",
+          "location": "Berlin",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-26T10:32:39Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "7f1f2528da3dcb754eeccd4255c7de41a0d0271f"
+        ]
+      }
+    ]
+  }
+]

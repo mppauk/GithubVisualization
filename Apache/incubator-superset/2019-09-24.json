@@ -1,0 +1,40 @@
+[
+  {
+    "RepositoryName": "incubator-superset",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T04:47:44Z",
+    "EndDate": "2019-09-24T05:47:44",
+    "Branches": 100,
+    "Forks": 5129,
+    "Files": [
+      {
+        "Sha": "c89f7451df3ca0665a28ce82106d590b017f9452",
+        "FileName": "README.md",
+        "Path": "RELEASING/README.md",
+        "DateUpdated": "2019-09-24T05:34:43Z",
+        "Additions": 6,
+        "Deletions": 5,
+        "Commits": [
+          "6d418308c734835b4b9257be32387d74f1a773a4"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "6d418308c734835b4b9257be32387d74f1a773a4",
+        "Author": {
+          "name": "\"Ville Brofeldt\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T05:34:43Z",
+        "additions": 6,
+        "deletions": 5,
+        "files": [
+          "c89f7451df3ca0665a28ce82106d590b017f9452"
+        ]
+      }
+    ]
+  }
+]

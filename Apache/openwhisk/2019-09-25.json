@@ -1,0 +1,1098 @@
+[
+  {
+    "RepositoryName": "openwhisk",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T03:46:49Z",
+    "EndDate": "2019-09-25T04:46:49",
+    "Branches": 2,
+    "Forks": 827,
+    "Files": [
+      {
+        "Sha": "c8fb64d20681647e8b06e2e44427f5307859a246",
+        "FileName": "Message.scala",
+        "Path": "common/scala/src/main/scala/org/apache/openwhisk/core/connector/Message.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 39,
+        "Deletions": 8,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "e44a8ff4d605e471d828d0b19bdd0ddb31d384a5",
+        "FileName": "ActivationResult.scala",
+        "Path": "common/scala/src/main/scala/org/apache/openwhisk/core/entity/ActivationResult.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 16,
+        "Deletions": 1,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "691acafe17876e0401a2f61bbb7014a282f54b20",
+        "FileName": "WhiskActivation.scala",
+        "Path": "common/scala/src/main/scala/org/apache/openwhisk/core/entity/WhiskActivation.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "a595535ca99d85ef93174d535257bd5b16ff121a",
+        "FileName": ".dockerignore",
+        "Path": "core/monitoring/user-events/.dockerignore",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "95b06ae882ba8d20a2f7badf7ba3ac8b75ca3568",
+        "FileName": "Dockerfile",
+        "Path": "core/monitoring/user-events/Dockerfile",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 34,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "5ed21271ca3bfb96193a47e674f113c66314761a",
+        "FileName": "README.md",
+        "Path": "core/monitoring/user-events/README.md",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 55,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "d6ec836189c2b6f33a0a787fda410864b3bffe04",
+        "FileName": "build.gradle",
+        "Path": "core/monitoring/user-events/build.gradle",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 53,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "77051f0ee2f78004dff1e85e0a23457cde8b33e2",
+        "FileName": "global-metrics.json",
+        "Path": "core/monitoring/user-events/compose/grafana/dashboards/global-metrics.json",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 422,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "e96d62f487bb8253297ea96cdefde8f6eed9b0e1",
+        "FileName": "openwhisk_events.json",
+        "Path": "core/monitoring/user-events/compose/grafana/dashboards/openwhisk_events.json",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 1539,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "e00db1553b88c13e223e1ebb2be96e9bd2545677",
+        "FileName": "top-namespaces.json",
+        "Path": "core/monitoring/user-events/compose/grafana/dashboards/top-namespaces.json",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 473,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "a6ea486dfc8fd78cd6aee7fa299e9c5338d54d30",
+        "FileName": "dashboard.yml",
+        "Path": "core/monitoring/user-events/compose/grafana/provisioning/dashboards/dashboard.yml",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 28,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "b67b13db4ba32716e6bd07fbc66773551af692ef",
+        "FileName": "datasource.yml",
+        "Path": "core/monitoring/user-events/compose/grafana/provisioning/datasources/datasource.yml",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 67,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "453ab57bc340ea549ba749daed69fdf5987232f8",
+        "FileName": "prometheus.yml",
+        "Path": "core/monitoring/user-events/compose/prometheus/prometheus.yml",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 30,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "9cfcf23c7f3b8256fe8cfa27da71dbea1630ff16",
+        "FileName": "demo_landing.png",
+        "Path": "core/monitoring/user-events/images/demo_landing.png",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "9da8864fee701d13e2b4df729c1d4d373996574f",
+        "FileName": "init.sh",
+        "Path": "core/monitoring/user-events/init.sh",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 25,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "8c8cd3e6ada19ef788e3e734e41594b8f5712956",
+        "FileName": "application.conf",
+        "Path": "core/monitoring/user-events/src/main/resources/application.conf",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 52,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "6f7d1c2d6de193d174de8e6648570a9769f26416",
+        "FileName": "reference.conf",
+        "Path": "core/monitoring/user-events/src/main/resources/reference.conf",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 27,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "983f5ef6d0fa8c483d49a61de124f8eaadf112b0",
+        "FileName": "whisk-logback.xml",
+        "Path": "core/monitoring/user-events/src/main/resources/whisk-logback.xml",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 25,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "7b8c594454b3cdbff805e91afd4921b90de065af",
+        "FileName": "EventConsumer.scala",
+        "Path": "core/monitoring/user-events/src/main/scala/org/apache/openwhisk/core/monitoring/metrics/EventConsumer.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 145,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "d0c0c675bdbfe3156f6e523a363c9018d94d75c8",
+        "FileName": "KamonRecorder.scala",
+        "Path": "core/monitoring/user-events/src/main/scala/org/apache/openwhisk/core/monitoring/metrics/KamonRecorder.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 111,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "9c1b932d96991c82301e2422299a228a31441e74",
+        "FileName": "Main.scala",
+        "Path": "core/monitoring/user-events/src/main/scala/org/apache/openwhisk/core/monitoring/metrics/Main.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 45,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "d82b49b70f6d8d1e19d1a2fb468e560bb91b9297",
+        "FileName": "MetricNames.scala",
+        "Path": "core/monitoring/user-events/src/main/scala/org/apache/openwhisk/core/monitoring/metrics/MetricNames.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 37,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "8e963e5f0f2fe21a6f22bcb41109ae90ab949ae6",
+        "FileName": "OpenWhiskEvents.scala",
+        "Path": "core/monitoring/user-events/src/main/scala/org/apache/openwhisk/core/monitoring/metrics/OpenWhiskEvents.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 65,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "b4b9a2bb0b15e7818f4e900515d16fb429510b7f",
+        "FileName": "PrometheusEventsApi.scala",
+        "Path": "core/monitoring/user-events/src/main/scala/org/apache/openwhisk/core/monitoring/metrics/PrometheusEventsApi.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 49,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "42be2e4b5bffb8b1e5eef651e87d6f1022c57c64",
+        "FileName": "PrometheusRecorder.scala",
+        "Path": "core/monitoring/user-events/src/main/scala/org/apache/openwhisk/core/monitoring/metrics/PrometheusRecorder.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 250,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "a2cd5f749ef8f7ad45b623ee91f4500c7b05f3fb",
+        "FileName": "ApiTests.scala",
+        "Path": "core/monitoring/user-events/src/test/scala/org/apache/openwhisk/core/monitoring/metrics/ApiTests.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 64,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "71b8d2eb58f7926da4aa8d02b70dea3c617ce71f",
+        "FileName": "EventsTestHelper.scala",
+        "Path": "core/monitoring/user-events/src/test/scala/org/apache/openwhisk/core/monitoring/metrics/EventsTestHelper.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 45,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "35491596789dcf3861ad14499c2e35fc5a690c6a",
+        "FileName": "KafkaSpecBase.scala",
+        "Path": "core/monitoring/user-events/src/test/scala/org/apache/openwhisk/core/monitoring/metrics/KafkaSpecBase.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 56,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "e25d9389580f66bd2d7c4d1b212b8fbc525d78e8",
+        "FileName": "KamonRecorderTests.scala",
+        "Path": "core/monitoring/user-events/src/test/scala/org/apache/openwhisk/core/monitoring/metrics/KamonRecorderTests.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 157,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "0354c42d999a977a658f69657641dbd730d8aa6a",
+        "FileName": "OpenWhiskEventsTests.scala",
+        "Path": "core/monitoring/user-events/src/test/scala/org/apache/openwhisk/core/monitoring/metrics/OpenWhiskEventsTests.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 84,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "a2c9732993caac38e599b9a07b0716c398ac24c0",
+        "FileName": "PrometheusRecorderTests.scala",
+        "Path": "core/monitoring/user-events/src/test/scala/org/apache/openwhisk/core/monitoring/metrics/PrometheusRecorderTests.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 122,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "19b6b94f2f4c2a70f0d73daf4adbf1bcb8160cd7",
+        "FileName": "metrics.md",
+        "Path": "docs/metrics.md",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "fc9b0b42a33d6cef6cd0ea1e6cc6d5fb7e0fbd34",
+        "FileName": "settings.gradle",
+        "Path": "settings.gradle",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "5def20fc9bf59983145bd238ad55906435c1d51d",
+        "FileName": "build.gradle",
+        "Path": "tests/build.gradle",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "fa3fa88e3b39864caaaeca7833142b82a93f672b",
+        "FileName": "UserEventTests.scala",
+        "Path": "tests/src/test/scala/org/apache/openwhisk/common/UserEventTests.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "031304be40ed694953d426330ab0fa2334e1f4f2",
+        "FileName": "EventMessageTests.scala",
+        "Path": "tests/src/test/scala/org/apache/openwhisk/core/connector/test/EventMessageTests.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 6,
+        "Deletions": 2,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "3072fec09a590674be33c267b3bbffd6454849f5",
+        "FileName": "dockerhub.groovy",
+        "Path": "tools/jenkins/apache/dockerhub.groovy",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "cfa7845275bb10bbc9a5aefe4619346deb0e014b",
+        "FileName": "application.conf",
+        "Path": "common/scala/src/main/resources/application.conf",
+        "DateUpdated": "2019-09-25T04:26:07Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "5de865c271ab6e82deacdf4d8dcd2f5025c02d97"
+        ]
+      },
+      {
+        "Sha": "b6fa765b27c0116d6b63f6c2724968276fa92b0f",
+        "FileName": "WhiskConfig.scala",
+        "Path": "common/scala/src/main/scala/org/apache/openwhisk/core/WhiskConfig.scala",
+        "DateUpdated": "2019-09-25T04:26:07Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "5de865c271ab6e82deacdf4d8dcd2f5025c02d97"
+        ]
+      },
+      {
+        "Sha": "2cef635bdd8e4fef2f45c54baa4b6aaf1176f027",
+        "FileName": "ApacheBlockingContainerClient.scala",
+        "Path": "common/scala/src/main/scala/org/apache/openwhisk/core/containerpool/ApacheBlockingContainerClient.scala",
+        "DateUpdated": "2019-09-25T04:26:07Z",
+        "Additions": 11,
+        "Deletions": 1,
+        "Commits": [
+          "5de865c271ab6e82deacdf4d8dcd2f5025c02d97"
+        ]
+      },
+      {
+        "Sha": "4d3463b75b3a91871ad1c3b520b150960ce7a42a",
+        "FileName": "standalone.conf",
+        "Path": "core/standalone/src/main/resources/standalone.conf",
+        "DateUpdated": "2019-09-25T04:26:07Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "5de865c271ab6e82deacdf4d8dcd2f5025c02d97"
+        ]
+      },
+      {
+        "Sha": "725033c2a7a97db848cbaae1f62af27ad4307ef1",
+        "FileName": "StandaloneServerTests.scala",
+        "Path": "tests/src/test/scala/org/apache/openwhisk/standalone/StandaloneServerTests.scala",
+        "DateUpdated": "2019-09-25T04:26:07Z",
+        "Additions": 0,
+        "Deletions": 20,
+        "Commits": [
+          "5de865c271ab6e82deacdf4d8dcd2f5025c02d97"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "3e89aa51f79598a5156910b4752f9ec82b13a7c0",
+        "Author": {
+          "name": "\"Cosmin Stanciu\"",
+          "location": "San Jose",
+          "company": "Adobe"
+        },
+        "Commitor": {
+          "name": "\"Chetan Mehrotra\"",
+          "company": "@adobe "
+        },
+        "Date": "2019-09-25T04:31:25Z",
+        "additions": 4139,
+        "deletions": 15,
+        "files": [
+          "c8fb64d20681647e8b06e2e44427f5307859a246",
+          "e44a8ff4d605e471d828d0b19bdd0ddb31d384a5",
+          "691acafe17876e0401a2f61bbb7014a282f54b20",
+          "a595535ca99d85ef93174d535257bd5b16ff121a",
+          "95b06ae882ba8d20a2f7badf7ba3ac8b75ca3568",
+          "5ed21271ca3bfb96193a47e674f113c66314761a",
+          "d6ec836189c2b6f33a0a787fda410864b3bffe04",
+          "77051f0ee2f78004dff1e85e0a23457cde8b33e2",
+          "e96d62f487bb8253297ea96cdefde8f6eed9b0e1",
+          "e00db1553b88c13e223e1ebb2be96e9bd2545677",
+          "a6ea486dfc8fd78cd6aee7fa299e9c5338d54d30",
+          "b67b13db4ba32716e6bd07fbc66773551af692ef",
+          "453ab57bc340ea549ba749daed69fdf5987232f8",
+          "9cfcf23c7f3b8256fe8cfa27da71dbea1630ff16",
+          "9da8864fee701d13e2b4df729c1d4d373996574f",
+          "8c8cd3e6ada19ef788e3e734e41594b8f5712956",
+          "6f7d1c2d6de193d174de8e6648570a9769f26416",
+          "983f5ef6d0fa8c483d49a61de124f8eaadf112b0",
+          "7b8c594454b3cdbff805e91afd4921b90de065af",
+          "d0c0c675bdbfe3156f6e523a363c9018d94d75c8",
+          "9c1b932d96991c82301e2422299a228a31441e74",
+          "d82b49b70f6d8d1e19d1a2fb468e560bb91b9297",
+          "8e963e5f0f2fe21a6f22bcb41109ae90ab949ae6",
+          "b4b9a2bb0b15e7818f4e900515d16fb429510b7f",
+          "42be2e4b5bffb8b1e5eef651e87d6f1022c57c64",
+          "a2cd5f749ef8f7ad45b623ee91f4500c7b05f3fb",
+          "71b8d2eb58f7926da4aa8d02b70dea3c617ce71f",
+          "35491596789dcf3861ad14499c2e35fc5a690c6a",
+          "e25d9389580f66bd2d7c4d1b212b8fbc525d78e8",
+          "0354c42d999a977a658f69657641dbd730d8aa6a",
+          "a2c9732993caac38e599b9a07b0716c398ac24c0",
+          "19b6b94f2f4c2a70f0d73daf4adbf1bcb8160cd7",
+          "fc9b0b42a33d6cef6cd0ea1e6cc6d5fb7e0fbd34",
+          "5def20fc9bf59983145bd238ad55906435c1d51d",
+          "fa3fa88e3b39864caaaeca7833142b82a93f672b",
+          "031304be40ed694953d426330ab0fa2334e1f4f2",
+          "3072fec09a590674be33c267b3bbffd6454849f5"
+        ]
+      },
+      {
+        "sha": "5de865c271ab6e82deacdf4d8dcd2f5025c02d97",
+        "Author": {
+          "name": "\"Chetan Mehrotra\"",
+          "company": "@adobe "
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T04:26:07Z",
+        "additions": 24,
+        "deletions": 21,
+        "files": [
+          "cfa7845275bb10bbc9a5aefe4619346deb0e014b",
+          "b6fa765b27c0116d6b63f6c2724968276fa92b0f",
+          "2cef635bdd8e4fef2f45c54baa4b6aaf1176f027",
+          "4d3463b75b3a91871ad1c3b520b150960ce7a42a",
+          "725033c2a7a97db848cbaae1f62af27ad4307ef1"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "openwhisk",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T04:03:32Z",
+    "EndDate": "2019-09-25T05:03:32",
+    "Branches": 2,
+    "Forks": 827,
+    "Files": [
+      {
+        "Sha": "c8fb64d20681647e8b06e2e44427f5307859a246",
+        "FileName": "Message.scala",
+        "Path": "common/scala/src/main/scala/org/apache/openwhisk/core/connector/Message.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 39,
+        "Deletions": 8,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "e44a8ff4d605e471d828d0b19bdd0ddb31d384a5",
+        "FileName": "ActivationResult.scala",
+        "Path": "common/scala/src/main/scala/org/apache/openwhisk/core/entity/ActivationResult.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 16,
+        "Deletions": 1,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "691acafe17876e0401a2f61bbb7014a282f54b20",
+        "FileName": "WhiskActivation.scala",
+        "Path": "common/scala/src/main/scala/org/apache/openwhisk/core/entity/WhiskActivation.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "a595535ca99d85ef93174d535257bd5b16ff121a",
+        "FileName": ".dockerignore",
+        "Path": "core/monitoring/user-events/.dockerignore",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "95b06ae882ba8d20a2f7badf7ba3ac8b75ca3568",
+        "FileName": "Dockerfile",
+        "Path": "core/monitoring/user-events/Dockerfile",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 34,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "5ed21271ca3bfb96193a47e674f113c66314761a",
+        "FileName": "README.md",
+        "Path": "core/monitoring/user-events/README.md",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 55,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "d6ec836189c2b6f33a0a787fda410864b3bffe04",
+        "FileName": "build.gradle",
+        "Path": "core/monitoring/user-events/build.gradle",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 53,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "77051f0ee2f78004dff1e85e0a23457cde8b33e2",
+        "FileName": "global-metrics.json",
+        "Path": "core/monitoring/user-events/compose/grafana/dashboards/global-metrics.json",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 422,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "e96d62f487bb8253297ea96cdefde8f6eed9b0e1",
+        "FileName": "openwhisk_events.json",
+        "Path": "core/monitoring/user-events/compose/grafana/dashboards/openwhisk_events.json",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 1539,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "e00db1553b88c13e223e1ebb2be96e9bd2545677",
+        "FileName": "top-namespaces.json",
+        "Path": "core/monitoring/user-events/compose/grafana/dashboards/top-namespaces.json",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 473,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "a6ea486dfc8fd78cd6aee7fa299e9c5338d54d30",
+        "FileName": "dashboard.yml",
+        "Path": "core/monitoring/user-events/compose/grafana/provisioning/dashboards/dashboard.yml",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 28,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "b67b13db4ba32716e6bd07fbc66773551af692ef",
+        "FileName": "datasource.yml",
+        "Path": "core/monitoring/user-events/compose/grafana/provisioning/datasources/datasource.yml",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 67,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "453ab57bc340ea549ba749daed69fdf5987232f8",
+        "FileName": "prometheus.yml",
+        "Path": "core/monitoring/user-events/compose/prometheus/prometheus.yml",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 30,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "9cfcf23c7f3b8256fe8cfa27da71dbea1630ff16",
+        "FileName": "demo_landing.png",
+        "Path": "core/monitoring/user-events/images/demo_landing.png",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "9da8864fee701d13e2b4df729c1d4d373996574f",
+        "FileName": "init.sh",
+        "Path": "core/monitoring/user-events/init.sh",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 25,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "8c8cd3e6ada19ef788e3e734e41594b8f5712956",
+        "FileName": "application.conf",
+        "Path": "core/monitoring/user-events/src/main/resources/application.conf",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 52,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "6f7d1c2d6de193d174de8e6648570a9769f26416",
+        "FileName": "reference.conf",
+        "Path": "core/monitoring/user-events/src/main/resources/reference.conf",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 27,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "983f5ef6d0fa8c483d49a61de124f8eaadf112b0",
+        "FileName": "whisk-logback.xml",
+        "Path": "core/monitoring/user-events/src/main/resources/whisk-logback.xml",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 25,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "7b8c594454b3cdbff805e91afd4921b90de065af",
+        "FileName": "EventConsumer.scala",
+        "Path": "core/monitoring/user-events/src/main/scala/org/apache/openwhisk/core/monitoring/metrics/EventConsumer.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 145,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "d0c0c675bdbfe3156f6e523a363c9018d94d75c8",
+        "FileName": "KamonRecorder.scala",
+        "Path": "core/monitoring/user-events/src/main/scala/org/apache/openwhisk/core/monitoring/metrics/KamonRecorder.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 111,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "9c1b932d96991c82301e2422299a228a31441e74",
+        "FileName": "Main.scala",
+        "Path": "core/monitoring/user-events/src/main/scala/org/apache/openwhisk/core/monitoring/metrics/Main.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 45,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "d82b49b70f6d8d1e19d1a2fb468e560bb91b9297",
+        "FileName": "MetricNames.scala",
+        "Path": "core/monitoring/user-events/src/main/scala/org/apache/openwhisk/core/monitoring/metrics/MetricNames.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 37,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "8e963e5f0f2fe21a6f22bcb41109ae90ab949ae6",
+        "FileName": "OpenWhiskEvents.scala",
+        "Path": "core/monitoring/user-events/src/main/scala/org/apache/openwhisk/core/monitoring/metrics/OpenWhiskEvents.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 65,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "b4b9a2bb0b15e7818f4e900515d16fb429510b7f",
+        "FileName": "PrometheusEventsApi.scala",
+        "Path": "core/monitoring/user-events/src/main/scala/org/apache/openwhisk/core/monitoring/metrics/PrometheusEventsApi.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 49,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "42be2e4b5bffb8b1e5eef651e87d6f1022c57c64",
+        "FileName": "PrometheusRecorder.scala",
+        "Path": "core/monitoring/user-events/src/main/scala/org/apache/openwhisk/core/monitoring/metrics/PrometheusRecorder.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 250,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "a2cd5f749ef8f7ad45b623ee91f4500c7b05f3fb",
+        "FileName": "ApiTests.scala",
+        "Path": "core/monitoring/user-events/src/test/scala/org/apache/openwhisk/core/monitoring/metrics/ApiTests.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 64,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "71b8d2eb58f7926da4aa8d02b70dea3c617ce71f",
+        "FileName": "EventsTestHelper.scala",
+        "Path": "core/monitoring/user-events/src/test/scala/org/apache/openwhisk/core/monitoring/metrics/EventsTestHelper.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 45,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "35491596789dcf3861ad14499c2e35fc5a690c6a",
+        "FileName": "KafkaSpecBase.scala",
+        "Path": "core/monitoring/user-events/src/test/scala/org/apache/openwhisk/core/monitoring/metrics/KafkaSpecBase.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 56,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "e25d9389580f66bd2d7c4d1b212b8fbc525d78e8",
+        "FileName": "KamonRecorderTests.scala",
+        "Path": "core/monitoring/user-events/src/test/scala/org/apache/openwhisk/core/monitoring/metrics/KamonRecorderTests.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 157,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "0354c42d999a977a658f69657641dbd730d8aa6a",
+        "FileName": "OpenWhiskEventsTests.scala",
+        "Path": "core/monitoring/user-events/src/test/scala/org/apache/openwhisk/core/monitoring/metrics/OpenWhiskEventsTests.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 84,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "a2c9732993caac38e599b9a07b0716c398ac24c0",
+        "FileName": "PrometheusRecorderTests.scala",
+        "Path": "core/monitoring/user-events/src/test/scala/org/apache/openwhisk/core/monitoring/metrics/PrometheusRecorderTests.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 122,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "19b6b94f2f4c2a70f0d73daf4adbf1bcb8160cd7",
+        "FileName": "metrics.md",
+        "Path": "docs/metrics.md",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "fc9b0b42a33d6cef6cd0ea1e6cc6d5fb7e0fbd34",
+        "FileName": "settings.gradle",
+        "Path": "settings.gradle",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "5def20fc9bf59983145bd238ad55906435c1d51d",
+        "FileName": "build.gradle",
+        "Path": "tests/build.gradle",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "fa3fa88e3b39864caaaeca7833142b82a93f672b",
+        "FileName": "UserEventTests.scala",
+        "Path": "tests/src/test/scala/org/apache/openwhisk/common/UserEventTests.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "031304be40ed694953d426330ab0fa2334e1f4f2",
+        "FileName": "EventMessageTests.scala",
+        "Path": "tests/src/test/scala/org/apache/openwhisk/core/connector/test/EventMessageTests.scala",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 6,
+        "Deletions": 2,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "3072fec09a590674be33c267b3bbffd6454849f5",
+        "FileName": "dockerhub.groovy",
+        "Path": "tools/jenkins/apache/dockerhub.groovy",
+        "DateUpdated": "2019-09-25T04:31:25Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "3e89aa51f79598a5156910b4752f9ec82b13a7c0"
+        ]
+      },
+      {
+        "Sha": "cfa7845275bb10bbc9a5aefe4619346deb0e014b",
+        "FileName": "application.conf",
+        "Path": "common/scala/src/main/resources/application.conf",
+        "DateUpdated": "2019-09-25T04:26:07Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "5de865c271ab6e82deacdf4d8dcd2f5025c02d97"
+        ]
+      },
+      {
+        "Sha": "b6fa765b27c0116d6b63f6c2724968276fa92b0f",
+        "FileName": "WhiskConfig.scala",
+        "Path": "common/scala/src/main/scala/org/apache/openwhisk/core/WhiskConfig.scala",
+        "DateUpdated": "2019-09-25T04:26:07Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "5de865c271ab6e82deacdf4d8dcd2f5025c02d97"
+        ]
+      },
+      {
+        "Sha": "2cef635bdd8e4fef2f45c54baa4b6aaf1176f027",
+        "FileName": "ApacheBlockingContainerClient.scala",
+        "Path": "common/scala/src/main/scala/org/apache/openwhisk/core/containerpool/ApacheBlockingContainerClient.scala",
+        "DateUpdated": "2019-09-25T04:26:07Z",
+        "Additions": 11,
+        "Deletions": 1,
+        "Commits": [
+          "5de865c271ab6e82deacdf4d8dcd2f5025c02d97"
+        ]
+      },
+      {
+        "Sha": "4d3463b75b3a91871ad1c3b520b150960ce7a42a",
+        "FileName": "standalone.conf",
+        "Path": "core/standalone/src/main/resources/standalone.conf",
+        "DateUpdated": "2019-09-25T04:26:07Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "5de865c271ab6e82deacdf4d8dcd2f5025c02d97"
+        ]
+      },
+      {
+        "Sha": "725033c2a7a97db848cbaae1f62af27ad4307ef1",
+        "FileName": "StandaloneServerTests.scala",
+        "Path": "tests/src/test/scala/org/apache/openwhisk/standalone/StandaloneServerTests.scala",
+        "DateUpdated": "2019-09-25T04:26:07Z",
+        "Additions": 0,
+        "Deletions": 20,
+        "Commits": [
+          "5de865c271ab6e82deacdf4d8dcd2f5025c02d97"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "3e89aa51f79598a5156910b4752f9ec82b13a7c0",
+        "Author": {
+          "name": "\"Cosmin Stanciu\"",
+          "location": "San Jose",
+          "company": "Adobe"
+        },
+        "Commitor": {
+          "name": "\"Chetan Mehrotra\"",
+          "company": "@adobe "
+        },
+        "Date": "2019-09-25T04:31:25Z",
+        "additions": 4139,
+        "deletions": 15,
+        "files": [
+          "c8fb64d20681647e8b06e2e44427f5307859a246",
+          "e44a8ff4d605e471d828d0b19bdd0ddb31d384a5",
+          "691acafe17876e0401a2f61bbb7014a282f54b20",
+          "a595535ca99d85ef93174d535257bd5b16ff121a",
+          "95b06ae882ba8d20a2f7badf7ba3ac8b75ca3568",
+          "5ed21271ca3bfb96193a47e674f113c66314761a",
+          "d6ec836189c2b6f33a0a787fda410864b3bffe04",
+          "77051f0ee2f78004dff1e85e0a23457cde8b33e2",
+          "e96d62f487bb8253297ea96cdefde8f6eed9b0e1",
+          "e00db1553b88c13e223e1ebb2be96e9bd2545677",
+          "a6ea486dfc8fd78cd6aee7fa299e9c5338d54d30",
+          "b67b13db4ba32716e6bd07fbc66773551af692ef",
+          "453ab57bc340ea549ba749daed69fdf5987232f8",
+          "9cfcf23c7f3b8256fe8cfa27da71dbea1630ff16",
+          "9da8864fee701d13e2b4df729c1d4d373996574f",
+          "8c8cd3e6ada19ef788e3e734e41594b8f5712956",
+          "6f7d1c2d6de193d174de8e6648570a9769f26416",
+          "983f5ef6d0fa8c483d49a61de124f8eaadf112b0",
+          "7b8c594454b3cdbff805e91afd4921b90de065af",
+          "d0c0c675bdbfe3156f6e523a363c9018d94d75c8",
+          "9c1b932d96991c82301e2422299a228a31441e74",
+          "d82b49b70f6d8d1e19d1a2fb468e560bb91b9297",
+          "8e963e5f0f2fe21a6f22bcb41109ae90ab949ae6",
+          "b4b9a2bb0b15e7818f4e900515d16fb429510b7f",
+          "42be2e4b5bffb8b1e5eef651e87d6f1022c57c64",
+          "a2cd5f749ef8f7ad45b623ee91f4500c7b05f3fb",
+          "71b8d2eb58f7926da4aa8d02b70dea3c617ce71f",
+          "35491596789dcf3861ad14499c2e35fc5a690c6a",
+          "e25d9389580f66bd2d7c4d1b212b8fbc525d78e8",
+          "0354c42d999a977a658f69657641dbd730d8aa6a",
+          "a2c9732993caac38e599b9a07b0716c398ac24c0",
+          "19b6b94f2f4c2a70f0d73daf4adbf1bcb8160cd7",
+          "fc9b0b42a33d6cef6cd0ea1e6cc6d5fb7e0fbd34",
+          "5def20fc9bf59983145bd238ad55906435c1d51d",
+          "fa3fa88e3b39864caaaeca7833142b82a93f672b",
+          "031304be40ed694953d426330ab0fa2334e1f4f2",
+          "3072fec09a590674be33c267b3bbffd6454849f5"
+        ]
+      },
+      {
+        "sha": "5de865c271ab6e82deacdf4d8dcd2f5025c02d97",
+        "Author": {
+          "name": "\"Chetan Mehrotra\"",
+          "company": "@adobe "
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T04:26:07Z",
+        "additions": 24,
+        "deletions": 21,
+        "files": [
+          "cfa7845275bb10bbc9a5aefe4619346deb0e014b",
+          "b6fa765b27c0116d6b63f6c2724968276fa92b0f",
+          "2cef635bdd8e4fef2f45c54baa4b6aaf1176f027",
+          "4d3463b75b3a91871ad1c3b520b150960ce7a42a",
+          "725033c2a7a97db848cbaae1f62af27ad4307ef1"
+        ]
+      }
+    ]
+  }
+]

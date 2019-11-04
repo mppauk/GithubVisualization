@@ -1,0 +1,140 @@
+[
+  {
+    "RepositoryName": "johnzon",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T13:03:07Z",
+    "EndDate": "2019-09-23T14:03:07",
+    "Branches": 8,
+    "Forks": 49,
+    "Files": [
+      {
+        "Sha": "5ea8c6537301d08f1f01a26f325e061a2e779679",
+        "FileName": "JsonArrayBuilderImpl.java",
+        "Path": "johnzon-core/src/main/java/org/apache/johnzon/core/JsonArrayBuilderImpl.java",
+        "DateUpdated": "2019-09-23T13:30:18Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "50a64d59a81384fe400570e36fc93ce7e2347746"
+        ]
+      },
+      {
+        "Sha": "fafcc74ee5ad0df775a9f8986ee7512b40b57874",
+        "FileName": "JsonObjectBuilderImpl.java",
+        "Path": "johnzon-core/src/main/java/org/apache/johnzon/core/JsonObjectBuilderImpl.java",
+        "DateUpdated": "2019-09-23T13:30:18Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "50a64d59a81384fe400570e36fc93ce7e2347746"
+        ]
+      },
+      {
+        "Sha": "dc13b53ee2ce0e91f7cf1bafa8d6ae26d06a46a2",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-23T13:30:18Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "50a64d59a81384fe400570e36fc93ce7e2347746"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "50a64d59a81384fe400570e36fc93ce7e2347746",
+        "Author": {
+          "name": "\"Markus KARG\"",
+          "location": "Pforzheim, Germany",
+          "company": "Head Crashing Informatics"
+        },
+        "Commitor": {
+          "name": "\"Romain Manni-Bucau\"",
+          "location": "France",
+          "company": "Apache \u003c3"
+        },
+        "Date": "2019-09-23T13:30:18Z",
+        "additions": 7,
+        "deletions": 7,
+        "files": [
+          "5ea8c6537301d08f1f01a26f325e061a2e779679",
+          "fafcc74ee5ad0df775a9f8986ee7512b40b57874",
+          "dc13b53ee2ce0e91f7cf1bafa8d6ae26d06a46a2"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "johnzon",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T17:03:17Z",
+    "EndDate": "2019-09-23T18:03:17",
+    "Branches": 8,
+    "Forks": 49,
+    "Files": [
+      {
+        "Sha": "eae0453f202db7ba82d6e75082b24623ea80b998",
+        "FileName": ".travis.yml",
+        "Path": ".travis.yml",
+        "DateUpdated": "2019-09-23T17:28:15Z",
+        "Additions": 7,
+        "Deletions": 4,
+        "Commits": [
+          "d99eb3f41276644d7f178ffb76f22eacf99fe93a"
+        ]
+      },
+      {
+        "Sha": "899b620651a92c9cb5a2c8933ee777d85fe67f94",
+        "FileName": "ExampleToModelMojoTest.java",
+        "Path": "johnzon-maven-plugin/src/test/java/org/apache/johnzon/maven/plugin/ExampleToModelMojoTest.java",
+        "DateUpdated": "2019-09-23T17:23:07Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "45408012b5ded708134d6e43ae587d0645b64f37"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d99eb3f41276644d7f178ffb76f22eacf99fe93a",
+        "Author": {
+          "name": "\"Romain Manni-Bucau\"",
+          "location": "France",
+          "company": "Apache \u003c3"
+        },
+        "Commitor": {
+          "name": "\"Romain Manni-Bucau\"",
+          "location": "France",
+          "company": "Apache \u003c3"
+        },
+        "Date": "2019-09-23T17:28:15Z",
+        "additions": 7,
+        "deletions": 4,
+        "files": [
+          "eae0453f202db7ba82d6e75082b24623ea80b998"
+        ]
+      },
+      {
+        "sha": "45408012b5ded708134d6e43ae587d0645b64f37",
+        "Author": {
+          "name": "\"Markus KARG\"",
+          "location": "Pforzheim, Germany",
+          "company": "Head Crashing Informatics"
+        },
+        "Commitor": {
+          "name": "\"Romain Manni-Bucau\"",
+          "location": "France",
+          "company": "Apache \u003c3"
+        },
+        "Date": "2019-09-23T17:23:07Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "899b620651a92c9cb5a2c8933ee777d85fe67f94"
+        ]
+      }
+    ]
+  }
+]

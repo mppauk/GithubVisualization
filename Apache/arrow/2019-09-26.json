@@ -1,0 +1,584 @@
+[
+  {
+    "RepositoryName": "arrow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T01:03:54Z",
+    "EndDate": "2019-09-26T02:03:54",
+    "Branches": 6,
+    "Forks": 1128,
+    "Files": [
+      {
+        "Sha": "f82f773e6ba7381f527915d08aa54dc2b7bde82b",
+        "FileName": "bitmap.rs",
+        "Path": "rust/arrow/src/bitmap.rs",
+        "DateUpdated": "2019-09-26T01:24:57Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "07ab5083d5a2925ced6f8168b60b8fa336f4eccc"
+        ]
+      },
+      {
+        "Sha": "3a4a7864cbf48f8198b0941813427db02192ba81",
+        "FileName": "array_reader.rs",
+        "Path": "rust/parquet/src/arrow/array_reader.rs",
+        "DateUpdated": "2019-09-26T01:24:57Z",
+        "Additions": 1044,
+        "Deletions": 0,
+        "Commits": [
+          "07ab5083d5a2925ced6f8168b60b8fa336f4eccc"
+        ]
+      },
+      {
+        "Sha": "6056271a75913b0452d9c97023b0798d1e55793f",
+        "FileName": "converter.rs",
+        "Path": "rust/parquet/src/arrow/converter.rs",
+        "DateUpdated": "2019-09-26T01:24:57Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "07ab5083d5a2925ced6f8168b60b8fa336f4eccc"
+        ]
+      },
+      {
+        "Sha": "a2c6031cfb8df0e5fe7f324c5c20b5da0abababe",
+        "FileName": "mod.rs",
+        "Path": "rust/parquet/src/arrow/mod.rs",
+        "DateUpdated": "2019-09-26T01:24:57Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "07ab5083d5a2925ced6f8168b60b8fa336f4eccc"
+        ]
+      },
+      {
+        "Sha": "de42ae7f953df375cdacfec36eeb359b716a1ebb",
+        "FileName": "record_reader.rs",
+        "Path": "rust/parquet/src/arrow/record_reader.rs",
+        "DateUpdated": "2019-09-26T01:24:57Z",
+        "Additions": 136,
+        "Deletions": 29,
+        "Commits": [
+          "07ab5083d5a2925ced6f8168b60b8fa336f4eccc"
+        ]
+      },
+      {
+        "Sha": "cc3c26f72cd715b10952fa706ab125eb44f611c7",
+        "FileName": "reader.rs",
+        "Path": "rust/parquet/src/column/reader.rs",
+        "DateUpdated": "2019-09-26T01:24:57Z",
+        "Additions": 1,
+        "Deletions": 96,
+        "Commits": [
+          "07ab5083d5a2925ced6f8168b60b8fa336f4eccc"
+        ]
+      },
+      {
+        "Sha": "d29024ed5c8800afc27b78fe1aa42930006c56ca",
+        "FileName": "compression.rs",
+        "Path": "rust/parquet/src/compression.rs",
+        "DateUpdated": "2019-09-26T01:24:57Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "07ab5083d5a2925ced6f8168b60b8fa336f4eccc"
+        ]
+      },
+      {
+        "Sha": "4d4d54969d7a489148e2ceac4055c5f06d4e978c",
+        "FileName": "types.rs",
+        "Path": "rust/parquet/src/schema/types.rs",
+        "DateUpdated": "2019-09-26T01:24:57Z",
+        "Additions": 22,
+        "Deletions": 0,
+        "Commits": [
+          "07ab5083d5a2925ced6f8168b60b8fa336f4eccc"
+        ]
+      },
+      {
+        "Sha": "79a970e0a820b78179213e35853f7ce0da255f7c",
+        "FileName": "mod.rs",
+        "Path": "rust/parquet/src/util/test_common/mod.rs",
+        "DateUpdated": "2019-09-26T01:24:57Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "07ab5083d5a2925ced6f8168b60b8fa336f4eccc"
+        ]
+      },
+      {
+        "Sha": "f8316d6f2c4172a58e15937be1aedc5ff7062706",
+        "FileName": "page_util.rs",
+        "Path": "rust/parquet/src/util/test_common/page_util.rs",
+        "DateUpdated": "2019-09-26T01:24:57Z",
+        "Additions": 138,
+        "Deletions": 3,
+        "Commits": [
+          "07ab5083d5a2925ced6f8168b60b8fa336f4eccc"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "07ab5083d5a2925ced6f8168b60b8fa336f4eccc",
+        "Author": {
+          "name": "\"Renjie Liu\"",
+          "location": "Shanghai, China",
+          "company": "Baidu Inc."
+        },
+        "Commitor": {
+          "name": "\"Andy Grove\"",
+          "location": "Broomfield, CO",
+          "company": "@RMS "
+        },
+        "Date": "2019-09-26T01:24:57Z",
+        "additions": 1350,
+        "deletions": 131,
+        "files": [
+          "f82f773e6ba7381f527915d08aa54dc2b7bde82b",
+          "3a4a7864cbf48f8198b0941813427db02192ba81",
+          "6056271a75913b0452d9c97023b0798d1e55793f",
+          "a2c6031cfb8df0e5fe7f324c5c20b5da0abababe",
+          "de42ae7f953df375cdacfec36eeb359b716a1ebb",
+          "cc3c26f72cd715b10952fa706ab125eb44f611c7",
+          "d29024ed5c8800afc27b78fe1aa42930006c56ca",
+          "4d4d54969d7a489148e2ceac4055c5f06d4e978c",
+          "79a970e0a820b78179213e35853f7ce0da255f7c",
+          "f8316d6f2c4172a58e15937be1aedc5ff7062706"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "arrow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T11:03:54Z",
+    "EndDate": "2019-09-26T12:03:54",
+    "Branches": 6,
+    "Forks": 1128,
+    "Files": [
+      {
+        "Sha": "6447d8b48cad59e3b4f0349ec92af209c4eba2ff",
+        "FileName": "parquet.rs",
+        "Path": "rust/datafusion/src/datasource/parquet.rs",
+        "DateUpdated": "2019-09-26T11:39:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "f39d2c2ab7ce4451907c5bd6fe5d651552b93999"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "f39d2c2ab7ce4451907c5bd6fe5d651552b93999",
+        "Author": {
+          "name": "\"Andy Grove\"",
+          "location": "Broomfield, CO",
+          "company": "@RMS "
+        },
+        "Commitor": {
+          "name": "\"Andy Grove\"",
+          "location": "Broomfield, CO",
+          "company": "@RMS "
+        },
+        "Date": "2019-09-26T11:39:29Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "6447d8b48cad59e3b4f0349ec92af209c4eba2ff"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "arrow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T12:04:20Z",
+    "EndDate": "2019-09-26T13:04:20",
+    "Branches": 6,
+    "Forks": 1128,
+    "Files": [
+      {
+        "Sha": "7058a3b1b433c016ce6155a1ecc80f5928784e2a",
+        "FileName": "README.md",
+        "Path": "rust/datafusion/README.md",
+        "DateUpdated": "2019-09-26T12:10:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "5b4a08f3d2cf5a906577567f4f25c8041f3b752b"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "5b4a08f3d2cf5a906577567f4f25c8041f3b752b",
+        "Author": {
+          "name": "\"�?dám Lippai\"",
+          "location": "Budapest (Hungary), Dunajská Streda (Slovakia)",
+          "company": "WorldQuant"
+        },
+        "Commitor": {
+          "name": "\"Andy Grove\"",
+          "location": "Broomfield, CO",
+          "company": "@RMS "
+        },
+        "Date": "2019-09-26T12:10:00Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "7058a3b1b433c016ce6155a1ecc80f5928784e2a"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "arrow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T13:04:24Z",
+    "EndDate": "2019-09-26T14:04:24",
+    "Branches": 6,
+    "Forks": 1128,
+    "Files": [
+      {
+        "Sha": "561499ab9e8e01d8d3280e7b4aaee81fef246d8a",
+        "FileName": "BigIntConsumer.java",
+        "Path": "java/adapter/jdbc/src/main/java/org/apache/arrow/adapter/jdbc/consumer/BigIntConsumer.java",
+        "DateUpdated": "2019-09-26T13:36:14Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "2dc020c15530eb866cf9b9556c6d22b00f67dac4"
+        ]
+      },
+      {
+        "Sha": "20d181f8a02716d63197ca84bb0628897b2f6e2f",
+        "FileName": "BitConsumer.java",
+        "Path": "java/adapter/jdbc/src/main/java/org/apache/arrow/adapter/jdbc/consumer/BitConsumer.java",
+        "DateUpdated": "2019-09-26T13:36:14Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "2dc020c15530eb866cf9b9556c6d22b00f67dac4"
+        ]
+      },
+      {
+        "Sha": "856dd8da2e7637ffab96865bb2d973fbd1d0441c",
+        "FileName": "DateConsumer.java",
+        "Path": "java/adapter/jdbc/src/main/java/org/apache/arrow/adapter/jdbc/consumer/DateConsumer.java",
+        "DateUpdated": "2019-09-26T13:36:14Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "2dc020c15530eb866cf9b9556c6d22b00f67dac4"
+        ]
+      },
+      {
+        "Sha": "b93560c0a6dec7047c12c588f132c2e9a5b00890",
+        "FileName": "DecimalConsumer.java",
+        "Path": "java/adapter/jdbc/src/main/java/org/apache/arrow/adapter/jdbc/consumer/DecimalConsumer.java",
+        "DateUpdated": "2019-09-26T13:36:14Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "2dc020c15530eb866cf9b9556c6d22b00f67dac4"
+        ]
+      },
+      {
+        "Sha": "80118a2d4c0a27205b2bc49dab9e372e11fbf770",
+        "FileName": "DoubleConsumer.java",
+        "Path": "java/adapter/jdbc/src/main/java/org/apache/arrow/adapter/jdbc/consumer/DoubleConsumer.java",
+        "DateUpdated": "2019-09-26T13:36:14Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "2dc020c15530eb866cf9b9556c6d22b00f67dac4"
+        ]
+      },
+      {
+        "Sha": "0625c6464dd970839b231498bb09cb06dc554411",
+        "FileName": "FloatConsumer.java",
+        "Path": "java/adapter/jdbc/src/main/java/org/apache/arrow/adapter/jdbc/consumer/FloatConsumer.java",
+        "DateUpdated": "2019-09-26T13:36:14Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "2dc020c15530eb866cf9b9556c6d22b00f67dac4"
+        ]
+      },
+      {
+        "Sha": "42bddc3c6aa3eb35268a56ec2a5bfa4901e7e0d7",
+        "FileName": "IntConsumer.java",
+        "Path": "java/adapter/jdbc/src/main/java/org/apache/arrow/adapter/jdbc/consumer/IntConsumer.java",
+        "DateUpdated": "2019-09-26T13:36:14Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "2dc020c15530eb866cf9b9556c6d22b00f67dac4"
+        ]
+      },
+      {
+        "Sha": "8a27a4d682eb3d4206986cb1490e42431b77cba8",
+        "FileName": "SmallIntConsumer.java",
+        "Path": "java/adapter/jdbc/src/main/java/org/apache/arrow/adapter/jdbc/consumer/SmallIntConsumer.java",
+        "DateUpdated": "2019-09-26T13:36:14Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "2dc020c15530eb866cf9b9556c6d22b00f67dac4"
+        ]
+      },
+      {
+        "Sha": "be9caaacc7b02827007e14d86057531673607039",
+        "FileName": "TimeConsumer.java",
+        "Path": "java/adapter/jdbc/src/main/java/org/apache/arrow/adapter/jdbc/consumer/TimeConsumer.java",
+        "DateUpdated": "2019-09-26T13:36:14Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "2dc020c15530eb866cf9b9556c6d22b00f67dac4"
+        ]
+      },
+      {
+        "Sha": "94b84c1e48132ccb6a70b44e2ab5f9c25ec68f40",
+        "FileName": "TimestampConsumer.java",
+        "Path": "java/adapter/jdbc/src/main/java/org/apache/arrow/adapter/jdbc/consumer/TimestampConsumer.java",
+        "DateUpdated": "2019-09-26T13:36:14Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "2dc020c15530eb866cf9b9556c6d22b00f67dac4"
+        ]
+      },
+      {
+        "Sha": "8089d5e2657f3ef1dd02870489f726c90a52c1f4",
+        "FileName": "TinyIntConsumer.java",
+        "Path": "java/adapter/jdbc/src/main/java/org/apache/arrow/adapter/jdbc/consumer/TinyIntConsumer.java",
+        "DateUpdated": "2019-09-26T13:36:14Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "2dc020c15530eb866cf9b9556c6d22b00f67dac4"
+        ]
+      },
+      {
+        "Sha": "8387700751cff38d6de46d1da6d3bea1f866ec3a",
+        "FileName": "VarCharConsumer.java",
+        "Path": "java/adapter/jdbc/src/main/java/org/apache/arrow/adapter/jdbc/consumer/VarCharConsumer.java",
+        "DateUpdated": "2019-09-26T13:36:14Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "2dc020c15530eb866cf9b9556c6d22b00f67dac4"
+        ]
+      },
+      {
+        "Sha": "01ef6893c535a426b990d6cf4f54b0f4e076e51e",
+        "FileName": "azure.linux.arm64.yml",
+        "Path": "dev/tasks/linux-packages/azure.linux.arm64.yml",
+        "DateUpdated": "2019-09-26T13:09:37Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "a75a602dec9ede7fd2a7bcc0efa02fce8bd0519c"
+        ]
+      },
+      {
+        "Sha": "6253bf40a1b97672fff40d0aeeb3084ed5838220",
+        "FileName": "azure.linux.yml",
+        "Path": "dev/tasks/linux-packages/azure.linux.yml",
+        "DateUpdated": "2019-09-26T13:09:37Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "a75a602dec9ede7fd2a7bcc0efa02fce8bd0519c"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "2dc020c15530eb866cf9b9556c6d22b00f67dac4",
+        "Author": {
+          "name": "null",
+          "location": "Beijing, China"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-26T13:36:14Z",
+        "additions": 24,
+        "deletions": 12,
+        "files": [
+          "561499ab9e8e01d8d3280e7b4aaee81fef246d8a",
+          "20d181f8a02716d63197ca84bb0628897b2f6e2f",
+          "856dd8da2e7637ffab96865bb2d973fbd1d0441c",
+          "b93560c0a6dec7047c12c588f132c2e9a5b00890",
+          "80118a2d4c0a27205b2bc49dab9e372e11fbf770",
+          "0625c6464dd970839b231498bb09cb06dc554411",
+          "42bddc3c6aa3eb35268a56ec2a5bfa4901e7e0d7",
+          "8a27a4d682eb3d4206986cb1490e42431b77cba8",
+          "be9caaacc7b02827007e14d86057531673607039",
+          "94b84c1e48132ccb6a70b44e2ab5f9c25ec68f40",
+          "8089d5e2657f3ef1dd02870489f726c90a52c1f4",
+          "8387700751cff38d6de46d1da6d3bea1f866ec3a"
+        ]
+      },
+      {
+        "sha": "a75a602dec9ede7fd2a7bcc0efa02fce8bd0519c",
+        "Author": {
+          "name": "\"Sutou Kouhei\"",
+          "location": "Tokyo, Japan",
+          "company": "@clear-code"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-26T13:09:37Z",
+        "additions": 4,
+        "deletions": 0,
+        "files": [
+          "01ef6893c535a426b990d6cf4f54b0f4e076e51e",
+          "6253bf40a1b97672fff40d0aeeb3084ed5838220"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "arrow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T14:04:54Z",
+    "EndDate": "2019-09-26T15:04:54",
+    "Branches": 6,
+    "Forks": 1128,
+    "Files": [
+      {
+        "Sha": "91ff44369982a118a0fd29c2a53139d056d3329e",
+        "FileName": "CMakeLists.txt",
+        "Path": "cpp/src/arrow/CMakeLists.txt",
+        "DateUpdated": "2019-09-26T14:53:40Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "dec0cfb0e9fd2ed66b8c58081be0ae659cf4552a"
+        ]
+      },
+      {
+        "Sha": "efb78055a9aa3fdb3cf8a3078e550258800970c2",
+        "FileName": "CMakeLists.txt",
+        "Path": "cpp/src/arrow/filesystem/CMakeLists.txt",
+        "DateUpdated": "2019-09-26T14:53:40Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "dec0cfb0e9fd2ed66b8c58081be0ae659cf4552a"
+        ]
+      },
+      {
+        "Sha": "aa9677e45f261e1d621dc2142c5b1faa0ada594a",
+        "FileName": "filesystem.cc",
+        "Path": "cpp/src/arrow/filesystem/filesystem.cc",
+        "DateUpdated": "2019-09-26T14:53:40Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "dec0cfb0e9fd2ed66b8c58081be0ae659cf4552a"
+        ]
+      },
+      {
+        "Sha": "bc17346894eb93eef5674d69303b4d6b26151b4e",
+        "FileName": "filesystem.h",
+        "Path": "cpp/src/arrow/filesystem/filesystem.h",
+        "DateUpdated": "2019-09-26T14:53:40Z",
+        "Additions": 6,
+        "Deletions": 0,
+        "Commits": [
+          "dec0cfb0e9fd2ed66b8c58081be0ae659cf4552a"
+        ]
+      },
+      {
+        "Sha": "682d3ba10215c47282b3e9b41f7bc2c81c40a141",
+        "FileName": "path_tree.cc",
+        "Path": "cpp/src/arrow/filesystem/path_tree.cc",
+        "DateUpdated": "2019-09-26T14:53:40Z",
+        "Additions": 137,
+        "Deletions": 0,
+        "Commits": [
+          "dec0cfb0e9fd2ed66b8c58081be0ae659cf4552a"
+        ]
+      },
+      {
+        "Sha": "50ec1f9470450e31aba3a6a9bcfa28d242ad0776",
+        "FileName": "path_tree.h",
+        "Path": "cpp/src/arrow/filesystem/path_tree.h",
+        "DateUpdated": "2019-09-26T14:53:40Z",
+        "Additions": 110,
+        "Deletions": 0,
+        "Commits": [
+          "dec0cfb0e9fd2ed66b8c58081be0ae659cf4552a"
+        ]
+      },
+      {
+        "Sha": "fb38ad45835ef8e95bec43a71e7e12d28f4d357c",
+        "FileName": "path_tree_test.cc",
+        "Path": "cpp/src/arrow/filesystem/path_tree_test.cc",
+        "DateUpdated": "2019-09-26T14:53:40Z",
+        "Additions": 179,
+        "Deletions": 0,
+        "Commits": [
+          "dec0cfb0e9fd2ed66b8c58081be0ae659cf4552a"
+        ]
+      },
+      {
+        "Sha": "6786e3973a4311e6b3b1c21508995826ada36627",
+        "FileName": "test_util.cc",
+        "Path": "cpp/src/arrow/filesystem/test_util.cc",
+        "DateUpdated": "2019-09-26T14:53:40Z",
+        "Additions": 0,
+        "Deletions": 14,
+        "Commits": [
+          "dec0cfb0e9fd2ed66b8c58081be0ae659cf4552a"
+        ]
+      },
+      {
+        "Sha": "b7edc357243a4d8ff9ec97b202fd1cf126fbc3f1",
+        "FileName": "test_util.h",
+        "Path": "cpp/src/arrow/filesystem/test_util.h",
+        "DateUpdated": "2019-09-26T14:53:40Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "dec0cfb0e9fd2ed66b8c58081be0ae659cf4552a"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "dec0cfb0e9fd2ed66b8c58081be0ae659cf4552a",
+        "Author": {
+          "name": "\"François Saint-Jacques\"",
+          "location": "Montréal, Québec",
+          "company": "@ursa-labs / @rstudio"
+        },
+        "Commitor": {
+          "name": "\"Benjamin Kietzman\"",
+          "company": "Ursa Labs / @rstudio"
+        },
+        "Date": "2019-09-26T14:53:40Z",
+        "additions": 452,
+        "deletions": 14,
+        "files": [
+          "91ff44369982a118a0fd29c2a53139d056d3329e",
+          "efb78055a9aa3fdb3cf8a3078e550258800970c2",
+          "aa9677e45f261e1d621dc2142c5b1faa0ada594a",
+          "bc17346894eb93eef5674d69303b4d6b26151b4e",
+          "682d3ba10215c47282b3e9b41f7bc2c81c40a141",
+          "50ec1f9470450e31aba3a6a9bcfa28d242ad0776",
+          "fb38ad45835ef8e95bec43a71e7e12d28f4d357c",
+          "6786e3973a4311e6b3b1c21508995826ada36627",
+          "b7edc357243a4d8ff9ec97b202fd1cf126fbc3f1"
+        ]
+      }
+    ]
+  }
+]

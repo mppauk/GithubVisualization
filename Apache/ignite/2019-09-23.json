@@ -1,0 +1,817 @@
+[
+  {
+    "RepositoryName": "ignite",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T07:02:47Z",
+    "EndDate": "2019-09-23T08:02:47",
+    "Branches": 357,
+    "Forks": 1334,
+    "Files": [
+      {
+        "Sha": "461934fd2276fe9406d19c17faef3ce59ad0ab07",
+        "FileName": "ClientTransaction.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/client/ClientTransaction.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 45,
+        "Deletions": 0,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "c6db25b35775d4909d94c32c0f941e17b6ba007a",
+        "FileName": "ClientTransactions.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/client/ClientTransactions.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 79,
+        "Deletions": 0,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "5c48ead4816fdd44d9907e6d3f2a0c736b76d10e",
+        "FileName": "IgniteClient.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/client/IgniteClient.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "3949919ea7a412ab616c49365b53e1f87eee67b3",
+        "FileName": "ClientConfiguration.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/configuration/ClientConfiguration.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 23,
+        "Deletions": 0,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "a6cfcbdf156a229bbada5011ff9673eb2b04e662",
+        "FileName": "ClientConnectorConfiguration.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/configuration/ClientConnectorConfiguration.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 22,
+        "Deletions": 0,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "fd1d50f8008a9c90fe7ebaff5a278eda85bdbe36",
+        "FileName": "ClientTransactionConfiguration.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/configuration/ClientTransactionConfiguration.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 139,
+        "Deletions": 0,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "b4c3e2159efb57b9257c9f86d6e7947a3b6b4e4e",
+        "FileName": "ThinClientConfiguration.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/configuration/ThinClientConfiguration.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 74,
+        "Deletions": 0,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "c0017f313bdc044d7267eb3ec249b87d74703c52",
+        "FileName": "ClientOperation.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/client/thin/ClientOperation.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "eb254a1a5f01f76897744041d999bc2d0b176a51",
+        "FileName": "ProtocolVersion.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/client/thin/ProtocolVersion.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 6,
+        "Deletions": 0,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "e46bb16b95ae929b821ee7c273b85102bd8cd212",
+        "FileName": "TcpClientCache.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/client/thin/TcpClientCache.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 31,
+        "Deletions": 3,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "b0534502893453d380e0f713b927f795d0a98e59",
+        "FileName": "TcpClientChannel.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/client/thin/TcpClientChannel.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 141,
+        "Deletions": 103,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "341dad1aa552b028f3816af01650acd28616a830",
+        "FileName": "TcpClientTransactions.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/client/thin/TcpClientTransactions.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 237,
+        "Deletions": 0,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "8a6474712987a0930130d0ebaad87550be266724",
+        "FileName": "TcpIgniteClient.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/client/thin/TcpIgniteClient.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 18,
+        "Deletions": 5,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "ad1dc6ea17669e986a487b84434223b0a83192ca",
+        "FileName": "ClientListenerNioListener.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/odbc/ClientListenerNioListener.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 8,
+        "Deletions": 1,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "d4aac92bebc03c8b8c77fccdaff69119b96eac92",
+        "FileName": "ClientConnectionContext.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/platform/client/ClientConnectionContext.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 88,
+        "Deletions": 7,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "e0a877098641397110f1ce2f41a276388b1b42c0",
+        "FileName": "ClientMessageParser.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/platform/client/ClientMessageParser.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "113e18449cb06284cf5b44627360d78f4f734d9f",
+        "FileName": "ClientRequestHandler.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/platform/client/ClientRequestHandler.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 38,
+        "Deletions": 1,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "8c421cf0eef221d7bfc10dcb5880079f1cc7fc07",
+        "FileName": "ClientStatus.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/platform/client/ClientStatus.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 6,
+        "Deletions": 0,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "d2026933ae6eb3762ff765b741b966f6cf3b409d",
+        "FileName": "ClientCacheClearRequest.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/platform/client/cache/ClientCacheClearRequest.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "138f28ba7b3f434b720ca282c125220aca988402",
+        "FileName": "ClientCacheDataRequest.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/platform/client/cache/ClientCacheDataRequest.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 51,
+        "Deletions": 0,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "85dfbba45ed9f726eb177f16657bf42cc99ee7d1",
+        "FileName": "ClientCacheGetSizeRequest.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/platform/client/cache/ClientCacheGetSizeRequest.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "f6517393cbd9b1fb0c96cb695107330f0c381f26",
+        "FileName": "ClientCacheKeyRequest.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/platform/client/cache/ClientCacheKeyRequest.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "4e0d103fdda44c27540b3b6f066468b96c2f8657",
+        "FileName": "ClientCacheKeysRequest.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/platform/client/cache/ClientCacheKeysRequest.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "b7d8210456ac4a3fffe2e5021cf44ae2a89ff944",
+        "FileName": "ClientCachePutAllRequest.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/platform/client/cache/ClientCachePutAllRequest.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "ab1b8be8be02ddd98e885797ea4d5abf683abd1b",
+        "FileName": "ClientCacheRemoveAllRequest.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/platform/client/cache/ClientCacheRemoveAllRequest.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "6ecf615bd82b1bf75115c1be08edd3dc9fd29710",
+        "FileName": "ClientCacheRequest.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/platform/client/cache/ClientCacheRequest.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 17,
+        "Deletions": 5,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "b863560467f83b24ba4900a271fbf9e3e137249b",
+        "FileName": "ClientCacheScanQueryRequest.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/platform/client/cache/ClientCacheScanQueryRequest.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "4f18c08178db3b6763e0d3fb0c1a14712299fdf6",
+        "FileName": "ClientCacheSqlFieldsQueryRequest.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/platform/client/cache/ClientCacheSqlFieldsQueryRequest.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "5002d1d857b32787fe898a4108c097e19d14137f",
+        "FileName": "ClientCacheSqlQueryRequest.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/platform/client/cache/ClientCacheSqlQueryRequest.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "701ace83026df35d7b6d872aebc9edb216a74856",
+        "FileName": "ClientTxAwareRequest.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/platform/client/tx/ClientTxAwareRequest.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 33,
+        "Deletions": 0,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "2c430aa7b8f92dc4fdcf01e8a688a89e7702a3eb",
+        "FileName": "ClientTxContext.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/platform/client/tx/ClientTxContext.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 107,
+        "Deletions": 0,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "38bdeeb543b4050a8c4bd7878dc12d4f44212a70",
+        "FileName": "ClientTxEndRequest.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/platform/client/tx/ClientTxEndRequest.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 87,
+        "Deletions": 0,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "ef93627f589d540c9079191f7ad80d30a4f7ecf2",
+        "FileName": "ClientTxStartRequest.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/platform/client/tx/ClientTxStartRequest.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 106,
+        "Deletions": 0,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "62ed01b9a9ae2e68a864ae770bacea37cda24830",
+        "FileName": "PlatformConfigurationUtils.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/platform/utils/PlatformConfigurationUtils.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 22,
+        "Deletions": 14,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "ff2931ee9e5737119d606ecba1672ebc11795733",
+        "FileName": "FunctionalTest.java",
+        "Path": "modules/core/src/test/java/org/apache/ignite/client/FunctionalTest.java",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 403,
+        "Deletions": 0,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "7b70a1de811d0309964b0253e25323dbdb847dfd",
+        "FileName": "full-config.xml",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core.Tests/Config/full-config.xml",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "1d58b910141cac2b8064bd488e7261c683edee37",
+        "FileName": "IgniteConfigurationSerializerTest.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core.Tests/IgniteConfigurationSerializerTest.cs",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 5,
+        "Deletions": 1,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "18257249ff472e14880d29869fb8d7680d95148b",
+        "FileName": "Apache.Ignite.Core.csproj",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core/Apache.Ignite.Core.csproj",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "4ab5696ae7983b05cf1b2397b719fae90fafbc61",
+        "FileName": "ClientConnectorConfiguration.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core/Configuration/ClientConnectorConfiguration.cs",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 27,
+        "Deletions": 7,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "7c9fcca277337117f554c921013609bfb914a36f",
+        "FileName": "ThinClientConfiguration.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core/Configuration/ThinClientConfiguration.cs",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 46,
+        "Deletions": 0,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "16cff507b2cc6d5a7d74e315e05a14463b94d773",
+        "FileName": "IgniteConfiguration.cs",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core/IgniteConfiguration.cs",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      },
+      {
+        "Sha": "0d16fb30101319923a20abcd3ca158b0a7a8ab7c",
+        "FileName": "IgniteConfigurationSection.xsd",
+        "Path": "modules/platforms/dotnet/Apache.Ignite.Core/IgniteConfigurationSection.xsd",
+        "DateUpdated": "2019-09-23T07:55:11Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "c75d6eb053164ee0cb8d74f98533db3a11a5d82a"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c75d6eb053164ee0cb8d74f98533db3a11a5d82a",
+        "Author": {
+          "name": "\"Aleksey Plekhanov\""
+        },
+        "Commitor": {
+          "name": "\"Aleksey Plekhanov\""
+        },
+        "Date": "2019-09-23T07:55:11Z",
+        "additions": 1923,
+        "deletions": 167,
+        "files": [
+          "461934fd2276fe9406d19c17faef3ce59ad0ab07",
+          "c6db25b35775d4909d94c32c0f941e17b6ba007a",
+          "5c48ead4816fdd44d9907e6d3f2a0c736b76d10e",
+          "3949919ea7a412ab616c49365b53e1f87eee67b3",
+          "a6cfcbdf156a229bbada5011ff9673eb2b04e662",
+          "fd1d50f8008a9c90fe7ebaff5a278eda85bdbe36",
+          "b4c3e2159efb57b9257c9f86d6e7947a3b6b4e4e",
+          "c0017f313bdc044d7267eb3ec249b87d74703c52",
+          "eb254a1a5f01f76897744041d999bc2d0b176a51",
+          "e46bb16b95ae929b821ee7c273b85102bd8cd212",
+          "b0534502893453d380e0f713b927f795d0a98e59",
+          "341dad1aa552b028f3816af01650acd28616a830",
+          "8a6474712987a0930130d0ebaad87550be266724",
+          "ad1dc6ea17669e986a487b84434223b0a83192ca",
+          "d4aac92bebc03c8b8c77fccdaff69119b96eac92",
+          "e0a877098641397110f1ce2f41a276388b1b42c0",
+          "113e18449cb06284cf5b44627360d78f4f734d9f",
+          "8c421cf0eef221d7bfc10dcb5880079f1cc7fc07",
+          "d2026933ae6eb3762ff765b741b966f6cf3b409d",
+          "138f28ba7b3f434b720ca282c125220aca988402",
+          "85dfbba45ed9f726eb177f16657bf42cc99ee7d1",
+          "f6517393cbd9b1fb0c96cb695107330f0c381f26",
+          "4e0d103fdda44c27540b3b6f066468b96c2f8657",
+          "b7d8210456ac4a3fffe2e5021cf44ae2a89ff944",
+          "ab1b8be8be02ddd98e885797ea4d5abf683abd1b",
+          "6ecf615bd82b1bf75115c1be08edd3dc9fd29710",
+          "b863560467f83b24ba4900a271fbf9e3e137249b",
+          "4f18c08178db3b6763e0d3fb0c1a14712299fdf6",
+          "5002d1d857b32787fe898a4108c097e19d14137f",
+          "701ace83026df35d7b6d872aebc9edb216a74856",
+          "2c430aa7b8f92dc4fdcf01e8a688a89e7702a3eb",
+          "38bdeeb543b4050a8c4bd7878dc12d4f44212a70",
+          "ef93627f589d540c9079191f7ad80d30a4f7ecf2",
+          "62ed01b9a9ae2e68a864ae770bacea37cda24830",
+          "ff2931ee9e5737119d606ecba1672ebc11795733",
+          "7b70a1de811d0309964b0253e25323dbdb847dfd",
+          "1d58b910141cac2b8064bd488e7261c683edee37",
+          "18257249ff472e14880d29869fb8d7680d95148b",
+          "4ab5696ae7983b05cf1b2397b719fae90fafbc61",
+          "7c9fcca277337117f554c921013609bfb914a36f",
+          "16cff507b2cc6d5a7d74e315e05a14463b94d773",
+          "0d16fb30101319923a20abcd3ca158b0a7a8ab7c"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "ignite",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T13:03:17Z",
+    "EndDate": "2019-09-23T14:03:17",
+    "Branches": 357,
+    "Forks": 1334,
+    "Files": [
+      {
+        "Sha": "274c905a2255a3bcabef4df0c58e658faa7904d1",
+        "FileName": "GridCacheSetAbstractSelfTest.java",
+        "Path": "modules/core/src/test/java/org/apache/ignite/internal/processors/cache/datastructures/GridCacheSetAbstractSelfTest.java",
+        "DateUpdated": "2019-09-23T13:49:20Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "93992c94982984e1e540d53d7ded6082f9919a5d"
+        ]
+      },
+      {
+        "Sha": "f602a59537e11d735c8c8114642f9ad4bdd7251c",
+        "FileName": "GridAbstractTest.java",
+        "Path": "modules/core/src/test/java/org/apache/ignite/testframework/junits/GridAbstractTest.java",
+        "DateUpdated": "2019-09-23T13:16:07Z",
+        "Additions": 16,
+        "Deletions": 6,
+        "Commits": [
+          "7b4cc47693ff5e706892a44dbd8c3afdbff8c482"
+        ]
+      },
+      {
+        "Sha": "b6d149349a3b0df1c9118699b5ee0dffafcd41ea",
+        "FileName": "ZookeeperClient.java",
+        "Path": "modules/zookeeper/src/main/java/org/apache/ignite/spi/discovery/zk/internal/ZookeeperClient.java",
+        "DateUpdated": "2019-09-23T13:16:07Z",
+        "Additions": 6,
+        "Deletions": 1,
+        "Commits": [
+          "7b4cc47693ff5e706892a44dbd8c3afdbff8c482"
+        ]
+      },
+      {
+        "Sha": "6544111bf3d1fcb74271f0be9700313cb92cc7b8",
+        "FileName": "ZookeeperClientFailedException.java",
+        "Path": "modules/zookeeper/src/main/java/org/apache/ignite/spi/discovery/zk/internal/ZookeeperClientFailedException.java",
+        "DateUpdated": "2019-09-23T13:16:07Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "7b4cc47693ff5e706892a44dbd8c3afdbff8c482"
+        ]
+      },
+      {
+        "Sha": "ffa6f49028373c38cfb0d63f22bd2e9a94e29653",
+        "FileName": "ZookeeperDiscoveryImpl.java",
+        "Path": "modules/zookeeper/src/main/java/org/apache/ignite/spi/discovery/zk/internal/ZookeeperDiscoveryImpl.java",
+        "DateUpdated": "2019-09-23T13:16:07Z",
+        "Additions": 8,
+        "Deletions": 1,
+        "Commits": [
+          "7b4cc47693ff5e706892a44dbd8c3afdbff8c482"
+        ]
+      },
+      {
+        "Sha": "517b8b7947c28ac673df859b7c1570d1839e9b1d",
+        "FileName": "ZookeeperIpFinderTest.java",
+        "Path": "modules/zookeeper/src/test/java/org/apache/ignite/spi/discovery/tcp/ipfinder/zk/ZookeeperIpFinderTest.java",
+        "DateUpdated": "2019-09-23T13:16:07Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7b4cc47693ff5e706892a44dbd8c3afdbff8c482"
+        ]
+      },
+      {
+        "Sha": "e0a416e8e9b96dd7a8e3549e9b9c061bee4bb027",
+        "FileName": "FixedTestingQuorumPeerMain.java",
+        "Path": "modules/zookeeper/src/test/java/org/apache/ignite/spi/discovery/tcp/ipfinder/zk/curator/FixedTestingQuorumPeerMain.java",
+        "DateUpdated": "2019-09-23T13:16:07Z",
+        "Additions": 0,
+        "Deletions": 87,
+        "Commits": [
+          "7b4cc47693ff5e706892a44dbd8c3afdbff8c482"
+        ]
+      },
+      {
+        "Sha": "c6e8d7268cbaf05dadec90abe5a150e74d1405ef",
+        "FileName": "TestingCluster.java",
+        "Path": "modules/zookeeper/src/test/java/org/apache/ignite/spi/discovery/tcp/ipfinder/zk/curator/TestingCluster.java",
+        "DateUpdated": "2019-09-23T13:16:07Z",
+        "Additions": 0,
+        "Deletions": 237,
+        "Commits": [
+          "7b4cc47693ff5e706892a44dbd8c3afdbff8c482"
+        ]
+      },
+      {
+        "Sha": "fb11d087f1dc055e25e5769493eddd2183852a7b",
+        "FileName": "TestingZooKeeperServer.java",
+        "Path": "modules/zookeeper/src/test/java/org/apache/ignite/spi/discovery/tcp/ipfinder/zk/curator/TestingZooKeeperServer.java",
+        "DateUpdated": "2019-09-23T13:16:07Z",
+        "Additions": 0,
+        "Deletions": 172,
+        "Commits": [
+          "7b4cc47693ff5e706892a44dbd8c3afdbff8c482"
+        ]
+      },
+      {
+        "Sha": "541d6aaaf4fd4b7cbc8eb52c935972a0eac6718b",
+        "FileName": "ZookeeperDiscoverySpiTestConfigurator.java",
+        "Path": "modules/zookeeper/src/test/java/org/apache/ignite/spi/discovery/zk/ZookeeperDiscoverySpiTestConfigurator.java",
+        "DateUpdated": "2019-09-23T13:16:07Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7b4cc47693ff5e706892a44dbd8c3afdbff8c482"
+        ]
+      },
+      {
+        "Sha": "d51c369479153a30169db364ce7980b8cddb056a",
+        "FileName": "ZookeeperDiscoverySpiTestSuite1.java",
+        "Path": "modules/zookeeper/src/test/java/org/apache/ignite/spi/discovery/zk/ZookeeperDiscoverySpiTestSuite1.java",
+        "DateUpdated": "2019-09-23T13:16:07Z",
+        "Additions": 2,
+        "Deletions": 22,
+        "Commits": [
+          "7b4cc47693ff5e706892a44dbd8c3afdbff8c482"
+        ]
+      },
+      {
+        "Sha": "53a55283818dede8199241295ccf097868aec0cf",
+        "FileName": "ZookeeperDiscoverySpiTestUtil.java",
+        "Path": "modules/zookeeper/src/test/java/org/apache/ignite/spi/discovery/zk/ZookeeperDiscoverySpiTestUtil.java",
+        "DateUpdated": "2019-09-23T13:16:07Z",
+        "Additions": 15,
+        "Deletions": 2,
+        "Commits": [
+          "7b4cc47693ff5e706892a44dbd8c3afdbff8c482"
+        ]
+      },
+      {
+        "Sha": "463d6d4e574dd90055376943930d955cb3d94b17",
+        "FileName": "ZookeeperClientTest.java",
+        "Path": "modules/zookeeper/src/test/java/org/apache/ignite/spi/discovery/zk/internal/ZookeeperClientTest.java",
+        "DateUpdated": "2019-09-23T13:16:07Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7b4cc47693ff5e706892a44dbd8c3afdbff8c482"
+        ]
+      },
+      {
+        "Sha": "62eedcddbe2ab01bf1b331c76528999f7e4ba960",
+        "FileName": "ZookeeperDiscoverySegmentationAndConnectionRestoreTest.java",
+        "Path": "modules/zookeeper/src/test/java/org/apache/ignite/spi/discovery/zk/internal/ZookeeperDiscoverySegmentationAndConnectionRestoreTest.java",
+        "DateUpdated": "2019-09-23T13:16:07Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7b4cc47693ff5e706892a44dbd8c3afdbff8c482"
+        ]
+      },
+      {
+        "Sha": "08e51ddebaaef7bc962014ddd25e436d5d848ded",
+        "FileName": "ZookeeperDiscoverySpiSaslAuthAbstractTest.java",
+        "Path": "modules/zookeeper/src/test/java/org/apache/ignite/spi/discovery/zk/internal/ZookeeperDiscoverySpiSaslAuthAbstractTest.java",
+        "DateUpdated": "2019-09-23T13:16:07Z",
+        "Additions": 2,
+        "Deletions": 11,
+        "Commits": [
+          "7b4cc47693ff5e706892a44dbd8c3afdbff8c482"
+        ]
+      },
+      {
+        "Sha": "dddf6355e18b80c515f7a4ca3215cd2509991a6b",
+        "FileName": "ZookeeperDiscoverySpiSslTest.java",
+        "Path": "modules/zookeeper/src/test/java/org/apache/ignite/spi/discovery/zk/internal/ZookeeperDiscoverySpiSslTest.java",
+        "DateUpdated": "2019-09-23T13:16:07Z",
+        "Additions": 206,
+        "Deletions": 0,
+        "Commits": [
+          "7b4cc47693ff5e706892a44dbd8c3afdbff8c482"
+        ]
+      },
+      {
+        "Sha": "4b994c9459e57ab7fd69bddfc020a3ffd2d4347b",
+        "FileName": "ZookeeperDiscoverySpiSslTestBase.java",
+        "Path": "modules/zookeeper/src/test/java/org/apache/ignite/spi/discovery/zk/internal/ZookeeperDiscoverySpiSslTestBase.java",
+        "DateUpdated": "2019-09-23T13:16:07Z",
+        "Additions": 108,
+        "Deletions": 0,
+        "Commits": [
+          "7b4cc47693ff5e706892a44dbd8c3afdbff8c482"
+        ]
+      },
+      {
+        "Sha": "440124658785ebd4324e33d2cdc6ea5f469121b9",
+        "FileName": "ZookeeperDiscoverySpiTestBase.java",
+        "Path": "modules/zookeeper/src/test/java/org/apache/ignite/spi/discovery/zk/internal/ZookeeperDiscoverySpiTestBase.java",
+        "DateUpdated": "2019-09-23T13:16:07Z",
+        "Additions": 33,
+        "Deletions": 8,
+        "Commits": [
+          "7b4cc47693ff5e706892a44dbd8c3afdbff8c482"
+        ]
+      },
+      {
+        "Sha": "2b741a19260143ed26bc799052de9eb05e1630fd",
+        "FileName": "ZkTestClientCnxnSocketNIO.java",
+        "Path": "modules/zookeeper/src/test/java/org/apache/zookeeper/ZkTestClientCnxnSocketNIO.java",
+        "DateUpdated": "2019-09-23T13:16:07Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7b4cc47693ff5e706892a44dbd8c3afdbff8c482"
+        ]
+      },
+      {
+        "Sha": "f4e656fb3e33d1849e2bb2a00962cb2dc4b6061e",
+        "FileName": "pom.xml",
+        "Path": "parent/pom.xml",
+        "DateUpdated": "2019-09-23T13:16:07Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7b4cc47693ff5e706892a44dbd8c3afdbff8c482"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "93992c94982984e1e540d53d7ded6082f9919a5d",
+        "Author": {
+          "name": "\"Stepachev Maxim\"",
+          "location": "Saint-Petersburg",
+          "company": "Some software company"
+        },
+        "Commitor": {
+          "name": "\"Pavel Kovalenko\"",
+          "location": "Saint-Petersburg, Russia"
+        },
+        "Date": "2019-09-23T13:49:20Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "274c905a2255a3bcabef4df0c58e658faa7904d1"
+        ]
+      },
+      {
+        "sha": "7b4cc47693ff5e706892a44dbd8c3afdbff8c482",
+        "Author": {
+          "name": "\"Дмитрий Р�?бов\"",
+          "location": "Moscow"
+        },
+        "Commitor": {
+          "name": "\"Pavel Kovalenko\"",
+          "location": "Saint-Petersburg, Russia"
+        },
+        "Date": "2019-09-23T13:16:07Z",
+        "additions": 413,
+        "deletions": 555,
+        "files": [
+          "f602a59537e11d735c8c8114642f9ad4bdd7251c",
+          "b6d149349a3b0df1c9118699b5ee0dffafcd41ea",
+          "6544111bf3d1fcb74271f0be9700313cb92cc7b8",
+          "ffa6f49028373c38cfb0d63f22bd2e9a94e29653",
+          "517b8b7947c28ac673df859b7c1570d1839e9b1d",
+          "e0a416e8e9b96dd7a8e3549e9b9c061bee4bb027",
+          "c6e8d7268cbaf05dadec90abe5a150e74d1405ef",
+          "fb11d087f1dc055e25e5769493eddd2183852a7b",
+          "541d6aaaf4fd4b7cbc8eb52c935972a0eac6718b",
+          "d51c369479153a30169db364ce7980b8cddb056a",
+          "53a55283818dede8199241295ccf097868aec0cf",
+          "463d6d4e574dd90055376943930d955cb3d94b17",
+          "62eedcddbe2ab01bf1b331c76528999f7e4ba960",
+          "08e51ddebaaef7bc962014ddd25e436d5d848ded",
+          "dddf6355e18b80c515f7a4ca3215cd2509991a6b",
+          "4b994c9459e57ab7fd69bddfc020a3ffd2d4347b",
+          "440124658785ebd4324e33d2cdc6ea5f469121b9",
+          "2b741a19260143ed26bc799052de9eb05e1630fd",
+          "f4e656fb3e33d1849e2bb2a00962cb2dc4b6061e"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "RepositoryName": "tinkerpop",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T14:03:00Z",
+    "EndDate": "2019-09-23T15:03:00",
+    "Branches": 30,
+    "Forks": 495,
+    "Files": [
+      {
+        "Sha": "328c629e22e6b85f1d6a0635873fc2ca039a69c6",
+        "FileName": "CHANGELOG.asciidoc",
+        "Path": "CHANGELOG.asciidoc",
+        "DateUpdated": "2019-09-23T14:11:46Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "0da112f9eb94ee35b39e5d3d73f5507b83b0a5b0"
+        ]
+      },
+      {
+        "Sha": "8bee80275672151211fcc9304e09a50f8df48031",
+        "FileName": "gremlin-variants.asciidoc",
+        "Path": "docs/src/reference/gremlin-variants.asciidoc",
+        "DateUpdated": "2019-09-23T14:11:46Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "0da112f9eb94ee35b39e5d3d73f5507b83b0a5b0"
+        ]
+      },
+      {
+        "Sha": "c0f2df3807b58d4b5707a2e3b5b380c0e24226b3",
+        "FileName": "Lambda.java",
+        "Path": "gremlin-core/src/main/java/org/apache/tinkerpop/gremlin/util/function/Lambda.java",
+        "DateUpdated": "2019-09-23T14:11:46Z",
+        "Additions": 31,
+        "Deletions": 0,
+        "Commits": [
+          "0da112f9eb94ee35b39e5d3d73f5507b83b0a5b0"
+        ]
+      },
+      {
+        "Sha": "01bdbc65069f97147a8b57b75b44e41d0ca34155",
+        "FileName": "Lambda.cs",
+        "Path": "gremlin-dotnet/src/Gremlin.Net/Process/Traversal/Lambda.cs",
+        "DateUpdated": "2019-09-23T14:11:46Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0da112f9eb94ee35b39e5d3d73f5507b83b0a5b0"
+        ]
+      },
+      {
+        "Sha": "71a46511dfbfe2ef67b67d7ea92a921aec433564",
+        "FileName": "StringBasedLambda.cs",
+        "Path": "gremlin-dotnet/src/Gremlin.Net/Process/Traversal/StringBasedLambda.cs",
+        "DateUpdated": "2019-09-23T14:11:46Z",
+        "Additions": 20,
+        "Deletions": 1,
+        "Commits": [
+          "0da112f9eb94ee35b39e5d3d73f5507b83b0a5b0"
+        ]
+      },
+      {
+        "Sha": "3aaa9b7a2d98dfcd66ce1c776c2b7de7140586dc",
+        "FileName": "GraphTraversalSourceTests.cs",
+        "Path": "gremlin-dotnet/test/Gremlin.Net.IntegrationTest/Process/Traversal/DriverRemoteConnection/GraphTraversalSourceTests.cs",
+        "DateUpdated": "2019-09-23T14:11:46Z",
+        "Additions": 12,
+        "Deletions": 0,
+        "Commits": [
+          "0da112f9eb94ee35b39e5d3d73f5507b83b0a5b0"
+        ]
+      },
+      {
+        "Sha": "1c21d59f1f4885165dc1519303287ccc1744903a",
+        "FileName": "GroovyTranslator.java",
+        "Path": "gremlin-groovy/src/main/java/org/apache/tinkerpop/gremlin/groovy/jsr223/GroovyTranslator.java",
+        "DateUpdated": "2019-09-23T14:11:46Z",
+        "Additions": 32,
+        "Deletions": 5,
+        "Commits": [
+          "0da112f9eb94ee35b39e5d3d73f5507b83b0a5b0"
+        ]
+      },
+      {
+        "Sha": "523c19fec5778f1b7c6f6650e6f2d92c7c1a678f",
+        "FileName": "GroovyTranslatorTest.java",
+        "Path": "gremlin-groovy/src/test/java/org/apache/tinkerpop/gremlin/groovy/jsr223/GroovyTranslatorTest.java",
+        "DateUpdated": "2019-09-23T14:11:46Z",
+        "Additions": 27,
+        "Deletions": 0,
+        "Commits": [
+          "0da112f9eb94ee35b39e5d3d73f5507b83b0a5b0"
+        ]
+      },
+      {
+        "Sha": "f4b6c590543bbfd7e89771a7ef1a8b0ee763934d",
+        "FileName": "graphsonV2d0.py",
+        "Path": "gremlin-python/src/main/jython/gremlin_python/structure/io/graphsonV2d0.py",
+        "DateUpdated": "2019-09-23T14:11:46Z",
+        "Additions": 6,
+        "Deletions": 2,
+        "Commits": [
+          "0da112f9eb94ee35b39e5d3d73f5507b83b0a5b0"
+        ]
+      },
+      {
+        "Sha": "6ac04bd606ee8c44d92fa46aee554adf4cf976c1",
+        "FileName": "graphsonV3d0.py",
+        "Path": "gremlin-python/src/main/jython/gremlin_python/structure/io/graphsonV3d0.py",
+        "DateUpdated": "2019-09-23T14:11:46Z",
+        "Additions": 6,
+        "Deletions": 2,
+        "Commits": [
+          "0da112f9eb94ee35b39e5d3d73f5507b83b0a5b0"
+        ]
+      },
+      {
+        "Sha": "1ea1cdf36207d2a75b6e0859b1f9e28032d7a43e",
+        "FileName": "test_driver_remote_connection.py",
+        "Path": "gremlin-python/src/main/jython/tests/driver/test_driver_remote_connection.py",
+        "DateUpdated": "2019-09-23T14:11:46Z",
+        "Additions": 11,
+        "Deletions": 0,
+        "Commits": [
+          "0da112f9eb94ee35b39e5d3d73f5507b83b0a5b0"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "0da112f9eb94ee35b39e5d3d73f5507b83b0a5b0",
+        "Author": {
+          "name": "\"stephen mallette\""
+        },
+        "Commitor": {
+          "name": "\"stephen mallette\""
+        },
+        "Date": "2019-09-23T14:11:46Z",
+        "additions": 156,
+        "deletions": 12,
+        "files": [
+          "328c629e22e6b85f1d6a0635873fc2ca039a69c6",
+          "8bee80275672151211fcc9304e09a50f8df48031",
+          "c0f2df3807b58d4b5707a2e3b5b380c0e24226b3",
+          "01bdbc65069f97147a8b57b75b44e41d0ca34155",
+          "71a46511dfbfe2ef67b67d7ea92a921aec433564",
+          "3aaa9b7a2d98dfcd66ce1c776c2b7de7140586dc",
+          "1c21d59f1f4885165dc1519303287ccc1744903a",
+          "523c19fec5778f1b7c6f6650e6f2d92c7c1a678f",
+          "f4b6c590543bbfd7e89771a7ef1a8b0ee763934d",
+          "6ac04bd606ee8c44d92fa46aee554adf4cf976c1",
+          "1ea1cdf36207d2a75b6e0859b1f9e28032d7a43e"
+        ]
+      }
+    ]
+  }
+]

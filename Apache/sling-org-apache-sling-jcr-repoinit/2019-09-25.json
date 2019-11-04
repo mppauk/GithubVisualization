@@ -1,0 +1,44 @@
+[
+  {
+    "RepositoryName": "sling-org-apache-sling-jcr-repoinit",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T11:04:35Z",
+    "EndDate": "2019-09-25T12:04:35",
+    "Branches": 2,
+    "Forks": 2,
+    "Files": [
+      {
+        "Sha": "7120259f3b197d1b7cb5c6430f349ecb503101e2",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-25T11:10:32Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "770919d648ae395296a0c52e14f95974b6fcd639"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "770919d648ae395296a0c52e14f95974b6fcd639",
+        "Author": {
+          "name": "\"Robert Munteanu\"",
+          "location": "Switzerland",
+          "company": "Adobe Systems Inc - @adobe "
+        },
+        "Commitor": {
+          "name": "\"Robert Munteanu\"",
+          "location": "Switzerland",
+          "company": "Adobe Systems Inc - @adobe "
+        },
+        "Date": "2019-09-25T11:10:32Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "7120259f3b197d1b7cb5c6430f349ecb503101e2"
+        ]
+      }
+    ]
+  }
+]

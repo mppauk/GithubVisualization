@@ -1,0 +1,43 @@
+[
+  {
+    "RepositoryName": "rocketmq-client-cpp",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T07:04:44Z",
+    "EndDate": "2019-09-26T08:04:44",
+    "Branches": 3,
+    "Forks": 70,
+    "Files": [
+      {
+        "Sha": "557f529805b49c71e0369ec401fd915501150407",
+        "FileName": "DefaultMQProducer.cpp",
+        "Path": "src/producer/DefaultMQProducer.cpp",
+        "DateUpdated": "2019-09-26T07:53:39Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "0420f8920b887ff8f7e4e361314bded601a3aa73"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "0420f8920b887ff8f7e4e361314bded601a3aa73",
+        "Author": {
+          "name": "null",
+          "location": "Beijing Haidian Xitucheng Rd 10, China",
+          "company": "BUPT"
+        },
+        "Commitor": {
+          "name": "\"dinglei\"",
+          "location": "æ?­å·ž"
+        },
+        "Date": "2019-09-26T07:53:39Z",
+        "additions": 3,
+        "deletions": 2,
+        "files": [
+          "557f529805b49c71e0369ec401fd915501150407"
+        ]
+      }
+    ]
+  }
+]

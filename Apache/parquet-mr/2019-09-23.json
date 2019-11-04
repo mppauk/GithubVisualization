@@ -1,0 +1,40 @@
+[
+  {
+    "RepositoryName": "parquet-mr",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T10:02:26Z",
+    "EndDate": "2019-09-23T11:02:26",
+    "Branches": 36,
+    "Forks": 815,
+    "Files": [
+      {
+        "Sha": "282d8ffc1fbcbd19f83f675f68075963ea546a0d",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-23T10:45:49Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "56f164fedbd47b5b2da0f39c820a55f32f944cf3"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "56f164fedbd47b5b2da0f39c820a55f32f944cf3",
+        "Author": {
+          "name": "\"Ismaël Mejía\""
+        },
+        "Commitor": {
+          "name": "\"Gabor Szadovszky\""
+        },
+        "Date": "2019-09-23T10:45:49Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "282d8ffc1fbcbd19f83f675f68075963ea546a0d"
+        ]
+      }
+    ]
+  }
+]

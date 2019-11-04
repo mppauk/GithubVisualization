@@ -1,0 +1,210 @@
+[
+  {
+    "RepositoryName": "atlas",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T19:48:23Z",
+    "EndDate": "2019-09-24T20:48:23",
+    "Branches": 12,
+    "Forks": 233,
+    "Files": [
+      {
+        "Sha": "d4dba17f1c97a9de45823f9c858f65c07b37b5cc",
+        "FileName": "login.scss",
+        "Path": "dashboardv2/public/css/scss/login.scss",
+        "DateUpdated": "2019-09-24T20:00:23Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "5bffc7cfb4fe322b7ef9275906bc24cd61a2c759",
+          "5bffc7cfb4fe322b7ef9275906bc24cd61a2c759"
+        ]
+      },
+      {
+        "Sha": "a38080a5440870fdcd588796313e1841f0ce5a55",
+        "FileName": "theme.scss",
+        "Path": "dashboardv2/public/css/scss/theme.scss",
+        "DateUpdated": "2019-09-24T20:00:23Z",
+        "Additions": 15,
+        "Deletions": 20,
+        "Commits": [
+          "5bffc7cfb4fe322b7ef9275906bc24cd61a2c759"
+        ]
+      },
+      {
+        "Sha": "fcd54d4da0dd5e63c3a0811da208895a0ce91f34",
+        "FileName": "atlas-logo-beta-ui.png",
+        "Path": "dashboardv2/public/img/atlas-logo-beta-ui.png",
+        "DateUpdated": "2019-09-24T20:00:23Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "5bffc7cfb4fe322b7ef9275906bc24cd61a2c759",
+          "5bffc7cfb4fe322b7ef9275906bc24cd61a2c759"
+        ]
+      },
+      {
+        "Sha": "c99345b05f78eddc0b9c1dcc6a2f922a992d27f3",
+        "FileName": "atlas-logo.png",
+        "Path": "dashboardv2/public/img/atlas-logo.png",
+        "DateUpdated": "2019-09-24T20:00:23Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "5bffc7cfb4fe322b7ef9275906bc24cd61a2c759",
+          "5bffc7cfb4fe322b7ef9275906bc24cd61a2c759"
+        ]
+      },
+      {
+        "Sha": "3314cb039e70e6dcbc3bef622216804a5e29a8f1",
+        "FileName": "atlas_logo.svg",
+        "Path": "dashboardv2/public/img/atlas_logo.svg",
+        "DateUpdated": "2019-09-24T20:00:23Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "5bffc7cfb4fe322b7ef9275906bc24cd61a2c759",
+          "5bffc7cfb4fe322b7ef9275906bc24cd61a2c759"
+        ]
+      },
+      {
+        "Sha": "ce9e4b087c7d088680f69e2cce2ee1cf1c1813da",
+        "FileName": "atlas_logo_beta.svg",
+        "Path": "dashboardv2/public/img/atlas_logo_beta.svg",
+        "DateUpdated": "2019-09-24T20:00:23Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "5bffc7cfb4fe322b7ef9275906bc24cd61a2c759",
+          "5bffc7cfb4fe322b7ef9275906bc24cd61a2c759"
+        ]
+      },
+      {
+        "Sha": "62375dd0fcb3549620387fbd72ae6eac35035a60",
+        "FileName": "favicon.ico",
+        "Path": "dashboardv2/public/img/favicon.ico",
+        "DateUpdated": "2019-09-24T20:00:23Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "5bffc7cfb4fe322b7ef9275906bc24cd61a2c759",
+          "5bffc7cfb4fe322b7ef9275906bc24cd61a2c759"
+        ]
+      },
+      {
+        "Sha": "a6a999e530d8ffa8e70332b89a362cd284386948",
+        "FileName": "index.html.tpl",
+        "Path": "dashboardv2/public/index.html.tpl",
+        "DateUpdated": "2019-09-24T20:00:23Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "5bffc7cfb4fe322b7ef9275906bc24cd61a2c759"
+        ]
+      },
+      {
+        "Sha": "9e72c678a86d5680af163ebb292a290fe9c65386",
+        "FileName": "SideNavLayoutView_tmpl.html",
+        "Path": "dashboardv2/public/js/templates/site/SideNavLayoutView_tmpl.html",
+        "DateUpdated": "2019-09-24T20:00:23Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "5bffc7cfb4fe322b7ef9275906bc24cd61a2c759"
+        ]
+      },
+      {
+        "Sha": "f619dcd1a3bcd653c04116c481b9ba5155632af0",
+        "FileName": "theme.scss",
+        "Path": "dashboardv3/public/css/scss/theme.scss",
+        "DateUpdated": "2019-09-24T20:00:23Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "5bffc7cfb4fe322b7ef9275906bc24cd61a2c759"
+        ]
+      },
+      {
+        "Sha": "807384840edee40c00df73b755c5f4ddeb786f66",
+        "FileName": "atlas-logo-beta-side.png",
+        "Path": "dashboardv3/public/img/atlas-logo-beta-side.png",
+        "DateUpdated": "2019-09-24T20:00:23Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "5bffc7cfb4fe322b7ef9275906bc24cd61a2c759"
+        ]
+      },
+      {
+        "Sha": "2edbb659d50080b368ed09d74db27080cf4a34c2",
+        "FileName": "index.html.tpl",
+        "Path": "dashboardv3/public/index.html.tpl",
+        "DateUpdated": "2019-09-24T20:00:23Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "5bffc7cfb4fe322b7ef9275906bc24cd61a2c759"
+        ]
+      },
+      {
+        "Sha": "bb531da35b12002a6babf4ff7bf7f19db426f248",
+        "FileName": "Header.html",
+        "Path": "dashboardv3/public/js/templates/site/Header.html",
+        "DateUpdated": "2019-09-24T20:00:23Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "5bffc7cfb4fe322b7ef9275906bc24cd61a2c759"
+        ]
+      },
+      {
+        "Sha": "70ec06d580d89c601c061882a645d80b105ffe19",
+        "FileName": "login.jsp",
+        "Path": "webapp/src/main/webapp/login.jsp",
+        "DateUpdated": "2019-09-24T20:00:23Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "5bffc7cfb4fe322b7ef9275906bc24cd61a2c759"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "5bffc7cfb4fe322b7ef9275906bc24cd61a2c759",
+        "Author": {
+          "name": "\"Keval Bhatt\"",
+          "location": "india",
+          "company": "@FreestoneInfotech @apache"
+        },
+        "Commitor": {
+          "name": "\"Sarath Subramanian\""
+        },
+        "Date": "2019-09-24T20:00:23Z",
+        "additions": 100,
+        "deletions": 35,
+        "files": [
+          "d4dba17f1c97a9de45823f9c858f65c07b37b5cc",
+          "a38080a5440870fdcd588796313e1841f0ce5a55",
+          "fcd54d4da0dd5e63c3a0811da208895a0ce91f34",
+          "c99345b05f78eddc0b9c1dcc6a2f922a992d27f3",
+          "3314cb039e70e6dcbc3bef622216804a5e29a8f1",
+          "ce9e4b087c7d088680f69e2cce2ee1cf1c1813da",
+          "62375dd0fcb3549620387fbd72ae6eac35035a60",
+          "a6a999e530d8ffa8e70332b89a362cd284386948",
+          "9e72c678a86d5680af163ebb292a290fe9c65386",
+          "d4dba17f1c97a9de45823f9c858f65c07b37b5cc",
+          "f619dcd1a3bcd653c04116c481b9ba5155632af0",
+          "807384840edee40c00df73b755c5f4ddeb786f66",
+          "fcd54d4da0dd5e63c3a0811da208895a0ce91f34",
+          "c99345b05f78eddc0b9c1dcc6a2f922a992d27f3",
+          "3314cb039e70e6dcbc3bef622216804a5e29a8f1",
+          "ce9e4b087c7d088680f69e2cce2ee1cf1c1813da",
+          "62375dd0fcb3549620387fbd72ae6eac35035a60",
+          "2edbb659d50080b368ed09d74db27080cf4a34c2",
+          "bb531da35b12002a6babf4ff7bf7f19db426f248",
+          "70ec06d580d89c601c061882a645d80b105ffe19"
+        ]
+      }
+    ]
+  }
+]

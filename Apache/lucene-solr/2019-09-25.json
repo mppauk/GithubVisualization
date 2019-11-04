@@ -1,0 +1,338 @@
+[
+  {
+    "RepositoryName": "lucene-solr",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T04:03:26Z",
+    "EndDate": "2019-09-25T05:03:26",
+    "Branches": 95,
+    "Forks": 2047,
+    "Files": [
+      {
+        "Sha": "cb969eb33889eacca088f23f2e139656c2ec1f69",
+        "FileName": "CHANGES.txt",
+        "Path": "lucene/CHANGES.txt",
+        "DateUpdated": "2019-09-25T04:58:26Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "d279fe8a801560af7d1a240946720e07594d8c13"
+        ]
+      },
+      {
+        "Sha": "709e56fc5e374f3f6ee981b67490ccbbbf4ecbaa",
+        "FileName": "MoreLikeThis.java",
+        "Path": "lucene/queries/src/java/org/apache/lucene/queries/mlt/MoreLikeThis.java",
+        "DateUpdated": "2019-09-25T04:58:26Z",
+        "Additions": 5,
+        "Deletions": 1,
+        "Commits": [
+          "d279fe8a801560af7d1a240946720e07594d8c13"
+        ]
+      },
+      {
+        "Sha": "eb21d1effe1f625ebed90efc8da622e2a1dbdf7c",
+        "FileName": "TestMoreLikeThis.java",
+        "Path": "lucene/queries/src/test/org/apache/lucene/queries/mlt/TestMoreLikeThis.java",
+        "DateUpdated": "2019-09-25T04:58:26Z",
+        "Additions": 55,
+        "Deletions": 0,
+        "Commits": [
+          "d279fe8a801560af7d1a240946720e07594d8c13"
+        ]
+      },
+      {
+        "Sha": "b1fa38c1802bddb1b1ce1129a90a9c3dbaea940e",
+        "FileName": "CHANGES.txt",
+        "Path": "solr/CHANGES.txt",
+        "DateUpdated": "2019-09-25T04:58:26Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "d279fe8a801560af7d1a240946720e07594d8c13"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d279fe8a801560af7d1a240946720e07594d8c13",
+        "Author": {
+          "name": "\"Andrew Hind\"",
+          "location": "Reading"
+        },
+        "Commitor": {
+          "name": "\"Anshum Gupta\"",
+          "company": "Apple Inc"
+        },
+        "Date": "2019-09-25T04:58:26Z",
+        "additions": 67,
+        "deletions": 1,
+        "files": [
+          "cb969eb33889eacca088f23f2e139656c2ec1f69",
+          "709e56fc5e374f3f6ee981b67490ccbbbf4ecbaa",
+          "eb21d1effe1f625ebed90efc8da622e2a1dbdf7c",
+          "b1fa38c1802bddb1b1ce1129a90a9c3dbaea940e"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "lucene-solr",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T04:46:52Z",
+    "EndDate": "2019-09-25T05:46:52",
+    "Branches": 95,
+    "Forks": 2047,
+    "Files": [
+      {
+        "Sha": "f56972e9367845f0139e458d38bf67568e54cea4",
+        "FileName": "CHANGES.txt",
+        "Path": "solr/CHANGES.txt",
+        "DateUpdated": "2019-09-25T05:09:55Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "cd9f3a9a46f1f4a7e7ba451d4a794bc7b0b04522"
+        ]
+      },
+      {
+        "Sha": "5caea4eca7b29850341dd834a817b581a49380ed",
+        "FileName": "FacetFieldProcessor.java",
+        "Path": "solr/core/src/java/org/apache/solr/search/facet/FacetFieldProcessor.java",
+        "DateUpdated": "2019-09-25T05:09:55Z",
+        "Additions": 10,
+        "Deletions": 2,
+        "Commits": [
+          "cd9f3a9a46f1f4a7e7ba451d4a794bc7b0b04522"
+        ]
+      },
+      {
+        "Sha": "6860a943841fcc98d8d0a97f91e66513ed3ab523",
+        "FileName": "FacetRequest.java",
+        "Path": "solr/core/src/java/org/apache/solr/search/facet/FacetRequest.java",
+        "DateUpdated": "2019-09-25T05:09:55Z",
+        "Additions": 70,
+        "Deletions": 29,
+        "Commits": [
+          "cd9f3a9a46f1f4a7e7ba451d4a794bc7b0b04522"
+        ]
+      },
+      {
+        "Sha": "b3586ee181804cbccb6e4064872fb1727036ee47",
+        "FileName": "TestJsonFacets.java",
+        "Path": "solr/core/src/test/org/apache/solr/search/facet/TestJsonFacets.java",
+        "DateUpdated": "2019-09-25T05:09:55Z",
+        "Additions": 33,
+        "Deletions": 0,
+        "Commits": [
+          "cd9f3a9a46f1f4a7e7ba451d4a794bc7b0b04522"
+        ]
+      },
+      {
+        "Sha": "cb969eb33889eacca088f23f2e139656c2ec1f69",
+        "FileName": "CHANGES.txt",
+        "Path": "lucene/CHANGES.txt",
+        "DateUpdated": "2019-09-25T04:58:26Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "d279fe8a801560af7d1a240946720e07594d8c13"
+        ]
+      },
+      {
+        "Sha": "709e56fc5e374f3f6ee981b67490ccbbbf4ecbaa",
+        "FileName": "MoreLikeThis.java",
+        "Path": "lucene/queries/src/java/org/apache/lucene/queries/mlt/MoreLikeThis.java",
+        "DateUpdated": "2019-09-25T04:58:26Z",
+        "Additions": 5,
+        "Deletions": 1,
+        "Commits": [
+          "d279fe8a801560af7d1a240946720e07594d8c13"
+        ]
+      },
+      {
+        "Sha": "eb21d1effe1f625ebed90efc8da622e2a1dbdf7c",
+        "FileName": "TestMoreLikeThis.java",
+        "Path": "lucene/queries/src/test/org/apache/lucene/queries/mlt/TestMoreLikeThis.java",
+        "DateUpdated": "2019-09-25T04:58:26Z",
+        "Additions": 55,
+        "Deletions": 0,
+        "Commits": [
+          "d279fe8a801560af7d1a240946720e07594d8c13"
+        ]
+      },
+      {
+        "Sha": "b1fa38c1802bddb1b1ce1129a90a9c3dbaea940e",
+        "FileName": "CHANGES.txt",
+        "Path": "solr/CHANGES.txt",
+        "DateUpdated": "2019-09-25T04:58:26Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "d279fe8a801560af7d1a240946720e07594d8c13"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "cd9f3a9a46f1f4a7e7ba451d4a794bc7b0b04522",
+        "Author": {
+          "name": "\"S N Munendra\"",
+          "location": "India",
+          "company": "@unbxd "
+        },
+        "Commitor": {
+          "name": "\"S N Munendra\"",
+          "location": "India",
+          "company": "@unbxd "
+        },
+        "Date": "2019-09-25T05:09:55Z",
+        "additions": 115,
+        "deletions": 31,
+        "files": [
+          "f56972e9367845f0139e458d38bf67568e54cea4",
+          "5caea4eca7b29850341dd834a817b581a49380ed",
+          "6860a943841fcc98d8d0a97f91e66513ed3ab523",
+          "b3586ee181804cbccb6e4064872fb1727036ee47"
+        ]
+      },
+      {
+        "sha": "d279fe8a801560af7d1a240946720e07594d8c13",
+        "Author": {
+          "name": "\"Andrew Hind\"",
+          "location": "Reading"
+        },
+        "Commitor": {
+          "name": "\"Anshum Gupta\"",
+          "company": "Apple Inc"
+        },
+        "Date": "2019-09-25T04:58:26Z",
+        "additions": 67,
+        "deletions": 1,
+        "files": [
+          "cb969eb33889eacca088f23f2e139656c2ec1f69",
+          "709e56fc5e374f3f6ee981b67490ccbbbf4ecbaa",
+          "eb21d1effe1f625ebed90efc8da622e2a1dbdf7c",
+          "b1fa38c1802bddb1b1ce1129a90a9c3dbaea940e"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "lucene-solr",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T08:03:48Z",
+    "EndDate": "2019-09-25T09:03:48",
+    "Branches": 95,
+    "Forks": 2048,
+    "Files": [
+      {
+        "Sha": "174de35aa5de1f64d520306db62fadfa93e93cd3",
+        "FileName": "BottomValueChecker.java",
+        "Path": "lucene/core/src/java/org/apache/lucene/search/BottomValueChecker.java",
+        "DateUpdated": "2019-09-25T08:06:29Z",
+        "Additions": 52,
+        "Deletions": 0,
+        "Commits": [
+          "25f88c5a63af6b367aa3d424ce5b60ab25f717b4"
+        ]
+      },
+      {
+        "Sha": "bc1364ec0a16319b0a5965a7e3ca4a314fcc6a1b",
+        "FileName": "IndexSearcher.java",
+        "Path": "lucene/core/src/java/org/apache/lucene/search/IndexSearcher.java",
+        "DateUpdated": "2019-09-25T08:06:29Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "25f88c5a63af6b367aa3d424ce5b60ab25f717b4"
+        ]
+      },
+      {
+        "Sha": "10c4fc4c43ac43ba82199344d2086439535c9847",
+        "FileName": "TopScoreDocCollector.java",
+        "Path": "lucene/core/src/java/org/apache/lucene/search/TopScoreDocCollector.java",
+        "DateUpdated": "2019-09-25T08:06:29Z",
+        "Additions": 37,
+        "Deletions": 13,
+        "Commits": [
+          "25f88c5a63af6b367aa3d424ce5b60ab25f717b4"
+        ]
+      },
+      {
+        "Sha": "130449bbbd0bb5b7f6bc68f8f1a1e887e09125f8",
+        "FileName": "TestTopDocsCollector.java",
+        "Path": "lucene/core/src/test/org/apache/lucene/search/TestTopDocsCollector.java",
+        "DateUpdated": "2019-09-25T08:06:29Z",
+        "Additions": 50,
+        "Deletions": 2,
+        "Commits": [
+          "25f88c5a63af6b367aa3d424ce5b60ab25f717b4"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "25f88c5a63af6b367aa3d424ce5b60ab25f717b4",
+        "Author": {
+          "name": "\"Atri Sharma\"",
+          "location": "India",
+          "company": "Amazon"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T08:06:29Z",
+        "additions": 143,
+        "deletions": 16,
+        "files": [
+          "174de35aa5de1f64d520306db62fadfa93e93cd3",
+          "bc1364ec0a16319b0a5965a7e3ca4a314fcc6a1b",
+          "10c4fc4c43ac43ba82199344d2086439535c9847",
+          "130449bbbd0bb5b7f6bc68f8f1a1e887e09125f8"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "lucene-solr",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T10:03:31Z",
+    "EndDate": "2019-09-25T11:03:31",
+    "Branches": 95,
+    "Forks": 2048,
+    "Files": [
+      {
+        "Sha": "1c246f5c211e63907e7d74ceaf68c8afe27af01b",
+        "FileName": "TestMoreLikeThis.java",
+        "Path": "lucene/queries/src/test/org/apache/lucene/queries/mlt/TestMoreLikeThis.java",
+        "DateUpdated": "2019-09-25T10:44:25Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "a333b6dee3d2cbd157fea250873b900bde880c51"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a333b6dee3d2cbd157fea250873b900bde880c51",
+        "Author": {
+          "name": "\"Jim Ferenczi\"",
+          "location": "Paris",
+          "company": "Elastic"
+        },
+        "Commitor": {
+          "name": "\"Jim Ferenczi\"",
+          "location": "Paris",
+          "company": "Elastic"
+        },
+        "Date": "2019-09-25T10:44:25Z",
+        "additions": 4,
+        "deletions": 0,
+        "files": [
+          "1c246f5c211e63907e7d74ceaf68c8afe27af01b"
+        ]
+      }
+    ]
+  }
+]

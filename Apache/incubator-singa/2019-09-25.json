@@ -1,0 +1,510 @@
+[
+  {
+    "RepositoryName": "incubator-singa",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T01:03:38Z",
+    "EndDate": "2019-09-25T02:03:38",
+    "Branches": 3,
+    "Forks": 477,
+    "Files": [
+      {
+        "Sha": "787bca07784173fb65b361d592fc2a97ce06427b",
+        "FileName": "mnist_cnn.py",
+        "Path": "examples/autograd/mnist_cnn.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 0,
+        "Deletions": 5,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "da58a898eb756b55e3341b995f6e1c3c2dab2c3d",
+        "FileName": "resnet.py",
+        "Path": "examples/autograd/resnet.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 14,
+        "Deletions": 17,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "81298522b239a435f6a0e3fa093bd2c12d75480c",
+        "FileName": "resnet_dist.py",
+        "Path": "examples/autograd/resnet_dist.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "4bd31ce80925af5127d8b135c83af274ac9f707d",
+        "FileName": "xceptionnet.py",
+        "Path": "examples/autograd/xceptionnet.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 2,
+        "Deletions": 4,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "b3e6a9086b1226063d8f3fcac9bc679e0b789ed8",
+        "FileName": "serve.py",
+        "Path": "examples/imagenet/googlenet/serve.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 1,
+        "Deletions": 3,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "fd43521d4fa37af394500f6117ceb633bd9b5ee6",
+        "FileName": "model.py",
+        "Path": "examples/imagenet/resnet/model.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "8a81548ffacba0c53916c96b9ce98f797550a2f5",
+        "FileName": "train.py",
+        "Path": "examples/mnist/train.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "049aeaf9ee4095eceb4089a0daf910cc0f3fcfb9",
+        "FileName": "autograd.py",
+        "Path": "python/singa/autograd.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 5,
+        "Deletions": 14,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "3e9f2accea2deac130f823ab1e8bbf7337f0f6e1",
+        "FileName": "image_tool.py",
+        "Path": "python/singa/image_tool.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "55e6ad077773cccb9e6de7a6df41b70afab3aa85",
+        "FileName": "optimizer.py",
+        "Path": "python/singa/optimizer.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 0,
+        "Deletions": 2,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "5428566b1ca3af1cf561b1fc2a2168c5904e83db",
+        "FileName": "sonnx.py",
+        "Path": "python/singa/sonnx.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 2,
+        "Deletions": 4,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "b8d6a5625cacc2e70ad0827b4392970b22a6852b",
+        "FileName": "tensor.py",
+        "Path": "python/singa/tensor.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 3,
+        "Deletions": 5,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "c6d968646ab3fee64399e33420eea812b567dc32",
+        "FileName": "tensor_math_cpp.h",
+        "Path": "src/core/tensor/tensor_math_cpp.h",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "c91fd6a22f40ff8e24375c6fa26c9d3f4acc0c23",
+        "FileName": "convolution.cc",
+        "Path": "src/model/layer/convolution.cc",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "2feeae18742eca4a16806bb22f054c2f44089d72",
+        "FileName": "clsrc_to_str.py",
+        "Path": "tool/opencl/clsrc_to_str.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a44f854d6b60e46661cdcc0771a36fb7a9bc6214",
+        "Author": {
+          "name": "\"Wei Wang\"",
+          "location": "Singapore",
+          "company": "NUS"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T01:51:45Z",
+        "additions": 45,
+        "deletions": 73,
+        "files": [
+          "787bca07784173fb65b361d592fc2a97ce06427b",
+          "da58a898eb756b55e3341b995f6e1c3c2dab2c3d",
+          "81298522b239a435f6a0e3fa093bd2c12d75480c",
+          "4bd31ce80925af5127d8b135c83af274ac9f707d",
+          "b3e6a9086b1226063d8f3fcac9bc679e0b789ed8",
+          "fd43521d4fa37af394500f6117ceb633bd9b5ee6",
+          "8a81548ffacba0c53916c96b9ce98f797550a2f5",
+          "049aeaf9ee4095eceb4089a0daf910cc0f3fcfb9",
+          "3e9f2accea2deac130f823ab1e8bbf7337f0f6e1",
+          "55e6ad077773cccb9e6de7a6df41b70afab3aa85",
+          "5428566b1ca3af1cf561b1fc2a2168c5904e83db",
+          "b8d6a5625cacc2e70ad0827b4392970b22a6852b",
+          "c6d968646ab3fee64399e33420eea812b567dc32",
+          "c91fd6a22f40ff8e24375c6fa26c9d3f4acc0c23",
+          "2feeae18742eca4a16806bb22f054c2f44089d72"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-singa",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T01:47:06Z",
+    "EndDate": "2019-09-25T02:47:06",
+    "Branches": 3,
+    "Forks": 477,
+    "Files": [
+      {
+        "Sha": "6beac6472e832977ef694f2cd22373ed38cdc493",
+        "FileName": "autograd.py",
+        "Path": "python/singa/autograd.py",
+        "DateUpdated": "2019-09-25T02:32:57Z",
+        "Additions": 112,
+        "Deletions": 0,
+        "Commits": [
+          "deece44a339e70275a43ada0e3d5b2d05b8b23ea"
+        ]
+      },
+      {
+        "Sha": "8abe31de9e332aa83a5826923a5a0a710e39b6d7",
+        "FileName": "test_operation.py",
+        "Path": "test/python/test_operation.py",
+        "DateUpdated": "2019-09-25T02:32:57Z",
+        "Additions": 167,
+        "Deletions": 73,
+        "Commits": [
+          "deece44a339e70275a43ada0e3d5b2d05b8b23ea"
+        ]
+      },
+      {
+        "Sha": "787bca07784173fb65b361d592fc2a97ce06427b",
+        "FileName": "mnist_cnn.py",
+        "Path": "examples/autograd/mnist_cnn.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 0,
+        "Deletions": 5,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "da58a898eb756b55e3341b995f6e1c3c2dab2c3d",
+        "FileName": "resnet.py",
+        "Path": "examples/autograd/resnet.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 14,
+        "Deletions": 17,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "81298522b239a435f6a0e3fa093bd2c12d75480c",
+        "FileName": "resnet_dist.py",
+        "Path": "examples/autograd/resnet_dist.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "4bd31ce80925af5127d8b135c83af274ac9f707d",
+        "FileName": "xceptionnet.py",
+        "Path": "examples/autograd/xceptionnet.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 2,
+        "Deletions": 4,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "b3e6a9086b1226063d8f3fcac9bc679e0b789ed8",
+        "FileName": "serve.py",
+        "Path": "examples/imagenet/googlenet/serve.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 1,
+        "Deletions": 3,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "fd43521d4fa37af394500f6117ceb633bd9b5ee6",
+        "FileName": "model.py",
+        "Path": "examples/imagenet/resnet/model.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "8a81548ffacba0c53916c96b9ce98f797550a2f5",
+        "FileName": "train.py",
+        "Path": "examples/mnist/train.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "049aeaf9ee4095eceb4089a0daf910cc0f3fcfb9",
+        "FileName": "autograd.py",
+        "Path": "python/singa/autograd.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 5,
+        "Deletions": 14,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "3e9f2accea2deac130f823ab1e8bbf7337f0f6e1",
+        "FileName": "image_tool.py",
+        "Path": "python/singa/image_tool.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "55e6ad077773cccb9e6de7a6df41b70afab3aa85",
+        "FileName": "optimizer.py",
+        "Path": "python/singa/optimizer.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 0,
+        "Deletions": 2,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "5428566b1ca3af1cf561b1fc2a2168c5904e83db",
+        "FileName": "sonnx.py",
+        "Path": "python/singa/sonnx.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 2,
+        "Deletions": 4,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "b8d6a5625cacc2e70ad0827b4392970b22a6852b",
+        "FileName": "tensor.py",
+        "Path": "python/singa/tensor.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 3,
+        "Deletions": 5,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "c6d968646ab3fee64399e33420eea812b567dc32",
+        "FileName": "tensor_math_cpp.h",
+        "Path": "src/core/tensor/tensor_math_cpp.h",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "c91fd6a22f40ff8e24375c6fa26c9d3f4acc0c23",
+        "FileName": "convolution.cc",
+        "Path": "src/model/layer/convolution.cc",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      },
+      {
+        "Sha": "2feeae18742eca4a16806bb22f054c2f44089d72",
+        "FileName": "clsrc_to_str.py",
+        "Path": "tool/opencl/clsrc_to_str.py",
+        "DateUpdated": "2019-09-25T01:51:45Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a44f854d6b60e46661cdcc0771a36fb7a9bc6214"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "deece44a339e70275a43ada0e3d5b2d05b8b23ea",
+        "Author": {
+          "name": "\"Wei Wang\"",
+          "location": "Singapore",
+          "company": "NUS"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T02:32:57Z",
+        "additions": 279,
+        "deletions": 73,
+        "files": [
+          "6beac6472e832977ef694f2cd22373ed38cdc493",
+          "8abe31de9e332aa83a5826923a5a0a710e39b6d7"
+        ]
+      },
+      {
+        "sha": "a44f854d6b60e46661cdcc0771a36fb7a9bc6214",
+        "Author": {
+          "name": "\"Wei Wang\"",
+          "location": "Singapore",
+          "company": "NUS"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T01:51:45Z",
+        "additions": 45,
+        "deletions": 73,
+        "files": [
+          "787bca07784173fb65b361d592fc2a97ce06427b",
+          "da58a898eb756b55e3341b995f6e1c3c2dab2c3d",
+          "81298522b239a435f6a0e3fa093bd2c12d75480c",
+          "4bd31ce80925af5127d8b135c83af274ac9f707d",
+          "b3e6a9086b1226063d8f3fcac9bc679e0b789ed8",
+          "fd43521d4fa37af394500f6117ceb633bd9b5ee6",
+          "8a81548ffacba0c53916c96b9ce98f797550a2f5",
+          "049aeaf9ee4095eceb4089a0daf910cc0f3fcfb9",
+          "3e9f2accea2deac130f823ab1e8bbf7337f0f6e1",
+          "55e6ad077773cccb9e6de7a6df41b70afab3aa85",
+          "5428566b1ca3af1cf561b1fc2a2168c5904e83db",
+          "b8d6a5625cacc2e70ad0827b4392970b22a6852b",
+          "c6d968646ab3fee64399e33420eea812b567dc32",
+          "c91fd6a22f40ff8e24375c6fa26c9d3f4acc0c23",
+          "2feeae18742eca4a16806bb22f054c2f44089d72"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-singa",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T02:03:20Z",
+    "EndDate": "2019-09-25T03:03:20",
+    "Branches": 3,
+    "Forks": 477,
+    "Files": [
+      {
+        "Sha": "6beac6472e832977ef694f2cd22373ed38cdc493",
+        "FileName": "autograd.py",
+        "Path": "python/singa/autograd.py",
+        "DateUpdated": "2019-09-25T02:32:57Z",
+        "Additions": 112,
+        "Deletions": 0,
+        "Commits": [
+          "deece44a339e70275a43ada0e3d5b2d05b8b23ea"
+        ]
+      },
+      {
+        "Sha": "8abe31de9e332aa83a5826923a5a0a710e39b6d7",
+        "FileName": "test_operation.py",
+        "Path": "test/python/test_operation.py",
+        "DateUpdated": "2019-09-25T02:32:57Z",
+        "Additions": 167,
+        "Deletions": 73,
+        "Commits": [
+          "deece44a339e70275a43ada0e3d5b2d05b8b23ea"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "deece44a339e70275a43ada0e3d5b2d05b8b23ea",
+        "Author": {
+          "name": "\"Wei Wang\"",
+          "location": "Singapore",
+          "company": "NUS"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T02:32:57Z",
+        "additions": 279,
+        "deletions": 73,
+        "files": [
+          "6beac6472e832977ef694f2cd22373ed38cdc493",
+          "8abe31de9e332aa83a5826923a5a0a710e39b6d7"
+        ]
+      }
+    ]
+  }
+]

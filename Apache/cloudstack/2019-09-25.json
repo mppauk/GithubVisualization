@@ -1,0 +1,2864 @@
+[
+  {
+    "RepositoryName": "cloudstack",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T04:02:28Z",
+    "EndDate": "2019-09-25T05:02:28",
+    "Branches": 176,
+    "Forks": 726,
+    "Files": [
+      {
+        "Sha": "5177e51d4015758769e60f3d5ed0fcb9e5ce01dc",
+        "FileName": "VirtualMachineTemplate.java",
+        "Path": "api/src/main/java/com/cloud/template/VirtualMachineTemplate.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 0,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "0bd3356f24df84468efd512ab9672985133fa26f",
+        "FileName": "BaseListTaggedResourcesCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/BaseListTaggedResourcesCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 1,
+        "Deletions": 21,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "052d7d1e8b72489c25b529c0f77b2083312a2244",
+        "FileName": "BaseListTemplateOrIsoPermissionsCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/BaseListTemplateOrIsoPermissionsCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 6,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "26cea9e6b5ac8a9314853eba7dc10f97c06ad910",
+        "FileName": "TaggedResources.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/TaggedResources.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 72,
+        "Deletions": 0,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "c191ee960e8d4a7fdd9dbc4f6c7c4277312d6da3",
+        "FileName": "ResponseViewProvider.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/ResponseViewProvider.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 26,
+        "Deletions": 0,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "5238dec7e9d16774c2b1e0733079b389eca8cbb2",
+        "FileName": "AdminCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/AdminCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 29,
+        "Deletions": 0,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "56f41b5f58ed57f69ce1f7e478b10873e2d22ee5",
+        "FileName": "AssociateIPAddrCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/address/AssociateIPAddrCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 37,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "4bd6aa7227c8e795d0b27f57d5e15b2b7d2da5b3",
+        "FileName": "ListPublicIpAddressesCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/address/ListPublicIpAddressesCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 27,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "7bf9b64481b3af17576e77c12f30f2b75441f497",
+        "FileName": "UpdateVMAffinityGroupCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/affinitygroup/UpdateVMAffinityGroupCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 32,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "5e4cda33a4200fbf3c501f130e24c931d69261b1",
+        "FileName": "ListDomainsCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/domain/ListDomainsCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "02a2b456bf19ac9c1003193a950376fd2a7d6d56",
+        "FileName": "ListDomainsCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/domain/ListDomainsCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "e39107b2593cc7af41a6daf34c0ebbdaacc4a87f",
+        "FileName": "AttachIsoCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/iso/AttachIsoCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 29,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "5eeba2bfa30150eea365f8e31ac4fa01ba9e858a",
+        "FileName": "DetachIsoCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/iso/DetachIsoCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 23,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "46bd4f3766e79ec4516401fb149886e1402bfa41",
+        "FileName": "ListIsoPermissionsCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/iso/ListIsoPermissionsCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 6,
+        "Deletions": 8,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "4b6d4c0bd5823cef3cd9adc22ace97aa85185b18",
+        "FileName": "ListIsosCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/iso/ListIsosCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "754c9458beb8af3806c532cb0129a2a78a4d6b05",
+        "FileName": "RegisterIsoCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/iso/RegisterIsoCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 1,
+        "Deletions": 29,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "58a57f02cc0a7034b4d7c3c768c0a52f3c594b3c",
+        "FileName": "UpdateIsoCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/iso/UpdateIsoCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 1,
+        "Deletions": 21,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "b11988b241fbe1755d68ad42ff9780b698d6882f",
+        "FileName": "ListLoadBalancerRuleInstancesCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/loadbalancer/ListLoadBalancerRuleInstancesCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 67,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "1f32f62812eeaf5bf37671244bbe262a09be6149",
+        "FileName": "CreateNetworkCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/network/CreateNetworkCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 23,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "a234ff07886868f6011bf7a6840ea1bfe2164352",
+        "FileName": "ListNetworksCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/network/ListNetworksCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 24,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "b3088a48840e1b7b33f7941002e964cabf6b1642",
+        "FileName": "UpdateNetworkCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/network/UpdateNetworkCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 27,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "75061ab93f8911b11a43a06fd0ea10cf41d2ee0f",
+        "FileName": "CopyTemplateCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/template/CopyTemplateCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 1,
+        "Deletions": 47,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "12609493b63778ef7deb78d3605777591889ed3d",
+        "FileName": "CreateTemplateCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/template/CreateTemplateCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 39,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "ae0e220b4952e8eb7f84501181aac7d5edd5fd50",
+        "FileName": "ListTemplatePermissionsCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/template/ListTemplatePermissionsCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 8,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "2f57783e5eaa260d6a3f84f22f394738a599fc7d",
+        "FileName": "ListTemplatesCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/template/ListTemplatesCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "28593755c11552820a481e0c867109d2f30c430f",
+        "FileName": "RegisterTemplateCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/template/RegisterTemplateCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 1,
+        "Deletions": 36,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "09591c809b13ceee977890f4d5afd4f30d5acf3f",
+        "FileName": "UpdateTemplateCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/template/UpdateTemplateCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 23,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "7a8c409c8a8fbb7e41f1c7f9b3a962d59e850dd0",
+        "FileName": "AddNicToVMCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/AddNicToVMCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 30,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "acdc0e074278ea42bb6a8b692e6c45228efbd152",
+        "FileName": "DeployVMCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/DeployVMCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 48,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "08a13649bfa963abe7caf9533f84870c4c58f973",
+        "FileName": "DestroyVMCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/DestroyVMCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 32,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "fbcedaaeac0c9f45cfef32e2698c0d2dac5b14c3",
+        "FileName": "ListVMsCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/ListVMsCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "5f6a7ab384be77a6a7577d218230a4ae0fdbe25a",
+        "FileName": "RebootVMCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/RebootVMCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 26,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "89726afe99b51e3d18dbe10f8be41f90eefa045c",
+        "FileName": "RemoveNicFromVMCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/RemoveNicFromVMCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 30,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "d7ab0c61bbbc82e3fe5bc89b617d2fbbf18fcfe3",
+        "FileName": "ResetVMPasswordCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/ResetVMPasswordCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 27,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "ed9cc11fd5e4ec6f1ce87593e68dfd812e72fea5",
+        "FileName": "ResetVMSSHKeyCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/ResetVMSSHKeyCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 30,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "b3ee39829ab0bece154bfb876bf9e8c188e7230d",
+        "FileName": "RestoreVMCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/RestoreVMCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 29,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "869b45bb366450fe43384da93e255ddb78189b41",
+        "FileName": "ScaleVMCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/ScaleVMCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 43,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "f87622cf734a11a3678f7fb30b17b8425590e73f",
+        "FileName": "StartVMCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/StartVMCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 55,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "2f7cc2198ef79969d6067b6990d1dfef6c05accb",
+        "FileName": "StopVMCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/StopVMCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 28,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "1c4dde93a2264d0c9c6a2c519180f7bd23674496",
+        "FileName": "UpdateDefaultNicForVMCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/UpdateDefaultNicForVMCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 31,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "cb4bb0433d63bf2d0196e2962c7aa738f3c1be9c",
+        "FileName": "UpdateVMCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/UpdateVMCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 25,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "7291fe98d7cc57740d866c06fd8b2e25bb65061b",
+        "FileName": "UpgradeVMCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/UpgradeVMCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 32,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "8f286626b99285d43e1fbf355adfea82def39bc6",
+        "FileName": "RevertToVMSnapshotCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vmsnapshot/RevertToVMSnapshotCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 34,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "6f31df79e1c9954c94e1f395c36338329866c783",
+        "FileName": "AttachVolumeCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/volume/AttachVolumeCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 22,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "c0dfe42acb5fa1ed64ba1cc0a516160a1236fa37",
+        "FileName": "CreateVolumeCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/volume/CreateVolumeCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 35,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "36a183bc89fca24634655d4b4e783c840eb02fd0",
+        "FileName": "DetachVolumeCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/volume/DetachVolumeCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 23,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "371db315833cccbf3266a1cbfeee57545f1031ed",
+        "FileName": "ListVolumesCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/volume/ListVolumesCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "135c8fc8bd1260f4f1535d725ea8e280eda3f95e",
+        "FileName": "MigrateVolumeCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/volume/MigrateVolumeCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 17,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "73c0984eedf1589946d82d7d55654044e6524f22",
+        "FileName": "ResizeVolumeCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/volume/ResizeVolumeCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 28,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "5e0f06a7feb1beb5723ed0334291a2c22c6672c0",
+        "FileName": "UpdateVolumeCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/volume/UpdateVolumeCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 19,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "6140db57c18a45869d26366a5a4194e14690b699",
+        "FileName": "UploadVolumeCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/volume/UploadVolumeCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 31,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "bd00876ed36c33d494f2d234857f6fa5f824c7e7",
+        "FileName": "CreateVPCCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vpc/CreateVPCCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 42,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "efd2f9ea15fb43515defbf1ed51be4a825100ea3",
+        "FileName": "ListVPCsCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vpc/ListVPCsCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 28,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "5fb2461c59fbb75c8dc432765c138813f9f16ec1",
+        "FileName": "UpdateVPCCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vpc/UpdateVPCCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 21,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "a8896df930d7112c73d14115ada7d665d7568fa5",
+        "FileName": "ListZonesCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/zone/ListZonesCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "f78f0c07d201175c96ca85cffa687e3a058b1c01",
+        "FileName": "UserCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/UserCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 29,
+        "Deletions": 0,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "29f86c84a12c459fbb4f34463d4ba068666210ae",
+        "FileName": "ListAccountsCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/account/ListAccountsCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "5b662b78237a407abdb0a149aab19cdcf500368a",
+        "FileName": "AssociateIPAddrCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/address/AssociateIPAddrCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "a9b3bf89afcf48bb7d9a82d4f0c514ab030f0bdc",
+        "FileName": "ListPublicIpAddressesCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/address/ListPublicIpAddressesCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "c798b1820d0212a210671c923b8ea71cad3f8dbf",
+        "FileName": "UpdateVMAffinityGroupCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/affinitygroup/UpdateVMAffinityGroupCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 4,
+        "Deletions": 3,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "245840004fe9df823f43cb3a545cd6737d960a0b",
+        "FileName": "AttachIsoCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/iso/AttachIsoCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "ae86e2fdd7faec1ffa9749e0d0a959155c1c50aa",
+        "FileName": "DetachIsoCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/iso/DetachIsoCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "fbbe0880aef9e0834c91438c49611573feacca1c",
+        "FileName": "ListIsoPermissionsCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/iso/ListIsoPermissionsCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 6,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "80d46deb65c0b252ca2225adc42fcc181a19ca91",
+        "FileName": "ListIsosCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/iso/ListIsosCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "a06b54f1a01a125974559449901c5fb46e87cfae",
+        "FileName": "RegisterIsoCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/iso/RegisterIsoCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "36e9b5329e175c876935638ccf6448ed9aa86fa1",
+        "FileName": "UpdateIsoCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/iso/UpdateIsoCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "77aaa6bc1d3d64978263ecf2d49b8ed76083c1ab",
+        "FileName": "ListLoadBalancerRuleInstancesCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/loadbalancer/ListLoadBalancerRuleInstancesCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 4,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "d89205eb62d46a00df3a6274ffa328220516f99e",
+        "FileName": "CreateNetworkCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/network/CreateNetworkCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "b737212e599819962a0f987335651ec9978f3711",
+        "FileName": "ListNetworksCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/network/ListNetworksCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "2ffa52bcfd2e2647d6048f68e65758ac09770b86",
+        "FileName": "UpdateNetworkCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/network/UpdateNetworkCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "db77916d5667b860962c78c222ed014ac39e4e5d",
+        "FileName": "ListProjectsCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/project/ListProjectsCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 19,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "cde31cdec91879313093f69c0fc098fe3765b667",
+        "FileName": "CreateTagsCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/tag/CreateTagsCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 16,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "54900974c2ebd6015f6b46ec4a5cf656f8daa63e",
+        "FileName": "CopyTemplateCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/template/CopyTemplateCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "d5985318ee89ae8042515248d3c09dbaef6784b2",
+        "FileName": "CreateTemplateCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/template/CreateTemplateCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "970c6b347430d56401b3306a1375f5653f59c7b6",
+        "FileName": "ListTemplatePermissionsCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/template/ListTemplatePermissionsCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 6,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "11e1425361b9e6e173aff99517c1bb7e15f59d46",
+        "FileName": "ListTemplatesCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/template/ListTemplatesCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "7e0002dbe9968eb153cb83ffcfd5f12c7ec222e9",
+        "FileName": "RegisterTemplateCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/template/RegisterTemplateCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "ee60ad5142ddc9533e5b3b90b34766a4f2656ae5",
+        "FileName": "UpdateTemplateCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/template/UpdateTemplateCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "454ca6db80f66a61f8d4ca30aaa3389265d9d74a",
+        "FileName": "AddNicToVMCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/AddNicToVMCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "71269df7d7a4ddae631ad00e8a19465c66bd988f",
+        "FileName": "DeployVMCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/DeployVMCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 46,
+        "Deletions": 30,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "30ab5b562ff1750f8077efa8be847eb62fc59df6",
+        "FileName": "DestroyVMCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/DestroyVMCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "d46857848543d5395708c61fbda80ae44ff2cfb6",
+        "FileName": "ListVMsCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/ListVMsCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "6011bdbcffee727468948e2b150393824a17a925",
+        "FileName": "RebootVMCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/RebootVMCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "5fd016c38edc2b9f1ab5bf078abe26212bf6c238",
+        "FileName": "RemoveNicFromVMCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/RemoveNicFromVMCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "e9a2503ce46d677022a07c9a8647338cb6a0681f",
+        "FileName": "ResetVMPasswordCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/ResetVMPasswordCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "ce481d8814c984dfa24ddf7dce84845d17bd3997",
+        "FileName": "ResetVMSSHKeyCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/ResetVMSSHKeyCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "2439a26c53881a555f41f2fbcf949d57d9b048b2",
+        "FileName": "RestoreVMCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/RestoreVMCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "f7caf569d0375513ecab7343900fe007f763d34e",
+        "FileName": "ScaleVMCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/ScaleVMCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "365d406b22ba19e40d8b91f199b2fe2973a7f130",
+        "FileName": "StartVMCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/StartVMCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "8e1c3cbbaa8d5248d0ac90e96bad710fab4b096b",
+        "FileName": "StopVMCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/StopVMCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "ff533f82095e72e9a3cc5281fe91edfccaaf3d48",
+        "FileName": "UpdateDefaultNicForVMCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/UpdateDefaultNicForVMCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "2fdfd75804752628fc9b76d189e2abbd6efe3be2",
+        "FileName": "UpdateVMCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/UpdateVMCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "8dc8f445cd48561dfefaee9b64e0d2ce149913f2",
+        "FileName": "UpgradeVMCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/UpgradeVMCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "9076ac2a8b33cc78959fa97d2d640ed3feddca86",
+        "FileName": "RevertToVMSnapshotCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vmsnapshot/RevertToVMSnapshotCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "a8a3a75869dda5edf487a0513c73b360e1ff1a83",
+        "FileName": "AddResourceDetailCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/volume/AddResourceDetailCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 4,
+        "Deletions": 17,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "18770b210b767e85bf1cc739fb19313ca44f48aa",
+        "FileName": "AttachVolumeCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/volume/AttachVolumeCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "a54bda19206fd80da9b8bbc0c1bb6ed8ddaaf90e",
+        "FileName": "CreateVolumeCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/volume/CreateVolumeCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "1e38ca24ed05a9d3957a5fa1b5e5ae68d5967acf",
+        "FileName": "DetachVolumeCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/volume/DetachVolumeCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "aa40a24946e09dfe379d4615221edc89dbdf171a",
+        "FileName": "ListVolumesCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/volume/ListVolumesCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "44dd4bf8c391af6cba1dfc58f1ee232c5d89a11b",
+        "FileName": "MigrateVolumeCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/volume/MigrateVolumeCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "304bb25eefba88bb8cbfcbe7b078202c1216efe9",
+        "FileName": "ResizeVolumeCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/volume/ResizeVolumeCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "71fb5764ed8ff801f3ec8734cb7c9a8cd9c52deb",
+        "FileName": "UpdateVolumeCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/volume/UpdateVolumeCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "236a4c8c7a68e96e0d0791baff5d1e199f798b19",
+        "FileName": "UploadVolumeCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/volume/UploadVolumeCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "8f6568fbe59438dbe01b85602f02562702bbfdee",
+        "FileName": "CreateVPCCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vpc/CreateVPCCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "adcbf8bec6df571953f93cff8a09b46dd6acefca",
+        "FileName": "ListVPCsCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vpc/ListVPCsCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "92f02ca26221e77c4baabee77c8c1f9a297de1d4",
+        "FileName": "UpdateVPCCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vpc/UpdateVPCCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "f7e3155535f425d0deaa204f796506b848637b92",
+        "FileName": "ListZonesCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/zone/ListZonesCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 4,
+        "Deletions": 22,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "d0cc8be716a30e24a4867f56e5f4b630a2987e7d",
+        "FileName": "AddIpToVmNicTest.java",
+        "Path": "api/src/test/java/org/apache/cloudstack/api/command/test/AddIpToVmNicTest.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 0,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "bb3818996189f7fe1ea59d74f4412fe6bb8d5a05",
+        "FileName": "ListCfgCmdTest.java",
+        "Path": "api/src/test/java/org/apache/cloudstack/api/command/test/ListCfgCmdTest.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 0,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "7e24f88f7673f22c790fd972ed5d43e94e5f1b86",
+        "FileName": "UpdateCfgCmdTest.java",
+        "Path": "api/src/test/java/org/apache/cloudstack/api/command/test/UpdateCfgCmdTest.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 0,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "f7d756268f44c9a5fdbacb9d37e41b3701902375",
+        "FileName": "CheckOnHostCommandTest.java",
+        "Path": "core/src/test/java/org/apache/cloudstack/api/agent/test/CheckOnHostCommandTest.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 0,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "bf069183cd92f068525793dffa31a9cb6a681714",
+        "FileName": "HypervDirectConnectResourceTest.java",
+        "Path": "plugins/hypervisors/hyperv/src/test/java/com/cloud/hypervisor/hyperv/test/HypervDirectConnectResourceTest.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 0,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "1ba083f88aca663fd8a4ee4f6e2fe806e36192b1",
+        "FileName": "QueryManagerImpl.java",
+        "Path": "server/src/main/java/com/cloud/api/query/QueryManagerImpl.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 1,
+        "Deletions": 5,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "7f9e0a674097bdcf7761dd07db3b8e534eeb009c",
+        "FileName": "NfsSecondaryStorageResource.java",
+        "Path": "services/secondary-storage/server/src/main/java/org/apache/cloudstack/storage/resource/NfsSecondaryStorageResource.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "14dce40d8c212ef913159a7cb0fcb33fd60f25eb",
+        "FileName": "UriUtils.java",
+        "Path": "utils/src/main/java/com/cloud/utils/UriUtils.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 61,
+        "Deletions": 66,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "e0d84a652670dda9b33aa777690c766b39e2eb69",
+        "FileName": "ImageStoreUtil.java",
+        "Path": "utils/src/main/java/org/apache/cloudstack/utils/imagestore/ImageStoreUtil.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 14,
+        "Deletions": 16,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "398eee67526875f34f06492dcbf7592f0ca2732f",
+        "FileName": "UriUtilsParametrizedTest.java",
+        "Path": "utils/src/test/java/com/cloud/utils/UriUtilsParametrizedTest.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 158,
+        "Deletions": 0,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "7f91964aa918657c77156915020c24d496658e5d",
+        "Author": {
+          "name": "\"Rohit Yadav\"",
+          "company": "@ShapeBlue"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T04:51:35Z",
+        "additions": 696,
+        "deletions": 1608,
+        "files": [
+          "5177e51d4015758769e60f3d5ed0fcb9e5ce01dc",
+          "0bd3356f24df84468efd512ab9672985133fa26f",
+          "052d7d1e8b72489c25b529c0f77b2083312a2244",
+          "26cea9e6b5ac8a9314853eba7dc10f97c06ad910",
+          "c191ee960e8d4a7fdd9dbc4f6c7c4277312d6da3",
+          "5238dec7e9d16774c2b1e0733079b389eca8cbb2",
+          "56f41b5f58ed57f69ce1f7e478b10873e2d22ee5",
+          "4bd6aa7227c8e795d0b27f57d5e15b2b7d2da5b3",
+          "7bf9b64481b3af17576e77c12f30f2b75441f497",
+          "5e4cda33a4200fbf3c501f130e24c931d69261b1",
+          "02a2b456bf19ac9c1003193a950376fd2a7d6d56",
+          "e39107b2593cc7af41a6daf34c0ebbdaacc4a87f",
+          "5eeba2bfa30150eea365f8e31ac4fa01ba9e858a",
+          "46bd4f3766e79ec4516401fb149886e1402bfa41",
+          "4b6d4c0bd5823cef3cd9adc22ace97aa85185b18",
+          "754c9458beb8af3806c532cb0129a2a78a4d6b05",
+          "58a57f02cc0a7034b4d7c3c768c0a52f3c594b3c",
+          "b11988b241fbe1755d68ad42ff9780b698d6882f",
+          "1f32f62812eeaf5bf37671244bbe262a09be6149",
+          "a234ff07886868f6011bf7a6840ea1bfe2164352",
+          "b3088a48840e1b7b33f7941002e964cabf6b1642",
+          "75061ab93f8911b11a43a06fd0ea10cf41d2ee0f",
+          "12609493b63778ef7deb78d3605777591889ed3d",
+          "ae0e220b4952e8eb7f84501181aac7d5edd5fd50",
+          "2f57783e5eaa260d6a3f84f22f394738a599fc7d",
+          "28593755c11552820a481e0c867109d2f30c430f",
+          "09591c809b13ceee977890f4d5afd4f30d5acf3f",
+          "7a8c409c8a8fbb7e41f1c7f9b3a962d59e850dd0",
+          "acdc0e074278ea42bb6a8b692e6c45228efbd152",
+          "08a13649bfa963abe7caf9533f84870c4c58f973",
+          "fbcedaaeac0c9f45cfef32e2698c0d2dac5b14c3",
+          "5f6a7ab384be77a6a7577d218230a4ae0fdbe25a",
+          "89726afe99b51e3d18dbe10f8be41f90eefa045c",
+          "d7ab0c61bbbc82e3fe5bc89b617d2fbbf18fcfe3",
+          "ed9cc11fd5e4ec6f1ce87593e68dfd812e72fea5",
+          "b3ee39829ab0bece154bfb876bf9e8c188e7230d",
+          "869b45bb366450fe43384da93e255ddb78189b41",
+          "f87622cf734a11a3678f7fb30b17b8425590e73f",
+          "2f7cc2198ef79969d6067b6990d1dfef6c05accb",
+          "1c4dde93a2264d0c9c6a2c519180f7bd23674496",
+          "cb4bb0433d63bf2d0196e2962c7aa738f3c1be9c",
+          "7291fe98d7cc57740d866c06fd8b2e25bb65061b",
+          "8f286626b99285d43e1fbf355adfea82def39bc6",
+          "6f31df79e1c9954c94e1f395c36338329866c783",
+          "c0dfe42acb5fa1ed64ba1cc0a516160a1236fa37",
+          "36a183bc89fca24634655d4b4e783c840eb02fd0",
+          "371db315833cccbf3266a1cbfeee57545f1031ed",
+          "135c8fc8bd1260f4f1535d725ea8e280eda3f95e",
+          "73c0984eedf1589946d82d7d55654044e6524f22",
+          "5e0f06a7feb1beb5723ed0334291a2c22c6672c0",
+          "6140db57c18a45869d26366a5a4194e14690b699",
+          "bd00876ed36c33d494f2d234857f6fa5f824c7e7",
+          "efd2f9ea15fb43515defbf1ed51be4a825100ea3",
+          "5fb2461c59fbb75c8dc432765c138813f9f16ec1",
+          "a8896df930d7112c73d14115ada7d665d7568fa5",
+          "f78f0c07d201175c96ca85cffa687e3a058b1c01",
+          "29f86c84a12c459fbb4f34463d4ba068666210ae",
+          "5b662b78237a407abdb0a149aab19cdcf500368a",
+          "a9b3bf89afcf48bb7d9a82d4f0c514ab030f0bdc",
+          "c798b1820d0212a210671c923b8ea71cad3f8dbf",
+          "245840004fe9df823f43cb3a545cd6737d960a0b",
+          "ae86e2fdd7faec1ffa9749e0d0a959155c1c50aa",
+          "fbbe0880aef9e0834c91438c49611573feacca1c",
+          "80d46deb65c0b252ca2225adc42fcc181a19ca91",
+          "a06b54f1a01a125974559449901c5fb46e87cfae",
+          "36e9b5329e175c876935638ccf6448ed9aa86fa1",
+          "77aaa6bc1d3d64978263ecf2d49b8ed76083c1ab",
+          "d89205eb62d46a00df3a6274ffa328220516f99e",
+          "b737212e599819962a0f987335651ec9978f3711",
+          "2ffa52bcfd2e2647d6048f68e65758ac09770b86",
+          "db77916d5667b860962c78c222ed014ac39e4e5d",
+          "cde31cdec91879313093f69c0fc098fe3765b667",
+          "54900974c2ebd6015f6b46ec4a5cf656f8daa63e",
+          "d5985318ee89ae8042515248d3c09dbaef6784b2",
+          "970c6b347430d56401b3306a1375f5653f59c7b6",
+          "11e1425361b9e6e173aff99517c1bb7e15f59d46",
+          "7e0002dbe9968eb153cb83ffcfd5f12c7ec222e9",
+          "ee60ad5142ddc9533e5b3b90b34766a4f2656ae5",
+          "454ca6db80f66a61f8d4ca30aaa3389265d9d74a",
+          "71269df7d7a4ddae631ad00e8a19465c66bd988f",
+          "30ab5b562ff1750f8077efa8be847eb62fc59df6",
+          "d46857848543d5395708c61fbda80ae44ff2cfb6",
+          "6011bdbcffee727468948e2b150393824a17a925",
+          "5fd016c38edc2b9f1ab5bf078abe26212bf6c238",
+          "e9a2503ce46d677022a07c9a8647338cb6a0681f",
+          "ce481d8814c984dfa24ddf7dce84845d17bd3997",
+          "2439a26c53881a555f41f2fbcf949d57d9b048b2",
+          "f7caf569d0375513ecab7343900fe007f763d34e",
+          "365d406b22ba19e40d8b91f199b2fe2973a7f130",
+          "8e1c3cbbaa8d5248d0ac90e96bad710fab4b096b",
+          "ff533f82095e72e9a3cc5281fe91edfccaaf3d48",
+          "2fdfd75804752628fc9b76d189e2abbd6efe3be2",
+          "8dc8f445cd48561dfefaee9b64e0d2ce149913f2",
+          "9076ac2a8b33cc78959fa97d2d640ed3feddca86",
+          "a8a3a75869dda5edf487a0513c73b360e1ff1a83",
+          "18770b210b767e85bf1cc739fb19313ca44f48aa",
+          "a54bda19206fd80da9b8bbc0c1bb6ed8ddaaf90e",
+          "1e38ca24ed05a9d3957a5fa1b5e5ae68d5967acf",
+          "aa40a24946e09dfe379d4615221edc89dbdf171a",
+          "44dd4bf8c391af6cba1dfc58f1ee232c5d89a11b",
+          "304bb25eefba88bb8cbfcbe7b078202c1216efe9",
+          "71fb5764ed8ff801f3ec8734cb7c9a8cd9c52deb",
+          "236a4c8c7a68e96e0d0791baff5d1e199f798b19",
+          "8f6568fbe59438dbe01b85602f02562702bbfdee",
+          "adcbf8bec6df571953f93cff8a09b46dd6acefca",
+          "92f02ca26221e77c4baabee77c8c1f9a297de1d4",
+          "f7e3155535f425d0deaa204f796506b848637b92",
+          "d0cc8be716a30e24a4867f56e5f4b630a2987e7d",
+          "bb3818996189f7fe1ea59d74f4412fe6bb8d5a05",
+          "7e24f88f7673f22c790fd972ed5d43e94e5f1b86",
+          "f7d756268f44c9a5fdbacb9d37e41b3701902375",
+          "bf069183cd92f068525793dffa31a9cb6a681714",
+          "1ba083f88aca663fd8a4ee4f6e2fe806e36192b1",
+          "7f9e0a674097bdcf7761dd07db3b8e534eeb009c",
+          "14dce40d8c212ef913159a7cb0fcb33fd60f25eb",
+          "e0d84a652670dda9b33aa777690c766b39e2eb69",
+          "398eee67526875f34f06492dcbf7592f0ca2732f"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "cloudstack",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T04:45:49Z",
+    "EndDate": "2019-09-25T05:45:49",
+    "Branches": 176,
+    "Forks": 726,
+    "Files": [
+      {
+        "Sha": "5177e51d4015758769e60f3d5ed0fcb9e5ce01dc",
+        "FileName": "VirtualMachineTemplate.java",
+        "Path": "api/src/main/java/com/cloud/template/VirtualMachineTemplate.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 0,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "0bd3356f24df84468efd512ab9672985133fa26f",
+        "FileName": "BaseListTaggedResourcesCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/BaseListTaggedResourcesCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 1,
+        "Deletions": 21,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "052d7d1e8b72489c25b529c0f77b2083312a2244",
+        "FileName": "BaseListTemplateOrIsoPermissionsCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/BaseListTemplateOrIsoPermissionsCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 6,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "26cea9e6b5ac8a9314853eba7dc10f97c06ad910",
+        "FileName": "TaggedResources.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/TaggedResources.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 72,
+        "Deletions": 0,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "c191ee960e8d4a7fdd9dbc4f6c7c4277312d6da3",
+        "FileName": "ResponseViewProvider.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/ResponseViewProvider.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 26,
+        "Deletions": 0,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "5238dec7e9d16774c2b1e0733079b389eca8cbb2",
+        "FileName": "AdminCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/AdminCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 29,
+        "Deletions": 0,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "56f41b5f58ed57f69ce1f7e478b10873e2d22ee5",
+        "FileName": "AssociateIPAddrCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/address/AssociateIPAddrCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 37,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "4bd6aa7227c8e795d0b27f57d5e15b2b7d2da5b3",
+        "FileName": "ListPublicIpAddressesCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/address/ListPublicIpAddressesCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 27,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "7bf9b64481b3af17576e77c12f30f2b75441f497",
+        "FileName": "UpdateVMAffinityGroupCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/affinitygroup/UpdateVMAffinityGroupCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 32,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "5e4cda33a4200fbf3c501f130e24c931d69261b1",
+        "FileName": "ListDomainsCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/domain/ListDomainsCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "02a2b456bf19ac9c1003193a950376fd2a7d6d56",
+        "FileName": "ListDomainsCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/domain/ListDomainsCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "e39107b2593cc7af41a6daf34c0ebbdaacc4a87f",
+        "FileName": "AttachIsoCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/iso/AttachIsoCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 29,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "5eeba2bfa30150eea365f8e31ac4fa01ba9e858a",
+        "FileName": "DetachIsoCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/iso/DetachIsoCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 23,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "46bd4f3766e79ec4516401fb149886e1402bfa41",
+        "FileName": "ListIsoPermissionsCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/iso/ListIsoPermissionsCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 6,
+        "Deletions": 8,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "4b6d4c0bd5823cef3cd9adc22ace97aa85185b18",
+        "FileName": "ListIsosCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/iso/ListIsosCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "754c9458beb8af3806c532cb0129a2a78a4d6b05",
+        "FileName": "RegisterIsoCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/iso/RegisterIsoCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 1,
+        "Deletions": 29,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "58a57f02cc0a7034b4d7c3c768c0a52f3c594b3c",
+        "FileName": "UpdateIsoCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/iso/UpdateIsoCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 1,
+        "Deletions": 21,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "b11988b241fbe1755d68ad42ff9780b698d6882f",
+        "FileName": "ListLoadBalancerRuleInstancesCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/loadbalancer/ListLoadBalancerRuleInstancesCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 67,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "1f32f62812eeaf5bf37671244bbe262a09be6149",
+        "FileName": "CreateNetworkCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/network/CreateNetworkCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 23,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "a234ff07886868f6011bf7a6840ea1bfe2164352",
+        "FileName": "ListNetworksCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/network/ListNetworksCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 24,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "b3088a48840e1b7b33f7941002e964cabf6b1642",
+        "FileName": "UpdateNetworkCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/network/UpdateNetworkCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 27,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "75061ab93f8911b11a43a06fd0ea10cf41d2ee0f",
+        "FileName": "CopyTemplateCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/template/CopyTemplateCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 1,
+        "Deletions": 47,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "12609493b63778ef7deb78d3605777591889ed3d",
+        "FileName": "CreateTemplateCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/template/CreateTemplateCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 39,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "ae0e220b4952e8eb7f84501181aac7d5edd5fd50",
+        "FileName": "ListTemplatePermissionsCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/template/ListTemplatePermissionsCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 8,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "2f57783e5eaa260d6a3f84f22f394738a599fc7d",
+        "FileName": "ListTemplatesCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/template/ListTemplatesCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "28593755c11552820a481e0c867109d2f30c430f",
+        "FileName": "RegisterTemplateCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/template/RegisterTemplateCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 1,
+        "Deletions": 36,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "09591c809b13ceee977890f4d5afd4f30d5acf3f",
+        "FileName": "UpdateTemplateCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/template/UpdateTemplateCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 23,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "7a8c409c8a8fbb7e41f1c7f9b3a962d59e850dd0",
+        "FileName": "AddNicToVMCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/AddNicToVMCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 30,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "acdc0e074278ea42bb6a8b692e6c45228efbd152",
+        "FileName": "DeployVMCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/DeployVMCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 48,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "08a13649bfa963abe7caf9533f84870c4c58f973",
+        "FileName": "DestroyVMCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/DestroyVMCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 32,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "fbcedaaeac0c9f45cfef32e2698c0d2dac5b14c3",
+        "FileName": "ListVMsCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/ListVMsCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "5f6a7ab384be77a6a7577d218230a4ae0fdbe25a",
+        "FileName": "RebootVMCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/RebootVMCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 26,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "89726afe99b51e3d18dbe10f8be41f90eefa045c",
+        "FileName": "RemoveNicFromVMCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/RemoveNicFromVMCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 30,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "d7ab0c61bbbc82e3fe5bc89b617d2fbbf18fcfe3",
+        "FileName": "ResetVMPasswordCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/ResetVMPasswordCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 27,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "ed9cc11fd5e4ec6f1ce87593e68dfd812e72fea5",
+        "FileName": "ResetVMSSHKeyCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/ResetVMSSHKeyCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 30,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "b3ee39829ab0bece154bfb876bf9e8c188e7230d",
+        "FileName": "RestoreVMCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/RestoreVMCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 29,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "869b45bb366450fe43384da93e255ddb78189b41",
+        "FileName": "ScaleVMCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/ScaleVMCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 43,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "f87622cf734a11a3678f7fb30b17b8425590e73f",
+        "FileName": "StartVMCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/StartVMCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 55,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "2f7cc2198ef79969d6067b6990d1dfef6c05accb",
+        "FileName": "StopVMCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/StopVMCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 28,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "1c4dde93a2264d0c9c6a2c519180f7bd23674496",
+        "FileName": "UpdateDefaultNicForVMCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/UpdateDefaultNicForVMCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 31,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "cb4bb0433d63bf2d0196e2962c7aa738f3c1be9c",
+        "FileName": "UpdateVMCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/UpdateVMCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 25,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "7291fe98d7cc57740d866c06fd8b2e25bb65061b",
+        "FileName": "UpgradeVMCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vm/UpgradeVMCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 32,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "8f286626b99285d43e1fbf355adfea82def39bc6",
+        "FileName": "RevertToVMSnapshotCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vmsnapshot/RevertToVMSnapshotCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 34,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "6f31df79e1c9954c94e1f395c36338329866c783",
+        "FileName": "AttachVolumeCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/volume/AttachVolumeCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 22,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "c0dfe42acb5fa1ed64ba1cc0a516160a1236fa37",
+        "FileName": "CreateVolumeCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/volume/CreateVolumeCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 35,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "36a183bc89fca24634655d4b4e783c840eb02fd0",
+        "FileName": "DetachVolumeCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/volume/DetachVolumeCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 23,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "371db315833cccbf3266a1cbfeee57545f1031ed",
+        "FileName": "ListVolumesCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/volume/ListVolumesCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "135c8fc8bd1260f4f1535d725ea8e280eda3f95e",
+        "FileName": "MigrateVolumeCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/volume/MigrateVolumeCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 17,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "73c0984eedf1589946d82d7d55654044e6524f22",
+        "FileName": "ResizeVolumeCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/volume/ResizeVolumeCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 28,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "5e0f06a7feb1beb5723ed0334291a2c22c6672c0",
+        "FileName": "UpdateVolumeCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/volume/UpdateVolumeCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 19,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "6140db57c18a45869d26366a5a4194e14690b699",
+        "FileName": "UploadVolumeCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/volume/UploadVolumeCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 31,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "bd00876ed36c33d494f2d234857f6fa5f824c7e7",
+        "FileName": "CreateVPCCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vpc/CreateVPCCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 42,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "efd2f9ea15fb43515defbf1ed51be4a825100ea3",
+        "FileName": "ListVPCsCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vpc/ListVPCsCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 28,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "5fb2461c59fbb75c8dc432765c138813f9f16ec1",
+        "FileName": "UpdateVPCCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/vpc/UpdateVPCCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 21,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "a8896df930d7112c73d14115ada7d665d7568fa5",
+        "FileName": "ListZonesCmdByAdmin.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/admin/zone/ListZonesCmdByAdmin.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "f78f0c07d201175c96ca85cffa687e3a058b1c01",
+        "FileName": "UserCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/UserCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 29,
+        "Deletions": 0,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "29f86c84a12c459fbb4f34463d4ba068666210ae",
+        "FileName": "ListAccountsCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/account/ListAccountsCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "5b662b78237a407abdb0a149aab19cdcf500368a",
+        "FileName": "AssociateIPAddrCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/address/AssociateIPAddrCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "a9b3bf89afcf48bb7d9a82d4f0c514ab030f0bdc",
+        "FileName": "ListPublicIpAddressesCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/address/ListPublicIpAddressesCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "c798b1820d0212a210671c923b8ea71cad3f8dbf",
+        "FileName": "UpdateVMAffinityGroupCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/affinitygroup/UpdateVMAffinityGroupCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 4,
+        "Deletions": 3,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "245840004fe9df823f43cb3a545cd6737d960a0b",
+        "FileName": "AttachIsoCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/iso/AttachIsoCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "ae86e2fdd7faec1ffa9749e0d0a959155c1c50aa",
+        "FileName": "DetachIsoCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/iso/DetachIsoCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "fbbe0880aef9e0834c91438c49611573feacca1c",
+        "FileName": "ListIsoPermissionsCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/iso/ListIsoPermissionsCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 6,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "80d46deb65c0b252ca2225adc42fcc181a19ca91",
+        "FileName": "ListIsosCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/iso/ListIsosCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "a06b54f1a01a125974559449901c5fb46e87cfae",
+        "FileName": "RegisterIsoCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/iso/RegisterIsoCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "36e9b5329e175c876935638ccf6448ed9aa86fa1",
+        "FileName": "UpdateIsoCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/iso/UpdateIsoCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "77aaa6bc1d3d64978263ecf2d49b8ed76083c1ab",
+        "FileName": "ListLoadBalancerRuleInstancesCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/loadbalancer/ListLoadBalancerRuleInstancesCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 4,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "d89205eb62d46a00df3a6274ffa328220516f99e",
+        "FileName": "CreateNetworkCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/network/CreateNetworkCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "b737212e599819962a0f987335651ec9978f3711",
+        "FileName": "ListNetworksCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/network/ListNetworksCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "2ffa52bcfd2e2647d6048f68e65758ac09770b86",
+        "FileName": "UpdateNetworkCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/network/UpdateNetworkCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "db77916d5667b860962c78c222ed014ac39e4e5d",
+        "FileName": "ListProjectsCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/project/ListProjectsCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 19,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "cde31cdec91879313093f69c0fc098fe3765b667",
+        "FileName": "CreateTagsCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/tag/CreateTagsCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 16,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "54900974c2ebd6015f6b46ec4a5cf656f8daa63e",
+        "FileName": "CopyTemplateCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/template/CopyTemplateCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "d5985318ee89ae8042515248d3c09dbaef6784b2",
+        "FileName": "CreateTemplateCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/template/CreateTemplateCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "970c6b347430d56401b3306a1375f5653f59c7b6",
+        "FileName": "ListTemplatePermissionsCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/template/ListTemplatePermissionsCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 6,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "11e1425361b9e6e173aff99517c1bb7e15f59d46",
+        "FileName": "ListTemplatesCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/template/ListTemplatesCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "7e0002dbe9968eb153cb83ffcfd5f12c7ec222e9",
+        "FileName": "RegisterTemplateCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/template/RegisterTemplateCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "ee60ad5142ddc9533e5b3b90b34766a4f2656ae5",
+        "FileName": "UpdateTemplateCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/template/UpdateTemplateCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "454ca6db80f66a61f8d4ca30aaa3389265d9d74a",
+        "FileName": "AddNicToVMCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/AddNicToVMCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "71269df7d7a4ddae631ad00e8a19465c66bd988f",
+        "FileName": "DeployVMCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/DeployVMCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 46,
+        "Deletions": 30,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "30ab5b562ff1750f8077efa8be847eb62fc59df6",
+        "FileName": "DestroyVMCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/DestroyVMCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "d46857848543d5395708c61fbda80ae44ff2cfb6",
+        "FileName": "ListVMsCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/ListVMsCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "6011bdbcffee727468948e2b150393824a17a925",
+        "FileName": "RebootVMCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/RebootVMCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "5fd016c38edc2b9f1ab5bf078abe26212bf6c238",
+        "FileName": "RemoveNicFromVMCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/RemoveNicFromVMCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "e9a2503ce46d677022a07c9a8647338cb6a0681f",
+        "FileName": "ResetVMPasswordCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/ResetVMPasswordCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "ce481d8814c984dfa24ddf7dce84845d17bd3997",
+        "FileName": "ResetVMSSHKeyCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/ResetVMSSHKeyCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "2439a26c53881a555f41f2fbcf949d57d9b048b2",
+        "FileName": "RestoreVMCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/RestoreVMCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "f7caf569d0375513ecab7343900fe007f763d34e",
+        "FileName": "ScaleVMCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/ScaleVMCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "365d406b22ba19e40d8b91f199b2fe2973a7f130",
+        "FileName": "StartVMCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/StartVMCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "8e1c3cbbaa8d5248d0ac90e96bad710fab4b096b",
+        "FileName": "StopVMCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/StopVMCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "ff533f82095e72e9a3cc5281fe91edfccaaf3d48",
+        "FileName": "UpdateDefaultNicForVMCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/UpdateDefaultNicForVMCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "2fdfd75804752628fc9b76d189e2abbd6efe3be2",
+        "FileName": "UpdateVMCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/UpdateVMCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "8dc8f445cd48561dfefaee9b64e0d2ce149913f2",
+        "FileName": "UpgradeVMCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vm/UpgradeVMCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "9076ac2a8b33cc78959fa97d2d640ed3feddca86",
+        "FileName": "RevertToVMSnapshotCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vmsnapshot/RevertToVMSnapshotCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "a8a3a75869dda5edf487a0513c73b360e1ff1a83",
+        "FileName": "AddResourceDetailCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/volume/AddResourceDetailCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 4,
+        "Deletions": 17,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "18770b210b767e85bf1cc739fb19313ca44f48aa",
+        "FileName": "AttachVolumeCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/volume/AttachVolumeCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "a54bda19206fd80da9b8bbc0c1bb6ed8ddaaf90e",
+        "FileName": "CreateVolumeCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/volume/CreateVolumeCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "1e38ca24ed05a9d3957a5fa1b5e5ae68d5967acf",
+        "FileName": "DetachVolumeCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/volume/DetachVolumeCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "aa40a24946e09dfe379d4615221edc89dbdf171a",
+        "FileName": "ListVolumesCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/volume/ListVolumesCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "44dd4bf8c391af6cba1dfc58f1ee232c5d89a11b",
+        "FileName": "MigrateVolumeCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/volume/MigrateVolumeCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "304bb25eefba88bb8cbfcbe7b078202c1216efe9",
+        "FileName": "ResizeVolumeCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/volume/ResizeVolumeCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "71fb5764ed8ff801f3ec8734cb7c9a8cd9c52deb",
+        "FileName": "UpdateVolumeCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/volume/UpdateVolumeCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "236a4c8c7a68e96e0d0791baff5d1e199f798b19",
+        "FileName": "UploadVolumeCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/volume/UploadVolumeCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "8f6568fbe59438dbe01b85602f02562702bbfdee",
+        "FileName": "CreateVPCCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vpc/CreateVPCCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "adcbf8bec6df571953f93cff8a09b46dd6acefca",
+        "FileName": "ListVPCsCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vpc/ListVPCsCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "92f02ca26221e77c4baabee77c8c1f9a297de1d4",
+        "FileName": "UpdateVPCCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/vpc/UpdateVPCCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "f7e3155535f425d0deaa204f796506b848637b92",
+        "FileName": "ListZonesCmd.java",
+        "Path": "api/src/main/java/org/apache/cloudstack/api/command/user/zone/ListZonesCmd.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 4,
+        "Deletions": 22,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "d0cc8be716a30e24a4867f56e5f4b630a2987e7d",
+        "FileName": "AddIpToVmNicTest.java",
+        "Path": "api/src/test/java/org/apache/cloudstack/api/command/test/AddIpToVmNicTest.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 0,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "bb3818996189f7fe1ea59d74f4412fe6bb8d5a05",
+        "FileName": "ListCfgCmdTest.java",
+        "Path": "api/src/test/java/org/apache/cloudstack/api/command/test/ListCfgCmdTest.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 0,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "7e24f88f7673f22c790fd972ed5d43e94e5f1b86",
+        "FileName": "UpdateCfgCmdTest.java",
+        "Path": "api/src/test/java/org/apache/cloudstack/api/command/test/UpdateCfgCmdTest.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 0,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "f7d756268f44c9a5fdbacb9d37e41b3701902375",
+        "FileName": "CheckOnHostCommandTest.java",
+        "Path": "core/src/test/java/org/apache/cloudstack/api/agent/test/CheckOnHostCommandTest.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 0,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "bf069183cd92f068525793dffa31a9cb6a681714",
+        "FileName": "HypervDirectConnectResourceTest.java",
+        "Path": "plugins/hypervisors/hyperv/src/test/java/com/cloud/hypervisor/hyperv/test/HypervDirectConnectResourceTest.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 0,
+        "Deletions": 2,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "1ba083f88aca663fd8a4ee4f6e2fe806e36192b1",
+        "FileName": "QueryManagerImpl.java",
+        "Path": "server/src/main/java/com/cloud/api/query/QueryManagerImpl.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 1,
+        "Deletions": 5,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "7f9e0a674097bdcf7761dd07db3b8e534eeb009c",
+        "FileName": "NfsSecondaryStorageResource.java",
+        "Path": "services/secondary-storage/server/src/main/java/org/apache/cloudstack/storage/resource/NfsSecondaryStorageResource.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "14dce40d8c212ef913159a7cb0fcb33fd60f25eb",
+        "FileName": "UriUtils.java",
+        "Path": "utils/src/main/java/com/cloud/utils/UriUtils.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 61,
+        "Deletions": 66,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "e0d84a652670dda9b33aa777690c766b39e2eb69",
+        "FileName": "ImageStoreUtil.java",
+        "Path": "utils/src/main/java/org/apache/cloudstack/utils/imagestore/ImageStoreUtil.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 14,
+        "Deletions": 16,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      },
+      {
+        "Sha": "398eee67526875f34f06492dcbf7592f0ca2732f",
+        "FileName": "UriUtilsParametrizedTest.java",
+        "Path": "utils/src/test/java/com/cloud/utils/UriUtilsParametrizedTest.java",
+        "DateUpdated": "2019-09-25T04:51:35Z",
+        "Additions": 158,
+        "Deletions": 0,
+        "Commits": [
+          "7f91964aa918657c77156915020c24d496658e5d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "7f91964aa918657c77156915020c24d496658e5d",
+        "Author": {
+          "name": "\"Rohit Yadav\"",
+          "company": "@ShapeBlue"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T04:51:35Z",
+        "additions": 696,
+        "deletions": 1608,
+        "files": [
+          "5177e51d4015758769e60f3d5ed0fcb9e5ce01dc",
+          "0bd3356f24df84468efd512ab9672985133fa26f",
+          "052d7d1e8b72489c25b529c0f77b2083312a2244",
+          "26cea9e6b5ac8a9314853eba7dc10f97c06ad910",
+          "c191ee960e8d4a7fdd9dbc4f6c7c4277312d6da3",
+          "5238dec7e9d16774c2b1e0733079b389eca8cbb2",
+          "56f41b5f58ed57f69ce1f7e478b10873e2d22ee5",
+          "4bd6aa7227c8e795d0b27f57d5e15b2b7d2da5b3",
+          "7bf9b64481b3af17576e77c12f30f2b75441f497",
+          "5e4cda33a4200fbf3c501f130e24c931d69261b1",
+          "02a2b456bf19ac9c1003193a950376fd2a7d6d56",
+          "e39107b2593cc7af41a6daf34c0ebbdaacc4a87f",
+          "5eeba2bfa30150eea365f8e31ac4fa01ba9e858a",
+          "46bd4f3766e79ec4516401fb149886e1402bfa41",
+          "4b6d4c0bd5823cef3cd9adc22ace97aa85185b18",
+          "754c9458beb8af3806c532cb0129a2a78a4d6b05",
+          "58a57f02cc0a7034b4d7c3c768c0a52f3c594b3c",
+          "b11988b241fbe1755d68ad42ff9780b698d6882f",
+          "1f32f62812eeaf5bf37671244bbe262a09be6149",
+          "a234ff07886868f6011bf7a6840ea1bfe2164352",
+          "b3088a48840e1b7b33f7941002e964cabf6b1642",
+          "75061ab93f8911b11a43a06fd0ea10cf41d2ee0f",
+          "12609493b63778ef7deb78d3605777591889ed3d",
+          "ae0e220b4952e8eb7f84501181aac7d5edd5fd50",
+          "2f57783e5eaa260d6a3f84f22f394738a599fc7d",
+          "28593755c11552820a481e0c867109d2f30c430f",
+          "09591c809b13ceee977890f4d5afd4f30d5acf3f",
+          "7a8c409c8a8fbb7e41f1c7f9b3a962d59e850dd0",
+          "acdc0e074278ea42bb6a8b692e6c45228efbd152",
+          "08a13649bfa963abe7caf9533f84870c4c58f973",
+          "fbcedaaeac0c9f45cfef32e2698c0d2dac5b14c3",
+          "5f6a7ab384be77a6a7577d218230a4ae0fdbe25a",
+          "89726afe99b51e3d18dbe10f8be41f90eefa045c",
+          "d7ab0c61bbbc82e3fe5bc89b617d2fbbf18fcfe3",
+          "ed9cc11fd5e4ec6f1ce87593e68dfd812e72fea5",
+          "b3ee39829ab0bece154bfb876bf9e8c188e7230d",
+          "869b45bb366450fe43384da93e255ddb78189b41",
+          "f87622cf734a11a3678f7fb30b17b8425590e73f",
+          "2f7cc2198ef79969d6067b6990d1dfef6c05accb",
+          "1c4dde93a2264d0c9c6a2c519180f7bd23674496",
+          "cb4bb0433d63bf2d0196e2962c7aa738f3c1be9c",
+          "7291fe98d7cc57740d866c06fd8b2e25bb65061b",
+          "8f286626b99285d43e1fbf355adfea82def39bc6",
+          "6f31df79e1c9954c94e1f395c36338329866c783",
+          "c0dfe42acb5fa1ed64ba1cc0a516160a1236fa37",
+          "36a183bc89fca24634655d4b4e783c840eb02fd0",
+          "371db315833cccbf3266a1cbfeee57545f1031ed",
+          "135c8fc8bd1260f4f1535d725ea8e280eda3f95e",
+          "73c0984eedf1589946d82d7d55654044e6524f22",
+          "5e0f06a7feb1beb5723ed0334291a2c22c6672c0",
+          "6140db57c18a45869d26366a5a4194e14690b699",
+          "bd00876ed36c33d494f2d234857f6fa5f824c7e7",
+          "efd2f9ea15fb43515defbf1ed51be4a825100ea3",
+          "5fb2461c59fbb75c8dc432765c138813f9f16ec1",
+          "a8896df930d7112c73d14115ada7d665d7568fa5",
+          "f78f0c07d201175c96ca85cffa687e3a058b1c01",
+          "29f86c84a12c459fbb4f34463d4ba068666210ae",
+          "5b662b78237a407abdb0a149aab19cdcf500368a",
+          "a9b3bf89afcf48bb7d9a82d4f0c514ab030f0bdc",
+          "c798b1820d0212a210671c923b8ea71cad3f8dbf",
+          "245840004fe9df823f43cb3a545cd6737d960a0b",
+          "ae86e2fdd7faec1ffa9749e0d0a959155c1c50aa",
+          "fbbe0880aef9e0834c91438c49611573feacca1c",
+          "80d46deb65c0b252ca2225adc42fcc181a19ca91",
+          "a06b54f1a01a125974559449901c5fb46e87cfae",
+          "36e9b5329e175c876935638ccf6448ed9aa86fa1",
+          "77aaa6bc1d3d64978263ecf2d49b8ed76083c1ab",
+          "d89205eb62d46a00df3a6274ffa328220516f99e",
+          "b737212e599819962a0f987335651ec9978f3711",
+          "2ffa52bcfd2e2647d6048f68e65758ac09770b86",
+          "db77916d5667b860962c78c222ed014ac39e4e5d",
+          "cde31cdec91879313093f69c0fc098fe3765b667",
+          "54900974c2ebd6015f6b46ec4a5cf656f8daa63e",
+          "d5985318ee89ae8042515248d3c09dbaef6784b2",
+          "970c6b347430d56401b3306a1375f5653f59c7b6",
+          "11e1425361b9e6e173aff99517c1bb7e15f59d46",
+          "7e0002dbe9968eb153cb83ffcfd5f12c7ec222e9",
+          "ee60ad5142ddc9533e5b3b90b34766a4f2656ae5",
+          "454ca6db80f66a61f8d4ca30aaa3389265d9d74a",
+          "71269df7d7a4ddae631ad00e8a19465c66bd988f",
+          "30ab5b562ff1750f8077efa8be847eb62fc59df6",
+          "d46857848543d5395708c61fbda80ae44ff2cfb6",
+          "6011bdbcffee727468948e2b150393824a17a925",
+          "5fd016c38edc2b9f1ab5bf078abe26212bf6c238",
+          "e9a2503ce46d677022a07c9a8647338cb6a0681f",
+          "ce481d8814c984dfa24ddf7dce84845d17bd3997",
+          "2439a26c53881a555f41f2fbcf949d57d9b048b2",
+          "f7caf569d0375513ecab7343900fe007f763d34e",
+          "365d406b22ba19e40d8b91f199b2fe2973a7f130",
+          "8e1c3cbbaa8d5248d0ac90e96bad710fab4b096b",
+          "ff533f82095e72e9a3cc5281fe91edfccaaf3d48",
+          "2fdfd75804752628fc9b76d189e2abbd6efe3be2",
+          "8dc8f445cd48561dfefaee9b64e0d2ce149913f2",
+          "9076ac2a8b33cc78959fa97d2d640ed3feddca86",
+          "a8a3a75869dda5edf487a0513c73b360e1ff1a83",
+          "18770b210b767e85bf1cc739fb19313ca44f48aa",
+          "a54bda19206fd80da9b8bbc0c1bb6ed8ddaaf90e",
+          "1e38ca24ed05a9d3957a5fa1b5e5ae68d5967acf",
+          "aa40a24946e09dfe379d4615221edc89dbdf171a",
+          "44dd4bf8c391af6cba1dfc58f1ee232c5d89a11b",
+          "304bb25eefba88bb8cbfcbe7b078202c1216efe9",
+          "71fb5764ed8ff801f3ec8734cb7c9a8cd9c52deb",
+          "236a4c8c7a68e96e0d0791baff5d1e199f798b19",
+          "8f6568fbe59438dbe01b85602f02562702bbfdee",
+          "adcbf8bec6df571953f93cff8a09b46dd6acefca",
+          "92f02ca26221e77c4baabee77c8c1f9a297de1d4",
+          "f7e3155535f425d0deaa204f796506b848637b92",
+          "d0cc8be716a30e24a4867f56e5f4b630a2987e7d",
+          "bb3818996189f7fe1ea59d74f4412fe6bb8d5a05",
+          "7e24f88f7673f22c790fd972ed5d43e94e5f1b86",
+          "f7d756268f44c9a5fdbacb9d37e41b3701902375",
+          "bf069183cd92f068525793dffa31a9cb6a681714",
+          "1ba083f88aca663fd8a4ee4f6e2fe806e36192b1",
+          "7f9e0a674097bdcf7761dd07db3b8e534eeb009c",
+          "14dce40d8c212ef913159a7cb0fcb33fd60f25eb",
+          "e0d84a652670dda9b33aa777690c766b39e2eb69",
+          "398eee67526875f34f06492dcbf7592f0ca2732f"
+        ]
+      }
+    ]
+  }
+]

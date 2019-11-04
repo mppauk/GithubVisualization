@@ -1,0 +1,223 @@
+[
+  {
+    "RepositoryName": "calcite",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T06:02:19Z",
+    "EndDate": "2019-09-23T07:02:19",
+    "Branches": 31,
+    "Forks": 931,
+    "Files": [
+      {
+        "Sha": "659282efdfc69ea75f9b83927df5fc303e9ab735",
+        "FileName": "ComparableOperandTypeChecker.java",
+        "Path": "core/src/main/java/org/apache/calcite/sql/type/ComparableOperandTypeChecker.java",
+        "DateUpdated": "2019-09-23T06:54:40Z",
+        "Additions": 7,
+        "Deletions": 5,
+        "Commits": [
+          "64068d69ceee8450e56c4705d26b7a2f944909b9"
+        ]
+      },
+      {
+        "Sha": "acd0cdf0d924e361614892ce6a3c441f3b0de36f",
+        "FileName": "AbstractTypeCoercion.java",
+        "Path": "core/src/main/java/org/apache/calcite/sql/validate/implicit/AbstractTypeCoercion.java",
+        "DateUpdated": "2019-09-23T06:54:40Z",
+        "Additions": 28,
+        "Deletions": 5,
+        "Commits": [
+          "64068d69ceee8450e56c4705d26b7a2f944909b9"
+        ]
+      },
+      {
+        "Sha": "e6b6cfee870ab862e510945e56d850a6355557f4",
+        "FileName": "TypeCoercion.java",
+        "Path": "core/src/main/java/org/apache/calcite/sql/validate/implicit/TypeCoercion.java",
+        "DateUpdated": "2019-09-23T06:54:40Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "64068d69ceee8450e56c4705d26b7a2f944909b9"
+        ]
+      },
+      {
+        "Sha": "fe2f347feec5aee86fc04297dfeb0450dfe6d941",
+        "FileName": "TypeCoercionImpl.java",
+        "Path": "core/src/main/java/org/apache/calcite/sql/validate/implicit/TypeCoercionImpl.java",
+        "DateUpdated": "2019-09-23T06:54:40Z",
+        "Additions": 121,
+        "Deletions": 68,
+        "Commits": [
+          "64068d69ceee8450e56c4705d26b7a2f944909b9"
+        ]
+      },
+      {
+        "Sha": "ed5ca2ba0dd5e1be00d44c0511a85c2e381466d9",
+        "FileName": "TypeCoercionConverterTest.java",
+        "Path": "core/src/test/java/org/apache/calcite/test/TypeCoercionConverterTest.java",
+        "DateUpdated": "2019-09-23T06:54:40Z",
+        "Additions": 26,
+        "Deletions": 59,
+        "Commits": [
+          "64068d69ceee8450e56c4705d26b7a2f944909b9"
+        ]
+      },
+      {
+        "Sha": "c7075dfb981bf1cc504e751653f81dbffd8600e4",
+        "FileName": "TypeCoercionTest.java",
+        "Path": "core/src/test/java/org/apache/calcite/test/TypeCoercionTest.java",
+        "DateUpdated": "2019-09-23T06:54:40Z",
+        "Additions": 22,
+        "Deletions": 12,
+        "Commits": [
+          "64068d69ceee8450e56c4705d26b7a2f944909b9"
+        ]
+      },
+      {
+        "Sha": "f697ae20940fac788050757dd604c5c3669048b1",
+        "FileName": "TypeCoercionConverterTest.xml",
+        "Path": "core/src/test/resources/org/apache/calcite/test/TypeCoercionConverterTest.xml",
+        "DateUpdated": "2019-09-23T06:54:40Z",
+        "Additions": 30,
+        "Deletions": 162,
+        "Commits": [
+          "64068d69ceee8450e56c4705d26b7a2f944909b9"
+        ]
+      },
+      {
+        "Sha": "777eaa45e3c215401122287eb20550609317fe58",
+        "FileName": "misc.iq",
+        "Path": "core/src/test/resources/sql/misc.iq",
+        "DateUpdated": "2019-09-23T06:54:40Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "64068d69ceee8450e56c4705d26b7a2f944909b9"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "64068d69ceee8450e56c4705d26b7a2f944909b9",
+        "Author": {
+          "name": "\"Danny Chan\"",
+          "location": "Hangzhou China",
+          "company": "Alibaba"
+        },
+        "Commitor": {
+          "name": "\"Danny Chan\"",
+          "location": "Hangzhou China",
+          "company": "Alibaba"
+        },
+        "Date": "2019-09-23T06:54:40Z",
+        "additions": 243,
+        "deletions": 317,
+        "files": [
+          "659282efdfc69ea75f9b83927df5fc303e9ab735",
+          "acd0cdf0d924e361614892ce6a3c441f3b0de36f",
+          "e6b6cfee870ab862e510945e56d850a6355557f4",
+          "fe2f347feec5aee86fc04297dfeb0450dfe6d941",
+          "ed5ca2ba0dd5e1be00d44c0511a85c2e381466d9",
+          "c7075dfb981bf1cc504e751653f81dbffd8600e4",
+          "f697ae20940fac788050757dd604c5c3669048b1",
+          "777eaa45e3c215401122287eb20550609317fe58"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "calcite",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T08:02:34Z",
+    "EndDate": "2019-09-23T09:02:34",
+    "Branches": 31,
+    "Forks": 932,
+    "Files": [
+      {
+        "Sha": "6d7d3bec0d924963c301b3df26530c98a0ef3e74",
+        "FileName": "HiveSqlDialect.java",
+        "Path": "core/src/main/java/org/apache/calcite/sql/dialect/HiveSqlDialect.java",
+        "DateUpdated": "2019-09-23T08:54:45Z",
+        "Additions": 16,
+        "Deletions": 0,
+        "Commits": [
+          "a7a566bb004fd73ee6402652f5572ad0012a97c9"
+        ]
+      },
+      {
+        "Sha": "e05656fe31773677f4abbb8af5521b656360afb1",
+        "FileName": "RelToSqlConverterTest.java",
+        "Path": "core/src/test/java/org/apache/calcite/rel/rel2sql/RelToSqlConverterTest.java",
+        "DateUpdated": "2019-09-23T08:54:45Z",
+        "Additions": 32,
+        "Deletions": 0,
+        "Commits": [
+          "a7a566bb004fd73ee6402652f5572ad0012a97c9"
+        ]
+      },
+      {
+        "Sha": "18b22635e43516ce032a0a042e84e84ca457be9f",
+        "FileName": "ConstantExpression.java",
+        "Path": "linq4j/src/main/java/org/apache/calcite/linq4j/tree/ConstantExpression.java",
+        "DateUpdated": "2019-09-23T08:43:08Z",
+        "Additions": 30,
+        "Deletions": 0,
+        "Commits": [
+          "78c2a007b5b597f673323b80dde21c23d31f23ea"
+        ]
+      },
+      {
+        "Sha": "005e8aea530150daa2c2c39ef71e1afaa51ae9bf",
+        "FileName": "ExpressionTest.java",
+        "Path": "linq4j/src/test/java/org/apache/calcite/linq4j/test/ExpressionTest.java",
+        "DateUpdated": "2019-09-23T08:43:08Z",
+        "Additions": 78,
+        "Deletions": 4,
+        "Commits": [
+          "78c2a007b5b597f673323b80dde21c23d31f23ea"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a7a566bb004fd73ee6402652f5572ad0012a97c9",
+        "Author": {
+          "name": "\"JackyWoo\"",
+          "location": "Shenzhen, China"
+        },
+        "Commitor": {
+          "name": "\"Danny Chan\"",
+          "location": "Hangzhou China",
+          "company": "Alibaba"
+        },
+        "Date": "2019-09-23T08:54:45Z",
+        "additions": 48,
+        "deletions": 0,
+        "files": [
+          "6d7d3bec0d924963c301b3df26530c98a0ef3e74",
+          "e05656fe31773677f4abbb8af5521b656360afb1"
+        ]
+      },
+      {
+        "sha": "78c2a007b5b597f673323b80dde21c23d31f23ea",
+        "Author": {
+          "name": "null",
+          "location": "北京",
+          "company": "@alibaba"
+        },
+        "Commitor": {
+          "name": "\"Danny Chan\"",
+          "location": "Hangzhou China",
+          "company": "Alibaba"
+        },
+        "Date": "2019-09-23T08:43:08Z",
+        "additions": 108,
+        "deletions": 4,
+        "files": [
+          "18b22635e43516ce032a0a042e84e84ca457be9f",
+          "005e8aea530150daa2c2c39ef71e1afaa51ae9bf"
+        ]
+      }
+    ]
+  }
+]

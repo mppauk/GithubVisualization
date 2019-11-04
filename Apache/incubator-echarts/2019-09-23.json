@@ -1,0 +1,328 @@
+[
+  {
+    "RepositoryName": "incubator-echarts",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T02:02:24Z",
+    "EndDate": "2019-09-23T03:02:24",
+    "Branches": 10,
+    "Forks": 11264,
+    "Files": [
+      {
+        "Sha": "784e59c157084c680cf6c8f03f4ca054356cea71",
+        "FileName": "custom.js",
+        "Path": "src/chart/custom.js",
+        "DateUpdated": "2019-09-23T02:22:31Z",
+        "Additions": 9,
+        "Deletions": 1,
+        "Commits": [
+          "c473639c21a395717db58302512bb1a78c08e8be"
+        ]
+      },
+      {
+        "Sha": "e689db1bd202a5965c7fe4bca9cda68f156e56fe",
+        "FileName": "graphic.js",
+        "Path": "src/component/graphic.js",
+        "DateUpdated": "2019-09-23T02:22:31Z",
+        "Additions": 17,
+        "Deletions": 1,
+        "Commits": [
+          "c473639c21a395717db58302512bb1a78c08e8be"
+        ]
+      },
+      {
+        "Sha": "6ddd62eccfdc93a8d629d7d6d217140a28b11ade",
+        "FileName": "export.js",
+        "Path": "src/export.js",
+        "DateUpdated": "2019-09-23T02:22:31Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "c473639c21a395717db58302512bb1a78c08e8be"
+        ]
+      },
+      {
+        "Sha": "0ca633d3f143a75eeb116cb35a566027c5d49d9d",
+        "FileName": "graphic.js",
+        "Path": "src/util/graphic.js",
+        "DateUpdated": "2019-09-23T02:22:31Z",
+        "Additions": 61,
+        "Deletions": 0,
+        "Commits": [
+          "c473639c21a395717db58302512bb1a78c08e8be"
+        ]
+      },
+      {
+        "Sha": "ee5d328a5f6cec0ad7ec465072f69e9b0b32c25b",
+        "FileName": "README.md",
+        "Path": "README.md",
+        "DateUpdated": "2019-09-23T02:15:53Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "92b2ef2e2ca435f996677279ba9be1fe69dc96e7"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c473639c21a395717db58302512bb1a78c08e8be",
+        "Author": {
+          "name": "\"sushuang\""
+        },
+        "Commitor": {
+          "name": "\"Yi Shen\"",
+          "location": "Shanghai, China",
+          "company": "Baidu, Inc."
+        },
+        "Date": "2019-09-23T02:22:31Z",
+        "additions": 88,
+        "deletions": 2,
+        "files": [
+          "784e59c157084c680cf6c8f03f4ca054356cea71",
+          "e689db1bd202a5965c7fe4bca9cda68f156e56fe",
+          "6ddd62eccfdc93a8d629d7d6d217140a28b11ade",
+          "0ca633d3f143a75eeb116cb35a566027c5d49d9d"
+        ]
+      },
+      {
+        "sha": "92b2ef2e2ca435f996677279ba9be1fe69dc96e7",
+        "Author": {
+          "name": "null",
+          "location": "Shanghai",
+          "company": "SonicWALL"
+        },
+        "Commitor": {
+          "name": "\"Yi Shen\"",
+          "location": "Shanghai, China",
+          "company": "Baidu, Inc."
+        },
+        "Date": "2019-09-23T02:15:53Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "ee5d328a5f6cec0ad7ec465072f69e9b0b32c25b"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-echarts",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T15:02:22Z",
+    "EndDate": "2019-09-23T16:02:22",
+    "Branches": 10,
+    "Forks": 11280,
+    "Files": [
+      {
+        "Sha": "0a2256d1771a101e572a4a020872cf9ad33046bf",
+        "FileName": "AxisProxy.js",
+        "Path": "src/component/dataZoom/AxisProxy.js",
+        "DateUpdated": "2019-09-23T15:25:37Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "fbad7efec3437dd5fae6fa6b64aca30b5e345bfc"
+        ]
+      },
+      {
+        "Sha": "4388d600fef873a0ae6dae1eff15cfa75063ea86",
+        "FileName": "DataZoomModel.js",
+        "Path": "src/component/dataZoom/DataZoomModel.js",
+        "DateUpdated": "2019-09-23T15:25:37Z",
+        "Additions": 76,
+        "Deletions": 25,
+        "Commits": [
+          "fbad7efec3437dd5fae6fa6b64aca30b5e345bfc"
+        ]
+      },
+      {
+        "Sha": "cfd14068b3fa2c35f4f4cbd825f2e92515673153",
+        "FileName": "dataZoomProcessor.js",
+        "Path": "src/component/dataZoom/dataZoomProcessor.js",
+        "DateUpdated": "2019-09-23T15:25:37Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "fbad7efec3437dd5fae6fa6b64aca30b5e345bfc"
+        ]
+      },
+      {
+        "Sha": "992ab4cdf9e80aacff072145c6c6ad47c4806dad",
+        "FileName": "dataZoom-toolbox.html",
+        "Path": "test/dataZoom-toolbox.html",
+        "DateUpdated": "2019-09-23T15:25:37Z",
+        "Additions": 51,
+        "Deletions": 0,
+        "Commits": [
+          "fbad7efec3437dd5fae6fa6b64aca30b5e345bfc"
+        ]
+      },
+      {
+        "Sha": "723bed1438bc26c83583f124d0b5054be8ee0343",
+        "FileName": "__meta__.json",
+        "Path": "test/runTest/actions/__meta__.json",
+        "DateUpdated": "2019-09-23T15:25:37Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "fbad7efec3437dd5fae6fa6b64aca30b5e345bfc"
+        ]
+      },
+      {
+        "Sha": "ae79937286a9ed45cc5a09a858c40201aefe3222",
+        "FileName": "dataZoom-toolbox.json",
+        "Path": "test/runTest/actions/dataZoom-toolbox.json",
+        "DateUpdated": "2019-09-23T15:25:37Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "fbad7efec3437dd5fae6fa6b64aca30b5e345bfc"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "fbad7efec3437dd5fae6fa6b64aca30b5e345bfc",
+        "Author": {
+          "name": "\"sushuang\""
+        },
+        "Commitor": {
+          "name": "\"sushuang\""
+        },
+        "Date": "2019-09-23T15:25:37Z",
+        "additions": 132,
+        "deletions": 30,
+        "files": [
+          "0a2256d1771a101e572a4a020872cf9ad33046bf",
+          "4388d600fef873a0ae6dae1eff15cfa75063ea86",
+          "cfd14068b3fa2c35f4f4cbd825f2e92515673153",
+          "992ab4cdf9e80aacff072145c6c6ad47c4806dad",
+          "723bed1438bc26c83583f124d0b5054be8ee0343",
+          "ae79937286a9ed45cc5a09a858c40201aefe3222"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-echarts",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T17:02:49Z",
+    "EndDate": "2019-09-23T18:02:49",
+    "Branches": 10,
+    "Forks": 11280,
+    "Files": [
+      {
+        "Sha": "ceeb39b1c67ad7a88d3860e921c524fe5931b2d0",
+        "FileName": "LegendModel.js",
+        "Path": "src/component/legend/LegendModel.js",
+        "DateUpdated": "2019-09-23T17:40:28Z",
+        "Additions": 11,
+        "Deletions": 3,
+        "Commits": [
+          "2df6956106dbd87fe3e3c6dc810b3463ff381815"
+        ]
+      },
+      {
+        "Sha": "3556038fb9d13c2e04789d93dd42361f58a2bbdd",
+        "FileName": "LegendView.js",
+        "Path": "src/component/legend/LegendView.js",
+        "DateUpdated": "2019-09-23T17:40:28Z",
+        "Additions": 10,
+        "Deletions": 14,
+        "Commits": [
+          "2df6956106dbd87fe3e3c6dc810b3463ff381815",
+          "60d2751bdd879843ea6d7f74e25d1a7824589c31"
+        ]
+      },
+      {
+        "Sha": "8b090e6b93ffcc9bfc847aa6148d479f98734536",
+        "FileName": "Series.js",
+        "Path": "src/model/Series.js",
+        "DateUpdated": "2019-09-23T17:40:28Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "2df6956106dbd87fe3e3c6dc810b3463ff381815"
+        ]
+      },
+      {
+        "Sha": "64d4643092427f2a421c17160522d1851ade35ed",
+        "FileName": "dataFormat.js",
+        "Path": "src/model/mixin/dataFormat.js",
+        "DateUpdated": "2019-09-23T17:40:28Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "2df6956106dbd87fe3e3c6dc810b3463ff381815"
+        ]
+      },
+      {
+        "Sha": "63c2b84e9ad0c1b5ea7674a9a2c30797f6d26574",
+        "FileName": "dataColor.js",
+        "Path": "src/visual/dataColor.js",
+        "DateUpdated": "2019-09-23T17:40:28Z",
+        "Additions": 23,
+        "Deletions": 2,
+        "Commits": [
+          "2df6956106dbd87fe3e3c6dc810b3463ff381815"
+        ]
+      },
+      {
+        "Sha": "66e5a60aca5f0f39004c563325a6da454f80db4b",
+        "FileName": "seriesColor.js",
+        "Path": "src/visual/seriesColor.js",
+        "DateUpdated": "2019-09-23T17:40:28Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "2df6956106dbd87fe3e3c6dc810b3463ff381815"
+        ]
+      },
+      {
+        "Sha": "8eb11a577dde2b82119439442f83304931ee1b14",
+        "FileName": "legend-borderColor.html",
+        "Path": "test/legend-borderColor.html",
+        "DateUpdated": "2019-09-23T17:40:28Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "2df6956106dbd87fe3e3c6dc810b3463ff381815",
+          "60d2751bdd879843ea6d7f74e25d1a7824589c31"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "2df6956106dbd87fe3e3c6dc810b3463ff381815",
+        "Author": {
+          "name": "\"sushuang\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T17:40:28Z",
+        "additions": 654,
+        "deletions": 13,
+        "files": [
+          "ceeb39b1c67ad7a88d3860e921c524fe5931b2d0",
+          "3556038fb9d13c2e04789d93dd42361f58a2bbdd",
+          "8b090e6b93ffcc9bfc847aa6148d479f98734536",
+          "64d4643092427f2a421c17160522d1851ade35ed",
+          "63c2b84e9ad0c1b5ea7674a9a2c30797f6d26574",
+          "66e5a60aca5f0f39004c563325a6da454f80db4b",
+          "8eb11a577dde2b82119439442f83304931ee1b14"
+        ]
+      },
+      {
+        "sha": "60d2751bdd879843ea6d7f74e25d1a7824589c31",
+        "Date": "2019-09-23T17:23:56Z",
+        "additions": 13,
+        "deletions": 7,
+        "files": [
+          "3556038fb9d13c2e04789d93dd42361f58a2bbdd",
+          "8eb11a577dde2b82119439442f83304931ee1b14"
+        ]
+      }
+    ]
+  }
+]

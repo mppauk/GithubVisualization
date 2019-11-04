@@ -1,0 +1,44 @@
+[
+  {
+    "RepositoryName": "airavata",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T00:04:18Z",
+    "EndDate": "2019-09-24T01:04:18",
+    "Branches": 26,
+    "Forks": 101,
+    "Files": [
+      {
+        "Sha": "23e0ea6c0aef3960f4017c9a248f8a6882d4036e",
+        "FileName": "vars.yml",
+        "Path": "dev-tools/ansible/inventories/scigap/production/pga_config/epwgateway/vars.yml",
+        "DateUpdated": "2019-09-24T00:16:26Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "b9c9be39ae11089f3d3ecf1cb927cc5a71a6a93d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "b9c9be39ae11089f3d3ecf1cb927cc5a71a6a93d",
+        "Author": {
+          "name": "\"Eroma Abeysinghe\"",
+          "location": "Bloomington",
+          "company": "IU"
+        },
+        "Commitor": {
+          "name": "\"Eroma Abeysinghe\"",
+          "location": "Bloomington",
+          "company": "IU"
+        },
+        "Date": "2019-09-24T00:16:26Z",
+        "additions": 1,
+        "deletions": 0,
+        "files": [
+          "23e0ea6c0aef3960f4017c9a248f8a6882d4036e"
+        ]
+      }
+    ]
+  }
+]

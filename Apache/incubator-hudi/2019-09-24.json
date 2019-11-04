@@ -1,0 +1,40 @@
+[
+  {
+    "RepositoryName": "incubator-hudi",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T11:48:02Z",
+    "EndDate": "2019-09-24T12:48:02",
+    "Branches": 5,
+    "Forks": 227,
+    "Files": [
+      {
+        "Sha": "ee826ac107a2f77d505c4a0774d9663ce75f1a1d",
+        "FileName": "HoodieDeltaStreamer.java",
+        "Path": "hudi-utilities/src/main/java/org/apache/hudi/utilities/deltastreamer/HoodieDeltaStreamer.java",
+        "DateUpdated": "2019-09-24T12:30:35Z",
+        "Additions": 11,
+        "Deletions": 0,
+        "Commits": [
+          "bf05f954133da5b760a66906557df0305dbd0eaf"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "bf05f954133da5b760a66906557df0305dbd0eaf",
+        "Author": {
+          "name": "\"Xing Pan\""
+        },
+        "Commitor": {
+          "name": "\"Balaji Varadarajan\""
+        },
+        "Date": "2019-09-24T12:30:35Z",
+        "additions": 11,
+        "deletions": 0,
+        "files": [
+          "ee826ac107a2f77d505c4a0774d9663ce75f1a1d"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "RepositoryName": "incubator-tuweni",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T08:49:17Z",
+    "EndDate": "2019-09-24T09:49:17",
+    "Branches": 3,
+    "Forks": 24,
+    "Files": [
+      {
+        "Sha": "01e127e732fc729639bb4d2276caffad0e1982fa",
+        "FileName": "Invite.java",
+        "Path": "scuttlebutt/src/main/java/org/apache/tuweni/scuttlebutt/Invite.java",
+        "DateUpdated": "2019-09-24T09:39:30Z",
+        "Additions": 8,
+        "Deletions": 11,
+        "Commits": [
+          "6958d1f04cf5cf376f716ad534e30802520b6f16",
+          "e53fb4e6fcaf7000bf3506ccbb2f846990558886"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "6958d1f04cf5cf376f716ad534e30802520b6f16",
+        "Author": {
+          "name": "\"Gordon Martin\"",
+          "location": "Glasgow, Scotland"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T09:39:30Z",
+        "additions": 23,
+        "deletions": 11,
+        "files": [
+          "01e127e732fc729639bb4d2276caffad0e1982fa"
+        ]
+      },
+      {
+        "sha": "e53fb4e6fcaf7000bf3506ccbb2f846990558886",
+        "Author": {
+          "name": "\"Gordon Martin\"",
+          "location": "Glasgow, Scotland"
+        },
+        "Commitor": {
+          "name": "\"Gordon Martin\"",
+          "location": "Glasgow, Scotland"
+        },
+        "Date": "2019-09-24T09:27:25Z",
+        "additions": 8,
+        "deletions": 0,
+        "files": [
+          "01e127e732fc729639bb4d2276caffad0e1982fa"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-tuweni",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T09:48:54Z",
+    "EndDate": "2019-09-24T10:48:54",
+    "Branches": 3,
+    "Forks": 24,
+    "Files": [
+      {
+        "Sha": "9ee66a578f4ce1eb06238bcc0371a99b026fb5ed",
+        "FileName": "build.gradle",
+        "Path": "scuttlebutt-client-lib/build.gradle",
+        "DateUpdated": "2019-09-24T09:54:27Z",
+        "Additions": 12,
+        "Deletions": 0,
+        "Commits": [
+          "e31ba207ff1ff698cf4f5a53370f9857474f5be7"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "e31ba207ff1ff698cf4f5a53370f9857474f5be7",
+        "Author": {
+          "name": "\"Gordon Martin\"",
+          "location": "Glasgow, Scotland"
+        },
+        "Commitor": {
+          "name": "\"Gordon Martin\"",
+          "location": "Glasgow, Scotland"
+        },
+        "Date": "2019-09-24T09:54:27Z",
+        "additions": 12,
+        "deletions": 0,
+        "files": [
+          "9ee66a578f4ce1eb06238bcc0371a99b026fb5ed"
+        ]
+      }
+    ]
+  }
+]

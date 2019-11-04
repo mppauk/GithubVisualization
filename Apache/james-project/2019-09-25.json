@@ -1,0 +1,3206 @@
+[
+  {
+    "RepositoryName": "james-project",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T02:46:59Z",
+    "EndDate": "2019-09-25T03:46:59",
+    "Branches": 17,
+    "Forks": 253,
+    "Files": [
+      {
+        "Sha": "1904db232aed446c9d7434ff0a12917a5cf514b4",
+        "FileName": "2019-09-05-james-3.4.0.markdown",
+        "Path": "src/homepage/_posts/2019-09-05-james-3.4.0.markdown",
+        "DateUpdated": "2019-09-25T03:22:27Z",
+        "Additions": 35,
+        "Deletions": 0,
+        "Commits": [
+          "d3b4084aa7daf7c5de8b83eb8ca1f41664e34055"
+        ]
+      },
+      {
+        "Sha": "4b60f2afc4a0dc7d945c3e25cb11b503fad7edf7",
+        "FileName": "download.xml",
+        "Path": "src/site/xdoc/download.xml",
+        "DateUpdated": "2019-09-25T03:22:26Z",
+        "Additions": 47,
+        "Deletions": 59,
+        "Commits": [
+          "a103f57753f2b61f32720b38c938b3e992f0382a"
+        ]
+      },
+      {
+        "Sha": "b05fe364eb1f89361e748e1b5d5593debcb5b372",
+        "FileName": "index.xml",
+        "Path": "src/site/xdoc/server/index.xml",
+        "DateUpdated": "2019-09-25T03:22:26Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "093750f67ee6e1a34ae76e91bd612043aa900868"
+        ]
+      },
+      {
+        "Sha": "ec41f2ef3b2060c24e903893b761f1f2a31eb229",
+        "FileName": "mail-processing.html",
+        "Path": "src/homepage/howTo/mail-processing.html",
+        "DateUpdated": "2019-09-25T03:22:26Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "887ca0efcbed63b873de94961c0356790f0d3c77"
+        ]
+      },
+      {
+        "Sha": "1fdd6cc3068520921ad2865026ceebf2130ddc76",
+        "FileName": "index.html",
+        "Path": "src/homepage/index.html",
+        "DateUpdated": "2019-09-25T03:22:26Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "578e075f66a232cb352b230f5d87045912c23422"
+        ]
+      },
+      {
+        "Sha": "c1e38b80400096e72d15ae483ba9af000962cc03",
+        "FileName": "upgrade-instructions.md",
+        "Path": "upgrade-instructions.md",
+        "DateUpdated": "2019-09-25T03:20:53Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "b48dccec3fe46c9d116c52bf1366b15856f2e8e9"
+        ]
+      },
+      {
+        "Sha": "8c951dab7ac07634aa85e30a180c5513aff8bace",
+        "FileName": "CHANGELOG.md",
+        "Path": "CHANGELOG.md",
+        "DateUpdated": "2019-09-25T03:20:53Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "925b2aef8852aa2c2ffb5797395457669ad8be2c"
+        ]
+      },
+      {
+        "Sha": "3b82156de656b0fed09dab185965944b1045ad76",
+        "FileName": "UserReindexingTaskAdditionalInformationDTO.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/UserReindexingTaskAdditionalInformationDTO.java",
+        "DateUpdated": "2019-09-25T03:20:17Z",
+        "Additions": 77,
+        "Deletions": 0,
+        "Commits": [
+          "76c2fd98203304efb08d952e4e62b321e5ea3f44"
+        ]
+      },
+      {
+        "Sha": "737f17ad69dd7863f5f41ad1d8fb5ee44821e12a",
+        "FileName": "UserReindexingTaskSerializationTest.java",
+        "Path": "mailbox/tools/indexer/src/test/java/org/apache/mailbox/tools/indexer/UserReindexingTaskSerializationTest.java",
+        "DateUpdated": "2019-09-25T03:20:17Z",
+        "Additions": 46,
+        "Deletions": 0,
+        "Commits": [
+          "76c2fd98203304efb08d952e4e62b321e5ea3f44"
+        ]
+      },
+      {
+        "Sha": "7b69928beb994045df904c8a55edc32ca10a5678",
+        "FileName": "UserReindexingTask.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/UserReindexingTask.java",
+        "DateUpdated": "2019-09-25T03:20:17Z",
+        "Additions": 4,
+        "Deletions": 40,
+        "Commits": [
+          "a93aca8184de1b1b762e6d01af25c77d003706a7"
+        ]
+      },
+      {
+        "Sha": "82e12f5952e98732f0e2ee5e17a2947e7586b584",
+        "FileName": "UserReindexingTaskDTO.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/UserReindexingTaskDTO.java",
+        "DateUpdated": "2019-09-25T03:20:17Z",
+        "Additions": 61,
+        "Deletions": 0,
+        "Commits": [
+          "a93aca8184de1b1b762e6d01af25c77d003706a7"
+        ]
+      },
+      {
+        "Sha": "c586e655ac7890b9d39dfd68b73b5347f52aaef1",
+        "FileName": "UserReindexingTaskSerializationTest.java",
+        "Path": "mailbox/tools/indexer/src/test/java/org/apache/mailbox/tools/indexer/UserReindexingTaskSerializationTest.java",
+        "DateUpdated": "2019-09-25T03:20:17Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a93aca8184de1b1b762e6d01af25c77d003706a7"
+        ]
+      },
+      {
+        "Sha": "c7b9efcd3dc9a49c9221c8469d84d7651db45d54",
+        "FileName": "SingleMailboxReindexingTaskAdditionalInformationDTO.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/SingleMailboxReindexingTaskAdditionalInformationDTO.java",
+        "DateUpdated": "2019-09-25T03:20:16Z",
+        "Additions": 76,
+        "Deletions": 0,
+        "Commits": [
+          "fca4be5a9a2fe6defebb404f0a533e6b30ad8035"
+        ]
+      },
+      {
+        "Sha": "4619f624e95a532a2160d25bc0255904430d322a",
+        "FileName": "SingleMailboxReindexingTaskSerializationTest.java",
+        "Path": "mailbox/tools/indexer/src/test/java/org/apache/mailbox/tools/indexer/SingleMailboxReindexingTaskSerializationTest.java",
+        "DateUpdated": "2019-09-25T03:20:16Z",
+        "Additions": 43,
+        "Deletions": 0,
+        "Commits": [
+          "fca4be5a9a2fe6defebb404f0a533e6b30ad8035"
+        ]
+      },
+      {
+        "Sha": "b29f000d2fe343d37c768c45343dd51b8687844a",
+        "FileName": "SingleMailboxReindexingTask.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/SingleMailboxReindexingTask.java",
+        "DateUpdated": "2019-09-25T03:20:16Z",
+        "Additions": 4,
+        "Deletions": 40,
+        "Commits": [
+          "e264e9a37afd176d8de591a6f8543b399f7ca25e"
+        ]
+      },
+      {
+        "Sha": "6d16df51b31eece211f5fcf4b1964598ce6a42b1",
+        "FileName": "SingleMailboxReindexingTaskDTO.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/SingleMailboxReindexingTaskDTO.java",
+        "DateUpdated": "2019-09-25T03:20:16Z",
+        "Additions": 61,
+        "Deletions": 0,
+        "Commits": [
+          "e264e9a37afd176d8de591a6f8543b399f7ca25e"
+        ]
+      },
+      {
+        "Sha": "6fa7c3a449c59be018d5d45ca26dd6b340244d4a",
+        "FileName": "SingleMailboxReindexingTaskSerializationTest.java",
+        "Path": "mailbox/tools/indexer/src/test/java/org/apache/mailbox/tools/indexer/SingleMailboxReindexingTaskSerializationTest.java",
+        "DateUpdated": "2019-09-25T03:20:16Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "e264e9a37afd176d8de591a6f8543b399f7ca25e"
+        ]
+      },
+      {
+        "Sha": "18659da0eac79e017ef1d17f4c1848d7d52bd98b",
+        "FileName": "FullReindexingTaskSerializationTest.java",
+        "Path": "mailbox/tools/indexer/src/test/java/org/apache/mailbox/tools/indexer/FullReindexingTaskSerializationTest.java",
+        "DateUpdated": "2019-09-25T03:20:16Z",
+        "Additions": 41,
+        "Deletions": 0,
+        "Commits": [
+          "5b4a0195d664f72931fc270ca97f0ac7592de7a5"
+        ]
+      },
+      {
+        "Sha": "e1cca2a108fa7a7167f659dcb8e449f2cfd21153",
+        "FileName": "ErrorRecoveryIndexationTaskSerializationTest.java",
+        "Path": "mailbox/tools/indexer/src/test/java/org/apache/mailbox/tools/indexer/ErrorRecoveryIndexationTaskSerializationTest.java",
+        "DateUpdated": "2019-09-25T03:20:16Z",
+        "Additions": 33,
+        "Deletions": 1,
+        "Commits": [
+          "19204325a8f5d09df00658d2f28d6608c7e39810"
+        ]
+      },
+      {
+        "Sha": "7d5c27dc13ca5a031d34e5c900607cf30fe0884d",
+        "FileName": "ReprocessingContextInformationDTO.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/ReprocessingContextInformationDTO.java",
+        "DateUpdated": "2019-09-25T03:20:16Z",
+        "Additions": 137,
+        "Deletions": 0,
+        "Commits": [
+          "a96ce1486b3b1cdadca517dd85bdc46a5a7af080"
+        ]
+      },
+      {
+        "Sha": "b13d49c5ed080761471c45ca4445829fa9c1ab6f",
+        "FileName": "ErrorRecoveryIndexationTask.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/ErrorRecoveryIndexationTask.java",
+        "DateUpdated": "2019-09-25T03:20:16Z",
+        "Additions": 5,
+        "Deletions": 79,
+        "Commits": [
+          "e844ff6ca867ea64dade7e2c899e3a35153c43de"
+        ]
+      },
+      {
+        "Sha": "55c98dec3ab7e90227bb0a2479dfe7aa2cc5e01f",
+        "FileName": "ErrorRecoveryIndexationTaskDTO.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/ErrorRecoveryIndexationTaskDTO.java",
+        "DateUpdated": "2019-09-25T03:20:16Z",
+        "Additions": 109,
+        "Deletions": 0,
+        "Commits": [
+          "e844ff6ca867ea64dade7e2c899e3a35153c43de"
+        ]
+      },
+      {
+        "Sha": "2103682a49ea39a6987e4a0b1bb0e6b6b697c307",
+        "FileName": "ErrorRecoveryIndexationTaskSerializationTest.java",
+        "Path": "mailbox/tools/indexer/src/test/java/org/apache/mailbox/tools/indexer/ErrorRecoveryIndexationTaskSerializationTest.java",
+        "DateUpdated": "2019-09-25T03:20:16Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "e844ff6ca867ea64dade7e2c899e3a35153c43de"
+        ]
+      },
+      {
+        "Sha": "fe080319edb7eb5ef97e2215cc3f13360c5368c3",
+        "FileName": "ErrorRecoveryIndexationTask.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/ErrorRecoveryIndexationTask.java",
+        "DateUpdated": "2019-09-25T03:18:43Z",
+        "Additions": 1,
+        "Deletions": 3,
+        "Commits": [
+          "19908020b170c71231310e8287c8767dc03bb6cf"
+        ]
+      },
+      {
+        "Sha": "0177a6ab12c1f1fca73cca5ebec7f8f3416077ac",
+        "FileName": "FullReindexingTask.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/FullReindexingTask.java",
+        "DateUpdated": "2019-09-25T03:18:43Z",
+        "Additions": 1,
+        "Deletions": 3,
+        "Commits": [
+          "19908020b170c71231310e8287c8767dc03bb6cf"
+        ]
+      },
+      {
+        "Sha": "cad7c523ddfce8007a4daf47e38863be91a9e87d",
+        "FileName": "ReprocessingContextInformation.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/ReprocessingContextInformation.java",
+        "DateUpdated": "2019-09-25T03:18:43Z",
+        "Additions": 15,
+        "Deletions": 6,
+        "Commits": [
+          "19908020b170c71231310e8287c8767dc03bb6cf"
+        ]
+      },
+      {
+        "Sha": "4ad01068793d550d6dbbede340e57311afd63839",
+        "FileName": "SingleMailboxReindexingTask.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/SingleMailboxReindexingTask.java",
+        "DateUpdated": "2019-09-25T03:18:43Z",
+        "Additions": 10,
+        "Deletions": 5,
+        "Commits": [
+          "19908020b170c71231310e8287c8767dc03bb6cf"
+        ]
+      },
+      {
+        "Sha": "53d92750654e5e74dc6b092dbeb3760dfd56f6e2",
+        "FileName": "UserReindexingTask.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/UserReindexingTask.java",
+        "DateUpdated": "2019-09-25T03:18:43Z",
+        "Additions": 9,
+        "Deletions": 5,
+        "Commits": [
+          "19908020b170c71231310e8287c8767dc03bb6cf"
+        ]
+      },
+      {
+        "Sha": "ee0be2d41c23f0a907349c5e579339df81c44eec",
+        "FileName": "SerialiseToHTTP.java",
+        "Path": "mailet/standard/src/main/java/org/apache/james/transport/mailets/SerialiseToHTTP.java",
+        "DateUpdated": "2019-09-25T03:18:04Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "8c284f7ba3bae5bb38a9596c84827af532d0750c"
+        ]
+      },
+      {
+        "Sha": "9eda16b8fb81dbc042e4fdeee763ac06c9a026db",
+        "FileName": "HeadersToHTTPTest.java",
+        "Path": "mailet/standard/src/test/java/org/apache/james/transport/mailets/HeadersToHTTPTest.java",
+        "DateUpdated": "2019-09-25T03:18:04Z",
+        "Additions": 23,
+        "Deletions": 38,
+        "Commits": [
+          "8c284f7ba3bae5bb38a9596c84827af532d0750c"
+        ]
+      },
+      {
+        "Sha": "89455c0993bf8e3476cd893fe3da3aedfc94d8d6",
+        "FileName": "Constants.java",
+        "Path": "backends-common/rabbitmq/src/main/java/org/apache/james/backends/rabbitmq/Constants.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "a544efb464707738573b97efd6e075186ecb16b4",
+        "FileName": "RabbitMQChannelPool.java",
+        "Path": "backends-common/rabbitmq/src/main/java/org/apache/james/backends/rabbitmq/RabbitMQChannelPool.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "8b12e2ae22572b356104384031226ef6fbc1a72b",
+        "FileName": "RabbitMQConfiguration.java",
+        "Path": "backends-common/rabbitmq/src/main/java/org/apache/james/backends/rabbitmq/RabbitMQConfiguration.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "1f4d0fd5589f4392d36d22c0103b5338e3d4bcea",
+        "FileName": "RabbitMQConnectionFactory.java",
+        "Path": "backends-common/rabbitmq/src/main/java/org/apache/james/backends/rabbitmq/RabbitMQConnectionFactory.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "d766a5fb7e1ef4dd6d46bf69738682e388334c26",
+        "FileName": "RabbitMQHealthCheck.java",
+        "Path": "backends-common/rabbitmq/src/main/java/org/apache/james/backends/rabbitmq/RabbitMQHealthCheck.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "9f688e84119a404ca6679697396c93628527768a",
+        "FileName": "RabbitMQManagementAPI.java",
+        "Path": "backends-common/rabbitmq/src/main/java/org/apache/james/backends/rabbitmq/RabbitMQManagementAPI.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "dfba0babd6e93a9ace70021c74b672f6dea1b916",
+        "FileName": "ReactorRabbitMQChannelPool.java",
+        "Path": "backends-common/rabbitmq/src/main/java/org/apache/james/backends/rabbitmq/ReactorRabbitMQChannelPool.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "f99ab432bdd0b430a8bed81c1ea57794da4f1948",
+        "FileName": "SimpleChannelPool.java",
+        "Path": "backends-common/rabbitmq/src/main/java/org/apache/james/backends/rabbitmq/SimpleChannelPool.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "4ffebfdc737a5b678b9b9988e06f9fa205b268a2",
+        "FileName": "SimpleConnectionPool.java",
+        "Path": "backends-common/rabbitmq/src/main/java/org/apache/james/backends/rabbitmq/SimpleConnectionPool.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "1bccee7fc939e3eab76e377194ae516cf758738c",
+        "FileName": "ChannelPoolContract.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/ChannelPoolContract.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "a9a172c59756c04168685d2e60c61a83e75e2c0e",
+        "FileName": "DockerClusterRabbitMQExtension.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/DockerClusterRabbitMQExtension.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "69db7ba490544dd01412d75f05cffb57c1027ee9",
+        "FileName": "DockerRabbitMQ.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/DockerRabbitMQ.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "022ac520d4efd0054b118499ac7a44eb1cea9d17",
+        "FileName": "DockerRabbitMQSingleton.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/DockerRabbitMQSingleton.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "7b921a796b7f87632ff28fd245fa0b900ec419fa",
+        "FileName": "DockerRabbitMQTestRule.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/DockerRabbitMQTestRule.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "8fc861113a39b9dccaf7a5d6799ff34c7559a715",
+        "FileName": "InMemoryConsumer.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/InMemoryConsumer.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "1541f52b04a6d9fa96ff3e2ca026abed12ea677a",
+        "FileName": "RabbitMQClusterTest.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/RabbitMQClusterTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 11,
+        "Deletions": 11,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "84bb762bc41397ea7139f61acc3d89a697d24fab",
+        "FileName": "RabbitMQConfigurationTest.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/RabbitMQConfigurationTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "052aa909071b926e216ebca1ed1de87dafb475bc",
+        "FileName": "RabbitMQConnectionFactoryTest.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/RabbitMQConnectionFactoryTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "577be128a4760de79228e7eb569bd04fd7940cf5",
+        "FileName": "RabbitMQExtension.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/RabbitMQExtension.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "c1d73f5a4bcea5a218d8a518e1008a0f9f6994a6",
+        "FileName": "RabbitMQFixture.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/RabbitMQFixture.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "15c22c3dbfb348e0d0baef16ecdd0472eeec7e78",
+        "FileName": "RabbitMQHealthCheckTest.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/RabbitMQHealthCheckTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "b673a101225183c61cb26740f313286bc2986465",
+        "FileName": "RabbitMQTest.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/RabbitMQTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 15,
+        "Deletions": 15,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "99136f7082c185411699f76918ac3e40a614dd7c",
+        "FileName": "RabbitMQWaitStrategy.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/RabbitMQWaitStrategy.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "81994c832af8ca72b0a798347e1bc2f9c52ecd83",
+        "FileName": "ReactorRabbitMQChannelPoolTest.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/ReactorRabbitMQChannelPoolTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 3,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "ebfa2053c9ecb3d46a54c15e8e3542f50eb71a14",
+        "FileName": "EventDispatcher.java",
+        "Path": "mailbox/event/event-rabbitmq/src/main/java/org/apache/james/mailbox/events/EventDispatcher.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "991be7531910663eaaa9e8c0c22356f65fcfcb89",
+        "FileName": "GroupConsumerRetry.java",
+        "Path": "mailbox/event/event-rabbitmq/src/main/java/org/apache/james/mailbox/events/GroupConsumerRetry.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "79aa6a8bac4ed66849a403537d82dc286c69ca1e",
+        "FileName": "GroupRegistration.java",
+        "Path": "mailbox/event/event-rabbitmq/src/main/java/org/apache/james/mailbox/events/GroupRegistration.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "7910152947609ec035af6ab2a5bb3b1df1dbc093",
+        "FileName": "KeyRegistrationHandler.java",
+        "Path": "mailbox/event/event-rabbitmq/src/main/java/org/apache/james/mailbox/events/KeyRegistrationHandler.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "a659062e6d881726716cb06bf6dce8c0ce9fa8a7",
+        "FileName": "RabbitMQEventBus.java",
+        "Path": "mailbox/event/event-rabbitmq/src/main/java/org/apache/james/mailbox/events/RabbitMQEventBus.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "bf84ec1a407debaa8643bc305973dbee2ecc7dca",
+        "FileName": "RoutingKeyConverter.java",
+        "Path": "mailbox/event/event-rabbitmq/src/main/java/org/apache/james/mailbox/events/RoutingKeyConverter.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "ab6d885b1c3ae1e4b635c2f076383534f866b088",
+        "FileName": "RabbitMQEventBusTest.java",
+        "Path": "mailbox/event/event-rabbitmq/src/test/java/org/apache/james/mailbox/events/RabbitMQEventBusTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 11,
+        "Deletions": 11,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "7884439b465bd1e161e672437c43d897c4e2086d",
+        "FileName": "RabbitMQAuthenticatePlainTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQAuthenticatePlainTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "12c5feb921ae700871dc944fdf06c2fbdd9f7110",
+        "FileName": "RabbitMQAuthenticatedStateTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQAuthenticatedStateTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "f2fa662705c8f557b21e54b7ee13edb2d6a94fb3",
+        "FileName": "RabbitMQConcurrentSessionsTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQConcurrentSessionsTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "223233837f960761e064cac52f13b00339904d23",
+        "FileName": "RabbitMQCondstoreTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQCondstoreTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "bcf7cdebed579980777b645d19f3d4376560049b",
+        "FileName": "RabbitMQCopyTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQCopyTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "9dbd98c2a363e5b616e035ec68af59c54b1e7011",
+        "FileName": "RabbitMQEventsTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQEventsTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "f6b8fc147b46a412e588ca4728f116ef607ac8b8",
+        "FileName": "RabbitMQFetchBodySectionTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQFetchBodySectionTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "c035570d589fc07955784c510a03b34573a60cfa",
+        "FileName": "RabbitMQFetchBodyStructureTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQFetchBodyStructureTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "a021a8d3702ae283971fe9c71beadc81634f1944",
+        "FileName": "RabbitMQFetchHeadersTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQFetchHeadersTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "25749d027afb20acc1715b970eed8906bb0b41e3",
+        "FileName": "RabbitMQFetchTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQFetchTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "f71417319c38280548288ec2308593ecd25731fa",
+        "FileName": "RabbitMQListingTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQListingTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "86288e24f162e934099f12acae62b4f5e6bf83a8",
+        "FileName": "RabbitMQListingWithSharingTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQListingWithSharingTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "d093a376b67633ab0276d667445899050d88f80f",
+        "FileName": "RabbitMQMailboxAnnotationTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQMailboxAnnotationTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "15e2936bd73560b86a79898d254d854df8a7f0fa",
+        "FileName": "RabbitMQMailboxWithLongNameErrorTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQMailboxWithLongNameErrorTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "5358cf7aac3001c403c12b8be44108d8ec99514a",
+        "FileName": "RabbitMQMoveTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQMoveTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "ba1bbf477b922e8f7f323ace4b2ff3c4ba4f40e0",
+        "FileName": "RabbitMQNonAuthenticatedStateTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQNonAuthenticatedStateTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "6773d259d282464104dc90a9ee2005386704aec2",
+        "FileName": "RabbitMQPartialFetchTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQPartialFetchTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "dd9b39f9cf5d1c1557b9624046098da7d9917491",
+        "FileName": "RabbitMQQuotaTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQQuotaTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "aa643ef7d04cad9c612c7d8cb7c10c49afb4cbd3",
+        "FileName": "RabbitMQRenameTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQRenameTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "9d0f2609b426505fbeb036874310cf9224ed1b62",
+        "FileName": "RabbitMQSearchTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQSearchTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "db61a4a304fbee1a594bde20522d8d690661ddc7",
+        "FileName": "RabbitMQSecurityTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQSecurityTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "750b2e14a06afab3eea94a919728dcaba30a4669",
+        "FileName": "RabbitMQSelectTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQSelectTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "67502e17f1471cae2d0fa9563744ba22393adb46",
+        "FileName": "RabbitMQSelectedInboxTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQSelectedInboxTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "35387aa91e74aa117cef060442521fc5face6d1f",
+        "FileName": "RabbitMQSelectedStateTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQSelectedStateTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "6c27aa1f80794c00b48cbc50f155449df78ea2f0",
+        "FileName": "RabbitMQUidSearchTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQUidSearchTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "92dfe8f2e641c345233de8ca55e85b52f49b3266",
+        "FileName": "RabbitMQUserFlagsSupportTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQUserFlagsSupportTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "e93ac4fa5525b3e7d4746829aad3282b6484557e",
+        "FileName": "RabbitMQEventBusHostSystem.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/host/RabbitMQEventBusHostSystem.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "8fb818bd2a7835b2760d74ee2286ac91230f491f",
+        "FileName": "RabbitMQEventBusHostSystemRule.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/host/RabbitMQEventBusHostSystemRule.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "52294115b467a2517f4941da8a8706071d1db992",
+        "FileName": "CassandraRabbitMQAwsS3SmtpTestRuleFactory.java",
+        "Path": "mpt/impl/smtp/cassandra-rabbitmq-object-storage/src/test/java/org/apache/james/mpt/smtp/CassandraRabbitMQAwsS3SmtpTestRuleFactory.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "e7fcab78f2120dd679ce73e549922f24ca776e32",
+        "FileName": "CassandraRabbitMQAwsS3JmapTestRule.java",
+        "Path": "server/container/guice/cassandra-rabbitmq-guice/src/test/java/org/apache/james/CassandraRabbitMQAwsS3JmapTestRule.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "e9a78ede091b37c84736d32e5fda2c25656c0bc5",
+        "FileName": "CassandraRabbitMQSwiftJmapTestRule.java",
+        "Path": "server/container/guice/cassandra-rabbitmq-guice/src/test/java/org/apache/james/CassandraRabbitMQSwiftJmapTestRule.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "b107e2c140f6a955fc798269f9137b1e1b19e53f",
+        "FileName": "DockerRabbitMQRule.java",
+        "Path": "server/container/guice/cassandra-rabbitmq-guice/src/test/java/org/apache/james/modules/DockerRabbitMQRule.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "2677b5aa5bcd3f3529c2f9b5107b96b2fd642f1c",
+        "FileName": "RabbitMQExtension.java",
+        "Path": "server/container/guice/cassandra-rabbitmq-guice/src/test/java/org/apache/james/modules/RabbitMQExtension.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "e17539bf626c62a06827708069c041436e27e2a0",
+        "FileName": "TestRabbitMQModule.java",
+        "Path": "server/container/guice/cassandra-rabbitmq-guice/src/test/java/org/apache/james/modules/TestRabbitMQModule.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "09a7bfee500c956d5e31b16e581f761682603483",
+        "FileName": "RabbitMQModule.java",
+        "Path": "server/container/guice/rabbitmq/src/main/java/org/apache/james/modules/rabbitmq/RabbitMQModule.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "779e71e13a8e47cc949145dc0f1f01c0604defd7",
+        "FileName": "RabbitClient.java",
+        "Path": "server/queue/queue-rabbitmq/src/main/java/org/apache/james/queue/rabbitmq/RabbitClient.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "c2a634c2f0b0166a50b80edb8e9caa30ec958ec3",
+        "FileName": "RabbitMQMailQueueManagement.java",
+        "Path": "server/queue/queue-rabbitmq/src/main/java/org/apache/james/queue/rabbitmq/RabbitMQMailQueueManagement.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "b17e938ecdcdb52449a04f72e853332c28ce7ea8",
+        "FileName": "RabbitMQMailQueueConfigurationChangeTest.java",
+        "Path": "server/queue/queue-rabbitmq/src/test/java/org/apache/james/queue/rabbitmq/RabbitMQMailQueueConfigurationChangeTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "703b233d0281e5ba3db0eb0056c793c95c04dbc5",
+        "FileName": "RabbitMQMailQueueTest.java",
+        "Path": "server/queue/queue-rabbitmq/src/test/java/org/apache/james/queue/rabbitmq/RabbitMQMailQueueTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "6280d4168da909920552c4e378187e14f20136d6",
+        "FileName": "RabbitMqMailQueueFactoryTest.java",
+        "Path": "server/queue/queue-rabbitmq/src/test/java/org/apache/james/queue/rabbitmq/RabbitMqMailQueueFactoryTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "fd8317a17f27523739bdcd9e106cfafd5596c605",
+        "FileName": "RabbitMQTerminationSubscriber.java",
+        "Path": "server/task-distributed/src/main/java/org/apache/james/task/eventsourcing/distributed/RabbitMQTerminationSubscriber.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "34b3f5bfe1d5df4526f488afac5c19c70ad6ad09",
+        "FileName": "RabbitMQWorkQueue.java",
+        "Path": "server/task-distributed/src/main/java/org/apache/james/task/eventsourcing/distributed/RabbitMQWorkQueue.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "5e26147671ad8759ea9bcbc08f506f933a46c901",
+        "FileName": "RabbitMQWorkQueueSupplier.scala",
+        "Path": "server/task-distributed/src/main/scala/org/apache/james/task/eventsourcing/distributed/RabbitMQWorkQueueSupplier.scala",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "767d0ffaa1c173f967738b0b536443fae6b25644",
+        "FileName": "DistributedTaskManagerTest.java",
+        "Path": "server/task-distributed/src/test/java/org/apache/james/task/eventsourcing/distributed/DistributedTaskManagerTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "9da45e808680923bf039c5a205d6f43cfb1aa4b4",
+        "FileName": "RabbitMQTerminationSubscriberTest.java",
+        "Path": "server/task-distributed/src/test/java/org/apache/james/task/eventsourcing/distributed/RabbitMQTerminationSubscriberTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "1615eccfd50ac42cfcc4d0dbe5ad0890698b9893",
+        "FileName": "RabbitMQWorkQueueTest.java",
+        "Path": "server/task-distributed/src/test/java/org/apache/james/task/eventsourcing/distributed/RabbitMQWorkQueueTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d3b4084aa7daf7c5de8b83eb8ca1f41664e34055",
+        "Author": {
+          "name": "\"Matthieu Baechler\"",
+          "location": "Privas, France",
+          "company": "Baechler Craftsmanship"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:22:27Z",
+        "additions": 35,
+        "deletions": 0,
+        "files": [
+          "1904db232aed446c9d7434ff0a12917a5cf514b4"
+        ]
+      },
+      {
+        "sha": "a103f57753f2b61f32720b38c938b3e992f0382a",
+        "Author": {
+          "name": "\"Matthieu Baechler\"",
+          "location": "Privas, France",
+          "company": "Baechler Craftsmanship"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:22:26Z",
+        "additions": 47,
+        "deletions": 59,
+        "files": [
+          "4b60f2afc4a0dc7d945c3e25cb11b503fad7edf7"
+        ]
+      },
+      {
+        "sha": "093750f67ee6e1a34ae76e91bd612043aa900868",
+        "Author": {
+          "name": "\"Matthieu Baechler\"",
+          "location": "Privas, France",
+          "company": "Baechler Craftsmanship"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:22:26Z",
+        "additions": 5,
+        "deletions": 5,
+        "files": [
+          "b05fe364eb1f89361e748e1b5d5593debcb5b372"
+        ]
+      },
+      {
+        "sha": "887ca0efcbed63b873de94961c0356790f0d3c77",
+        "Author": {
+          "name": "\"Matthieu Baechler\"",
+          "location": "Privas, France",
+          "company": "Baechler Craftsmanship"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:22:26Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "ec41f2ef3b2060c24e903893b761f1f2a31eb229"
+        ]
+      },
+      {
+        "sha": "578e075f66a232cb352b230f5d87045912c23422",
+        "Author": {
+          "name": "\"Matthieu Baechler\"",
+          "location": "Privas, France",
+          "company": "Baechler Craftsmanship"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:22:26Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "1fdd6cc3068520921ad2865026ceebf2130ddc76"
+        ]
+      },
+      {
+        "sha": "b48dccec3fe46c9d116c52bf1366b15856f2e8e9",
+        "Author": {
+          "name": "\"Matthieu Baechler\"",
+          "location": "Privas, France",
+          "company": "Baechler Craftsmanship"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:20:53Z",
+        "additions": 4,
+        "deletions": 0,
+        "files": [
+          "c1e38b80400096e72d15ae483ba9af000962cc03"
+        ]
+      },
+      {
+        "sha": "925b2aef8852aa2c2ffb5797395457669ad8be2c",
+        "Author": {
+          "name": "\"Matthieu Baechler\"",
+          "location": "Privas, France",
+          "company": "Baechler Craftsmanship"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:20:53Z",
+        "additions": 2,
+        "deletions": 0,
+        "files": [
+          "8c951dab7ac07634aa85e30a180c5513aff8bace"
+        ]
+      },
+      {
+        "sha": "76c2fd98203304efb08d952e4e62b321e5ea3f44",
+        "Author": {
+          "name": "\"Rémi Kowalski\""
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:20:17Z",
+        "additions": 123,
+        "deletions": 0,
+        "files": [
+          "3b82156de656b0fed09dab185965944b1045ad76",
+          "737f17ad69dd7863f5f41ad1d8fb5ee44821e12a"
+        ]
+      },
+      {
+        "sha": "a93aca8184de1b1b762e6d01af25c77d003706a7",
+        "Author": {
+          "name": "\"Rémi Kowalski\""
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:20:17Z",
+        "additions": 66,
+        "deletions": 41,
+        "files": [
+          "7b69928beb994045df904c8a55edc32ca10a5678",
+          "82e12f5952e98732f0e2ee5e17a2947e7586b584",
+          "c586e655ac7890b9d39dfd68b73b5347f52aaef1"
+        ]
+      },
+      {
+        "sha": "fca4be5a9a2fe6defebb404f0a533e6b30ad8035",
+        "Author": {
+          "name": "\"Rémi Kowalski\""
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:20:16Z",
+        "additions": 119,
+        "deletions": 0,
+        "files": [
+          "c7b9efcd3dc9a49c9221c8469d84d7651db45d54",
+          "4619f624e95a532a2160d25bc0255904430d322a"
+        ]
+      },
+      {
+        "sha": "e264e9a37afd176d8de591a6f8543b399f7ca25e",
+        "Author": {
+          "name": "\"Rémi Kowalski\""
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:20:16Z",
+        "additions": 66,
+        "deletions": 41,
+        "files": [
+          "b29f000d2fe343d37c768c45343dd51b8687844a",
+          "6d16df51b31eece211f5fcf4b1964598ce6a42b1",
+          "6fa7c3a449c59be018d5d45ca26dd6b340244d4a"
+        ]
+      },
+      {
+        "sha": "5b4a0195d664f72931fc270ca97f0ac7592de7a5",
+        "Author": {
+          "name": "\"Rémi Kowalski\""
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:20:16Z",
+        "additions": 41,
+        "deletions": 0,
+        "files": [
+          "18659da0eac79e017ef1d17f4c1848d7d52bd98b"
+        ]
+      },
+      {
+        "sha": "19204325a8f5d09df00658d2f28d6608c7e39810",
+        "Author": {
+          "name": "\"Rémi Kowalski\""
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:20:16Z",
+        "additions": 33,
+        "deletions": 1,
+        "files": [
+          "e1cca2a108fa7a7167f659dcb8e449f2cfd21153"
+        ]
+      },
+      {
+        "sha": "a96ce1486b3b1cdadca517dd85bdc46a5a7af080",
+        "Author": {
+          "name": "\"Rémi Kowalski\""
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:20:16Z",
+        "additions": 137,
+        "deletions": 0,
+        "files": [
+          "7d5c27dc13ca5a031d34e5c900607cf30fe0884d"
+        ]
+      },
+      {
+        "sha": "e844ff6ca867ea64dade7e2c899e3a35153c43de",
+        "Author": {
+          "name": "\"Rémi Kowalski\""
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:20:16Z",
+        "additions": 115,
+        "deletions": 80,
+        "files": [
+          "b13d49c5ed080761471c45ca4445829fa9c1ab6f",
+          "55c98dec3ab7e90227bb0a2479dfe7aa2cc5e01f",
+          "2103682a49ea39a6987e4a0b1bb0e6b6b697c307"
+        ]
+      },
+      {
+        "sha": "19908020b170c71231310e8287c8767dc03bb6cf",
+        "Author": {
+          "name": "\"Rémi Kowalski\""
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:18:43Z",
+        "additions": 36,
+        "deletions": 22,
+        "files": [
+          "fe080319edb7eb5ef97e2215cc3f13360c5368c3",
+          "0177a6ab12c1f1fca73cca5ebec7f8f3416077ac",
+          "cad7c523ddfce8007a4daf47e38863be91a9e87d",
+          "4ad01068793d550d6dbbede340e57311afd63839",
+          "53d92750654e5e74dc6b092dbeb3760dfd56f6e2"
+        ]
+      },
+      {
+        "sha": "8c284f7ba3bae5bb38a9596c84827af532d0750c",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:18:04Z",
+        "additions": 26,
+        "deletions": 39,
+        "files": [
+          "ee0be2d41c23f0a907349c5e579339df81c44eec",
+          "9eda16b8fb81dbc042e4fdeee763ac06c9a026db"
+        ]
+      },
+      {
+        "sha": "d798b40d2de987aa3aa8f0f88253512f0ff7a55f",
+        "Author": {
+          "name": "\"Gautier DI FOLCO\"",
+          "location": "Lyon, France",
+          "company": "@linagora "
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:17:44Z",
+        "additions": 148,
+        "deletions": 149,
+        "files": [
+          "89455c0993bf8e3476cd893fe3da3aedfc94d8d6",
+          "a544efb464707738573b97efd6e075186ecb16b4",
+          "8b12e2ae22572b356104384031226ef6fbc1a72b",
+          "1f4d0fd5589f4392d36d22c0103b5338e3d4bcea",
+          "d766a5fb7e1ef4dd6d46bf69738682e388334c26",
+          "9f688e84119a404ca6679697396c93628527768a",
+          "dfba0babd6e93a9ace70021c74b672f6dea1b916",
+          "f99ab432bdd0b430a8bed81c1ea57794da4f1948",
+          "4ffebfdc737a5b678b9b9988e06f9fa205b268a2",
+          "1bccee7fc939e3eab76e377194ae516cf758738c",
+          "a9a172c59756c04168685d2e60c61a83e75e2c0e",
+          "69db7ba490544dd01412d75f05cffb57c1027ee9",
+          "022ac520d4efd0054b118499ac7a44eb1cea9d17",
+          "7b921a796b7f87632ff28fd245fa0b900ec419fa",
+          "8fc861113a39b9dccaf7a5d6799ff34c7559a715",
+          "1541f52b04a6d9fa96ff3e2ca026abed12ea677a",
+          "84bb762bc41397ea7139f61acc3d89a697d24fab",
+          "052aa909071b926e216ebca1ed1de87dafb475bc",
+          "577be128a4760de79228e7eb569bd04fd7940cf5",
+          "c1d73f5a4bcea5a218d8a518e1008a0f9f6994a6",
+          "15c22c3dbfb348e0d0baef16ecdd0472eeec7e78",
+          "b673a101225183c61cb26740f313286bc2986465",
+          "99136f7082c185411699f76918ac3e40a614dd7c",
+          "81994c832af8ca72b0a798347e1bc2f9c52ecd83",
+          "ebfa2053c9ecb3d46a54c15e8e3542f50eb71a14",
+          "991be7531910663eaaa9e8c0c22356f65fcfcb89",
+          "79aa6a8bac4ed66849a403537d82dc286c69ca1e",
+          "7910152947609ec035af6ab2a5bb3b1df1dbc093",
+          "a659062e6d881726716cb06bf6dce8c0ce9fa8a7",
+          "bf84ec1a407debaa8643bc305973dbee2ecc7dca",
+          "ab6d885b1c3ae1e4b635c2f076383534f866b088",
+          "7884439b465bd1e161e672437c43d897c4e2086d",
+          "12c5feb921ae700871dc944fdf06c2fbdd9f7110",
+          "f2fa662705c8f557b21e54b7ee13edb2d6a94fb3",
+          "223233837f960761e064cac52f13b00339904d23",
+          "bcf7cdebed579980777b645d19f3d4376560049b",
+          "9dbd98c2a363e5b616e035ec68af59c54b1e7011",
+          "f6b8fc147b46a412e588ca4728f116ef607ac8b8",
+          "c035570d589fc07955784c510a03b34573a60cfa",
+          "a021a8d3702ae283971fe9c71beadc81634f1944",
+          "25749d027afb20acc1715b970eed8906bb0b41e3",
+          "f71417319c38280548288ec2308593ecd25731fa",
+          "86288e24f162e934099f12acae62b4f5e6bf83a8",
+          "d093a376b67633ab0276d667445899050d88f80f",
+          "15e2936bd73560b86a79898d254d854df8a7f0fa",
+          "5358cf7aac3001c403c12b8be44108d8ec99514a",
+          "ba1bbf477b922e8f7f323ace4b2ff3c4ba4f40e0",
+          "6773d259d282464104dc90a9ee2005386704aec2",
+          "dd9b39f9cf5d1c1557b9624046098da7d9917491",
+          "aa643ef7d04cad9c612c7d8cb7c10c49afb4cbd3",
+          "9d0f2609b426505fbeb036874310cf9224ed1b62",
+          "db61a4a304fbee1a594bde20522d8d690661ddc7",
+          "750b2e14a06afab3eea94a919728dcaba30a4669",
+          "67502e17f1471cae2d0fa9563744ba22393adb46",
+          "35387aa91e74aa117cef060442521fc5face6d1f",
+          "6c27aa1f80794c00b48cbc50f155449df78ea2f0",
+          "92dfe8f2e641c345233de8ca55e85b52f49b3266",
+          "e93ac4fa5525b3e7d4746829aad3282b6484557e",
+          "8fb818bd2a7835b2760d74ee2286ac91230f491f",
+          "52294115b467a2517f4941da8a8706071d1db992",
+          "e7fcab78f2120dd679ce73e549922f24ca776e32",
+          "e9a78ede091b37c84736d32e5fda2c25656c0bc5",
+          "b107e2c140f6a955fc798269f9137b1e1b19e53f",
+          "2677b5aa5bcd3f3529c2f9b5107b96b2fd642f1c",
+          "e17539bf626c62a06827708069c041436e27e2a0",
+          "09a7bfee500c956d5e31b16e581f761682603483",
+          "779e71e13a8e47cc949145dc0f1f01c0604defd7",
+          "c2a634c2f0b0166a50b80edb8e9caa30ec958ec3",
+          "b17e938ecdcdb52449a04f72e853332c28ce7ea8",
+          "703b233d0281e5ba3db0eb0056c793c95c04dbc5",
+          "6280d4168da909920552c4e378187e14f20136d6",
+          "fd8317a17f27523739bdcd9e106cfafd5596c605",
+          "34b3f5bfe1d5df4526f488afac5c19c70ad6ad09",
+          "5e26147671ad8759ea9bcbc08f506f933a46c901",
+          "767d0ffaa1c173f967738b0b536443fae6b25644",
+          "9da45e808680923bf039c5a205d6f43cfb1aa4b4",
+          "1615eccfd50ac42cfcc4d0dbe5ad0890698b9893"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "james-project",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T03:03:20Z",
+    "EndDate": "2019-09-25T04:03:20",
+    "Branches": 17,
+    "Forks": 253,
+    "Files": [
+      {
+        "Sha": "1904db232aed446c9d7434ff0a12917a5cf514b4",
+        "FileName": "2019-09-05-james-3.4.0.markdown",
+        "Path": "src/homepage/_posts/2019-09-05-james-3.4.0.markdown",
+        "DateUpdated": "2019-09-25T03:22:27Z",
+        "Additions": 35,
+        "Deletions": 0,
+        "Commits": [
+          "d3b4084aa7daf7c5de8b83eb8ca1f41664e34055"
+        ]
+      },
+      {
+        "Sha": "4b60f2afc4a0dc7d945c3e25cb11b503fad7edf7",
+        "FileName": "download.xml",
+        "Path": "src/site/xdoc/download.xml",
+        "DateUpdated": "2019-09-25T03:22:26Z",
+        "Additions": 47,
+        "Deletions": 59,
+        "Commits": [
+          "a103f57753f2b61f32720b38c938b3e992f0382a"
+        ]
+      },
+      {
+        "Sha": "b05fe364eb1f89361e748e1b5d5593debcb5b372",
+        "FileName": "index.xml",
+        "Path": "src/site/xdoc/server/index.xml",
+        "DateUpdated": "2019-09-25T03:22:26Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "093750f67ee6e1a34ae76e91bd612043aa900868"
+        ]
+      },
+      {
+        "Sha": "ec41f2ef3b2060c24e903893b761f1f2a31eb229",
+        "FileName": "mail-processing.html",
+        "Path": "src/homepage/howTo/mail-processing.html",
+        "DateUpdated": "2019-09-25T03:22:26Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "887ca0efcbed63b873de94961c0356790f0d3c77"
+        ]
+      },
+      {
+        "Sha": "1fdd6cc3068520921ad2865026ceebf2130ddc76",
+        "FileName": "index.html",
+        "Path": "src/homepage/index.html",
+        "DateUpdated": "2019-09-25T03:22:26Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "578e075f66a232cb352b230f5d87045912c23422"
+        ]
+      },
+      {
+        "Sha": "c1e38b80400096e72d15ae483ba9af000962cc03",
+        "FileName": "upgrade-instructions.md",
+        "Path": "upgrade-instructions.md",
+        "DateUpdated": "2019-09-25T03:20:53Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "b48dccec3fe46c9d116c52bf1366b15856f2e8e9"
+        ]
+      },
+      {
+        "Sha": "8c951dab7ac07634aa85e30a180c5513aff8bace",
+        "FileName": "CHANGELOG.md",
+        "Path": "CHANGELOG.md",
+        "DateUpdated": "2019-09-25T03:20:53Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "925b2aef8852aa2c2ffb5797395457669ad8be2c"
+        ]
+      },
+      {
+        "Sha": "3b82156de656b0fed09dab185965944b1045ad76",
+        "FileName": "UserReindexingTaskAdditionalInformationDTO.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/UserReindexingTaskAdditionalInformationDTO.java",
+        "DateUpdated": "2019-09-25T03:20:17Z",
+        "Additions": 77,
+        "Deletions": 0,
+        "Commits": [
+          "76c2fd98203304efb08d952e4e62b321e5ea3f44"
+        ]
+      },
+      {
+        "Sha": "737f17ad69dd7863f5f41ad1d8fb5ee44821e12a",
+        "FileName": "UserReindexingTaskSerializationTest.java",
+        "Path": "mailbox/tools/indexer/src/test/java/org/apache/mailbox/tools/indexer/UserReindexingTaskSerializationTest.java",
+        "DateUpdated": "2019-09-25T03:20:17Z",
+        "Additions": 46,
+        "Deletions": 0,
+        "Commits": [
+          "76c2fd98203304efb08d952e4e62b321e5ea3f44"
+        ]
+      },
+      {
+        "Sha": "7b69928beb994045df904c8a55edc32ca10a5678",
+        "FileName": "UserReindexingTask.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/UserReindexingTask.java",
+        "DateUpdated": "2019-09-25T03:20:17Z",
+        "Additions": 4,
+        "Deletions": 40,
+        "Commits": [
+          "a93aca8184de1b1b762e6d01af25c77d003706a7"
+        ]
+      },
+      {
+        "Sha": "82e12f5952e98732f0e2ee5e17a2947e7586b584",
+        "FileName": "UserReindexingTaskDTO.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/UserReindexingTaskDTO.java",
+        "DateUpdated": "2019-09-25T03:20:17Z",
+        "Additions": 61,
+        "Deletions": 0,
+        "Commits": [
+          "a93aca8184de1b1b762e6d01af25c77d003706a7"
+        ]
+      },
+      {
+        "Sha": "c586e655ac7890b9d39dfd68b73b5347f52aaef1",
+        "FileName": "UserReindexingTaskSerializationTest.java",
+        "Path": "mailbox/tools/indexer/src/test/java/org/apache/mailbox/tools/indexer/UserReindexingTaskSerializationTest.java",
+        "DateUpdated": "2019-09-25T03:20:17Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a93aca8184de1b1b762e6d01af25c77d003706a7"
+        ]
+      },
+      {
+        "Sha": "c7b9efcd3dc9a49c9221c8469d84d7651db45d54",
+        "FileName": "SingleMailboxReindexingTaskAdditionalInformationDTO.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/SingleMailboxReindexingTaskAdditionalInformationDTO.java",
+        "DateUpdated": "2019-09-25T03:20:16Z",
+        "Additions": 76,
+        "Deletions": 0,
+        "Commits": [
+          "fca4be5a9a2fe6defebb404f0a533e6b30ad8035"
+        ]
+      },
+      {
+        "Sha": "4619f624e95a532a2160d25bc0255904430d322a",
+        "FileName": "SingleMailboxReindexingTaskSerializationTest.java",
+        "Path": "mailbox/tools/indexer/src/test/java/org/apache/mailbox/tools/indexer/SingleMailboxReindexingTaskSerializationTest.java",
+        "DateUpdated": "2019-09-25T03:20:16Z",
+        "Additions": 43,
+        "Deletions": 0,
+        "Commits": [
+          "fca4be5a9a2fe6defebb404f0a533e6b30ad8035"
+        ]
+      },
+      {
+        "Sha": "b29f000d2fe343d37c768c45343dd51b8687844a",
+        "FileName": "SingleMailboxReindexingTask.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/SingleMailboxReindexingTask.java",
+        "DateUpdated": "2019-09-25T03:20:16Z",
+        "Additions": 4,
+        "Deletions": 40,
+        "Commits": [
+          "e264e9a37afd176d8de591a6f8543b399f7ca25e"
+        ]
+      },
+      {
+        "Sha": "6d16df51b31eece211f5fcf4b1964598ce6a42b1",
+        "FileName": "SingleMailboxReindexingTaskDTO.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/SingleMailboxReindexingTaskDTO.java",
+        "DateUpdated": "2019-09-25T03:20:16Z",
+        "Additions": 61,
+        "Deletions": 0,
+        "Commits": [
+          "e264e9a37afd176d8de591a6f8543b399f7ca25e"
+        ]
+      },
+      {
+        "Sha": "6fa7c3a449c59be018d5d45ca26dd6b340244d4a",
+        "FileName": "SingleMailboxReindexingTaskSerializationTest.java",
+        "Path": "mailbox/tools/indexer/src/test/java/org/apache/mailbox/tools/indexer/SingleMailboxReindexingTaskSerializationTest.java",
+        "DateUpdated": "2019-09-25T03:20:16Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "e264e9a37afd176d8de591a6f8543b399f7ca25e"
+        ]
+      },
+      {
+        "Sha": "18659da0eac79e017ef1d17f4c1848d7d52bd98b",
+        "FileName": "FullReindexingTaskSerializationTest.java",
+        "Path": "mailbox/tools/indexer/src/test/java/org/apache/mailbox/tools/indexer/FullReindexingTaskSerializationTest.java",
+        "DateUpdated": "2019-09-25T03:20:16Z",
+        "Additions": 41,
+        "Deletions": 0,
+        "Commits": [
+          "5b4a0195d664f72931fc270ca97f0ac7592de7a5"
+        ]
+      },
+      {
+        "Sha": "e1cca2a108fa7a7167f659dcb8e449f2cfd21153",
+        "FileName": "ErrorRecoveryIndexationTaskSerializationTest.java",
+        "Path": "mailbox/tools/indexer/src/test/java/org/apache/mailbox/tools/indexer/ErrorRecoveryIndexationTaskSerializationTest.java",
+        "DateUpdated": "2019-09-25T03:20:16Z",
+        "Additions": 33,
+        "Deletions": 1,
+        "Commits": [
+          "19204325a8f5d09df00658d2f28d6608c7e39810"
+        ]
+      },
+      {
+        "Sha": "7d5c27dc13ca5a031d34e5c900607cf30fe0884d",
+        "FileName": "ReprocessingContextInformationDTO.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/ReprocessingContextInformationDTO.java",
+        "DateUpdated": "2019-09-25T03:20:16Z",
+        "Additions": 137,
+        "Deletions": 0,
+        "Commits": [
+          "a96ce1486b3b1cdadca517dd85bdc46a5a7af080"
+        ]
+      },
+      {
+        "Sha": "b13d49c5ed080761471c45ca4445829fa9c1ab6f",
+        "FileName": "ErrorRecoveryIndexationTask.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/ErrorRecoveryIndexationTask.java",
+        "DateUpdated": "2019-09-25T03:20:16Z",
+        "Additions": 5,
+        "Deletions": 79,
+        "Commits": [
+          "e844ff6ca867ea64dade7e2c899e3a35153c43de"
+        ]
+      },
+      {
+        "Sha": "55c98dec3ab7e90227bb0a2479dfe7aa2cc5e01f",
+        "FileName": "ErrorRecoveryIndexationTaskDTO.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/ErrorRecoveryIndexationTaskDTO.java",
+        "DateUpdated": "2019-09-25T03:20:16Z",
+        "Additions": 109,
+        "Deletions": 0,
+        "Commits": [
+          "e844ff6ca867ea64dade7e2c899e3a35153c43de"
+        ]
+      },
+      {
+        "Sha": "2103682a49ea39a6987e4a0b1bb0e6b6b697c307",
+        "FileName": "ErrorRecoveryIndexationTaskSerializationTest.java",
+        "Path": "mailbox/tools/indexer/src/test/java/org/apache/mailbox/tools/indexer/ErrorRecoveryIndexationTaskSerializationTest.java",
+        "DateUpdated": "2019-09-25T03:20:16Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "e844ff6ca867ea64dade7e2c899e3a35153c43de"
+        ]
+      },
+      {
+        "Sha": "fe080319edb7eb5ef97e2215cc3f13360c5368c3",
+        "FileName": "ErrorRecoveryIndexationTask.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/ErrorRecoveryIndexationTask.java",
+        "DateUpdated": "2019-09-25T03:18:43Z",
+        "Additions": 1,
+        "Deletions": 3,
+        "Commits": [
+          "19908020b170c71231310e8287c8767dc03bb6cf"
+        ]
+      },
+      {
+        "Sha": "0177a6ab12c1f1fca73cca5ebec7f8f3416077ac",
+        "FileName": "FullReindexingTask.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/FullReindexingTask.java",
+        "DateUpdated": "2019-09-25T03:18:43Z",
+        "Additions": 1,
+        "Deletions": 3,
+        "Commits": [
+          "19908020b170c71231310e8287c8767dc03bb6cf"
+        ]
+      },
+      {
+        "Sha": "cad7c523ddfce8007a4daf47e38863be91a9e87d",
+        "FileName": "ReprocessingContextInformation.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/ReprocessingContextInformation.java",
+        "DateUpdated": "2019-09-25T03:18:43Z",
+        "Additions": 15,
+        "Deletions": 6,
+        "Commits": [
+          "19908020b170c71231310e8287c8767dc03bb6cf"
+        ]
+      },
+      {
+        "Sha": "4ad01068793d550d6dbbede340e57311afd63839",
+        "FileName": "SingleMailboxReindexingTask.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/SingleMailboxReindexingTask.java",
+        "DateUpdated": "2019-09-25T03:18:43Z",
+        "Additions": 10,
+        "Deletions": 5,
+        "Commits": [
+          "19908020b170c71231310e8287c8767dc03bb6cf"
+        ]
+      },
+      {
+        "Sha": "53d92750654e5e74dc6b092dbeb3760dfd56f6e2",
+        "FileName": "UserReindexingTask.java",
+        "Path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/UserReindexingTask.java",
+        "DateUpdated": "2019-09-25T03:18:43Z",
+        "Additions": 9,
+        "Deletions": 5,
+        "Commits": [
+          "19908020b170c71231310e8287c8767dc03bb6cf"
+        ]
+      },
+      {
+        "Sha": "ee0be2d41c23f0a907349c5e579339df81c44eec",
+        "FileName": "SerialiseToHTTP.java",
+        "Path": "mailet/standard/src/main/java/org/apache/james/transport/mailets/SerialiseToHTTP.java",
+        "DateUpdated": "2019-09-25T03:18:04Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "8c284f7ba3bae5bb38a9596c84827af532d0750c"
+        ]
+      },
+      {
+        "Sha": "9eda16b8fb81dbc042e4fdeee763ac06c9a026db",
+        "FileName": "HeadersToHTTPTest.java",
+        "Path": "mailet/standard/src/test/java/org/apache/james/transport/mailets/HeadersToHTTPTest.java",
+        "DateUpdated": "2019-09-25T03:18:04Z",
+        "Additions": 23,
+        "Deletions": 38,
+        "Commits": [
+          "8c284f7ba3bae5bb38a9596c84827af532d0750c"
+        ]
+      },
+      {
+        "Sha": "89455c0993bf8e3476cd893fe3da3aedfc94d8d6",
+        "FileName": "Constants.java",
+        "Path": "backends-common/rabbitmq/src/main/java/org/apache/james/backends/rabbitmq/Constants.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "a544efb464707738573b97efd6e075186ecb16b4",
+        "FileName": "RabbitMQChannelPool.java",
+        "Path": "backends-common/rabbitmq/src/main/java/org/apache/james/backends/rabbitmq/RabbitMQChannelPool.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "8b12e2ae22572b356104384031226ef6fbc1a72b",
+        "FileName": "RabbitMQConfiguration.java",
+        "Path": "backends-common/rabbitmq/src/main/java/org/apache/james/backends/rabbitmq/RabbitMQConfiguration.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "1f4d0fd5589f4392d36d22c0103b5338e3d4bcea",
+        "FileName": "RabbitMQConnectionFactory.java",
+        "Path": "backends-common/rabbitmq/src/main/java/org/apache/james/backends/rabbitmq/RabbitMQConnectionFactory.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "d766a5fb7e1ef4dd6d46bf69738682e388334c26",
+        "FileName": "RabbitMQHealthCheck.java",
+        "Path": "backends-common/rabbitmq/src/main/java/org/apache/james/backends/rabbitmq/RabbitMQHealthCheck.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "9f688e84119a404ca6679697396c93628527768a",
+        "FileName": "RabbitMQManagementAPI.java",
+        "Path": "backends-common/rabbitmq/src/main/java/org/apache/james/backends/rabbitmq/RabbitMQManagementAPI.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "dfba0babd6e93a9ace70021c74b672f6dea1b916",
+        "FileName": "ReactorRabbitMQChannelPool.java",
+        "Path": "backends-common/rabbitmq/src/main/java/org/apache/james/backends/rabbitmq/ReactorRabbitMQChannelPool.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "f99ab432bdd0b430a8bed81c1ea57794da4f1948",
+        "FileName": "SimpleChannelPool.java",
+        "Path": "backends-common/rabbitmq/src/main/java/org/apache/james/backends/rabbitmq/SimpleChannelPool.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "4ffebfdc737a5b678b9b9988e06f9fa205b268a2",
+        "FileName": "SimpleConnectionPool.java",
+        "Path": "backends-common/rabbitmq/src/main/java/org/apache/james/backends/rabbitmq/SimpleConnectionPool.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "1bccee7fc939e3eab76e377194ae516cf758738c",
+        "FileName": "ChannelPoolContract.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/ChannelPoolContract.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "a9a172c59756c04168685d2e60c61a83e75e2c0e",
+        "FileName": "DockerClusterRabbitMQExtension.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/DockerClusterRabbitMQExtension.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "69db7ba490544dd01412d75f05cffb57c1027ee9",
+        "FileName": "DockerRabbitMQ.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/DockerRabbitMQ.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "022ac520d4efd0054b118499ac7a44eb1cea9d17",
+        "FileName": "DockerRabbitMQSingleton.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/DockerRabbitMQSingleton.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "7b921a796b7f87632ff28fd245fa0b900ec419fa",
+        "FileName": "DockerRabbitMQTestRule.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/DockerRabbitMQTestRule.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "8fc861113a39b9dccaf7a5d6799ff34c7559a715",
+        "FileName": "InMemoryConsumer.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/InMemoryConsumer.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "1541f52b04a6d9fa96ff3e2ca026abed12ea677a",
+        "FileName": "RabbitMQClusterTest.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/RabbitMQClusterTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 11,
+        "Deletions": 11,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "84bb762bc41397ea7139f61acc3d89a697d24fab",
+        "FileName": "RabbitMQConfigurationTest.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/RabbitMQConfigurationTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "052aa909071b926e216ebca1ed1de87dafb475bc",
+        "FileName": "RabbitMQConnectionFactoryTest.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/RabbitMQConnectionFactoryTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "577be128a4760de79228e7eb569bd04fd7940cf5",
+        "FileName": "RabbitMQExtension.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/RabbitMQExtension.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "c1d73f5a4bcea5a218d8a518e1008a0f9f6994a6",
+        "FileName": "RabbitMQFixture.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/RabbitMQFixture.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "15c22c3dbfb348e0d0baef16ecdd0472eeec7e78",
+        "FileName": "RabbitMQHealthCheckTest.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/RabbitMQHealthCheckTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "b673a101225183c61cb26740f313286bc2986465",
+        "FileName": "RabbitMQTest.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/RabbitMQTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 15,
+        "Deletions": 15,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "99136f7082c185411699f76918ac3e40a614dd7c",
+        "FileName": "RabbitMQWaitStrategy.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/RabbitMQWaitStrategy.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "81994c832af8ca72b0a798347e1bc2f9c52ecd83",
+        "FileName": "ReactorRabbitMQChannelPoolTest.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backends/rabbitmq/ReactorRabbitMQChannelPoolTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 3,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "ebfa2053c9ecb3d46a54c15e8e3542f50eb71a14",
+        "FileName": "EventDispatcher.java",
+        "Path": "mailbox/event/event-rabbitmq/src/main/java/org/apache/james/mailbox/events/EventDispatcher.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "991be7531910663eaaa9e8c0c22356f65fcfcb89",
+        "FileName": "GroupConsumerRetry.java",
+        "Path": "mailbox/event/event-rabbitmq/src/main/java/org/apache/james/mailbox/events/GroupConsumerRetry.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "79aa6a8bac4ed66849a403537d82dc286c69ca1e",
+        "FileName": "GroupRegistration.java",
+        "Path": "mailbox/event/event-rabbitmq/src/main/java/org/apache/james/mailbox/events/GroupRegistration.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "7910152947609ec035af6ab2a5bb3b1df1dbc093",
+        "FileName": "KeyRegistrationHandler.java",
+        "Path": "mailbox/event/event-rabbitmq/src/main/java/org/apache/james/mailbox/events/KeyRegistrationHandler.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "a659062e6d881726716cb06bf6dce8c0ce9fa8a7",
+        "FileName": "RabbitMQEventBus.java",
+        "Path": "mailbox/event/event-rabbitmq/src/main/java/org/apache/james/mailbox/events/RabbitMQEventBus.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "bf84ec1a407debaa8643bc305973dbee2ecc7dca",
+        "FileName": "RoutingKeyConverter.java",
+        "Path": "mailbox/event/event-rabbitmq/src/main/java/org/apache/james/mailbox/events/RoutingKeyConverter.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "ab6d885b1c3ae1e4b635c2f076383534f866b088",
+        "FileName": "RabbitMQEventBusTest.java",
+        "Path": "mailbox/event/event-rabbitmq/src/test/java/org/apache/james/mailbox/events/RabbitMQEventBusTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 11,
+        "Deletions": 11,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "7884439b465bd1e161e672437c43d897c4e2086d",
+        "FileName": "RabbitMQAuthenticatePlainTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQAuthenticatePlainTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "12c5feb921ae700871dc944fdf06c2fbdd9f7110",
+        "FileName": "RabbitMQAuthenticatedStateTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQAuthenticatedStateTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "f2fa662705c8f557b21e54b7ee13edb2d6a94fb3",
+        "FileName": "RabbitMQConcurrentSessionsTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQConcurrentSessionsTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "223233837f960761e064cac52f13b00339904d23",
+        "FileName": "RabbitMQCondstoreTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQCondstoreTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "bcf7cdebed579980777b645d19f3d4376560049b",
+        "FileName": "RabbitMQCopyTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQCopyTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "9dbd98c2a363e5b616e035ec68af59c54b1e7011",
+        "FileName": "RabbitMQEventsTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQEventsTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "f6b8fc147b46a412e588ca4728f116ef607ac8b8",
+        "FileName": "RabbitMQFetchBodySectionTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQFetchBodySectionTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "c035570d589fc07955784c510a03b34573a60cfa",
+        "FileName": "RabbitMQFetchBodyStructureTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQFetchBodyStructureTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "a021a8d3702ae283971fe9c71beadc81634f1944",
+        "FileName": "RabbitMQFetchHeadersTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQFetchHeadersTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "25749d027afb20acc1715b970eed8906bb0b41e3",
+        "FileName": "RabbitMQFetchTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQFetchTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "f71417319c38280548288ec2308593ecd25731fa",
+        "FileName": "RabbitMQListingTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQListingTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "86288e24f162e934099f12acae62b4f5e6bf83a8",
+        "FileName": "RabbitMQListingWithSharingTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQListingWithSharingTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "d093a376b67633ab0276d667445899050d88f80f",
+        "FileName": "RabbitMQMailboxAnnotationTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQMailboxAnnotationTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "15e2936bd73560b86a79898d254d854df8a7f0fa",
+        "FileName": "RabbitMQMailboxWithLongNameErrorTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQMailboxWithLongNameErrorTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "5358cf7aac3001c403c12b8be44108d8ec99514a",
+        "FileName": "RabbitMQMoveTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQMoveTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "ba1bbf477b922e8f7f323ace4b2ff3c4ba4f40e0",
+        "FileName": "RabbitMQNonAuthenticatedStateTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQNonAuthenticatedStateTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "6773d259d282464104dc90a9ee2005386704aec2",
+        "FileName": "RabbitMQPartialFetchTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQPartialFetchTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "dd9b39f9cf5d1c1557b9624046098da7d9917491",
+        "FileName": "RabbitMQQuotaTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQQuotaTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "aa643ef7d04cad9c612c7d8cb7c10c49afb4cbd3",
+        "FileName": "RabbitMQRenameTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQRenameTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "9d0f2609b426505fbeb036874310cf9224ed1b62",
+        "FileName": "RabbitMQSearchTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQSearchTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "db61a4a304fbee1a594bde20522d8d690661ddc7",
+        "FileName": "RabbitMQSecurityTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQSecurityTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "750b2e14a06afab3eea94a919728dcaba30a4669",
+        "FileName": "RabbitMQSelectTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQSelectTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "67502e17f1471cae2d0fa9563744ba22393adb46",
+        "FileName": "RabbitMQSelectedInboxTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQSelectedInboxTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "35387aa91e74aa117cef060442521fc5face6d1f",
+        "FileName": "RabbitMQSelectedStateTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQSelectedStateTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "6c27aa1f80794c00b48cbc50f155449df78ea2f0",
+        "FileName": "RabbitMQUidSearchTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQUidSearchTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "92dfe8f2e641c345233de8ca55e85b52f49b3266",
+        "FileName": "RabbitMQUserFlagsSupportTest.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/RabbitMQUserFlagsSupportTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "e93ac4fa5525b3e7d4746829aad3282b6484557e",
+        "FileName": "RabbitMQEventBusHostSystem.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/host/RabbitMQEventBusHostSystem.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "8fb818bd2a7835b2760d74ee2286ac91230f491f",
+        "FileName": "RabbitMQEventBusHostSystemRule.java",
+        "Path": "mpt/impl/imap-mailbox/rabbitmq/src/test/java/org/apache/james/mpt/imapmailbox/rabbitmq/host/RabbitMQEventBusHostSystemRule.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "52294115b467a2517f4941da8a8706071d1db992",
+        "FileName": "CassandraRabbitMQAwsS3SmtpTestRuleFactory.java",
+        "Path": "mpt/impl/smtp/cassandra-rabbitmq-object-storage/src/test/java/org/apache/james/mpt/smtp/CassandraRabbitMQAwsS3SmtpTestRuleFactory.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "e7fcab78f2120dd679ce73e549922f24ca776e32",
+        "FileName": "CassandraRabbitMQAwsS3JmapTestRule.java",
+        "Path": "server/container/guice/cassandra-rabbitmq-guice/src/test/java/org/apache/james/CassandraRabbitMQAwsS3JmapTestRule.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "e9a78ede091b37c84736d32e5fda2c25656c0bc5",
+        "FileName": "CassandraRabbitMQSwiftJmapTestRule.java",
+        "Path": "server/container/guice/cassandra-rabbitmq-guice/src/test/java/org/apache/james/CassandraRabbitMQSwiftJmapTestRule.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "b107e2c140f6a955fc798269f9137b1e1b19e53f",
+        "FileName": "DockerRabbitMQRule.java",
+        "Path": "server/container/guice/cassandra-rabbitmq-guice/src/test/java/org/apache/james/modules/DockerRabbitMQRule.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "2677b5aa5bcd3f3529c2f9b5107b96b2fd642f1c",
+        "FileName": "RabbitMQExtension.java",
+        "Path": "server/container/guice/cassandra-rabbitmq-guice/src/test/java/org/apache/james/modules/RabbitMQExtension.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "e17539bf626c62a06827708069c041436e27e2a0",
+        "FileName": "TestRabbitMQModule.java",
+        "Path": "server/container/guice/cassandra-rabbitmq-guice/src/test/java/org/apache/james/modules/TestRabbitMQModule.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "09a7bfee500c956d5e31b16e581f761682603483",
+        "FileName": "RabbitMQModule.java",
+        "Path": "server/container/guice/rabbitmq/src/main/java/org/apache/james/modules/rabbitmq/RabbitMQModule.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "779e71e13a8e47cc949145dc0f1f01c0604defd7",
+        "FileName": "RabbitClient.java",
+        "Path": "server/queue/queue-rabbitmq/src/main/java/org/apache/james/queue/rabbitmq/RabbitClient.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "c2a634c2f0b0166a50b80edb8e9caa30ec958ec3",
+        "FileName": "RabbitMQMailQueueManagement.java",
+        "Path": "server/queue/queue-rabbitmq/src/main/java/org/apache/james/queue/rabbitmq/RabbitMQMailQueueManagement.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "b17e938ecdcdb52449a04f72e853332c28ce7ea8",
+        "FileName": "RabbitMQMailQueueConfigurationChangeTest.java",
+        "Path": "server/queue/queue-rabbitmq/src/test/java/org/apache/james/queue/rabbitmq/RabbitMQMailQueueConfigurationChangeTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "703b233d0281e5ba3db0eb0056c793c95c04dbc5",
+        "FileName": "RabbitMQMailQueueTest.java",
+        "Path": "server/queue/queue-rabbitmq/src/test/java/org/apache/james/queue/rabbitmq/RabbitMQMailQueueTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "6280d4168da909920552c4e378187e14f20136d6",
+        "FileName": "RabbitMqMailQueueFactoryTest.java",
+        "Path": "server/queue/queue-rabbitmq/src/test/java/org/apache/james/queue/rabbitmq/RabbitMqMailQueueFactoryTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "fd8317a17f27523739bdcd9e106cfafd5596c605",
+        "FileName": "RabbitMQTerminationSubscriber.java",
+        "Path": "server/task-distributed/src/main/java/org/apache/james/task/eventsourcing/distributed/RabbitMQTerminationSubscriber.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "34b3f5bfe1d5df4526f488afac5c19c70ad6ad09",
+        "FileName": "RabbitMQWorkQueue.java",
+        "Path": "server/task-distributed/src/main/java/org/apache/james/task/eventsourcing/distributed/RabbitMQWorkQueue.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "5e26147671ad8759ea9bcbc08f506f933a46c901",
+        "FileName": "RabbitMQWorkQueueSupplier.scala",
+        "Path": "server/task-distributed/src/main/scala/org/apache/james/task/eventsourcing/distributed/RabbitMQWorkQueueSupplier.scala",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "767d0ffaa1c173f967738b0b536443fae6b25644",
+        "FileName": "DistributedTaskManagerTest.java",
+        "Path": "server/task-distributed/src/test/java/org/apache/james/task/eventsourcing/distributed/DistributedTaskManagerTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "9da45e808680923bf039c5a205d6f43cfb1aa4b4",
+        "FileName": "RabbitMQTerminationSubscriberTest.java",
+        "Path": "server/task-distributed/src/test/java/org/apache/james/task/eventsourcing/distributed/RabbitMQTerminationSubscriberTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      },
+      {
+        "Sha": "1615eccfd50ac42cfcc4d0dbe5ad0890698b9893",
+        "FileName": "RabbitMQWorkQueueTest.java",
+        "Path": "server/task-distributed/src/test/java/org/apache/james/task/eventsourcing/distributed/RabbitMQWorkQueueTest.java",
+        "DateUpdated": "2019-09-25T03:17:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d798b40d2de987aa3aa8f0f88253512f0ff7a55f"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d3b4084aa7daf7c5de8b83eb8ca1f41664e34055",
+        "Author": {
+          "name": "\"Matthieu Baechler\"",
+          "location": "Privas, France",
+          "company": "Baechler Craftsmanship"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:22:27Z",
+        "additions": 35,
+        "deletions": 0,
+        "files": [
+          "1904db232aed446c9d7434ff0a12917a5cf514b4"
+        ]
+      },
+      {
+        "sha": "a103f57753f2b61f32720b38c938b3e992f0382a",
+        "Author": {
+          "name": "\"Matthieu Baechler\"",
+          "location": "Privas, France",
+          "company": "Baechler Craftsmanship"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:22:26Z",
+        "additions": 47,
+        "deletions": 59,
+        "files": [
+          "4b60f2afc4a0dc7d945c3e25cb11b503fad7edf7"
+        ]
+      },
+      {
+        "sha": "093750f67ee6e1a34ae76e91bd612043aa900868",
+        "Author": {
+          "name": "\"Matthieu Baechler\"",
+          "location": "Privas, France",
+          "company": "Baechler Craftsmanship"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:22:26Z",
+        "additions": 5,
+        "deletions": 5,
+        "files": [
+          "b05fe364eb1f89361e748e1b5d5593debcb5b372"
+        ]
+      },
+      {
+        "sha": "887ca0efcbed63b873de94961c0356790f0d3c77",
+        "Author": {
+          "name": "\"Matthieu Baechler\"",
+          "location": "Privas, France",
+          "company": "Baechler Craftsmanship"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:22:26Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "ec41f2ef3b2060c24e903893b761f1f2a31eb229"
+        ]
+      },
+      {
+        "sha": "578e075f66a232cb352b230f5d87045912c23422",
+        "Author": {
+          "name": "\"Matthieu Baechler\"",
+          "location": "Privas, France",
+          "company": "Baechler Craftsmanship"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:22:26Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "1fdd6cc3068520921ad2865026ceebf2130ddc76"
+        ]
+      },
+      {
+        "sha": "b48dccec3fe46c9d116c52bf1366b15856f2e8e9",
+        "Author": {
+          "name": "\"Matthieu Baechler\"",
+          "location": "Privas, France",
+          "company": "Baechler Craftsmanship"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:20:53Z",
+        "additions": 4,
+        "deletions": 0,
+        "files": [
+          "c1e38b80400096e72d15ae483ba9af000962cc03"
+        ]
+      },
+      {
+        "sha": "925b2aef8852aa2c2ffb5797395457669ad8be2c",
+        "Author": {
+          "name": "\"Matthieu Baechler\"",
+          "location": "Privas, France",
+          "company": "Baechler Craftsmanship"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:20:53Z",
+        "additions": 2,
+        "deletions": 0,
+        "files": [
+          "8c951dab7ac07634aa85e30a180c5513aff8bace"
+        ]
+      },
+      {
+        "sha": "76c2fd98203304efb08d952e4e62b321e5ea3f44",
+        "Author": {
+          "name": "\"Rémi Kowalski\""
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:20:17Z",
+        "additions": 123,
+        "deletions": 0,
+        "files": [
+          "3b82156de656b0fed09dab185965944b1045ad76",
+          "737f17ad69dd7863f5f41ad1d8fb5ee44821e12a"
+        ]
+      },
+      {
+        "sha": "a93aca8184de1b1b762e6d01af25c77d003706a7",
+        "Author": {
+          "name": "\"Rémi Kowalski\""
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:20:17Z",
+        "additions": 66,
+        "deletions": 41,
+        "files": [
+          "7b69928beb994045df904c8a55edc32ca10a5678",
+          "82e12f5952e98732f0e2ee5e17a2947e7586b584",
+          "c586e655ac7890b9d39dfd68b73b5347f52aaef1"
+        ]
+      },
+      {
+        "sha": "fca4be5a9a2fe6defebb404f0a533e6b30ad8035",
+        "Author": {
+          "name": "\"Rémi Kowalski\""
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:20:16Z",
+        "additions": 119,
+        "deletions": 0,
+        "files": [
+          "c7b9efcd3dc9a49c9221c8469d84d7651db45d54",
+          "4619f624e95a532a2160d25bc0255904430d322a"
+        ]
+      },
+      {
+        "sha": "e264e9a37afd176d8de591a6f8543b399f7ca25e",
+        "Author": {
+          "name": "\"Rémi Kowalski\""
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:20:16Z",
+        "additions": 66,
+        "deletions": 41,
+        "files": [
+          "b29f000d2fe343d37c768c45343dd51b8687844a",
+          "6d16df51b31eece211f5fcf4b1964598ce6a42b1",
+          "6fa7c3a449c59be018d5d45ca26dd6b340244d4a"
+        ]
+      },
+      {
+        "sha": "5b4a0195d664f72931fc270ca97f0ac7592de7a5",
+        "Author": {
+          "name": "\"Rémi Kowalski\""
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:20:16Z",
+        "additions": 41,
+        "deletions": 0,
+        "files": [
+          "18659da0eac79e017ef1d17f4c1848d7d52bd98b"
+        ]
+      },
+      {
+        "sha": "19204325a8f5d09df00658d2f28d6608c7e39810",
+        "Author": {
+          "name": "\"Rémi Kowalski\""
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:20:16Z",
+        "additions": 33,
+        "deletions": 1,
+        "files": [
+          "e1cca2a108fa7a7167f659dcb8e449f2cfd21153"
+        ]
+      },
+      {
+        "sha": "a96ce1486b3b1cdadca517dd85bdc46a5a7af080",
+        "Author": {
+          "name": "\"Rémi Kowalski\""
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:20:16Z",
+        "additions": 137,
+        "deletions": 0,
+        "files": [
+          "7d5c27dc13ca5a031d34e5c900607cf30fe0884d"
+        ]
+      },
+      {
+        "sha": "e844ff6ca867ea64dade7e2c899e3a35153c43de",
+        "Author": {
+          "name": "\"Rémi Kowalski\""
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:20:16Z",
+        "additions": 115,
+        "deletions": 80,
+        "files": [
+          "b13d49c5ed080761471c45ca4445829fa9c1ab6f",
+          "55c98dec3ab7e90227bb0a2479dfe7aa2cc5e01f",
+          "2103682a49ea39a6987e4a0b1bb0e6b6b697c307"
+        ]
+      },
+      {
+        "sha": "19908020b170c71231310e8287c8767dc03bb6cf",
+        "Author": {
+          "name": "\"Rémi Kowalski\""
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:18:43Z",
+        "additions": 36,
+        "deletions": 22,
+        "files": [
+          "fe080319edb7eb5ef97e2215cc3f13360c5368c3",
+          "0177a6ab12c1f1fca73cca5ebec7f8f3416077ac",
+          "cad7c523ddfce8007a4daf47e38863be91a9e87d",
+          "4ad01068793d550d6dbbede340e57311afd63839",
+          "53d92750654e5e74dc6b092dbeb3760dfd56f6e2"
+        ]
+      },
+      {
+        "sha": "8c284f7ba3bae5bb38a9596c84827af532d0750c",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:18:04Z",
+        "additions": 26,
+        "deletions": 39,
+        "files": [
+          "ee0be2d41c23f0a907349c5e579339df81c44eec",
+          "9eda16b8fb81dbc042e4fdeee763ac06c9a026db"
+        ]
+      },
+      {
+        "sha": "d798b40d2de987aa3aa8f0f88253512f0ff7a55f",
+        "Author": {
+          "name": "\"Gautier DI FOLCO\"",
+          "location": "Lyon, France",
+          "company": "@linagora "
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-25T03:17:44Z",
+        "additions": 148,
+        "deletions": 149,
+        "files": [
+          "89455c0993bf8e3476cd893fe3da3aedfc94d8d6",
+          "a544efb464707738573b97efd6e075186ecb16b4",
+          "8b12e2ae22572b356104384031226ef6fbc1a72b",
+          "1f4d0fd5589f4392d36d22c0103b5338e3d4bcea",
+          "d766a5fb7e1ef4dd6d46bf69738682e388334c26",
+          "9f688e84119a404ca6679697396c93628527768a",
+          "dfba0babd6e93a9ace70021c74b672f6dea1b916",
+          "f99ab432bdd0b430a8bed81c1ea57794da4f1948",
+          "4ffebfdc737a5b678b9b9988e06f9fa205b268a2",
+          "1bccee7fc939e3eab76e377194ae516cf758738c",
+          "a9a172c59756c04168685d2e60c61a83e75e2c0e",
+          "69db7ba490544dd01412d75f05cffb57c1027ee9",
+          "022ac520d4efd0054b118499ac7a44eb1cea9d17",
+          "7b921a796b7f87632ff28fd245fa0b900ec419fa",
+          "8fc861113a39b9dccaf7a5d6799ff34c7559a715",
+          "1541f52b04a6d9fa96ff3e2ca026abed12ea677a",
+          "84bb762bc41397ea7139f61acc3d89a697d24fab",
+          "052aa909071b926e216ebca1ed1de87dafb475bc",
+          "577be128a4760de79228e7eb569bd04fd7940cf5",
+          "c1d73f5a4bcea5a218d8a518e1008a0f9f6994a6",
+          "15c22c3dbfb348e0d0baef16ecdd0472eeec7e78",
+          "b673a101225183c61cb26740f313286bc2986465",
+          "99136f7082c185411699f76918ac3e40a614dd7c",
+          "81994c832af8ca72b0a798347e1bc2f9c52ecd83",
+          "ebfa2053c9ecb3d46a54c15e8e3542f50eb71a14",
+          "991be7531910663eaaa9e8c0c22356f65fcfcb89",
+          "79aa6a8bac4ed66849a403537d82dc286c69ca1e",
+          "7910152947609ec035af6ab2a5bb3b1df1dbc093",
+          "a659062e6d881726716cb06bf6dce8c0ce9fa8a7",
+          "bf84ec1a407debaa8643bc305973dbee2ecc7dca",
+          "ab6d885b1c3ae1e4b635c2f076383534f866b088",
+          "7884439b465bd1e161e672437c43d897c4e2086d",
+          "12c5feb921ae700871dc944fdf06c2fbdd9f7110",
+          "f2fa662705c8f557b21e54b7ee13edb2d6a94fb3",
+          "223233837f960761e064cac52f13b00339904d23",
+          "bcf7cdebed579980777b645d19f3d4376560049b",
+          "9dbd98c2a363e5b616e035ec68af59c54b1e7011",
+          "f6b8fc147b46a412e588ca4728f116ef607ac8b8",
+          "c035570d589fc07955784c510a03b34573a60cfa",
+          "a021a8d3702ae283971fe9c71beadc81634f1944",
+          "25749d027afb20acc1715b970eed8906bb0b41e3",
+          "f71417319c38280548288ec2308593ecd25731fa",
+          "86288e24f162e934099f12acae62b4f5e6bf83a8",
+          "d093a376b67633ab0276d667445899050d88f80f",
+          "15e2936bd73560b86a79898d254d854df8a7f0fa",
+          "5358cf7aac3001c403c12b8be44108d8ec99514a",
+          "ba1bbf477b922e8f7f323ace4b2ff3c4ba4f40e0",
+          "6773d259d282464104dc90a9ee2005386704aec2",
+          "dd9b39f9cf5d1c1557b9624046098da7d9917491",
+          "aa643ef7d04cad9c612c7d8cb7c10c49afb4cbd3",
+          "9d0f2609b426505fbeb036874310cf9224ed1b62",
+          "db61a4a304fbee1a594bde20522d8d690661ddc7",
+          "750b2e14a06afab3eea94a919728dcaba30a4669",
+          "67502e17f1471cae2d0fa9563744ba22393adb46",
+          "35387aa91e74aa117cef060442521fc5face6d1f",
+          "6c27aa1f80794c00b48cbc50f155449df78ea2f0",
+          "92dfe8f2e641c345233de8ca55e85b52f49b3266",
+          "e93ac4fa5525b3e7d4746829aad3282b6484557e",
+          "8fb818bd2a7835b2760d74ee2286ac91230f491f",
+          "52294115b467a2517f4941da8a8706071d1db992",
+          "e7fcab78f2120dd679ce73e549922f24ca776e32",
+          "e9a78ede091b37c84736d32e5fda2c25656c0bc5",
+          "b107e2c140f6a955fc798269f9137b1e1b19e53f",
+          "2677b5aa5bcd3f3529c2f9b5107b96b2fd642f1c",
+          "e17539bf626c62a06827708069c041436e27e2a0",
+          "09a7bfee500c956d5e31b16e581f761682603483",
+          "779e71e13a8e47cc949145dc0f1f01c0604defd7",
+          "c2a634c2f0b0166a50b80edb8e9caa30ec958ec3",
+          "b17e938ecdcdb52449a04f72e853332c28ce7ea8",
+          "703b233d0281e5ba3db0eb0056c793c95c04dbc5",
+          "6280d4168da909920552c4e378187e14f20136d6",
+          "fd8317a17f27523739bdcd9e106cfafd5596c605",
+          "34b3f5bfe1d5df4526f488afac5c19c70ad6ad09",
+          "5e26147671ad8759ea9bcbc08f506f933a46c901",
+          "767d0ffaa1c173f967738b0b536443fae6b25644",
+          "9da45e808680923bf039c5a205d6f43cfb1aa4b4",
+          "1615eccfd50ac42cfcc4d0dbe5ad0890698b9893"
+        ]
+      }
+    ]
+  }
+]

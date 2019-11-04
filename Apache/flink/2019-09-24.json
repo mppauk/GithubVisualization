@@ -1,0 +1,460 @@
+[
+  {
+    "RepositoryName": "flink",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T07:47:12Z",
+    "EndDate": "2019-09-24T08:47:12",
+    "Branches": 93,
+    "Forks": 5583,
+    "Files": [
+      {
+        "Sha": "5ed2c7b26446a073cb472f65e8fe317a92ec000e",
+        "FileName": "RetractableTopNFunction.java",
+        "Path": "flink-table/flink-table-runtime-blink/src/main/java/org/apache/flink/table/runtime/operators/rank/RetractableTopNFunction.java",
+        "DateUpdated": "2019-09-24T08:22:31Z",
+        "Additions": 10,
+        "Deletions": 0,
+        "Commits": [
+          "1728e03a179235b70e6b6ad6532eb307717fd171"
+        ]
+      },
+      {
+        "Sha": "f852ca13843ec73d17bed4064dc84f48df0c7f90",
+        "FileName": "RetractableTopNFunctionTest.java",
+        "Path": "flink-table/flink-table-runtime-blink/src/test/java/org/apache/flink/table/runtime/operators/rank/RetractableTopNFunctionTest.java",
+        "DateUpdated": "2019-09-24T08:22:31Z",
+        "Additions": 34,
+        "Deletions": 0,
+        "Commits": [
+          "1728e03a179235b70e6b6ad6532eb307717fd171"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "1728e03a179235b70e6b6ad6532eb307717fd171",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Jark Wu\"",
+          "location": "Hangzhou China",
+          "company": "@alibaba "
+        },
+        "Date": "2019-09-24T08:22:31Z",
+        "additions": 44,
+        "deletions": 0,
+        "files": [
+          "5ed2c7b26446a073cb472f65e8fe317a92ec000e",
+          "f852ca13843ec73d17bed4064dc84f48df0c7f90"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "flink",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T08:47:06Z",
+    "EndDate": "2019-09-24T09:47:06",
+    "Branches": 93,
+    "Forks": 5584,
+    "Files": [
+      {
+        "Sha": "9ed3151742debf7b6590ca6d76f32b3b379a3c84",
+        "FileName": "CompletedCheckpointStore.java",
+        "Path": "flink-runtime/src/main/java/org/apache/flink/runtime/checkpoint/CompletedCheckpointStore.java",
+        "DateUpdated": "2019-09-24T09:02:13Z",
+        "Additions": 13,
+        "Deletions": 19,
+        "Commits": [
+          "de92c698bbba464d15de9b70546f1b1ceee5b48b"
+        ]
+      },
+      {
+        "Sha": "4ed1050253f0a75d32b1d27eba0af95bbb081a67",
+        "FileName": "StandaloneCompletedCheckpointStoreTest.java",
+        "Path": "flink-runtime/src/test/java/org/apache/flink/runtime/checkpoint/StandaloneCompletedCheckpointStoreTest.java",
+        "DateUpdated": "2019-09-24T09:02:13Z",
+        "Additions": 65,
+        "Deletions": 5,
+        "Commits": [
+          "de92c698bbba464d15de9b70546f1b1ceee5b48b"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "de92c698bbba464d15de9b70546f1b1ceee5b48b",
+        "Author": {
+          "name": "\"Gyula Fora\"",
+          "location": "Linköping, Sweden",
+          "company": "Apache Flink"
+        },
+        "Commitor": {
+          "name": "\"Gyula Fora\"",
+          "location": "Linköping, Sweden",
+          "company": "Apache Flink"
+        },
+        "Date": "2019-09-24T09:02:13Z",
+        "additions": 78,
+        "deletions": 24,
+        "files": [
+          "9ed3151742debf7b6590ca6d76f32b3b379a3c84",
+          "4ed1050253f0a75d32b1d27eba0af95bbb081a67"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "flink",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T09:46:54Z",
+    "EndDate": "2019-09-24T10:46:54",
+    "Branches": 93,
+    "Forks": 5584,
+    "Files": [
+      {
+        "Sha": "75de58178d837ef60af80f55eb55221bdabee050",
+        "FileName": "BootstrapTools.java",
+        "Path": "flink-runtime/src/main/java/org/apache/flink/runtime/clusterframework/BootstrapTools.java",
+        "DateUpdated": "2019-09-24T09:50:32Z",
+        "Additions": 0,
+        "Deletions": 37,
+        "Commits": [
+          "fee61e1c4ff08ff956735247c8fbd08239c9487d"
+        ]
+      },
+      {
+        "Sha": "a1e1b5dc36c46b47a0520c08052d5a6fbe688d67",
+        "FileName": "TimeUtils.java",
+        "Path": "flink-core/src/main/java/org/apache/flink/util/TimeUtils.java",
+        "DateUpdated": "2019-09-24T09:48:50Z",
+        "Additions": 36,
+        "Deletions": 12,
+        "Commits": [
+          "b3722800586780670a4f3e059c9c36ce10b7c839"
+        ]
+      },
+      {
+        "Sha": "49b2e86d01a70e23a449e068e87cdb0e35703693",
+        "FileName": "TimeUtilsTest.java",
+        "Path": "flink-core/src/test/java/org/apache/flink/util/TimeUtilsTest.java",
+        "DateUpdated": "2019-09-24T09:48:50Z",
+        "Additions": 12,
+        "Deletions": 0,
+        "Commits": [
+          "b3722800586780670a4f3e059c9c36ce10b7c839"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "fee61e1c4ff08ff956735247c8fbd08239c9487d",
+        "Commitor": {
+          "name": "\"Till Rohrmann\"",
+          "location": "Berlin",
+          "company": "@ververica (formerly @dataArtisans)"
+        },
+        "Date": "2019-09-24T09:50:32Z",
+        "additions": 0,
+        "deletions": 37,
+        "files": [
+          "75de58178d837ef60af80f55eb55221bdabee050"
+        ]
+      },
+      {
+        "sha": "b3722800586780670a4f3e059c9c36ce10b7c839",
+        "Commitor": {
+          "name": "\"Till Rohrmann\"",
+          "location": "Berlin",
+          "company": "@ververica (formerly @dataArtisans)"
+        },
+        "Date": "2019-09-24T09:48:50Z",
+        "additions": 48,
+        "deletions": 12,
+        "files": [
+          "a1e1b5dc36c46b47a0520c08052d5a6fbe688d67",
+          "49b2e86d01a70e23a449e068e87cdb0e35703693"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "flink",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T10:47:04Z",
+    "EndDate": "2019-09-24T11:47:04",
+    "Branches": 93,
+    "Forks": 5584,
+    "Files": [
+      {
+        "Sha": "8c549fbce8cbb5231ebfd05d6165e9381b786ea4",
+        "FileName": "bin.xml",
+        "Path": "flink-dist/src/main/assemblies/bin.xml",
+        "DateUpdated": "2019-09-24T11:26:45Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "44e86178831284524d815124dbb5360623358990"
+        ]
+      },
+      {
+        "Sha": "4cd642cea34274bf976f0323a7047078ddfd9476",
+        "FileName": "pyflink-gateway-server.sh",
+        "Path": "flink-python/bin/pyflink-gateway-server.sh",
+        "DateUpdated": "2019-09-24T11:26:45Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "44e86178831284524d815124dbb5360623358990"
+        ]
+      },
+      {
+        "Sha": "2c83cc76af575361f58d5f7763d07398772ec79a",
+        "FileName": "pyflink-shell.sh",
+        "Path": "flink-python/bin/pyflink-shell.sh",
+        "DateUpdated": "2019-09-24T11:26:45Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "44e86178831284524d815124dbb5360623358990"
+        ]
+      },
+      {
+        "Sha": "d2f96e875a77632624a7894d35fca3aaa25e6471",
+        "FileName": "pyflink-udf-runner.sh",
+        "Path": "flink-python/bin/pyflink-udf-runner.sh",
+        "DateUpdated": "2019-09-24T11:26:45Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "44e86178831284524d815124dbb5360623358990"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "44e86178831284524d815124dbb5360623358990",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Hequn Cheng\"",
+          "company": "Alibaba"
+        },
+        "Date": "2019-09-24T11:26:45Z",
+        "additions": 7,
+        "deletions": 0,
+        "files": [
+          "8c549fbce8cbb5231ebfd05d6165e9381b786ea4",
+          "4cd642cea34274bf976f0323a7047078ddfd9476",
+          "2c83cc76af575361f58d5f7763d07398772ec79a",
+          "d2f96e875a77632624a7894d35fca3aaa25e6471"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "flink",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T11:47:02Z",
+    "EndDate": "2019-09-24T12:47:02",
+    "Branches": 93,
+    "Forks": 5586,
+    "Files": [
+      {
+        "Sha": "41e0eec92b12848a59b48da8167cedb9eb76354b",
+        "FileName": "common.sh",
+        "Path": "flink-end-to-end-tests/test-scripts/common.sh",
+        "DateUpdated": "2019-09-24T12:42:53Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "fe60f996e792680f74efea24e2916d013c24a044"
+        ]
+      },
+      {
+        "Sha": "a3b91ee2e83d9ba6cf53096344e3fbfbcff41486",
+        "FileName": "rest_v1_dispatcher.html",
+        "Path": "docs/_includes/generated/rest_v1_dispatcher.html",
+        "DateUpdated": "2019-09-24T12:26:13Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "2773f98a64e447d1bdb02921dee24bdb35608621"
+        ]
+      },
+      {
+        "Sha": "65345ba20ded52ae4c73ea75828d61c4bf42b2d5",
+        "FileName": "rest_api_v1.snapshot",
+        "Path": "flink-runtime-web/src/test/resources/rest_api_v1.snapshot",
+        "DateUpdated": "2019-09-24T12:26:13Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "2773f98a64e447d1bdb02921dee24bdb35608621"
+        ]
+      },
+      {
+        "Sha": "94906fe31d33b289f19e85b62310f9d31c1b7f84",
+        "FileName": "JobVertexTaskManagersHandler.java",
+        "Path": "flink-runtime/src/main/java/org/apache/flink/runtime/rest/handler/job/JobVertexTaskManagersHandler.java",
+        "DateUpdated": "2019-09-24T12:26:13Z",
+        "Additions": 9,
+        "Deletions": 4,
+        "Commits": [
+          "2773f98a64e447d1bdb02921dee24bdb35608621"
+        ]
+      },
+      {
+        "Sha": "df5014f9761507392244f33ca781a3fd4cd6d70e",
+        "FileName": "JobVertexTaskManagersInfo.java",
+        "Path": "flink-runtime/src/main/java/org/apache/flink/runtime/rest/messages/JobVertexTaskManagersInfo.java",
+        "DateUpdated": "2019-09-24T12:26:13Z",
+        "Additions": 10,
+        "Deletions": 3,
+        "Commits": [
+          "2773f98a64e447d1bdb02921dee24bdb35608621"
+        ]
+      },
+      {
+        "Sha": "3fe60d0c1faf47053576aa0a87e230530cf767b8",
+        "FileName": "JobVertexTaskManagersInfoTest.java",
+        "Path": "flink-runtime/src/test/java/org/apache/flink/runtime/rest/messages/JobVertexTaskManagersInfoTest.java",
+        "DateUpdated": "2019-09-24T12:26:13Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2773f98a64e447d1bdb02921dee24bdb35608621"
+        ]
+      },
+      {
+        "Sha": "9f951c52aab11161ffc52b978c5fe781c476cad0",
+        "FileName": "mesos_configuration.html",
+        "Path": "docs/_includes/generated/mesos_configuration.html",
+        "DateUpdated": "2019-09-24T11:48:12Z",
+        "Additions": 10,
+        "Deletions": 0,
+        "Commits": [
+          "c235253a101d21a089404dc20690b58640686083"
+        ]
+      },
+      {
+        "Sha": "d957977ea8e9b93f8f46e55d8511281020c347ed",
+        "FileName": "MesosOptions.java",
+        "Path": "flink-mesos/src/main/java/org/apache/flink/mesos/configuration/MesosOptions.java",
+        "DateUpdated": "2019-09-24T11:48:12Z",
+        "Additions": 26,
+        "Deletions": 0,
+        "Commits": [
+          "c235253a101d21a089404dc20690b58640686083"
+        ]
+      },
+      {
+        "Sha": "01c68e4a0e9cd7bb55e3cec0c7cf533a5afe3efd",
+        "FileName": "MesosResourceManager.java",
+        "Path": "flink-mesos/src/main/java/org/apache/flink/mesos/runtime/clusterframework/MesosResourceManager.java",
+        "DateUpdated": "2019-09-24T11:48:12Z",
+        "Additions": 6,
+        "Deletions": 0,
+        "Commits": [
+          "c235253a101d21a089404dc20690b58640686083"
+        ]
+      },
+      {
+        "Sha": "d25d9b1fdc395e5af24c371dcb628df377047350",
+        "FileName": "TaskSchedulerBuilder.java",
+        "Path": "flink-mesos/src/main/java/org/apache/flink/mesos/scheduler/TaskSchedulerBuilder.java",
+        "DateUpdated": "2019-09-24T11:48:12Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "c235253a101d21a089404dc20690b58640686083"
+        ]
+      },
+      {
+        "Sha": "3d9f8f3c8f45a614196ed94f69ecaec0e1b93d0b",
+        "FileName": "LaunchCoordinator.scala",
+        "Path": "flink-mesos/src/main/scala/org/apache/flink/mesos/scheduler/LaunchCoordinator.scala",
+        "DateUpdated": "2019-09-24T11:48:12Z",
+        "Additions": 21,
+        "Deletions": 8,
+        "Commits": [
+          "c235253a101d21a089404dc20690b58640686083"
+        ]
+      },
+      {
+        "Sha": "00c23c6c144fe41403f3902357a5f254b06dc0e6",
+        "FileName": "LaunchCoordinatorTest.scala",
+        "Path": "flink-mesos/src/test/scala/org/apache/flink/mesos/scheduler/LaunchCoordinatorTest.scala",
+        "DateUpdated": "2019-09-24T11:48:12Z",
+        "Additions": 23,
+        "Deletions": 5,
+        "Commits": [
+          "c235253a101d21a089404dc20690b58640686083"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "fe60f996e792680f74efea24e2916d013c24a044",
+        "Author": {
+          "name": "\"Zijie Lu\"",
+          "location": "China",
+          "company": "Webank"
+        },
+        "Commitor": {
+          "name": "\"Till Rohrmann\"",
+          "location": "Berlin",
+          "company": "@ververica (formerly @dataArtisans)"
+        },
+        "Date": "2019-09-24T12:42:53Z",
+        "additions": 1,
+        "deletions": 0,
+        "files": [
+          "41e0eec92b12848a59b48da8167cedb9eb76354b"
+        ]
+      },
+      {
+        "sha": "2773f98a64e447d1bdb02921dee24bdb35608621",
+        "Commitor": {
+          "name": "\"Till Rohrmann\"",
+          "location": "Berlin",
+          "company": "@ververica (formerly @dataArtisans)"
+        },
+        "Date": "2019-09-24T12:26:13Z",
+        "additions": 27,
+        "deletions": 9,
+        "files": [
+          "a3b91ee2e83d9ba6cf53096344e3fbfbcff41486",
+          "65345ba20ded52ae4c73ea75828d61c4bf42b2d5",
+          "94906fe31d33b289f19e85b62310f9d31c1b7f84",
+          "df5014f9761507392244f33ca781a3fd4cd6d70e",
+          "3fe60d0c1faf47053576aa0a87e230530cf767b8"
+        ]
+      },
+      {
+        "sha": "c235253a101d21a089404dc20690b58640686083",
+        "Author": {
+          "name": "\"Piyush Narang\""
+        },
+        "Commitor": {
+          "name": "\"Till Rohrmann\"",
+          "location": "Berlin",
+          "company": "@ververica (formerly @dataArtisans)"
+        },
+        "Date": "2019-09-24T11:48:12Z",
+        "additions": 91,
+        "deletions": 13,
+        "files": [
+          "9f951c52aab11161ffc52b978c5fe781c476cad0",
+          "d957977ea8e9b93f8f46e55d8511281020c347ed",
+          "01c68e4a0e9cd7bb55e3cec0c7cf533a5afe3efd",
+          "d25d9b1fdc395e5af24c371dcb628df377047350",
+          "3d9f8f3c8f45a614196ed94f69ecaec0e1b93d0b",
+          "00c23c6c144fe41403f3902357a5f254b06dc0e6"
+        ]
+      }
+    ]
+  }
+]

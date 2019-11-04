@@ -1,0 +1,218 @@
+[
+  {
+    "RepositoryName": "mynewt-core",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T06:03:33Z",
+    "EndDate": "2019-09-26T07:03:33",
+    "Branches": 24,
+    "Forks": 241,
+    "Files": [
+      {
+        "Sha": "2a92e19e3a2dba83462b43c45d3af6fd5280442a",
+        "FileName": "sensor_creator.c",
+        "Path": "hw/sensor/creator/src/sensor_creator.c",
+        "DateUpdated": "2019-09-26T06:37:49Z",
+        "Additions": 4,
+        "Deletions": 3,
+        "Commits": [
+          "109738d72a1e5b5646444326d7293c8359752223"
+        ]
+      },
+      {
+        "Sha": "dadf59025f1a4668f87026e51c23088980d34f26",
+        "FileName": "sensor_creator.c",
+        "Path": "hw/sensor/creator/src/sensor_creator.c",
+        "DateUpdated": "2019-09-26T06:37:49Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "da1be55babacdbcc75ac94b4bf63159a80601a91"
+        ]
+      },
+      {
+        "Sha": "2244a312ad5ee150ea29f9dd8c74309372f695a8",
+        "FileName": "pkg.yml",
+        "Path": "hw/sensor/creator/pkg.yml",
+        "DateUpdated": "2019-09-26T06:37:49Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "75ba2b1a523bc46c451b153e27bf6967bc65b171"
+        ]
+      },
+      {
+        "Sha": "52840693ce2cf42810b1426578b91fa7a66affbf",
+        "FileName": "lis2ds12.c",
+        "Path": "hw/drivers/sensors/lis2ds12/src/lis2ds12.c",
+        "DateUpdated": "2019-09-26T06:37:49Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "4642610fdf5f5f1fd53fa1caf13938ab71b936bd"
+        ]
+      },
+      {
+        "Sha": "c07eaabc1d8b44c026b2b6d94e7027c0b8f826c7",
+        "FileName": "lis2dw12.c",
+        "Path": "hw/drivers/sensors/lis2dw12/src/lis2dw12.c",
+        "DateUpdated": "2019-09-26T06:37:49Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "4642610fdf5f5f1fd53fa1caf13938ab71b936bd"
+        ]
+      },
+      {
+        "Sha": "6132c2086442a88c7250e782717cc1275c3375ce",
+        "FileName": "lsm6dso.c",
+        "Path": "hw/drivers/sensors/lsm6dso/src/lsm6dso.c",
+        "DateUpdated": "2019-09-26T06:37:49Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "4642610fdf5f5f1fd53fa1caf13938ab71b936bd"
+        ]
+      },
+      {
+        "Sha": "e65bc178356f831d3a5ba46b450c9f5e5348fbf6",
+        "FileName": "dps368.c",
+        "Path": "hw/drivers/sensors/dps368/src/dps368.c",
+        "DateUpdated": "2019-09-26T06:37:49Z",
+        "Additions": 14,
+        "Deletions": 14,
+        "Commits": [
+          "7a3cda454d36bee6a9fc96d78d3e44b2169fee90"
+        ]
+      },
+      {
+        "Sha": "e1f085db4e35c7c7a8c8ea7d6499d62cb3a50f2d",
+        "FileName": "lsm303dlhc.c",
+        "Path": "hw/drivers/sensors/lsm303dlhc/src/lsm303dlhc.c",
+        "DateUpdated": "2019-09-26T06:37:49Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7a3cda454d36bee6a9fc96d78d3e44b2169fee90"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "109738d72a1e5b5646444326d7293c8359752223",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-26T06:37:49Z",
+        "additions": 4,
+        "deletions": 3,
+        "files": [
+          "2a92e19e3a2dba83462b43c45d3af6fd5280442a"
+        ]
+      },
+      {
+        "sha": "da1be55babacdbcc75ac94b4bf63159a80601a91",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-26T06:37:49Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "dadf59025f1a4668f87026e51c23088980d34f26"
+        ]
+      },
+      {
+        "sha": "75ba2b1a523bc46c451b153e27bf6967bc65b171",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-26T06:37:49Z",
+        "additions": 4,
+        "deletions": 0,
+        "files": [
+          "2244a312ad5ee150ea29f9dd8c74309372f695a8"
+        ]
+      },
+      {
+        "sha": "4642610fdf5f5f1fd53fa1caf13938ab71b936bd",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-26T06:37:49Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "52840693ce2cf42810b1426578b91fa7a66affbf",
+          "c07eaabc1d8b44c026b2b6d94e7027c0b8f826c7",
+          "6132c2086442a88c7250e782717cc1275c3375ce"
+        ]
+      },
+      {
+        "sha": "7a3cda454d36bee6a9fc96d78d3e44b2169fee90",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-26T06:37:49Z",
+        "additions": 17,
+        "deletions": 17,
+        "files": [
+          "e65bc178356f831d3a5ba46b450c9f5e5348fbf6",
+          "e1f085db4e35c7c7a8c8ea7d6499d62cb3a50f2d"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "mynewt-core",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T12:04:11Z",
+    "EndDate": "2019-09-26T13:04:11",
+    "Branches": 24,
+    "Forks": 241,
+    "Files": [
+      {
+        "Sha": "8b0321197b31e6f9de19b27bf0dafb0d9bdedd06",
+        "FileName": "fe310.h",
+        "Path": "hw/mcu/sifive/fe310/include/mcu/fe310.h",
+        "DateUpdated": "2019-09-26T12:34:29Z",
+        "Additions": 5,
+        "Deletions": 1,
+        "Commits": [
+          "bb5e3059981d5dd797ad53e6b19f70636473614e"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "bb5e3059981d5dd797ad53e6b19f70636473614e",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-26T12:34:29Z",
+        "additions": 5,
+        "deletions": 1,
+        "files": [
+          "8b0321197b31e6f9de19b27bf0dafb0d9bdedd06"
+        ]
+      }
+    ]
+  }
+]

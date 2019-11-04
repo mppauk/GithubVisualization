@@ -1,0 +1,682 @@
+[
+  {
+    "RepositoryName": "incubator-doris",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T01:04:21Z",
+    "EndDate": "2019-09-26T02:04:21",
+    "Branches": 12,
+    "Forks": 361,
+    "Files": [
+      {
+        "Sha": "8624e25f089568ccc37f8178f5496ea10e4fe25e",
+        "FileName": "key_coder.cpp",
+        "Path": "be/src/olap/key_coder.cpp",
+        "DateUpdated": "2019-09-26T01:34:41Z",
+        "Additions": 8,
+        "Deletions": 1,
+        "Commits": [
+          "5d1165fad2b2c6174d6e0c70b000a873003c7bfc"
+        ]
+      },
+      {
+        "Sha": "24a4aa60159dfc17ac6a1ae1073e447b59619ef6",
+        "FileName": "env.sh",
+        "Path": "env.sh",
+        "DateUpdated": "2019-09-26T01:34:41Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "5d1165fad2b2c6174d6e0c70b000a873003c7bfc"
+        ]
+      },
+      {
+        "Sha": "a78341791d43be90e8fc093fa39288628d836a9c",
+        "FileName": "build-thirdparty.sh",
+        "Path": "thirdparty/build-thirdparty.sh",
+        "DateUpdated": "2019-09-26T01:34:41Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "5d1165fad2b2c6174d6e0c70b000a873003c7bfc"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "5d1165fad2b2c6174d6e0c70b000a873003c7bfc",
+        "Author": {
+          "name": "null",
+          "company": "Baidu"
+        },
+        "Commitor": {
+          "name": "\"ZHAO Chun\"",
+          "location": "Beijing, China"
+        },
+        "Date": "2019-09-26T01:34:41Z",
+        "additions": 11,
+        "deletions": 2,
+        "files": [
+          "8624e25f089568ccc37f8178f5496ea10e4fe25e",
+          "24a4aa60159dfc17ac6a1ae1073e447b59619ef6",
+          "a78341791d43be90e8fc093fa39288628d836a9c"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-doris",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T02:04:10Z",
+    "EndDate": "2019-09-26T03:04:10",
+    "Branches": 12,
+    "Forks": 361,
+    "Files": [
+      {
+        "Sha": "db3bcad5f96e7d4eb600063084a495c9aaa5d48b",
+        "FileName": "task_worker_pool.cpp",
+        "Path": "be/src/agent/task_worker_pool.cpp",
+        "DateUpdated": "2019-09-26T02:15:43Z",
+        "Additions": 12,
+        "Deletions": 4,
+        "Commits": [
+          "7df1418ff4c1d8637973dde45b94303c87d6e6fe"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "7df1418ff4c1d8637973dde45b94303c87d6e6fe",
+        "Author": {
+          "name": "\"lichaoyong\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T02:15:43Z",
+        "additions": 12,
+        "deletions": 4,
+        "files": [
+          "db3bcad5f96e7d4eb600063084a495c9aaa5d48b"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-doris",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T05:03:57Z",
+    "EndDate": "2019-09-26T06:03:57",
+    "Branches": 12,
+    "Forks": 361,
+    "Files": [
+      {
+        "Sha": "70d52e8c3f42f61c7bf7c8149707255930c97468",
+        "FileName": "object_pool.h",
+        "Path": "be/src/common/object_pool.h",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "ab0059645d783ab8452d5d4f00097024b2e21a5d",
+        "FileName": "exec_node.cpp",
+        "Path": "be/src/exec/exec_node.cpp",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 19,
+        "Deletions": 0,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "e40a4d316a538a694ff9f566411645970c74766b",
+        "FileName": "exec_node.h",
+        "Path": "be/src/exec/exec_node.h",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 6,
+        "Deletions": 0,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "4acddb4d5bd69fe8169298aa8372ea3b2bdae2fc",
+        "FileName": "olap_scan_node.cpp",
+        "Path": "be/src/exec/olap_scan_node.cpp",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "fa280b4425a415e809b46c8325fcce198a826355",
+        "FileName": "olap_scan_node.h",
+        "Path": "be/src/exec/olap_scan_node.h",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 5,
+        "Deletions": 1,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "f4afb85ae3dd2c1e0e797515bcb5e48431d95918",
+        "FileName": "olap_scanner.cpp",
+        "Path": "be/src/exec/olap_scanner.cpp",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 8,
+        "Deletions": 1,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "b163518f30efddc5efafe00ad6ece1a305b604e6",
+        "FileName": "olap_scanner.h",
+        "Path": "be/src/exec/olap_scanner.h",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "0a513f3e415712f58219dc5e48b615b98fc298e0",
+        "FileName": "aggregate_functions.cpp",
+        "Path": "be/src/exprs/aggregate_functions.cpp",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "6a45fc5c7258201661109f41e13e5cb7d012eb39",
+        "FileName": "bitmap_function.cpp",
+        "Path": "be/src/exprs/bitmap_function.cpp",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 14,
+        "Deletions": 5,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "246f60906af63544d7555a6422f8b875449410ab",
+        "FileName": "hll_function.cpp",
+        "Path": "be/src/exprs/hll_function.cpp",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 7,
+        "Deletions": 2,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "b3155cf747a8fce4367e4c84147b52c8baac49b0",
+        "FileName": "aggregate_func.h",
+        "Path": "be/src/olap/aggregate_func.h",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 29,
+        "Deletions": 24,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "caecdd909f1628ce3adecfe59f709e26c4a6ee39",
+        "FileName": "field.h",
+        "Path": "be/src/olap/field.h",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 8,
+        "Deletions": 8,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "ae7e82b23ba67fed1aa50d7bb41c3ebe3ed18954",
+        "FileName": "memtable.cpp",
+        "Path": "be/src/olap/memtable.cpp",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "3856c83058835ae11555797a2f4347b99f753da0",
+        "FileName": "memtable.h",
+        "Path": "be/src/olap/memtable.h",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "ae1867efca271b627fc9c6458e108ccd179219ab",
+        "FileName": "merger.cpp",
+        "Path": "be/src/olap/merger.cpp",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "9255faa82e6b8aa2f738853e575cb5346cf9e9c4",
+        "FileName": "reader.cpp",
+        "Path": "be/src/olap/reader.cpp",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 11,
+        "Deletions": 6,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "2183cae0ad63ee2c09947e0c9fa7bcaa49027fbb",
+        "FileName": "reader.h",
+        "Path": "be/src/olap/reader.h",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 9,
+        "Deletions": 6,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "64ea139d2c56bfcacbcace4cf147af099afc8c51",
+        "FileName": "row.h",
+        "Path": "be/src/olap/row.h",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "b7eed210b501f34452a01d95eb96a1b27b733d7c",
+        "FileName": "schema_change.cpp",
+        "Path": "be/src/olap/schema_change.cpp",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "99d2333cabfb87e62cacd1e5e8a8339d064b550c",
+        "FileName": "engine_checksum_task.cpp",
+        "Path": "be/src/olap/task/engine_checksum_task.cpp",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "4a9eb0e02db7d7282635e9b983a1585e8837b611",
+        "FileName": "plan_fragment_executor.cpp",
+        "Path": "be/src/runtime/plan_fragment_executor.cpp",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "19152a234c8680b73f1a7ca0e9af51656ba4df5d",
+        "FileName": "row_batch.cpp",
+        "Path": "be/src/runtime/row_batch.cpp",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 11,
+        "Deletions": 33,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "7aaf2a311ce8669597d68b4bc325485fe8035a47",
+        "FileName": "row_batch.h",
+        "Path": "be/src/runtime/row_batch.h",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 7,
+        "Deletions": 8,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "aba14cda1e2f4537f0e677e2715ed6fd7ca27e8e",
+        "FileName": "udf.cpp",
+        "Path": "be/src/udf/udf.cpp",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 12,
+        "Deletions": 2,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "4cf5d9bbf5eaf1e5ac2ec85f5688c294f67a8971",
+        "FileName": "udf.h",
+        "Path": "be/src/udf/udf.h",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "ef042eb768ff99655e14db84fb26cf1588f4b812",
+        "FileName": "arena.h",
+        "Path": "be/src/util/arena.h",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "21f2cc6575a96f229028eaa0956318e794366277",
+        "FileName": "aggregate_func_test.cpp",
+        "Path": "be/test/olap/aggregate_func_test.cpp",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 11,
+        "Deletions": 5,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      },
+      {
+        "Sha": "cd26618432d391b6883d611dc1cb9ceca2f5c261",
+        "FileName": "row_cursor_test.cpp",
+        "Path": "be/test/olap/row_cursor_test.cpp",
+        "DateUpdated": "2019-09-26T05:51:13Z",
+        "Additions": 5,
+        "Deletions": 2,
+        "Commits": [
+          "b246d931282a1236e10fb29e755a021774aa913b"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "b246d931282a1236e10fb29e755a021774aa913b",
+        "Author": {
+          "name": "\"kangkaisen \"",
+          "location": "china-beijing"
+        },
+        "Commitor": {
+          "name": "\"Mingyu Chen\""
+        },
+        "Date": "2019-09-26T05:51:13Z",
+        "additions": 194,
+        "deletions": 114,
+        "files": [
+          "70d52e8c3f42f61c7bf7c8149707255930c97468",
+          "ab0059645d783ab8452d5d4f00097024b2e21a5d",
+          "e40a4d316a538a694ff9f566411645970c74766b",
+          "4acddb4d5bd69fe8169298aa8372ea3b2bdae2fc",
+          "fa280b4425a415e809b46c8325fcce198a826355",
+          "f4afb85ae3dd2c1e0e797515bcb5e48431d95918",
+          "b163518f30efddc5efafe00ad6ece1a305b604e6",
+          "0a513f3e415712f58219dc5e48b615b98fc298e0",
+          "6a45fc5c7258201661109f41e13e5cb7d012eb39",
+          "246f60906af63544d7555a6422f8b875449410ab",
+          "b3155cf747a8fce4367e4c84147b52c8baac49b0",
+          "caecdd909f1628ce3adecfe59f709e26c4a6ee39",
+          "ae7e82b23ba67fed1aa50d7bb41c3ebe3ed18954",
+          "3856c83058835ae11555797a2f4347b99f753da0",
+          "ae1867efca271b627fc9c6458e108ccd179219ab",
+          "9255faa82e6b8aa2f738853e575cb5346cf9e9c4",
+          "2183cae0ad63ee2c09947e0c9fa7bcaa49027fbb",
+          "64ea139d2c56bfcacbcace4cf147af099afc8c51",
+          "b7eed210b501f34452a01d95eb96a1b27b733d7c",
+          "99d2333cabfb87e62cacd1e5e8a8339d064b550c",
+          "4a9eb0e02db7d7282635e9b983a1585e8837b611",
+          "19152a234c8680b73f1a7ca0e9af51656ba4df5d",
+          "7aaf2a311ce8669597d68b4bc325485fe8035a47",
+          "aba14cda1e2f4537f0e677e2715ed6fd7ca27e8e",
+          "4cf5d9bbf5eaf1e5ac2ec85f5688c294f67a8971",
+          "ef042eb768ff99655e14db84fb26cf1588f4b812",
+          "21f2cc6575a96f229028eaa0956318e794366277",
+          "cd26618432d391b6883d611dc1cb9ceca2f5c261"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-doris",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T06:04:20Z",
+    "EndDate": "2019-09-26T07:04:20",
+    "Branches": 12,
+    "Forks": 361,
+    "Files": [
+      {
+        "Sha": "95cddb515860166e837dbbe0aa9120a211ab12a2",
+        "FileName": "Catalog.java",
+        "Path": "fe/src/main/java/org/apache/doris/catalog/Catalog.java",
+        "DateUpdated": "2019-09-26T06:57:46Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "b970290ae494557f631ae238d13e27ab48654a41"
+        ]
+      },
+      {
+        "Sha": "6c03565555130d9521f59b7b27ea31e1d513f31a",
+        "FileName": "Database.java",
+        "Path": "fe/src/main/java/org/apache/doris/catalog/Database.java",
+        "DateUpdated": "2019-09-26T06:57:46Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b970290ae494557f631ae238d13e27ab48654a41"
+        ]
+      },
+      {
+        "Sha": "10c51f7b91b7cb1b177744f260b75c5cff15f692",
+        "FileName": "Table.java",
+        "Path": "fe/src/main/java/org/apache/doris/catalog/Table.java",
+        "DateUpdated": "2019-09-26T06:57:46Z",
+        "Additions": 0,
+        "Deletions": 10,
+        "Commits": [
+          "b970290ae494557f631ae238d13e27ab48654a41"
+        ]
+      },
+      {
+        "Sha": "458339f90d002347d24d0e64ca691682616fc333",
+        "FileName": "View.java",
+        "Path": "fe/src/main/java/org/apache/doris/catalog/View.java",
+        "DateUpdated": "2019-09-26T06:57:46Z",
+        "Additions": 37,
+        "Deletions": 12,
+        "Commits": [
+          "b970290ae494557f631ae238d13e27ab48654a41"
+        ]
+      },
+      {
+        "Sha": "3e3b12c4343388b92f8545f839abc396447fb52e",
+        "FileName": "Config.java",
+        "Path": "fe/src/main/java/org/apache/doris/common/Config.java",
+        "DateUpdated": "2019-09-26T06:57:46Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "b970290ae494557f631ae238d13e27ab48654a41"
+        ]
+      },
+      {
+        "Sha": "a43467cbde7be2ed21c4486f115df88a8cbc3614",
+        "FileName": "RoutineLoadManager.java",
+        "Path": "fe/src/main/java/org/apache/doris/load/routineload/RoutineLoadManager.java",
+        "DateUpdated": "2019-09-26T06:57:46Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b970290ae494557f631ae238d13e27ab48654a41"
+        ]
+      },
+      {
+        "Sha": "5ae81991f2dd53c6397a759cbd6007fb5b0968c7",
+        "FileName": "Checkpoint.java",
+        "Path": "fe/src/main/java/org/apache/doris/master/Checkpoint.java",
+        "DateUpdated": "2019-09-26T06:57:46Z",
+        "Additions": 43,
+        "Deletions": 72,
+        "Commits": [
+          "b970290ae494557f631ae238d13e27ab48654a41"
+        ]
+      },
+      {
+        "Sha": "a8c0a189bbff7bd6734e2136d986f8bca7c46d61",
+        "FileName": "compilation.md",
+        "Path": "docs/documentation/cn/installing/compilation.md",
+        "DateUpdated": "2019-09-26T06:43:55Z",
+        "Additions": 5,
+        "Deletions": 1,
+        "Commits": [
+          "2ea7de8b5e8243c08de43b5a50e978d474f3c4f0"
+        ]
+      },
+      {
+        "Sha": "657a808e77ee2c6d8d7e73861a108998f3e97da5",
+        "FileName": "install-deploy.md",
+        "Path": "docs/documentation/cn/installing/install-deploy.md",
+        "DateUpdated": "2019-09-26T06:43:55Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2ea7de8b5e8243c08de43b5a50e978d474f3c4f0"
+        ]
+      },
+      {
+        "Sha": "3935855e88c3bba6ed4511457e69e999a29b463a",
+        "FileName": "compilation_EN.md",
+        "Path": "docs/documentation/en/installing/compilation_EN.md",
+        "DateUpdated": "2019-09-26T06:43:55Z",
+        "Additions": 6,
+        "Deletions": 2,
+        "Commits": [
+          "2ea7de8b5e8243c08de43b5a50e978d474f3c4f0"
+        ]
+      },
+      {
+        "Sha": "7ed69c9b38ac779d01be5999595b0fb16b1f9149",
+        "FileName": "install-deploy_EN.md",
+        "Path": "docs/documentation/en/installing/install-deploy_EN.md",
+        "DateUpdated": "2019-09-26T06:43:55Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2ea7de8b5e8243c08de43b5a50e978d474f3c4f0"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "b970290ae494557f631ae238d13e27ab48654a41",
+        "Author": {
+          "name": "\"Mingyu Chen\""
+        },
+        "Commitor": {
+          "name": "\"ZHAO Chun\"",
+          "location": "Beijing, China"
+        },
+        "Date": "2019-09-26T06:57:46Z",
+        "additions": 99,
+        "deletions": 99,
+        "files": [
+          "95cddb515860166e837dbbe0aa9120a211ab12a2",
+          "6c03565555130d9521f59b7b27ea31e1d513f31a",
+          "10c51f7b91b7cb1b177744f260b75c5cff15f692",
+          "458339f90d002347d24d0e64ca691682616fc333",
+          "3e3b12c4343388b92f8545f839abc396447fb52e",
+          "a43467cbde7be2ed21c4486f115df88a8cbc3614",
+          "5ae81991f2dd53c6397a759cbd6007fb5b0968c7"
+        ]
+      },
+      {
+        "sha": "2ea7de8b5e8243c08de43b5a50e978d474f3c4f0",
+        "Author": {
+          "name": "null",
+          "company": "Baidu"
+        },
+        "Commitor": {
+          "name": "\"ZHAO Chun\"",
+          "location": "Beijing, China"
+        },
+        "Date": "2019-09-26T06:43:55Z",
+        "additions": 13,
+        "deletions": 5,
+        "files": [
+          "a8c0a189bbff7bd6734e2136d986f8bca7c46d61",
+          "657a808e77ee2c6d8d7e73861a108998f3e97da5",
+          "3935855e88c3bba6ed4511457e69e999a29b463a",
+          "7ed69c9b38ac779d01be5999595b0fb16b1f9149"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-doris",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T12:04:54Z",
+    "EndDate": "2019-09-26T13:04:54",
+    "Branches": 12,
+    "Forks": 361,
+    "Files": [
+      {
+        "Sha": "a38b4ee399a6af925d54bd04ae590575247b44e0",
+        "FileName": "memtable_flush_executor.h",
+        "Path": "be/src/olap/memtable_flush_executor.h",
+        "DateUpdated": "2019-09-26T12:57:13Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "ee59b18daab1b468ae1c93f93e86e16380a61b48"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "ee59b18daab1b468ae1c93f93e86e16380a61b48",
+        "Author": {
+          "name": "null",
+          "company": "Baidu"
+        },
+        "Commitor": {
+          "name": "\"ZHAO Chun\"",
+          "location": "Beijing, China"
+        },
+        "Date": "2019-09-26T12:57:13Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "a38b4ee399a6af925d54bd04ae590575247b44e0"
+        ]
+      }
+    ]
+  }
+]

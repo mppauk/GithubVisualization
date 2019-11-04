@@ -1,0 +1,206 @@
+[
+  {
+    "RepositoryName": "incubator-shardingsphere-example",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T08:48:41Z",
+    "EndDate": "2019-09-24T09:48:41",
+    "Branches": 4,
+    "Forks": 454,
+    "Files": [
+      {
+        "Sha": "e332d3a301cc8b0b6d169db2b771f2494ffb59b1",
+        "FileName": "pom.xml",
+        "Path": "sharding-proxy-example/pom.xml",
+        "DateUpdated": "2019-09-24T08:55:58Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "4d495850c9a069093c8b4fc17f2fa8dd7ae84fab"
+        ]
+      },
+      {
+        "Sha": "d8239a1adeab8573abd4b59a37404b428c9048d3",
+        "FileName": "pom.xml",
+        "Path": "sharding-proxy-example/sharding-proxy-hint-example/pom.xml",
+        "DateUpdated": "2019-09-24T08:55:58Z",
+        "Additions": 26,
+        "Deletions": 0,
+        "Commits": [
+          "4d495850c9a069093c8b4fc17f2fa8dd7ae84fab"
+        ]
+      },
+      {
+        "Sha": "b08e8eeedd2551ed30cccbf0f5ebc1b4c5959dc0",
+        "FileName": "ExampleMain.java",
+        "Path": "sharding-proxy-example/sharding-proxy-hint-example/src/main/java/org/apache/shardingsphere/example/proxy/hint/ExampleMain.java",
+        "DateUpdated": "2019-09-24T08:55:58Z",
+        "Additions": 93,
+        "Deletions": 0,
+        "Commits": [
+          "4d495850c9a069093c8b4fc17f2fa8dd7ae84fab"
+        ]
+      },
+      {
+        "Sha": "9c6a40e263ad37637c1002aa7dd30dfc567e0a75",
+        "FileName": "HintType.java",
+        "Path": "sharding-proxy-example/sharding-proxy-hint-example/src/main/java/org/apache/shardingsphere/example/proxy/hint/HintType.java",
+        "DateUpdated": "2019-09-24T08:55:58Z",
+        "Additions": 23,
+        "Deletions": 0,
+        "Commits": [
+          "4d495850c9a069093c8b4fc17f2fa8dd7ae84fab"
+        ]
+      },
+      {
+        "Sha": "b74cb3f981877d1b6861f7d219be47124d606c35",
+        "FileName": "ModuloHintShardingAlgorithm.java",
+        "Path": "sharding-proxy-example/sharding-proxy-hint-example/src/main/java/org/apache/shardingsphere/example/proxy/hint/ModuloHintShardingAlgorithm.java",
+        "DateUpdated": "2019-09-24T08:55:58Z",
+        "Additions": 40,
+        "Deletions": 0,
+        "Commits": [
+          "4d495850c9a069093c8b4fc17f2fa8dd7ae84fab"
+        ]
+      },
+      {
+        "Sha": "0d25b8dcea677f7309c04e33cb071e6837a967dc",
+        "FileName": "DatasourceConfig.java",
+        "Path": "sharding-proxy-example/sharding-proxy-hint-example/src/main/java/org/apache/shardingsphere/example/proxy/hint/config/DatasourceConfig.java",
+        "DateUpdated": "2019-09-24T08:55:58Z",
+        "Additions": 42,
+        "Deletions": 0,
+        "Commits": [
+          "4d495850c9a069093c8b4fc17f2fa8dd7ae84fab"
+        ]
+      },
+      {
+        "Sha": "5247574314100ad334ecf4ea46b858b8279a37dc",
+        "FileName": "YamlDataSourceFactory.java",
+        "Path": "sharding-proxy-example/sharding-proxy-hint-example/src/main/java/org/apache/shardingsphere/example/proxy/hint/factory/YamlDataSourceFactory.java",
+        "DateUpdated": "2019-09-24T08:55:58Z",
+        "Additions": 23,
+        "Deletions": 0,
+        "Commits": [
+          "4d495850c9a069093c8b4fc17f2fa8dd7ae84fab"
+        ]
+      },
+      {
+        "Sha": "73d9571bfc37e6a69d8e81ba7ef936bfc026dd5b",
+        "FileName": "hint-databases-only.yaml",
+        "Path": "sharding-proxy-example/sharding-proxy-hint-example/src/main/resources/META-INF/hint-databases-only.yaml",
+        "DateUpdated": "2019-09-24T08:55:58Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "4d495850c9a069093c8b4fc17f2fa8dd7ae84fab"
+        ]
+      },
+      {
+        "Sha": "64f1534d837648711b0ed71ec03bba5298cae433",
+        "FileName": "hint-databases-tables.yaml",
+        "Path": "sharding-proxy-example/sharding-proxy-hint-example/src/main/resources/META-INF/hint-databases-tables.yaml",
+        "DateUpdated": "2019-09-24T08:55:58Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "4d495850c9a069093c8b4fc17f2fa8dd7ae84fab"
+        ]
+      },
+      {
+        "Sha": "201c586afefaca7ff01595216915e740e25fd8b7",
+        "FileName": "hint-master-only.yaml",
+        "Path": "sharding-proxy-example/sharding-proxy-hint-example/src/main/resources/META-INF/hint-master-only.yaml",
+        "DateUpdated": "2019-09-24T08:55:58Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "4d495850c9a069093c8b4fc17f2fa8dd7ae84fab"
+        ]
+      },
+      {
+        "Sha": "f571e1fdd3b64fd98f0799c35925b7110aeeb683",
+        "FileName": "config-databases-only.yaml",
+        "Path": "sharding-proxy-example/sharding-proxy-hint-example/src/main/resources/conf/config-databases-only.yaml",
+        "DateUpdated": "2019-09-24T08:55:58Z",
+        "Additions": 28,
+        "Deletions": 0,
+        "Commits": [
+          "4d495850c9a069093c8b4fc17f2fa8dd7ae84fab"
+        ]
+      },
+      {
+        "Sha": "ce89d02418a52f74a461d09ed7c2e3adf9bc76b1",
+        "FileName": "config-databases-tables.yaml",
+        "Path": "sharding-proxy-example/sharding-proxy-hint-example/src/main/resources/conf/config-databases-tables.yaml",
+        "DateUpdated": "2019-09-24T08:55:58Z",
+        "Additions": 40,
+        "Deletions": 0,
+        "Commits": [
+          "4d495850c9a069093c8b4fc17f2fa8dd7ae84fab"
+        ]
+      },
+      {
+        "Sha": "91b083e954a8f0f1ebb1d6c84ac2d70bf6fc04c3",
+        "FileName": "config-master-only.yaml",
+        "Path": "sharding-proxy-example/sharding-proxy-hint-example/src/main/resources/conf/config-master-only.yaml",
+        "DateUpdated": "2019-09-24T08:55:58Z",
+        "Additions": 22,
+        "Deletions": 0,
+        "Commits": [
+          "4d495850c9a069093c8b4fc17f2fa8dd7ae84fab"
+        ]
+      },
+      {
+        "Sha": "764067bf764bea06677dc5474e59ba3abf60f2da",
+        "FileName": "server.yaml",
+        "Path": "sharding-proxy-example/sharding-proxy-hint-example/src/main/resources/conf/server.yaml",
+        "DateUpdated": "2019-09-24T08:55:58Z",
+        "Additions": 18,
+        "Deletions": 0,
+        "Commits": [
+          "4d495850c9a069093c8b4fc17f2fa8dd7ae84fab"
+        ]
+      },
+      {
+        "Sha": "9e490291393f6f52a84515e382dee0fce581d346",
+        "FileName": "logback.xml",
+        "Path": "sharding-proxy-example/sharding-proxy-hint-example/src/main/resources/logback.xml",
+        "DateUpdated": "2019-09-24T08:55:58Z",
+        "Additions": 34,
+        "Deletions": 0,
+        "Commits": [
+          "4d495850c9a069093c8b4fc17f2fa8dd7ae84fab"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "4d495850c9a069093c8b4fc17f2fa8dd7ae84fab",
+        "Commitor": {
+          "name": "\"zhaojun\"",
+          "location": "Beijing"
+        },
+        "Date": "2019-09-24T08:55:58Z",
+        "additions": 403,
+        "deletions": 0,
+        "files": [
+          "e332d3a301cc8b0b6d169db2b771f2494ffb59b1",
+          "d8239a1adeab8573abd4b59a37404b428c9048d3",
+          "b08e8eeedd2551ed30cccbf0f5ebc1b4c5959dc0",
+          "9c6a40e263ad37637c1002aa7dd30dfc567e0a75",
+          "b74cb3f981877d1b6861f7d219be47124d606c35",
+          "0d25b8dcea677f7309c04e33cb071e6837a967dc",
+          "5247574314100ad334ecf4ea46b858b8279a37dc",
+          "73d9571bfc37e6a69d8e81ba7ef936bfc026dd5b",
+          "64f1534d837648711b0ed71ec03bba5298cae433",
+          "201c586afefaca7ff01595216915e740e25fd8b7",
+          "f571e1fdd3b64fd98f0799c35925b7110aeeb683",
+          "ce89d02418a52f74a461d09ed7c2e3adf9bc76b1",
+          "91b083e954a8f0f1ebb1d6c84ac2d70bf6fc04c3",
+          "764067bf764bea06677dc5474e59ba3abf60f2da",
+          "9e490291393f6f52a84515e382dee0fce581d346"
+        ]
+      }
+    ]
+  }
+]

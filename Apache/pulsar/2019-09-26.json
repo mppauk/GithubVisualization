@@ -1,0 +1,538 @@
+[
+  {
+    "RepositoryName": "pulsar",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T03:03:28Z",
+    "EndDate": "2019-09-26T04:03:28",
+    "Branches": 18,
+    "Forks": 993,
+    "Files": [
+      {
+        "Sha": "825a830a2a91401494868eb5f881e0ab91d8a235",
+        "FileName": "pom.xml",
+        "Path": "distribution/offloaders/pom.xml",
+        "DateUpdated": "2019-09-26T04:01:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "806eab54c5089c9e4dcc0365a800694111e060d2"
+        ]
+      },
+      {
+        "Sha": "18be88b266a86ad554631f2f7ec85d9ba0874ddd",
+        "FileName": "pom.xml",
+        "Path": "managed-ledger-shaded/pom.xml",
+        "DateUpdated": "2019-09-26T04:01:59Z",
+        "Additions": 0,
+        "Deletions": 295,
+        "Commits": [
+          "806eab54c5089c9e4dcc0365a800694111e060d2"
+        ]
+      },
+      {
+        "Sha": "be973929283d70b9a6761fb0b75a2e6151395ef5",
+        "FileName": "pom.xml",
+        "Path": "managed-ledger/pom.xml",
+        "DateUpdated": "2019-09-26T04:01:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "806eab54c5089c9e4dcc0365a800694111e060d2"
+        ]
+      },
+      {
+        "Sha": "e577ca714ffcf670d73893ee925589522dd2f7d3",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-26T04:01:59Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "806eab54c5089c9e4dcc0365a800694111e060d2"
+        ]
+      },
+      {
+        "Sha": "47781b21144b5dd95e1a0cac8276631a7dffad9b",
+        "FileName": "pom.xml",
+        "Path": "pulsar-broker-auth-athenz/pom.xml",
+        "DateUpdated": "2019-09-26T04:01:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "806eab54c5089c9e4dcc0365a800694111e060d2"
+        ]
+      },
+      {
+        "Sha": "68ad738a5d8b3731b2dd23d92fa38373ad16208d",
+        "FileName": "pom.xml",
+        "Path": "pulsar-broker-auth-sasl/pom.xml",
+        "DateUpdated": "2019-09-26T04:01:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "806eab54c5089c9e4dcc0365a800694111e060d2"
+        ]
+      },
+      {
+        "Sha": "ccfb0277361dc1cfcb91efe3b1bf08dbc9fc1f3a",
+        "FileName": "pom.xml",
+        "Path": "pulsar-broker/pom.xml",
+        "DateUpdated": "2019-09-26T04:01:59Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "806eab54c5089c9e4dcc0365a800694111e060d2"
+        ]
+      },
+      {
+        "Sha": "5cb558244460e2e217b93add3568e67ed67dd89b",
+        "FileName": "pom.xml",
+        "Path": "pulsar-client-kafka-compat/pulsar-client-kafka-tests/pom.xml",
+        "DateUpdated": "2019-09-26T04:01:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "806eab54c5089c9e4dcc0365a800694111e060d2"
+        ]
+      },
+      {
+        "Sha": "151ad4a12ea4ce8e3425a5ea423fa85da4ca2c2a",
+        "FileName": "pom.xml",
+        "Path": "pulsar-client-kafka-compat/pulsar-client-kafka-tests_0_8/pom.xml",
+        "DateUpdated": "2019-09-26T04:01:59Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "806eab54c5089c9e4dcc0365a800694111e060d2"
+        ]
+      },
+      {
+        "Sha": "1d82041b79fd64c8f92d59b67b16783a4bb66e66",
+        "FileName": "pom.xml",
+        "Path": "pulsar-client-kafka-compat/pulsar-client-kafka-tests_0_9/pom.xml",
+        "DateUpdated": "2019-09-26T04:01:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "806eab54c5089c9e4dcc0365a800694111e060d2"
+        ]
+      },
+      {
+        "Sha": "2a297ef87b1af43f44afa58c9c3b3ebcc0a0d8f0",
+        "FileName": "pom.xml",
+        "Path": "pulsar-client-kafka-compat/pulsar-client-kafka_0_8/pom.xml",
+        "DateUpdated": "2019-09-26T04:01:59Z",
+        "Additions": 12,
+        "Deletions": 12,
+        "Commits": [
+          "806eab54c5089c9e4dcc0365a800694111e060d2"
+        ]
+      },
+      {
+        "Sha": "b8b22eb0c3f048dcef92a4ca98ecb0b9ce9d72f2",
+        "FileName": "pom.xml",
+        "Path": "pulsar-client-tools-test/pom.xml",
+        "DateUpdated": "2019-09-26T04:01:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "806eab54c5089c9e4dcc0365a800694111e060d2"
+        ]
+      },
+      {
+        "Sha": "ff3e3d498967c8bcecdfdd215b53b84d6b2a7f95",
+        "FileName": "pom.xml",
+        "Path": "pulsar-discovery-service/pom.xml",
+        "DateUpdated": "2019-09-26T04:01:59Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "806eab54c5089c9e4dcc0365a800694111e060d2"
+        ]
+      },
+      {
+        "Sha": "798e5777e71a0f4cdbb90ffb6d28cedaa9f5aa63",
+        "FileName": "pom.xml",
+        "Path": "pulsar-io/debezium/core/pom.xml",
+        "DateUpdated": "2019-09-26T04:01:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "806eab54c5089c9e4dcc0365a800694111e060d2"
+        ]
+      },
+      {
+        "Sha": "4796ead5352ed5442c321d84e99bcef8d2efdce2",
+        "FileName": "pom.xml",
+        "Path": "pulsar-io/kafka-connect-adaptor/pom.xml",
+        "DateUpdated": "2019-09-26T04:01:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "806eab54c5089c9e4dcc0365a800694111e060d2"
+        ]
+      },
+      {
+        "Sha": "5dc6e1bc642529e089844f174646d1709f8e9aef",
+        "FileName": "pom.xml",
+        "Path": "pulsar-proxy/pom.xml",
+        "DateUpdated": "2019-09-26T04:01:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "806eab54c5089c9e4dcc0365a800694111e060d2"
+        ]
+      },
+      {
+        "Sha": "2f3d4fd960e22d02ee80fca903c38b4de359d15d",
+        "FileName": "pom.xml",
+        "Path": "pulsar-sql/presto-pulsar/pom.xml",
+        "DateUpdated": "2019-09-26T04:01:59Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "806eab54c5089c9e4dcc0365a800694111e060d2"
+        ]
+      },
+      {
+        "Sha": "11558c22563b219b3d01879e3b2e4d316b5db8e9",
+        "FileName": "pom.xml",
+        "Path": "pulsar-testclient/pom.xml",
+        "DateUpdated": "2019-09-26T04:01:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "806eab54c5089c9e4dcc0365a800694111e060d2"
+        ]
+      },
+      {
+        "Sha": "e880d89a3fed9c0832f101a286c2ee264f2cf616",
+        "FileName": "pom.xml",
+        "Path": "pulsar-websocket/pom.xml",
+        "DateUpdated": "2019-09-26T04:01:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "806eab54c5089c9e4dcc0365a800694111e060d2"
+        ]
+      },
+      {
+        "Sha": "207a27a70a3d674ef21aea76c95731ce87c69b38",
+        "FileName": "pom.xml",
+        "Path": "pulsar-zookeeper-utils/pom.xml",
+        "DateUpdated": "2019-09-26T04:01:59Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "806eab54c5089c9e4dcc0365a800694111e060d2"
+        ]
+      },
+      {
+        "Sha": "32e8144a3ef39fbe9dbce5fe240dfe58b4b72605",
+        "FileName": "pom.xml",
+        "Path": "tests/integration/pom.xml",
+        "DateUpdated": "2019-09-26T04:01:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "806eab54c5089c9e4dcc0365a800694111e060d2"
+        ]
+      },
+      {
+        "Sha": "584280d0461df76529e8c6ccb75fa7a2ff69182b",
+        "FileName": "pom.xml",
+        "Path": "tests/pulsar-storm-test/pom.xml",
+        "DateUpdated": "2019-09-26T04:01:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "806eab54c5089c9e4dcc0365a800694111e060d2"
+        ]
+      },
+      {
+        "Sha": "0a2051f914681b79106449b53589efd2125e78d8",
+        "FileName": "pom.xml",
+        "Path": "tiered-storage/file-system/pom.xml",
+        "DateUpdated": "2019-09-26T04:01:59Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "806eab54c5089c9e4dcc0365a800694111e060d2"
+        ]
+      },
+      {
+        "Sha": "4948d0c81b83910f0516260400b04ea1c09b8a9c",
+        "FileName": "pom.xml",
+        "Path": "tiered-storage/jcloud/pom.xml",
+        "DateUpdated": "2019-09-26T04:01:59Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "806eab54c5089c9e4dcc0365a800694111e060d2"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "806eab54c5089c9e4dcc0365a800694111e060d2",
+        "Author": {
+          "name": "\"Matteo Merli\"",
+          "location": "Menlo Park, CA",
+          "company": "@streamlio "
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T04:01:59Z",
+        "additions": 43,
+        "deletions": 339,
+        "files": [
+          "825a830a2a91401494868eb5f881e0ab91d8a235",
+          "18be88b266a86ad554631f2f7ec85d9ba0874ddd",
+          "be973929283d70b9a6761fb0b75a2e6151395ef5",
+          "e577ca714ffcf670d73893ee925589522dd2f7d3",
+          "47781b21144b5dd95e1a0cac8276631a7dffad9b",
+          "68ad738a5d8b3731b2dd23d92fa38373ad16208d",
+          "ccfb0277361dc1cfcb91efe3b1bf08dbc9fc1f3a",
+          "5cb558244460e2e217b93add3568e67ed67dd89b",
+          "151ad4a12ea4ce8e3425a5ea423fa85da4ca2c2a",
+          "1d82041b79fd64c8f92d59b67b16783a4bb66e66",
+          "2a297ef87b1af43f44afa58c9c3b3ebcc0a0d8f0",
+          "b8b22eb0c3f048dcef92a4ca98ecb0b9ce9d72f2",
+          "ff3e3d498967c8bcecdfdd215b53b84d6b2a7f95",
+          "798e5777e71a0f4cdbb90ffb6d28cedaa9f5aa63",
+          "4796ead5352ed5442c321d84e99bcef8d2efdce2",
+          "5dc6e1bc642529e089844f174646d1709f8e9aef",
+          "2f3d4fd960e22d02ee80fca903c38b4de359d15d",
+          "11558c22563b219b3d01879e3b2e4d316b5db8e9",
+          "e880d89a3fed9c0832f101a286c2ee264f2cf616",
+          "207a27a70a3d674ef21aea76c95731ce87c69b38",
+          "32e8144a3ef39fbe9dbce5fe240dfe58b4b72605",
+          "584280d0461df76529e8c6ccb75fa7a2ff69182b",
+          "0a2051f914681b79106449b53589efd2125e78d8",
+          "4948d0c81b83910f0516260400b04ea1c09b8a9c"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "pulsar",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T06:03:48Z",
+    "EndDate": "2019-09-26T07:03:48",
+    "Branches": 18,
+    "Forks": 993,
+    "Files": [
+      {
+        "Sha": "fc8fda86e6d85814465c75e29476da3d16ee900f",
+        "FileName": "administration-upgrade.md",
+        "Path": "site2/docs/administration-upgrade.md",
+        "DateUpdated": "2019-09-26T06:14:54Z",
+        "Additions": 20,
+        "Deletions": 22,
+        "Commits": [
+          "61c0139405afeb0a990efa6e9320a5f96a51f33b"
+        ]
+      },
+      {
+        "Sha": "048595060c656745002daf3c53dfb1a308151d78",
+        "FileName": "administration-proxy.md",
+        "Path": "site2/docs/administration-proxy.md",
+        "DateUpdated": "2019-09-26T06:14:02Z",
+        "Additions": 21,
+        "Deletions": 21,
+        "Commits": [
+          "9f52a384bf3a743e602b7f61d73219da795510e2"
+        ]
+      },
+      {
+        "Sha": "70c2f308b50533b2dfd94b335abd2a0a60c50cc3",
+        "FileName": "administration-stats.md",
+        "Path": "site2/docs/administration-stats.md",
+        "DateUpdated": "2019-09-26T06:13:30Z",
+        "Additions": 47,
+        "Deletions": 47,
+        "Commits": [
+          "3301593f24a9fe4741fb54465decb2cb29c8a506"
+        ]
+      },
+      {
+        "Sha": "b73fe687bd0a1e2e29cf73d70a20687760c0f3c7",
+        "FileName": "administration-dashboard.md",
+        "Path": "site2/docs/administration-dashboard.md",
+        "DateUpdated": "2019-09-26T06:13:09Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "634d64f9e629b4740800a641b1c0b9cdd7f63187"
+        ]
+      },
+      {
+        "Sha": "3fce7daeafadecb1a9cce3d7b08ab6df0b6df7ea",
+        "FileName": "administration-geo.md",
+        "Path": "site2/docs/administration-geo.md",
+        "DateUpdated": "2019-09-26T06:12:49Z",
+        "Additions": 29,
+        "Deletions": 29,
+        "Commits": [
+          "9252118a6043e576d57529d1aed4908760e86d6f"
+        ]
+      },
+      {
+        "Sha": "87665f117362694590f58f8c5fd43526f6da7f4c",
+        "FileName": "administration-zk-bk.md",
+        "Path": "site2/docs/administration-zk-bk.md",
+        "DateUpdated": "2019-09-26T06:11:23Z",
+        "Additions": 56,
+        "Deletions": 64,
+        "Commits": [
+          "9d5236777ee44e666aefcbcdc118cfc51f93a826"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "61c0139405afeb0a990efa6e9320a5f96a51f33b",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Jennifer Huang\"",
+          "location": "Beijing, China",
+          "company": "StreamNative"
+        },
+        "Date": "2019-09-26T06:14:54Z",
+        "additions": 20,
+        "deletions": 22,
+        "files": [
+          "fc8fda86e6d85814465c75e29476da3d16ee900f"
+        ]
+      },
+      {
+        "sha": "9f52a384bf3a743e602b7f61d73219da795510e2",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Jennifer Huang\"",
+          "location": "Beijing, China",
+          "company": "StreamNative"
+        },
+        "Date": "2019-09-26T06:14:02Z",
+        "additions": 21,
+        "deletions": 21,
+        "files": [
+          "048595060c656745002daf3c53dfb1a308151d78"
+        ]
+      },
+      {
+        "sha": "3301593f24a9fe4741fb54465decb2cb29c8a506",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Jennifer Huang\"",
+          "location": "Beijing, China",
+          "company": "StreamNative"
+        },
+        "Date": "2019-09-26T06:13:30Z",
+        "additions": 47,
+        "deletions": 47,
+        "files": [
+          "70c2f308b50533b2dfd94b335abd2a0a60c50cc3"
+        ]
+      },
+      {
+        "sha": "634d64f9e629b4740800a641b1c0b9cdd7f63187",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Jennifer Huang\"",
+          "location": "Beijing, China",
+          "company": "StreamNative"
+        },
+        "Date": "2019-09-26T06:13:09Z",
+        "additions": 6,
+        "deletions": 6,
+        "files": [
+          "b73fe687bd0a1e2e29cf73d70a20687760c0f3c7"
+        ]
+      },
+      {
+        "sha": "9252118a6043e576d57529d1aed4908760e86d6f",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Jennifer Huang\"",
+          "location": "Beijing, China",
+          "company": "StreamNative"
+        },
+        "Date": "2019-09-26T06:12:49Z",
+        "additions": 29,
+        "deletions": 29,
+        "files": [
+          "3fce7daeafadecb1a9cce3d7b08ab6df0b6df7ea"
+        ]
+      },
+      {
+        "sha": "9d5236777ee44e666aefcbcdc118cfc51f93a826",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Jennifer Huang\"",
+          "location": "Beijing, China",
+          "company": "StreamNative"
+        },
+        "Date": "2019-09-26T06:11:23Z",
+        "additions": 56,
+        "deletions": 64,
+        "files": [
+          "87665f117362694590f58f8c5fd43526f6da7f4c"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "pulsar",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T12:04:27Z",
+    "EndDate": "2019-09-26T13:04:27",
+    "Branches": 18,
+    "Forks": 993,
+    "Files": [
+      {
+        "Sha": "0d8b06a77428304b422ee52152d59ee6b2cfdb98",
+        "FileName": "administration-load-balance.md",
+        "Path": "site2/docs/administration-load-balance.md",
+        "DateUpdated": "2019-09-26T12:06:13Z",
+        "Additions": 43,
+        "Deletions": 76,
+        "Commits": [
+          "461d26d5b5fde8d84245d8aa2be64c65137284c3"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "461d26d5b5fde8d84245d8aa2be64c65137284c3",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Jennifer Huang\"",
+          "location": "Beijing, China",
+          "company": "StreamNative"
+        },
+        "Date": "2019-09-26T12:06:13Z",
+        "additions": 43,
+        "deletions": 76,
+        "files": [
+          "0d8b06a77428304b422ee52152d59ee6b2cfdb98"
+        ]
+      }
+    ]
+  }
+]

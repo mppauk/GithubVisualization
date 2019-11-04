@@ -1,0 +1,345 @@
+[
+  {
+    "RepositoryName": "hive",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T01:02:17Z",
+    "EndDate": "2019-09-26T02:02:17",
+    "Branches": 62,
+    "Forks": 2699,
+    "Files": [
+      {
+        "Sha": "79fc809073056c5c4577224ffca108f41eb99d4b",
+        "FileName": "pom.xml",
+        "Path": "accumulo-handler/pom.xml",
+        "DateUpdated": "2019-09-26T01:34:19Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "c660cba003f9b7fff29db2202b375982a8c03450"
+        ]
+      },
+      {
+        "Sha": "ad59ebbe4aab4fef61a4f5949b9598602559d987",
+        "FileName": "pom.xml",
+        "Path": "itests/hcatalog-unit/pom.xml",
+        "DateUpdated": "2019-09-26T01:34:19Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "c660cba003f9b7fff29db2202b375982a8c03450"
+        ]
+      },
+      {
+        "Sha": "fc3d500621e3b67c810acf30bc1ba5aee5ba503f",
+        "FileName": "ManyMiniCluster.java",
+        "Path": "itests/hcatalog-unit/src/test/java/org/apache/hive/hcatalog/hbase/ManyMiniCluster.java",
+        "DateUpdated": "2019-09-26T01:34:19Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c660cba003f9b7fff29db2202b375982a8c03450"
+        ]
+      },
+      {
+        "Sha": "603155bf8f03fc138771364066fc1eff383aee82",
+        "FileName": "TestZooKeeperTokenStore.java",
+        "Path": "itests/hive-unit/src/test/java/org/apache/hadoop/hive/metastore/security/TestZooKeeperTokenStore.java",
+        "DateUpdated": "2019-09-26T01:34:19Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c660cba003f9b7fff29db2202b375982a8c03450"
+        ]
+      },
+      {
+        "Sha": "de2e4937a85a66fac072e33c61f1186c849127b4",
+        "FileName": "TestInformationSchemaWithPrivilege.java",
+        "Path": "itests/hive-unit/src/test/java/org/apache/hive/service/server/TestInformationSchemaWithPrivilege.java",
+        "DateUpdated": "2019-09-26T01:34:19Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c660cba003f9b7fff29db2202b375982a8c03450"
+        ]
+      },
+      {
+        "Sha": "49ae58bf42cca7c989605be8113de544b7ce9739",
+        "FileName": "pom.xml",
+        "Path": "itests/qtest-accumulo/pom.xml",
+        "DateUpdated": "2019-09-26T01:34:19Z",
+        "Additions": 67,
+        "Deletions": 20,
+        "Commits": [
+          "c660cba003f9b7fff29db2202b375982a8c03450"
+        ]
+      },
+      {
+        "Sha": "07660d4e00ffa6b53fa14a64f7b7f3f290cd3ff9",
+        "FileName": "pom.xml",
+        "Path": "itests/qtest/pom.xml",
+        "DateUpdated": "2019-09-26T01:34:19Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "c660cba003f9b7fff29db2202b375982a8c03450"
+        ]
+      },
+      {
+        "Sha": "343eb42b999c689f06bb0d444c8ba08857fd5bdd",
+        "FileName": "AccumuloTestSetup.java",
+        "Path": "itests/util/src/main/java/org/apache/hadoop/hive/accumulo/AccumuloTestSetup.java",
+        "DateUpdated": "2019-09-26T01:34:19Z",
+        "Additions": 30,
+        "Deletions": 0,
+        "Commits": [
+          "c660cba003f9b7fff29db2202b375982a8c03450"
+        ]
+      },
+      {
+        "Sha": "3f8b766973498bb0a0a6145c3a1f4b8baa56d66c",
+        "FileName": "LlapItUtils.java",
+        "Path": "itests/util/src/main/java/org/apache/hadoop/hive/llap/LlapItUtils.java",
+        "DateUpdated": "2019-09-26T01:34:19Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c660cba003f9b7fff29db2202b375982a8c03450"
+        ]
+      },
+      {
+        "Sha": "997b35e18fb4a72179a0909787fe10354abe50ce",
+        "FileName": "QTestMiniClusters.java",
+        "Path": "itests/util/src/main/java/org/apache/hadoop/hive/ql/QTestMiniClusters.java",
+        "DateUpdated": "2019-09-26T01:34:19Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c660cba003f9b7fff29db2202b375982a8c03450"
+        ]
+      },
+      {
+        "Sha": "6c82f82f7622e42c53a899dae68cfc09b2a8131c",
+        "FileName": "pom.xml",
+        "Path": "kafka-handler/pom.xml",
+        "DateUpdated": "2019-09-26T01:34:19Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "c660cba003f9b7fff29db2202b375982a8c03450"
+        ]
+      },
+      {
+        "Sha": "7e3c20884b6054a03f58722e4b4e2347f66a45d6",
+        "FileName": "TestLlapZookeeperRegistryImpl.java",
+        "Path": "llap-client/src/test/org/apache/hadoop/hive/llap/registry/impl/TestLlapZookeeperRegistryImpl.java",
+        "DateUpdated": "2019-09-26T01:34:19Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "c660cba003f9b7fff29db2202b375982a8c03450"
+        ]
+      },
+      {
+        "Sha": "231aa2d9f0ec787346b3be49d256b031dafb5f37",
+        "FileName": "pom.xml",
+        "Path": "llap-server/pom.xml",
+        "DateUpdated": "2019-09-26T01:34:19Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "c660cba003f9b7fff29db2202b375982a8c03450"
+        ]
+      },
+      {
+        "Sha": "be51bf8c917a29ed7730fe246a828a204ee1745b",
+        "FileName": "MiniLlapCluster.java",
+        "Path": "llap-server/src/test/org/apache/hadoop/hive/llap/daemon/MiniLlapCluster.java",
+        "DateUpdated": "2019-09-26T01:34:19Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c660cba003f9b7fff29db2202b375982a8c03450"
+        ]
+      },
+      {
+        "Sha": "351df449d65d6ee304f9b44bd33720f138543663",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-26T01:34:19Z",
+        "Additions": 44,
+        "Deletions": 2,
+        "Commits": [
+          "c660cba003f9b7fff29db2202b375982a8c03450"
+        ]
+      },
+      {
+        "Sha": "d0425e5572f7414d00364fc4b5d3405653a55bda",
+        "FileName": "TestUtils.java",
+        "Path": "ql/src/test/org/apache/hadoop/hive/ql/exec/tez/TestUtils.java",
+        "DateUpdated": "2019-09-26T01:34:19Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "c660cba003f9b7fff29db2202b375982a8c03450"
+        ]
+      },
+      {
+        "Sha": "eec628263a00ff09dbc27780b8f4a6ca04ff399d",
+        "FileName": "MiniZooKeeperCluster.java",
+        "Path": "ql/src/test/org/apache/hive/testutils/MiniZooKeeperCluster.java",
+        "DateUpdated": "2019-09-26T01:34:19Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "c660cba003f9b7fff29db2202b375982a8c03450"
+        ]
+      },
+      {
+        "Sha": "95e53b950206d57ac138ec7db22ac421e4423400",
+        "FileName": "pom.xml",
+        "Path": "standalone-metastore/metastore-common/pom.xml",
+        "DateUpdated": "2019-09-26T01:34:19Z",
+        "Additions": 41,
+        "Deletions": 0,
+        "Commits": [
+          "c660cba003f9b7fff29db2202b375982a8c03450"
+        ]
+      },
+      {
+        "Sha": "0ff1b3291166815ee7f42425442791a2b26888af",
+        "FileName": "pom.xml",
+        "Path": "standalone-metastore/metastore-server/pom.xml",
+        "DateUpdated": "2019-09-26T01:34:19Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "c660cba003f9b7fff29db2202b375982a8c03450"
+        ]
+      },
+      {
+        "Sha": "59b61e15a7d6629bafde06ac487950f1dde05a2c",
+        "FileName": "pom.xml",
+        "Path": "standalone-metastore/metastore-tools/metastore-benchmarks/pom.xml",
+        "DateUpdated": "2019-09-26T01:34:19Z",
+        "Additions": 28,
+        "Deletions": 0,
+        "Commits": [
+          "c660cba003f9b7fff29db2202b375982a8c03450"
+        ]
+      },
+      {
+        "Sha": "63f2369a42cf3156b32cf3ff50b2dab7cc3f7120",
+        "FileName": "pom.xml",
+        "Path": "standalone-metastore/metastore-tools/pom.xml",
+        "DateUpdated": "2019-09-26T01:34:19Z",
+        "Additions": 28,
+        "Deletions": 0,
+        "Commits": [
+          "c660cba003f9b7fff29db2202b375982a8c03450"
+        ]
+      },
+      {
+        "Sha": "3de774a0d0674c360763ed79c4dcda1fc76eba54",
+        "FileName": "pom.xml",
+        "Path": "standalone-metastore/pom.xml",
+        "DateUpdated": "2019-09-26T01:34:19Z",
+        "Additions": 24,
+        "Deletions": 1,
+        "Commits": [
+          "c660cba003f9b7fff29db2202b375982a8c03450"
+        ]
+      },
+      {
+        "Sha": "bb1ec1f81ffdb39542a3219bb82b679315236c48",
+        "FileName": "pom.xml",
+        "Path": "storage-api/pom.xml",
+        "DateUpdated": "2019-09-26T01:34:19Z",
+        "Additions": 16,
+        "Deletions": 0,
+        "Commits": [
+          "c660cba003f9b7fff29db2202b375982a8c03450"
+        ]
+      },
+      {
+        "Sha": "3abe59675d49c34ea78b82ef442aad9f8361c786",
+        "FileName": "pom.xml",
+        "Path": "upgrade-acid/pre-upgrade/pom.xml",
+        "DateUpdated": "2019-09-26T01:34:19Z",
+        "Additions": 42,
+        "Deletions": 0,
+        "Commits": [
+          "c660cba003f9b7fff29db2202b375982a8c03450"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c660cba003f9b7fff29db2202b375982a8c03450",
+        "Date": "2019-09-26T01:34:19Z",
+        "additions": 367,
+        "deletions": 35,
+        "files": [
+          "79fc809073056c5c4577224ffca108f41eb99d4b",
+          "ad59ebbe4aab4fef61a4f5949b9598602559d987",
+          "fc3d500621e3b67c810acf30bc1ba5aee5ba503f",
+          "603155bf8f03fc138771364066fc1eff383aee82",
+          "de2e4937a85a66fac072e33c61f1186c849127b4",
+          "49ae58bf42cca7c989605be8113de544b7ce9739",
+          "07660d4e00ffa6b53fa14a64f7b7f3f290cd3ff9",
+          "343eb42b999c689f06bb0d444c8ba08857fd5bdd",
+          "3f8b766973498bb0a0a6145c3a1f4b8baa56d66c",
+          "997b35e18fb4a72179a0909787fe10354abe50ce",
+          "6c82f82f7622e42c53a899dae68cfc09b2a8131c",
+          "7e3c20884b6054a03f58722e4b4e2347f66a45d6",
+          "231aa2d9f0ec787346b3be49d256b031dafb5f37",
+          "be51bf8c917a29ed7730fe246a828a204ee1745b",
+          "351df449d65d6ee304f9b44bd33720f138543663",
+          "d0425e5572f7414d00364fc4b5d3405653a55bda",
+          "eec628263a00ff09dbc27780b8f4a6ca04ff399d",
+          "95e53b950206d57ac138ec7db22ac421e4423400",
+          "0ff1b3291166815ee7f42425442791a2b26888af",
+          "59b61e15a7d6629bafde06ac487950f1dde05a2c",
+          "63f2369a42cf3156b32cf3ff50b2dab7cc3f7120",
+          "3de774a0d0674c360763ed79c4dcda1fc76eba54",
+          "bb1ec1f81ffdb39542a3219bb82b679315236c48",
+          "3abe59675d49c34ea78b82ef442aad9f8361c786"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "hive",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T12:02:34Z",
+    "EndDate": "2019-09-26T13:02:34",
+    "Branches": 62,
+    "Forks": 2699,
+    "Files": [
+      {
+        "Sha": "e2231c2afa04142659ea5506f593b9c082448ae1",
+        "FileName": "ThriftHttpServlet.java",
+        "Path": "service/src/java/org/apache/hive/service/cli/thrift/ThriftHttpServlet.java",
+        "DateUpdated": "2019-09-26T12:15:29Z",
+        "Additions": 10,
+        "Deletions": 0,
+        "Commits": [
+          "50862a6e30e2c5a8a5690790d2054c8a3d4f2a49"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "50862a6e30e2c5a8a5690790d2054c8a3d4f2a49",
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-26T12:15:29Z",
+        "additions": 10,
+        "deletions": 0,
+        "files": [
+          "e2231c2afa04142659ea5506f593b9c082448ae1"
+        ]
+      }
+    ]
+  }
+]

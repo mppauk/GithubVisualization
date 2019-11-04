@@ -1,6 +1,7 @@
+//--allow-file-access-from-files
 function loadJson(pathExtension){
     return new Promise(function(resolve, reject){
-        var path = "GithubData/"+ pathExtension;
+        var path = "https://mppauk.github.io/GithubVisualization/"+ pathExtension;
         var xhRequest = new XMLHttpRequest();
         xhRequest.overrideMimeType('application/json');
         xhRequest.onload = function (){

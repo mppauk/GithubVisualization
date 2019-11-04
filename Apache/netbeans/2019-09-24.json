@@ -1,0 +1,114 @@
+[
+  {
+    "RepositoryName": "netbeans",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T08:48:37Z",
+    "EndDate": "2019-09-24T09:48:37",
+    "Branches": 23,
+    "Forks": 452,
+    "Files": [
+      {
+        "Sha": "4da9c5f602ca0cc5da89a91190bf0a46b656c58c",
+        "FileName": ".gitignore",
+        "Path": ".gitignore",
+        "DateUpdated": "2019-09-24T09:24:38Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "645202b4774d88fa649e26e3531b342b1b7f350f"
+        ]
+      },
+      {
+        "Sha": "9aaff2f6992ba98d4e32f9f04c3cff53ed76ee95",
+        "FileName": "HgExec.java",
+        "Path": "nbbuild/antsrc/org/netbeans/nbbuild/HgExec.java",
+        "DateUpdated": "2019-09-24T09:24:38Z",
+        "Additions": 0,
+        "Deletions": 74,
+        "Commits": [
+          "645202b4774d88fa649e26e3531b342b1b7f350f"
+        ]
+      },
+      {
+        "Sha": "0c66f313f929de021ad69be781eddc5e00455e3a",
+        "FileName": "ParseGitBranch.java",
+        "Path": "nbbuild/antsrc/org/netbeans/nbbuild/ParseGitBranch.java",
+        "DateUpdated": "2019-09-24T09:24:38Z",
+        "Additions": 0,
+        "Deletions": 80,
+        "Commits": [
+          "645202b4774d88fa649e26e3531b342b1b7f350f"
+        ]
+      },
+      {
+        "Sha": "31bbf68d1370d85c4591609ca564cd08ebdc2cc3",
+        "FileName": "ReleaseJsonProperties.java",
+        "Path": "nbbuild/antsrc/org/netbeans/nbbuild/ReleaseJsonProperties.java",
+        "DateUpdated": "2019-09-24T09:24:38Z",
+        "Additions": 9,
+        "Deletions": 2,
+        "Commits": [
+          "645202b4774d88fa649e26e3531b342b1b7f350f"
+        ]
+      },
+      {
+        "Sha": "f737c3857677c52157ba8f7b59ce6d46d8a88b85",
+        "FileName": "ValidateHgConfiguration.java",
+        "Path": "nbbuild/antsrc/org/netbeans/nbbuild/ValidateHgConfiguration.java",
+        "DateUpdated": "2019-09-24T09:24:38Z",
+        "Additions": 0,
+        "Deletions": 99,
+        "Commits": [
+          "645202b4774d88fa649e26e3531b342b1b7f350f"
+        ]
+      },
+      {
+        "Sha": "a8b68cf369a2f169b5787c3971d813ac5c1af50d",
+        "FileName": "build.xml",
+        "Path": "nbbuild/build.xml",
+        "DateUpdated": "2019-09-24T09:24:38Z",
+        "Additions": 50,
+        "Deletions": 50,
+        "Commits": [
+          "645202b4774d88fa649e26e3531b342b1b7f350f"
+        ]
+      },
+      {
+        "Sha": "910cfbafb791f732ec41fa4be9f6bd0632125a72",
+        "FileName": "rat-exclusions.txt",
+        "Path": "nbbuild/rat-exclusions.txt",
+        "DateUpdated": "2019-09-24T09:24:38Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "645202b4774d88fa649e26e3531b342b1b7f350f"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "645202b4774d88fa649e26e3531b342b1b7f350f",
+        "Author": {
+          "name": "\"Eric Barboni\""
+        },
+        "Commitor": {
+          "name": "\"Neil C Smith\"",
+          "location": "Oxford, UK",
+          "company": "@praxis-live @gstreamer-java"
+        },
+        "Date": "2019-09-24T09:24:38Z",
+        "additions": 64,
+        "deletions": 305,
+        "files": [
+          "4da9c5f602ca0cc5da89a91190bf0a46b656c58c",
+          "9aaff2f6992ba98d4e32f9f04c3cff53ed76ee95",
+          "0c66f313f929de021ad69be781eddc5e00455e3a",
+          "31bbf68d1370d85c4591609ca564cd08ebdc2cc3",
+          "f737c3857677c52157ba8f7b59ce6d46d8a88b85",
+          "a8b68cf369a2f169b5787c3971d813ac5c1af50d",
+          "910cfbafb791f732ec41fa4be9f6bd0632125a72"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "RepositoryName": "geode-native",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T20:47:57Z",
+    "EndDate": "2019-09-24T21:47:57",
+    "Branches": 14,
+    "Forks": 42,
+    "Files": [
+      {
+        "Sha": "17630283c3aebd004e8a9d41f61093fd8d67c057",
+        "FileName": "CMakeLists.txt",
+        "Path": "CMakeLists.txt",
+        "DateUpdated": "2019-09-24T21:21:13Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "05710df47b886b831b4ee49b68faf971a1205a0e"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "05710df47b886b831b4ee49b68faf971a1205a0e",
+        "Author": {
+          "name": "\"Blake Bender\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T21:21:13Z",
+        "additions": 5,
+        "deletions": 0,
+        "files": [
+          "17630283c3aebd004e8a9d41f61093fd8d67c057"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "geode-native",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T21:04:31Z",
+    "EndDate": "2019-09-24T22:04:31",
+    "Branches": 14,
+    "Forks": 42,
+    "Files": [
+      {
+        "Sha": "17630283c3aebd004e8a9d41f61093fd8d67c057",
+        "FileName": "CMakeLists.txt",
+        "Path": "CMakeLists.txt",
+        "DateUpdated": "2019-09-24T21:21:13Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "05710df47b886b831b4ee49b68faf971a1205a0e"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "05710df47b886b831b4ee49b68faf971a1205a0e",
+        "Author": {
+          "name": "\"Blake Bender\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T21:21:13Z",
+        "additions": 5,
+        "deletions": 0,
+        "files": [
+          "17630283c3aebd004e8a9d41f61093fd8d67c057"
+        ]
+      }
+    ]
+  }
+]

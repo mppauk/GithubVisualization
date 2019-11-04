@@ -1,0 +1,40 @@
+[
+  {
+    "RepositoryName": "hadoop-thirdparty",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T06:04:57Z",
+    "EndDate": "2019-09-26T07:04:57",
+    "Branches": 1,
+    "Forks": 1,
+    "Files": [
+      {
+        "Sha": "b65b60a4e5a5c0ce94524c1d75c31a4530898891",
+        "FileName": "README.md",
+        "Path": "README.md",
+        "DateUpdated": "2019-09-26T06:26:38Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "c90c42a7a5976578a088e79966d4592cb630157c"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c90c42a7a5976578a088e79966d4592cb630157c",
+        "Author": {
+          "name": "\"Vinayakumar B\""
+        },
+        "Commitor": {
+          "name": "\"Vinayakumar B\""
+        },
+        "Date": "2019-09-26T06:26:38Z",
+        "additions": 4,
+        "deletions": 0,
+        "files": [
+          "b65b60a4e5a5c0ce94524c1d75c31a4530898891"
+        ]
+      }
+    ]
+  }
+]

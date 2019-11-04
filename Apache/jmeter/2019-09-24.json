@@ -1,0 +1,218 @@
+[
+  {
+    "RepositoryName": "jmeter",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T20:46:14Z",
+    "EndDate": "2019-09-24T21:46:14",
+    "Branches": 1,
+    "Forks": 1124,
+    "Files": [
+      {
+        "Sha": "c5c1880bcff1e8c66d5fa4cfdaf9685453928829",
+        "FileName": ".travis.yml",
+        "Path": ".travis.yml",
+        "DateUpdated": "2019-09-24T21:32:18Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "643876573059982525728e9e22c02d89f09c7e01"
+        ]
+      },
+      {
+        "Sha": "75d18bc2b275f43ae94769a3d6caee3f0c7b656c",
+        "FileName": "checksum.xml",
+        "Path": "buildSrc/checksum.xml",
+        "DateUpdated": "2019-09-24T21:09:15Z",
+        "Additions": 9,
+        "Deletions": 0,
+        "Commits": [
+          "fe4c14d1b16a273d747d5e6d8f62664092003022"
+        ]
+      },
+      {
+        "Sha": "bd4386f0703d705f03dd8b9c192f7a0c385ab049",
+        "FileName": "BatchTest.kt",
+        "Path": "buildSrc/subprojects/batchtest/src/main/kotlin/org/apache/jmeter/buildtools/batchtest/BatchTest.kt",
+        "DateUpdated": "2019-09-24T21:09:15Z",
+        "Additions": 10,
+        "Deletions": 12,
+        "Commits": [
+          "fe4c14d1b16a273d747d5e6d8f62664092003022"
+        ]
+      },
+      {
+        "Sha": "7e232903dd8126e9b625cf95c00812f3cac013e3",
+        "FileName": "gradle-wrapper.properties",
+        "Path": "gradle/wrapper/gradle-wrapper.properties",
+        "DateUpdated": "2019-09-24T21:09:15Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "fe4c14d1b16a273d747d5e6d8f62664092003022"
+        ]
+      },
+      {
+        "Sha": "e0fa7e44f9512a22a36d934b9782acf2ff062c8d",
+        "FileName": "build.gradle.kts",
+        "Path": "src/build.gradle.kts",
+        "DateUpdated": "2019-09-24T21:09:15Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "fe4c14d1b16a273d747d5e6d8f62664092003022"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "643876573059982525728e9e22c02d89f09c7e01",
+        "Author": {
+          "name": "\"Vladimir Sitnikov\"",
+          "location": "Moscow",
+          "company": "Netcracker"
+        },
+        "Commitor": {
+          "name": "\"Vladimir Sitnikov\"",
+          "location": "Moscow",
+          "company": "Netcracker"
+        },
+        "Date": "2019-09-24T21:32:18Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "c5c1880bcff1e8c66d5fa4cfdaf9685453928829"
+        ]
+      },
+      {
+        "sha": "fe4c14d1b16a273d747d5e6d8f62664092003022",
+        "Author": {
+          "name": "\"Vladimir Sitnikov\"",
+          "location": "Moscow",
+          "company": "Netcracker"
+        },
+        "Commitor": {
+          "name": "\"Vladimir Sitnikov\"",
+          "location": "Moscow",
+          "company": "Netcracker"
+        },
+        "Date": "2019-09-24T21:09:15Z",
+        "additions": 24,
+        "deletions": 14,
+        "files": [
+          "75d18bc2b275f43ae94769a3d6caee3f0c7b656c",
+          "bd4386f0703d705f03dd8b9c192f7a0c385ab049",
+          "7e232903dd8126e9b625cf95c00812f3cac013e3",
+          "e0fa7e44f9512a22a36d934b9782acf2ff062c8d"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "jmeter",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T21:02:45Z",
+    "EndDate": "2019-09-24T22:02:45",
+    "Branches": 1,
+    "Forks": 1124,
+    "Files": [
+      {
+        "Sha": "c5c1880bcff1e8c66d5fa4cfdaf9685453928829",
+        "FileName": ".travis.yml",
+        "Path": ".travis.yml",
+        "DateUpdated": "2019-09-24T21:32:18Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "643876573059982525728e9e22c02d89f09c7e01"
+        ]
+      },
+      {
+        "Sha": "75d18bc2b275f43ae94769a3d6caee3f0c7b656c",
+        "FileName": "checksum.xml",
+        "Path": "buildSrc/checksum.xml",
+        "DateUpdated": "2019-09-24T21:09:15Z",
+        "Additions": 9,
+        "Deletions": 0,
+        "Commits": [
+          "fe4c14d1b16a273d747d5e6d8f62664092003022"
+        ]
+      },
+      {
+        "Sha": "bd4386f0703d705f03dd8b9c192f7a0c385ab049",
+        "FileName": "BatchTest.kt",
+        "Path": "buildSrc/subprojects/batchtest/src/main/kotlin/org/apache/jmeter/buildtools/batchtest/BatchTest.kt",
+        "DateUpdated": "2019-09-24T21:09:15Z",
+        "Additions": 10,
+        "Deletions": 12,
+        "Commits": [
+          "fe4c14d1b16a273d747d5e6d8f62664092003022"
+        ]
+      },
+      {
+        "Sha": "7e232903dd8126e9b625cf95c00812f3cac013e3",
+        "FileName": "gradle-wrapper.properties",
+        "Path": "gradle/wrapper/gradle-wrapper.properties",
+        "DateUpdated": "2019-09-24T21:09:15Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "fe4c14d1b16a273d747d5e6d8f62664092003022"
+        ]
+      },
+      {
+        "Sha": "e0fa7e44f9512a22a36d934b9782acf2ff062c8d",
+        "FileName": "build.gradle.kts",
+        "Path": "src/build.gradle.kts",
+        "DateUpdated": "2019-09-24T21:09:15Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "fe4c14d1b16a273d747d5e6d8f62664092003022"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "643876573059982525728e9e22c02d89f09c7e01",
+        "Author": {
+          "name": "\"Vladimir Sitnikov\"",
+          "location": "Moscow",
+          "company": "Netcracker"
+        },
+        "Commitor": {
+          "name": "\"Vladimir Sitnikov\"",
+          "location": "Moscow",
+          "company": "Netcracker"
+        },
+        "Date": "2019-09-24T21:32:18Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "c5c1880bcff1e8c66d5fa4cfdaf9685453928829"
+        ]
+      },
+      {
+        "sha": "fe4c14d1b16a273d747d5e6d8f62664092003022",
+        "Author": {
+          "name": "\"Vladimir Sitnikov\"",
+          "location": "Moscow",
+          "company": "Netcracker"
+        },
+        "Commitor": {
+          "name": "\"Vladimir Sitnikov\"",
+          "location": "Moscow",
+          "company": "Netcracker"
+        },
+        "Date": "2019-09-24T21:09:15Z",
+        "additions": 24,
+        "deletions": 14,
+        "files": [
+          "75d18bc2b275f43ae94769a3d6caee3f0c7b656c",
+          "bd4386f0703d705f03dd8b9c192f7a0c385ab049",
+          "7e232903dd8126e9b625cf95c00812f3cac013e3",
+          "e0fa7e44f9512a22a36d934b9782acf2ff062c8d"
+        ]
+      }
+    ]
+  }
+]

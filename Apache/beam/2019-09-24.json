@@ -1,0 +1,2081 @@
+[
+  {
+    "RepositoryName": "beam",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T00:05:15Z",
+    "EndDate": "2019-09-24T01:05:15",
+    "Branches": 46,
+    "Forks": 2047,
+    "Files": [
+      {
+        "Sha": "2e763bff616132facc203ecb9eec8e873783f5ae",
+        "FileName": "direct.md",
+        "Path": "website/src/documentation/runners/direct.md",
+        "DateUpdated": "2019-09-24T00:15:41Z",
+        "Additions": 71,
+        "Deletions": 0,
+        "Commits": [
+          "113461a4275eb28a101e416897ccd607aa51f83f"
+        ]
+      },
+      {
+        "Sha": "ea08da93c8c33826cf90ede6bf2f44be00fab97b",
+        "FileName": "python-streaming.md",
+        "Path": "website/src/documentation/sdks/python-streaming.md",
+        "DateUpdated": "2019-09-24T00:15:18Z",
+        "Additions": 1,
+        "Deletions": 6,
+        "Commits": [
+          "24c7a62242923109edf66310dedea75d38b4d438"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "113461a4275eb28a101e416897ccd607aa51f83f",
+        "Author": {
+          "name": "\"Hannah Jiang\"",
+          "location": "Seattle Area US"
+        },
+        "Commitor": {
+          "name": "\"Ahmet Altay\""
+        },
+        "Date": "2019-09-24T00:15:41Z",
+        "additions": 71,
+        "deletions": 0,
+        "files": [
+          "2e763bff616132facc203ecb9eec8e873783f5ae"
+        ]
+      },
+      {
+        "sha": "24c7a62242923109edf66310dedea75d38b4d438",
+        "Author": {
+          "name": "\"Ahmet Altay\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T00:15:18Z",
+        "additions": 1,
+        "deletions": 6,
+        "files": [
+          "ea08da93c8c33826cf90ede6bf2f44be00fab97b"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "beam",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T08:48:03Z",
+    "EndDate": "2019-09-24T09:48:03",
+    "Branches": 46,
+    "Forks": 2048,
+    "Files": [
+      {
+        "Sha": "203e3981b850bd20068be537901f1a129d42d3d8",
+        "FileName": "CommonTestProperties.groovy",
+        "Path": ".test-infra/jenkins/CommonTestProperties.groovy",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "038d6b3ac70c3f10b876cb44c97411b61b93ec71",
+        "FileName": "job_PostCommit_Java_Nexmark_Flink.groovy",
+        "Path": ".test-infra/jenkins/job_PostCommit_Java_Nexmark_Flink.groovy",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "4da75f9171a06b3bffe5bb50883af99a241fb50c",
+        "FileName": "job_PostCommit_Java_PortableValidatesRunner_Flink_Batch.groovy",
+        "Path": ".test-infra/jenkins/job_PostCommit_Java_PortableValidatesRunner_Flink_Batch.groovy",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "612c1542dfbfb2b22d076f7eaa0d5a9acf950dc7",
+        "FileName": "job_PostCommit_Java_PortableValidatesRunner_Flink_Streaming.groovy",
+        "Path": ".test-infra/jenkins/job_PostCommit_Java_PortableValidatesRunner_Flink_Streaming.groovy",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "d5e6da9a6d3c1413d7c69d9335091f4806590d5b",
+        "FileName": "job_PostCommit_Java_ValidatesRunner_Flink.groovy",
+        "Path": ".test-infra/jenkins/job_PostCommit_Java_ValidatesRunner_Flink.groovy",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "9a28b25c0ad3ff3cd17e770270cda15064d8d66f",
+        "FileName": "BeamModulePlugin.groovy",
+        "Path": "buildSrc/src/main/groovy/org/apache/beam/gradle/BeamModulePlugin.groovy",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "87586889a0976b2d816ec9e03c78b151aa10c17e",
+        "FileName": "build.gradle",
+        "Path": "examples/java/build.gradle",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "b3fcc4cdbac22c51cf01e1def859d6be5b747b2b",
+        "FileName": "build.gradle",
+        "Path": "examples/kotlin/build.gradle",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "f8ac258aa415073f716e24cf0050b0eda070d847",
+        "FileName": "project-mappings",
+        "Path": "project-mappings",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "44e9f986ed483cfd0eeb1e7f742335f0782f11ae",
+        "FileName": "build.gradle",
+        "Path": "release/build.gradle",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "0057f24c30f53138de13c6f19ae544707d23ff90",
+        "FileName": "run_rc_validation.sh",
+        "Path": "release/src/main/scripts/run_rc_validation.sh",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "b06339534ddc0bfd83236a45f362695d041ee05e",
+        "FileName": "build.gradle",
+        "Path": "runners/flink/1.5/build.gradle",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 0,
+        "Deletions": 34,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "afdb68a0fc91c0b9a608ae7a9beb61c0ae0b301c",
+        "FileName": "build.gradle",
+        "Path": "runners/flink/1.5/job-server-container/build.gradle",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 0,
+        "Deletions": 52,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0",
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "fbba7a34ac545f086a830945e46a3e3d3dd5bab6",
+        "FileName": "build.gradle",
+        "Path": "runners/flink/1.5/job-server/build.gradle",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 0,
+        "Deletions": 31,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "e8541cc4a4cd3170b2def87d18e12a81d8e4b6f4",
+        "FileName": "build.gradle",
+        "Path": "runners/flink/1.6/build.gradle",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 0,
+        "Deletions": 34,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "39f1810da65b018483b88a8b04de5bf70d6667fe",
+        "FileName": "build.gradle",
+        "Path": "runners/flink/1.6/job-server/build.gradle",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 0,
+        "Deletions": 31,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "40132477c3912b6769cd5404f18d47550739806e",
+        "FileName": "build.gradle",
+        "Path": "runners/flink/1.7/build.gradle",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "e29f97e550e88dc2273d50572dbfe5ebb7e06bda",
+        "FileName": "CoderTypeSerializer.java",
+        "Path": "runners/flink/1.7/src/main/java/org/apache/beam/runners/flink/translation/types/CoderTypeSerializer.java",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "42b9b1cc2945a6dbc3cccebfc8e8e61b5a44094f",
+        "FileName": "EncodedValueSerializer.java",
+        "Path": "runners/flink/1.7/src/main/java/org/apache/beam/runners/flink/translation/types/EncodedValueSerializer.java",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "1747b3f0689d41291610dc25e1e3f07e0b965725",
+        "FileName": "FlinkBroadcastStateInternalsTest.java",
+        "Path": "runners/flink/1.7/src/test/java/org/apache/beam/runners/flink/streaming/FlinkBroadcastStateInternalsTest.java",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "edc44f6543d7d756a755192b82188bfc39945ddd",
+        "FileName": "FlinkStateInternalsTest.java",
+        "Path": "runners/flink/1.7/src/test/java/org/apache/beam/runners/flink/streaming/FlinkStateInternalsTest.java",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "b52503e16dcd068e451c6219461d4261d826a961",
+        "FileName": "CoderTypeSerializerTest.java",
+        "Path": "runners/flink/1.7/src/test/java/org/apache/beam/runners/flink/translation/types/CoderTypeSerializerTest.java",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "7d1c9aabdf56c1c76b1c15c8ec2f3a15b4f84fda",
+        "FileName": "flink_runner.gradle",
+        "Path": "runners/flink/flink_runner.gradle",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 2,
+        "Deletions": 9,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "77fd3bef6d0d39d234bc87f94cdc388890247026",
+        "FileName": "build.gradle",
+        "Path": "sdks/go/test/build.gradle",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "a6378cf0b0cda82e402803c830445b9cf1c8013b",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/testing/nexmark/build.gradle",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "b8da2cc76df9f194288d6aa3d1e8439225456d99",
+        "FileName": "flink_runner.py",
+        "Path": "sdks/python/apache_beam/runners/portability/flink_runner.py",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "54cf02bfa5de114951df4f07cdc28195d59b2951",
+        "FileName": "build.gradle",
+        "Path": "sdks/python/test-suites/portable/py2/build.gradle",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "2b38af963e14a54d05f0d3a1e265e3c9e59184ae",
+        "FileName": "build.gradle",
+        "Path": "sdks/python/test-suites/portable/py35/build.gradle",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "8dd7a72fa2b5554c97cba44cc9cd02a68244ea87",
+        "FileName": "build.gradle",
+        "Path": "sdks/python/test-suites/portable/py36/build.gradle",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "72220bcadced3a81c3169a5c54bf9933baed13eb",
+        "FileName": "build.gradle",
+        "Path": "sdks/python/test-suites/portable/py37/build.gradle",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "6a5c36119e53c3c90edbd130406ec19ea36975b9",
+        "FileName": "settings.gradle",
+        "Path": "settings.gradle",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 0,
+        "Deletions": 8,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "03fb6ccba04c4ce3eae82b70c162c3aa45f46150",
+        "FileName": "release-guide.md",
+        "Path": "website/src/contribute/release-guide.md",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "1317575030bd60b502b9fada34f313dd8ab8fbe9",
+        "FileName": "shell.md",
+        "Path": "website/src/documentation/dsls/sql/shell.md",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "515d8e20633264f2f38bcbc7f8d84352651424ac",
+        "FileName": "flink.md",
+        "Path": "website/src/documentation/runners/flink.md",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 25,
+        "Deletions": 4,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      },
+      {
+        "Sha": "d5230da4fc0831224f0309e10c8c58e7fe5eff5d",
+        "FileName": "nexmark.md",
+        "Path": "website/src/documentation/sdks/nexmark.md",
+        "DateUpdated": "2019-09-24T09:24:03Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "0dc2ad2fe4ab4f1a68a292653f488f88a3a9aec0",
+        "Author": {
+          "name": "\"Maximilian Michels\"",
+          "location": "Berlin",
+          "company": "@apache"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T09:24:03Z",
+        "additions": 68,
+        "deletions": 244,
+        "files": [
+          "203e3981b850bd20068be537901f1a129d42d3d8",
+          "038d6b3ac70c3f10b876cb44c97411b61b93ec71",
+          "4da75f9171a06b3bffe5bb50883af99a241fb50c",
+          "612c1542dfbfb2b22d076f7eaa0d5a9acf950dc7",
+          "d5e6da9a6d3c1413d7c69d9335091f4806590d5b",
+          "9a28b25c0ad3ff3cd17e770270cda15064d8d66f",
+          "87586889a0976b2d816ec9e03c78b151aa10c17e",
+          "b3fcc4cdbac22c51cf01e1def859d6be5b747b2b",
+          "f8ac258aa415073f716e24cf0050b0eda070d847",
+          "44e9f986ed483cfd0eeb1e7f742335f0782f11ae",
+          "0057f24c30f53138de13c6f19ae544707d23ff90",
+          "b06339534ddc0bfd83236a45f362695d041ee05e",
+          "afdb68a0fc91c0b9a608ae7a9beb61c0ae0b301c",
+          "fbba7a34ac545f086a830945e46a3e3d3dd5bab6",
+          "e8541cc4a4cd3170b2def87d18e12a81d8e4b6f4",
+          "afdb68a0fc91c0b9a608ae7a9beb61c0ae0b301c",
+          "39f1810da65b018483b88a8b04de5bf70d6667fe",
+          "40132477c3912b6769cd5404f18d47550739806e",
+          "e29f97e550e88dc2273d50572dbfe5ebb7e06bda",
+          "42b9b1cc2945a6dbc3cccebfc8e8e61b5a44094f",
+          "1747b3f0689d41291610dc25e1e3f07e0b965725",
+          "edc44f6543d7d756a755192b82188bfc39945ddd",
+          "b52503e16dcd068e451c6219461d4261d826a961",
+          "7d1c9aabdf56c1c76b1c15c8ec2f3a15b4f84fda",
+          "77fd3bef6d0d39d234bc87f94cdc388890247026",
+          "a6378cf0b0cda82e402803c830445b9cf1c8013b",
+          "b8da2cc76df9f194288d6aa3d1e8439225456d99",
+          "54cf02bfa5de114951df4f07cdc28195d59b2951",
+          "2b38af963e14a54d05f0d3a1e265e3c9e59184ae",
+          "8dd7a72fa2b5554c97cba44cc9cd02a68244ea87",
+          "72220bcadced3a81c3169a5c54bf9933baed13eb",
+          "6a5c36119e53c3c90edbd130406ec19ea36975b9",
+          "03fb6ccba04c4ce3eae82b70c162c3aa45f46150",
+          "1317575030bd60b502b9fada34f313dd8ab8fbe9",
+          "515d8e20633264f2f38bcbc7f8d84352651424ac",
+          "d5230da4fc0831224f0309e10c8c58e7fe5eff5d"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "beam",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T09:47:34Z",
+    "EndDate": "2019-09-24T10:47:34",
+    "Branches": 46,
+    "Forks": 2048,
+    "Files": [
+      {
+        "Sha": "63035aaeb18e6300a061141ad2256a65db350832",
+        "FileName": "FlinkStreamingPortablePipelineTranslator.java",
+        "Path": "runners/flink/src/main/java/org/apache/beam/runners/flink/FlinkStreamingPortablePipelineTranslator.java",
+        "DateUpdated": "2019-09-24T10:09:15Z",
+        "Additions": 0,
+        "Deletions": 6,
+        "Commits": [
+          "fce6380e4b15bb0a3b10cc0fd7ae48a0e9e294ab"
+        ]
+      },
+      {
+        "Sha": "0e8977b11caa4e2cf140b9016c8cdc9286d1f083",
+        "FileName": "ExecutableStageDoFnOperator.java",
+        "Path": "runners/flink/src/main/java/org/apache/beam/runners/flink/translation/wrappers/streaming/ExecutableStageDoFnOperator.java",
+        "DateUpdated": "2019-09-24T10:09:15Z",
+        "Additions": 2,
+        "Deletions": 6,
+        "Commits": [
+          "fce6380e4b15bb0a3b10cc0fd7ae48a0e9e294ab"
+        ]
+      },
+      {
+        "Sha": "ccd10d4ad5f3d6edb17b3c4812351113d71c7b6b",
+        "FileName": "FlinkKeyUtils.java",
+        "Path": "runners/flink/src/main/java/org/apache/beam/runners/flink/translation/wrappers/streaming/FlinkKeyUtils.java",
+        "DateUpdated": "2019-09-24T10:09:15Z",
+        "Additions": 8,
+        "Deletions": 3,
+        "Commits": [
+          "fce6380e4b15bb0a3b10cc0fd7ae48a0e9e294ab"
+        ]
+      },
+      {
+        "Sha": "8d979fd52948d4b4330a772f3a96feefbf94518b",
+        "FileName": "FlinkStateInternals.java",
+        "Path": "runners/flink/src/main/java/org/apache/beam/runners/flink/translation/wrappers/streaming/state/FlinkStateInternals.java",
+        "DateUpdated": "2019-09-24T10:09:15Z",
+        "Additions": 2,
+        "Deletions": 10,
+        "Commits": [
+          "fce6380e4b15bb0a3b10cc0fd7ae48a0e9e294ab"
+        ]
+      },
+      {
+        "Sha": "57f7694d95ece0b205c0358edb6839bcfba0ba98",
+        "FileName": "DoFnOperatorTest.java",
+        "Path": "runners/flink/src/test/java/org/apache/beam/runners/flink/translation/wrappers/streaming/DoFnOperatorTest.java",
+        "DateUpdated": "2019-09-24T10:09:15Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "fce6380e4b15bb0a3b10cc0fd7ae48a0e9e294ab"
+        ]
+      },
+      {
+        "Sha": "274b2bf3f406d6b65193ad7081824c174ba1bb8f",
+        "FileName": "FlinkKeyUtilsTest.java",
+        "Path": "runners/flink/src/test/java/org/apache/beam/runners/flink/translation/wrappers/streaming/FlinkKeyUtilsTest.java",
+        "DateUpdated": "2019-09-24T10:09:15Z",
+        "Additions": 18,
+        "Deletions": 8,
+        "Commits": [
+          "fce6380e4b15bb0a3b10cc0fd7ae48a0e9e294ab"
+        ]
+      },
+      {
+        "Sha": "9b29e2547608bf706b79478340043df220f375ed",
+        "FileName": "FnApiStateAccessor.java",
+        "Path": "sdks/java/harness/src/main/java/org/apache/beam/fn/harness/state/FnApiStateAccessor.java",
+        "DateUpdated": "2019-09-24T10:09:15Z",
+        "Additions": 5,
+        "Deletions": 1,
+        "Commits": [
+          "fce6380e4b15bb0a3b10cc0fd7ae48a0e9e294ab"
+        ]
+      },
+      {
+        "Sha": "216b432aece35efbb70eaf74a5cb6f62d7aad0be",
+        "FileName": "coders.py",
+        "Path": "sdks/python/apache_beam/coders/coders.py",
+        "DateUpdated": "2019-09-24T10:09:15Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "fce6380e4b15bb0a3b10cc0fd7ae48a0e9e294ab"
+        ]
+      },
+      {
+        "Sha": "3a75d9f57901b69da1dfbb4c1459068bd563dc5d",
+        "FileName": "bundle_processor.py",
+        "Path": "sdks/python/apache_beam/runners/worker/bundle_processor.py",
+        "DateUpdated": "2019-09-24T10:09:15Z",
+        "Additions": 4,
+        "Deletions": 2,
+        "Commits": [
+          "fce6380e4b15bb0a3b10cc0fd7ae48a0e9e294ab"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "fce6380e4b15bb0a3b10cc0fd7ae48a0e9e294ab",
+        "Author": {
+          "name": "\"Maximilian Michels\"",
+          "location": "Berlin",
+          "company": "@apache"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T10:09:15Z",
+        "additions": 53,
+        "deletions": 42,
+        "files": [
+          "63035aaeb18e6300a061141ad2256a65db350832",
+          "0e8977b11caa4e2cf140b9016c8cdc9286d1f083",
+          "ccd10d4ad5f3d6edb17b3c4812351113d71c7b6b",
+          "8d979fd52948d4b4330a772f3a96feefbf94518b",
+          "57f7694d95ece0b205c0358edb6839bcfba0ba98",
+          "274b2bf3f406d6b65193ad7081824c174ba1bb8f",
+          "9b29e2547608bf706b79478340043df220f375ed",
+          "216b432aece35efbb70eaf74a5cb6f62d7aad0be",
+          "3a75d9f57901b69da1dfbb4c1459068bd563dc5d"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "beam",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T10:47:44Z",
+    "EndDate": "2019-09-24T11:47:44",
+    "Branches": 46,
+    "Forks": 2048,
+    "Files": [
+      {
+        "Sha": "c2590334007b49ce9a0bb1f57888b23fa32e6a13",
+        "FileName": "LoadTestsBuilder.groovy",
+        "Path": ".test-infra/jenkins/LoadTestsBuilder.groovy",
+        "DateUpdated": "2019-09-24T11:10:27Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "6e3c352d7ded417980bc745ebbf997f00ca22955"
+        ]
+      },
+      {
+        "Sha": "9c5a53563dfe9e4d4c97018a35116b15469f92dd",
+        "FileName": "job_LoadTests_CoGBK_Java.groovy",
+        "Path": ".test-infra/jenkins/job_LoadTests_CoGBK_Java.groovy",
+        "DateUpdated": "2019-09-24T11:10:27Z",
+        "Additions": 18,
+        "Deletions": 22,
+        "Commits": [
+          "6e3c352d7ded417980bc745ebbf997f00ca22955"
+        ]
+      },
+      {
+        "Sha": "2f847e785eecefeb2122339ebce4cf82db5370af",
+        "FileName": "job_LoadTests_Combine_Flink_Python.groovy",
+        "Path": ".test-infra/jenkins/job_LoadTests_Combine_Flink_Python.groovy",
+        "DateUpdated": "2019-09-24T11:10:27Z",
+        "Additions": 13,
+        "Deletions": 13,
+        "Commits": [
+          "6e3c352d7ded417980bc745ebbf997f00ca22955"
+        ]
+      },
+      {
+        "Sha": "6d35339c37aed6b22438ad90e07840445d793b09",
+        "FileName": "job_LoadTests_Combine_Java.groovy",
+        "Path": ".test-infra/jenkins/job_LoadTests_Combine_Java.groovy",
+        "DateUpdated": "2019-09-24T11:10:27Z",
+        "Additions": 14,
+        "Deletions": 17,
+        "Commits": [
+          "6e3c352d7ded417980bc745ebbf997f00ca22955"
+        ]
+      },
+      {
+        "Sha": "cf18a5831e89fd042fcada97b1a8c2b4445685a1",
+        "FileName": "job_LoadTests_Combine_Python.groovy",
+        "Path": ".test-infra/jenkins/job_LoadTests_Combine_Python.groovy",
+        "DateUpdated": "2019-09-24T11:10:27Z",
+        "Additions": 13,
+        "Deletions": 19,
+        "Commits": [
+          "6e3c352d7ded417980bc745ebbf997f00ca22955"
+        ]
+      },
+      {
+        "Sha": "7f3bb2197ca4543f9f0d6ae722f441a4597b91ba",
+        "FileName": "job_LoadTests_GBK_Flink_Python.groovy",
+        "Path": ".test-infra/jenkins/job_LoadTests_GBK_Flink_Python.groovy",
+        "DateUpdated": "2019-09-24T11:10:27Z",
+        "Additions": 30,
+        "Deletions": 30,
+        "Commits": [
+          "6e3c352d7ded417980bc745ebbf997f00ca22955"
+        ]
+      },
+      {
+        "Sha": "b048c548b55fa52d62629fff3258f0889a8399f3",
+        "FileName": "job_LoadTests_GBK_Java.groovy",
+        "Path": ".test-infra/jenkins/job_LoadTests_GBK_Java.groovy",
+        "DateUpdated": "2019-09-24T11:10:27Z",
+        "Additions": 30,
+        "Deletions": 37,
+        "Commits": [
+          "6e3c352d7ded417980bc745ebbf997f00ca22955"
+        ]
+      },
+      {
+        "Sha": "b4b8c6882427ad0838e0067c7b97e059b81dd015",
+        "FileName": "job_LoadTests_GBK_Python.groovy",
+        "Path": ".test-infra/jenkins/job_LoadTests_GBK_Python.groovy",
+        "DateUpdated": "2019-09-24T11:10:27Z",
+        "Additions": 20,
+        "Deletions": 30,
+        "Commits": [
+          "6e3c352d7ded417980bc745ebbf997f00ca22955"
+        ]
+      },
+      {
+        "Sha": "5bb1ac4a94fd99d3f5c18ed5539dc108819fc314",
+        "FileName": "job_LoadTests_GBK_Python_reiterate.groovy",
+        "Path": ".test-infra/jenkins/job_LoadTests_GBK_Python_reiterate.groovy",
+        "DateUpdated": "2019-09-24T11:10:27Z",
+        "Additions": 9,
+        "Deletions": 11,
+        "Commits": [
+          "6e3c352d7ded417980bc745ebbf997f00ca22955"
+        ]
+      },
+      {
+        "Sha": "62fc1806914d5febd58b60d544e04fc16df77c90",
+        "FileName": "job_LoadTests_Java_Smoke.groovy",
+        "Path": ".test-infra/jenkins/job_LoadTests_Java_Smoke.groovy",
+        "DateUpdated": "2019-09-24T11:10:27Z",
+        "Additions": 16,
+        "Deletions": 16,
+        "Commits": [
+          "6e3c352d7ded417980bc745ebbf997f00ca22955"
+        ]
+      },
+      {
+        "Sha": "97c37dd390d7e211348bb76b748efd4c05f37879",
+        "FileName": "job_LoadTests_ParDo_Flink_Python.groovy",
+        "Path": ".test-infra/jenkins/job_LoadTests_ParDo_Flink_Python.groovy",
+        "DateUpdated": "2019-09-24T11:10:27Z",
+        "Additions": 150,
+        "Deletions": 0,
+        "Commits": [
+          "6e3c352d7ded417980bc745ebbf997f00ca22955"
+        ]
+      },
+      {
+        "Sha": "2969c72eeced2bf506031890c182235e5e573c22",
+        "FileName": "job_LoadTests_ParDo_Java.groovy",
+        "Path": ".test-infra/jenkins/job_LoadTests_ParDo_Java.groovy",
+        "DateUpdated": "2019-09-24T11:10:27Z",
+        "Additions": 18,
+        "Deletions": 22,
+        "Commits": [
+          "6e3c352d7ded417980bc745ebbf997f00ca22955"
+        ]
+      },
+      {
+        "Sha": "f55ed6e624acc337898731eeeda80983ef4aa545",
+        "FileName": "job_LoadTests_ParDo_Python.groovy",
+        "Path": ".test-infra/jenkins/job_LoadTests_ParDo_Python.groovy",
+        "DateUpdated": "2019-09-24T11:10:27Z",
+        "Additions": 17,
+        "Deletions": 17,
+        "Commits": [
+          "6e3c352d7ded417980bc745ebbf997f00ca22955"
+        ]
+      },
+      {
+        "Sha": "e03f7d228a62f83de326257fb412d2e36f5d7683",
+        "FileName": "job_LoadTests_Python_Smoke.groovy",
+        "Path": ".test-infra/jenkins/job_LoadTests_Python_Smoke.groovy",
+        "DateUpdated": "2019-09-24T11:10:27Z",
+        "Additions": 8,
+        "Deletions": 10,
+        "Commits": [
+          "6e3c352d7ded417980bc745ebbf997f00ca22955"
+        ]
+      },
+      {
+        "Sha": "026d19754a938195147d5b37ea6cc26c4763b30b",
+        "FileName": "job_LoadTests_coGBK_Flink_Python.groovy",
+        "Path": ".test-infra/jenkins/job_LoadTests_coGBK_Flink_Python.groovy",
+        "DateUpdated": "2019-09-24T11:10:27Z",
+        "Additions": 16,
+        "Deletions": 16,
+        "Commits": [
+          "6e3c352d7ded417980bc745ebbf997f00ca22955"
+        ]
+      },
+      {
+        "Sha": "470602c6ace37cefa4240af16d4bb62f42ed9d73",
+        "FileName": "job_LoadTests_coGBK_Python.groovy",
+        "Path": ".test-infra/jenkins/job_LoadTests_coGBK_Python.groovy",
+        "DateUpdated": "2019-09-24T11:10:27Z",
+        "Additions": 17,
+        "Deletions": 21,
+        "Commits": [
+          "6e3c352d7ded417980bc745ebbf997f00ca22955"
+        ]
+      },
+      {
+        "Sha": "7231140a7439aa7ff54676426ed6d5cfc97f26fa",
+        "FileName": "job_PerformanceTests_BigQueryIO_Java.groovy",
+        "Path": ".test-infra/jenkins/job_PerformanceTests_BigQueryIO_Java.groovy",
+        "DateUpdated": "2019-09-24T11:10:27Z",
+        "Additions": 10,
+        "Deletions": 12,
+        "Commits": [
+          "6e3c352d7ded417980bc745ebbf997f00ca22955"
+        ]
+      },
+      {
+        "Sha": "471b394eb9cb18c177c239960a2e04e807396751",
+        "FileName": "job_PerformanceTests_BigQueryIO_Python.groovy",
+        "Path": ".test-infra/jenkins/job_PerformanceTests_BigQueryIO_Python.groovy",
+        "DateUpdated": "2019-09-24T11:10:27Z",
+        "Additions": 9,
+        "Deletions": 11,
+        "Commits": [
+          "6e3c352d7ded417980bc745ebbf997f00ca22955"
+        ]
+      },
+      {
+        "Sha": "e10fd411bb200421df126ad45a9f64c1cb51bff5",
+        "FileName": "job_PerformanceTests_Python.groovy",
+        "Path": ".test-infra/jenkins/job_PerformanceTests_Python.groovy",
+        "DateUpdated": "2019-09-24T11:10:27Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "6e3c352d7ded417980bc745ebbf997f00ca22955"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "6e3c352d7ded417980bc745ebbf997f00ca22955",
+        "Author": {
+          "name": "\"Å?ukasz Gajowy\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T11:10:27Z",
+        "additions": 415,
+        "deletions": 311,
+        "files": [
+          "c2590334007b49ce9a0bb1f57888b23fa32e6a13",
+          "9c5a53563dfe9e4d4c97018a35116b15469f92dd",
+          "2f847e785eecefeb2122339ebce4cf82db5370af",
+          "6d35339c37aed6b22438ad90e07840445d793b09",
+          "cf18a5831e89fd042fcada97b1a8c2b4445685a1",
+          "7f3bb2197ca4543f9f0d6ae722f441a4597b91ba",
+          "b048c548b55fa52d62629fff3258f0889a8399f3",
+          "b4b8c6882427ad0838e0067c7b97e059b81dd015",
+          "5bb1ac4a94fd99d3f5c18ed5539dc108819fc314",
+          "62fc1806914d5febd58b60d544e04fc16df77c90",
+          "97c37dd390d7e211348bb76b748efd4c05f37879",
+          "2969c72eeced2bf506031890c182235e5e573c22",
+          "f55ed6e624acc337898731eeeda80983ef4aa545",
+          "e03f7d228a62f83de326257fb412d2e36f5d7683",
+          "026d19754a938195147d5b37ea6cc26c4763b30b",
+          "470602c6ace37cefa4240af16d4bb62f42ed9d73",
+          "7231140a7439aa7ff54676426ed6d5cfc97f26fa",
+          "471b394eb9cb18c177c239960a2e04e807396751",
+          "e10fd411bb200421df126ad45a9f64c1cb51bff5"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "beam",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T11:47:43Z",
+    "EndDate": "2019-09-24T12:47:43",
+    "Branches": 46,
+    "Forks": 2048,
+    "Files": [
+      {
+        "Sha": "ddccd5d951e675d42920e94367468c15dbf8ce1e",
+        "FileName": "job_PerformanceTests_FileBasedIO_IT.groovy",
+        "Path": ".test-infra/jenkins/job_PerformanceTests_FileBasedIO_IT.groovy",
+        "DateUpdated": "2019-09-24T11:52:02Z",
+        "Additions": 68,
+        "Deletions": 40,
+        "Commits": [
+          "d61c227ef357dad33f64d7bff78804cce6b23111"
+        ]
+      },
+      {
+        "Sha": "03118599ee4f0a79a596a67152abe2072f25ad6c",
+        "FileName": "job_PerformanceTests_HadoopFormat.groovy",
+        "Path": ".test-infra/jenkins/job_PerformanceTests_HadoopFormat.groovy",
+        "DateUpdated": "2019-09-24T11:52:02Z",
+        "Additions": 14,
+        "Deletions": 12,
+        "Commits": [
+          "d61c227ef357dad33f64d7bff78804cce6b23111"
+        ]
+      },
+      {
+        "Sha": "abc6b98307ee3acfafb6ad1f720a976d9e2c18ef",
+        "FileName": "job_PerformanceTests_JDBC.groovy",
+        "Path": ".test-infra/jenkins/job_PerformanceTests_JDBC.groovy",
+        "DateUpdated": "2019-09-24T11:52:02Z",
+        "Additions": 14,
+        "Deletions": 12,
+        "Commits": [
+          "d61c227ef357dad33f64d7bff78804cce6b23111"
+        ]
+      },
+      {
+        "Sha": "83e11999397dc14577fcbda1711e4c28e6dca3dd",
+        "FileName": "job_PerformanceTests_MongoDBIO_IT.groovy",
+        "Path": ".test-infra/jenkins/job_PerformanceTests_MongoDBIO_IT.groovy",
+        "DateUpdated": "2019-09-24T11:52:02Z",
+        "Additions": 11,
+        "Deletions": 9,
+        "Commits": [
+          "d61c227ef357dad33f64d7bff78804cce6b23111"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d61c227ef357dad33f64d7bff78804cce6b23111",
+        "Author": {
+          "name": "\"Å?ukasz Gajowy\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T11:52:02Z",
+        "additions": 107,
+        "deletions": 73,
+        "files": [
+          "ddccd5d951e675d42920e94367468c15dbf8ce1e",
+          "03118599ee4f0a79a596a67152abe2072f25ad6c",
+          "abc6b98307ee3acfafb6ad1f720a976d9e2c18ef",
+          "83e11999397dc14577fcbda1711e4c28e6dca3dd"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "beam",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T20:47:37Z",
+    "EndDate": "2019-09-24T21:47:37",
+    "Branches": 46,
+    "Forks": 2049,
+    "Files": [
+      {
+        "Sha": "e01e1001cf77ba8b3673fc592260a3e636035ed4",
+        "FileName": "pipeline_test.py",
+        "Path": "sdks/python/apache_beam/pipeline_test.py",
+        "DateUpdated": "2019-09-24T21:31:27Z",
+        "Additions": 22,
+        "Deletions": 0,
+        "Commits": [
+          "80bfcc67b5d337d749fc95c9bc7afad7256979f3"
+        ]
+      },
+      {
+        "Sha": "541959a5cf9188e1d664ab73dbfa6c4d15231a91",
+        "FileName": "common.py",
+        "Path": "sdks/python/apache_beam/runners/common.py",
+        "DateUpdated": "2019-09-24T21:31:27Z",
+        "Additions": 14,
+        "Deletions": 14,
+        "Commits": [
+          "80bfcc67b5d337d749fc95c9bc7afad7256979f3"
+        ]
+      },
+      {
+        "Sha": "f9299dbb23e316e5d93f0a19b082ecf6253270f5",
+        "FileName": "BeamModulePlugin.groovy",
+        "Path": "buildSrc/src/main/groovy/org/apache/beam/gradle/BeamModulePlugin.groovy",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 33,
+        "Deletions": 0,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "3936398a74238b2393eadc8cca67171bcddf26fb",
+        "FileName": "build.gradle",
+        "Path": "examples/java/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "7b55870d7ca19dfc2cd7edacce4a651d7aa4ad98",
+        "FileName": "build.gradle",
+        "Path": "examples/kotlin/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "42f1fe09c8eef178482d18a575d707661d91597c",
+        "FileName": "build.gradle",
+        "Path": "model/fn-execution/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "1568d8b1d4b220d60b193b6ec64acec6794ca61a",
+        "FileName": "build.gradle",
+        "Path": "model/job-management/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 6,
+        "Deletions": 4,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "7698e84aa6bf4be2d49f87000b4f612459ee2a1d",
+        "FileName": "build.gradle",
+        "Path": "model/pipeline/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "06a3d3390ab742601603125216702dac4b821a44",
+        "FileName": "build.gradle",
+        "Path": "runners/apex/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "e7f48992ea94858b1c35774fa68ed9bd0df8d10d",
+        "FileName": "build.gradle",
+        "Path": "runners/core-construction-java/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "99795cec0f83ff8a93bde6171fe1dcd849d20517",
+        "FileName": "build.gradle",
+        "Path": "runners/core-java/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "b8836a85d5dff41ebb2331ab7183c385fb5202f9",
+        "FileName": "build.gradle",
+        "Path": "runners/direct-java/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 13,
+        "Deletions": 11,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "022b15c386e110200476af1ff7eac098d54802c5",
+        "FileName": "build.gradle",
+        "Path": "runners/extensions-java/metrics/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "c16c98d84eff7929fb3b38064654c25ef6ba7f9d",
+        "FileName": "flink_runner.gradle",
+        "Path": "runners/flink/flink_runner.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "179a23bf29beac96650605c939616aa74dee64fb",
+        "FileName": "flink_job_server.gradle",
+        "Path": "runners/flink/job-server/flink_job_server.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "c1744f7265485c7984dc6519dcb512c955a0f1ea",
+        "FileName": "build.gradle",
+        "Path": "runners/gearpump/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "1569d29f89ff75e486682c2a22d4afdde64abb70",
+        "FileName": "build.gradle",
+        "Path": "runners/google-cloud-dataflow-java/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "53a28825c897f9e31c5eab98e783d7612a83d57c",
+        "FileName": "build.gradle",
+        "Path": "runners/google-cloud-dataflow-java/worker/windmill/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "f032d8f017a48ac865dea5ba6746b1177d5cffbd",
+        "FileName": "build.gradle",
+        "Path": "runners/java-fn-execution/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "b97b0160f5f0b66d42803922d8f169bf464aded9",
+        "FileName": "build.gradle",
+        "Path": "runners/jet/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "343327ae1daad0b58f995a41db1c3ade251c7996",
+        "FileName": "build.gradle",
+        "Path": "runners/local-java/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "35d4dffb7f48f5864101ec1a64fb3635a89ed49a",
+        "FileName": "build.gradle",
+        "Path": "runners/reference/java/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "209db64646f9d75a508f16ffcdaa4770ed5f5769",
+        "FileName": "build.gradle",
+        "Path": "runners/samza/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "34c177f7ad0001e93461d42b83279ac2a3932145",
+        "FileName": "build.gradle",
+        "Path": "runners/samza/job-server/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "20e65def7bb5b818318ba0c85e7b9466346dbe94",
+        "FileName": "build.gradle",
+        "Path": "runners/spark/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "4c7ee607ac2b670873636b25c6e8079f362cd854",
+        "FileName": "build.gradle",
+        "Path": "runners/spark/job-server/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "5916470409c5a0c47a25044573869557d40f1e7d",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/build-tools/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "a7ed6c2e87dbe89ff14b5d3f1085620793810553",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/core/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 13,
+        "Deletions": 10,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "93f6ebd9fa0c85f28c45bed4e6109aa4a9198c2a",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/extensions/euphoria/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "9ffa22902a4705a56743c7dc5148200160a3eb9a",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/extensions/google-cloud-platform-core/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "3d1e69265c07c865890360a2cc4671d200fbf3dc",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/extensions/jackson/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "c3c79e9ba79d31ce186304ed9cb165702b487eb0",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/extensions/join-library/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "24c8e0c871ae5340fa4bed6a2f30dee7a6b59025",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/extensions/kryo/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "2f068b28c999eb6d3ca3575c032bedbbb4ce9253",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/extensions/protobuf/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "1f403ee24ec7577c4fdebb4e290a5daada278b5c",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/extensions/sketching/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "94cbba5b41556ff5d152a295aae54a74d20f80e4",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/extensions/sorter/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "d5e4bd29b3a3531bd9b65a74cc699d7f27fc3a26",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/extensions/sql/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "4e95f46ac222be3340d01f0671875a927f09f3d4",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/extensions/sql/datacatalog/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "0994ea48112d51a3d4dec1a8563e8e06b7bd485f",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/extensions/sql/hcatalog/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "acddedfdeef5b4591aa6ca90122a17ec1bbf66ad",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/extensions/sql/jdbc/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "30e8bc82f09c09f4bf67b2df490a3d5dc423305b",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/extensions/zetasketch/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "ea46cff280fc294c1d4b905c700cbd987b52c623",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/fn-execution/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "51c65bbe215592ef8e7e6766aad01e874169fef4",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/harness/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "ca88447a482bb038dceaa3a66d55a290a1b191c0",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/amazon-web-services/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "4d78434e79105ac428c31935e3aae97849acb9ec",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/amazon-web-services2/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "a4c35a38642ea5dcf844ab351c1854bb9497608b",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/amqp/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "ce2746826fb6f61dfa9589ac31b2207ff90cad56",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/bigquery-io-perf-tests/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "ca3015c4e6fbec41429242beff62d99f65e2228d",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/cassandra/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "ee8d382d0dc7a24242a6c129729103ea65fa7713",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/clickhouse/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "a17e2b7ddc3403bce1e8f94225506b2d3085adeb",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/common/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "0788f89f65d1ce98f116d8db0f7c8b7db54988f2",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/elasticsearch-tests/elasticsearch-tests-2/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "543c0dbc1b067452641e1219b87602820063bfff",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/elasticsearch-tests/elasticsearch-tests-5/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "93b59b5c0500c31d5422e6b16b536be7bbbc5255",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/elasticsearch-tests/elasticsearch-tests-6/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "168fc5bd7b9fb4a941f755057ef0a924643c6d91",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/elasticsearch-tests/elasticsearch-tests-common/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "6eca5590771fc802112bfb9864fa3ad97d50607a",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/elasticsearch/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "845a9a88162d9d2d2a53e8570e3ec0b42950910d",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/file-based-io-tests/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "0a9b8a9195cc9298aacfbd628bce8134553e6a90",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/google-cloud-platform/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "08f60c6c7cc0510b22b2c9ae798294610dd33855",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/hadoop-common/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "8ebdc93a2bcdf0a9b755ecbe4ec7b77c9ee62c8d",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/hadoop-file-system/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "20dba8dfb73356f6d80d63df5a736a7b0cab2e01",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/hadoop-format/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "882eb5e1ccc3b86a1f58c9cee919a551505b0d62",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/hbase/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "da0ee240e4dadca147ce71837ba443c2e069f004",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/hcatalog/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "d8ce5f2ab14ec68e88cf6a97a3ec734bd3152da0",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/jdbc/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "80561060bdf873bb38256a358f77ad5e6e9df3ff",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/jms/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "da8655eff75a638a1185fdc5f0d1c4bd58fee218",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/kafka/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "a73c77012378e0512011a8c62a9cde178e9eaafb",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/kinesis/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "8619d67f71a2b0b0ebae9d67be1f8c02d842a3d8",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/kudu/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "d8ac11c8db7af244b73ffc94d7c04a6e1cb670b2",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/mongodb/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "9d7b1887060eee83089862608e1507288db800d5",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/mqtt/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "7a038f3bab770aec21e71afd7c80018154d8335b",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/parquet/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "52802c5b1ac610bc27eaf8e69ebb52dbf4a1cf00",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/rabbitmq/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "2626400124d0c52fe62b63c15449e69f7c7c115d",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/redis/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "928d6db2e091ac262c00c990a04a380d5a898596",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/solr/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "52c794baf3c2ee66bbccb60b3644cac84af8302b",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/synthetic/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "813a692b5397b9bc524c6e86061f96fd37158a5a",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/tika/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "2cb9077608fb955c9bc21e95dc782cba740db546",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/io/xml/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "d3d4a97e2b8ac7a1a1e808b0a5d14aac27d9b877",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/javadoc/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "beec64947c6599a0ad1b63f10c08b7a7604e376d",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/maven-archetypes/examples/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "850c661b2134540575c93f6749fc51d7836cc184",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/maven-archetypes/starter/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "bfbcc2350cb675a60687120d88ea25e041a537e8",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/testing/expansion-service/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "fbea1a72d864cdae002145ebd192a6324baabda4",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/testing/load-tests/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "1fdfbed04ddf69cf82f2ba4ff8e0af7a26c23ad0",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/testing/nexmark/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "45b007d209b35e76385fde45cec8477d75ee5aae",
+        "FileName": "build.gradle",
+        "Path": "sdks/java/testing/test-utils/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      },
+      {
+        "Sha": "e3f0c949f76de622568eb29d17727a940b43715f",
+        "FileName": "build.gradle",
+        "Path": "vendor/sdks-java-extensions-protobuf/build.gradle",
+        "DateUpdated": "2019-09-24T21:02:44Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "2acbfbd23a23ee6eed77cbe74690f66f985c9815"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "80bfcc67b5d337d749fc95c9bc7afad7256979f3",
+        "Author": {
+          "name": "\"Robert Bradshaw\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T21:31:27Z",
+        "additions": 36,
+        "deletions": 14,
+        "files": [
+          "e01e1001cf77ba8b3673fc592260a3e636035ed4",
+          "541959a5cf9188e1d664ab73dbfa6c4d15231a91"
+        ]
+      },
+      {
+        "sha": "2acbfbd23a23ee6eed77cbe74690f66f985c9815",
+        "Author": {
+          "name": "\"Lukasz Cwik\"",
+          "location": "Seattle, WA, USA"
+        },
+        "Commitor": {
+          "name": "\"Lukasz Cwik\"",
+          "location": "Seattle, WA, USA"
+        },
+        "Date": "2019-09-24T21:02:44Z",
+        "additions": 150,
+        "deletions": 83,
+        "files": [
+          "f9299dbb23e316e5d93f0a19b082ecf6253270f5",
+          "3936398a74238b2393eadc8cca67171bcddf26fb",
+          "7b55870d7ca19dfc2cd7edacce4a651d7aa4ad98",
+          "42f1fe09c8eef178482d18a575d707661d91597c",
+          "1568d8b1d4b220d60b193b6ec64acec6794ca61a",
+          "7698e84aa6bf4be2d49f87000b4f612459ee2a1d",
+          "06a3d3390ab742601603125216702dac4b821a44",
+          "e7f48992ea94858b1c35774fa68ed9bd0df8d10d",
+          "99795cec0f83ff8a93bde6171fe1dcd849d20517",
+          "b8836a85d5dff41ebb2331ab7183c385fb5202f9",
+          "022b15c386e110200476af1ff7eac098d54802c5",
+          "c16c98d84eff7929fb3b38064654c25ef6ba7f9d",
+          "179a23bf29beac96650605c939616aa74dee64fb",
+          "c1744f7265485c7984dc6519dcb512c955a0f1ea",
+          "1569d29f89ff75e486682c2a22d4afdde64abb70",
+          "53a28825c897f9e31c5eab98e783d7612a83d57c",
+          "f032d8f017a48ac865dea5ba6746b1177d5cffbd",
+          "b97b0160f5f0b66d42803922d8f169bf464aded9",
+          "343327ae1daad0b58f995a41db1c3ade251c7996",
+          "35d4dffb7f48f5864101ec1a64fb3635a89ed49a",
+          "209db64646f9d75a508f16ffcdaa4770ed5f5769",
+          "34c177f7ad0001e93461d42b83279ac2a3932145",
+          "20e65def7bb5b818318ba0c85e7b9466346dbe94",
+          "4c7ee607ac2b670873636b25c6e8079f362cd854",
+          "5916470409c5a0c47a25044573869557d40f1e7d",
+          "a7ed6c2e87dbe89ff14b5d3f1085620793810553",
+          "93f6ebd9fa0c85f28c45bed4e6109aa4a9198c2a",
+          "9ffa22902a4705a56743c7dc5148200160a3eb9a",
+          "3d1e69265c07c865890360a2cc4671d200fbf3dc",
+          "c3c79e9ba79d31ce186304ed9cb165702b487eb0",
+          "24c8e0c871ae5340fa4bed6a2f30dee7a6b59025",
+          "2f068b28c999eb6d3ca3575c032bedbbb4ce9253",
+          "1f403ee24ec7577c4fdebb4e290a5daada278b5c",
+          "94cbba5b41556ff5d152a295aae54a74d20f80e4",
+          "d5e4bd29b3a3531bd9b65a74cc699d7f27fc3a26",
+          "4e95f46ac222be3340d01f0671875a927f09f3d4",
+          "0994ea48112d51a3d4dec1a8563e8e06b7bd485f",
+          "acddedfdeef5b4591aa6ca90122a17ec1bbf66ad",
+          "30e8bc82f09c09f4bf67b2df490a3d5dc423305b",
+          "ea46cff280fc294c1d4b905c700cbd987b52c623",
+          "51c65bbe215592ef8e7e6766aad01e874169fef4",
+          "ca88447a482bb038dceaa3a66d55a290a1b191c0",
+          "4d78434e79105ac428c31935e3aae97849acb9ec",
+          "a4c35a38642ea5dcf844ab351c1854bb9497608b",
+          "ce2746826fb6f61dfa9589ac31b2207ff90cad56",
+          "ca3015c4e6fbec41429242beff62d99f65e2228d",
+          "ee8d382d0dc7a24242a6c129729103ea65fa7713",
+          "a17e2b7ddc3403bce1e8f94225506b2d3085adeb",
+          "0788f89f65d1ce98f116d8db0f7c8b7db54988f2",
+          "543c0dbc1b067452641e1219b87602820063bfff",
+          "93b59b5c0500c31d5422e6b16b536be7bbbc5255",
+          "168fc5bd7b9fb4a941f755057ef0a924643c6d91",
+          "6eca5590771fc802112bfb9864fa3ad97d50607a",
+          "845a9a88162d9d2d2a53e8570e3ec0b42950910d",
+          "0a9b8a9195cc9298aacfbd628bce8134553e6a90",
+          "08f60c6c7cc0510b22b2c9ae798294610dd33855",
+          "8ebdc93a2bcdf0a9b755ecbe4ec7b77c9ee62c8d",
+          "20dba8dfb73356f6d80d63df5a736a7b0cab2e01",
+          "882eb5e1ccc3b86a1f58c9cee919a551505b0d62",
+          "da0ee240e4dadca147ce71837ba443c2e069f004",
+          "d8ce5f2ab14ec68e88cf6a97a3ec734bd3152da0",
+          "80561060bdf873bb38256a358f77ad5e6e9df3ff",
+          "da8655eff75a638a1185fdc5f0d1c4bd58fee218",
+          "a73c77012378e0512011a8c62a9cde178e9eaafb",
+          "8619d67f71a2b0b0ebae9d67be1f8c02d842a3d8",
+          "d8ac11c8db7af244b73ffc94d7c04a6e1cb670b2",
+          "9d7b1887060eee83089862608e1507288db800d5",
+          "7a038f3bab770aec21e71afd7c80018154d8335b",
+          "52802c5b1ac610bc27eaf8e69ebb52dbf4a1cf00",
+          "2626400124d0c52fe62b63c15449e69f7c7c115d",
+          "928d6db2e091ac262c00c990a04a380d5a898596",
+          "52c794baf3c2ee66bbccb60b3644cac84af8302b",
+          "813a692b5397b9bc524c6e86061f96fd37158a5a",
+          "2cb9077608fb955c9bc21e95dc782cba740db546",
+          "d3d4a97e2b8ac7a1a1e808b0a5d14aac27d9b877",
+          "beec64947c6599a0ad1b63f10c08b7a7604e376d",
+          "850c661b2134540575c93f6749fc51d7836cc184",
+          "bfbcc2350cb675a60687120d88ea25e041a537e8",
+          "fbea1a72d864cdae002145ebd192a6324baabda4",
+          "1fdfbed04ddf69cf82f2ba4ff8e0af7a26c23ad0",
+          "45b007d209b35e76385fde45cec8477d75ee5aae",
+          "e3f0c949f76de622568eb29d17727a940b43715f"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "beam",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T21:04:12Z",
+    "EndDate": "2019-09-24T22:04:12",
+    "Branches": 46,
+    "Forks": 2049,
+    "Files": [
+      {
+        "Sha": "e01e1001cf77ba8b3673fc592260a3e636035ed4",
+        "FileName": "pipeline_test.py",
+        "Path": "sdks/python/apache_beam/pipeline_test.py",
+        "DateUpdated": "2019-09-24T21:31:27Z",
+        "Additions": 22,
+        "Deletions": 0,
+        "Commits": [
+          "80bfcc67b5d337d749fc95c9bc7afad7256979f3"
+        ]
+      },
+      {
+        "Sha": "541959a5cf9188e1d664ab73dbfa6c4d15231a91",
+        "FileName": "common.py",
+        "Path": "sdks/python/apache_beam/runners/common.py",
+        "DateUpdated": "2019-09-24T21:31:27Z",
+        "Additions": 14,
+        "Deletions": 14,
+        "Commits": [
+          "80bfcc67b5d337d749fc95c9bc7afad7256979f3"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "80bfcc67b5d337d749fc95c9bc7afad7256979f3",
+        "Author": {
+          "name": "\"Robert Bradshaw\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T21:31:27Z",
+        "additions": 36,
+        "deletions": 14,
+        "files": [
+          "e01e1001cf77ba8b3673fc592260a3e636035ed4",
+          "541959a5cf9188e1d664ab73dbfa6c4d15231a91"
+        ]
+      }
+    ]
+  }
+]

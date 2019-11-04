@@ -1,0 +1,68 @@
+[
+  {
+    "RepositoryName": "incubator-druid",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-22T22:02:28Z",
+    "EndDate": "2019-09-22T23:02:28",
+    "Branches": 35,
+    "Forks": 2175,
+    "Files": [
+      {
+        "Sha": "c5906e52a2d9d9279e41b95b53c12c571afe256b",
+        "FileName": "query-input.spec.tsx.snap",
+        "Path": "web-console/src/views/query-view/query-input/__snapshots__/query-input.spec.tsx.snap",
+        "DateUpdated": "2019-09-22T22:18:51Z",
+        "Additions": 19,
+        "Deletions": 0,
+        "Commits": [
+          "2104cee79b5cb1bd43cac4569393bda734488070"
+        ]
+      },
+      {
+        "Sha": "b0b198e5d4354c27c2e6dc794a25b833369f817a",
+        "FileName": "query-input.spec.tsx",
+        "Path": "web-console/src/views/query-view/query-input/query-input.spec.tsx",
+        "DateUpdated": "2019-09-22T22:18:51Z",
+        "Additions": 10,
+        "Deletions": 0,
+        "Commits": [
+          "2104cee79b5cb1bd43cac4569393bda734488070"
+        ]
+      },
+      {
+        "Sha": "030fc833f1bb0a8b0058f3cbc71786afdced29cf",
+        "FileName": "query-input.tsx",
+        "Path": "web-console/src/views/query-view/query-input/query-input.tsx",
+        "DateUpdated": "2019-09-22T22:18:51Z",
+        "Additions": 9,
+        "Deletions": 6,
+        "Commits": [
+          "2104cee79b5cb1bd43cac4569393bda734488070"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "2104cee79b5cb1bd43cac4569393bda734488070",
+        "Author": {
+          "name": "\"Vadim Ogievetsky\"",
+          "location": "San Francisco, CA",
+          "company": "Imply Data"
+        },
+        "Commitor": {
+          "name": "\"Fangjin Yang\"",
+          "location": "San Francisco",
+          "company": "Imply"
+        },
+        "Date": "2019-09-22T22:18:51Z",
+        "additions": 38,
+        "deletions": 6,
+        "files": [
+          "c5906e52a2d9d9279e41b95b53c12c571afe256b",
+          "b0b198e5d4354c27c2e6dc794a25b833369f817a",
+          "030fc833f1bb0a8b0058f3cbc71786afdced29cf"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "RepositoryName": "guacamole-website",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T21:03:36Z",
+    "EndDate": "2019-09-25T22:03:36",
+    "Branches": 2,
+    "Forks": 60,
+    "Files": [
+      {
+        "Sha": "fbd1f379f30e6f1a1e9b60a1336988b697b9e663",
+        "FileName": "gitguac.js",
+        "Path": "pub/tests/guac/gitguac.js",
+        "DateUpdated": "2019-09-25T21:22:58Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "427294d8929c5947e764444ef339e47771e78179",
+          "6d931c720248402f46a6a514cb95bcd1384359a8"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "427294d8929c5947e764444ef339e47771e78179",
+        "Author": {
+          "name": "\"James Muehlner\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T21:22:58Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "fbd1f379f30e6f1a1e9b60a1336988b697b9e663"
+        ]
+      },
+      {
+        "sha": "6d931c720248402f46a6a514cb95bcd1384359a8",
+        "Author": {
+          "name": "\"Mike Jumper\"",
+          "location": "California, US",
+          "company": "Glyptodon, Inc. (@glyptodon)"
+        },
+        "Commitor": {
+          "name": "\"Mike Jumper\"",
+          "location": "California, US",
+          "company": "Glyptodon, Inc. (@glyptodon)"
+        },
+        "Date": "2019-09-25T21:03:36Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "fbd1f379f30e6f1a1e9b60a1336988b697b9e663"
+        ]
+      }
+    ]
+  }
+]

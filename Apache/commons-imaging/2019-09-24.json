@@ -1,0 +1,150 @@
+[
+  {
+    "RepositoryName": "commons-imaging",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T06:46:35Z",
+    "EndDate": "2019-09-24T07:46:35",
+    "Branches": 3,
+    "Forks": 99,
+    "Files": [
+      {
+        "Sha": "ccd8eda908fc796a3d57efad8b1a290697998f66",
+        "FileName": "TiffImageWriterLossy.java",
+        "Path": "src/main/java/org/apache/commons/imaging/formats/tiff/write/TiffImageWriterLossy.java",
+        "DateUpdated": "2019-09-24T07:38:58Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "b684eea67f98010b67db9587dbfb0b1a2d02bb1a"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "b684eea67f98010b67db9587dbfb0b1a2d02bb1a",
+        "Author": {
+          "name": "\"Bruno P. Kinoshita\"",
+          "location": "Auckland, New Zealand",
+          "company": "@niwa"
+        },
+        "Commitor": {
+          "name": "\"Bruno P. Kinoshita\"",
+          "location": "Auckland, New Zealand",
+          "company": "@niwa"
+        },
+        "Date": "2019-09-24T07:38:58Z",
+        "additions": 1,
+        "deletions": 0,
+        "files": [
+          "ccd8eda908fc796a3d57efad8b1a290697998f66"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "commons-imaging",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T07:46:55Z",
+    "EndDate": "2019-09-24T08:46:55",
+    "Branches": 3,
+    "Forks": 99,
+    "Files": [
+      {
+        "Sha": "e41e9bdf4c368414b8c81343320f2b07c7772167",
+        "FileName": "ImageParser.java",
+        "Path": "src/main/java/org/apache/commons/imaging/ImageParser.java",
+        "DateUpdated": "2019-09-24T08:45:02Z",
+        "Additions": 4,
+        "Deletions": 8,
+        "Commits": [
+          "0b25fa54a2de50b5ff4de43812ddf1acc0882feb",
+          "9dd4bdaf5b53045084b65fbb4f8bf7cd7aa378d3"
+        ]
+      },
+      {
+        "Sha": "2a27b46503687c09a0321e4d7221d3113dd9cb1f",
+        "FileName": "Imaging.java",
+        "Path": "src/main/java/org/apache/commons/imaging/Imaging.java",
+        "DateUpdated": "2019-09-24T08:45:02Z",
+        "Additions": 5,
+        "Deletions": 10,
+        "Commits": [
+          "0b25fa54a2de50b5ff4de43812ddf1acc0882feb",
+          "9dd4bdaf5b53045084b65fbb4f8bf7cd7aa378d3"
+        ]
+      },
+      {
+        "Sha": "508848d9c77561687ca9f939ea586a753136a693",
+        "FileName": "TiffImageParser.java",
+        "Path": "src/main/java/org/apache/commons/imaging/formats/tiff/TiffImageParser.java",
+        "DateUpdated": "2019-09-24T08:45:02Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "0b25fa54a2de50b5ff4de43812ddf1acc0882feb",
+          "8f84ea015b9ccfd0f885211e8f97e740d8f206e1"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "0b25fa54a2de50b5ff4de43812ddf1acc0882feb",
+        "Author": {
+          "name": "\"Bruno P. Kinoshita\"",
+          "location": "Auckland, New Zealand",
+          "company": "@niwa"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T08:45:02Z",
+        "additions": 10,
+        "deletions": 10,
+        "files": [
+          "e41e9bdf4c368414b8c81343320f2b07c7772167",
+          "2a27b46503687c09a0321e4d7221d3113dd9cb1f",
+          "508848d9c77561687ca9f939ea586a753136a693"
+        ]
+      },
+      {
+        "sha": "8f84ea015b9ccfd0f885211e8f97e740d8f206e1",
+        "Author": {
+          "name": "\"Bruno P. Kinoshita\"",
+          "location": "Auckland, New Zealand",
+          "company": "@niwa"
+        },
+        "Commitor": {
+          "name": "\"Bruno P. Kinoshita\"",
+          "location": "Auckland, New Zealand",
+          "company": "@niwa"
+        },
+        "Date": "2019-09-24T08:17:11Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "508848d9c77561687ca9f939ea586a753136a693"
+        ]
+      },
+      {
+        "sha": "9dd4bdaf5b53045084b65fbb4f8bf7cd7aa378d3",
+        "Author": {
+          "name": "\"Bruno P. Kinoshita\"",
+          "location": "Auckland, New Zealand",
+          "company": "@niwa"
+        },
+        "Commitor": {
+          "name": "\"Bruno P. Kinoshita\"",
+          "location": "Auckland, New Zealand",
+          "company": "@niwa"
+        },
+        "Date": "2019-09-24T08:08:47Z",
+        "additions": 9,
+        "deletions": 9,
+        "files": [
+          "e41e9bdf4c368414b8c81343320f2b07c7772167",
+          "2a27b46503687c09a0321e4d7221d3113dd9cb1f"
+        ]
+      }
+    ]
+  }
+]

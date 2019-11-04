@@ -1,0 +1,514 @@
+[
+  {
+    "RepositoryName": "rocketmq-operator",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T05:48:10Z",
+    "EndDate": "2019-09-25T06:48:10",
+    "Branches": 1,
+    "Forks": 4,
+    "Files": [
+      {
+        "Sha": "63bf12f33977cacef754d5ebc5485f9a6b651e07",
+        "FileName": "README.md",
+        "Path": "README.md",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 58,
+        "Deletions": 1,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "26e25730712098d5fa0829af3f634145c4ccb315",
+        "FileName": "main.go",
+        "Path": "cmd/manager/main.go",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "c36a3b002dc447643c6c9cfe28d6f1fa449163b7",
+        "FileName": "rocketmq_v1alpha1_topictransfer_crd.yaml",
+        "Path": "deploy/crds/rocketmq_v1alpha1_topictransfer_crd.yaml",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 48,
+        "Deletions": 0,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "a27f75f94d65109467c9d150fed140e7ef3833bc",
+        "FileName": "role.yaml",
+        "Path": "deploy/role.yaml",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "80e8772bb34cfdc5cbd1b131bc9078eab0d554e4",
+        "FileName": "rocketmq_v1alpha1_topictransfer_cr.yaml",
+        "Path": "example/rocketmq_v1alpha1_topictransfer_cr.yaml",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 26,
+        "Deletions": 0,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "51349d86f156f65bde3bb15e614794350722ab2b",
+        "FileName": "go.mod",
+        "Path": "go.mod",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "15ef3b17d57e462be9c460041836a034c5e0b3df",
+        "FileName": "install-operator.sh",
+        "Path": "install-operator.sh",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "33a478dff83c53ef68d523046353f5cd56e3c4cf",
+        "FileName": "addtoscheme_rocketmq_v1alpha1.go",
+        "Path": "pkg/apis/addtoscheme_rocketmq_v1alpha1.go",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "82a7e37e5c2f395033a793d8e3f93283656bf815",
+        "FileName": "topictransfer_types.go",
+        "Path": "pkg/apis/rocketmq/v1alpha1/topictransfer_types.go",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 74,
+        "Deletions": 0,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "1f64d5463f9da1bc45be24e3c972a538a7e98864",
+        "FileName": "constants.go",
+        "Path": "pkg/constants/constants.go",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 13,
+        "Deletions": 3,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "e04c18182dc533e8943ec8bbdf92c4ebb17fb796",
+        "FileName": "add_broker.go",
+        "Path": "pkg/controller/add_broker.go",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "51b856081e7957c1604d328ddb0a3868d5590ed1",
+        "FileName": "add_nameservice.go",
+        "Path": "pkg/controller/add_nameservice.go",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "8d9bbc37b824308c97c337f4496dfde55105c993",
+        "FileName": "add_topictransfer.go",
+        "Path": "pkg/controller/add_topictransfer.go",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 27,
+        "Deletions": 0,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "8d54e73d0c821760d61cf81279ffd7d04332233b",
+        "FileName": "broker_controller.go",
+        "Path": "pkg/controller/broker/broker_controller.go",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 11,
+        "Deletions": 8,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "fc280591c682524a6f2887b507a82ba1a91e5129",
+        "FileName": "broker_controller_test.go",
+        "Path": "pkg/controller/broker/broker_controller_test.go",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "b06083d78564a852eacbdb2df5a975b91210e5a1",
+        "FileName": "nameservice_controller.go",
+        "Path": "pkg/controller/nameservice/nameservice_controller.go",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "abc0f6a3738eb8531ec3b02174d4441bc721a1ce",
+        "FileName": "topictransfer_controller.go",
+        "Path": "pkg/controller/topictransfer/topictransfer_controller.go",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 530,
+        "Deletions": 0,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "f49bb32e79653289589438ae0f96da34583edeea",
+        "FileName": "purge-operator.sh",
+        "Path": "purge-operator.sh",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "8730194e594b77e1e29235d49faffe014d3097b4",
+        "FileName": "memcached_test.go",
+        "Path": "test/e2e/memcached_test.go",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "b8f5d8c21fda5216ecd98584dd8660f541c135e3",
+        "Author": {
+          "name": "\"von gosling\"",
+          "location": "California",
+          "company": "@apache @openmessaging"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T06:39:30Z",
+        "additions": 806,
+        "deletions": 29,
+        "files": [
+          "63bf12f33977cacef754d5ebc5485f9a6b651e07",
+          "26e25730712098d5fa0829af3f634145c4ccb315",
+          "c36a3b002dc447643c6c9cfe28d6f1fa449163b7",
+          "a27f75f94d65109467c9d150fed140e7ef3833bc",
+          "80e8772bb34cfdc5cbd1b131bc9078eab0d554e4",
+          "51349d86f156f65bde3bb15e614794350722ab2b",
+          "15ef3b17d57e462be9c460041836a034c5e0b3df",
+          "33a478dff83c53ef68d523046353f5cd56e3c4cf",
+          "82a7e37e5c2f395033a793d8e3f93283656bf815",
+          "1f64d5463f9da1bc45be24e3c972a538a7e98864",
+          "e04c18182dc533e8943ec8bbdf92c4ebb17fb796",
+          "51b856081e7957c1604d328ddb0a3868d5590ed1",
+          "8d9bbc37b824308c97c337f4496dfde55105c993",
+          "8d54e73d0c821760d61cf81279ffd7d04332233b",
+          "fc280591c682524a6f2887b507a82ba1a91e5129",
+          "b06083d78564a852eacbdb2df5a975b91210e5a1",
+          "abc0f6a3738eb8531ec3b02174d4441bc721a1ce",
+          "f49bb32e79653289589438ae0f96da34583edeea",
+          "8730194e594b77e1e29235d49faffe014d3097b4"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "rocketmq-operator",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T06:04:45Z",
+    "EndDate": "2019-09-25T07:04:45",
+    "Branches": 1,
+    "Forks": 4,
+    "Files": [
+      {
+        "Sha": "63bf12f33977cacef754d5ebc5485f9a6b651e07",
+        "FileName": "README.md",
+        "Path": "README.md",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 58,
+        "Deletions": 1,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "26e25730712098d5fa0829af3f634145c4ccb315",
+        "FileName": "main.go",
+        "Path": "cmd/manager/main.go",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "c36a3b002dc447643c6c9cfe28d6f1fa449163b7",
+        "FileName": "rocketmq_v1alpha1_topictransfer_crd.yaml",
+        "Path": "deploy/crds/rocketmq_v1alpha1_topictransfer_crd.yaml",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 48,
+        "Deletions": 0,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "a27f75f94d65109467c9d150fed140e7ef3833bc",
+        "FileName": "role.yaml",
+        "Path": "deploy/role.yaml",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "80e8772bb34cfdc5cbd1b131bc9078eab0d554e4",
+        "FileName": "rocketmq_v1alpha1_topictransfer_cr.yaml",
+        "Path": "example/rocketmq_v1alpha1_topictransfer_cr.yaml",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 26,
+        "Deletions": 0,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "51349d86f156f65bde3bb15e614794350722ab2b",
+        "FileName": "go.mod",
+        "Path": "go.mod",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "15ef3b17d57e462be9c460041836a034c5e0b3df",
+        "FileName": "install-operator.sh",
+        "Path": "install-operator.sh",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "33a478dff83c53ef68d523046353f5cd56e3c4cf",
+        "FileName": "addtoscheme_rocketmq_v1alpha1.go",
+        "Path": "pkg/apis/addtoscheme_rocketmq_v1alpha1.go",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "82a7e37e5c2f395033a793d8e3f93283656bf815",
+        "FileName": "topictransfer_types.go",
+        "Path": "pkg/apis/rocketmq/v1alpha1/topictransfer_types.go",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 74,
+        "Deletions": 0,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "1f64d5463f9da1bc45be24e3c972a538a7e98864",
+        "FileName": "constants.go",
+        "Path": "pkg/constants/constants.go",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 13,
+        "Deletions": 3,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "e04c18182dc533e8943ec8bbdf92c4ebb17fb796",
+        "FileName": "add_broker.go",
+        "Path": "pkg/controller/add_broker.go",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "51b856081e7957c1604d328ddb0a3868d5590ed1",
+        "FileName": "add_nameservice.go",
+        "Path": "pkg/controller/add_nameservice.go",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "8d9bbc37b824308c97c337f4496dfde55105c993",
+        "FileName": "add_topictransfer.go",
+        "Path": "pkg/controller/add_topictransfer.go",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 27,
+        "Deletions": 0,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "8d54e73d0c821760d61cf81279ffd7d04332233b",
+        "FileName": "broker_controller.go",
+        "Path": "pkg/controller/broker/broker_controller.go",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 11,
+        "Deletions": 8,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "fc280591c682524a6f2887b507a82ba1a91e5129",
+        "FileName": "broker_controller_test.go",
+        "Path": "pkg/controller/broker/broker_controller_test.go",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "b06083d78564a852eacbdb2df5a975b91210e5a1",
+        "FileName": "nameservice_controller.go",
+        "Path": "pkg/controller/nameservice/nameservice_controller.go",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "abc0f6a3738eb8531ec3b02174d4441bc721a1ce",
+        "FileName": "topictransfer_controller.go",
+        "Path": "pkg/controller/topictransfer/topictransfer_controller.go",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 530,
+        "Deletions": 0,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "f49bb32e79653289589438ae0f96da34583edeea",
+        "FileName": "purge-operator.sh",
+        "Path": "purge-operator.sh",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      },
+      {
+        "Sha": "8730194e594b77e1e29235d49faffe014d3097b4",
+        "FileName": "memcached_test.go",
+        "Path": "test/e2e/memcached_test.go",
+        "DateUpdated": "2019-09-25T06:39:30Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "b8f5d8c21fda5216ecd98584dd8660f541c135e3"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "b8f5d8c21fda5216ecd98584dd8660f541c135e3",
+        "Author": {
+          "name": "\"von gosling\"",
+          "location": "California",
+          "company": "@apache @openmessaging"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T06:39:30Z",
+        "additions": 806,
+        "deletions": 29,
+        "files": [
+          "63bf12f33977cacef754d5ebc5485f9a6b651e07",
+          "26e25730712098d5fa0829af3f634145c4ccb315",
+          "c36a3b002dc447643c6c9cfe28d6f1fa449163b7",
+          "a27f75f94d65109467c9d150fed140e7ef3833bc",
+          "80e8772bb34cfdc5cbd1b131bc9078eab0d554e4",
+          "51349d86f156f65bde3bb15e614794350722ab2b",
+          "15ef3b17d57e462be9c460041836a034c5e0b3df",
+          "33a478dff83c53ef68d523046353f5cd56e3c4cf",
+          "82a7e37e5c2f395033a793d8e3f93283656bf815",
+          "1f64d5463f9da1bc45be24e3c972a538a7e98864",
+          "e04c18182dc533e8943ec8bbdf92c4ebb17fb796",
+          "51b856081e7957c1604d328ddb0a3868d5590ed1",
+          "8d9bbc37b824308c97c337f4496dfde55105c993",
+          "8d54e73d0c821760d61cf81279ffd7d04332233b",
+          "fc280591c682524a6f2887b507a82ba1a91e5129",
+          "b06083d78564a852eacbdb2df5a975b91210e5a1",
+          "abc0f6a3738eb8531ec3b02174d4441bc721a1ce",
+          "f49bb32e79653289589438ae0f96da34583edeea",
+          "8730194e594b77e1e29235d49faffe014d3097b4"
+        ]
+      }
+    ]
+  }
+]

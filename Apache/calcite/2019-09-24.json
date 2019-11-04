@@ -1,0 +1,187 @@
+[
+  {
+    "RepositoryName": "calcite",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T06:46:55Z",
+    "EndDate": "2019-09-24T07:46:55",
+    "Branches": 31,
+    "Forks": 933,
+    "Files": [
+      {
+        "Sha": "27cd0df72fc9d4ed4e4ad2bbcc42777d41ccd405",
+        "FileName": "Calc.java",
+        "Path": "core/src/main/java/org/apache/calcite/rel/core/Calc.java",
+        "DateUpdated": "2019-09-24T06:59:33Z",
+        "Additions": 17,
+        "Deletions": 5,
+        "Commits": [
+          "be01394210102ea83dc83f95ce5a59c60525b8d3"
+        ]
+      },
+      {
+        "Sha": "f3edfb60dc81334b75a91066aa5989512ec21be5",
+        "FileName": "RexShuttleTest.java",
+        "Path": "core/src/test/java/org/apache/calcite/test/RexShuttleTest.java",
+        "DateUpdated": "2019-09-24T06:59:33Z",
+        "Additions": 60,
+        "Deletions": 0,
+        "Commits": [
+          "be01394210102ea83dc83f95ce5a59c60525b8d3"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "be01394210102ea83dc83f95ce5a59c60525b8d3",
+        "Author": {
+          "name": "\"Jin Xing\"",
+          "location": "Alibaba, Ant Financial, Beijing"
+        },
+        "Commitor": {
+          "name": "\"Haisheng Yuan\"",
+          "location": "Bellevue, WA",
+          "company": "Alibaba Group, Inc."
+        },
+        "Date": "2019-09-24T06:59:33Z",
+        "additions": 77,
+        "deletions": 5,
+        "files": [
+          "27cd0df72fc9d4ed4e4ad2bbcc42777d41ccd405",
+          "f3edfb60dc81334b75a91066aa5989512ec21be5"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "calcite",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T21:46:34Z",
+    "EndDate": "2019-09-24T22:46:34",
+    "Branches": 31,
+    "Forks": 934,
+    "Files": [
+      {
+        "Sha": "6a522a7eaac9331f6bf0bfbb404a828367f1f63f",
+        "FileName": "README",
+        "Path": "README",
+        "DateUpdated": "2019-09-24T22:10:24Z",
+        "Additions": 0,
+        "Deletions": 2,
+        "Commits": [
+          "47a626d2687e5efc3e8a281a2e2d2b9985d306ef"
+        ]
+      },
+      {
+        "Sha": "7a0f9716a10c6c32089bccd3df213e773b137766",
+        "FileName": "README.md",
+        "Path": "README.md",
+        "DateUpdated": "2019-09-24T22:10:24Z",
+        "Additions": 10,
+        "Deletions": 0,
+        "Commits": [
+          "47a626d2687e5efc3e8a281a2e2d2b9985d306ef"
+        ]
+      },
+      {
+        "Sha": "7035a00f9a5d60ff446bf69ed14782ef51aff944",
+        "FileName": "howto.md",
+        "Path": "site/_docs/howto.md",
+        "DateUpdated": "2019-09-24T22:10:24Z",
+        "Additions": 27,
+        "Deletions": 14,
+        "Commits": [
+          "47a626d2687e5efc3e8a281a2e2d2b9985d306ef"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "47a626d2687e5efc3e8a281a2e2d2b9985d306ef",
+        "Author": {
+          "name": "\"Stamatis Zampetakis\"",
+          "location": "Paris",
+          "company": "TIBCO EBX"
+        },
+        "Commitor": {
+          "name": "\"Stamatis Zampetakis\"",
+          "location": "Paris",
+          "company": "TIBCO EBX"
+        },
+        "Date": "2019-09-24T22:10:24Z",
+        "additions": 37,
+        "deletions": 16,
+        "files": [
+          "6a522a7eaac9331f6bf0bfbb404a828367f1f63f",
+          "7a0f9716a10c6c32089bccd3df213e773b137766",
+          "7035a00f9a5d60ff446bf69ed14782ef51aff944"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "calcite",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T22:03:04Z",
+    "EndDate": "2019-09-24T23:03:04",
+    "Branches": 31,
+    "Forks": 934,
+    "Files": [
+      {
+        "Sha": "6a522a7eaac9331f6bf0bfbb404a828367f1f63f",
+        "FileName": "README",
+        "Path": "README",
+        "DateUpdated": "2019-09-24T22:10:24Z",
+        "Additions": 0,
+        "Deletions": 2,
+        "Commits": [
+          "47a626d2687e5efc3e8a281a2e2d2b9985d306ef"
+        ]
+      },
+      {
+        "Sha": "7a0f9716a10c6c32089bccd3df213e773b137766",
+        "FileName": "README.md",
+        "Path": "README.md",
+        "DateUpdated": "2019-09-24T22:10:24Z",
+        "Additions": 10,
+        "Deletions": 0,
+        "Commits": [
+          "47a626d2687e5efc3e8a281a2e2d2b9985d306ef"
+        ]
+      },
+      {
+        "Sha": "7035a00f9a5d60ff446bf69ed14782ef51aff944",
+        "FileName": "howto.md",
+        "Path": "site/_docs/howto.md",
+        "DateUpdated": "2019-09-24T22:10:24Z",
+        "Additions": 27,
+        "Deletions": 14,
+        "Commits": [
+          "47a626d2687e5efc3e8a281a2e2d2b9985d306ef"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "47a626d2687e5efc3e8a281a2e2d2b9985d306ef",
+        "Author": {
+          "name": "\"Stamatis Zampetakis\"",
+          "location": "Paris",
+          "company": "TIBCO EBX"
+        },
+        "Commitor": {
+          "name": "\"Stamatis Zampetakis\"",
+          "location": "Paris",
+          "company": "TIBCO EBX"
+        },
+        "Date": "2019-09-24T22:10:24Z",
+        "additions": 37,
+        "deletions": 16,
+        "files": [
+          "6a522a7eaac9331f6bf0bfbb404a828367f1f63f",
+          "7a0f9716a10c6c32089bccd3df213e773b137766",
+          "7035a00f9a5d60ff446bf69ed14782ef51aff944"
+        ]
+      }
+    ]
+  }
+]

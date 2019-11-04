@@ -1,0 +1,122 @@
+[
+  {
+    "RepositoryName": "helix",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T20:46:36Z",
+    "EndDate": "2019-09-24T21:46:36",
+    "Branches": 20,
+    "Forks": 130,
+    "Files": [
+      {
+        "Sha": "d14cec9546565d031f46e10e81971684ce4382be",
+        "FileName": "helix-style-intellij.xml",
+        "Path": "helix-style-intellij.xml",
+        "DateUpdated": "2019-09-24T21:46:28Z",
+        "Additions": 387,
+        "Deletions": 0,
+        "Commits": [
+          "690e6301c0629c839c58697645ddd6fe9bf5a9ed"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "690e6301c0629c839c58697645ddd6fe9bf5a9ed",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Jiajun Wang\"",
+          "location": "Sunnyvale, CA",
+          "company": "LinkedIn"
+        },
+        "Date": "2019-09-24T21:46:28Z",
+        "additions": 387,
+        "deletions": 0,
+        "files": [
+          "d14cec9546565d031f46e10e81971684ce4382be"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "helix",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T21:03:11Z",
+    "EndDate": "2019-09-24T22:03:11",
+    "Branches": 20,
+    "Forks": 130,
+    "Files": [
+      {
+        "Sha": "d14cec9546565d031f46e10e81971684ce4382be",
+        "FileName": "helix-style-intellij.xml",
+        "Path": "helix-style-intellij.xml",
+        "DateUpdated": "2019-09-24T21:46:28Z",
+        "Additions": 387,
+        "Deletions": 0,
+        "Commits": [
+          "690e6301c0629c839c58697645ddd6fe9bf5a9ed"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "690e6301c0629c839c58697645ddd6fe9bf5a9ed",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Jiajun Wang\"",
+          "location": "Sunnyvale, CA",
+          "company": "LinkedIn"
+        },
+        "Date": "2019-09-24T21:46:28Z",
+        "additions": 387,
+        "deletions": 0,
+        "files": [
+          "d14cec9546565d031f46e10e81971684ce4382be"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "helix",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T21:46:20Z",
+    "EndDate": "2019-09-24T22:46:20",
+    "Branches": 20,
+    "Forks": 130,
+    "Files": [
+      {
+        "Sha": "d14cec9546565d031f46e10e81971684ce4382be",
+        "FileName": "helix-style-intellij.xml",
+        "Path": "helix-style-intellij.xml",
+        "DateUpdated": "2019-09-24T21:46:28Z",
+        "Additions": 387,
+        "Deletions": 0,
+        "Commits": [
+          "690e6301c0629c839c58697645ddd6fe9bf5a9ed"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "690e6301c0629c839c58697645ddd6fe9bf5a9ed",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Jiajun Wang\"",
+          "location": "Sunnyvale, CA",
+          "company": "LinkedIn"
+        },
+        "Date": "2019-09-24T21:46:28Z",
+        "additions": 387,
+        "deletions": 0,
+        "files": [
+          "d14cec9546565d031f46e10e81971684ce4382be"
+        ]
+      }
+    ]
+  }
+]

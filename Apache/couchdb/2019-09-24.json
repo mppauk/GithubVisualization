@@ -1,0 +1,146 @@
+[
+  {
+    "RepositoryName": "couchdb",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T01:02:01Z",
+    "EndDate": "2019-09-24T02:02:01",
+    "Branches": 164,
+    "Forks": 854,
+    "Files": [
+      {
+        "Sha": "512e45c44f7c0f7266346dfea0b6e159ce96e87d",
+        "FileName": "reltool.config",
+        "Path": "rel/reltool.config",
+        "DateUpdated": "2019-09-24T01:56:24Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a5b30e7828f16eb524eb58b53b9d0f48175fefcf"
+        ]
+      },
+      {
+        "Sha": "9ca09ab119c114711ea5cdbf2be17056e7377b1b",
+        "FileName": "version.mk",
+        "Path": "version.mk",
+        "DateUpdated": "2019-09-24T01:56:24Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "a5b30e7828f16eb524eb58b53b9d0f48175fefcf"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a5b30e7828f16eb524eb58b53b9d0f48175fefcf",
+        "Author": {
+          "name": "\"Joan Touzet\"",
+          "location": "Toronto, ON, Canada"
+        },
+        "Commitor": {
+          "name": "\"Joan Touzet\"",
+          "location": "Toronto, ON, Canada"
+        },
+        "Date": "2019-09-24T01:56:24Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "512e45c44f7c0f7266346dfea0b6e159ce96e87d",
+          "9ca09ab119c114711ea5cdbf2be17056e7377b1b"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "couchdb",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T01:46:13Z",
+    "EndDate": "2019-09-24T02:46:13",
+    "Branches": 164,
+    "Forks": 854,
+    "Files": [
+      {
+        "Sha": "512e45c44f7c0f7266346dfea0b6e159ce96e87d",
+        "FileName": "reltool.config",
+        "Path": "rel/reltool.config",
+        "DateUpdated": "2019-09-24T01:56:24Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a5b30e7828f16eb524eb58b53b9d0f48175fefcf"
+        ]
+      },
+      {
+        "Sha": "9ca09ab119c114711ea5cdbf2be17056e7377b1b",
+        "FileName": "version.mk",
+        "Path": "version.mk",
+        "DateUpdated": "2019-09-24T01:56:24Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "a5b30e7828f16eb524eb58b53b9d0f48175fefcf"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a5b30e7828f16eb524eb58b53b9d0f48175fefcf",
+        "Author": {
+          "name": "\"Joan Touzet\"",
+          "location": "Toronto, ON, Canada"
+        },
+        "Commitor": {
+          "name": "\"Joan Touzet\"",
+          "location": "Toronto, ON, Canada"
+        },
+        "Date": "2019-09-24T01:56:24Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "512e45c44f7c0f7266346dfea0b6e159ce96e87d",
+          "9ca09ab119c114711ea5cdbf2be17056e7377b1b"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "couchdb",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T20:46:00Z",
+    "EndDate": "2019-09-24T21:46:00",
+    "Branches": 163,
+    "Forks": 854,
+    "Files": [
+      {
+        "Sha": "0d3d86d1a2a675c71e0627dfb19d31b31bd338dd",
+        "FileName": "chttpd_view.erl",
+        "Path": "src/chttpd/src/chttpd_view.erl",
+        "DateUpdated": "2019-09-24T20:58:42Z",
+        "Additions": 14,
+        "Deletions": 12,
+        "Commits": [
+          "7196a3c4b721158045af36e592ffdc7cc50abb3d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "7196a3c4b721158045af36e592ffdc7cc50abb3d",
+        "Author": {
+          "name": "\"Adam Kocoloski\"",
+          "location": "Cambridge, MA",
+          "company": "@IBM"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T20:58:42Z",
+        "additions": 14,
+        "deletions": 12,
+        "files": [
+          "0d3d86d1a2a675c71e0627dfb19d31b31bd338dd"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "RepositoryName": "airavata-django-portal",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T12:04:16Z",
+    "EndDate": "2019-09-23T13:04:16",
+    "Branches": 4,
+    "Forks": 19,
+    "Files": [
+      {
+        "Sha": "f217d68aa77d8943137fea90054eb087d8fa9f34",
+        "FileName": "gateways2019_tutorial.md",
+        "Path": "docs/tutorial/gateways2019_tutorial.md",
+        "DateUpdated": "2019-09-23T13:00:14Z",
+        "Additions": 6,
+        "Deletions": 2,
+        "Commits": [
+          "a8cadbe6188db477dca3029e21ec57906441d3ce"
+        ]
+      },
+      {
+        "Sha": "b2ddc75a21e0e595a61bfe9bd951770f7c4ff976",
+        "FileName": "gateways2019_tutorial.md",
+        "Path": "docs/tutorial/gateways2019_tutorial.md",
+        "DateUpdated": "2019-09-23T12:44:58Z",
+        "Additions": 24,
+        "Deletions": 4,
+        "Commits": [
+          "a5144c58c0600f482a9f9b30bdf527af8076d09d"
+        ]
+      },
+      {
+        "Sha": "9f8e73cc3aabe33ca293569286aa26c4eefc7b6a",
+        "FileName": "custom-app-menu.png",
+        "Path": "docs/tutorial/screenshots/gateways19/custom-app-menu.png",
+        "DateUpdated": "2019-09-23T12:44:58Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "a5144c58c0600f482a9f9b30bdf527af8076d09d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a8cadbe6188db477dca3029e21ec57906441d3ce",
+        "Author": {
+          "name": "\"Marcus Christie\""
+        },
+        "Commitor": {
+          "name": "\"Marcus Christie\""
+        },
+        "Date": "2019-09-23T13:00:14Z",
+        "additions": 6,
+        "deletions": 2,
+        "files": [
+          "f217d68aa77d8943137fea90054eb087d8fa9f34"
+        ]
+      },
+      {
+        "sha": "a5144c58c0600f482a9f9b30bdf527af8076d09d",
+        "Author": {
+          "name": "\"Marcus Christie\""
+        },
+        "Commitor": {
+          "name": "\"Marcus Christie\""
+        },
+        "Date": "2019-09-23T12:44:58Z",
+        "additions": 24,
+        "deletions": 4,
+        "files": [
+          "b2ddc75a21e0e595a61bfe9bd951770f7c4ff976",
+          "9f8e73cc3aabe33ca293569286aa26c4eefc7b6a"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "airavata-django-portal",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T13:04:08Z",
+    "EndDate": "2019-09-23T14:04:08",
+    "Branches": 4,
+    "Forks": 19,
+    "Files": [
+      {
+        "Sha": "cdcf03f2eb2a13eb36e266c485c7f432fc3110ae",
+        "FileName": "data_products_helper.py",
+        "Path": "django_airavata/apps/api/data_products_helper.py",
+        "DateUpdated": "2019-09-23T13:55:52Z",
+        "Additions": 0,
+        "Deletions": 2,
+        "Commits": [
+          "50a9ce39b9503eab174356714a9b366e33718284"
+        ]
+      },
+      {
+        "Sha": "6bef1364c849a0a544243a637cd39469220da858",
+        "FileName": "gateways2019_tutorial.md",
+        "Path": "docs/tutorial/gateways2019_tutorial.md",
+        "DateUpdated": "2019-09-23T13:38:49Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "ce6f934c5d105f0edfb7e634bace3d4945a04f5d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "50a9ce39b9503eab174356714a9b366e33718284",
+        "Author": {
+          "name": "\"Marcus Christie\""
+        },
+        "Commitor": {
+          "name": "\"Marcus Christie\""
+        },
+        "Date": "2019-09-23T13:55:52Z",
+        "additions": 0,
+        "deletions": 2,
+        "files": [
+          "cdcf03f2eb2a13eb36e266c485c7f432fc3110ae"
+        ]
+      },
+      {
+        "sha": "ce6f934c5d105f0edfb7e634bace3d4945a04f5d",
+        "Author": {
+          "name": "\"Marcus Christie\""
+        },
+        "Commitor": {
+          "name": "\"Marcus Christie\""
+        },
+        "Date": "2019-09-23T13:38:49Z",
+        "additions": 2,
+        "deletions": 1,
+        "files": [
+          "6bef1364c849a0a544243a637cd39469220da858"
+        ]
+      }
+    ]
+  }
+]

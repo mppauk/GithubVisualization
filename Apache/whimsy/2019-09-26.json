@@ -1,0 +1,156 @@
+[
+  {
+    "RepositoryName": "whimsy",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T23:03:32Z",
+    "EndDate": "2019-09-26T00:03:32",
+    "Branches": 19,
+    "Forks": 36,
+    "Files": [
+      {
+        "Sha": "7c6e9d6763fc9fddaff1a64574f8b18068de18b4",
+        "FileName": "subscribe.cgi",
+        "Path": "www/committers/subscribe.cgi",
+        "DateUpdated": "2019-09-25T23:19:26Z",
+        "Additions": 29,
+        "Deletions": 18,
+        "Commits": [
+          "f1c1adeb3540b4854b9f32101668cc8b9fa01b5a"
+        ]
+      },
+      {
+        "Sha": "24d375699cf432dd4e561255d2bed12ffb6f9dd0",
+        "FileName": "mail.rb",
+        "Path": "lib/whimsy/asf/mail.rb",
+        "DateUpdated": "2019-09-25T23:18:42Z",
+        "Additions": 40,
+        "Deletions": 49,
+        "Commits": [
+          "32d3023fdba64b83663b08bbe2539f23ef5338d5"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "f1c1adeb3540b4854b9f32101668cc8b9fa01b5a",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-25T23:19:26Z",
+        "additions": 29,
+        "deletions": 18,
+        "files": [
+          "7c6e9d6763fc9fddaff1a64574f8b18068de18b4"
+        ]
+      },
+      {
+        "sha": "32d3023fdba64b83663b08bbe2539f23ef5338d5",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-25T23:18:42Z",
+        "additions": 40,
+        "deletions": 49,
+        "files": [
+          "24d375699cf432dd4e561255d2bed12ffb6f9dd0"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "whimsy",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T01:03:46Z",
+    "EndDate": "2019-09-26T02:03:46",
+    "Branches": 19,
+    "Forks": 36,
+    "Files": [
+      {
+        "Sha": "2775313b8b4cd8e07bbf58e1d82c2aa69212d7b6",
+        "FileName": "list-flags",
+        "Path": "lib/test/subscriptions/list-flags",
+        "DateUpdated": "2019-09-26T01:45:05Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "929d9bf090abb5f4406b32d79d527cac852627b9"
+        ]
+      },
+      {
+        "Sha": "54677018d79c090d8e2da8cd841d40006d2d6c6d",
+        "FileName": "mail.rb",
+        "Path": "lib/whimsy/asf/mail.rb",
+        "DateUpdated": "2019-09-26T01:39:35Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2037e08e6c361972a9603076e4290b9787b54452"
+        ]
+      },
+      {
+        "Sha": "f73dc82fda898949399b6b76ad11c7ade5f7ecad",
+        "FileName": "list-flags",
+        "Path": "lib/test/subscriptions/list-flags",
+        "DateUpdated": "2019-09-26T01:23:39Z",
+        "Additions": 15,
+        "Deletions": 0,
+        "Commits": [
+          "cc482a1cded02f3485fb779a1375d5d5b5625bcd"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "929d9bf090abb5f4406b32d79d527cac852627b9",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-26T01:45:05Z",
+        "additions": 2,
+        "deletions": 0,
+        "files": [
+          "2775313b8b4cd8e07bbf58e1d82c2aa69212d7b6"
+        ]
+      },
+      {
+        "sha": "2037e08e6c361972a9603076e4290b9787b54452",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-26T01:39:35Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "54677018d79c090d8e2da8cd841d40006d2d6c6d"
+        ]
+      },
+      {
+        "sha": "cc482a1cded02f3485fb779a1375d5d5b5625bcd",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-26T01:23:39Z",
+        "additions": 15,
+        "deletions": 0,
+        "files": [
+          "f73dc82fda898949399b6b76ad11c7ade5f7ecad"
+        ]
+      }
+    ]
+  }
+]

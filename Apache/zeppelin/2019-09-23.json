@@ -1,0 +1,233 @@
+[
+  {
+    "RepositoryName": "zeppelin",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T04:02:48Z",
+    "EndDate": "2019-09-23T05:02:48",
+    "Branches": 12,
+    "Forks": 2153,
+    "Files": [
+      {
+        "Sha": "121d2e186bcfda88adebba596859a6bba5696ad0",
+        "FileName": "LICENSE",
+        "Path": "LICENSE",
+        "DateUpdated": "2019-09-23T04:45:07Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "0d9239ef333e04e0788dbccfd1d00314b97a4370"
+        ]
+      },
+      {
+        "Sha": "8af5c9e9bbf5c3b6710c41751456bf5fce5043f7",
+        "FileName": "markdown-example-flexmark-parser-extensions.png",
+        "Path": "docs/assets/themes/zeppelin/img/docs-img/markdown-example-flexmark-parser-extensions.png",
+        "DateUpdated": "2019-09-23T04:45:07Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0d9239ef333e04e0788dbccfd1d00314b97a4370"
+        ]
+      },
+      {
+        "Sha": "87f9faa426043c7a6527e0e2edcc99a6108dfc1b",
+        "FileName": "markdown-example-flexmark-parser.png",
+        "Path": "docs/assets/themes/zeppelin/img/docs-img/markdown-example-flexmark-parser.png",
+        "DateUpdated": "2019-09-23T04:45:07Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0d9239ef333e04e0788dbccfd1d00314b97a4370"
+        ]
+      },
+      {
+        "Sha": "e06c563e47a4ab0cf95fd2a20029e7832d4db34d",
+        "FileName": "markdown.md",
+        "Path": "docs/interpreter/markdown.md",
+        "DateUpdated": "2019-09-23T04:45:07Z",
+        "Additions": 12,
+        "Deletions": 8,
+        "Commits": [
+          "0d9239ef333e04e0788dbccfd1d00314b97a4370"
+        ]
+      },
+      {
+        "Sha": "24f5dce2a19373b221fbf6e2502c1c07606156d2",
+        "FileName": "README.md",
+        "Path": "markdown/README.md",
+        "DateUpdated": "2019-09-23T04:45:07Z",
+        "Additions": 34,
+        "Deletions": 0,
+        "Commits": [
+          "0d9239ef333e04e0788dbccfd1d00314b97a4370"
+        ]
+      },
+      {
+        "Sha": "772035343a784de15e42b3385cb696678166acfd",
+        "FileName": "pom.xml",
+        "Path": "markdown/pom.xml",
+        "DateUpdated": "2019-09-23T04:45:07Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "0d9239ef333e04e0788dbccfd1d00314b97a4370"
+        ]
+      },
+      {
+        "Sha": "f4de944d1f7a70dd1cb1321be354e6a3b6bd1dd5",
+        "FileName": "FlexmarkParser.java",
+        "Path": "markdown/src/main/java/org/apache/zeppelin/markdown/FlexmarkParser.java",
+        "DateUpdated": "2019-09-23T04:45:07Z",
+        "Additions": 73,
+        "Deletions": 0,
+        "Commits": [
+          "0d9239ef333e04e0788dbccfd1d00314b97a4370"
+        ]
+      },
+      {
+        "Sha": "99aaac20de94395fe9bc3de21f39f289a6ffe57d",
+        "FileName": "Markdown.java",
+        "Path": "markdown/src/main/java/org/apache/zeppelin/markdown/Markdown.java",
+        "DateUpdated": "2019-09-23T04:45:07Z",
+        "Additions": 11,
+        "Deletions": 1,
+        "Commits": [
+          "0d9239ef333e04e0788dbccfd1d00314b97a4370"
+        ]
+      },
+      {
+        "Sha": "4b071341889450a003440c058eff0e4afd9bc714",
+        "FileName": "UMLBlockQuote.java",
+        "Path": "markdown/src/main/java/org/apache/zeppelin/markdown/UMLBlockQuote.java",
+        "DateUpdated": "2019-09-23T04:45:07Z",
+        "Additions": 118,
+        "Deletions": 0,
+        "Commits": [
+          "0d9239ef333e04e0788dbccfd1d00314b97a4370"
+        ]
+      },
+      {
+        "Sha": "9d56856fee982acc308f4dc228247bc0afdc70c5",
+        "FileName": "UMLBlockQuoteParser.java",
+        "Path": "markdown/src/main/java/org/apache/zeppelin/markdown/UMLBlockQuoteParser.java",
+        "DateUpdated": "2019-09-23T04:45:07Z",
+        "Additions": 187,
+        "Deletions": 0,
+        "Commits": [
+          "0d9239ef333e04e0788dbccfd1d00314b97a4370"
+        ]
+      },
+      {
+        "Sha": "4956a317b3000dd9d939d5602b7c1ee3122b8592",
+        "FileName": "UMLExtension.java",
+        "Path": "markdown/src/main/java/org/apache/zeppelin/markdown/UMLExtension.java",
+        "DateUpdated": "2019-09-23T04:45:07Z",
+        "Additions": 57,
+        "Deletions": 0,
+        "Commits": [
+          "0d9239ef333e04e0788dbccfd1d00314b97a4370"
+        ]
+      },
+      {
+        "Sha": "39406f973e7a4547f7de013120373c9f43645f84",
+        "FileName": "UMLNodeRenderer.java",
+        "Path": "markdown/src/main/java/org/apache/zeppelin/markdown/UMLNodeRenderer.java",
+        "DateUpdated": "2019-09-23T04:45:07Z",
+        "Additions": 231,
+        "Deletions": 0,
+        "Commits": [
+          "0d9239ef333e04e0788dbccfd1d00314b97a4370"
+        ]
+      },
+      {
+        "Sha": "da4b59ba86a1e166c738e0157e7ffc539d13999b",
+        "FileName": "interpreter-setting.json",
+        "Path": "markdown/src/main/resources/interpreter-setting.json",
+        "DateUpdated": "2019-09-23T04:45:07Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0d9239ef333e04e0788dbccfd1d00314b97a4370"
+        ]
+      },
+      {
+        "Sha": "a80337e765c72142444dcd3be57d8784779f4ffc",
+        "FileName": "FlexmarkParserTest.java",
+        "Path": "markdown/src/test/java/org/apache/zeppelin/markdown/FlexmarkParserTest.java",
+        "DateUpdated": "2019-09-23T04:45:07Z",
+        "Additions": 225,
+        "Deletions": 0,
+        "Commits": [
+          "0d9239ef333e04e0788dbccfd1d00314b97a4370"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "0d9239ef333e04e0788dbccfd1d00314b97a4370",
+        "Author": {
+          "name": "null"
+        },
+        "Date": "2019-09-23T04:45:07Z",
+        "additions": 959,
+        "deletions": 11,
+        "files": [
+          "121d2e186bcfda88adebba596859a6bba5696ad0",
+          "8af5c9e9bbf5c3b6710c41751456bf5fce5043f7",
+          "87f9faa426043c7a6527e0e2edcc99a6108dfc1b",
+          "e06c563e47a4ab0cf95fd2a20029e7832d4db34d",
+          "24f5dce2a19373b221fbf6e2502c1c07606156d2",
+          "772035343a784de15e42b3385cb696678166acfd",
+          "f4de944d1f7a70dd1cb1321be354e6a3b6bd1dd5",
+          "99aaac20de94395fe9bc3de21f39f289a6ffe57d",
+          "4b071341889450a003440c058eff0e4afd9bc714",
+          "9d56856fee982acc308f4dc228247bc0afdc70c5",
+          "4956a317b3000dd9d939d5602b7c1ee3122b8592",
+          "39406f973e7a4547f7de013120373c9f43645f84",
+          "da4b59ba86a1e166c738e0157e7ffc539d13999b",
+          "a80337e765c72142444dcd3be57d8784779f4ffc"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "zeppelin",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T16:03:00Z",
+    "EndDate": "2019-09-23T17:03:00",
+    "Branches": 12,
+    "Forks": 2154,
+    "Files": [
+      {
+        "Sha": "bc3bc04bd1865186ccb87a2c3503a810f3609fe8",
+        "FileName": "NotebookRestApiTest.java",
+        "Path": "zeppelin-server/src/test/java/org/apache/zeppelin/rest/NotebookRestApiTest.java",
+        "DateUpdated": "2019-09-23T16:44:42Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "df5933d7f99f6d647f23b8e1ed9294a8b5cb563e"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "df5933d7f99f6d647f23b8e1ed9294a8b5cb563e",
+        "Author": {
+          "name": "\"Lee moon soo\"",
+          "company": "ZEPL"
+        },
+        "Commitor": {
+          "name": "\"Lee moon soo\"",
+          "company": "ZEPL"
+        },
+        "Date": "2019-09-23T16:44:42Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "bc3bc04bd1865186ccb87a2c3503a810f3609fe8"
+        ]
+      }
+    ]
+  }
+]

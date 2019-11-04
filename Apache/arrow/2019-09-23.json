@@ -1,0 +1,224 @@
+[
+  {
+    "RepositoryName": "arrow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T01:05:59Z",
+    "EndDate": "2019-09-23T02:05:59",
+    "Branches": 6,
+    "Forks": 1119,
+    "Files": [
+      {
+        "Sha": "015ba987b5da118d08c8255f298cfbf127652928",
+        "FileName": "rust-build-main.bat",
+        "Path": "ci/rust-build-main.bat",
+        "DateUpdated": "2019-09-23T02:03:06Z",
+        "Additions": 10,
+        "Deletions": 2,
+        "Commits": [
+          "fd8f628bddb5e22b5dbe084130c98b9c3e2e6219"
+        ]
+      },
+      {
+        "Sha": "0f6f619e32e02bf58670344544dfa7f074ec472a",
+        "FileName": "travis_script_rust.sh",
+        "Path": "ci/travis_script_rust.sh",
+        "DateUpdated": "2019-09-23T02:03:06Z",
+        "Additions": 7,
+        "Deletions": 2,
+        "Commits": [
+          "fd8f628bddb5e22b5dbe084130c98b9c3e2e6219"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "fd8f628bddb5e22b5dbe084130c98b9c3e2e6219",
+        "Author": {
+          "name": "\"Andy Grove\"",
+          "location": "Broomfield, CO",
+          "company": "@RMS "
+        },
+        "Commitor": {
+          "name": "\"Paddy Horan\"",
+          "location": "Poland, OH",
+          "company": "MetLife"
+        },
+        "Date": "2019-09-23T02:03:06Z",
+        "additions": 17,
+        "deletions": 4,
+        "files": [
+          "015ba987b5da118d08c8255f298cfbf127652928",
+          "0f6f619e32e02bf58670344544dfa7f074ec472a"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "arrow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T02:03:04Z",
+    "EndDate": "2019-09-23T03:03:04",
+    "Branches": 6,
+    "Forks": 1119,
+    "Files": [
+      {
+        "Sha": "015ba987b5da118d08c8255f298cfbf127652928",
+        "FileName": "rust-build-main.bat",
+        "Path": "ci/rust-build-main.bat",
+        "DateUpdated": "2019-09-23T02:03:06Z",
+        "Additions": 10,
+        "Deletions": 2,
+        "Commits": [
+          "fd8f628bddb5e22b5dbe084130c98b9c3e2e6219"
+        ]
+      },
+      {
+        "Sha": "0f6f619e32e02bf58670344544dfa7f074ec472a",
+        "FileName": "travis_script_rust.sh",
+        "Path": "ci/travis_script_rust.sh",
+        "DateUpdated": "2019-09-23T02:03:06Z",
+        "Additions": 7,
+        "Deletions": 2,
+        "Commits": [
+          "fd8f628bddb5e22b5dbe084130c98b9c3e2e6219"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "fd8f628bddb5e22b5dbe084130c98b9c3e2e6219",
+        "Author": {
+          "name": "\"Andy Grove\"",
+          "location": "Broomfield, CO",
+          "company": "@RMS "
+        },
+        "Commitor": {
+          "name": "\"Paddy Horan\"",
+          "location": "Poland, OH",
+          "company": "MetLife"
+        },
+        "Date": "2019-09-23T02:03:06Z",
+        "additions": 17,
+        "deletions": 4,
+        "files": [
+          "015ba987b5da118d08c8255f298cfbf127652928",
+          "0f6f619e32e02bf58670344544dfa7f074ec472a"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "arrow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T12:03:48Z",
+    "EndDate": "2019-09-23T13:03:48",
+    "Branches": 6,
+    "Forks": 1119,
+    "Files": [
+      {
+        "Sha": "4c3d75c067f2b6641deb74f0e805b608a7a61c93",
+        "FileName": "filesystem.cc",
+        "Path": "cpp/src/arrow/filesystem/filesystem.cc",
+        "DateUpdated": "2019-09-23T12:42:31Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "06dc8632d8310fd63af244adb832a8576f2881ed"
+        ]
+      },
+      {
+        "Sha": "6e24db03dfee6ee2ac86d28e5d94bbf136888dd9",
+        "FileName": "filesystem.h",
+        "Path": "cpp/src/arrow/filesystem/filesystem.h",
+        "DateUpdated": "2019-09-23T12:42:31Z",
+        "Additions": 9,
+        "Deletions": 0,
+        "Commits": [
+          "06dc8632d8310fd63af244adb832a8576f2881ed"
+        ]
+      },
+      {
+        "Sha": "1edc75c4f3d9ea68432ee9126d40cf0bd7cf5eb9",
+        "FileName": "localfs.cc",
+        "Path": "cpp/src/arrow/filesystem/localfs.cc",
+        "DateUpdated": "2019-09-23T12:42:31Z",
+        "Additions": 5,
+        "Deletions": 4,
+        "Commits": [
+          "06dc8632d8310fd63af244adb832a8576f2881ed"
+        ]
+      },
+      {
+        "Sha": "a6ff7c78d6f8a9ac1dc710db9c363820c70d3fc9",
+        "FileName": "mockfs.cc",
+        "Path": "cpp/src/arrow/filesystem/mockfs.cc",
+        "DateUpdated": "2019-09-23T12:42:31Z",
+        "Additions": 5,
+        "Deletions": 4,
+        "Commits": [
+          "06dc8632d8310fd63af244adb832a8576f2881ed"
+        ]
+      },
+      {
+        "Sha": "136d12e203025bfb1943fefc495b4c1462aa84ee",
+        "FileName": "s3fs.cc",
+        "Path": "cpp/src/arrow/filesystem/s3fs.cc",
+        "DateUpdated": "2019-09-23T12:42:31Z",
+        "Additions": 4,
+        "Deletions": 2,
+        "Commits": [
+          "06dc8632d8310fd63af244adb832a8576f2881ed"
+        ]
+      },
+      {
+        "Sha": "47f423ca2002900d84e8b9abc930b2de9a3604e0",
+        "FileName": "test_util.cc",
+        "Path": "cpp/src/arrow/filesystem/test_util.cc",
+        "DateUpdated": "2019-09-23T12:42:31Z",
+        "Additions": 94,
+        "Deletions": 0,
+        "Commits": [
+          "06dc8632d8310fd63af244adb832a8576f2881ed"
+        ]
+      },
+      {
+        "Sha": "e9c7f708d57ff3882393cfd11a8f043577943a72",
+        "FileName": "test_util.h",
+        "Path": "cpp/src/arrow/filesystem/test_util.h",
+        "DateUpdated": "2019-09-23T12:42:31Z",
+        "Additions": 19,
+        "Deletions": 16,
+        "Commits": [
+          "06dc8632d8310fd63af244adb832a8576f2881ed"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "06dc8632d8310fd63af244adb832a8576f2881ed",
+        "Author": {
+          "name": "\"François Saint-Jacques\"",
+          "location": "Montréal, Québec",
+          "company": "@ursa-labs / @rstudio"
+        },
+        "Commitor": {
+          "name": "\"François Saint-Jacques\"",
+          "location": "Montréal, Québec",
+          "company": "@ursa-labs / @rstudio"
+        },
+        "Date": "2019-09-23T12:42:31Z",
+        "additions": 141,
+        "deletions": 26,
+        "files": [
+          "4c3d75c067f2b6641deb74f0e805b608a7a61c93",
+          "6e24db03dfee6ee2ac86d28e5d94bbf136888dd9",
+          "1edc75c4f3d9ea68432ee9126d40cf0bd7cf5eb9",
+          "a6ff7c78d6f8a9ac1dc710db9c363820c70d3fc9",
+          "136d12e203025bfb1943fefc495b4c1462aa84ee",
+          "47f423ca2002900d84e8b9abc930b2de9a3604e0",
+          "e9c7f708d57ff3882393cfd11a8f043577943a72"
+        ]
+      }
+    ]
+  }
+]

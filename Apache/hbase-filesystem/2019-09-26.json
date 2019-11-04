@@ -1,0 +1,53 @@
+[
+  {
+    "RepositoryName": "hbase-filesystem",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T08:04:57Z",
+    "EndDate": "2019-09-26T09:04:57",
+    "Branches": 1,
+    "Forks": 9,
+    "Files": [
+      {
+        "Sha": "35ce908e071d02f3df07cb0707ab3b8d50d8f37e",
+        "FileName": "ZKTreeLockManager.java",
+        "Path": "hbase-oss/src/main/java/org/apache/hadoop/hbase/oss/sync/ZKTreeLockManager.java",
+        "DateUpdated": "2019-09-26T08:13:30Z",
+        "Additions": 3,
+        "Deletions": 7,
+        "Commits": [
+          "52b9afb6b2ff65611a22cc83e34367bbf01fe6f4"
+        ]
+      },
+      {
+        "Sha": "2b67b965a89a142ee37b00d294908d5f38d3d7c6",
+        "FileName": "TestRecursiveDelete.java",
+        "Path": "hbase-oss/src/test/java/org/apache/hadoop/hbase/oss/TestRecursiveDelete.java",
+        "DateUpdated": "2019-09-26T08:13:30Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "52b9afb6b2ff65611a22cc83e34367bbf01fe6f4"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "52b9afb6b2ff65611a22cc83e34367bbf01fe6f4",
+        "Author": {
+          "name": "\"Wellington Ramos Chevreuil\"",
+          "location": "UK"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T08:13:30Z",
+        "additions": 5,
+        "deletions": 7,
+        "files": [
+          "35ce908e071d02f3df07cb0707ab3b8d50d8f37e",
+          "2b67b965a89a142ee37b00d294908d5f38d3d7c6"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "RepositoryName": "any23",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T03:02:12Z",
+    "EndDate": "2019-09-23T04:02:12",
+    "Branches": 7,
+    "Forks": 46,
+    "Files": [
+      {
+        "Sha": "ae52c0de2c17c3068ac2ee441df62eab92014074",
+        "FileName": "bin.xml",
+        "Path": "cli/src/main/assembly/bin.xml",
+        "DateUpdated": "2019-09-23T03:48:26Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "8bff6e435a81a6271203297bfdc7cecde3fc4227"
+        ]
+      },
+      {
+        "Sha": "85401a5013a09abbc5975c4143f70d6b50c2a604",
+        "FileName": "bin.xml",
+        "Path": "plugins/basic-crawler/src/main/assembly/bin.xml",
+        "DateUpdated": "2019-09-23T03:48:26Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "8bff6e435a81a6271203297bfdc7cecde3fc4227"
+        ]
+      },
+      {
+        "Sha": "68570df9dbcd3d0939bdcd7213eb40ce5e1f352a",
+        "FileName": "bin.xml",
+        "Path": "plugins/html-scraper/src/main/assembly/bin.xml",
+        "DateUpdated": "2019-09-23T03:48:26Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "8bff6e435a81a6271203297bfdc7cecde3fc4227"
+        ]
+      },
+      {
+        "Sha": "06b91f112546b3900f64f9078622a7aca85f804c",
+        "FileName": "bin.xml",
+        "Path": "plugins/office-scraper/src/main/assembly/bin.xml",
+        "DateUpdated": "2019-09-23T03:48:26Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "8bff6e435a81a6271203297bfdc7cecde3fc4227"
+        ]
+      },
+      {
+        "Sha": "125c85bb36326e3f1de9a5904cf9db87ef5b0d86",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-23T03:48:26Z",
+        "Additions": 49,
+        "Deletions": 36,
+        "Commits": [
+          "8bff6e435a81a6271203297bfdc7cecde3fc4227"
+        ]
+      },
+      {
+        "Sha": "2f12c2ff08c2ecbf44b50a18b0cfc5feef7934c3",
+        "FileName": "pom.xml",
+        "Path": "service/pom.xml",
+        "DateUpdated": "2019-09-23T03:48:26Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "8bff6e435a81a6271203297bfdc7cecde3fc4227"
+        ]
+      },
+      {
+        "Sha": "3a0ecdfcfdd5f57a9155a4467a477913ec3094de",
+        "FileName": "server-embedded.xml",
+        "Path": "service/src/main/assembly/server-embedded.xml",
+        "DateUpdated": "2019-09-23T03:48:26Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "8bff6e435a81a6271203297bfdc7cecde3fc4227"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "8bff6e435a81a6271203297bfdc7cecde3fc4227",
+        "Author": {
+          "name": "\"Lewis John McGibbney\"",
+          "location": "Glendora, California, U.S.",
+          "company": "NASA Jet Propulsion Laboratory"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T03:48:26Z",
+        "additions": 70,
+        "deletions": 57,
+        "files": [
+          "ae52c0de2c17c3068ac2ee441df62eab92014074",
+          "85401a5013a09abbc5975c4143f70d6b50c2a604",
+          "68570df9dbcd3d0939bdcd7213eb40ce5e1f352a",
+          "06b91f112546b3900f64f9078622a7aca85f804c",
+          "125c85bb36326e3f1de9a5904cf9db87ef5b0d86",
+          "2f12c2ff08c2ecbf44b50a18b0cfc5feef7934c3",
+          "3a0ecdfcfdd5f57a9155a4467a477913ec3094de"
+        ]
+      }
+    ]
+  }
+]

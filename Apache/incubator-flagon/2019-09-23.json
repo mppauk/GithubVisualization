@@ -1,0 +1,42 @@
+[
+  {
+    "RepositoryName": "incubator-flagon",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T03:02:55Z",
+    "EndDate": "2019-09-23T04:02:55",
+    "Branches": 3,
+    "Forks": 7,
+    "Files": [
+      {
+        "Sha": "336a64f205c34ed54d5eb21c11452012773a5b17",
+        "FileName": "README.md",
+        "Path": "docker/README.md",
+        "DateUpdated": "2019-09-23T03:13:19Z",
+        "Additions": 4,
+        "Deletions": 2,
+        "Commits": [
+          "5942ac1c8cb5021aee4285fbb38af80c4d7fb6da"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "5942ac1c8cb5021aee4285fbb38af80c4d7fb6da",
+        "Author": {
+          "name": "null",
+          "location": "MA"
+        },
+        "Commitor": {
+          "name": "null",
+          "location": "MA"
+        },
+        "Date": "2019-09-23T03:13:19Z",
+        "additions": 4,
+        "deletions": 2,
+        "files": [
+          "336a64f205c34ed54d5eb21c11452012773a5b17"
+        ]
+      }
+    ]
+  }
+]

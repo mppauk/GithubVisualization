@@ -1,0 +1,198 @@
+[
+  {
+    "RepositoryName": "rocketmq-client-go",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T02:48:30Z",
+    "EndDate": "2019-09-24T03:48:30",
+    "Branches": 6,
+    "Forks": 68,
+    "Files": [
+      {
+        "Sha": "bf10055bf4b3174054242bba2dc8dc77ab9a86f4",
+        "FileName": "orderly_push_consumer.go",
+        "Path": "demos/orderly_push_consumer.go",
+        "DateUpdated": "2019-09-24T03:34:05Z",
+        "Additions": 82,
+        "Deletions": 0,
+        "Commits": [
+          "1d5f10a4ac7564880b7de514612c862ea5a79280"
+        ]
+      },
+      {
+        "Sha": "a94130516a8f0092d7653ff7d6363cf6c3688863",
+        "FileName": "producer.go",
+        "Path": "demos/producer.go",
+        "DateUpdated": "2019-09-24T03:34:05Z",
+        "Additions": 66,
+        "Deletions": 0,
+        "Commits": [
+          "1d5f10a4ac7564880b7de514612c862ea5a79280"
+        ]
+      },
+      {
+        "Sha": "7822448b32b76df613b096a9b198e088693f352b",
+        "FileName": "producer_orderly.go",
+        "Path": "demos/producer_orderly.go",
+        "DateUpdated": "2019-09-24T03:34:05Z",
+        "Additions": 60,
+        "Deletions": 0,
+        "Commits": [
+          "1d5f10a4ac7564880b7de514612c862ea5a79280"
+        ]
+      },
+      {
+        "Sha": "af8a9a0076ae6b3fa7c240116a21d1b2b1be3afa",
+        "FileName": "push_consumer.go",
+        "Path": "demos/push_consumer.go",
+        "DateUpdated": "2019-09-24T03:34:05Z",
+        "Additions": 77,
+        "Deletions": 0,
+        "Commits": [
+          "1d5f10a4ac7564880b7de514612c862ea5a79280"
+        ]
+      },
+      {
+        "Sha": "03254b0730117854f9d21c8983da9e490b45773a",
+        "FileName": "producer.go",
+        "Path": "core/producer.go",
+        "DateUpdated": "2019-09-24T03:34:05Z",
+        "Additions": 6,
+        "Deletions": 4,
+        "Commits": [
+          "26151a49ea30036bea5f3bfeebcc02d62b660423"
+        ]
+      },
+      {
+        "Sha": "f606b0de769b92ad084387d729f29f700bfa2773",
+        "FileName": "api.go",
+        "Path": "core/api.go",
+        "DateUpdated": "2019-09-24T03:34:05Z",
+        "Additions": 22,
+        "Deletions": 1,
+        "Commits": [
+          "281f2f1cdaef693979c937f3e544dc59975c9908"
+        ]
+      },
+      {
+        "Sha": "e54890f929a74b758bd3ebd1d323e8f9c21c1b30",
+        "FileName": "producer.go",
+        "Path": "core/producer.go",
+        "DateUpdated": "2019-09-24T03:34:05Z",
+        "Additions": 39,
+        "Deletions": 4,
+        "Commits": [
+          "281f2f1cdaef693979c937f3e544dc59975c9908"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "1d5f10a4ac7564880b7de514612c862ea5a79280",
+        "Author": {
+          "name": "\"dinglei\"",
+          "location": "æ?­å·ž"
+        },
+        "Commitor": {
+          "name": "\"dinglei\"",
+          "location": "æ?­å·ž"
+        },
+        "Date": "2019-09-24T03:34:05Z",
+        "additions": 285,
+        "deletions": 0,
+        "files": [
+          "bf10055bf4b3174054242bba2dc8dc77ab9a86f4",
+          "a94130516a8f0092d7653ff7d6363cf6c3688863",
+          "7822448b32b76df613b096a9b198e088693f352b",
+          "af8a9a0076ae6b3fa7c240116a21d1b2b1be3afa"
+        ]
+      },
+      {
+        "sha": "26151a49ea30036bea5f3bfeebcc02d62b660423",
+        "Author": {
+          "name": "\"dinglei\"",
+          "location": "æ?­å·ž"
+        },
+        "Commitor": {
+          "name": "\"dinglei\"",
+          "location": "æ?­å·ž"
+        },
+        "Date": "2019-09-24T03:34:05Z",
+        "additions": 6,
+        "deletions": 4,
+        "files": [
+          "03254b0730117854f9d21c8983da9e490b45773a"
+        ]
+      },
+      {
+        "sha": "281f2f1cdaef693979c937f3e544dc59975c9908",
+        "Author": {
+          "name": "\"dinglei\"",
+          "location": "æ?­å·ž"
+        },
+        "Commitor": {
+          "name": "\"dinglei\"",
+          "location": "æ?­å·ž"
+        },
+        "Date": "2019-09-24T03:34:05Z",
+        "additions": 61,
+        "deletions": 5,
+        "files": [
+          "f606b0de769b92ad084387d729f29f700bfa2773",
+          "e54890f929a74b758bd3ebd1d323e8f9c21c1b30"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "rocketmq-client-go",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T05:48:19Z",
+    "EndDate": "2019-09-24T06:48:19",
+    "Branches": 6,
+    "Forks": 68,
+    "Files": [
+      {
+        "Sha": "152deaec99fbe226ecf5e51cbb27fd1eb10fad90",
+        "FileName": "api.go",
+        "Path": "core/api.go",
+        "DateUpdated": "2019-09-24T06:02:04Z",
+        "Additions": 14,
+        "Deletions": 4,
+        "Commits": [
+          "9d5c26baae62c1265b43d9914e889516dcf24cc2"
+        ]
+      },
+      {
+        "Sha": "017a733ddf6d667996291130dd45565af9f5c91b",
+        "FileName": "push_consumer.go",
+        "Path": "core/push_consumer.go",
+        "DateUpdated": "2019-09-24T06:02:04Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "9d5c26baae62c1265b43d9914e889516dcf24cc2"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "9d5c26baae62c1265b43d9914e889516dcf24cc2",
+        "Author": {
+          "name": "\"dinglei\"",
+          "location": "æ?­å·ž"
+        },
+        "Commitor": {
+          "name": "\"dinglei\"",
+          "location": "æ?­å·ž"
+        },
+        "Date": "2019-09-24T06:02:04Z",
+        "additions": 28,
+        "deletions": 4,
+        "files": [
+          "152deaec99fbe226ecf5e51cbb27fd1eb10fad90",
+          "017a733ddf6d667996291130dd45565af9f5c91b"
+        ]
+      }
+    ]
+  }
+]

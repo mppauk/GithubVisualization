@@ -1,0 +1,186 @@
+[
+  {
+    "RepositoryName": "geronimo-health",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T01:04:14Z",
+    "EndDate": "2019-09-24T02:04:14",
+    "Branches": 1,
+    "Forks": 1,
+    "Files": [
+      {
+        "Sha": "8d2e6c214b73d6421de5c065a7c7adc4ac3cd718",
+        "FileName": "GeronimoHealthExtension.java",
+        "Path": "geronimo-health/src/main/java/org/apache/geronimo/microprofile/impl/health/cdi/GeronimoHealthExtension.java",
+        "DateUpdated": "2019-09-24T01:53:38Z",
+        "Additions": 20,
+        "Deletions": 13,
+        "Commits": [
+          "46a9a437656f7df7b1933e138760a3a858efe667"
+        ]
+      },
+      {
+        "Sha": "2cbafea445e3cda5ea0f4d06b27e5f67fc4fcb36",
+        "FileName": "pom.xml",
+        "Path": "geronimo-health-common/pom.xml",
+        "DateUpdated": "2019-09-24T01:52:34Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "13323213c42e466fd1354851f4e37cdce858e4ec"
+        ]
+      },
+      {
+        "Sha": "eec9870377685d70a0b63f7de274524ae6c1a901",
+        "FileName": "pom.xml",
+        "Path": "geronimo-health/pom.xml",
+        "DateUpdated": "2019-09-24T01:52:34Z",
+        "Additions": 8,
+        "Deletions": 3,
+        "Commits": [
+          "13323213c42e466fd1354851f4e37cdce858e4ec"
+        ]
+      },
+      {
+        "Sha": "68eea3b27d1539a8f7ef2cbb8fc52806d57e11f6",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-24T01:52:34Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "13323213c42e466fd1354851f4e37cdce858e4ec"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "46a9a437656f7df7b1933e138760a3a858efe667",
+        "Author": {
+          "name": "\"Jean-Louis Monteiro\"",
+          "location": "France"
+        },
+        "Commitor": {
+          "name": "\"Jean-Louis Monteiro\"",
+          "location": "France"
+        },
+        "Date": "2019-09-24T01:53:38Z",
+        "additions": 20,
+        "deletions": 13,
+        "files": [
+          "8d2e6c214b73d6421de5c065a7c7adc4ac3cd718"
+        ]
+      },
+      {
+        "sha": "13323213c42e466fd1354851f4e37cdce858e4ec",
+        "Author": {
+          "name": "\"Jean-Louis Monteiro\"",
+          "location": "France"
+        },
+        "Commitor": {
+          "name": "\"Jean-Louis Monteiro\"",
+          "location": "France"
+        },
+        "Date": "2019-09-24T01:52:34Z",
+        "additions": 13,
+        "deletions": 8,
+        "files": [
+          "2cbafea445e3cda5ea0f4d06b27e5f67fc4fcb36",
+          "eec9870377685d70a0b63f7de274524ae6c1a901",
+          "68eea3b27d1539a8f7ef2cbb8fc52806d57e11f6"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "geronimo-health",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T01:48:26Z",
+    "EndDate": "2019-09-24T02:48:26",
+    "Branches": 1,
+    "Forks": 1,
+    "Files": [
+      {
+        "Sha": "8d2e6c214b73d6421de5c065a7c7adc4ac3cd718",
+        "FileName": "GeronimoHealthExtension.java",
+        "Path": "geronimo-health/src/main/java/org/apache/geronimo/microprofile/impl/health/cdi/GeronimoHealthExtension.java",
+        "DateUpdated": "2019-09-24T01:53:38Z",
+        "Additions": 20,
+        "Deletions": 13,
+        "Commits": [
+          "46a9a437656f7df7b1933e138760a3a858efe667"
+        ]
+      },
+      {
+        "Sha": "2cbafea445e3cda5ea0f4d06b27e5f67fc4fcb36",
+        "FileName": "pom.xml",
+        "Path": "geronimo-health-common/pom.xml",
+        "DateUpdated": "2019-09-24T01:52:34Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "13323213c42e466fd1354851f4e37cdce858e4ec"
+        ]
+      },
+      {
+        "Sha": "eec9870377685d70a0b63f7de274524ae6c1a901",
+        "FileName": "pom.xml",
+        "Path": "geronimo-health/pom.xml",
+        "DateUpdated": "2019-09-24T01:52:34Z",
+        "Additions": 8,
+        "Deletions": 3,
+        "Commits": [
+          "13323213c42e466fd1354851f4e37cdce858e4ec"
+        ]
+      },
+      {
+        "Sha": "68eea3b27d1539a8f7ef2cbb8fc52806d57e11f6",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-24T01:52:34Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "13323213c42e466fd1354851f4e37cdce858e4ec"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "46a9a437656f7df7b1933e138760a3a858efe667",
+        "Author": {
+          "name": "\"Jean-Louis Monteiro\"",
+          "location": "France"
+        },
+        "Commitor": {
+          "name": "\"Jean-Louis Monteiro\"",
+          "location": "France"
+        },
+        "Date": "2019-09-24T01:53:38Z",
+        "additions": 20,
+        "deletions": 13,
+        "files": [
+          "8d2e6c214b73d6421de5c065a7c7adc4ac3cd718"
+        ]
+      },
+      {
+        "sha": "13323213c42e466fd1354851f4e37cdce858e4ec",
+        "Author": {
+          "name": "\"Jean-Louis Monteiro\"",
+          "location": "France"
+        },
+        "Commitor": {
+          "name": "\"Jean-Louis Monteiro\"",
+          "location": "France"
+        },
+        "Date": "2019-09-24T01:52:34Z",
+        "additions": 13,
+        "deletions": 8,
+        "files": [
+          "2cbafea445e3cda5ea0f4d06b27e5f67fc4fcb36",
+          "eec9870377685d70a0b63f7de274524ae6c1a901",
+          "68eea3b27d1539a8f7ef2cbb8fc52806d57e11f6"
+        ]
+      }
+    ]
+  }
+]

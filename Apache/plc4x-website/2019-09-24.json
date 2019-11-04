@@ -1,0 +1,2062 @@
+[
+  {
+    "RepositoryName": "plc4x-website",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T09:48:42Z",
+    "EndDate": "2019-09-24T10:48:42",
+    "Branches": 1,
+    "Forks": 3,
+    "Files": [
+      {
+        "Sha": "cb2dad9b5f45ef9bb23029ebd2025170f5e13557",
+        "FileName": "dependency-convergence.html",
+        "Path": "dependency-convergence.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "a7f8d0754dd6d9ce604d85d7aa7e34df59b1d19c",
+        "FileName": "dependency-management.html",
+        "Path": "dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "48247db30561146888dd60c905d386028a6061da",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "9007c0e2f81718f24dc0b88c195f7f37ccdc384e",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-api/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 13,
+        "Deletions": 13,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "c925dafe255b1515c445e3b76287f5cba409cedc",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-api/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "10aeba2bd09f868ce12abd36f51dd2c145f58adf",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-drivers/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "401dcd73c227c52f2773af1f691030b750036435",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-drivers/plc4j-driver-ads/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 156,
+        "Deletions": 124,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "6223e191298eda2115cc7274057179fd92ee997d",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-drivers/plc4j-driver-ads/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "172be722fc2b24a5a64b5908ef8a58010c53e694",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-drivers/plc4j-driver-ethernet-ip/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 171,
+        "Deletions": 140,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "afe85c007a49ff6e57f4c9ae167bca8f2424527f",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-drivers/plc4j-driver-ethernet-ip/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "2738841a8f4cd689e91c2fd711942af82f9c8401",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-drivers/plc4j-driver-modbus/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 148,
+        "Deletions": 116,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "52077ee25fa7d86bf81e713ca8fcc2d6c9409edc",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-drivers/plc4j-driver-modbus/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "a732b6f1d3a7a77c01a634c12eca3eabbe4448dc",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-drivers/plc4j-driver-opcua/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 203,
+        "Deletions": 172,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "737a1552aab84ffb9c4fad837a6c224448ee6383",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-drivers/plc4j-driver-opcua/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "fc7caeb59c671e85d8121b35607204f3aa194d50",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-drivers/plc4j-driver-s7/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 162,
+        "Deletions": 131,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "a9ad764439e06224bd1405f502593674d63fc719",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-drivers/plc4j-driver-s7/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "9734adfffa0d1bc14f5a2f4669401bd21513773c",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-drivers/plc4j-driver-simulated/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 145,
+        "Deletions": 114,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "54e173c35afba3564cc6b4e364998140781325da",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-drivers/plc4j-driver-simulated/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "eec444fbaa1f324b82d68d441217988e2e12c5ac",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-examples/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "7a956717d7894e0dcbee988d5fefcd6a2e2df679",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-examples/plc4j-dummy-driver/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 138,
+        "Deletions": 107,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "1c58d10a3ce0f9804ecb91d11ef4cf3905f2fcce",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-examples/plc4j-dummy-driver/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "1772881f5c1eb96d0c4e08cfd9dc3144b2861b47",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-examples/plc4j-hello-cloud-azure/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 22,
+        "Deletions": 22,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "4f243ae2e6d63ebd18c052baf2ff312a737e1870",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-examples/plc4j-hello-cloud-azure/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "8eec6afc64ac8d294f1129152aec86639b6b25f2",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-examples/plc4j-hello-cloud-google/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 306,
+        "Deletions": 274,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "b8f4e8c78daea73ac526ed728e503c9adcafef82",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-examples/plc4j-hello-cloud-google/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "8bd11eb6c2f32bc4464b755d38e2011ab3687e03",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-examples/plc4j-hello-connectivity-kafka/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 318,
+        "Deletions": 286,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "66e65615d7e09cd10c3ebe5f2990486d33281252",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-examples/plc4j-hello-connectivity-kafka/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "2fc81b446e424b1857ce9974cb5990d01ece4d91",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-examples/plc4j-hello-connectivity-mqtt/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 307,
+        "Deletions": 274,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "24d1be68e93ba4bff088a0cd136ff8b87a8f504a",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-examples/plc4j-hello-connectivity-mqtt/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "db39c73be8118330646a30e7d417f1db7da35db4",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-examples/plc4j-hello-integration-edgent/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 314,
+        "Deletions": 282,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "116f2f4961e210f204d97faed3d5c933bb932e65",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-examples/plc4j-hello-integration-edgent/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "f9ef9d3245fcecd051a6c59a517e2ccc7d6278c7",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-examples/plc4j-hello-opm/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 282,
+        "Deletions": 250,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "158ff82c8ab478d468fd041e4ae924b14324ae9c",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-examples/plc4j-hello-opm/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "0463c2c7e3ce344e8fdeaa0c4b9b79de6e1007bb",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-examples/plc4j-hello-storage-elasticsearch/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 328,
+        "Deletions": 296,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "003d905b35c6df85ac925695d25cb1607a1aeb5a",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-examples/plc4j-hello-storage-elasticsearch/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "c433461cbc1e534f1a88bfff64919a3eefb7ed5e",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-examples/plc4j-hello-webapp/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "c25240bd02446fd7c929385a5892a318fd7272e8",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-examples/plc4j-hello-webapp/plc4j-hello-webapp-client/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "71a68aad9bbf800fda2b63bba18e6a5db2164cee",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-examples/plc4j-hello-webapp/plc4j-hello-webapp-service/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 311,
+        "Deletions": 279,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "32d5f6d3f9544dfd01810b77e39bc216ae486e9e",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-examples/plc4j-hello-webapp/plc4j-hello-webapp-service/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "42addce9be22c0fb730f8b8b57f4b13dde02561a",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-examples/plc4j-hello-webapp/plc4j-hello-webapp-webapp/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 403,
+        "Deletions": 371,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "018a838380cc025b824c65e17efdb71dff39708d",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-examples/plc4j-hello-webapp/plc4j-hello-webapp-webapp/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "d4c02ad52ff3b1ef1f4341fafce0b9a804bd8b81",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-examples/plc4j-hello-world-plc4x/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 301,
+        "Deletions": 269,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "024826ce4603429fba7ba69320ffc0c20ce24af8",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-examples/plc4j-hello-world-plc4x/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "bf85bd014fde808ca9e5df9e10109bfb71bb8129",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-integrations/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "bdd6c075d6ae1a72969f23036735e090921d957e",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-calcite/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 115,
+        "Deletions": 117,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "e8e11af2f2abba8cb323c094c3570dd874962e97",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-calcite/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "30a5b19964e69983237d6fa33849536ae1d7f32d",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-camel/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 176,
+        "Deletions": 112,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "92966b98566db8172cbee0bd2f808b72f26183d0",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-camel/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "128ab0c895a7a6ff80cd5e421c3a652770940524",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-edgent/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 162,
+        "Deletions": 131,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "6a5de3cd290bacc0ed2f4685ee60b2c4b8e386ba",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-edgent/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "be0c42bc3db840f776ef6a2b3a794f001a95d41a",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-kafka/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "e6ee33bec1dacb562c30bf95ebaee24453e922b4",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-kafka/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "23827d747bd793fcc18984f005a02164e4747bab",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-karaf/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "0e12952c1e5627e967058f6d7383977cdde5c250",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-karaf/plc4j-karaf-ads-feature/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "94490dd72a26065c15d7285ec1eee47975331af4",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-karaf/plc4j-karaf-ads-feature/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "3975a2fa20b67746f5a5c446fbf99c8a77a1f2ab",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-karaf/plc4j-karaf-demo-server/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "118220a9d40c3a3ddac888507e618fb980c58252",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-karaf/plc4j-karaf-demo-server/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "640327eb63e2c424333d92fcaf80f96fa9e34bc3",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-karaf/plc4j-karaf-ethernet-ip-feature/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "79ae27bcc7edf652ea72f6f6e65f82ff76dca910",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-karaf/plc4j-karaf-ethernet-ip-feature/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "963d3972652e1879c7f656f2bcfbd440bcdd6a3d",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-karaf/plc4j-karaf-modbus-feature/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "1040ce2f869fb4d0d8cf230a1c12de7c608f798a",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-karaf/plc4j-karaf-modbus-feature/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "96525cae7edcaba2be52445e0891078e52de434c",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-karaf/plc4j-karaf-s7-feature/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "ac6b6a1f16fc366651698a7fde2a516d75399860",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-karaf/plc4j-karaf-s7-feature/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "3614a2e478e6afdb1ad9cb2c184aaff863c3aebb",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-karaf/plc4j-karaf-simulated-feature/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "8aa022bc116f9788ddd0638b3c3c910502cc6e09",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-karaf/plc4j-karaf-simulated-feature/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "e9ca812b8b07481dd41e12839d2c2218f48f351f",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-nifi/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "ee161c94716767f36ee2f2f50e5089109eabe70d",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-nifi/plc4j-nifi-plc4x-nar/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "ccb39362cd1c226a9eed9f13331c6c08ed9596a9",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-nifi/plc4j-nifi-plc4x-nar/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "5dbbce84d58df08820f9f4a2ae6c6849494a589a",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-nifi/plc4j-nifi-plc4x-processors/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "5c17f6393551cabb7aca80dafd39eee94cc5c181",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-apache-nifi/plc4j-nifi-plc4x-processors/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "971284a002868bf5884cbcfa6d021be0c1006ea1",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-logstash-plugin/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "3cea2f93190b4d44652234397aa0f61dea292247",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-integrations/plc4j-logstash-plugin/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "7e7aa1567934dc540dc6c90b48026e1d79e26912",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-protocols/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "009fbb5b0fc784ad54002ae548a4777d152cc10f",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocol-ads/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "d35987c22149f25644923caec631c84ce4cfc932",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocol-ads/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "91deb8fffe0277d85c0e34898f30938f86e1675c",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocol-benchmarks/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "f5625368f86939b00de446addbd7f1e48b306501",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocol-benchmarks/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "ce1b1822c7404f85ad1dd9103470555d8bf72c7e",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocol-delta-v/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "11e320e6397220570226ae24e2ebba53be93784b",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocol-delta-v/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "da368ab0393517e8b4da2e7912c554a1429a489a",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocol-ethernet-ip/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "ddda3dc99201c2c987cd380a66005b8cdeb45177",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocol-ethernet-ip/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "b3614717d06a4cc14c7bf50bccff8c0c40a6555b",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocol-iso-on-tcp/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "a9c796be0b5d8d025c7c35efd222054ae0a76e16",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocol-iso-on-tcp/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "b199f4e82d17077e007eb018d0c87d5dd7c23dcc",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocol-iso-tp/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "da4ade12c959a0bc23ac941c5f9bc58d82aff950",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocol-iso-tp/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "4f8f08b490271ffd83a5c5ab147515f1014dcd36",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocol-modbus/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "6885895e1dc40d0dc85d9632473ea21c4eea8179",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocol-modbus/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "36f793fb3b09cadd0d52fd7afe57320659b952db",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocol-s7/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "53ff29162c8c50f4cb372c69e344a4494c569bc4",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocol-s7/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "6b5caae86041f6dc9915896596a537a53c03b65e",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "dd1d1e5a9accda3dfcccdcfde2063efe5eb3617d",
+        "FileName": "dependency-info.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/dependency-info.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "cfb64522bb9b661f366f0736547cbbeda1faa333",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "10d03248879aadb5f0a8ce95cb72cd0fb103b76e",
+        "FileName": "distribution-management.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/distribution-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "8a9d0ee6093b288eb9ebe7eb5a8ce14bd0d03fbb",
+        "FileName": "index.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/index.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "446b232c258549e6068a5d4b1dfed64801f03f74",
+        "FileName": "issue-management.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/issue-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "f9956fe0f40b533d8b0661f1e03e88a4fa71c6b8",
+        "FileName": "licenses.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/licenses.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "9be19f344eba7e8fc9fc27d2e7f7d93bbda047d4",
+        "FileName": "mailing-lists.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/mailing-lists.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "78811747df906852f2c301053dfb15959b1f0901",
+        "FileName": "modules.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/modules.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "5135f1d155e28a3d1d93570e9fc046a0813c1de5",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base-pcap-socket/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "2f092f034eaf79bab200066068161ac8fed52ee5",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base-pcap-socket/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "235aeb8f2dde29a0d90ad9b9f8be06e3b800f7a2",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base-raw-socket/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "275549bc6f7fb51d33c2e71fb0e3c07f99cc3097",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base-raw-socket/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "e23bfba4316cb4041f895cd45a8d9d1ce1dafdab",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base-serial/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "e3b9ddc841e5a1fcbadda7f5d0082154f07393ca",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base-serial/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "b8070445752edbcc684727457a94bceb886ce78f",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base-tcp/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "f2f68ff1f99f7173f367d4f2aa57b483babb8545",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base-tcp/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "7bf7ec1228597781ae1907a31d65e076f493ed52",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base-test/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "02d00ff8bac1fd594133088f8380aac5290f53f1",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base-test/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "dcf3be6ecc0695eae8a082b093316f1b3fd00de5",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base-udp/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "be799744db9e68aa15d91cd3562ee0edaba5d73c",
+        "FileName": "dependency-info.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base-udp/dependency-info.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "7d1b1b140d404e7f9daa8bb7884638c191ae239c",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base-udp/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "5eca1d1c3fbb1a9e764781b9db204515621cd3a4",
+        "FileName": "distribution-management.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base-udp/distribution-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "3c9b97dc8ed6e80d1f416abdc12365653a6d3aa1",
+        "FileName": "index.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base-udp/index.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "61100e368a808dce7b2ccba921c30b63cc6cc572",
+        "FileName": "issue-management.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base-udp/issue-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "af81563c55052d1675d353f530f09e35ecb8f749",
+        "FileName": "licenses.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base-udp/licenses.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "128ea158335eba3e3ea1dc933c46c690295e6578",
+        "FileName": "mailing-lists.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base-udp/mailing-lists.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "5957f4389bca8345083fafd0ef29a59bbc151e36",
+        "FileName": "plugin-management.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base-udp/plugin-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "2f07d64491375eb0c12e925dab0a4e9432af5a5a",
+        "FileName": "plugins.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base-udp/plugins.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "b362259f74f45b5c84d9dda910a499e9392dd318",
+        "FileName": "project-info.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base-udp/project-info.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "5cf399d38de7e7f84a1b72fa6c381624386c91cf",
+        "FileName": "scm.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base-udp/scm.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "4ae931161d6bdfc548050a7e9f33724eb015adc7",
+        "FileName": "sitemap.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base-udp/sitemap.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "60490a65fc5bbce25a5bd632f42bdeff9451d9f1",
+        "FileName": "summary.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base-udp/summary.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "636c5d08bb2e6f2c0e9627e064728e06dcd0dcb1",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "bd3e703095a715288537c0d4db6eb3f367ff6d02",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plc4j-protocol-driver-base/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "47550ee9824337d303ecfa104ef28247cabf8909",
+        "FileName": "plugin-management.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plugin-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "e19ade1c1d6d208907e0ac14257b3491e064e913",
+        "FileName": "plugins.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/plugins.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "ac9580995953cf2e68b2ae192080cd3f41f636f2",
+        "FileName": "project-info.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/project-info.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "b66386cf9514bda90d3a9693782c4a375b2d7a77",
+        "FileName": "scm.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/scm.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "182feab6405d5eb153d3efa4f0292fdd07cff7c3",
+        "FileName": "sitemap.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/sitemap.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "3681d7f081ed01d925337fce5c7c554fc8cb2d36",
+        "FileName": "summary.html",
+        "Path": "plc4j/plc4j-protocols/plc4j-protocols-driver-bases/summary.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "eb6be0988077c311658539c559f1a32a496b87d9",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-utils/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "b9a44acf921e35a5d7c81dd4bd6b7be9d89b53de",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-utils/interop-server/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "f6763e915c834d268da69a6f6c0241bccd3748c1",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-utils/interop-server/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "500c8f30330203ee244b80efed866537e4c20269",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-utils/plc4j-connection-pool/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "89ab369b5ee5ebf126e34167d913038e402c5d93",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-utils/plc4j-opm/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "8c1fbdb6b815c3695c890ea97811ee6d3964e584",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-utils/plc4j-opm/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "42bd4d8a14e6a288fad3a441df4fe059f5f5d87d",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-utils/plc4j-scraper/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "052174cb6048bb93b9e398114b81ec76a5f24a46",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-utils/plc4j-scraper/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "a873005e3527758632689ca8367e3d98377a5edc",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-utils/plc4j-utils-driver-base-java/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "143fb5b3ea65bf69ac21152077e532e0186265d9",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-utils/plc4j-utils-pcap-sockets/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "0e69c5f872c2805e5cdba0ba6df8aef8b987f222",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-utils/plc4j-utils-pcap-sockets/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "b3f31fa0491dd38d26b2e4d00f547fbd6a06e3f9",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-utils/plc4j-utils-protocol-test-utils/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "e00d42223b3965989166532349fcd5677cec2a74",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-utils/plc4j-utils-raw-sockets/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "ec72f737e1784f20f68fc832d2c3bf6ee5f91582",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-utils/plc4j-utils-raw-sockets/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "b67941a84bf302d351b2bcc3ea353363effd26c1",
+        "FileName": "dependencies.html",
+        "Path": "plc4j/plc4j-utils/plc4j-utils-test-utils/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "9cefcc9e7a36d59144ca2b9f22ef7218c88611eb",
+        "FileName": "dependency-management.html",
+        "Path": "plc4j/plc4j-utils/plc4j-utils-test-utils/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "78cb961e7dc3beb24de159c7b80c49bec1eb55a4",
+        "FileName": "dependency-management.html",
+        "Path": "plc4x-build-utils/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "4907f7565fa0041f16468c93ee48ac45d6650a36",
+        "FileName": "dependencies.html",
+        "Path": "plc4x-build-utils/plc4x-build-utils-language-base-freemarker/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "ed975936a2259fc3f0ff8877fa3ef024e495903d",
+        "FileName": "dependency-management.html",
+        "Path": "plc4x-build-utils/plc4x-build-utils-language-base-freemarker/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "59b19ed17575b2570271e9d6eb3b9ef3a1479668",
+        "FileName": "dependencies.html",
+        "Path": "plc4x-build-utils/plc4x-build-utils-language-java/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "b70f6e1fe78f42edd3fea798d797123848235b69",
+        "FileName": "dependency-management.html",
+        "Path": "plc4x-build-utils/plc4x-build-utils-language-java/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "a468630cd75a918610300074f3062906e835412e",
+        "FileName": "dependency-management.html",
+        "Path": "plc4x-build-utils/plc4x-build-utils-protocol-base-mspec/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "f0b04aba86c3cdaceae97d5493898439eb8c58a5",
+        "FileName": "dependencies.html",
+        "Path": "plc4x-build-utils/plc4x-build-utils-protocol-test/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "43eab3d1f82c716edc1e738e16c9eb5277b3d23e",
+        "FileName": "dependency-management.html",
+        "Path": "plc4x-build-utils/plc4x-build-utils-protocol-test/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "a157796598c98fafe5305f0005273ced507a5cc8",
+        "FileName": "index.html",
+        "Path": "plc4x-build-utils/plc4x-build-utils-protocol-test/index.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "f504dc655b4c112a8269afa0bbaf155d231e63e3",
+        "FileName": "dependency-management.html",
+        "Path": "plc4x-protocols/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "1876d317b7629611294acba21b1a8aa1db13a402",
+        "FileName": "dependencies.html",
+        "Path": "plc4x-protocols/plc4x-protocols-ab-eth/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "214bbffee3f9d76a0a27308b56f9c98be3fe057f",
+        "FileName": "dependency-management.html",
+        "Path": "plc4x-protocols/plc4x-protocols-ab-eth/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "3c1f311d611df29594a0c14d7cca044c1d0bb398",
+        "FileName": "dependencies.html",
+        "Path": "plc4x-protocols/plc4x-protocols-bacnetip/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "95538f6a79b008853aa8bd890c7892e011bf992a",
+        "FileName": "dependency-management.html",
+        "Path": "plc4x-protocols/plc4x-protocols-bacnetip/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "a9ad365c7a7955cfa226758a4016f30779cba49e",
+        "FileName": "dependencies.html",
+        "Path": "plc4x-protocols/plc4x-protocols-df1/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "ada5340882364d1ae943ee736b565babaa74f20b",
+        "FileName": "dependency-management.html",
+        "Path": "plc4x-protocols/plc4x-protocols-df1/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "48cc4977b14c26fb76b94429a28ec535d577ec3a",
+        "FileName": "dependencies.html",
+        "Path": "plc4x-protocols/plc4x-protocols-knxnetip/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "1c53a208943f53db8b6ab97e588ac2c0ff79fdcb",
+        "FileName": "dependency-management.html",
+        "Path": "plc4x-protocols/plc4x-protocols-knxnetip/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "2c24856aa0f6395ceedd024b362207fc65ddb043",
+        "FileName": "dependency-management.html",
+        "Path": "plc4x-protocols/plc4x-protocols-proxy/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "0d2d59e9288d52c23293abe28ae7dcf70a31d522",
+        "FileName": "dependencies.html",
+        "Path": "plc4x-protocols/plc4x-protocols-s7/dependencies.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "3d73513de5385525871ce233318253a3cd2f85ae",
+        "FileName": "dependency-management.html",
+        "Path": "plc4x-protocols/plc4x-protocols-s7/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "f48506b02bcbcb409c3c980d0669894281e669b9",
+        "FileName": "dependency-management.html",
+        "Path": "plc4x-tools/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "705ca2df7a356bf465bde745153a1da569849d31",
+        "FileName": "dependency-management.html",
+        "Path": "plc4x-tools/plc4x-tools-logstash-core/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      },
+      {
+        "Sha": "677cc2a419a398e6cc1ecd96075a5917b1f5c653",
+        "FileName": "dependency-management.html",
+        "Path": "plc4x-tools/plc4x-tools-thrift/dependency-management.html",
+        "DateUpdated": "2019-09-24T10:42:14Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "fcf84851b8221d3085da47347d0d8def1739a78d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "fcf84851b8221d3085da47347d0d8def1739a78d",
+        "Date": "2019-09-24T10:42:14Z",
+        "additions": 15712,
+        "deletions": 7967,
+        "files": [
+          "cb2dad9b5f45ef9bb23029ebd2025170f5e13557",
+          "a7f8d0754dd6d9ce604d85d7aa7e34df59b1d19c",
+          "48247db30561146888dd60c905d386028a6061da",
+          "9007c0e2f81718f24dc0b88c195f7f37ccdc384e",
+          "c925dafe255b1515c445e3b76287f5cba409cedc",
+          "10aeba2bd09f868ce12abd36f51dd2c145f58adf",
+          "401dcd73c227c52f2773af1f691030b750036435",
+          "6223e191298eda2115cc7274057179fd92ee997d",
+          "172be722fc2b24a5a64b5908ef8a58010c53e694",
+          "afe85c007a49ff6e57f4c9ae167bca8f2424527f",
+          "2738841a8f4cd689e91c2fd711942af82f9c8401",
+          "52077ee25fa7d86bf81e713ca8fcc2d6c9409edc",
+          "a732b6f1d3a7a77c01a634c12eca3eabbe4448dc",
+          "737a1552aab84ffb9c4fad837a6c224448ee6383",
+          "fc7caeb59c671e85d8121b35607204f3aa194d50",
+          "a9ad764439e06224bd1405f502593674d63fc719",
+          "9734adfffa0d1bc14f5a2f4669401bd21513773c",
+          "54e173c35afba3564cc6b4e364998140781325da",
+          "eec444fbaa1f324b82d68d441217988e2e12c5ac",
+          "7a956717d7894e0dcbee988d5fefcd6a2e2df679",
+          "1c58d10a3ce0f9804ecb91d11ef4cf3905f2fcce",
+          "1772881f5c1eb96d0c4e08cfd9dc3144b2861b47",
+          "4f243ae2e6d63ebd18c052baf2ff312a737e1870",
+          "8eec6afc64ac8d294f1129152aec86639b6b25f2",
+          "b8f4e8c78daea73ac526ed728e503c9adcafef82",
+          "8bd11eb6c2f32bc4464b755d38e2011ab3687e03",
+          "66e65615d7e09cd10c3ebe5f2990486d33281252",
+          "2fc81b446e424b1857ce9974cb5990d01ece4d91",
+          "24d1be68e93ba4bff088a0cd136ff8b87a8f504a",
+          "db39c73be8118330646a30e7d417f1db7da35db4",
+          "116f2f4961e210f204d97faed3d5c933bb932e65",
+          "f9ef9d3245fcecd051a6c59a517e2ccc7d6278c7",
+          "158ff82c8ab478d468fd041e4ae924b14324ae9c",
+          "0463c2c7e3ce344e8fdeaa0c4b9b79de6e1007bb",
+          "003d905b35c6df85ac925695d25cb1607a1aeb5a",
+          "c433461cbc1e534f1a88bfff64919a3eefb7ed5e",
+          "c25240bd02446fd7c929385a5892a318fd7272e8",
+          "71a68aad9bbf800fda2b63bba18e6a5db2164cee",
+          "32d5f6d3f9544dfd01810b77e39bc216ae486e9e",
+          "42addce9be22c0fb730f8b8b57f4b13dde02561a",
+          "018a838380cc025b824c65e17efdb71dff39708d",
+          "d4c02ad52ff3b1ef1f4341fafce0b9a804bd8b81",
+          "024826ce4603429fba7ba69320ffc0c20ce24af8",
+          "bf85bd014fde808ca9e5df9e10109bfb71bb8129",
+          "bdd6c075d6ae1a72969f23036735e090921d957e",
+          "e8e11af2f2abba8cb323c094c3570dd874962e97",
+          "30a5b19964e69983237d6fa33849536ae1d7f32d",
+          "92966b98566db8172cbee0bd2f808b72f26183d0",
+          "128ab0c895a7a6ff80cd5e421c3a652770940524",
+          "6a5de3cd290bacc0ed2f4685ee60b2c4b8e386ba",
+          "be0c42bc3db840f776ef6a2b3a794f001a95d41a",
+          "e6ee33bec1dacb562c30bf95ebaee24453e922b4",
+          "23827d747bd793fcc18984f005a02164e4747bab",
+          "0e12952c1e5627e967058f6d7383977cdde5c250",
+          "94490dd72a26065c15d7285ec1eee47975331af4",
+          "3975a2fa20b67746f5a5c446fbf99c8a77a1f2ab",
+          "118220a9d40c3a3ddac888507e618fb980c58252",
+          "640327eb63e2c424333d92fcaf80f96fa9e34bc3",
+          "79ae27bcc7edf652ea72f6f6e65f82ff76dca910",
+          "963d3972652e1879c7f656f2bcfbd440bcdd6a3d",
+          "1040ce2f869fb4d0d8cf230a1c12de7c608f798a",
+          "96525cae7edcaba2be52445e0891078e52de434c",
+          "ac6b6a1f16fc366651698a7fde2a516d75399860",
+          "3614a2e478e6afdb1ad9cb2c184aaff863c3aebb",
+          "8aa022bc116f9788ddd0638b3c3c910502cc6e09",
+          "e9ca812b8b07481dd41e12839d2c2218f48f351f",
+          "ee161c94716767f36ee2f2f50e5089109eabe70d",
+          "ccb39362cd1c226a9eed9f13331c6c08ed9596a9",
+          "5dbbce84d58df08820f9f4a2ae6c6849494a589a",
+          "5c17f6393551cabb7aca80dafd39eee94cc5c181",
+          "971284a002868bf5884cbcfa6d021be0c1006ea1",
+          "3cea2f93190b4d44652234397aa0f61dea292247",
+          "7e7aa1567934dc540dc6c90b48026e1d79e26912",
+          "009fbb5b0fc784ad54002ae548a4777d152cc10f",
+          "d35987c22149f25644923caec631c84ce4cfc932",
+          "91deb8fffe0277d85c0e34898f30938f86e1675c",
+          "f5625368f86939b00de446addbd7f1e48b306501",
+          "ce1b1822c7404f85ad1dd9103470555d8bf72c7e",
+          "11e320e6397220570226ae24e2ebba53be93784b",
+          "da368ab0393517e8b4da2e7912c554a1429a489a",
+          "ddda3dc99201c2c987cd380a66005b8cdeb45177",
+          "b3614717d06a4cc14c7bf50bccff8c0c40a6555b",
+          "a9c796be0b5d8d025c7c35efd222054ae0a76e16",
+          "b199f4e82d17077e007eb018d0c87d5dd7c23dcc",
+          "da4ade12c959a0bc23ac941c5f9bc58d82aff950",
+          "4f8f08b490271ffd83a5c5ab147515f1014dcd36",
+          "6885895e1dc40d0dc85d9632473ea21c4eea8179",
+          "36f793fb3b09cadd0d52fd7afe57320659b952db",
+          "53ff29162c8c50f4cb372c69e344a4494c569bc4",
+          "6b5caae86041f6dc9915896596a537a53c03b65e",
+          "dd1d1e5a9accda3dfcccdcfde2063efe5eb3617d",
+          "cfb64522bb9b661f366f0736547cbbeda1faa333",
+          "10d03248879aadb5f0a8ce95cb72cd0fb103b76e",
+          "8a9d0ee6093b288eb9ebe7eb5a8ce14bd0d03fbb",
+          "446b232c258549e6068a5d4b1dfed64801f03f74",
+          "f9956fe0f40b533d8b0661f1e03e88a4fa71c6b8",
+          "9be19f344eba7e8fc9fc27d2e7f7d93bbda047d4",
+          "78811747df906852f2c301053dfb15959b1f0901",
+          "5135f1d155e28a3d1d93570e9fc046a0813c1de5",
+          "2f092f034eaf79bab200066068161ac8fed52ee5",
+          "235aeb8f2dde29a0d90ad9b9f8be06e3b800f7a2",
+          "275549bc6f7fb51d33c2e71fb0e3c07f99cc3097",
+          "e23bfba4316cb4041f895cd45a8d9d1ce1dafdab",
+          "e3b9ddc841e5a1fcbadda7f5d0082154f07393ca",
+          "b8070445752edbcc684727457a94bceb886ce78f",
+          "f2f68ff1f99f7173f367d4f2aa57b483babb8545",
+          "7bf7ec1228597781ae1907a31d65e076f493ed52",
+          "02d00ff8bac1fd594133088f8380aac5290f53f1",
+          "dcf3be6ecc0695eae8a082b093316f1b3fd00de5",
+          "be799744db9e68aa15d91cd3562ee0edaba5d73c",
+          "7d1b1b140d404e7f9daa8bb7884638c191ae239c",
+          "5eca1d1c3fbb1a9e764781b9db204515621cd3a4",
+          "3c9b97dc8ed6e80d1f416abdc12365653a6d3aa1",
+          "61100e368a808dce7b2ccba921c30b63cc6cc572",
+          "af81563c55052d1675d353f530f09e35ecb8f749",
+          "128ea158335eba3e3ea1dc933c46c690295e6578",
+          "5957f4389bca8345083fafd0ef29a59bbc151e36",
+          "2f07d64491375eb0c12e925dab0a4e9432af5a5a",
+          "b362259f74f45b5c84d9dda910a499e9392dd318",
+          "5cf399d38de7e7f84a1b72fa6c381624386c91cf",
+          "4ae931161d6bdfc548050a7e9f33724eb015adc7",
+          "60490a65fc5bbce25a5bd632f42bdeff9451d9f1",
+          "636c5d08bb2e6f2c0e9627e064728e06dcd0dcb1",
+          "bd3e703095a715288537c0d4db6eb3f367ff6d02",
+          "47550ee9824337d303ecfa104ef28247cabf8909",
+          "e19ade1c1d6d208907e0ac14257b3491e064e913",
+          "ac9580995953cf2e68b2ae192080cd3f41f636f2",
+          "b66386cf9514bda90d3a9693782c4a375b2d7a77",
+          "182feab6405d5eb153d3efa4f0292fdd07cff7c3",
+          "3681d7f081ed01d925337fce5c7c554fc8cb2d36",
+          "eb6be0988077c311658539c559f1a32a496b87d9",
+          "b9a44acf921e35a5d7c81dd4bd6b7be9d89b53de",
+          "f6763e915c834d268da69a6f6c0241bccd3748c1",
+          "500c8f30330203ee244b80efed866537e4c20269",
+          "89ab369b5ee5ebf126e34167d913038e402c5d93",
+          "8c1fbdb6b815c3695c890ea97811ee6d3964e584",
+          "42bd4d8a14e6a288fad3a441df4fe059f5f5d87d",
+          "052174cb6048bb93b9e398114b81ec76a5f24a46",
+          "a873005e3527758632689ca8367e3d98377a5edc",
+          "143fb5b3ea65bf69ac21152077e532e0186265d9",
+          "0e69c5f872c2805e5cdba0ba6df8aef8b987f222",
+          "b3f31fa0491dd38d26b2e4d00f547fbd6a06e3f9",
+          "e00d42223b3965989166532349fcd5677cec2a74",
+          "ec72f737e1784f20f68fc832d2c3bf6ee5f91582",
+          "b67941a84bf302d351b2bcc3ea353363effd26c1",
+          "9cefcc9e7a36d59144ca2b9f22ef7218c88611eb",
+          "78cb961e7dc3beb24de159c7b80c49bec1eb55a4",
+          "4907f7565fa0041f16468c93ee48ac45d6650a36",
+          "ed975936a2259fc3f0ff8877fa3ef024e495903d",
+          "59b19ed17575b2570271e9d6eb3b9ef3a1479668",
+          "b70f6e1fe78f42edd3fea798d797123848235b69",
+          "a468630cd75a918610300074f3062906e835412e",
+          "f0b04aba86c3cdaceae97d5493898439eb8c58a5",
+          "43eab3d1f82c716edc1e738e16c9eb5277b3d23e",
+          "a157796598c98fafe5305f0005273ced507a5cc8",
+          "f504dc655b4c112a8269afa0bbaf155d231e63e3",
+          "1876d317b7629611294acba21b1a8aa1db13a402",
+          "214bbffee3f9d76a0a27308b56f9c98be3fe057f",
+          "3c1f311d611df29594a0c14d7cca044c1d0bb398",
+          "95538f6a79b008853aa8bd890c7892e011bf992a",
+          "a9ad365c7a7955cfa226758a4016f30779cba49e",
+          "ada5340882364d1ae943ee736b565babaa74f20b",
+          "48cc4977b14c26fb76b94429a28ec535d577ec3a",
+          "1c53a208943f53db8b6ab97e588ac2c0ff79fdcb",
+          "2c24856aa0f6395ceedd024b362207fc65ddb043",
+          "0d2d59e9288d52c23293abe28ae7dcf70a31d522",
+          "3d73513de5385525871ce233318253a3cd2f85ae",
+          "f48506b02bcbcb409c3c980d0669894281e669b9",
+          "705ca2df7a356bf465bde745153a1da569849d31",
+          "677cc2a419a398e6cc1ecd96075a5917b1f5c653"
+        ]
+      }
+    ]
+  }
+]

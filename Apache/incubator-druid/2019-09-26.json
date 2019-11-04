@@ -1,0 +1,44 @@
+[
+  {
+    "RepositoryName": "incubator-druid",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T00:03:13Z",
+    "EndDate": "2019-09-26T01:03:13",
+    "Branches": 35,
+    "Forks": 2179,
+    "Files": [
+      {
+        "Sha": "715594eddd7ba518c3c94b348985b65f44b0a396",
+        "FileName": "fix-path.js",
+        "Path": "website/script/fix-path.js",
+        "DateUpdated": "2019-09-26T00:25:39Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "f4605f45be216cf65837c148a90ad7df05f9708b"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "f4605f45be216cf65837c148a90ad7df05f9708b",
+        "Author": {
+          "name": "\"Vadim Ogievetsky\"",
+          "location": "San Francisco, CA",
+          "company": "Imply Data"
+        },
+        "Commitor": {
+          "name": "\"Clint Wylie\"",
+          "location": "San Francisco, CA",
+          "company": "@implydata "
+        },
+        "Date": "2019-09-26T00:25:39Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "715594eddd7ba518c3c94b348985b65f44b0a396"
+        ]
+      }
+    ]
+  }
+]

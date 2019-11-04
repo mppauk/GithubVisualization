@@ -1,0 +1,554 @@
+[
+  {
+    "RepositoryName": "incubator-gobblin",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T21:03:40Z",
+    "EndDate": "2019-09-24T22:03:40",
+    "Branches": 14,
+    "Forks": 615,
+    "Files": [
+      {
+        "Sha": "cc99373703f92e39d731b89e3f1a354a3546fa66",
+        "FileName": "AWSJobConfigurationManager.java",
+        "Path": "gobblin-aws/src/main/java/org/apache/gobblin/aws/AWSJobConfigurationManager.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 8,
+        "Deletions": 1,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "c2ba8a466e388879c16706f5705b46cec5513ecb",
+        "FileName": "JobConfigurationManager.java",
+        "Path": "gobblin-cluster/src/main/java/org/apache/gobblin/cluster/JobConfigurationManager.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 9,
+        "Deletions": 1,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "6b99f81300e88fee95c7ae4ff0d05ae9558ffe0a",
+        "FileName": "AzkabanJobLauncher.java",
+        "Path": "gobblin-modules/gobblin-azkaban/src/main/java/org/apache/gobblin/azkaban/AzkabanJobLauncher.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 9,
+        "Deletions": 4,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "f9f83d32f20da7b779004cd396d1ed8fe8ed4c08",
+        "FileName": "AzkabanProjectConfigTest.java",
+        "Path": "gobblin-modules/gobblin-azkaban/src/test/java/org/apache/gobblin/service/modules/orchestration/AzkabanProjectConfigTest.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 7,
+        "Deletions": 5,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "a6ca903d5355cd0a3f737f00e4d07f3ce7cd44f9",
+        "FileName": "JobSpec.java",
+        "Path": "gobblin-runtime/src/main/java/org/apache/gobblin/runtime/api/JobSpec.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 14,
+        "Deletions": 1,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "b6460d98e6e4f95ca2a7bbaef15dcbe48e2c91b9",
+        "FileName": "JobTemplate.java",
+        "Path": "gobblin-runtime/src/main/java/org/apache/gobblin/runtime/api/JobTemplate.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "c6386d3d84431130b70e17229354fbba5671987c",
+        "FileName": "SecureJobTemplate.java",
+        "Path": "gobblin-runtime/src/main/java/org/apache/gobblin/runtime/api/SecureJobTemplate.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 69,
+        "Deletions": 0,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "1a1e858ae5051b4f31766e2029a85c2834298e89",
+        "FileName": "EmbeddedGobblin.java",
+        "Path": "gobblin-runtime/src/main/java/org/apache/gobblin/runtime/embedded/EmbeddedGobblin.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 5,
+        "Deletions": 7,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "5bd72ee6f0b46034a8b9a4d589f95d26d0457f0b",
+        "FileName": "JobResolutionCallbacks.java",
+        "Path": "gobblin-runtime/src/main/java/org/apache/gobblin/runtime/job_spec/JobResolutionCallbacks.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 42,
+        "Deletions": 0,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "455e18dcc906453d189a485ebd2fcc4add6cdeae",
+        "FileName": "JobSpecResolver.java",
+        "Path": "gobblin-runtime/src/main/java/org/apache/gobblin/runtime/job_spec/JobSpecResolver.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 167,
+        "Deletions": 0,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "795e3b490c641cfbe72dcf3c3ff307ed288b86bb",
+        "FileName": "ResolvedJobSpec.java",
+        "Path": "gobblin-runtime/src/main/java/org/apache/gobblin/runtime/job_spec/ResolvedJobSpec.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 17,
+        "Deletions": 1,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "2605c056619a2345d2724476cfd7b27c649761f5",
+        "FileName": "SecureTemplateEnforcer.java",
+        "Path": "gobblin-runtime/src/main/java/org/apache/gobblin/runtime/job_spec/SecureTemplateEnforcer.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 43,
+        "Deletions": 0,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "83e65f1f45c644ee863463651dbaf777e25277b0",
+        "FileName": "StaticJobTemplate.java",
+        "Path": "gobblin-runtime/src/main/java/org/apache/gobblin/runtime/template/StaticJobTemplate.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 21,
+        "Deletions": 3,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "fe3640ab848c0289fd49ab4ad799065701fa3d93",
+        "FileName": "JobScheduler.java",
+        "Path": "gobblin-runtime/src/main/java/org/apache/gobblin/scheduler/JobScheduler.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 8,
+        "Deletions": 1,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "a4d837aa54e19e03c0dc6aabd4e286ac797f5858",
+        "FileName": "PathAlterationListenerAdaptorForMonitor.java",
+        "Path": "gobblin-runtime/src/main/java/org/apache/gobblin/scheduler/PathAlterationListenerAdaptorForMonitor.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 5,
+        "Deletions": 2,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "efb3c2ef1f2dfa5e258db894de5ce6c91aa76cc1",
+        "FileName": "SchedulerUtils.java",
+        "Path": "gobblin-runtime/src/main/java/org/apache/gobblin/util/SchedulerUtils.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 15,
+        "Deletions": 15,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "4b30f897415adf5e132e5e680f89cb50e1eee579",
+        "FileName": "SecureJobTemplateTest.java",
+        "Path": "gobblin-runtime/src/test/java/org/apache/gobblin/runtime/api/SecureJobTemplateTest.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 79,
+        "Deletions": 0,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "7ba28d71c993b4eaf749e425192845f3359e2b2a",
+        "FileName": "JobSpecResolverTest.java",
+        "Path": "gobblin-runtime/src/test/java/org/apache/gobblin/runtime/job_spec/JobSpecResolverTest.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 100,
+        "Deletions": 0,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "392c9812b2877687673b4829c9eea23c09ae6070",
+        "FileName": "StaticJobTemplateTest.java",
+        "Path": "gobblin-runtime/src/test/java/org/apache/gobblin/runtime/template/StaticJobTemplateTest.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 25,
+        "Deletions": 0,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "476ba2ae48b44c5654258d7398c5fef13848ab0d",
+        "FileName": "SchedulerUtilsTest.java",
+        "Path": "gobblin-runtime/src/test/java/org/apache/gobblin/util/SchedulerUtilsTest.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 12,
+        "Deletions": 6,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "53c8e37844ef48dc9844bafaccb6b37c004c4900",
+        "FileName": "StaticFlowTemplate.java",
+        "Path": "gobblin-service/src/main/java/org/apache/gobblin/service/modules/template/StaticFlowTemplate.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 21,
+        "Deletions": 7,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "7d260ab2c32a773e317a31cd264f5c97d2d48a10",
+        "Author": {
+          "name": "\"Jack Moseley\"",
+          "company": "LinkedIn"
+        },
+        "Date": "2019-09-24T22:00:52Z",
+        "additions": 678,
+        "deletions": 55,
+        "files": [
+          "cc99373703f92e39d731b89e3f1a354a3546fa66",
+          "c2ba8a466e388879c16706f5705b46cec5513ecb",
+          "6b99f81300e88fee95c7ae4ff0d05ae9558ffe0a",
+          "f9f83d32f20da7b779004cd396d1ed8fe8ed4c08",
+          "a6ca903d5355cd0a3f737f00e4d07f3ce7cd44f9",
+          "b6460d98e6e4f95ca2a7bbaef15dcbe48e2c91b9",
+          "c6386d3d84431130b70e17229354fbba5671987c",
+          "1a1e858ae5051b4f31766e2029a85c2834298e89",
+          "5bd72ee6f0b46034a8b9a4d589f95d26d0457f0b",
+          "455e18dcc906453d189a485ebd2fcc4add6cdeae",
+          "795e3b490c641cfbe72dcf3c3ff307ed288b86bb",
+          "2605c056619a2345d2724476cfd7b27c649761f5",
+          "83e65f1f45c644ee863463651dbaf777e25277b0",
+          "fe3640ab848c0289fd49ab4ad799065701fa3d93",
+          "a4d837aa54e19e03c0dc6aabd4e286ac797f5858",
+          "efb3c2ef1f2dfa5e258db894de5ce6c91aa76cc1",
+          "4b30f897415adf5e132e5e680f89cb50e1eee579",
+          "7ba28d71c993b4eaf749e425192845f3359e2b2a",
+          "392c9812b2877687673b4829c9eea23c09ae6070",
+          "476ba2ae48b44c5654258d7398c5fef13848ab0d",
+          "53c8e37844ef48dc9844bafaccb6b37c004c4900"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-gobblin",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T21:46:45Z",
+    "EndDate": "2019-09-24T22:46:45",
+    "Branches": 14,
+    "Forks": 615,
+    "Files": [
+      {
+        "Sha": "cc99373703f92e39d731b89e3f1a354a3546fa66",
+        "FileName": "AWSJobConfigurationManager.java",
+        "Path": "gobblin-aws/src/main/java/org/apache/gobblin/aws/AWSJobConfigurationManager.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 8,
+        "Deletions": 1,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "c2ba8a466e388879c16706f5705b46cec5513ecb",
+        "FileName": "JobConfigurationManager.java",
+        "Path": "gobblin-cluster/src/main/java/org/apache/gobblin/cluster/JobConfigurationManager.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 9,
+        "Deletions": 1,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "6b99f81300e88fee95c7ae4ff0d05ae9558ffe0a",
+        "FileName": "AzkabanJobLauncher.java",
+        "Path": "gobblin-modules/gobblin-azkaban/src/main/java/org/apache/gobblin/azkaban/AzkabanJobLauncher.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 9,
+        "Deletions": 4,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "f9f83d32f20da7b779004cd396d1ed8fe8ed4c08",
+        "FileName": "AzkabanProjectConfigTest.java",
+        "Path": "gobblin-modules/gobblin-azkaban/src/test/java/org/apache/gobblin/service/modules/orchestration/AzkabanProjectConfigTest.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 7,
+        "Deletions": 5,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "a6ca903d5355cd0a3f737f00e4d07f3ce7cd44f9",
+        "FileName": "JobSpec.java",
+        "Path": "gobblin-runtime/src/main/java/org/apache/gobblin/runtime/api/JobSpec.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 14,
+        "Deletions": 1,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "b6460d98e6e4f95ca2a7bbaef15dcbe48e2c91b9",
+        "FileName": "JobTemplate.java",
+        "Path": "gobblin-runtime/src/main/java/org/apache/gobblin/runtime/api/JobTemplate.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "c6386d3d84431130b70e17229354fbba5671987c",
+        "FileName": "SecureJobTemplate.java",
+        "Path": "gobblin-runtime/src/main/java/org/apache/gobblin/runtime/api/SecureJobTemplate.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 69,
+        "Deletions": 0,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "1a1e858ae5051b4f31766e2029a85c2834298e89",
+        "FileName": "EmbeddedGobblin.java",
+        "Path": "gobblin-runtime/src/main/java/org/apache/gobblin/runtime/embedded/EmbeddedGobblin.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 5,
+        "Deletions": 7,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "5bd72ee6f0b46034a8b9a4d589f95d26d0457f0b",
+        "FileName": "JobResolutionCallbacks.java",
+        "Path": "gobblin-runtime/src/main/java/org/apache/gobblin/runtime/job_spec/JobResolutionCallbacks.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 42,
+        "Deletions": 0,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "455e18dcc906453d189a485ebd2fcc4add6cdeae",
+        "FileName": "JobSpecResolver.java",
+        "Path": "gobblin-runtime/src/main/java/org/apache/gobblin/runtime/job_spec/JobSpecResolver.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 167,
+        "Deletions": 0,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "795e3b490c641cfbe72dcf3c3ff307ed288b86bb",
+        "FileName": "ResolvedJobSpec.java",
+        "Path": "gobblin-runtime/src/main/java/org/apache/gobblin/runtime/job_spec/ResolvedJobSpec.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 17,
+        "Deletions": 1,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "2605c056619a2345d2724476cfd7b27c649761f5",
+        "FileName": "SecureTemplateEnforcer.java",
+        "Path": "gobblin-runtime/src/main/java/org/apache/gobblin/runtime/job_spec/SecureTemplateEnforcer.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 43,
+        "Deletions": 0,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "83e65f1f45c644ee863463651dbaf777e25277b0",
+        "FileName": "StaticJobTemplate.java",
+        "Path": "gobblin-runtime/src/main/java/org/apache/gobblin/runtime/template/StaticJobTemplate.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 21,
+        "Deletions": 3,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "fe3640ab848c0289fd49ab4ad799065701fa3d93",
+        "FileName": "JobScheduler.java",
+        "Path": "gobblin-runtime/src/main/java/org/apache/gobblin/scheduler/JobScheduler.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 8,
+        "Deletions": 1,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "a4d837aa54e19e03c0dc6aabd4e286ac797f5858",
+        "FileName": "PathAlterationListenerAdaptorForMonitor.java",
+        "Path": "gobblin-runtime/src/main/java/org/apache/gobblin/scheduler/PathAlterationListenerAdaptorForMonitor.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 5,
+        "Deletions": 2,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "efb3c2ef1f2dfa5e258db894de5ce6c91aa76cc1",
+        "FileName": "SchedulerUtils.java",
+        "Path": "gobblin-runtime/src/main/java/org/apache/gobblin/util/SchedulerUtils.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 15,
+        "Deletions": 15,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "4b30f897415adf5e132e5e680f89cb50e1eee579",
+        "FileName": "SecureJobTemplateTest.java",
+        "Path": "gobblin-runtime/src/test/java/org/apache/gobblin/runtime/api/SecureJobTemplateTest.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 79,
+        "Deletions": 0,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "7ba28d71c993b4eaf749e425192845f3359e2b2a",
+        "FileName": "JobSpecResolverTest.java",
+        "Path": "gobblin-runtime/src/test/java/org/apache/gobblin/runtime/job_spec/JobSpecResolverTest.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 100,
+        "Deletions": 0,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "392c9812b2877687673b4829c9eea23c09ae6070",
+        "FileName": "StaticJobTemplateTest.java",
+        "Path": "gobblin-runtime/src/test/java/org/apache/gobblin/runtime/template/StaticJobTemplateTest.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 25,
+        "Deletions": 0,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "476ba2ae48b44c5654258d7398c5fef13848ab0d",
+        "FileName": "SchedulerUtilsTest.java",
+        "Path": "gobblin-runtime/src/test/java/org/apache/gobblin/util/SchedulerUtilsTest.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 12,
+        "Deletions": 6,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      },
+      {
+        "Sha": "53c8e37844ef48dc9844bafaccb6b37c004c4900",
+        "FileName": "StaticFlowTemplate.java",
+        "Path": "gobblin-service/src/main/java/org/apache/gobblin/service/modules/template/StaticFlowTemplate.java",
+        "DateUpdated": "2019-09-24T22:00:52Z",
+        "Additions": 21,
+        "Deletions": 7,
+        "Commits": [
+          "7d260ab2c32a773e317a31cd264f5c97d2d48a10"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "7d260ab2c32a773e317a31cd264f5c97d2d48a10",
+        "Author": {
+          "name": "\"Jack Moseley\"",
+          "company": "LinkedIn"
+        },
+        "Date": "2019-09-24T22:00:52Z",
+        "additions": 678,
+        "deletions": 55,
+        "files": [
+          "cc99373703f92e39d731b89e3f1a354a3546fa66",
+          "c2ba8a466e388879c16706f5705b46cec5513ecb",
+          "6b99f81300e88fee95c7ae4ff0d05ae9558ffe0a",
+          "f9f83d32f20da7b779004cd396d1ed8fe8ed4c08",
+          "a6ca903d5355cd0a3f737f00e4d07f3ce7cd44f9",
+          "b6460d98e6e4f95ca2a7bbaef15dcbe48e2c91b9",
+          "c6386d3d84431130b70e17229354fbba5671987c",
+          "1a1e858ae5051b4f31766e2029a85c2834298e89",
+          "5bd72ee6f0b46034a8b9a4d589f95d26d0457f0b",
+          "455e18dcc906453d189a485ebd2fcc4add6cdeae",
+          "795e3b490c641cfbe72dcf3c3ff307ed288b86bb",
+          "2605c056619a2345d2724476cfd7b27c649761f5",
+          "83e65f1f45c644ee863463651dbaf777e25277b0",
+          "fe3640ab848c0289fd49ab4ad799065701fa3d93",
+          "a4d837aa54e19e03c0dc6aabd4e286ac797f5858",
+          "efb3c2ef1f2dfa5e258db894de5ce6c91aa76cc1",
+          "4b30f897415adf5e132e5e680f89cb50e1eee579",
+          "7ba28d71c993b4eaf749e425192845f3359e2b2a",
+          "392c9812b2877687673b4829c9eea23c09ae6070",
+          "476ba2ae48b44c5654258d7398c5fef13848ab0d",
+          "53c8e37844ef48dc9844bafaccb6b37c004c4900"
+        ]
+      }
+    ]
+  }
+]

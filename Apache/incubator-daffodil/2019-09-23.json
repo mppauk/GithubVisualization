@@ -1,0 +1,42 @@
+[
+  {
+    "RepositoryName": "incubator-daffodil",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T16:04:04Z",
+    "EndDate": "2019-09-23T17:04:04",
+    "Branches": 1,
+    "Forks": 25,
+    "Files": [
+      {
+        "Sha": "aec1df11e66c1c9b0d429d284f6b44e751c96fb3",
+        "FileName": "TDMLRunner.scala",
+        "Path": "daffodil-tdml-lib/src/main/scala/org/apache/daffodil/tdml/TDMLRunner.scala",
+        "DateUpdated": "2019-09-23T16:25:24Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "5f167e3685d35959055e92acdecab9c9959c3e7b"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "5f167e3685d35959055e92acdecab9c9959c3e7b",
+        "Author": {
+          "name": "\"Mike Beckerle\"",
+          "company": "Tresys Technology"
+        },
+        "Commitor": {
+          "name": "\"Mike Beckerle\"",
+          "company": "Tresys Technology"
+        },
+        "Date": "2019-09-23T16:25:24Z",
+        "additions": 3,
+        "deletions": 1,
+        "files": [
+          "aec1df11e66c1c9b0d429d284f6b44e751c96fb3"
+        ]
+      }
+    ]
+  }
+]

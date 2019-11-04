@@ -1,0 +1,84 @@
+[
+  {
+    "RepositoryName": "mesos",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T11:02:53Z",
+    "EndDate": "2019-09-25T12:02:53",
+    "Branches": 7,
+    "Forks": 1624,
+    "Files": [
+      {
+        "Sha": "6c08b1d03260a4ded6d4bc1906bc8131af70cca9",
+        "FileName": "cgroups-cpu.md",
+        "Path": "docs/isolators/cgroups-cpu.md",
+        "DateUpdated": "2019-09-25T11:56:21Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "afd86db2ef651b33188586a5cafe3e532439534d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "afd86db2ef651b33188586a5cafe3e532439534d",
+        "Author": {
+          "name": "\"Andrei Budnik\"",
+          "location": "Minsk, Belarus"
+        },
+        "Commitor": {
+          "name": "\"Andrei Budnik\"",
+          "location": "Minsk, Belarus"
+        },
+        "Date": "2019-09-25T11:56:21Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "6c08b1d03260a4ded6d4bc1906bc8131af70cca9"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "mesos",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T20:02:45Z",
+    "EndDate": "2019-09-25T21:02:45",
+    "Branches": 7,
+    "Forks": 1623,
+    "Files": [
+      {
+        "Sha": "34560503f7c0965f783ab0c6334c6a2b9a68ae33",
+        "FileName": "app.js",
+        "Path": "src/webui/app/app.js",
+        "DateUpdated": "2019-09-25T20:11:08Z",
+        "Additions": 10,
+        "Deletions": 9,
+        "Commits": [
+          "aed0b871479ecb1ee36df334c46203b75d682a7e"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "aed0b871479ecb1ee36df334c46203b75d682a7e",
+        "Author": {
+          "name": "\"Andrei Sekretenko\"",
+          "location": "Hamburg",
+          "company": "Mesosphere"
+        },
+        "Commitor": {
+          "name": "\"Meng Zhu\"",
+          "location": "San Francisco",
+          "company": "Mesosphere Inc."
+        },
+        "Date": "2019-09-25T20:11:08Z",
+        "additions": 10,
+        "deletions": 9,
+        "files": [
+          "34560503f7c0965f783ab0c6334c6a2b9a68ae33"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1282 @@
+[
+  {
+    "RepositoryName": "syncope",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T11:02:57Z",
+    "EndDate": "2019-09-23T12:02:57",
+    "Branches": 12,
+    "Forks": 93,
+    "Files": [
+      {
+        "Sha": "4f9dae102d987638ba4e405d0459479863bc7449",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-23T11:14:09Z",
+        "Additions": 12,
+        "Deletions": 2,
+        "Commits": [
+          "eaab1bc826a871af07cd449e74e6db4e9b908bf8"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "eaab1bc826a871af07cd449e74e6db4e9b908bf8",
+        "Author": {
+          "name": "\"Misagh Moayyed\""
+        },
+        "Commitor": {
+          "name": "\"Francesco Chicchiriccò\"",
+          "location": "Pescara, Italy",
+          "company": "Tirasa"
+        },
+        "Date": "2019-09-23T11:14:09Z",
+        "additions": 12,
+        "deletions": 2,
+        "files": [
+          "4f9dae102d987638ba4e405d0459479863bc7449"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "syncope",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T12:03:22Z",
+    "EndDate": "2019-09-23T13:03:22",
+    "Branches": 12,
+    "Forks": 93,
+    "Files": [
+      {
+        "Sha": "0d721c99ddb2475c57eb70ea1b706b53012f17a1",
+        "FileName": "GatewayRouteDirectoryPanel.java",
+        "Path": "client/am/console/src/main/java/org/apache/syncope/client/console/panels/GatewayRouteDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "f043bc7887ea6d94c2467946f1d7baf252f3bc8c",
+        "FileName": "GatewayRouteWizardBuilder.java",
+        "Path": "client/am/console/src/main/java/org/apache/syncope/client/console/panels/GatewayRouteWizardBuilder.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "19c783b042bbc6de511ee950e23f75c7bb36a52d",
+        "FileName": "IdMImplementationInfoProvider.java",
+        "Path": "client/idm/console/src/main/java/org/apache/syncope/client/console/commons/IdMImplementationInfoProvider.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "e614e70343877ecf743c19ed07378689ab20caff",
+        "FileName": "ConnInstanceHistoryConfDirectoryPanel.java",
+        "Path": "client/idm/console/src/main/java/org/apache/syncope/client/console/panels/ConnInstanceHistoryConfDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "fe488fbc7230bd39b16e473dd33a9703c1a6ff01",
+        "FileName": "RemediationDirectoryPanel.java",
+        "Path": "client/idm/console/src/main/java/org/apache/syncope/client/console/panels/RemediationDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 22,
+        "Deletions": 22,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "60d48c287341ad0409cfe9de6d4b8d3dcff8d681",
+        "FileName": "ResourceHistoryConfDirectoryPanel.java",
+        "Path": "client/idm/console/src/main/java/org/apache/syncope/client/console/panels/ResourceHistoryConfDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "71dfd5c42aedcbe73f6c94b46efe2c76e6fd4f35",
+        "FileName": "ResourceRestClient.java",
+        "Path": "client/idm/console/src/main/java/org/apache/syncope/client/console/rest/ResourceRestClient.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "6fad939368eaa172a10736f16cfa96c677b96018",
+        "FileName": "AnyStatusDirectoryPanel.java",
+        "Path": "client/idm/console/src/main/java/org/apache/syncope/client/console/status/AnyStatusDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "7a42f2a847f4249549c32f166dc1e4e6e257e5cd",
+        "FileName": "TopologyTogglePanel.java",
+        "Path": "client/idm/console/src/main/java/org/apache/syncope/client/console/topology/TopologyTogglePanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "284e3c897454f493d01efe2dbe23f68897ef57f4",
+        "FileName": "TopologyWebSocketBehavior.java",
+        "Path": "client/idm/console/src/main/java/org/apache/syncope/client/console/topology/TopologyWebSocketBehavior.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "d7062c3074ed0ade04299785f79feb960caa2e6e",
+        "FileName": "AbstractMappingPanel.java",
+        "Path": "client/idm/console/src/main/java/org/apache/syncope/client/console/wizards/resources/AbstractMappingPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 6,
+        "Deletions": 7,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "8205605cd669b988828d015338777cf66a71b1a7",
+        "FileName": "ConnectorConfPanel.java",
+        "Path": "client/idm/console/src/main/java/org/apache/syncope/client/console/wizards/resources/ConnectorConfPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "a7989cc317f4bccfbd4462f38ea516c14aeec7af",
+        "FileName": "ProvisionWizardBuilder.java",
+        "Path": "client/idm/console/src/main/java/org/apache/syncope/client/console/wizards/resources/ProvisionWizardBuilder.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "08d7adc3aacc158f800aba5f4ee95e2543ec7d08",
+        "FileName": "ResourceConnConfPanel.java",
+        "Path": "client/idm/console/src/main/java/org/apache/syncope/client/console/wizards/resources/ResourceConnConfPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "3ce6cd4c35fac93422f8d7d5a2a0f0d702caf523",
+        "FileName": "ResourceProvisionPanel.java",
+        "Path": "client/idm/console/src/main/java/org/apache/syncope/client/console/wizards/resources/ResourceProvisionPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 4,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "eb08743003852f6a7028ce3e204dc6a12ce8cb4f",
+        "FileName": "HttpResourceStream.java",
+        "Path": "client/idrepo/common-ui/src/main/java/org/apache/syncope/client/ui/commons/HttpResourceStream.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "cfefd8adf7f700b57aec3d8ac892eca0bb11e970",
+        "FileName": "AnyDataProvider.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/commons/AnyDataProvider.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 6,
+        "Deletions": 5,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "f243261bf208cc617348c86ae4e7de2071d956ab",
+        "FileName": "ClassPathScanImplementationLookup.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/init/ClassPathScanImplementationLookup.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "c5ae91e1188828595e06202561d172f432ab9c1f",
+        "FileName": "MailTemplateDirectoryPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/notifications/MailTemplateDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "adad2471918b0241ffaf2dc38ae1fa6a8b6241a3",
+        "FileName": "NotificationDirectoryPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/notifications/NotificationDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "2593167274661eb882621919c138790be6806bf7",
+        "FileName": "NotificationWizardBuilder.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/notifications/NotificationWizardBuilder.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "074464e6a822897ba920cd1d6f15e9b38cc4bc6d",
+        "FileName": "AccessTokenDirectoryPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/panels/AccessTokenDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "cf4a25c2700f10f594ede6a06ac133a8298aa877",
+        "FileName": "AnyTypeClassesPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/panels/AnyTypeClassesPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 3,
+        "Deletions": 4,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "e78e47166b94a8fa8d8f4a780bc66564d2f15c2e",
+        "FileName": "AnyTypesPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/panels/AnyTypesPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "cd179a1aeb2b6655faa47b0a6931fd1b707e72a9",
+        "FileName": "ApplicationDirectoryPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/panels/ApplicationDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "1d6f5575f2925412d8af1dcae8c605d8d5692ec0",
+        "FileName": "ConsoleLogPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/panels/ConsoleLogPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "0aa5e0d1340afa98fa17b01b273aa7edb2905a39",
+        "FileName": "DomainDirectoryPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/panels/DomainDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "1e79b809e0fca28bc57dcf3ee681d0fc01923b9a",
+        "FileName": "DomainWizardBuilder.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/panels/DomainWizardBuilder.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "09cd23be568edf84b7ba466dc0c6ed4db25526bd",
+        "FileName": "DynRealmDirectoryPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/panels/DynRealmDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "8b76203ea48d15f15685227fc0c9ed8e5fcacd5f",
+        "FileName": "ImplementationDirectoryPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/panels/ImplementationDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "8c691de00a4cea9f8435901607943b70dc1375aa",
+        "FileName": "ParametersDirectoryPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/panels/ParametersDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "12422fedd532b2e3c3494ed2dd71060230546f32",
+        "FileName": "PrivilegeDirectoryPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/panels/PrivilegeDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "f2494fc05512aa4cba58b92bd9332e9b09fbf4eb",
+        "FileName": "PrivilegeWizardBuilder.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/panels/PrivilegeWizardBuilder.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "673522829691c58a441f2bc9b8465272bbe544f3",
+        "FileName": "Realm.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/panels/Realm.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "4cb53b197465ea741264f5591f58e642c6ca87ef",
+        "FileName": "RelationshipTypesPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/panels/RelationshipTypesPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "a1fadcc6fabcdf032cc84a926f03dfa13394f5dd",
+        "FileName": "RoleDirectoryPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/panels/RoleDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "2c36a728e98e399cdb13fffbd41813fcdcc90b88",
+        "FileName": "SchemaTypePanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/panels/SchemaTypePanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "75b22275f981c97d626c220fd92ca691f8914fd7",
+        "FileName": "SecurityQuestionsPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/panels/SecurityQuestionsPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "5d93645e37ec6aa7167b2e66b8022d1f12257d5e",
+        "FileName": "SearchClausePanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/panels/search/SearchClausePanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "84736c0176238cff3e601b34b7c983abf51487e9",
+        "FileName": "PolicyDirectoryPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/policies/PolicyDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "769a855b8fa133588196f381cd339ec4824f62ac",
+        "FileName": "PolicyRuleDirectoryPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/policies/PolicyRuleDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "62acdcbb9e73795acd162c6344431baf7d737676",
+        "FileName": "PolicyRuleWizardBuilder.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/policies/PolicyRuleWizardBuilder.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "9cf57fb45cecb8ad9e67b4a0203ee1025e239ddd",
+        "FileName": "ReportDirectoryPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/reports/ReportDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "c6d714da42957f9483a54970c1c9272f65aa2e66",
+        "FileName": "ReportTemplateDirectoryPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/reports/ReportTemplateDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "5599ae461b48dbbed1d65e2e5237371381d1ab74",
+        "FileName": "ReportletDirectoryPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/reports/ReportletDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "8e881171ba02c54d98d4ceca0dfafc20061dd058",
+        "FileName": "ReportletWizardBuilder.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/reports/ReportletWizardBuilder.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "912fb294d712e9c8f20da01c2fbb1b98922e1082",
+        "FileName": "AnyTypeRestClient.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/rest/AnyTypeRestClient.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "ff4bef0e24210da033f734d6c10145eb4ac1f4c7",
+        "FileName": "LoggerRestClient.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/rest/LoggerRestClient.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "0d36073367378eddb0d1bc22f900761ec33f3273",
+        "FileName": "NotificationTaskDirectoryPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/tasks/NotificationTaskDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "983d131f10e13c71b69cb45546b32991b63f49b9",
+        "FileName": "SchedTaskDirectoryPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/tasks/SchedTaskDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "e7501a9122a60fbae9874c159328270ef9a72fe2",
+        "FileName": "TaskDirectoryPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/tasks/TaskDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "d5e60cb0d89272f81bfec3f19bb73a9086467594",
+        "FileName": "BatchResponseColumn.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/wicket/extensions/markup/html/repeater/data/table/BatchResponseColumn.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 6,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "283a01a78a524fb0ac03cf2f39622a9fd290d80f",
+        "FileName": "BooleanPropertyColumn.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/wicket/extensions/markup/html/repeater/data/table/BooleanPropertyColumn.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "fcae3b3927b2d28e487ef54d36c2b0e4da093494",
+        "FileName": "KeyPropertyColumn.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/wicket/extensions/markup/html/repeater/data/table/KeyPropertyColumn.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "63965201582724dbec1bb08ca06d606860861ab0",
+        "FileName": "JobWidget.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/widgets/JobWidget.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "b82f8baaed4309d4b9e670b2e28577afa3102856",
+        "FileName": "ReconDetailsModalPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/widgets/ReconDetailsModalPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "f6c3788d1caac2c9ef099272f9c1f6c1f71eec79",
+        "FileName": "ReconciliationWidget.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/widgets/ReconciliationWidget.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "920afb396e23c8a7bf1d78fcc3fcdc38e59a896d",
+        "FileName": "AbstractAttrs.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/wizards/any/AbstractAttrs.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "16abbe87277de91521dfecc73c110cae0ed1db02",
+        "FileName": "StatusPanel.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/wizards/any/StatusPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "3d67096a219b13df31ea3d72f7cfd6a1180c3c8a",
+        "FileName": "ClassPathScanImplementationLookup.java",
+        "Path": "client/idrepo/enduser/src/main/java/org/apache/syncope/client/enduser/init/ClassPathScanImplementationLookup.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "487b15f4804d7baf7084f2aa0c970acb07e3c954",
+        "FileName": "SelfConfirmPasswordReset.java",
+        "Path": "client/idrepo/enduser/src/main/java/org/apache/syncope/client/enduser/pages/SelfConfirmPasswordReset.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "8f3c8230f7f9898a8577805ae3f96a88c7631c5a",
+        "FileName": "AnyTypeRestClient.java",
+        "Path": "client/idrepo/enduser/src/main/java/org/apache/syncope/client/enduser/rest/AnyTypeRestClient.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "e64897e8627d941bbdea4d2cb0212a1d3645fe5d",
+        "FileName": "AbstractAttrs.java",
+        "Path": "client/idrepo/enduser/src/main/java/org/apache/syncope/client/enduser/wizards/any/AbstractAttrs.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "c67e280f47a0ab026e6c2f2aed7539ddbdb96583",
+        "FileName": "PlatformInfo.java",
+        "Path": "common/idrepo/lib/src/main/java/org/apache/syncope/common/lib/info/PlatformInfo.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "232ba6b9dbb333dc29619a5812a1b3f09c6aa2bc",
+        "FileName": "GroupFiqlSearchConditionBuilder.java",
+        "Path": "common/idrepo/lib/src/main/java/org/apache/syncope/common/lib/search/GroupFiqlSearchConditionBuilder.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "655224f662ab750d53dcf1dd418050910e4c7181",
+        "FileName": "ClassPathScanImplementationLookup.java",
+        "Path": "core/idrepo/logic/src/main/java/org/apache/syncope/core/logic/init/ClassPathScanImplementationLookup.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "2a76632dc809c734d65e6f339a05769f3d11a5ba",
+        "FileName": "JavaDocUtils.java",
+        "Path": "core/idrepo/rest-cxf/src/main/java/org/apache/syncope/core/rest/cxf/JavaDocUtils.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "f4c1630147cfdf7b5502ed295472668a0ef041ed",
+        "FileName": "SearchCond.java",
+        "Path": "core/persistence-api/src/main/java/org/apache/syncope/core/persistence/api/dao/search/SearchCond.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "ed767900fc745eb8c011dabaa35677f662661416",
+        "FileName": "AbstractJPAJSONAnyDAO.java",
+        "Path": "core/persistence-jpa-json/src/main/java/org/apache/syncope/core/persistence/jpa/dao/AbstractJPAJSONAnyDAO.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "117ad847404db8a5c77422f210086be6299400c5",
+        "FileName": "DomainConfFactory.java",
+        "Path": "core/persistence-jpa/src/main/java/org/apache/syncope/core/persistence/jpa/DomainConfFactory.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "fe21327d986488275a7052967ee1b7f9524b7f49",
+        "FileName": "MasterDomain.java",
+        "Path": "core/persistence-jpa/src/main/java/org/apache/syncope/core/persistence/jpa/MasterDomain.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "a7d036be5d068fc19d1f1b89b7c0be3364471726",
+        "FileName": "ContentLoaderHandler.java",
+        "Path": "core/persistence-jpa/src/main/java/org/apache/syncope/core/persistence/jpa/content/ContentLoaderHandler.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "9257deb337a0967926820841be60821d22d95822",
+        "FileName": "AbstractAnyDAO.java",
+        "Path": "core/persistence-jpa/src/main/java/org/apache/syncope/core/persistence/jpa/dao/AbstractAnyDAO.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "c3e1d673fb4c9c74e8bccafa18aca1ff5e878111",
+        "FileName": "MultiJarAwarePersistenceUnitPostProcessor.java",
+        "Path": "core/persistence-jpa/src/main/java/org/apache/syncope/core/persistence/jpa/spring/MultiJarAwarePersistenceUnitPostProcessor.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "213972326cc046fe5c95fa4e9f162dbddc4148d5",
+        "FileName": "SchemaKeyValidator.java",
+        "Path": "core/persistence-jpa/src/main/java/org/apache/syncope/core/persistence/jpa/validation/entity/SchemaKeyValidator.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "93522b0fab04bc9477ced0a3a04e074576bc2a05",
+        "FileName": "SyncTokenDeserializer.java",
+        "Path": "core/provisioning-api/src/main/java/org/apache/syncope/core/provisioning/api/serialization/SyncTokenDeserializer.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "c9fa698a79da256b2335242de46240f00e3d0966",
+        "FileName": "ConnIdBundleManagerImpl.java",
+        "Path": "core/provisioning-java/src/main/java/org/apache/syncope/core/provisioning/java/ConnIdBundleManagerImpl.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "50ed6f495f8b94ef01529bc24e957f5d615b1dcd",
+        "FileName": "MappingManagerImpl.java",
+        "Path": "core/provisioning-java/src/main/java/org/apache/syncope/core/provisioning/java/MappingManagerImpl.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "1dd92a830665a115c647a8f0cade9cf4acc7150b",
+        "FileName": "SyncopeJexlFunctions.java",
+        "Path": "core/provisioning-java/src/main/java/org/apache/syncope/core/provisioning/java/jexl/SyncopeJexlFunctions.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "7a19fb0fe9fa78b89e8173decbcb122d6488c9e2",
+        "FileName": "DefaultNotificationManager.java",
+        "Path": "core/provisioning-java/src/main/java/org/apache/syncope/core/provisioning/java/notification/DefaultNotificationManager.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "26f1b8ed4499356d6c90850ab6247411687434ee",
+        "FileName": "PriorityPropagationTaskExecutor.java",
+        "Path": "core/provisioning-java/src/main/java/org/apache/syncope/core/provisioning/java/propagation/PriorityPropagationTaskExecutor.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "0c7df3fa22e347f81bede2bfb42d898ee50a85c9",
+        "FileName": "LDAPPasswordPullActions.java",
+        "Path": "core/provisioning-java/src/main/java/org/apache/syncope/core/provisioning/java/pushpull/LDAPPasswordPullActions.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 4,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "02919c8d1865126a2dabd1625a16f7577d54241c",
+        "FileName": "SinglePullJobDelegate.java",
+        "Path": "core/provisioning-java/src/main/java/org/apache/syncope/core/provisioning/java/pushpull/SinglePullJobDelegate.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "aeb81f2de83b5acbd13641d131d9a2f030140e58",
+        "FileName": "CamelRoutesDirectoryPanel.java",
+        "Path": "ext/camel/client-console/src/main/java/org/apache/syncope/client/console/panels/CamelRoutesDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "a6662c10c162f379cfc0eb2a86ed43e88e50dfd3",
+        "FileName": "CamelRouteLogic.java",
+        "Path": "ext/camel/logic/src/main/java/org/apache/syncope/core/logic/CamelRouteLogic.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "00e41e533ea6001b2c8b6c22b74423a5cc8c3fb5",
+        "FileName": "ElasticsearchAnySearchDAO.java",
+        "Path": "ext/elasticsearch/persistence-jpa/src/main/java/org/apache/syncope/core/persistence/jpa/dao/ElasticsearchAnySearchDAO.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "fd0fc1d3d6ebccfa08a0e534f0d58b86b00268c8",
+        "FileName": "BpmnProcessDirectoryPanel.java",
+        "Path": "ext/flowable/client-console/src/main/java/org/apache/syncope/client/console/panels/BpmnProcessDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "587a10885d96895f2405c862922cefed69df7321",
+        "FileName": "Flowable.java",
+        "Path": "ext/flowable/client-enduser/src/main/java/org/apache/syncope/client/enduser/pages/Flowable.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "0e3466e6363c28384b1ef4909799d2b6623a9402",
+        "FileName": "FlowableRuntimeUtils.java",
+        "Path": "ext/flowable/flowable-bpmn/src/main/java/org/apache/syncope/core/flowable/impl/FlowableRuntimeUtils.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "340f66e80438bf7181c936b017225ba3ea5755d0",
+        "FileName": "FlowableUserRequestHandler.java",
+        "Path": "ext/flowable/flowable-bpmn/src/main/java/org/apache/syncope/core/flowable/impl/FlowableUserRequestHandler.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "b74327e86b60f24e3aa6eb4e4b4433fbe710156c",
+        "FileName": "FlowableUserWorkflowAdapter.java",
+        "Path": "ext/flowable/flowable-bpmn/src/main/java/org/apache/syncope/core/flowable/impl/FlowableUserWorkflowAdapter.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "ac670dc914355b6f69efdea2b955abe221ed691c",
+        "FileName": "DomainProcessEngineFactoryBean.java",
+        "Path": "ext/flowable/flowable-bpmn/src/main/java/org/apache/syncope/core/flowable/support/DomainProcessEngineFactoryBean.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "df92251b02bbe5535e69ca7fb0f94679538d80e5",
+        "FileName": "OIDCProvidersDirectoryPanel.java",
+        "Path": "ext/oidcclient/client-console/src/main/java/org/apache/syncope/client/console/panels/OIDCProvidersDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "7ff0193dfeef6634ff84e367ca67afc8f72ec8f8",
+        "FileName": "OIDCProviderWizardBuilder.java",
+        "Path": "ext/oidcclient/client-console/src/main/java/org/apache/syncope/client/console/wizards/OIDCProviderWizardBuilder.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "d3b5e29de51a2a0792181e9c6590c3a7a735ad23",
+        "FileName": "SAML2IdPsDirectoryPanel.java",
+        "Path": "ext/saml2sp/client-console/src/main/java/org/apache/syncope/client/console/panels/SAML2IdPsDirectoryPanel.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "8e139b03885f2c5375e88649cdc30a389febbb6e",
+        "FileName": "SAML2IdPEntity.java",
+        "Path": "ext/saml2sp/logic/src/main/java/org/apache/syncope/core/logic/saml2/SAML2IdPEntity.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "cd429c8bde0ab6a5846d57f5ea570b9a013f3636",
+        "FileName": "SAML2ReaderWriter.java",
+        "Path": "ext/saml2sp/logic/src/main/java/org/apache/syncope/core/logic/saml2/SAML2ReaderWriter.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 2,
+        "Deletions": 4,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "f239a5b3282cc7e4fa80f73c3de1f4bb722f93bf",
+        "FileName": "ApacheDSStartStopListener.java",
+        "Path": "fit/build-tools/src/main/java/org/apache/syncope/fit/buildtools/ApacheDSStartStopListener.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 10,
+        "Deletions": 5,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "2ff2d7804187283811e436c2ab52ef1baa66e0b1",
+        "FileName": "ConnectorServerStartStopListener.java",
+        "Path": "fit/build-tools/src/main/java/org/apache/syncope/fit/buildtools/ConnectorServerStartStopListener.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "e37ef58ec3dde78a8d27308221daa16c129b01df",
+        "FileName": "H2StartStopListener.java",
+        "Path": "fit/build-tools/src/main/java/org/apache/syncope/fit/buildtools/H2StartStopListener.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      },
+      {
+        "Sha": "e93191da58c6a49d770af0e458e5f51e290942c5",
+        "FileName": "SyncopeSRAApplication.java",
+        "Path": "sra/src/main/java/org/apache/syncope/sra/SyncopeSRAApplication.java",
+        "DateUpdated": "2019-09-23T12:24:59Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "c89a65a4ff1c57e721fec31ca72462fbfae96211"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c89a65a4ff1c57e721fec31ca72462fbfae96211",
+        "Author": {
+          "name": "\"Misagh Moayyed\""
+        },
+        "Commitor": {
+          "name": "\"Francesco Chicchiriccò\"",
+          "location": "Pescara, Italy",
+          "company": "Tirasa"
+        },
+        "Date": "2019-09-23T12:24:59Z",
+        "additions": 225,
+        "deletions": 222,
+        "files": [
+          "0d721c99ddb2475c57eb70ea1b706b53012f17a1",
+          "f043bc7887ea6d94c2467946f1d7baf252f3bc8c",
+          "19c783b042bbc6de511ee950e23f75c7bb36a52d",
+          "e614e70343877ecf743c19ed07378689ab20caff",
+          "fe488fbc7230bd39b16e473dd33a9703c1a6ff01",
+          "60d48c287341ad0409cfe9de6d4b8d3dcff8d681",
+          "71dfd5c42aedcbe73f6c94b46efe2c76e6fd4f35",
+          "6fad939368eaa172a10736f16cfa96c677b96018",
+          "7a42f2a847f4249549c32f166dc1e4e6e257e5cd",
+          "284e3c897454f493d01efe2dbe23f68897ef57f4",
+          "d7062c3074ed0ade04299785f79feb960caa2e6e",
+          "8205605cd669b988828d015338777cf66a71b1a7",
+          "a7989cc317f4bccfbd4462f38ea516c14aeec7af",
+          "08d7adc3aacc158f800aba5f4ee95e2543ec7d08",
+          "3ce6cd4c35fac93422f8d7d5a2a0f0d702caf523",
+          "eb08743003852f6a7028ce3e204dc6a12ce8cb4f",
+          "cfefd8adf7f700b57aec3d8ac892eca0bb11e970",
+          "f243261bf208cc617348c86ae4e7de2071d956ab",
+          "c5ae91e1188828595e06202561d172f432ab9c1f",
+          "adad2471918b0241ffaf2dc38ae1fa6a8b6241a3",
+          "2593167274661eb882621919c138790be6806bf7",
+          "074464e6a822897ba920cd1d6f15e9b38cc4bc6d",
+          "cf4a25c2700f10f594ede6a06ac133a8298aa877",
+          "e78e47166b94a8fa8d8f4a780bc66564d2f15c2e",
+          "cd179a1aeb2b6655faa47b0a6931fd1b707e72a9",
+          "1d6f5575f2925412d8af1dcae8c605d8d5692ec0",
+          "0aa5e0d1340afa98fa17b01b273aa7edb2905a39",
+          "1e79b809e0fca28bc57dcf3ee681d0fc01923b9a",
+          "09cd23be568edf84b7ba466dc0c6ed4db25526bd",
+          "8b76203ea48d15f15685227fc0c9ed8e5fcacd5f",
+          "8c691de00a4cea9f8435901607943b70dc1375aa",
+          "12422fedd532b2e3c3494ed2dd71060230546f32",
+          "f2494fc05512aa4cba58b92bd9332e9b09fbf4eb",
+          "673522829691c58a441f2bc9b8465272bbe544f3",
+          "4cb53b197465ea741264f5591f58e642c6ca87ef",
+          "a1fadcc6fabcdf032cc84a926f03dfa13394f5dd",
+          "2c36a728e98e399cdb13fffbd41813fcdcc90b88",
+          "75b22275f981c97d626c220fd92ca691f8914fd7",
+          "5d93645e37ec6aa7167b2e66b8022d1f12257d5e",
+          "84736c0176238cff3e601b34b7c983abf51487e9",
+          "769a855b8fa133588196f381cd339ec4824f62ac",
+          "62acdcbb9e73795acd162c6344431baf7d737676",
+          "9cf57fb45cecb8ad9e67b4a0203ee1025e239ddd",
+          "c6d714da42957f9483a54970c1c9272f65aa2e66",
+          "5599ae461b48dbbed1d65e2e5237371381d1ab74",
+          "8e881171ba02c54d98d4ceca0dfafc20061dd058",
+          "912fb294d712e9c8f20da01c2fbb1b98922e1082",
+          "ff4bef0e24210da033f734d6c10145eb4ac1f4c7",
+          "0d36073367378eddb0d1bc22f900761ec33f3273",
+          "983d131f10e13c71b69cb45546b32991b63f49b9",
+          "e7501a9122a60fbae9874c159328270ef9a72fe2",
+          "d5e60cb0d89272f81bfec3f19bb73a9086467594",
+          "283a01a78a524fb0ac03cf2f39622a9fd290d80f",
+          "fcae3b3927b2d28e487ef54d36c2b0e4da093494",
+          "63965201582724dbec1bb08ca06d606860861ab0",
+          "b82f8baaed4309d4b9e670b2e28577afa3102856",
+          "f6c3788d1caac2c9ef099272f9c1f6c1f71eec79",
+          "920afb396e23c8a7bf1d78fcc3fcdc38e59a896d",
+          "16abbe87277de91521dfecc73c110cae0ed1db02",
+          "3d67096a219b13df31ea3d72f7cfd6a1180c3c8a",
+          "487b15f4804d7baf7084f2aa0c970acb07e3c954",
+          "8f3c8230f7f9898a8577805ae3f96a88c7631c5a",
+          "e64897e8627d941bbdea4d2cb0212a1d3645fe5d",
+          "c67e280f47a0ab026e6c2f2aed7539ddbdb96583",
+          "232ba6b9dbb333dc29619a5812a1b3f09c6aa2bc",
+          "655224f662ab750d53dcf1dd418050910e4c7181",
+          "2a76632dc809c734d65e6f339a05769f3d11a5ba",
+          "f4c1630147cfdf7b5502ed295472668a0ef041ed",
+          "ed767900fc745eb8c011dabaa35677f662661416",
+          "117ad847404db8a5c77422f210086be6299400c5",
+          "fe21327d986488275a7052967ee1b7f9524b7f49",
+          "a7d036be5d068fc19d1f1b89b7c0be3364471726",
+          "9257deb337a0967926820841be60821d22d95822",
+          "c3e1d673fb4c9c74e8bccafa18aca1ff5e878111",
+          "213972326cc046fe5c95fa4e9f162dbddc4148d5",
+          "93522b0fab04bc9477ced0a3a04e074576bc2a05",
+          "c9fa698a79da256b2335242de46240f00e3d0966",
+          "50ed6f495f8b94ef01529bc24e957f5d615b1dcd",
+          "1dd92a830665a115c647a8f0cade9cf4acc7150b",
+          "7a19fb0fe9fa78b89e8173decbcb122d6488c9e2",
+          "26f1b8ed4499356d6c90850ab6247411687434ee",
+          "0c7df3fa22e347f81bede2bfb42d898ee50a85c9",
+          "02919c8d1865126a2dabd1625a16f7577d54241c",
+          "aeb81f2de83b5acbd13641d131d9a2f030140e58",
+          "a6662c10c162f379cfc0eb2a86ed43e88e50dfd3",
+          "00e41e533ea6001b2c8b6c22b74423a5cc8c3fb5",
+          "fd0fc1d3d6ebccfa08a0e534f0d58b86b00268c8",
+          "587a10885d96895f2405c862922cefed69df7321",
+          "0e3466e6363c28384b1ef4909799d2b6623a9402",
+          "340f66e80438bf7181c936b017225ba3ea5755d0",
+          "b74327e86b60f24e3aa6eb4e4b4433fbe710156c",
+          "ac670dc914355b6f69efdea2b955abe221ed691c",
+          "df92251b02bbe5535e69ca7fb0f94679538d80e5",
+          "7ff0193dfeef6634ff84e367ca67afc8f72ec8f8",
+          "d3b5e29de51a2a0792181e9c6590c3a7a735ad23",
+          "8e139b03885f2c5375e88649cdc30a389febbb6e",
+          "cd429c8bde0ab6a5846d57f5ea570b9a013f3636",
+          "f239a5b3282cc7e4fa80f73c3de1f4bb722f93bf",
+          "2ff2d7804187283811e436c2ab52ef1baa66e0b1",
+          "e37ef58ec3dde78a8d27308221daa16c129b01df",
+          "e93191da58c6a49d770af0e458e5f51e290942c5"
+        ]
+      }
+    ]
+  }
+]

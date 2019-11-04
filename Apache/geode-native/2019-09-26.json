@@ -1,0 +1,129 @@
+[
+  {
+    "RepositoryName": "geode-native",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T14:05:17Z",
+    "EndDate": "2019-09-26T15:05:17",
+    "Branches": 14,
+    "Forks": 42,
+    "Files": [
+      {
+        "Sha": "f0a10c638a358eb547448f1cacd7e81ebedd77fc",
+        "FileName": "startserver.ps1",
+        "Path": "examples/cpp/authinitialize/startserver.ps1",
+        "DateUpdated": "2019-09-26T14:07:00Z",
+        "Additions": 8,
+        "Deletions": 5,
+        "Commits": [
+          "d83baf00a43391c6b317cfa1842c78f47078e0e0"
+        ]
+      },
+      {
+        "Sha": "483ff25e774ea257492840096ac9fb1d0d12865e",
+        "FileName": "startserver.sh",
+        "Path": "examples/cpp/authinitialize/startserver.sh",
+        "DateUpdated": "2019-09-26T14:07:00Z",
+        "Additions": 14,
+        "Deletions": 5,
+        "Commits": [
+          "d83baf00a43391c6b317cfa1842c78f47078e0e0"
+        ]
+      },
+      {
+        "Sha": "6500a30032d58e4159cf551f10653f1c0d3c3545",
+        "FileName": "stopserver.ps1",
+        "Path": "examples/cpp/authinitialize/stopserver.ps1",
+        "DateUpdated": "2019-09-26T14:07:00Z",
+        "Additions": 14,
+        "Deletions": 3,
+        "Commits": [
+          "d83baf00a43391c6b317cfa1842c78f47078e0e0",
+          "d83baf00a43391c6b317cfa1842c78f47078e0e0"
+        ]
+      },
+      {
+        "Sha": "fae134e90ae973ffcb25833fba00e27ffa371600",
+        "FileName": "stopserver.sh",
+        "Path": "examples/cpp/authinitialize/stopserver.sh",
+        "DateUpdated": "2019-09-26T14:07:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d83baf00a43391c6b317cfa1842c78f47078e0e0"
+        ]
+      },
+      {
+        "Sha": "b859386a59e76008eefe0dec5b921339f6bf5455",
+        "FileName": "startserver.ps1",
+        "Path": "examples/dotnet/authinitialize/startserver.ps1",
+        "DateUpdated": "2019-09-26T14:07:00Z",
+        "Additions": 8,
+        "Deletions": 5,
+        "Commits": [
+          "d83baf00a43391c6b317cfa1842c78f47078e0e0"
+        ]
+      },
+      {
+        "Sha": "cbe5c0656c5f56e53f136bbcc68a2f8304c5dfeb",
+        "FileName": "CMakeLists.txt",
+        "Path": "examples/utilities/CMakeLists.txt",
+        "DateUpdated": "2019-09-26T14:07:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d83baf00a43391c6b317cfa1842c78f47078e0e0"
+        ]
+      },
+      {
+        "Sha": "68f090913032c6fefcc1016397542ae7c774fa54",
+        "FileName": "SimpleAuthenticator.java",
+        "Path": "examples/utilities/SimpleAuthenticator.java",
+        "DateUpdated": "2019-09-26T14:07:00Z",
+        "Additions": 0,
+        "Deletions": 84,
+        "Commits": [
+          "d83baf00a43391c6b317cfa1842c78f47078e0e0"
+        ]
+      },
+      {
+        "Sha": "7dc8bd727ac81f75cd1a91aa4c84d0979b48378b",
+        "FileName": "SimpleSecurityManager.java",
+        "Path": "examples/utilities/SimpleSecurityManager.java",
+        "DateUpdated": "2019-09-26T14:07:00Z",
+        "Additions": 79,
+        "Deletions": 0,
+        "Commits": [
+          "d83baf00a43391c6b317cfa1842c78f47078e0e0"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d83baf00a43391c6b317cfa1842c78f47078e0e0",
+        "Author": {
+          "name": "\"Charlie Black\"",
+          "location": "United States"
+        },
+        "Commitor": {
+          "name": "\"Michael Martell\"",
+          "location": "Portland, OR",
+          "company": "Pivotal"
+        },
+        "Date": "2019-09-26T14:07:00Z",
+        "additions": 135,
+        "deletions": 104,
+        "files": [
+          "f0a10c638a358eb547448f1cacd7e81ebedd77fc",
+          "483ff25e774ea257492840096ac9fb1d0d12865e",
+          "6500a30032d58e4159cf551f10653f1c0d3c3545",
+          "fae134e90ae973ffcb25833fba00e27ffa371600",
+          "b859386a59e76008eefe0dec5b921339f6bf5455",
+          "6500a30032d58e4159cf551f10653f1c0d3c3545",
+          "cbe5c0656c5f56e53f136bbcc68a2f8304c5dfeb",
+          "68f090913032c6fefcc1016397542ae7c774fa54",
+          "7dc8bd727ac81f75cd1a91aa4c84d0979b48378b"
+        ]
+      }
+    ]
+  }
+]

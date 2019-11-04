@@ -1,0 +1,54 @@
+[
+  {
+    "RepositoryName": "unomi",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T04:03:21Z",
+    "EndDate": "2019-09-26T05:03:21",
+    "Branches": 11,
+    "Forks": 40,
+    "Files": [
+      {
+        "Sha": "18d11879a305a280c83d32d91ce9661cc01dfb3f",
+        "FileName": "Dockerfile",
+        "Path": "docker/Dockerfile",
+        "DateUpdated": "2019-09-26T04:16:28Z",
+        "Additions": 19,
+        "Deletions": 9,
+        "Commits": [
+          "4fa4955f133471d438d6c85cb96710fcdb18365c"
+        ]
+      },
+      {
+        "Sha": "9cbd0641732415c303a9977d8e3c0542f9ff7123",
+        "FileName": "entrypoint.sh",
+        "Path": "docker/entrypoint.sh",
+        "DateUpdated": "2019-09-26T04:16:28Z",
+        "Additions": 9,
+        "Deletions": 6,
+        "Commits": [
+          "4fa4955f133471d438d6c85cb96710fcdb18365c"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "4fa4955f133471d438d6c85cb96710fcdb18365c",
+        "Author": {
+          "name": "\"Serge Huber\"",
+          "location": "Geneva, Switzerland",
+          "company": "Jahia"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T04:16:28Z",
+        "additions": 28,
+        "deletions": 15,
+        "files": [
+          "18d11879a305a280c83d32d91ce9661cc01dfb3f",
+          "9cbd0641732415c303a9977d8e3c0542f9ff7123"
+        ]
+      }
+    ]
+  }
+]

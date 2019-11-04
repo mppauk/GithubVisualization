@@ -1,0 +1,308 @@
+[
+  {
+    "RepositoryName": "incubator-dolphinscheduler",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T06:48:40Z",
+    "EndDate": "2019-09-24T07:48:40",
+    "Branches": 8,
+    "Forks": 710,
+    "Files": [
+      {
+        "Sha": "b88ec019808dbc2f3cf4e73258c20c27d8552c63",
+        "FileName": "HttpCheckCondition.java",
+        "Path": "escheduler-common/src/main/java/cn/escheduler/common/enums/HttpCheckCondition.java",
+        "DateUpdated": "2019-09-24T07:09:24Z",
+        "Additions": 30,
+        "Deletions": 0,
+        "Commits": [
+          "6525440c945ffc04880c3b3b313b00ebf2085b13"
+        ]
+      },
+      {
+        "Sha": "32cbf1c42fdeddada5620a97c4cd59e4591562ab",
+        "FileName": "HttpMethod.java",
+        "Path": "escheduler-common/src/main/java/cn/escheduler/common/enums/HttpMethod.java",
+        "DateUpdated": "2019-09-24T07:09:24Z",
+        "Additions": 31,
+        "Deletions": 0,
+        "Commits": [
+          "6525440c945ffc04880c3b3b313b00ebf2085b13"
+        ]
+      },
+      {
+        "Sha": "21f4d8b3cc49de640614c36dc384c484d31d63ad",
+        "FileName": "HttpParametersType.java",
+        "Path": "escheduler-common/src/main/java/cn/escheduler/common/enums/HttpParametersType.java",
+        "DateUpdated": "2019-09-24T07:09:24Z",
+        "Additions": 29,
+        "Deletions": 0,
+        "Commits": [
+          "6525440c945ffc04880c3b3b313b00ebf2085b13"
+        ]
+      },
+      {
+        "Sha": "a212261db6cf9f1d5569da4ed9b73c95af146957",
+        "FileName": "TaskType.java",
+        "Path": "escheduler-common/src/main/java/cn/escheduler/common/enums/TaskType.java",
+        "DateUpdated": "2019-09-24T07:09:24Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "6525440c945ffc04880c3b3b313b00ebf2085b13"
+        ]
+      },
+      {
+        "Sha": "ed7cc46a383a2ccb9b1906fc1d3822cf0c6b6247",
+        "FileName": "HttpProperty.java",
+        "Path": "escheduler-common/src/main/java/cn/escheduler/common/process/HttpProperty.java",
+        "DateUpdated": "2019-09-24T07:09:24Z",
+        "Additions": 125,
+        "Deletions": 0,
+        "Commits": [
+          "6525440c945ffc04880c3b3b313b00ebf2085b13"
+        ]
+      },
+      {
+        "Sha": "dc23f738b8de4a6b4af8ce3e1b03f58b29140538",
+        "FileName": "HttpParameters.java",
+        "Path": "escheduler-common/src/main/java/cn/escheduler/common/task/http/HttpParameters.java",
+        "DateUpdated": "2019-09-24T07:09:24Z",
+        "Additions": 108,
+        "Deletions": 0,
+        "Commits": [
+          "6525440c945ffc04880c3b3b313b00ebf2085b13"
+        ]
+      },
+      {
+        "Sha": "b3fcade4a7ac840cff4d62083e3c6f3bbe34c390",
+        "FileName": "TaskParametersUtils.java",
+        "Path": "escheduler-common/src/main/java/cn/escheduler/common/utils/TaskParametersUtils.java",
+        "DateUpdated": "2019-09-24T07:09:24Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "6525440c945ffc04880c3b3b313b00ebf2085b13"
+        ]
+      },
+      {
+        "Sha": "de96ff25be4d06beef70476ad90c0ffa6dc54685",
+        "FileName": "TaskManager.java",
+        "Path": "escheduler-server/src/main/java/cn/escheduler/server/worker/task/TaskManager.java",
+        "DateUpdated": "2019-09-24T07:09:24Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "6525440c945ffc04880c3b3b313b00ebf2085b13"
+        ]
+      },
+      {
+        "Sha": "552e4bd828096c5611added125d72b087fa86723",
+        "FileName": "HttpTask.java",
+        "Path": "escheduler-server/src/main/java/cn/escheduler/server/worker/task/http/HttpTask.java",
+        "DateUpdated": "2019-09-24T07:09:24Z",
+        "Additions": 270,
+        "Deletions": 0,
+        "Commits": [
+          "6525440c945ffc04880c3b3b313b00ebf2085b13"
+        ]
+      },
+      {
+        "Sha": "54c0cdc5f5e1e6963395cc5718b827e9ef75e741",
+        "FileName": "config.js",
+        "Path": "escheduler-ui/src/js/conf/home/pages/dag/_source/config.js",
+        "DateUpdated": "2019-09-24T07:09:24Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "6525440c945ffc04880c3b3b313b00ebf2085b13"
+        ]
+      },
+      {
+        "Sha": "fefdbe670d19d8b5582de11b293d56654c4f938c",
+        "FileName": "dag.scss",
+        "Path": "escheduler-ui/src/js/conf/home/pages/dag/_source/dag.scss",
+        "DateUpdated": "2019-09-24T07:09:24Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "6525440c945ffc04880c3b3b313b00ebf2085b13"
+        ]
+      },
+      {
+        "Sha": "53da59643b8e61023247fcd2ab6eec06201c1666",
+        "FileName": "formModel.vue",
+        "Path": "escheduler-ui/src/js/conf/home/pages/dag/_source/formModel/formModel.vue",
+        "DateUpdated": "2019-09-24T07:09:24Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "6525440c945ffc04880c3b3b313b00ebf2085b13"
+        ]
+      },
+      {
+        "Sha": "1781455f8d8beeb18b8751c92d69b1459fa45eb8",
+        "FileName": "commcon.js",
+        "Path": "escheduler-ui/src/js/conf/home/pages/dag/_source/formModel/tasks/_source/commcon.js",
+        "DateUpdated": "2019-09-24T07:09:24Z",
+        "Additions": 17,
+        "Deletions": 1,
+        "Commits": [
+          "6525440c945ffc04880c3b3b313b00ebf2085b13"
+        ]
+      },
+      {
+        "Sha": "343104f2869ec7e1590d33371b22539735eb06d8",
+        "FileName": "httpParams.vue",
+        "Path": "escheduler-ui/src/js/conf/home/pages/dag/_source/formModel/tasks/_source/httpParams.vue",
+        "DateUpdated": "2019-09-24T07:09:24Z",
+        "Additions": 242,
+        "Deletions": 0,
+        "Commits": [
+          "6525440c945ffc04880c3b3b313b00ebf2085b13"
+        ]
+      },
+      {
+        "Sha": "3e40fce93cd48f872301087035e09e1a83dc73a7",
+        "FileName": "http.vue",
+        "Path": "escheduler-ui/src/js/conf/home/pages/dag/_source/formModel/tasks/http.vue",
+        "DateUpdated": "2019-09-24T07:09:24Z",
+        "Additions": 191,
+        "Deletions": 0,
+        "Commits": [
+          "6525440c945ffc04880c3b3b313b00ebf2085b13"
+        ]
+      },
+      {
+        "Sha": "a0ca7bd141308aed80999648fc48ff6df6e4bba9",
+        "FileName": "toobar_HTTP.png",
+        "Path": "escheduler-ui/src/js/conf/home/pages/dag/img/toobar_HTTP.png",
+        "DateUpdated": "2019-09-24T07:09:24Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "6525440c945ffc04880c3b3b313b00ebf2085b13"
+        ]
+      },
+      {
+        "Sha": "2c866762e0fe94b1419f23fb1ccae7364186df13",
+        "FileName": "en_US.js",
+        "Path": "escheduler-ui/src/js/module/i18n/locale/en_US.js",
+        "DateUpdated": "2019-09-24T07:09:24Z",
+        "Additions": 13,
+        "Deletions": 1,
+        "Commits": [
+          "6525440c945ffc04880c3b3b313b00ebf2085b13"
+        ]
+      },
+      {
+        "Sha": "1ccd9da08e491a34127f09c527cdf35e2e640874",
+        "FileName": "zh_CN.js",
+        "Path": "escheduler-ui/src/js/module/i18n/locale/zh_CN.js",
+        "DateUpdated": "2019-09-24T07:09:24Z",
+        "Additions": 14,
+        "Deletions": 1,
+        "Commits": [
+          "6525440c945ffc04880c3b3b313b00ebf2085b13"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "6525440c945ffc04880c3b3b313b00ebf2085b13",
+        "Author": {
+          "name": "\"黄�?�\""
+        },
+        "Commitor": {
+          "name": "\"Baoqi Wu\"",
+          "location": "Hangzhou, China"
+        },
+        "Date": "2019-09-24T07:09:24Z",
+        "additions": 1093,
+        "deletions": 4,
+        "files": [
+          "b88ec019808dbc2f3cf4e73258c20c27d8552c63",
+          "32cbf1c42fdeddada5620a97c4cd59e4591562ab",
+          "21f4d8b3cc49de640614c36dc384c484d31d63ad",
+          "a212261db6cf9f1d5569da4ed9b73c95af146957",
+          "ed7cc46a383a2ccb9b1906fc1d3822cf0c6b6247",
+          "dc23f738b8de4a6b4af8ce3e1b03f58b29140538",
+          "b3fcade4a7ac840cff4d62083e3c6f3bbe34c390",
+          "de96ff25be4d06beef70476ad90c0ffa6dc54685",
+          "552e4bd828096c5611added125d72b087fa86723",
+          "54c0cdc5f5e1e6963395cc5718b827e9ef75e741",
+          "fefdbe670d19d8b5582de11b293d56654c4f938c",
+          "53da59643b8e61023247fcd2ab6eec06201c1666",
+          "1781455f8d8beeb18b8751c92d69b1459fa45eb8",
+          "343104f2869ec7e1590d33371b22539735eb06d8",
+          "3e40fce93cd48f872301087035e09e1a83dc73a7",
+          "a0ca7bd141308aed80999648fc48ff6df6e4bba9",
+          "2c866762e0fe94b1419f23fb1ccae7364186df13",
+          "1ccd9da08e491a34127f09c527cdf35e2e640874"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-dolphinscheduler",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T07:48:59Z",
+    "EndDate": "2019-09-24T08:48:59",
+    "Branches": 8,
+    "Forks": 711,
+    "Files": [
+      {
+        "Sha": "b8402aacf114c750e6917d72e6549ed0af4a979d",
+        "FileName": "AlertServer.java",
+        "Path": "escheduler-alert/src/main/java/cn/escheduler/alert/AlertServer.java",
+        "DateUpdated": "2019-09-24T08:43:13Z",
+        "Additions": 14,
+        "Deletions": 4,
+        "Commits": [
+          "5a13c4cb2d5a2b6ceafef4f852f20a2907b516a0"
+        ]
+      },
+      {
+        "Sha": "cbc81b06e63ea1e50020350afb9da4effafc234d",
+        "FileName": "application_alert.properties",
+        "Path": "escheduler-alert/src/main/resources/application_alert.properties",
+        "DateUpdated": "2019-09-24T08:43:13Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "5a13c4cb2d5a2b6ceafef4f852f20a2907b516a0"
+        ]
+      },
+      {
+        "Sha": "bb075f7aa8fe6594c3147b71472d4bbec87058ca",
+        "FileName": "escheduler-daemon.sh",
+        "Path": "script/escheduler-daemon.sh",
+        "DateUpdated": "2019-09-24T08:43:13Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "5a13c4cb2d5a2b6ceafef4f852f20a2907b516a0"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "5a13c4cb2d5a2b6ceafef4f852f20a2907b516a0",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"qiaozhanwei\"",
+          "company": "易观智库"
+        },
+        "Date": "2019-09-24T08:43:13Z",
+        "additions": 20,
+        "deletions": 5,
+        "files": [
+          "b8402aacf114c750e6917d72e6549ed0af4a979d",
+          "cbc81b06e63ea1e50020350afb9da4effafc234d",
+          "bb075f7aa8fe6594c3147b71472d4bbec87058ca"
+        ]
+      }
+    ]
+  }
+]

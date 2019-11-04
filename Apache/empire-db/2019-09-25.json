@@ -1,0 +1,246 @@
+[
+  {
+    "RepositoryName": "empire-db",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T07:02:16Z",
+    "EndDate": "2019-09-25T08:02:16",
+    "Branches": 4,
+    "Forks": 18,
+    "Files": [
+      {
+        "Sha": "9a0f73c729ea235e8ca85311caf0c693a9e3949f",
+        "FileName": "TagEncodingHelper.java",
+        "Path": "empire-db-jsf2/src/main/java/org/apache/empire/jsf2/utils/TagEncodingHelper.java",
+        "DateUpdated": "2019-09-25T07:29:41Z",
+        "Additions": 19,
+        "Deletions": 3,
+        "Commits": [
+          "cfdb2faa9e583593e629fd81e96079e7466c3c0e"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "cfdb2faa9e583593e629fd81e96079e7466c3c0e",
+        "Date": "2019-09-25T07:29:41Z",
+        "additions": 19,
+        "deletions": 3,
+        "files": [
+          "9a0f73c729ea235e8ca85311caf0c693a9e3949f"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "empire-db",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T10:02:13Z",
+    "EndDate": "2019-09-25T11:02:13",
+    "Branches": 4,
+    "Forks": 18,
+    "Files": [
+      {
+        "Sha": "e60451d0b99a58aa0196679a298fa46f80335e57",
+        "FileName": "pom.xml",
+        "Path": "empire-db-examples/empire-db-example-jsf2/pom.xml",
+        "DateUpdated": "2019-09-25T10:12:12Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "36fa1dc45056129c657d0dab882dc9dfd822dd0a"
+        ]
+      },
+      {
+        "Sha": "1ae3d8d28455efa599e8961d339c66cb5e6ad33c",
+        "FileName": "pom.xml",
+        "Path": "empire-db-jsf2/pom.xml",
+        "DateUpdated": "2019-09-25T10:12:12Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "36fa1dc45056129c657d0dab882dc9dfd822dd0a"
+        ]
+      },
+      {
+        "Sha": "4fbeb09768a6c89c1710f018c709033772374605",
+        "FileName": "ControlTag.java",
+        "Path": "empire-db-jsf2/src/main/java/org/apache/empire/jsf2/components/ControlTag.java",
+        "DateUpdated": "2019-09-25T10:12:12Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "36fa1dc45056129c657d0dab882dc9dfd822dd0a"
+        ]
+      },
+      {
+        "Sha": "159c62c0af1376d01caf24565ab1ac2f0ed7aa91",
+        "FileName": "InputTag.java",
+        "Path": "empire-db-jsf2/src/main/java/org/apache/empire/jsf2/components/InputTag.java",
+        "DateUpdated": "2019-09-25T10:12:12Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "36fa1dc45056129c657d0dab882dc9dfd822dd0a"
+        ]
+      },
+      {
+        "Sha": "4733a14c65acbe81de2d18e0f7e51ef103c37609",
+        "FileName": "LabelTag.java",
+        "Path": "empire-db-jsf2/src/main/java/org/apache/empire/jsf2/components/LabelTag.java",
+        "DateUpdated": "2019-09-25T10:12:12Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "36fa1dc45056129c657d0dab882dc9dfd822dd0a"
+        ]
+      },
+      {
+        "Sha": "ed707d45bbf5a3148cb371641e7621d08e724583",
+        "FileName": "LinkTag.java",
+        "Path": "empire-db-jsf2/src/main/java/org/apache/empire/jsf2/components/LinkTag.java",
+        "DateUpdated": "2019-09-25T10:12:12Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "36fa1dc45056129c657d0dab882dc9dfd822dd0a"
+        ]
+      },
+      {
+        "Sha": "d840389105d83d2acebb1d380ed8503429d18662",
+        "FileName": "MenuListTag.java",
+        "Path": "empire-db-jsf2/src/main/java/org/apache/empire/jsf2/components/MenuListTag.java",
+        "DateUpdated": "2019-09-25T10:12:12Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "36fa1dc45056129c657d0dab882dc9dfd822dd0a"
+        ]
+      },
+      {
+        "Sha": "cdd593bc8557f0ac29f09e521ec163aa2e360312",
+        "FileName": "SelectTag.java",
+        "Path": "empire-db-jsf2/src/main/java/org/apache/empire/jsf2/components/SelectTag.java",
+        "DateUpdated": "2019-09-25T10:12:12Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "36fa1dc45056129c657d0dab882dc9dfd822dd0a"
+        ]
+      },
+      {
+        "Sha": "031cf22ba5170bd1e7fc33292f952cc6b5f9b6bb",
+        "FileName": "TabPageTag.java",
+        "Path": "empire-db-jsf2/src/main/java/org/apache/empire/jsf2/components/TabPageTag.java",
+        "DateUpdated": "2019-09-25T10:12:12Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "36fa1dc45056129c657d0dab882dc9dfd822dd0a"
+        ]
+      },
+      {
+        "Sha": "d24204be6f4ea1944cf5cd9cc430c5919fff7404",
+        "FileName": "TabViewTag.java",
+        "Path": "empire-db-jsf2/src/main/java/org/apache/empire/jsf2/components/TabViewTag.java",
+        "DateUpdated": "2019-09-25T10:12:12Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "36fa1dc45056129c657d0dab882dc9dfd822dd0a"
+        ]
+      },
+      {
+        "Sha": "f21d2214bb97f2c88f97354802887b0c63fb6d50",
+        "FileName": "TitleTag.java",
+        "Path": "empire-db-jsf2/src/main/java/org/apache/empire/jsf2/components/TitleTag.java",
+        "DateUpdated": "2019-09-25T10:12:12Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "36fa1dc45056129c657d0dab882dc9dfd822dd0a"
+        ]
+      },
+      {
+        "Sha": "78c15d9aa77b51de93f384c730038ef1fc16319e",
+        "FileName": "ValueTag.java",
+        "Path": "empire-db-jsf2/src/main/java/org/apache/empire/jsf2/components/ValueTag.java",
+        "DateUpdated": "2019-09-25T10:12:12Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "36fa1dc45056129c657d0dab882dc9dfd822dd0a"
+        ]
+      },
+      {
+        "Sha": "0c574010fe511443d2dc701d6beb25becd3ac5e7",
+        "FileName": "TextInputControl.java",
+        "Path": "empire-db-jsf2/src/main/java/org/apache/empire/jsf2/controls/TextInputControl.java",
+        "DateUpdated": "2019-09-25T10:12:12Z",
+        "Additions": 6,
+        "Deletions": 4,
+        "Commits": [
+          "36fa1dc45056129c657d0dab882dc9dfd822dd0a"
+        ]
+      },
+      {
+        "Sha": "40eb08a74ac94fee5ebaf7c854cc9d982cb002e6",
+        "FileName": "TagEncodingHelper.java",
+        "Path": "empire-db-jsf2/src/main/java/org/apache/empire/jsf2/utils/TagEncodingHelper.java",
+        "DateUpdated": "2019-09-25T10:12:12Z",
+        "Additions": 125,
+        "Deletions": 114,
+        "Commits": [
+          "36fa1dc45056129c657d0dab882dc9dfd822dd0a"
+        ]
+      },
+      {
+        "Sha": "5aa9f5343d12e2cd7b4b97f41a217d1e942ff740",
+        "FileName": "TagEncodingHelperFactory.java",
+        "Path": "empire-db-jsf2/src/main/java/org/apache/empire/jsf2/utils/TagEncodingHelperFactory.java",
+        "DateUpdated": "2019-09-25T10:12:12Z",
+        "Additions": 54,
+        "Deletions": 0,
+        "Commits": [
+          "36fa1dc45056129c657d0dab882dc9dfd822dd0a"
+        ]
+      },
+      {
+        "Sha": "810058c438a7227da52a4ea8e58944aa7950d012",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-25T10:12:12Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "36fa1dc45056129c657d0dab882dc9dfd822dd0a"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "36fa1dc45056129c657d0dab882dc9dfd822dd0a",
+        "Date": "2019-09-25T10:12:12Z",
+        "additions": 211,
+        "deletions": 135,
+        "files": [
+          "e60451d0b99a58aa0196679a298fa46f80335e57",
+          "1ae3d8d28455efa599e8961d339c66cb5e6ad33c",
+          "4fbeb09768a6c89c1710f018c709033772374605",
+          "159c62c0af1376d01caf24565ab1ac2f0ed7aa91",
+          "4733a14c65acbe81de2d18e0f7e51ef103c37609",
+          "ed707d45bbf5a3148cb371641e7621d08e724583",
+          "d840389105d83d2acebb1d380ed8503429d18662",
+          "cdd593bc8557f0ac29f09e521ec163aa2e360312",
+          "031cf22ba5170bd1e7fc33292f952cc6b5f9b6bb",
+          "d24204be6f4ea1944cf5cd9cc430c5919fff7404",
+          "f21d2214bb97f2c88f97354802887b0c63fb6d50",
+          "78c15d9aa77b51de93f384c730038ef1fc16319e",
+          "0c574010fe511443d2dc701d6beb25becd3ac5e7",
+          "40eb08a74ac94fee5ebaf7c854cc9d982cb002e6",
+          "5aa9f5343d12e2cd7b4b97f41a217d1e942ff740",
+          "810058c438a7227da52a4ea8e58944aa7950d012"
+        ]
+      }
+    ]
+  }
+]

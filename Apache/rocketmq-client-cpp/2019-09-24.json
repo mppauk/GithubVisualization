@@ -1,0 +1,66 @@
+[
+  {
+    "RepositoryName": "rocketmq-client-cpp",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T03:48:15Z",
+    "EndDate": "2019-09-24T04:48:15",
+    "Branches": 3,
+    "Forks": 70,
+    "Files": [
+      {
+        "Sha": "391b28946faf6b77995584fc3e5eb7034e8413b2",
+        "FileName": "CCommon.h",
+        "Path": "include/CCommon.h",
+        "DateUpdated": "2019-09-24T04:14:12Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "77e6b8f52511b339b04535aaa084f15daccff944"
+        ]
+      },
+      {
+        "Sha": "0369a807f629f11ca232755ac155cc3ec4620964",
+        "FileName": "CPushConsumer.h",
+        "Path": "include/CPushConsumer.h",
+        "DateUpdated": "2019-09-24T04:14:12Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "77e6b8f52511b339b04535aaa084f15daccff944"
+        ]
+      },
+      {
+        "Sha": "66ef93757a8969ee4741ee4c3f80101a5c46f2d0",
+        "FileName": "CPushConsumer.cpp",
+        "Path": "src/extern/CPushConsumer.cpp",
+        "DateUpdated": "2019-09-24T04:14:12Z",
+        "Additions": 13,
+        "Deletions": 0,
+        "Commits": [
+          "77e6b8f52511b339b04535aaa084f15daccff944"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "77e6b8f52511b339b04535aaa084f15daccff944",
+        "Author": {
+          "name": "\"dinglei\"",
+          "location": "æ?­å·ž"
+        },
+        "Commitor": {
+          "name": "\"dinglei\"",
+          "location": "æ?­å·ž"
+        },
+        "Date": "2019-09-24T04:14:12Z",
+        "additions": 19,
+        "deletions": 2,
+        "files": [
+          "391b28946faf6b77995584fc3e5eb7034e8413b2",
+          "0369a807f629f11ca232755ac155cc3ec4620964",
+          "66ef93757a8969ee4741ee4c3f80101a5c46f2d0"
+        ]
+      }
+    ]
+  }
+]

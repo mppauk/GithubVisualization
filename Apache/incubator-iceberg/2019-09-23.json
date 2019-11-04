@@ -1,0 +1,93 @@
+[
+  {
+    "RepositoryName": "incubator-iceberg",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T17:04:55Z",
+    "EndDate": "2019-09-23T18:04:55",
+    "Branches": 4,
+    "Forks": 106,
+    "Files": [
+      {
+        "Sha": "11e1a9f454178fdfb0fc0807d0e9fcff7e976120",
+        "FileName": "versions.lock",
+        "Path": "versions.lock",
+        "DateUpdated": "2019-09-23T17:53:38Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "f7bc07d58957d088c766cba845a630594c99f0c8"
+        ]
+      },
+      {
+        "Sha": "338151cfb65be6e8637ea6601b112146fb2a56f4",
+        "FileName": "versions.props",
+        "Path": "versions.props",
+        "DateUpdated": "2019-09-23T17:53:38Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "f7bc07d58957d088c766cba845a630594c99f0c8"
+        ]
+      },
+      {
+        "Sha": "02b3bccd9d0569c16548c5b2b2af33d26dff9449",
+        "FileName": "GenericParquetReaders.java",
+        "Path": "data/src/main/java/org/apache/iceberg/data/parquet/GenericParquetReaders.java",
+        "DateUpdated": "2019-09-23T17:40:17Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "8f8605e52c2650c8f33304a043e137e9dadbe016"
+        ]
+      },
+      {
+        "Sha": "d3266845c6dff8a3f6bd98ce2901d9ec828794fb",
+        "FileName": "DataTest.java",
+        "Path": "data/src/test/java/org/apache/iceberg/data/DataTest.java",
+        "DateUpdated": "2019-09-23T17:40:17Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "8f8605e52c2650c8f33304a043e137e9dadbe016"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "f7bc07d58957d088c766cba845a630594c99f0c8",
+        "Author": {
+          "name": "\"Fokko Driesprong\"",
+          "location": "Netherlands",
+          "company": "GoDataDriven"
+        },
+        "Commitor": {
+          "name": "\"Ryan Blue\""
+        },
+        "Date": "2019-09-23T17:53:38Z",
+        "additions": 7,
+        "deletions": 7,
+        "files": [
+          "11e1a9f454178fdfb0fc0807d0e9fcff7e976120",
+          "338151cfb65be6e8637ea6601b112146fb2a56f4"
+        ]
+      },
+      {
+        "sha": "8f8605e52c2650c8f33304a043e137e9dadbe016",
+        "Author": {
+          "name": "\"Ashley Cox\"",
+          "location": "Oakland, CA"
+        },
+        "Commitor": {
+          "name": "\"Ryan Blue\""
+        },
+        "Date": "2019-09-23T17:40:17Z",
+        "additions": 16,
+        "deletions": 1,
+        "files": [
+          "02b3bccd9d0569c16548c5b2b2af33d26dff9449",
+          "d3266845c6dff8a3f6bd98ce2901d9ec828794fb"
+        ]
+      }
+    ]
+  }
+]

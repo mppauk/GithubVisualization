@@ -1,0 +1,1322 @@
+[
+  {
+    "RepositoryName": "jena",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T09:46:28Z",
+    "EndDate": "2019-09-24T10:46:28",
+    "Branches": 2,
+    "Forks": 430,
+    "Files": [
+      {
+        "Sha": "497aa60e4631353e95559a97024956a7a80f4a33",
+        "FileName": "pom.xml",
+        "Path": "apache-jena-libs/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "eacdd8af39c60c7b9f7193e28657e2b21cc5f828",
+        "FileName": "pom.xml",
+        "Path": "apache-jena-osgi/jena-osgi-features/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "9fd1f5cc575ad939cd3918bb55e42d7af7966b66",
+        "FileName": "pom.xml",
+        "Path": "apache-jena-osgi/jena-osgi/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 8,
+        "Deletions": 8,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "0c70e717bae3806076a99812e1da25040bc2f556",
+        "FileName": "pom.xml",
+        "Path": "apache-jena-osgi/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "982b66546822887e191dfcfd603c213e2c0d32ef",
+        "FileName": "pom.xml",
+        "Path": "apache-jena/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 14,
+        "Deletions": 14,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "c8596e8cf6794d8f1c9ce662a57580ca0d153d2d",
+        "FileName": "pom.xml",
+        "Path": "jena-arq/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "4440bea09f2d2c141ca395c8d0f3fa2ee17ed4b5",
+        "FileName": "pom.xml",
+        "Path": "jena-base/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "fe869cf92f039c0c6dfb72d81ae3c88c3865b5f2",
+        "FileName": "pom.xml",
+        "Path": "jena-cmds/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "4197788b760ffe6dda6370bbc20eb4cb15e37e39",
+        "FileName": "pom.xml",
+        "Path": "jena-core/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "199b52f5c2ef0732ed0bcef7e2e9d97b0a35a036",
+        "FileName": "pom.xml",
+        "Path": "jena-db/jena-dboe-base/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "c9e514880b2db2a64dca5dcb49d37db50f7bb3ef",
+        "FileName": "pom.xml",
+        "Path": "jena-db/jena-dboe-index-test/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "f6021c9124ef24d41f9ed9ccb5e1326b5c0764f7",
+        "FileName": "pom.xml",
+        "Path": "jena-db/jena-dboe-index/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "b6361e85d81dc36ae4e80b8e76538b71d558c915",
+        "FileName": "pom.xml",
+        "Path": "jena-db/jena-dboe-storage/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "be5faeeb231591976043920fc4d781ab2a5792c7",
+        "FileName": "pom.xml",
+        "Path": "jena-db/jena-dboe-trans-data/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "de818bd9265345cefc2e3b782a15ba5d91b9958b",
+        "FileName": "pom.xml",
+        "Path": "jena-db/jena-dboe-transaction/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "36133ab0ca96a5099d83ba209f706ab790475713",
+        "FileName": "pom.xml",
+        "Path": "jena-db/jena-tdb2/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "2d35888f9eda9523131c220c42bd07a6522f1da7",
+        "FileName": "pom.xml",
+        "Path": "jena-db/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "31cab960ead56db0ae6e0ec39e6d70f1419a0264",
+        "FileName": "pom.xml",
+        "Path": "jena-elephas/jena-elephas-common/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "48cf93f01e941db60c326d0ff385bcc0ad97c159",
+        "FileName": "pom.xml",
+        "Path": "jena-elephas/jena-elephas-io/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "e1353a9eb5a08d8e6fabe0552232b4e03552943d",
+        "FileName": "pom.xml",
+        "Path": "jena-elephas/jena-elephas-mapreduce/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "d34cd9c105769ba6901410053c8cf8216b0e3aee",
+        "FileName": "pom.xml",
+        "Path": "jena-elephas/jena-elephas-stats/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "cebcc5e99fb10e7566cbe912e604113345c27859",
+        "FileName": "pom.xml",
+        "Path": "jena-elephas/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "be09890cf647c9959d3f9a45c8b4b85e8efb7dc9",
+        "FileName": "pom.xml",
+        "Path": "jena-extras/jena-querybuilder/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "adc37df0f97fd37d8f8847d057eea10fe2fa0542",
+        "FileName": "pom.xml",
+        "Path": "jena-extras/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "40bb339dd22bea83d5037fe560342033bd5d1a98",
+        "FileName": "pom.xml",
+        "Path": "jena-fuseki2/apache-jena-fuseki/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "9a2195c2fd87611eef2a94a4d637475cf8cd44ad",
+        "FileName": "pom.xml",
+        "Path": "jena-fuseki2/jena-fuseki-access/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "f9e95753c591d0792c562fb175daf74a359d19f4",
+        "FileName": "pom.xml",
+        "Path": "jena-fuseki2/jena-fuseki-core/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "4d863592b0a274f823f06b1461e988d31c479681",
+        "FileName": "pom.xml",
+        "Path": "jena-fuseki2/jena-fuseki-fulljar/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "2a2af76e03345ace8fa8b765e190937badaecde2",
+        "FileName": "pom.xml",
+        "Path": "jena-fuseki2/jena-fuseki-geosparql/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "3b9ed04d80191e9d67173ef57c4c1222efab8565",
+        "FileName": "pom.xml",
+        "Path": "jena-fuseki2/jena-fuseki-main/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "0c73c833ae45ef62a36d75e73a97c85f0f232e0f",
+        "FileName": "pom.xml",
+        "Path": "jena-fuseki2/jena-fuseki-server/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "61f103b251d032f7520d6305e15434c00c6ea730",
+        "FileName": "pom.xml",
+        "Path": "jena-fuseki2/jena-fuseki-war/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "eb1fcc04a0b65ee417d5c637c458ca430a79ee9a",
+        "FileName": "pom.xml",
+        "Path": "jena-fuseki2/jena-fuseki-webapp/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "52e72a0bacbc7738c6297e62ffec8623e85bf39f",
+        "FileName": "pom.xml",
+        "Path": "jena-fuseki2/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "d722b29251be1d65d619caff89b43bfc3be32e98",
+        "FileName": "pom.xml",
+        "Path": "jena-geosparql/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "96674a8e1b68bfad5b9325e71f2ef58b3c04d683",
+        "FileName": "pom.xml",
+        "Path": "jena-integration-tests/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 12,
+        "Deletions": 12,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "a96e4426e26913b2edee491f15321f1f010957fa",
+        "FileName": "pom.xml",
+        "Path": "jena-iri/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "19e4be174ae29cc88d901a1ce0dacd3336e95e7c",
+        "FileName": "pom.xml",
+        "Path": "jena-jdbc/jena-jdbc-core/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "09f15c71a115926c3e7a5c47c59bd2207c0ee14e",
+        "FileName": "pom.xml",
+        "Path": "jena-jdbc/jena-jdbc-driver-bundle/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 9,
+        "Deletions": 9,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "84b28b6421b6abcd19a1868dd47d85fd9496e367",
+        "FileName": "pom.xml",
+        "Path": "jena-jdbc/jena-jdbc-driver-mem/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "e18fa580ce6f4131a52c123aa48c17d05e786303",
+        "FileName": "pom.xml",
+        "Path": "jena-jdbc/jena-jdbc-driver-remote/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "42a3f36f705af3ccc985682c87abc222b7312a1b",
+        "FileName": "pom.xml",
+        "Path": "jena-jdbc/jena-jdbc-driver-tdb/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "4207bf30198757dfe091017213dc16fa06f26399",
+        "FileName": "pom.xml",
+        "Path": "jena-jdbc/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "e1dc930bdd8c14c978f4324fdbb670987806c519",
+        "FileName": "pom.xml",
+        "Path": "jena-permissions/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "4df50c11fe67f8451c8a7a443e4c08eadaaa5b45",
+        "FileName": "pom.xml",
+        "Path": "jena-rdfconnection/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "2da6cc8b4d8cc01694ee8b649f9a1a231f6a59b2",
+        "FileName": "pom.xml",
+        "Path": "jena-sdb/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "d4d6c83e9cae54c1af11e68197f2d207b36f06b9",
+        "FileName": "pom.xml",
+        "Path": "jena-shacl/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "9914cff3b0c17e5091103c1ab2d5e46aa4b67726",
+        "FileName": "pom.xml",
+        "Path": "jena-shaded-guava/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "29b474ebced5f6bc453b64c96fbe2b23fa768a71",
+        "FileName": "pom.xml",
+        "Path": "jena-tdb/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "ae4156dc380feade9522198994cc592ef8e16fde",
+        "FileName": "pom.xml",
+        "Path": "jena-text-es/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "c454a43522a11dac2cd863f94dbdb9d4d7b8976e",
+        "FileName": "pom.xml",
+        "Path": "jena-text/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "aefa02cc88c109ae40437758f05b0336a7c67de2",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-24T10:36:53Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074"
+        ]
+      },
+      {
+        "Sha": "00a7026433624b584515df7332f09b504294a957",
+        "FileName": "pom.xml",
+        "Path": "apache-jena-libs/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "907cf5e00da950f9913e2e68e4fe3f80b0a93398",
+        "FileName": "pom.xml",
+        "Path": "apache-jena-osgi/jena-osgi-features/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "455fa51632cda476090e5788ae4c6342e47aed3d",
+        "FileName": "pom.xml",
+        "Path": "apache-jena-osgi/jena-osgi/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 8,
+        "Deletions": 8,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "d97dec26281b4958fde9d3a67358a8724bac7fac",
+        "FileName": "pom.xml",
+        "Path": "apache-jena-osgi/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "f2cd33dd1b016957fd769489220652b14844ed99",
+        "FileName": "pom.xml",
+        "Path": "apache-jena/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 14,
+        "Deletions": 14,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "93525bc5054100e5d927383b63ece3dd47ff15e3",
+        "FileName": "pom.xml",
+        "Path": "jena-arq/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "1a83490aa1874d0221a62cfb8cc1efc9744b35c4",
+        "FileName": "pom.xml",
+        "Path": "jena-base/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "a34a67da0dc9ddcfc91ea28f578eec8b6989f4ac",
+        "FileName": "pom.xml",
+        "Path": "jena-cmds/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "94f65eb7a9cf11e3bbff026a2a50ff617265af0c",
+        "FileName": "pom.xml",
+        "Path": "jena-core/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "671c5aa2b0fdc80bd7fd45011313a549f138573a",
+        "FileName": "pom.xml",
+        "Path": "jena-db/jena-dboe-base/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "26edc599f4d3f308e7a2b3e1a3dc0b22bbf61859",
+        "FileName": "pom.xml",
+        "Path": "jena-db/jena-dboe-index-test/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "4ae69338cbd9be5fca20531c332826b7121ddeb5",
+        "FileName": "pom.xml",
+        "Path": "jena-db/jena-dboe-index/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "b38e18de3e9685170cc7457d9af6591f09d3d148",
+        "FileName": "pom.xml",
+        "Path": "jena-db/jena-dboe-storage/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "0ac70bda0b47d5c87c18a1629ecf1cd643e85382",
+        "FileName": "pom.xml",
+        "Path": "jena-db/jena-dboe-trans-data/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "47f0e4fb77115751bcb598a541126f6355352253",
+        "FileName": "pom.xml",
+        "Path": "jena-db/jena-dboe-transaction/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "45f27df890aee545c46ba2bb3e34e761681d6650",
+        "FileName": "pom.xml",
+        "Path": "jena-db/jena-tdb2/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "acb3c4fdc68fa17ae50d019522588d0294f5d402",
+        "FileName": "pom.xml",
+        "Path": "jena-db/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "714070c3d160117876912cca9a1c0be5f63b3346",
+        "FileName": "pom.xml",
+        "Path": "jena-elephas/jena-elephas-common/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "a48a2a84c065e41b6126fb87db65ab5623d1f977",
+        "FileName": "pom.xml",
+        "Path": "jena-elephas/jena-elephas-io/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "7c99a6b7aa333e218bdf449afdcd4785db1c19e2",
+        "FileName": "pom.xml",
+        "Path": "jena-elephas/jena-elephas-mapreduce/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "5b52b440cc5cb98ee438bf50fc2be6ccefd51f2a",
+        "FileName": "pom.xml",
+        "Path": "jena-elephas/jena-elephas-stats/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "38197538822203148b8c37a61e6cbe4f60d26708",
+        "FileName": "pom.xml",
+        "Path": "jena-elephas/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "eb8aa56962416015c33b9b338aa6ecb57d348c52",
+        "FileName": "pom.xml",
+        "Path": "jena-extras/jena-querybuilder/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "39dd364f275c8a0384c309c410afbe2e722b9294",
+        "FileName": "pom.xml",
+        "Path": "jena-extras/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "018397496ec86854bdfbe54e039001f4f8dcf5a0",
+        "FileName": "pom.xml",
+        "Path": "jena-fuseki2/apache-jena-fuseki/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "419da2b97681077572a76643be1160d23cf009d3",
+        "FileName": "pom.xml",
+        "Path": "jena-fuseki2/jena-fuseki-access/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "99e0b6fc6053df5881cce57ebf6a961b9f286638",
+        "FileName": "pom.xml",
+        "Path": "jena-fuseki2/jena-fuseki-core/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "f780e6a26007884ef375048f48efcccd29a3836b",
+        "FileName": "pom.xml",
+        "Path": "jena-fuseki2/jena-fuseki-fulljar/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "7e86051464ba0c6b8bf8adbbdc4292cc060d2458",
+        "FileName": "pom.xml",
+        "Path": "jena-fuseki2/jena-fuseki-geosparql/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "d170f23b0ba2e023874444270bed5ff0a3bba000",
+        "FileName": "pom.xml",
+        "Path": "jena-fuseki2/jena-fuseki-main/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "cfaa480f6bac231f275caab356df67bd8fddfc77",
+        "FileName": "pom.xml",
+        "Path": "jena-fuseki2/jena-fuseki-server/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "e4b6eb3b6f8c96fb44533d415c2d1f75243ee8a8",
+        "FileName": "pom.xml",
+        "Path": "jena-fuseki2/jena-fuseki-war/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "c2638678997f0e8f0b7826b83e6af62033afb706",
+        "FileName": "pom.xml",
+        "Path": "jena-fuseki2/jena-fuseki-webapp/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "e5354bd87b215437c04203b1d96eec5a0a8fc67b",
+        "FileName": "pom.xml",
+        "Path": "jena-fuseki2/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "9af25a89e620867e78122fabfad0f18c68f4672e",
+        "FileName": "pom.xml",
+        "Path": "jena-geosparql/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "f822831b77d7a5a0920b171538cbe83013cf372e",
+        "FileName": "pom.xml",
+        "Path": "jena-integration-tests/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 12,
+        "Deletions": 12,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "5b636bbeff3a5b90afd6f4c8b1359d388bfc05a1",
+        "FileName": "pom.xml",
+        "Path": "jena-iri/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "874ca5b6aa5e1ca202f2e1b0deebc0b0507be373",
+        "FileName": "pom.xml",
+        "Path": "jena-jdbc/jena-jdbc-core/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "a187301e196048d43f5c4cf91ff104ce63f3e235",
+        "FileName": "pom.xml",
+        "Path": "jena-jdbc/jena-jdbc-driver-bundle/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 9,
+        "Deletions": 9,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "f05870d149aaabbaa77dfbdc7cd84034553fa10f",
+        "FileName": "pom.xml",
+        "Path": "jena-jdbc/jena-jdbc-driver-mem/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "d31444e87d38fa58e600286614e799fda1040168",
+        "FileName": "pom.xml",
+        "Path": "jena-jdbc/jena-jdbc-driver-remote/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "a9011a16221e4a6fc5e478c80e30b14b9626b89b",
+        "FileName": "pom.xml",
+        "Path": "jena-jdbc/jena-jdbc-driver-tdb/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "9266a4be42793f4cca19e84d83df7ecb4bdb8dc0",
+        "FileName": "pom.xml",
+        "Path": "jena-jdbc/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "6660ac266cc7eb9461203d0ea7c5bf33e31ed0c1",
+        "FileName": "pom.xml",
+        "Path": "jena-permissions/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "d1c71f1cc6accdf5d98b7f0fccdc43b651e9da20",
+        "FileName": "pom.xml",
+        "Path": "jena-rdfconnection/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "7d8e8fddbbe2d64e1440e3d05249953a2ffd928c",
+        "FileName": "pom.xml",
+        "Path": "jena-sdb/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "7f992f1031c3ac00ee90212382c5f9a25dbec372",
+        "FileName": "pom.xml",
+        "Path": "jena-shacl/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "27dffdf480b29b6fbae9045a485d04bf49432626",
+        "FileName": "pom.xml",
+        "Path": "jena-shaded-guava/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "34e6bc531947d6403a2f75ae1fe4c5e1e770b7d6",
+        "FileName": "pom.xml",
+        "Path": "jena-tdb/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "bd86db86239cb4f76b6ea317683ca5a4a4b600dd",
+        "FileName": "pom.xml",
+        "Path": "jena-text-es/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "7079ec6aff86edcd7bb14e9b59dc5ca481084fa0",
+        "FileName": "pom.xml",
+        "Path": "jena-text/pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "34b8b1423ec3efb04af7a397668eca69e400a314",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-24T10:36:31Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "756447a17ee2b150503db6e2b342a276a2865b18"
+        ]
+      },
+      {
+        "Sha": "f569e9d3799e33bdf47df717d585ca84bae97f02",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-24T09:54:22Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "1a6028d19690f93a8e2aa8ec9b817a1439c6183d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "29fea0c687eccebe9d8e7cb32e6dca02b7ad7074",
+        "Author": {
+          "name": "\"Andy Seaborne\"",
+          "location": "Bristol, UK"
+        },
+        "Commitor": {
+          "name": "\"Andy Seaborne\"",
+          "location": "Bristol, UK"
+        },
+        "Date": "2019-09-24T10:36:53Z",
+        "additions": 196,
+        "deletions": 196,
+        "files": [
+          "497aa60e4631353e95559a97024956a7a80f4a33",
+          "eacdd8af39c60c7b9f7193e28657e2b21cc5f828",
+          "9fd1f5cc575ad939cd3918bb55e42d7af7966b66",
+          "0c70e717bae3806076a99812e1da25040bc2f556",
+          "982b66546822887e191dfcfd603c213e2c0d32ef",
+          "c8596e8cf6794d8f1c9ce662a57580ca0d153d2d",
+          "4440bea09f2d2c141ca395c8d0f3fa2ee17ed4b5",
+          "fe869cf92f039c0c6dfb72d81ae3c88c3865b5f2",
+          "4197788b760ffe6dda6370bbc20eb4cb15e37e39",
+          "199b52f5c2ef0732ed0bcef7e2e9d97b0a35a036",
+          "c9e514880b2db2a64dca5dcb49d37db50f7bb3ef",
+          "f6021c9124ef24d41f9ed9ccb5e1326b5c0764f7",
+          "b6361e85d81dc36ae4e80b8e76538b71d558c915",
+          "be5faeeb231591976043920fc4d781ab2a5792c7",
+          "de818bd9265345cefc2e3b782a15ba5d91b9958b",
+          "36133ab0ca96a5099d83ba209f706ab790475713",
+          "2d35888f9eda9523131c220c42bd07a6522f1da7",
+          "31cab960ead56db0ae6e0ec39e6d70f1419a0264",
+          "48cf93f01e941db60c326d0ff385bcc0ad97c159",
+          "e1353a9eb5a08d8e6fabe0552232b4e03552943d",
+          "d34cd9c105769ba6901410053c8cf8216b0e3aee",
+          "cebcc5e99fb10e7566cbe912e604113345c27859",
+          "be09890cf647c9959d3f9a45c8b4b85e8efb7dc9",
+          "adc37df0f97fd37d8f8847d057eea10fe2fa0542",
+          "40bb339dd22bea83d5037fe560342033bd5d1a98",
+          "9a2195c2fd87611eef2a94a4d637475cf8cd44ad",
+          "f9e95753c591d0792c562fb175daf74a359d19f4",
+          "4d863592b0a274f823f06b1461e988d31c479681",
+          "2a2af76e03345ace8fa8b765e190937badaecde2",
+          "3b9ed04d80191e9d67173ef57c4c1222efab8565",
+          "0c73c833ae45ef62a36d75e73a97c85f0f232e0f",
+          "61f103b251d032f7520d6305e15434c00c6ea730",
+          "eb1fcc04a0b65ee417d5c637c458ca430a79ee9a",
+          "52e72a0bacbc7738c6297e62ffec8623e85bf39f",
+          "d722b29251be1d65d619caff89b43bfc3be32e98",
+          "96674a8e1b68bfad5b9325e71f2ef58b3c04d683",
+          "a96e4426e26913b2edee491f15321f1f010957fa",
+          "19e4be174ae29cc88d901a1ce0dacd3336e95e7c",
+          "09f15c71a115926c3e7a5c47c59bd2207c0ee14e",
+          "84b28b6421b6abcd19a1868dd47d85fd9496e367",
+          "e18fa580ce6f4131a52c123aa48c17d05e786303",
+          "42a3f36f705af3ccc985682c87abc222b7312a1b",
+          "4207bf30198757dfe091017213dc16fa06f26399",
+          "e1dc930bdd8c14c978f4324fdbb670987806c519",
+          "4df50c11fe67f8451c8a7a443e4c08eadaaa5b45",
+          "2da6cc8b4d8cc01694ee8b649f9a1a231f6a59b2",
+          "d4d6c83e9cae54c1af11e68197f2d207b36f06b9",
+          "9914cff3b0c17e5091103c1ab2d5e46aa4b67726",
+          "29b474ebced5f6bc453b64c96fbe2b23fa768a71",
+          "ae4156dc380feade9522198994cc592ef8e16fde",
+          "c454a43522a11dac2cd863f94dbdb9d4d7b8976e",
+          "aefa02cc88c109ae40437758f05b0336a7c67de2"
+        ]
+      },
+      {
+        "sha": "756447a17ee2b150503db6e2b342a276a2865b18",
+        "Author": {
+          "name": "\"Andy Seaborne\"",
+          "location": "Bristol, UK"
+        },
+        "Commitor": {
+          "name": "\"Andy Seaborne\"",
+          "location": "Bristol, UK"
+        },
+        "Date": "2019-09-24T10:36:31Z",
+        "additions": 196,
+        "deletions": 196,
+        "files": [
+          "00a7026433624b584515df7332f09b504294a957",
+          "907cf5e00da950f9913e2e68e4fe3f80b0a93398",
+          "455fa51632cda476090e5788ae4c6342e47aed3d",
+          "d97dec26281b4958fde9d3a67358a8724bac7fac",
+          "f2cd33dd1b016957fd769489220652b14844ed99",
+          "93525bc5054100e5d927383b63ece3dd47ff15e3",
+          "1a83490aa1874d0221a62cfb8cc1efc9744b35c4",
+          "a34a67da0dc9ddcfc91ea28f578eec8b6989f4ac",
+          "94f65eb7a9cf11e3bbff026a2a50ff617265af0c",
+          "671c5aa2b0fdc80bd7fd45011313a549f138573a",
+          "26edc599f4d3f308e7a2b3e1a3dc0b22bbf61859",
+          "4ae69338cbd9be5fca20531c332826b7121ddeb5",
+          "b38e18de3e9685170cc7457d9af6591f09d3d148",
+          "0ac70bda0b47d5c87c18a1629ecf1cd643e85382",
+          "47f0e4fb77115751bcb598a541126f6355352253",
+          "45f27df890aee545c46ba2bb3e34e761681d6650",
+          "acb3c4fdc68fa17ae50d019522588d0294f5d402",
+          "714070c3d160117876912cca9a1c0be5f63b3346",
+          "a48a2a84c065e41b6126fb87db65ab5623d1f977",
+          "7c99a6b7aa333e218bdf449afdcd4785db1c19e2",
+          "5b52b440cc5cb98ee438bf50fc2be6ccefd51f2a",
+          "38197538822203148b8c37a61e6cbe4f60d26708",
+          "eb8aa56962416015c33b9b338aa6ecb57d348c52",
+          "39dd364f275c8a0384c309c410afbe2e722b9294",
+          "018397496ec86854bdfbe54e039001f4f8dcf5a0",
+          "419da2b97681077572a76643be1160d23cf009d3",
+          "99e0b6fc6053df5881cce57ebf6a961b9f286638",
+          "f780e6a26007884ef375048f48efcccd29a3836b",
+          "7e86051464ba0c6b8bf8adbbdc4292cc060d2458",
+          "d170f23b0ba2e023874444270bed5ff0a3bba000",
+          "cfaa480f6bac231f275caab356df67bd8fddfc77",
+          "e4b6eb3b6f8c96fb44533d415c2d1f75243ee8a8",
+          "c2638678997f0e8f0b7826b83e6af62033afb706",
+          "e5354bd87b215437c04203b1d96eec5a0a8fc67b",
+          "9af25a89e620867e78122fabfad0f18c68f4672e",
+          "f822831b77d7a5a0920b171538cbe83013cf372e",
+          "5b636bbeff3a5b90afd6f4c8b1359d388bfc05a1",
+          "874ca5b6aa5e1ca202f2e1b0deebc0b0507be373",
+          "a187301e196048d43f5c4cf91ff104ce63f3e235",
+          "f05870d149aaabbaa77dfbdc7cd84034553fa10f",
+          "d31444e87d38fa58e600286614e799fda1040168",
+          "a9011a16221e4a6fc5e478c80e30b14b9626b89b",
+          "9266a4be42793f4cca19e84d83df7ecb4bdb8dc0",
+          "6660ac266cc7eb9461203d0ea7c5bf33e31ed0c1",
+          "d1c71f1cc6accdf5d98b7f0fccdc43b651e9da20",
+          "7d8e8fddbbe2d64e1440e3d05249953a2ffd928c",
+          "7f992f1031c3ac00ee90212382c5f9a25dbec372",
+          "27dffdf480b29b6fbae9045a485d04bf49432626",
+          "34e6bc531947d6403a2f75ae1fe4c5e1e770b7d6",
+          "bd86db86239cb4f76b6ea317683ca5a4a4b600dd",
+          "7079ec6aff86edcd7bb14e9b59dc5ca481084fa0",
+          "34b8b1423ec3efb04af7a397668eca69e400a314"
+        ]
+      },
+      {
+        "sha": "1a6028d19690f93a8e2aa8ec9b817a1439c6183d",
+        "Author": {
+          "name": "\"Andy Seaborne\"",
+          "location": "Bristol, UK"
+        },
+        "Commitor": {
+          "name": "\"Andy Seaborne\"",
+          "location": "Bristol, UK"
+        },
+        "Date": "2019-09-24T09:54:22Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "f569e9d3799e33bdf47df717d585ca84bae97f02"
+        ]
+      }
+    ]
+  }
+]

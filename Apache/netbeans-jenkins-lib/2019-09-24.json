@@ -1,0 +1,40 @@
+[
+  {
+    "RepositoryName": "netbeans-jenkins-lib",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T11:49:03Z",
+    "EndDate": "2019-09-24T12:49:03",
+    "Branches": 2,
+    "Forks": 2,
+    "Files": [
+      {
+        "Sha": "a4ae288211530ad32591e4fdb6a1c47fb9c48fc2",
+        "FileName": "netbeansrelease.json",
+        "Path": "meta/netbeansrelease.json",
+        "DateUpdated": "2019-09-24T12:32:28Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "da59b74239b912c4319da5b5ba9581064d8e04da"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "da59b74239b912c4319da5b5ba9581064d8e04da",
+        "Author": {
+          "name": "\"Eric Barboni\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T12:32:28Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "a4ae288211530ad32591e4fdb6a1c47fb9c48fc2"
+        ]
+      }
+    ]
+  }
+]

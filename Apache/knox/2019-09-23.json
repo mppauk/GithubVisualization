@@ -1,0 +1,203 @@
+[
+  {
+    "RepositoryName": "knox",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T14:02:35Z",
+    "EndDate": "2019-09-23T15:02:35",
+    "Branches": 23,
+    "Forks": 134,
+    "Files": [
+      {
+        "Sha": "cf9fdd7e16cfcd984b2a44ce3bcadaf93d49ab69",
+        "FileName": "PhoenixServiceModelGenerator.java",
+        "Path": "gateway-discovery-cm/src/main/java/org/apache/knox/gateway/topology/discovery/cm/model/phoenix/PhoenixServiceModelGenerator.java",
+        "DateUpdated": "2019-09-23T14:17:41Z",
+        "Additions": 71,
+        "Deletions": 0,
+        "Commits": [
+          "854017d8a7f29fc7e85bd1e3c020b41752e793c1"
+        ]
+      },
+      {
+        "Sha": "c37823ab748892cb00377df0f1d2294dece9fedb",
+        "FileName": "org.apache.knox.gateway.topology.discovery.cm.ServiceModelGenerator",
+        "Path": "gateway-discovery-cm/src/main/resources/META-INF/services/org.apache.knox.gateway.topology.discovery.cm.ServiceModelGenerator",
+        "DateUpdated": "2019-09-23T14:17:41Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "854017d8a7f29fc7e85bd1e3c020b41752e793c1"
+        ]
+      },
+      {
+        "Sha": "edee5ddc2a83723ffcf825df7a0c88a445fae777",
+        "FileName": "ClouderaManagerServiceDiscoveryTest.java",
+        "Path": "gateway-discovery-cm/src/test/java/org/apache/knox/gateway/topology/discovery/cm/ClouderaManagerServiceDiscoveryTest.java",
+        "DateUpdated": "2019-09-23T14:17:41Z",
+        "Additions": 24,
+        "Deletions": 0,
+        "Commits": [
+          "854017d8a7f29fc7e85bd1e3c020b41752e793c1"
+        ]
+      },
+      {
+        "Sha": "960f300794c4b2856cf4c28a9e5b716a84d54c4f",
+        "FileName": "new-desc-wizard.component.html",
+        "Path": "gateway-admin-ui/admin-ui/app/new-desc-wizard/new-desc-wizard.component.html",
+        "DateUpdated": "2019-09-23T14:16:17Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "51b9ab77960eeb1a65248ac2f602d7903765ac82"
+        ]
+      },
+      {
+        "Sha": "f6bb824e837b6543fd254096da85ab31320ae6cf",
+        "FileName": "resource-detail.component.html",
+        "Path": "gateway-admin-ui/admin-ui/app/resource-detail/resource-detail.component.html",
+        "DateUpdated": "2019-09-23T14:16:17Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "51b9ab77960eeb1a65248ac2f602d7903765ac82"
+        ]
+      },
+      {
+        "Sha": "a8fcc281d9533565afa028cdcfb30661fa7aa691",
+        "FileName": "resource.service.ts",
+        "Path": "gateway-admin-ui/admin-ui/app/resource/resource.service.ts",
+        "DateUpdated": "2019-09-23T14:16:17Z",
+        "Additions": 23,
+        "Deletions": 4,
+        "Commits": [
+          "51b9ab77960eeb1a65248ac2f602d7903765ac82"
+        ]
+      },
+      {
+        "Sha": "cef6e9c83c7812efbf6bccf8230e45451a4d0839",
+        "FileName": "AmbariServiceDiscovery.java",
+        "Path": "gateway-discovery-ambari/src/main/java/org/apache/knox/gateway/topology/discovery/ambari/AmbariServiceDiscovery.java",
+        "DateUpdated": "2019-09-23T14:16:17Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "51b9ab77960eeb1a65248ac2f602d7903765ac82"
+        ]
+      },
+      {
+        "Sha": "f055f704abc5e17a3e9fcc1ecd755e67bc07b45d",
+        "FileName": "ServiceDiscoveryFactory.java",
+        "Path": "gateway-server/src/main/java/org/apache/knox/gateway/topology/discovery/ServiceDiscoveryFactory.java",
+        "DateUpdated": "2019-09-23T14:16:17Z",
+        "Additions": 0,
+        "Deletions": 81,
+        "Commits": [
+          "51b9ab77960eeb1a65248ac2f602d7903765ac82"
+        ]
+      },
+      {
+        "Sha": "7aa712d97d500b07de6d932b882bfe00103596d8",
+        "FileName": "ServiceDiscoveryFactoryTest.java",
+        "Path": "gateway-server/src/test/java/org/apache/knox/gateway/topology/discovery/ServiceDiscoveryFactoryTest.java",
+        "DateUpdated": "2019-09-23T14:16:17Z",
+        "Additions": 12,
+        "Deletions": 0,
+        "Commits": [
+          "51b9ab77960eeb1a65248ac2f602d7903765ac82"
+        ]
+      },
+      {
+        "Sha": "6f93cd473b9fd3fea4587d83a5e16e06cae570f4",
+        "FileName": "ServiceDiscoveryCollectionMarshaller.java",
+        "Path": "gateway-service-admin/src/main/java/org/apache/knox/gateway/service/admin/ServiceDiscoveryCollectionMarshaller.java",
+        "DateUpdated": "2019-09-23T14:16:17Z",
+        "Additions": 70,
+        "Deletions": 0,
+        "Commits": [
+          "51b9ab77960eeb1a65248ac2f602d7903765ac82"
+        ]
+      },
+      {
+        "Sha": "5cbea7422e6d98710877baedf7fe682afe289d6d",
+        "FileName": "ServiceDiscoveryResource.java",
+        "Path": "gateway-service-admin/src/main/java/org/apache/knox/gateway/service/admin/ServiceDiscoveryResource.java",
+        "DateUpdated": "2019-09-23T14:16:17Z",
+        "Additions": 102,
+        "Deletions": 0,
+        "Commits": [
+          "51b9ab77960eeb1a65248ac2f602d7903765ac82"
+        ]
+      },
+      {
+        "Sha": "3ddc691268a670be43010a8b001469a8e8def6ab",
+        "FileName": "pom.xml",
+        "Path": "gateway-spi/pom.xml",
+        "DateUpdated": "2019-09-23T14:16:17Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "51b9ab77960eeb1a65248ac2f602d7903765ac82"
+        ]
+      },
+      {
+        "Sha": "05b339839c69d4515bad233d8daee9228c055c97",
+        "FileName": "ServiceDiscoveryFactory.java",
+        "Path": "gateway-spi/src/main/java/org/apache/knox/gateway/topology/discovery/ServiceDiscoveryFactory.java",
+        "DateUpdated": "2019-09-23T14:16:17Z",
+        "Additions": 81,
+        "Deletions": 0,
+        "Commits": [
+          "51b9ab77960eeb1a65248ac2f602d7903765ac82"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "854017d8a7f29fc7e85bd1e3c020b41752e793c1",
+        "Author": {
+          "name": "\"Istvan Toth\""
+        },
+        "Commitor": {
+          "name": "\"Kevin Risden\"",
+          "location": "Durham, NC",
+          "company": "@cloudera @hortonworks @apache "
+        },
+        "Date": "2019-09-23T14:17:41Z",
+        "additions": 96,
+        "deletions": 0,
+        "files": [
+          "cf9fdd7e16cfcd984b2a44ce3bcadaf93d49ab69",
+          "c37823ab748892cb00377df0f1d2294dece9fedb",
+          "edee5ddc2a83723ffcf825df7a0c88a445fae777"
+        ]
+      },
+      {
+        "sha": "51b9ab77960eeb1a65248ac2f602d7903765ac82",
+        "Author": {
+          "name": "\"Sandor Molnar\"",
+          "company": "@hortonworks "
+        },
+        "Commitor": {
+          "name": "\"Kevin Risden\"",
+          "location": "Durham, NC",
+          "company": "@cloudera @hortonworks @apache "
+        },
+        "Date": "2019-09-23T14:16:17Z",
+        "additions": 295,
+        "deletions": 88,
+        "files": [
+          "960f300794c4b2856cf4c28a9e5b716a84d54c4f",
+          "f6bb824e837b6543fd254096da85ab31320ae6cf",
+          "a8fcc281d9533565afa028cdcfb30661fa7aa691",
+          "cef6e9c83c7812efbf6bccf8230e45451a4d0839",
+          "f055f704abc5e17a3e9fcc1ecd755e67bc07b45d",
+          "7aa712d97d500b07de6d932b882bfe00103596d8",
+          "6f93cd473b9fd3fea4587d83a5e16e06cae570f4",
+          "5cbea7422e6d98710877baedf7fe682afe289d6d",
+          "3ddc691268a670be43010a8b001469a8e8def6ab",
+          "05b339839c69d4515bad233d8daee9228c055c97"
+        ]
+      }
+    ]
+  }
+]

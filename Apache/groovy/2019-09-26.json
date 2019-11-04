@@ -1,0 +1,232 @@
+[
+  {
+    "RepositoryName": "groovy",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T00:04:06Z",
+    "EndDate": "2019-09-26T01:04:06",
+    "Branches": 49,
+    "Forks": 1301,
+    "Files": [],
+    "Commits": [
+      {
+        "sha": "7f4fbef7a2bf15e15ca32a2cdf3f9991fdf60739",
+        "Author": {
+          "name": "\"Paul King\""
+        },
+        "Commitor": {
+          "name": "\"Paul King\""
+        },
+        "Date": "2019-09-26T00:25:40Z",
+        "additions": 0,
+        "deletions": 0,
+        "files": []
+      }
+    ]
+  },
+  {
+    "RepositoryName": "groovy",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T08:03:41Z",
+    "EndDate": "2019-09-26T09:03:41",
+    "Branches": 49,
+    "Forks": 1301,
+    "Files": [
+      {
+        "Sha": "804a9dd1e904cbd099c8e2351b66f03cc386abf0",
+        "FileName": "GroovyScriptEngineTest.groovy",
+        "Path": "src/test/groovy/util/GroovyScriptEngineTest.groovy",
+        "DateUpdated": "2019-09-26T08:45:11Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "ac64c64518a4d8fb2d017eb982564d7d3410a09b"
+        ]
+      },
+      {
+        "Sha": "fa6aa7b7e275da0bcec0bbd727b12b0bada3c6ed",
+        "FileName": "Antlr4ParserPlugin.java",
+        "Path": "subprojects/parser-antlr4/src/main/java/org/apache/groovy/parser/antlr4/Antlr4ParserPlugin.java",
+        "DateUpdated": "2019-09-26T08:20:30Z",
+        "Additions": 1,
+        "Deletions": 7,
+        "Commits": [
+          "288767e01eeafc4c501173e2d7882bb9eeb7dc5f"
+        ]
+      },
+      {
+        "Sha": "15f233ba007186ce0cd2095080e369507980b495",
+        "FileName": "Antlr4ParserPlugin.java",
+        "Path": "subprojects/parser-antlr4/src/main/java/org/apache/groovy/parser/antlr4/Antlr4ParserPlugin.java",
+        "DateUpdated": "2019-09-26T08:19:55Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1f0dd524371bda188ae25a36d389b98577912079"
+        ]
+      },
+      {
+        "Sha": "922d4ee7c543595c8968b9d7242fccde5cc881a7",
+        "FileName": "Antlr2Utils.java",
+        "Path": "src/main/java/org/codehaus/groovy/ast/tools/Antlr2Utils.java",
+        "DateUpdated": "2019-09-26T08:15:17Z",
+        "Additions": 41,
+        "Deletions": 0,
+        "Commits": [
+          "80441d191ae88018ec81a8afd396d7342664b9a9"
+        ]
+      },
+      {
+        "Sha": "18e8aae728ae75c39805d2b42c4af19acb8b98a5",
+        "FileName": "Antlr4Utils.java",
+        "Path": "src/main/java/org/codehaus/groovy/ast/tools/Antlr4Utils.java",
+        "DateUpdated": "2019-09-26T08:15:17Z",
+        "Additions": 18,
+        "Deletions": 0,
+        "Commits": [
+          "80441d191ae88018ec81a8afd396d7342664b9a9"
+        ]
+      },
+      {
+        "Sha": "f3c6f9278f8b4972a4228c9061a05dcbc9e5e28c",
+        "FileName": "GenericsUtils.java",
+        "Path": "src/main/java/org/codehaus/groovy/ast/tools/GenericsUtils.java",
+        "DateUpdated": "2019-09-26T08:15:17Z",
+        "Additions": 3,
+        "Deletions": 7,
+        "Commits": [
+          "80441d191ae88018ec81a8afd396d7342664b9a9"
+        ]
+      },
+      {
+        "Sha": "865068b79a812edfe10cd03e9a4f3704c35c42ee",
+        "FileName": "MarkupTemplateTypeCheckingExtension.groovy",
+        "Path": "subprojects/groovy-templates/src/main/groovy/groovy/text/markup/MarkupTemplateTypeCheckingExtension.groovy",
+        "DateUpdated": "2019-09-26T08:15:17Z",
+        "Additions": 21,
+        "Deletions": 25,
+        "Commits": [
+          "80441d191ae88018ec81a8afd396d7342664b9a9"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "ac64c64518a4d8fb2d017eb982564d7d3410a09b",
+        "Author": {
+          "name": "\"Paul King\""
+        },
+        "Commitor": {
+          "name": "\"Paul King\""
+        },
+        "Date": "2019-09-26T08:45:11Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "804a9dd1e904cbd099c8e2351b66f03cc386abf0"
+        ]
+      },
+      {
+        "sha": "288767e01eeafc4c501173e2d7882bb9eeb7dc5f",
+        "Author": {
+          "name": "\"Daniel.Sun\"",
+          "location": "Shanghai, China",
+          "company": "@HKBEA"
+        },
+        "Commitor": {
+          "name": "\"Paul King\""
+        },
+        "Date": "2019-09-26T08:20:30Z",
+        "additions": 1,
+        "deletions": 7,
+        "files": [
+          "fa6aa7b7e275da0bcec0bbd727b12b0bada3c6ed"
+        ]
+      },
+      {
+        "sha": "1f0dd524371bda188ae25a36d389b98577912079",
+        "Author": {
+          "name": "\"Daniel.Sun\"",
+          "location": "Shanghai, China",
+          "company": "@HKBEA"
+        },
+        "Commitor": {
+          "name": "\"Paul King\""
+        },
+        "Date": "2019-09-26T08:19:55Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "15f233ba007186ce0cd2095080e369507980b495"
+        ]
+      },
+      {
+        "sha": "80441d191ae88018ec81a8afd396d7342664b9a9",
+        "Author": {
+          "name": "\"Paul King\""
+        },
+        "Commitor": {
+          "name": "\"Paul King\""
+        },
+        "Date": "2019-09-26T08:15:17Z",
+        "additions": 83,
+        "deletions": 32,
+        "files": [
+          "922d4ee7c543595c8968b9d7242fccde5cc881a7",
+          "18e8aae728ae75c39805d2b42c4af19acb8b98a5",
+          "f3c6f9278f8b4972a4228c9061a05dcbc9e5e28c",
+          "865068b79a812edfe10cd03e9a4f3704c35c42ee"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "groovy",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T10:03:21Z",
+    "EndDate": "2019-09-26T11:03:21",
+    "Branches": 49,
+    "Forks": 1300,
+    "Files": [
+      {
+        "Sha": "922d4ee7c543595c8968b9d7242fccde5cc881a7",
+        "FileName": "Antlr2Utils.java",
+        "Path": "src/main/java/org/codehaus/groovy/ast/tools/Antlr2Utils.java",
+        "DateUpdated": "2019-09-26T10:39:35Z",
+        "Additions": 0,
+        "Deletions": 41,
+        "Commits": [
+          "24fe1f4597908cef07072d6f18a94fe369567338"
+        ]
+      },
+      {
+        "Sha": "75f072041a17953b0d6522f7abe41e7bd7d73649",
+        "FileName": "ClassNodeUtils.java",
+        "Path": "src/main/java/org/codehaus/groovy/ast/tools/ClassNodeUtils.java",
+        "DateUpdated": "2019-09-26T10:39:35Z",
+        "Additions": 0,
+        "Deletions": 79,
+        "Commits": [
+          "24fe1f4597908cef07072d6f18a94fe369567338"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "24fe1f4597908cef07072d6f18a94fe369567338",
+        "Author": {
+          "name": "\"Paul King\""
+        },
+        "Commitor": {
+          "name": "\"Paul King\""
+        },
+        "Date": "2019-09-26T10:39:35Z",
+        "additions": 0,
+        "deletions": 120,
+        "files": [
+          "922d4ee7c543595c8968b9d7242fccde5cc881a7",
+          "75f072041a17953b0d6522f7abe41e7bd7d73649"
+        ]
+      }
+    ]
+  }
+]

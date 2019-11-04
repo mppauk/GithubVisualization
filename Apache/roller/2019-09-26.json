@@ -1,0 +1,102 @@
+[
+  {
+    "RepositoryName": "roller",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T10:02:09Z",
+    "EndDate": "2019-09-26T11:02:09",
+    "Branches": 19,
+    "Forks": 92,
+    "Files": [
+      {
+        "Sha": "85917a8dbc9fb6951cbbd4ab6a2fcabb66e47b25",
+        "FileName": "db-connection-error.png",
+        "Path": "docs/images/db-connection-error.png",
+        "DateUpdated": "2019-09-26T10:22:55Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "cc00163a4571eed5b26148431d8916fd2c2e49e2"
+        ]
+      },
+      {
+        "Sha": "acaed1851ea85e60f264aa3067331e32ffdaf32d",
+        "FileName": "no-tables-found.png",
+        "Path": "docs/images/no-tables-found.png",
+        "DateUpdated": "2019-09-26T10:22:55Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "cc00163a4571eed5b26148431d8916fd2c2e49e2"
+        ]
+      },
+      {
+        "Sha": "ff0bed73a379429796fd5c9235e6269e9dc0e883",
+        "FileName": "roller-home.png",
+        "Path": "docs/images/roller-home.png",
+        "DateUpdated": "2019-09-26T10:22:55Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "cc00163a4571eed5b26148431d8916fd2c2e49e2"
+        ]
+      },
+      {
+        "Sha": "dc28dbe8a37f7a72fbfc47a1e951be18f98b9ba7",
+        "FileName": "roller-install-guide-tomcat-deploy.png",
+        "Path": "docs/images/roller-install-guide-tomcat-deploy.png",
+        "DateUpdated": "2019-09-26T10:22:55Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "cc00163a4571eed5b26148431d8916fd2c2e49e2"
+        ]
+      },
+      {
+        "Sha": "487abfffb5a26bc49e22285b42df74f53517eb60",
+        "FileName": "roller-install-guide-tomcat.png",
+        "Path": "docs/images/roller-install-guide-tomcat.png",
+        "DateUpdated": "2019-09-26T10:22:55Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "cc00163a4571eed5b26148431d8916fd2c2e49e2"
+        ]
+      },
+      {
+        "Sha": "2deae22cf6ea798ffb2464536ee6f582a7556c85",
+        "FileName": "roller-install-guide.adoc",
+        "Path": "docs/roller-install-guide.adoc",
+        "DateUpdated": "2019-09-26T10:22:55Z",
+        "Additions": 855,
+        "Deletions": 0,
+        "Commits": [
+          "cc00163a4571eed5b26148431d8916fd2c2e49e2"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "cc00163a4571eed5b26148431d8916fd2c2e49e2",
+        "Author": {
+          "name": "\"Swapnil M Mane\"",
+          "location": "India",
+          "company": "HotWax Commerce"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T10:22:55Z",
+        "additions": 855,
+        "deletions": 0,
+        "files": [
+          "85917a8dbc9fb6951cbbd4ab6a2fcabb66e47b25",
+          "acaed1851ea85e60f264aa3067331e32ffdaf32d",
+          "ff0bed73a379429796fd5c9235e6269e9dc0e883",
+          "dc28dbe8a37f7a72fbfc47a1e951be18f98b9ba7",
+          "487abfffb5a26bc49e22285b42df74f53517eb60",
+          "2deae22cf6ea798ffb2464536ee6f582a7556c85"
+        ]
+      }
+    ]
+  }
+]

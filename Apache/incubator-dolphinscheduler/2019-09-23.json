@@ -1,0 +1,260 @@
+[
+  {
+    "RepositoryName": "incubator-dolphinscheduler",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T02:03:41Z",
+    "EndDate": "2019-09-23T03:03:41",
+    "Branches": 8,
+    "Forks": 707,
+    "Files": [
+      {
+        "Sha": "2cd282a155135c316ce770dec6973761d5dbbc9c",
+        "FileName": "dependItemList.vue",
+        "Path": "escheduler-ui/src/js/conf/home/pages/dag/_source/formModel/tasks/_source/dependItemList.vue",
+        "DateUpdated": "2019-09-23T03:01:35Z",
+        "Additions": 7,
+        "Deletions": 6,
+        "Commits": [
+          "e271fb81ec8b836577dcd3dfa87e0f237bc57dfc"
+        ]
+      },
+      {
+        "Sha": "3de17b5f61029d35f6d90f7f0a1e9a3d8a91b5a5",
+        "FileName": "dependent.vue",
+        "Path": "escheduler-ui/src/js/conf/home/pages/dag/_source/formModel/tasks/dependent.vue",
+        "DateUpdated": "2019-09-23T03:01:35Z",
+        "Additions": 11,
+        "Deletions": 2,
+        "Commits": [
+          "e271fb81ec8b836577dcd3dfa87e0f237bc57dfc"
+        ]
+      },
+      {
+        "Sha": "7812aff2b16c74b4307b985f88a98d4558c36a49",
+        "FileName": "definitionDetails.vue",
+        "Path": "escheduler-ui/src/js/conf/home/pages/dag/definitionDetails.vue",
+        "DateUpdated": "2019-09-23T03:01:35Z",
+        "Additions": 1,
+        "Deletions": 3,
+        "Commits": [
+          "e271fb81ec8b836577dcd3dfa87e0f237bc57dfc"
+        ]
+      },
+      {
+        "Sha": "3af74e12d315edeb746e862c5b697e9f1482fee0",
+        "FileName": "index.vue",
+        "Path": "escheduler-ui/src/js/conf/home/pages/dag/index.vue",
+        "DateUpdated": "2019-09-23T03:01:35Z",
+        "Additions": 1,
+        "Deletions": 3,
+        "Commits": [
+          "e271fb81ec8b836577dcd3dfa87e0f237bc57dfc"
+        ]
+      },
+      {
+        "Sha": "65b76b65326f0c6674917af8bf194f463ad7be96",
+        "FileName": "instanceDetails.vue",
+        "Path": "escheduler-ui/src/js/conf/home/pages/dag/instanceDetails.vue",
+        "DateUpdated": "2019-09-23T03:01:35Z",
+        "Additions": 1,
+        "Deletions": 3,
+        "Commits": [
+          "e271fb81ec8b836577dcd3dfa87e0f237bc57dfc"
+        ]
+      },
+      {
+        "Sha": "1d1858cd52bed1b3d1994d234342d5a85dbb4611",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-23T02:25:59Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "46d0baf6a96facc2e17a528fd691f2f4554e681e"
+        ]
+      },
+      {
+        "Sha": "51e0cbb8bcab80b4726ea14afa469354340e948c",
+        "FileName": "README.md",
+        "Path": "README.md",
+        "DateUpdated": "2019-09-23T02:24:26Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "c4be05d34a7d30de5a3233236a817770bb07c3c8"
+        ]
+      },
+      {
+        "Sha": "74287344bab1644ff0e581aa14e5e469e507d294",
+        "FileName": "README.md",
+        "Path": "README.md",
+        "DateUpdated": "2019-09-23T02:24:01Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "68617507ff98ff62771fc61db47fd5dc78148f55"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "e271fb81ec8b836577dcd3dfa87e0f237bc57dfc",
+        "Author": {
+          "name": "\"黄�?�\""
+        },
+        "Commitor": {
+          "name": "\"dailidong\""
+        },
+        "Date": "2019-09-23T03:01:35Z",
+        "additions": 21,
+        "deletions": 17,
+        "files": [
+          "2cd282a155135c316ce770dec6973761d5dbbc9c",
+          "3de17b5f61029d35f6d90f7f0a1e9a3d8a91b5a5",
+          "7812aff2b16c74b4307b985f88a98d4558c36a49",
+          "3af74e12d315edeb746e862c5b697e9f1482fee0",
+          "65b76b65326f0c6674917af8bf194f463ad7be96"
+        ]
+      },
+      {
+        "sha": "46d0baf6a96facc2e17a528fd691f2f4554e681e",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"qiaozhanwei\"",
+          "company": "易观智库"
+        },
+        "Date": "2019-09-23T02:25:59Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "1d1858cd52bed1b3d1994d234342d5a85dbb4611"
+        ]
+      },
+      {
+        "sha": "c4be05d34a7d30de5a3233236a817770bb07c3c8",
+        "Author": {
+          "name": "\"�?�晟 Wu Sheng\"",
+          "location": "Beijing(China), SF(US)",
+          "company": "@apache  @tetrateio "
+        },
+        "Commitor": {
+          "name": "\"qiaozhanwei\"",
+          "company": "易观智库"
+        },
+        "Date": "2019-09-23T02:24:26Z",
+        "additions": 3,
+        "deletions": 1,
+        "files": [
+          "51e0cbb8bcab80b4726ea14afa469354340e948c"
+        ]
+      },
+      {
+        "sha": "68617507ff98ff62771fc61db47fd5dc78148f55",
+        "Author": {
+          "name": "\"�?�晟 Wu Sheng\"",
+          "location": "Beijing(China), SF(US)",
+          "company": "@apache  @tetrateio "
+        },
+        "Commitor": {
+          "name": "\"qiaozhanwei\"",
+          "company": "易观智库"
+        },
+        "Date": "2019-09-23T02:24:01Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "74287344bab1644ff0e581aa14e5e469e507d294"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-dolphinscheduler",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T09:03:50Z",
+    "EndDate": "2019-09-23T10:03:50",
+    "Branches": 8,
+    "Forks": 710,
+    "Files": [
+      {
+        "Sha": "f15312a3f3b99d483aea4dc2c5e3b59f44977685",
+        "FileName": "DolphinSchedulerManager.java",
+        "Path": "escheduler-dao/src/main/java/cn/escheduler/dao/upgrade/DolphinSchedulerManager.java",
+        "DateUpdated": "2019-09-23T09:48:51Z",
+        "Additions": 4,
+        "Deletions": 9,
+        "Commits": [
+          "c08b5189fa428dbeee8d3416f28b86bb57ab0830"
+        ]
+      },
+      {
+        "Sha": "d6a8974d28ace94884dc9f1232e0cd0e12f09065",
+        "FileName": "MysqlUpgradeDao.java",
+        "Path": "escheduler-dao/src/main/java/cn/escheduler/dao/upgrade/MysqlUpgradeDao.java",
+        "DateUpdated": "2019-09-23T09:48:51Z",
+        "Additions": 3,
+        "Deletions": 6,
+        "Commits": [
+          "c08b5189fa428dbeee8d3416f28b86bb57ab0830"
+        ]
+      },
+      {
+        "Sha": "87ac1b4bded6ca38fe720ab8d1a880e4bb335944",
+        "FileName": "PostgresqlUpgradeDao.java",
+        "Path": "escheduler-dao/src/main/java/cn/escheduler/dao/upgrade/PostgresqlUpgradeDao.java",
+        "DateUpdated": "2019-09-23T09:48:51Z",
+        "Additions": 11,
+        "Deletions": 10,
+        "Commits": [
+          "c08b5189fa428dbeee8d3416f28b86bb57ab0830"
+        ]
+      },
+      {
+        "Sha": "820d8a3c9925f6a45fed4a88e7cb5757c5adccc5",
+        "FileName": "UpgradeDao.java",
+        "Path": "escheduler-dao/src/main/java/cn/escheduler/dao/upgrade/UpgradeDao.java",
+        "DateUpdated": "2019-09-23T09:48:51Z",
+        "Additions": 29,
+        "Deletions": 5,
+        "Commits": [
+          "c08b5189fa428dbeee8d3416f28b86bb57ab0830"
+        ]
+      },
+      {
+        "Sha": "5faeba33bc790ac4476cd8f7607d280fe310bf9b",
+        "FileName": "dolphinscheduler_ddl.sql",
+        "Path": "sql/upgrade/1.2.0_schema/mysql/dolphinscheduler_ddl.sql",
+        "DateUpdated": "2019-09-23T09:48:51Z",
+        "Additions": 486,
+        "Deletions": 0,
+        "Commits": [
+          "c08b5189fa428dbeee8d3416f28b86bb57ab0830"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c08b5189fa428dbeee8d3416f28b86bb57ab0830",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"qiaozhanwei\"",
+          "company": "易观智库"
+        },
+        "Date": "2019-09-23T09:48:51Z",
+        "additions": 533,
+        "deletions": 30,
+        "files": [
+          "f15312a3f3b99d483aea4dc2c5e3b59f44977685",
+          "d6a8974d28ace94884dc9f1232e0cd0e12f09065",
+          "87ac1b4bded6ca38fe720ab8d1a880e4bb335944",
+          "820d8a3c9925f6a45fed4a88e7cb5757c5adccc5",
+          "5faeba33bc790ac4476cd8f7607d280fe310bf9b"
+        ]
+      }
+    ]
+  }
+]

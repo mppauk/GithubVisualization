@@ -1,0 +1,42 @@
+[
+  {
+    "RepositoryName": "openwhisk-devtools",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T02:47:49Z",
+    "EndDate": "2019-09-24T03:47:49",
+    "Branches": 1,
+    "Forks": 96,
+    "Files": [
+      {
+        "Sha": "f1bd6651dcf7f560a03afea706fa5541f68e54eb",
+        "FileName": "Makefile",
+        "Path": "docker-compose/Makefile",
+        "DateUpdated": "2019-09-24T03:27:10Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "010ba6b031acfcc61e6d60b62d65a612f7edcb00"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "010ba6b031acfcc61e6d60b62d65a612f7edcb00",
+        "Author": {
+          "name": "\"David Grove\"",
+          "company": "IBM Research"
+        },
+        "Commitor": {
+          "name": "\"rodric rabbah\"",
+          "location": "New York"
+        },
+        "Date": "2019-09-24T03:27:10Z",
+        "additions": 3,
+        "deletions": 2,
+        "files": [
+          "f1bd6651dcf7f560a03afea706fa5541f68e54eb"
+        ]
+      }
+    ]
+  }
+]

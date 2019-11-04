@@ -1,0 +1,84 @@
+[
+  {
+    "RepositoryName": "tomcat",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T07:02:42Z",
+    "EndDate": "2019-09-26T08:02:42",
+    "Branches": 4,
+    "Forks": 2597,
+    "Files": [
+      {
+        "Sha": "9bc1b5350d0ed16a9ef1b50f1a2d56b670372bed",
+        "FileName": "cluster-receiver.xml",
+        "Path": "webapps/docs/config/cluster-receiver.xml",
+        "DateUpdated": "2019-09-26T07:59:04Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "25eaa186bd82ae3a1833f2b27f11db90243c2ab4"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "25eaa186bd82ae3a1833f2b27f11db90243c2ab4",
+        "Date": "2019-09-26T07:59:04Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "9bc1b5350d0ed16a9ef1b50f1a2d56b670372bed"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "tomcat",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T10:02:22Z",
+    "EndDate": "2019-09-26T11:02:22",
+    "Branches": 4,
+    "Forks": 2598,
+    "Files": [
+      {
+        "Sha": "51b3b854d0f4e57c313735730cf6d2bcd98d4add",
+        "FileName": "CatalinaBaseConfigurationSource.java",
+        "Path": "java/org/apache/catalina/startup/CatalinaBaseConfigurationSource.java",
+        "DateUpdated": "2019-09-26T10:56:26Z",
+        "Additions": 9,
+        "Deletions": 6,
+        "Commits": [
+          "e22624f976fe653bd9acb2ab3c14285f1c301d59"
+        ]
+      },
+      {
+        "Sha": "840fecfc1831197e5070c9d306ecdf69eb86fd59",
+        "FileName": "changelog.xml",
+        "Path": "webapps/docs/changelog.xml",
+        "DateUpdated": "2019-09-26T10:56:26Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "e22624f976fe653bd9acb2ab3c14285f1c301d59"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "e22624f976fe653bd9acb2ab3c14285f1c301d59",
+        "Author": {
+          "name": "\"Mark Thomas\""
+        },
+        "Commitor": {
+          "name": "\"Mark Thomas\""
+        },
+        "Date": "2019-09-26T10:56:26Z",
+        "additions": 17,
+        "deletions": 6,
+        "files": [
+          "51b3b854d0f4e57c313735730cf6d2bcd98d4add",
+          "840fecfc1831197e5070c9d306ecdf69eb86fd59"
+        ]
+      }
+    ]
+  }
+]

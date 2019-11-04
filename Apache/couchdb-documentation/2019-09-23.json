@@ -1,0 +1,56 @@
+[
+  {
+    "RepositoryName": "couchdb-documentation",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T11:02:38Z",
+    "EndDate": "2019-09-23T12:02:38",
+    "Branches": 22,
+    "Forks": 133,
+    "Files": [
+      {
+        "Sha": "bf4a059dbc951080827b44c269d9e0056cb4504e",
+        "FileName": "011-opentracing.md",
+        "Path": "rfcs/011-opentracing.md",
+        "DateUpdated": "2019-09-23T11:56:24Z",
+        "Additions": 236,
+        "Deletions": 0,
+        "Commits": [
+          "d611484d02da1541878f91e62cae7fb8d3016bb3",
+          "2cf5d9d82dd56cbe4b299cbe142e4246ee406da6"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d611484d02da1541878f91e62cae7fb8d3016bb3",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T11:56:24Z",
+        "additions": 236,
+        "deletions": 0,
+        "files": [
+          "bf4a059dbc951080827b44c269d9e0056cb4504e"
+        ]
+      },
+      {
+        "sha": "2cf5d9d82dd56cbe4b299cbe142e4246ee406da6",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-23T11:22:08Z",
+        "additions": 236,
+        "deletions": 0,
+        "files": [
+          "bf4a059dbc951080827b44c269d9e0056cb4504e"
+        ]
+      }
+    ]
+  }
+]

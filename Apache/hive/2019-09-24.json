@@ -1,0 +1,614 @@
+[
+  {
+    "RepositoryName": "hive",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T07:46:21Z",
+    "EndDate": "2019-09-24T08:46:21",
+    "Branches": 62,
+    "Forks": 2696,
+    "Files": [
+      {
+        "Sha": "6a16108e191528b896ca7ed75b9c9bff2812c267",
+        "FileName": "VerifyHiveSortedInputFormatUsedHook.java",
+        "Path": "itests/util/src/main/java/org/apache/hadoop/hive/ql/hooks/VerifyHiveSortedInputFormatUsedHook.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "387fe612893c7a92a85eb9b2fb1dab5d25ca3dd6",
+        "FileName": "QueryPlan.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/QueryPlan.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 10,
+        "Deletions": 10,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "7220f33c8ceeb9c80ce1dac318efca1479ea9fc2",
+        "FileName": "GroupByOperator.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/exec/GroupByOperator.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "526929984a5a76dcf646ab94196097d7954d9676",
+        "FileName": "LateralViewJoinOperator.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/exec/LateralViewJoinOperator.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "8e74f8a8b89cec39d2f0bc03eccef535a7b2d214",
+        "FileName": "RowSchema.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/exec/RowSchema.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "82b8c68cf3df831d77d2bdd7a2454a3cfb48dc9c",
+        "FileName": "NoOperatorReuseCheckerHook.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/hooks/NoOperatorReuseCheckerHook.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 1,
+        "Deletions": 6,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "d3fb91eddbc59badf3fd08f5a25f561320d458db",
+        "FileName": "AbstractBucketJoinProc.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/optimizer/AbstractBucketJoinProc.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 6,
+        "Deletions": 8,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "d3749fdcf1fdfc5b58804c580acc3d7e15059048",
+        "FileName": "ColumnPrunerProcFactory.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/optimizer/ColumnPrunerProcFactory.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 11,
+        "Deletions": 11,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "b111e4f4283eadb356e3c4d69a02958afbfa1909",
+        "FileName": "ConstantPropagateProcCtx.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/optimizer/ConstantPropagateProcCtx.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 1,
+        "Deletions": 3,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "c1981e69812cd60727674a8566c6a2b37fe9fb7f",
+        "FileName": "ConstantPropagateProcFactory.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/optimizer/ConstantPropagateProcFactory.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "a50ad78e8f50e5fcdf87cb61688c15ba0fa4a54a",
+        "FileName": "CountDistinctRewriteProc.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/optimizer/CountDistinctRewriteProc.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "408ab082749995f3abb573b41bd5ed3ae533d87f",
+        "FileName": "GenMapRedUtils.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/optimizer/GenMapRedUtils.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "bb9681499a5c0096b95958f71f9f2789838349c1",
+        "FileName": "SamplePruner.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/optimizer/SamplePruner.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 4,
+        "Deletions": 6,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "165cb9efcfbb012e18bb8074e65e63b4610b3824",
+        "FileName": "HiveOpConverter.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/optimizer/calcite/translator/HiveOpConverter.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "32e419af496e560af72fae759dc067c7417d460f",
+        "FileName": "OpProcFactory.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/optimizer/lineage/OpProcFactory.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 8,
+        "Deletions": 9,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "a846d9ba21fb487edb620a6d8bb65bad1424d469",
+        "FileName": "Vectorizer.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/optimizer/physical/Vectorizer.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "d8c4ccb61efed8e1caeb9e61b4ffb91dd417a049",
+        "FileName": "OpWalkerCtx.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/optimizer/ppr/OpWalkerCtx.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "95bed207877d663a36f0425f69492c2d51d9ac0a",
+        "FileName": "BaseSemanticAnalyzer.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/parse/BaseSemanticAnalyzer.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 9,
+        "Deletions": 9,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "c3184a893123965acaece0425efe51fd38e99efd",
+        "FileName": "CalcitePlanner.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/parse/CalcitePlanner.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 10,
+        "Deletions": 10,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "81f35cec8412f58bfcb04415de2b5952df6719ee",
+        "FileName": "ColumnStatsAutoGatherContext.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/parse/ColumnStatsAutoGatherContext.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "6e05ced72dc8adee0f4895d0939a9a18f9872c4e",
+        "FileName": "EximUtil.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/parse/EximUtil.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "d1fdfc098fef43b9754b4f13c908f3b5aed7ecfc",
+        "FileName": "LoadSemanticAnalyzer.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/parse/LoadSemanticAnalyzer.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 3,
+        "Deletions": 6,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "60e04c60572a3eb3d18f1dbe41abb052d26de3be",
+        "FileName": "PTFTranslator.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/parse/PTFTranslator.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "42dd59404b8cf6877cd0d8d748ac7eb11f8dc9e0",
+        "FileName": "ParseContext.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/parse/ParseContext.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 29,
+        "Deletions": 33,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "7c4a5b758f7a54961021003bebef2d1724ee553e",
+        "FileName": "QBJoinTree.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/parse/QBJoinTree.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 21,
+        "Deletions": 21,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "e5fc3d7e05c46363a6df73a10e14dfab27b5d31d",
+        "FileName": "QBParseInfo.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/parse/QBParseInfo.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 37,
+        "Deletions": 39,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "a4e2fe600fe6513f75fc60ab74064c1d47daaf1e",
+        "FileName": "RowResolver.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/parse/RowResolver.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 18,
+        "Deletions": 20,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "3313766ee41428914b8178c672d197731abe7d8b",
+        "FileName": "SemanticAnalyzer.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/parse/SemanticAnalyzer.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 284,
+        "Deletions": 312,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "d2b73d924e50f5f6950f1463df2a53ca82e513cf",
+        "FileName": "TableSample.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/parse/TableSample.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "b0b650f1def65aa88f35dc04bd640a45664316cd",
+        "FileName": "TaskCompiler.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/parse/TaskCompiler.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "916a1729203a0356ecda7b5ca30703ceb8c415ae",
+        "FileName": "TezCompiler.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/parse/TezCompiler.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 3,
+        "Deletions": 5,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "86bb537764a058d2aedd1adb9463626ae3e84eb4",
+        "FileName": "TypeCheckProcFactory.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/parse/TypeCheckProcFactory.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "bc6b6b111c200ba449adf000c8627166068116a1",
+        "FileName": "HiveAuthorizationTaskFactory.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/parse/authorization/HiveAuthorizationTaskFactory.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 25,
+        "Deletions": 25,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "b122620bdb0f618e32b760c74bf5e658d657ae77",
+        "FileName": "HiveAuthorizationTaskFactoryImpl.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/parse/authorization/HiveAuthorizationTaskFactoryImpl.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 26,
+        "Deletions": 28,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "6723de65b5b926b9e6ae6e2156263bb1d398dc67",
+        "FileName": "AggregationDesc.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/plan/AggregationDesc.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 5,
+        "Deletions": 4,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "ffc3b791bf65568452e605a51825cd5190e5e5db",
+        "FileName": "ExplainWork.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/plan/ExplainWork.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 13,
+        "Deletions": 13,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "09b0d7a0e73359ba8baee6083fee34ba531b271e",
+        "FileName": "GroupByDesc.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/plan/GroupByDesc.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 20,
+        "Deletions": 22,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "b821cb993f10a751e57c15d424c8ba36cc4844d7",
+        "FileName": "ImportTableDesc.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/plan/ImportTableDesc.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "d45c6954028d635e6f03fa0437d95d60d32422ef",
+        "FileName": "LateralViewJoinDesc.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/plan/LateralViewJoinDesc.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 5,
+        "Deletions": 4,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "ef7e956fc7730f93c9480cbdf269c87d27610526",
+        "FileName": "MapWork.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/plan/MapWork.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "d7253a4955f46e6b8d7eb238787270b8bb8643ec",
+        "FileName": "MoveWork.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/plan/MoveWork.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 10,
+        "Deletions": 11,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "d9f88fe73149b42cd5e9befb81af5f82d05ca676",
+        "FileName": "PlanUtils.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/plan/PlanUtils.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "6b37a59ab1f3c5e72d60dfd5fc76124a01a08ad5",
+        "FileName": "MatchPath.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/udf/ptf/MatchPath.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "98121e98d4b858f464233ffc56a2f16508c96a1c",
+        "FileName": "TestColumnAccess.java",
+        "Path": "ql/src/test/org/apache/hadoop/hive/ql/parse/TestColumnAccess.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "322fbbd7f3249ef23c7751f8a39ea871e96f0dad",
+        "FileName": "TestQBJoinTreeApplyPredicate.java",
+        "Path": "ql/src/test/org/apache/hadoop/hive/ql/parse/TestQBJoinTreeApplyPredicate.java",
+        "DateUpdated": "2019-09-24T07:57:59Z",
+        "Additions": 4,
+        "Deletions": 5,
+        "Commits": [
+          "cf6cbda04db6a2db7828ceee525208c014ff9fd3"
+        ]
+      },
+      {
+        "Sha": "00b21d530c52c4db07df93b7dd7fe7f341a18d81",
+        "FileName": "Driver.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/Driver.java",
+        "DateUpdated": "2019-09-24T07:55:49Z",
+        "Additions": 106,
+        "Deletions": 164,
+        "Commits": [
+          "757573272a097957c2b084119cb448c0304e5c2c"
+        ]
+      },
+      {
+        "Sha": "e4535ca6e1eaad53b17505cc3a750aaf0ca3539f",
+        "FileName": "TestHiveDecimalParse.java",
+        "Path": "ql/src/test/org/apache/hadoop/hive/ql/parse/TestHiveDecimalParse.java",
+        "DateUpdated": "2019-09-24T07:55:49Z",
+        "Additions": 64,
+        "Deletions": 28,
+        "Commits": [
+          "757573272a097957c2b084119cb448c0304e5c2c"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "cf6cbda04db6a2db7828ceee525208c014ff9fd3",
+        "Author": {
+          "name": "\"Miklos Gergely\"",
+          "location": "Budapest",
+          "company": "Cloudera"
+        },
+        "Commitor": {
+          "name": "\"Miklos Gergely\"",
+          "location": "Budapest",
+          "company": "Cloudera"
+        },
+        "Date": "2019-09-24T07:57:59Z",
+        "additions": 621,
+        "deletions": 678,
+        "files": [
+          "6a16108e191528b896ca7ed75b9c9bff2812c267",
+          "387fe612893c7a92a85eb9b2fb1dab5d25ca3dd6",
+          "7220f33c8ceeb9c80ce1dac318efca1479ea9fc2",
+          "526929984a5a76dcf646ab94196097d7954d9676",
+          "8e74f8a8b89cec39d2f0bc03eccef535a7b2d214",
+          "82b8c68cf3df831d77d2bdd7a2454a3cfb48dc9c",
+          "d3fb91eddbc59badf3fd08f5a25f561320d458db",
+          "d3749fdcf1fdfc5b58804c580acc3d7e15059048",
+          "b111e4f4283eadb356e3c4d69a02958afbfa1909",
+          "c1981e69812cd60727674a8566c6a2b37fe9fb7f",
+          "a50ad78e8f50e5fcdf87cb61688c15ba0fa4a54a",
+          "408ab082749995f3abb573b41bd5ed3ae533d87f",
+          "bb9681499a5c0096b95958f71f9f2789838349c1",
+          "165cb9efcfbb012e18bb8074e65e63b4610b3824",
+          "32e419af496e560af72fae759dc067c7417d460f",
+          "a846d9ba21fb487edb620a6d8bb65bad1424d469",
+          "d8c4ccb61efed8e1caeb9e61b4ffb91dd417a049",
+          "95bed207877d663a36f0425f69492c2d51d9ac0a",
+          "c3184a893123965acaece0425efe51fd38e99efd",
+          "81f35cec8412f58bfcb04415de2b5952df6719ee",
+          "6e05ced72dc8adee0f4895d0939a9a18f9872c4e",
+          "d1fdfc098fef43b9754b4f13c908f3b5aed7ecfc",
+          "60e04c60572a3eb3d18f1dbe41abb052d26de3be",
+          "42dd59404b8cf6877cd0d8d748ac7eb11f8dc9e0",
+          "7c4a5b758f7a54961021003bebef2d1724ee553e",
+          "e5fc3d7e05c46363a6df73a10e14dfab27b5d31d",
+          "a4e2fe600fe6513f75fc60ab74064c1d47daaf1e",
+          "3313766ee41428914b8178c672d197731abe7d8b",
+          "d2b73d924e50f5f6950f1463df2a53ca82e513cf",
+          "b0b650f1def65aa88f35dc04bd640a45664316cd",
+          "916a1729203a0356ecda7b5ca30703ceb8c415ae",
+          "86bb537764a058d2aedd1adb9463626ae3e84eb4",
+          "bc6b6b111c200ba449adf000c8627166068116a1",
+          "b122620bdb0f618e32b760c74bf5e658d657ae77",
+          "6723de65b5b926b9e6ae6e2156263bb1d398dc67",
+          "ffc3b791bf65568452e605a51825cd5190e5e5db",
+          "09b0d7a0e73359ba8baee6083fee34ba531b271e",
+          "b821cb993f10a751e57c15d424c8ba36cc4844d7",
+          "d45c6954028d635e6f03fa0437d95d60d32422ef",
+          "ef7e956fc7730f93c9480cbdf269c87d27610526",
+          "d7253a4955f46e6b8d7eb238787270b8bb8643ec",
+          "d9f88fe73149b42cd5e9befb81af5f82d05ca676",
+          "6b37a59ab1f3c5e72d60dfd5fc76124a01a08ad5",
+          "98121e98d4b858f464233ffc56a2f16508c96a1c",
+          "322fbbd7f3249ef23c7751f8a39ea871e96f0dad"
+        ]
+      },
+      {
+        "sha": "757573272a097957c2b084119cb448c0304e5c2c",
+        "Author": {
+          "name": "\"Miklos Gergely\"",
+          "location": "Budapest",
+          "company": "Cloudera"
+        },
+        "Commitor": {
+          "name": "\"Miklos Gergely\"",
+          "location": "Budapest",
+          "company": "Cloudera"
+        },
+        "Date": "2019-09-24T07:55:49Z",
+        "additions": 170,
+        "deletions": 192,
+        "files": [
+          "00b21d530c52c4db07df93b7dd7fe7f341a18d81",
+          "e4535ca6e1eaad53b17505cc3a750aaf0ca3539f"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "RepositoryName": "cxf-fediz",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T10:02:15Z",
+    "EndDate": "2019-09-23T11:02:15",
+    "Branches": 6,
+    "Forks": 31,
+    "Files": [
+      {
+        "Sha": "f33856c1399db8fd34ed902eefe43f7db4e5094d",
+        "FileName": "CSRFUtils.java",
+        "Path": "services/oidc/src/main/java/org/apache/cxf/fediz/service/oidc/CSRFUtils.java",
+        "DateUpdated": "2019-09-23T10:06:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "cd78abb31072dde90b4dfed4f024347d4e2466b4"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "cd78abb31072dde90b4dfed4f024347d4e2466b4",
+        "Author": {
+          "name": "\"Colm O hEigeartaigh\"",
+          "company": "@Talend "
+        },
+        "Commitor": {
+          "name": "\"Colm O hEigeartaigh\"",
+          "company": "@Talend "
+        },
+        "Date": "2019-09-23T10:06:29Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "f33856c1399db8fd34ed902eefe43f7db4e5094d"
+        ]
+      }
+    ]
+  }
+]

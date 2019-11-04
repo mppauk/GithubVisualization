@@ -1,0 +1,114 @@
+[
+  {
+    "RepositoryName": "nifi",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T12:03:26Z",
+    "EndDate": "2019-09-23T13:03:26",
+    "Branches": 63,
+    "Forks": 1438,
+    "Files": [
+      {
+        "Sha": "4bdb7338fcf533412b89001c886539e1e6dcc7f3",
+        "FileName": "pom.xml",
+        "Path": "nifi-nar-bundles/nifi-framework-bundle/pom.xml",
+        "DateUpdated": "2019-09-23T12:18:55Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "6d8968cc87668c30e46a9d3a0a49a790ad32a936"
+        ]
+      },
+      {
+        "Sha": "bc5bbe37e1c4a6cd881989b54d5e3fe6d7567fa7",
+        "FileName": "pom.xml",
+        "Path": "nifi-nar-bundles/nifi-media-bundle/nifi-media-processors/pom.xml",
+        "DateUpdated": "2019-09-23T12:18:55Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "6d8968cc87668c30e46a9d3a0a49a790ad32a936"
+        ]
+      },
+      {
+        "Sha": "b82228fbbc2ec0ac9056abe5a4e1f789358a310e",
+        "FileName": "TestExtractMediaMetadata.java",
+        "Path": "nifi-nar-bundles/nifi-media-bundle/nifi-media-processors/src/test/java/org/apache/nifi/processors/media/TestExtractMediaMetadata.java",
+        "DateUpdated": "2019-09-23T12:18:55Z",
+        "Additions": 0,
+        "Deletions": 6,
+        "Commits": [
+          "6d8968cc87668c30e46a9d3a0a49a790ad32a936"
+        ]
+      },
+      {
+        "Sha": "41ae9aa7cc90350015e7ae75944b8ff40cd26ca1",
+        "FileName": "pom.xml",
+        "Path": "nifi-nar-bundles/nifi-standard-bundle/pom.xml",
+        "DateUpdated": "2019-09-23T12:18:55Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "6d8968cc87668c30e46a9d3a0a49a790ad32a936"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "6d8968cc87668c30e46a9d3a0a49a790ad32a936",
+        "Author": {
+          "name": "\"Joe Witt\""
+        },
+        "Commitor": {
+          "name": "\"Mike\""
+        },
+        "Date": "2019-09-23T12:18:55Z",
+        "additions": 3,
+        "deletions": 9,
+        "files": [
+          "4bdb7338fcf533412b89001c886539e1e6dcc7f3",
+          "bc5bbe37e1c4a6cd881989b54d5e3fe6d7567fa7",
+          "b82228fbbc2ec0ac9056abe5a4e1f789358a310e",
+          "41ae9aa7cc90350015e7ae75944b8ff40cd26ca1"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "nifi",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T14:02:57Z",
+    "EndDate": "2019-09-23T15:02:57",
+    "Branches": 63,
+    "Forks": 1438,
+    "Files": [
+      {
+        "Sha": "ae231f71285b42efe6230cadc499c00ff9cbaa71",
+        "FileName": "SocketLoadBalancedFlowFileQueue.java",
+        "Path": "nifi-nar-bundles/nifi-framework-bundle/nifi-framework/nifi-framework-core/src/main/java/org/apache/nifi/controller/queue/clustered/SocketLoadBalancedFlowFileQueue.java",
+        "DateUpdated": "2019-09-23T14:07:21Z",
+        "Additions": 17,
+        "Deletions": 36,
+        "Commits": [
+          "c721a9ee5fddfefa6b4dc87afa1b6c45cb09d101"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c721a9ee5fddfefa6b4dc87afa1b6c45cb09d101",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Bryan Bende\""
+        },
+        "Date": "2019-09-23T14:07:21Z",
+        "additions": 17,
+        "deletions": 36,
+        "files": [
+          "ae231f71285b42efe6230cadc499c00ff9cbaa71"
+        ]
+      }
+    ]
+  }
+]

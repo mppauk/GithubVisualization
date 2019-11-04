@@ -1,0 +1,134 @@
+[
+  {
+    "RepositoryName": "dubbo",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T02:46:08Z",
+    "EndDate": "2019-09-25T03:46:08",
+    "Branches": 10,
+    "Forks": 19199,
+    "Files": [
+      {
+        "Sha": "33d8203de17b6ecac43186982866ce01ab811f66",
+        "FileName": "pom.xml",
+        "Path": "dubbo-dependencies-bom/pom.xml",
+        "DateUpdated": "2019-09-25T03:26:42Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "cf988f546d7c223cb805e616421e92481d590ae3"
+        ]
+      },
+      {
+        "Sha": "34edd05b097717a574fff8efe72425b1dbcca401",
+        "FileName": "pom.xml",
+        "Path": "dubbo-dependencies/dubbo-dependencies-zookeeper/pom.xml",
+        "DateUpdated": "2019-09-25T03:26:42Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "cf988f546d7c223cb805e616421e92481d590ae3"
+        ]
+      },
+      {
+        "Sha": "c7292e1bfbfda7e76ff7e14a1d45c36ad9bd7a37",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-25T03:26:42Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "cf988f546d7c223cb805e616421e92481d590ae3"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "cf988f546d7c223cb805e616421e92481d590ae3",
+        "Author": {
+          "name": "\"ken.lj\"",
+          "location": "Hangzhou, China",
+          "company": "Alibaba"
+        },
+        "Commitor": {
+          "name": "\"ken.lj\"",
+          "location": "Hangzhou, China",
+          "company": "Alibaba"
+        },
+        "Date": "2019-09-25T03:26:42Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "33d8203de17b6ecac43186982866ce01ab811f66",
+          "34edd05b097717a574fff8efe72425b1dbcca401",
+          "c7292e1bfbfda7e76ff7e14a1d45c36ad9bd7a37"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "dubbo",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T03:02:29Z",
+    "EndDate": "2019-09-25T04:02:29",
+    "Branches": 10,
+    "Forks": 19199,
+    "Files": [
+      {
+        "Sha": "33d8203de17b6ecac43186982866ce01ab811f66",
+        "FileName": "pom.xml",
+        "Path": "dubbo-dependencies-bom/pom.xml",
+        "DateUpdated": "2019-09-25T03:26:42Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "cf988f546d7c223cb805e616421e92481d590ae3"
+        ]
+      },
+      {
+        "Sha": "34edd05b097717a574fff8efe72425b1dbcca401",
+        "FileName": "pom.xml",
+        "Path": "dubbo-dependencies/dubbo-dependencies-zookeeper/pom.xml",
+        "DateUpdated": "2019-09-25T03:26:42Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "cf988f546d7c223cb805e616421e92481d590ae3"
+        ]
+      },
+      {
+        "Sha": "c7292e1bfbfda7e76ff7e14a1d45c36ad9bd7a37",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-25T03:26:42Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "cf988f546d7c223cb805e616421e92481d590ae3"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "cf988f546d7c223cb805e616421e92481d590ae3",
+        "Author": {
+          "name": "\"ken.lj\"",
+          "location": "Hangzhou, China",
+          "company": "Alibaba"
+        },
+        "Commitor": {
+          "name": "\"ken.lj\"",
+          "location": "Hangzhou, China",
+          "company": "Alibaba"
+        },
+        "Date": "2019-09-25T03:26:42Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "33d8203de17b6ecac43186982866ce01ab811f66",
+          "34edd05b097717a574fff8efe72425b1dbcca401",
+          "c7292e1bfbfda7e76ff7e14a1d45c36ad9bd7a37"
+        ]
+      }
+    ]
+  }
+]

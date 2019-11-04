@@ -1,0 +1,34 @@
+[
+  {
+    "RepositoryName": "plc4x-website",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T02:03:37Z",
+    "EndDate": "2019-09-23T03:03:37",
+    "Branches": 1,
+    "Forks": 3,
+    "Files": [
+      {
+        "Sha": "343caad5fd363555f9e700e5ef5c70070ac021ec",
+        "FileName": "licenses.html",
+        "Path": "plc4j/plc4j-utils/plc4j-connection-pool/licenses.html",
+        "DateUpdated": "2019-09-23T02:57:11Z",
+        "Additions": 205,
+        "Deletions": 1,
+        "Commits": [
+          "b7732420f16343967ba65dd65e3425cbefa8a93b"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "b7732420f16343967ba65dd65e3425cbefa8a93b",
+        "Date": "2019-09-23T02:57:11Z",
+        "additions": 205,
+        "deletions": 1,
+        "files": [
+          "343caad5fd363555f9e700e5ef5c70070ac021ec"
+        ]
+      }
+    ]
+  }
+]

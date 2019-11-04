@@ -1,0 +1,70 @@
+[
+  {
+    "RepositoryName": "ranger",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T17:03:14Z",
+    "EndDate": "2019-09-23T18:03:14",
+    "Branches": 12,
+    "Forks": 267,
+    "Files": [
+      {
+        "Sha": "f10bde425b3bba47d0dedb1b5cf9eae704fcd1a1",
+        "FileName": "RangerHiveAuthorizer.java",
+        "Path": "hive-agent/src/main/java/org/apache/ranger/authorization/hive/authorizer/RangerHiveAuthorizer.java",
+        "DateUpdated": "2019-09-23T17:33:59Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "f30fa46d4046a69451ffd6a2b77a0d9a333cdfad"
+        ]
+      },
+      {
+        "Sha": "86df95d8211663dae4a8ff9cd73122330f66ec9c",
+        "FileName": "JPABeanCallbacks.java",
+        "Path": "security-admin/src/main/java/org/apache/ranger/common/db/JPABeanCallbacks.java",
+        "DateUpdated": "2019-09-23T17:33:59Z",
+        "Additions": 18,
+        "Deletions": 13,
+        "Commits": [
+          "f30fa46d4046a69451ffd6a2b77a0d9a333cdfad"
+        ]
+      },
+      {
+        "Sha": "4af768aa633c293574dacd0ae907e0ca91320b39",
+        "FileName": "RoleREST.java",
+        "Path": "security-admin/src/main/java/org/apache/ranger/rest/RoleREST.java",
+        "DateUpdated": "2019-09-23T17:33:59Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "f30fa46d4046a69451ffd6a2b77a0d9a333cdfad"
+        ]
+      },
+      {
+        "Sha": "8857afddbca600651cd6eb33e7abb7e074fb1031",
+        "FileName": "RangerRoleService.java",
+        "Path": "security-admin/src/main/java/org/apache/ranger/service/RangerRoleService.java",
+        "DateUpdated": "2019-09-23T17:33:59Z",
+        "Additions": 21,
+        "Deletions": 0,
+        "Commits": [
+          "f30fa46d4046a69451ffd6a2b77a0d9a333cdfad"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "f30fa46d4046a69451ffd6a2b77a0d9a333cdfad",
+        "Date": "2019-09-23T17:33:59Z",
+        "additions": 43,
+        "deletions": 13,
+        "files": [
+          "f10bde425b3bba47d0dedb1b5cf9eae704fcd1a1",
+          "86df95d8211663dae4a8ff9cd73122330f66ec9c",
+          "4af768aa633c293574dacd0ae907e0ca91320b39",
+          "8857afddbca600651cd6eb33e7abb7e074fb1031"
+        ]
+      }
+    ]
+  }
+]

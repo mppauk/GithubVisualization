@@ -1,0 +1,101 @@
+[
+  {
+    "RepositoryName": "nifi-standard-libraries",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T17:05:17Z",
+    "EndDate": "2019-09-23T18:05:17",
+    "Branches": 1,
+    "Forks": 3,
+    "Files": [
+      {
+        "Sha": "1e9336fbe869b287405e295e8ca3c4c8062604d2",
+        "FileName": ".gitignore",
+        "Path": ".gitignore",
+        "DateUpdated": "2019-09-23T17:38:22Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "790c215cd73aed7b10e25ea660dbecd94409331a"
+        ]
+      },
+      {
+        "Sha": "d645695673349e3947e8e5ae42332d0ac3164cd7",
+        "FileName": "LICENSE",
+        "Path": "LICENSE",
+        "DateUpdated": "2019-09-23T17:38:22Z",
+        "Additions": 202,
+        "Deletions": 0,
+        "Commits": [
+          "790c215cd73aed7b10e25ea660dbecd94409331a"
+        ]
+      },
+      {
+        "Sha": "d4089c7244b85384c2654d942fee3fbc2e9a8a0b",
+        "FileName": "NOTICE",
+        "Path": "NOTICE",
+        "DateUpdated": "2019-09-23T17:38:22Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "790c215cd73aed7b10e25ea660dbecd94409331a"
+        ]
+      },
+      {
+        "Sha": "965e212ed163576c6a92bd09e1813d83902155d4",
+        "FileName": "README.md",
+        "Path": "README.md",
+        "DateUpdated": "2019-09-23T17:38:22Z",
+        "Additions": 60,
+        "Deletions": 0,
+        "Commits": [
+          "790c215cd73aed7b10e25ea660dbecd94409331a"
+        ]
+      },
+      {
+        "Sha": "2a351cfd03b73d87f37ca112e78876c8f809c2d3",
+        "FileName": "checkstyle.xml",
+        "Path": "checkstyle.xml",
+        "DateUpdated": "2019-09-23T17:38:22Z",
+        "Additions": 79,
+        "Deletions": 0,
+        "Commits": [
+          "790c215cd73aed7b10e25ea660dbecd94409331a"
+        ]
+      },
+      {
+        "Sha": "c0590f648391b4d5b670f83dff73315e6cec6ee6",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-23T17:38:22Z",
+        "Additions": 444,
+        "Deletions": 0,
+        "Commits": [
+          "790c215cd73aed7b10e25ea660dbecd94409331a"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "790c215cd73aed7b10e25ea660dbecd94409331a",
+        "Author": {
+          "name": "\"Bryan Bende\""
+        },
+        "Commitor": {
+          "name": "\"Kevin Doran\"",
+          "location": "Maryland, USA"
+        },
+        "Date": "2019-09-23T17:38:22Z",
+        "additions": 807,
+        "deletions": 0,
+        "files": [
+          "1e9336fbe869b287405e295e8ca3c4c8062604d2",
+          "d645695673349e3947e8e5ae42332d0ac3164cd7",
+          "d4089c7244b85384c2654d942fee3fbc2e9a8a0b",
+          "965e212ed163576c6a92bd09e1813d83902155d4",
+          "2a351cfd03b73d87f37ca112e78876c8f809c2d3",
+          "c0590f648391b4d5b670f83dff73315e6cec6ee6"
+        ]
+      }
+    ]
+  }
+]

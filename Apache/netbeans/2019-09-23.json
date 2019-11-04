@@ -1,0 +1,42 @@
+[
+  {
+    "RepositoryName": "netbeans",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T08:03:28Z",
+    "EndDate": "2019-09-23T09:03:28",
+    "Branches": 23,
+    "Forks": 451,
+    "Files": [
+      {
+        "Sha": "1182ee1cdd0bae58e5b0e1b0c882c341b8c8162f",
+        "FileName": "common.xml",
+        "Path": "nbbuild/templates/common.xml",
+        "DateUpdated": "2019-09-23T08:53:24Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "6f9bd96e5026cce6f632513c3e214c330ad37a31"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "6f9bd96e5026cce6f632513c3e214c330ad37a31",
+        "Author": {
+          "name": "\"Neil C Smith\"",
+          "location": "Oxford, UK",
+          "company": "@praxis-live @gstreamer-java"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T08:53:24Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "1182ee1cdd0bae58e5b0e1b0c882c341b8c8162f"
+        ]
+      }
+    ]
+  }
+]

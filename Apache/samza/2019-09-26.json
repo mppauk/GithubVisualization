@@ -1,0 +1,78 @@
+[
+  {
+    "RepositoryName": "samza",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T00:04:02Z",
+    "EndDate": "2019-09-26T01:04:02",
+    "Branches": 22,
+    "Forks": 245,
+    "Files": [
+      {
+        "Sha": "a247460ed6fd3c48877ff8317fd6d9665e46c968",
+        "FileName": "samza-configurations.md",
+        "Path": "docs/learn/documentation/versioned/jobs/samza-configurations.md",
+        "DateUpdated": "2019-09-26T00:39:56Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "6b19cd660c5d7e28a59aea97a934aa58e9eb1a95"
+        ]
+      },
+      {
+        "Sha": "68c16f7fb23060668a7639b06c615ec9b0fd7887",
+        "FileName": "ContainerProcessManager.java",
+        "Path": "samza-core/src/main/java/org/apache/samza/clustermanager/ContainerProcessManager.java",
+        "DateUpdated": "2019-09-26T00:39:56Z",
+        "Additions": 23,
+        "Deletions": 9,
+        "Commits": [
+          "6b19cd660c5d7e28a59aea97a934aa58e9eb1a95"
+        ]
+      },
+      {
+        "Sha": "8e1b7595ebf40a1aa455fa0e59cae964783d22bf",
+        "FileName": "ClusterManagerConfig.java",
+        "Path": "samza-core/src/main/java/org/apache/samza/config/ClusterManagerConfig.java",
+        "DateUpdated": "2019-09-26T00:39:56Z",
+        "Additions": 16,
+        "Deletions": 0,
+        "Commits": [
+          "6b19cd660c5d7e28a59aea97a934aa58e9eb1a95"
+        ]
+      },
+      {
+        "Sha": "5347d522c17ca1a5a3e73aff81e50e361135b7e0",
+        "FileName": "TestContainerProcessManager.java",
+        "Path": "samza-core/src/test/java/org/apache/samza/clustermanager/TestContainerProcessManager.java",
+        "DateUpdated": "2019-09-26T00:39:56Z",
+        "Additions": 21,
+        "Deletions": 12,
+        "Commits": [
+          "6b19cd660c5d7e28a59aea97a934aa58e9eb1a95"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "6b19cd660c5d7e28a59aea97a934aa58e9eb1a95",
+        "Author": {
+          "name": "\"Daniel Nishimura\"",
+          "location": "Bay Area, CA",
+          "company": "LinkedIn"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-26T00:39:56Z",
+        "additions": 61,
+        "deletions": 21,
+        "files": [
+          "a247460ed6fd3c48877ff8317fd6d9665e46c968",
+          "68c16f7fb23060668a7639b06c615ec9b0fd7887",
+          "8e1b7595ebf40a1aa455fa0e59cae964783d22bf",
+          "5347d522c17ca1a5a3e73aff81e50e361135b7e0"
+        ]
+      }
+    ]
+  }
+]

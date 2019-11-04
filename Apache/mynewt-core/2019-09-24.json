@@ -1,0 +1,78 @@
+[
+  {
+    "RepositoryName": "mynewt-core",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T21:47:09Z",
+    "EndDate": "2019-09-24T22:47:09",
+    "Branches": 24,
+    "Forks": 241,
+    "Files": [
+      {
+        "Sha": "fd5e144508fb7d11c43e9499a0c01d90e9bbdde2",
+        "FileName": "lps33thw.c",
+        "Path": "hw/drivers/sensors/lps33thw/src/lps33thw.c",
+        "DateUpdated": "2019-09-24T22:04:56Z",
+        "Additions": 15,
+        "Deletions": 9,
+        "Commits": [
+          "dfba6aa3f78abd3010029da97997da1531f62bf1"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "dfba6aa3f78abd3010029da97997da1531f62bf1",
+        "Author": {
+          "name": "\"Miguel Azevedo\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T22:04:56Z",
+        "additions": 15,
+        "deletions": 9,
+        "files": [
+          "fd5e144508fb7d11c43e9499a0c01d90e9bbdde2"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "mynewt-core",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T22:03:41Z",
+    "EndDate": "2019-09-24T23:03:41",
+    "Branches": 24,
+    "Forks": 241,
+    "Files": [
+      {
+        "Sha": "fd5e144508fb7d11c43e9499a0c01d90e9bbdde2",
+        "FileName": "lps33thw.c",
+        "Path": "hw/drivers/sensors/lps33thw/src/lps33thw.c",
+        "DateUpdated": "2019-09-24T22:04:56Z",
+        "Additions": 15,
+        "Deletions": 9,
+        "Commits": [
+          "dfba6aa3f78abd3010029da97997da1531f62bf1"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "dfba6aa3f78abd3010029da97997da1531f62bf1",
+        "Author": {
+          "name": "\"Miguel Azevedo\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T22:04:56Z",
+        "additions": 15,
+        "deletions": 9,
+        "files": [
+          "fd5e144508fb7d11c43e9499a0c01d90e9bbdde2"
+        ]
+      }
+    ]
+  }
+]

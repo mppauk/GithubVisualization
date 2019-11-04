@@ -1,0 +1,112 @@
+[
+  {
+    "RepositoryName": "sling-org-apache-sling-starter-content",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T13:04:14Z",
+    "EndDate": "2019-09-23T14:04:14",
+    "Branches": 1,
+    "Forks": 4,
+    "Files": [
+      {
+        "Sha": "5ee37832907a4fc93fbf508d4bbe2a6b8b7e8ac5",
+        "FileName": "bnd.bnd",
+        "Path": "bnd.bnd",
+        "DateUpdated": "2019-09-23T13:43:32Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "62624441fed2fc6f6cce669af859efbe47432a97"
+        ]
+      },
+      {
+        "Sha": "e692df5def0f791eac6937045bfab2382565ff33",
+        "FileName": "gulpfile.js",
+        "Path": "src/main/frontend/gulpfile.js",
+        "DateUpdated": "2019-09-23T13:43:32Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "62624441fed2fc6f6cce669af859efbe47432a97"
+        ]
+      },
+      {
+        "Sha": "04d3e27822d1ed6fe0cf173f5e01034c6044210a",
+        "FileName": "ROOT.json",
+        "Path": "src/main/resources/initial-content/ROOT.json",
+        "DateUpdated": "2019-09-23T13:43:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "62624441fed2fc6f6cce669af859efbe47432a97"
+        ]
+      },
+      {
+        "Sha": "894187b1b48631b49523257e49d918e6707bed4e",
+        "FileName": "ace.html.esp",
+        "Path": "src/main/resources/initial-content/apps/sling/servlet/default/ace.html.esp",
+        "DateUpdated": "2019-09-23T13:43:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "62624441fed2fc6f6cce669af859efbe47432a97"
+        ]
+      },
+      {
+        "Sha": "a415016463faf89cc30906cfb04605ff4480a504",
+        "FileName": "acl.html.esp",
+        "Path": "src/main/resources/initial-content/apps/sling/servlet/default/acl.html.esp",
+        "DateUpdated": "2019-09-23T13:43:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "62624441fed2fc6f6cce669af859efbe47432a97"
+        ]
+      },
+      {
+        "Sha": "bbda744f8ca1efe19b47b16f5d7da4dc8f2088c3",
+        "FileName": "home.html.esp",
+        "Path": "src/main/resources/initial-content/apps/sling/starter/home/home.html.esp",
+        "DateUpdated": "2019-09-23T13:43:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "62624441fed2fc6f6cce669af859efbe47432a97"
+        ]
+      },
+      {
+        "Sha": "36323126750c5b88cfc75065b0769a90f779bd4e",
+        "FileName": "sidebar-extensions.html.esp",
+        "Path": "src/main/resources/initial-content/apps/sling/starter/sidebar-extensions/sidebar-extensions.html.esp",
+        "DateUpdated": "2019-09-23T13:43:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "62624441fed2fc6f6cce669af859efbe47432a97"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "62624441fed2fc6f6cce669af859efbe47432a97",
+        "Author": {
+          "name": "\"Oliver Lietz\""
+        },
+        "Commitor": {
+          "name": "\"Oliver Lietz\""
+        },
+        "Date": "2019-09-23T13:43:32Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "5ee37832907a4fc93fbf508d4bbe2a6b8b7e8ac5",
+          "e692df5def0f791eac6937045bfab2382565ff33",
+          "04d3e27822d1ed6fe0cf173f5e01034c6044210a",
+          "894187b1b48631b49523257e49d918e6707bed4e",
+          "a415016463faf89cc30906cfb04605ff4480a504",
+          "bbda744f8ca1efe19b47b16f5d7da4dc8f2088c3",
+          "36323126750c5b88cfc75065b0769a90f779bd4e"
+        ]
+      }
+    ]
+  }
+]

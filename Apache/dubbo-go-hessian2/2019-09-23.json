@@ -1,0 +1,88 @@
+[
+  {
+    "RepositoryName": "dubbo-go-hessian2",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T05:03:19Z",
+    "EndDate": "2019-09-23T06:03:19",
+    "Branches": 5,
+    "Forks": 35,
+    "Files": [
+      {
+        "Sha": "48d0fde0b644dd2b22097714bf24383f4dd3f697",
+        "FileName": "encode_test.go",
+        "Path": "encode_test.go",
+        "DateUpdated": "2019-09-23T05:58:45Z",
+        "Additions": 4,
+        "Deletions": 9,
+        "Commits": [
+          "e3dd5d131df5c6da10a528a6fa10f46fdf618c1c",
+          "7a35c639e16a8193bfa98b25d150be20caea05fb"
+        ]
+      },
+      {
+        "Sha": "8922be03e14499488a3358c63b8adb51f15048e9",
+        "FileName": "string.go",
+        "Path": "string.go",
+        "DateUpdated": "2019-09-23T05:58:45Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "e3dd5d131df5c6da10a528a6fa10f46fdf618c1c"
+        ]
+      },
+      {
+        "Sha": "c4a4675fc510aa30d00035bbede44dce2c0356cf",
+        "FileName": "string_test.go",
+        "Path": "string_test.go",
+        "DateUpdated": "2019-09-23T05:58:45Z",
+        "Additions": 3,
+        "Deletions": 4,
+        "Commits": [
+          "e3dd5d131df5c6da10a528a6fa10f46fdf618c1c",
+          "7a35c639e16a8193bfa98b25d150be20caea05fb"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "e3dd5d131df5c6da10a528a6fa10f46fdf618c1c",
+        "Author": {
+          "name": "\"Xin.Zh\"",
+          "location": "Beijing, China",
+          "company": "@apache @sofastack "
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T05:58:45Z",
+        "additions": 18,
+        "deletions": 13,
+        "files": [
+          "48d0fde0b644dd2b22097714bf24383f4dd3f697",
+          "8922be03e14499488a3358c63b8adb51f15048e9",
+          "c4a4675fc510aa30d00035bbede44dce2c0356cf"
+        ]
+      },
+      {
+        "sha": "7a35c639e16a8193bfa98b25d150be20caea05fb",
+        "Author": {
+          "name": "\"望哥\"",
+          "location": "Xiamen, Fujian, China",
+          "company": "luckin coffee"
+        },
+        "Commitor": {
+          "name": "\"望哥\"",
+          "location": "Xiamen, Fujian, China",
+          "company": "luckin coffee"
+        },
+        "Date": "2019-09-23T05:37:37Z",
+        "additions": 7,
+        "deletions": 6,
+        "files": [
+          "48d0fde0b644dd2b22097714bf24383f4dd3f697",
+          "c4a4675fc510aa30d00035bbede44dce2c0356cf"
+        ]
+      }
+    ]
+  }
+]

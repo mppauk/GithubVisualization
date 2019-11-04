@@ -1,0 +1,42 @@
+[
+  {
+    "RepositoryName": "camel-quarkus",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T12:05:30Z",
+    "EndDate": "2019-09-26T13:05:30",
+    "Branches": 1,
+    "Forks": 14,
+    "Files": [
+      {
+        "Sha": "95f1ae39146f3f0c3623213ab5d00d3691ca4c58",
+        "FileName": "site.yml",
+        "Path": "docs/site.yml",
+        "DateUpdated": "2019-09-26T12:28:51Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "5d81db03bf5b29b11de32cc22fdf9febe2ff581c"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "5d81db03bf5b29b11de32cc22fdf9febe2ff581c",
+        "Author": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T12:28:51Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "95f1ae39146f3f0c3623213ab5d00d3691ca4c58"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,231 @@
+[
+  {
+    "RepositoryName": "camel-k-runtime",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T08:04:58Z",
+    "EndDate": "2019-09-25T09:04:58",
+    "Branches": 2,
+    "Forks": 20,
+    "Files": [
+      {
+        "Sha": "dd1432cbb02304d96d34deef77320b14b4999efb",
+        "FileName": "ComponentConfiguration.groovy",
+        "Path": "camel-k-loader-groovy/src/main/groovy/org/apache/camel/k/loader/groovy/dsl/ComponentConfiguration.groovy",
+        "DateUpdated": "2019-09-25T08:18:42Z",
+        "Additions": 0,
+        "Deletions": 2,
+        "Commits": [
+          "307d7fc766401d9aa7ceed2397431c9ed9a0e82e"
+        ]
+      },
+      {
+        "Sha": "4a5dff355e13f81119f11f45f5bd969a3bcfa725",
+        "FileName": "ComponentsConfiguration.groovy",
+        "Path": "camel-k-loader-groovy/src/main/groovy/org/apache/camel/k/loader/groovy/dsl/ComponentsConfiguration.groovy",
+        "DateUpdated": "2019-09-25T08:18:42Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "307d7fc766401d9aa7ceed2397431c9ed9a0e82e"
+        ]
+      },
+      {
+        "Sha": "07a7422154578601403dab612546ae4508ad4137",
+        "FileName": "routes-with-component-wrong-property-configuration.groovy",
+        "Path": "camel-k-loader-groovy/src/test/resources/routes-with-component-wrong-property-configuration.groovy",
+        "DateUpdated": "2019-09-25T08:18:42Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "307d7fc766401d9aa7ceed2397431c9ed9a0e82e"
+        ]
+      },
+      {
+        "Sha": "f2b4fb63c6044b3cb48ad86ac20bf7c68c8bffa8",
+        "FileName": "routes-with-component-wrong-method-configuration.groovy",
+        "Path": "camel-k-loader-groovy/src/test/resources/routes-with-component-wrong-method-configuration.groovy",
+        "DateUpdated": "2019-09-25T08:18:42Z",
+        "Additions": 16,
+        "Deletions": 0,
+        "Commits": [
+          "a819af0de45a1d895afdf0517a70588e882bc85e"
+        ]
+      },
+      {
+        "Sha": "7dfa916cfb6431b3949bba9ad89b5ba62796ebf7",
+        "FileName": "routes-with-component-wrong-property-configuration.groovy",
+        "Path": "camel-k-loader-groovy/src/test/resources/routes-with-component-wrong-property-configuration.groovy",
+        "DateUpdated": "2019-09-25T08:18:42Z",
+        "Additions": 16,
+        "Deletions": 0,
+        "Commits": [
+          "a819af0de45a1d895afdf0517a70588e882bc85e"
+        ]
+      },
+      {
+        "Sha": "a5f67d708352e5a052de1b36ac9ee2269354ada0",
+        "FileName": "ComponentsConfiguration.groovy",
+        "Path": "camel-k-loader-groovy/src/main/groovy/org/apache/camel/k/loader/groovy/dsl/ComponentsConfiguration.groovy",
+        "DateUpdated": "2019-09-25T08:18:42Z",
+        "Additions": 4,
+        "Deletions": 2,
+        "Commits": [
+          "d7a758bee4bb9e5def658f815b5a2e74de5d0847"
+        ]
+      },
+      {
+        "Sha": "d95745bc9b4c4730390c82ce256b9650bf122c7a",
+        "FileName": "IntegrationTest.groovy",
+        "Path": "camel-k-loader-groovy/src/test/groovy/org/apache/camel/k/loader/groovy/dsl/IntegrationTest.groovy",
+        "DateUpdated": "2019-09-25T08:18:42Z",
+        "Additions": 20,
+        "Deletions": 0,
+        "Commits": [
+          "d7a758bee4bb9e5def658f815b5a2e74de5d0847"
+        ]
+      },
+      {
+        "Sha": "3242370cb8f27e3177bd92d9962b44ce43ee229c",
+        "FileName": "routes-with-component-wrong-method-configuration.groovy",
+        "Path": "camel-k-loader-groovy/src/test/resources/routes-with-component-wrong-method-configuration.groovy",
+        "DateUpdated": "2019-09-25T08:18:42Z",
+        "Additions": 13,
+        "Deletions": 0,
+        "Commits": [
+          "d7a758bee4bb9e5def658f815b5a2e74de5d0847"
+        ]
+      },
+      {
+        "Sha": "0efb1945f582f7fd6546ba1c00c884763cbcc740",
+        "FileName": "routes-with-component-wrong-property-configuration.groovy",
+        "Path": "camel-k-loader-groovy/src/test/resources/routes-with-component-wrong-property-configuration.groovy",
+        "DateUpdated": "2019-09-25T08:18:42Z",
+        "Additions": 13,
+        "Deletions": 0,
+        "Commits": [
+          "d7a758bee4bb9e5def658f815b5a2e74de5d0847"
+        ]
+      },
+      {
+        "Sha": "63b4fbf8340f9fdb9bd4bc7509f344cd1771c551",
+        "FileName": "ComponentConfiguration.groovy",
+        "Path": "camel-k-loader-groovy/src/main/groovy/org/apache/camel/k/loader/groovy/dsl/ComponentConfiguration.groovy",
+        "DateUpdated": "2019-09-25T08:18:42Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "361370de2449fca9db182251fa6216cb97b566c2"
+        ]
+      },
+      {
+        "Sha": "8799d8b5f888e85243ea783e98ac42899a2ca3b4",
+        "FileName": "ComponentConfiguration.groovy",
+        "Path": "camel-k-loader-groovy/src/main/groovy/org/apache/camel/k/loader/groovy/dsl/ComponentConfiguration.groovy",
+        "DateUpdated": "2019-09-25T08:18:42Z",
+        "Additions": 6,
+        "Deletions": 1,
+        "Commits": [
+          "40b645e782d67dad35ca11a3d6126aca89ceceba"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "307d7fc766401d9aa7ceed2397431c9ed9a0e82e",
+        "Author": {
+          "name": "\"Willem Jiang\"",
+          "location": "Beijing, China"
+        },
+        "Commitor": {
+          "name": "\"Luca Burgazzoli\"",
+          "location": "Piacenza, Italy",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-25T08:18:42Z",
+        "additions": 3,
+        "deletions": 7,
+        "files": [
+          "dd1432cbb02304d96d34deef77320b14b4999efb",
+          "4a5dff355e13f81119f11f45f5bd969a3bcfa725",
+          "07a7422154578601403dab612546ae4508ad4137"
+        ]
+      },
+      {
+        "sha": "a819af0de45a1d895afdf0517a70588e882bc85e",
+        "Author": {
+          "name": "\"Willem Jiang\"",
+          "location": "Beijing, China"
+        },
+        "Commitor": {
+          "name": "\"Luca Burgazzoli\"",
+          "location": "Piacenza, Italy",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-25T08:18:42Z",
+        "additions": 32,
+        "deletions": 0,
+        "files": [
+          "f2b4fb63c6044b3cb48ad86ac20bf7c68c8bffa8",
+          "7dfa916cfb6431b3949bba9ad89b5ba62796ebf7"
+        ]
+      },
+      {
+        "sha": "d7a758bee4bb9e5def658f815b5a2e74de5d0847",
+        "Author": {
+          "name": "\"Willem Jiang\"",
+          "location": "Beijing, China"
+        },
+        "Commitor": {
+          "name": "\"Luca Burgazzoli\"",
+          "location": "Piacenza, Italy",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-25T08:18:42Z",
+        "additions": 50,
+        "deletions": 2,
+        "files": [
+          "a5f67d708352e5a052de1b36ac9ee2269354ada0",
+          "d95745bc9b4c4730390c82ce256b9650bf122c7a",
+          "3242370cb8f27e3177bd92d9962b44ce43ee229c",
+          "0efb1945f582f7fd6546ba1c00c884763cbcc740"
+        ]
+      },
+      {
+        "sha": "361370de2449fca9db182251fa6216cb97b566c2",
+        "Author": {
+          "name": "\"Willem Jiang\"",
+          "location": "Beijing, China"
+        },
+        "Commitor": {
+          "name": "\"Luca Burgazzoli\"",
+          "location": "Piacenza, Italy",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-25T08:18:42Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "63b4fbf8340f9fdb9bd4bc7509f344cd1771c551"
+        ]
+      },
+      {
+        "sha": "40b645e782d67dad35ca11a3d6126aca89ceceba",
+        "Author": {
+          "name": "\"Willem Jiang\"",
+          "location": "Beijing, China"
+        },
+        "Commitor": {
+          "name": "\"Luca Burgazzoli\"",
+          "location": "Piacenza, Italy",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-25T08:18:42Z",
+        "additions": 6,
+        "deletions": 1,
+        "files": [
+          "8799d8b5f888e85243ea783e98ac42899a2ca3b4"
+        ]
+      }
+    ]
+  }
+]

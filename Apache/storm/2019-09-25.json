@@ -1,0 +1,250 @@
+[
+  {
+    "RepositoryName": "storm",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T03:45:57Z",
+    "EndDate": "2019-09-25T04:45:57",
+    "Branches": 39,
+    "Forks": 3966,
+    "Files": [
+      {
+        "Sha": "4d2f2f7a4075483e27e05b3fd2c5ff2a16a46f21",
+        "FileName": "defaults.yaml",
+        "Path": "conf/defaults.yaml",
+        "DateUpdated": "2019-09-25T04:32:24Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "822a4685c0278aba9d4e0f43104bc4f86a462222"
+        ]
+      },
+      {
+        "Sha": "4bcb2e3aae5c86471da0ca83ff382ca19fde311d",
+        "FileName": "Config.java",
+        "Path": "storm-client/src/jvm/org/apache/storm/Config.java",
+        "DateUpdated": "2019-09-25T04:32:24Z",
+        "Additions": 18,
+        "Deletions": 0,
+        "Commits": [
+          "822a4685c0278aba9d4e0f43104bc4f86a462222"
+        ]
+      },
+      {
+        "Sha": "28076f4edfb105b8211d7dee395e2b063d96f515",
+        "FileName": "DaemonConfig.java",
+        "Path": "storm-server/src/main/java/org/apache/storm/DaemonConfig.java",
+        "DateUpdated": "2019-09-25T04:32:24Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "822a4685c0278aba9d4e0f43104bc4f86a462222"
+        ]
+      },
+      {
+        "Sha": "69b2bb1d7f787a4fb25e2a2168e1db73ea515813",
+        "FileName": "Nimbus.java",
+        "Path": "storm-server/src/main/java/org/apache/storm/daemon/nimbus/Nimbus.java",
+        "DateUpdated": "2019-09-25T04:32:24Z",
+        "Additions": 52,
+        "Deletions": 10,
+        "Commits": [
+          "822a4685c0278aba9d4e0f43104bc4f86a462222"
+        ]
+      },
+      {
+        "Sha": "21ff8ec74b847272bc737c0e57e7516a13b89a76",
+        "FileName": "Container.java",
+        "Path": "storm-server/src/main/java/org/apache/storm/daemon/supervisor/Container.java",
+        "DateUpdated": "2019-09-25T04:32:24Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "822a4685c0278aba9d4e0f43104bc4f86a462222"
+        ]
+      },
+      {
+        "Sha": "7575a919278f46aa8d420c8169e78441d790dc73",
+        "FileName": "Slot.java",
+        "Path": "storm-server/src/main/java/org/apache/storm/daemon/supervisor/Slot.java",
+        "DateUpdated": "2019-09-25T04:32:24Z",
+        "Additions": 32,
+        "Deletions": 5,
+        "Commits": [
+          "822a4685c0278aba9d4e0f43104bc4f86a462222"
+        ]
+      },
+      {
+        "Sha": "5e4ce3f697bfbf229ef97e6bbb56583e89563a44",
+        "FileName": "SupervisorUtils.java",
+        "Path": "storm-server/src/main/java/org/apache/storm/daemon/supervisor/SupervisorUtils.java",
+        "DateUpdated": "2019-09-25T04:32:24Z",
+        "Additions": 0,
+        "Deletions": 8,
+        "Commits": [
+          "822a4685c0278aba9d4e0f43104bc4f86a462222"
+        ]
+      },
+      {
+        "Sha": "e57b626a1be90f016e712e9ee5d5ad8843ac5832",
+        "FileName": "WorkerLogs.java",
+        "Path": "storm-webapp/src/main/java/org/apache/storm/daemon/logviewer/utils/WorkerLogs.java",
+        "DateUpdated": "2019-09-25T04:32:24Z",
+        "Additions": 37,
+        "Deletions": 2,
+        "Commits": [
+          "822a4685c0278aba9d4e0f43104bc4f86a462222"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "822a4685c0278aba9d4e0f43104bc4f86a462222",
+        "Author": {
+          "name": "\"Meng Li (Ethan)\"",
+          "location": "USA",
+          "company": "@Yahoo!"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T04:32:24Z",
+        "additions": 152,
+        "deletions": 26,
+        "files": [
+          "4d2f2f7a4075483e27e05b3fd2c5ff2a16a46f21",
+          "4bcb2e3aae5c86471da0ca83ff382ca19fde311d",
+          "28076f4edfb105b8211d7dee395e2b063d96f515",
+          "69b2bb1d7f787a4fb25e2a2168e1db73ea515813",
+          "21ff8ec74b847272bc737c0e57e7516a13b89a76",
+          "7575a919278f46aa8d420c8169e78441d790dc73",
+          "5e4ce3f697bfbf229ef97e6bbb56583e89563a44",
+          "e57b626a1be90f016e712e9ee5d5ad8843ac5832"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "storm",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T04:02:37Z",
+    "EndDate": "2019-09-25T05:02:37",
+    "Branches": 39,
+    "Forks": 3966,
+    "Files": [
+      {
+        "Sha": "4d2f2f7a4075483e27e05b3fd2c5ff2a16a46f21",
+        "FileName": "defaults.yaml",
+        "Path": "conf/defaults.yaml",
+        "DateUpdated": "2019-09-25T04:32:24Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "822a4685c0278aba9d4e0f43104bc4f86a462222"
+        ]
+      },
+      {
+        "Sha": "4bcb2e3aae5c86471da0ca83ff382ca19fde311d",
+        "FileName": "Config.java",
+        "Path": "storm-client/src/jvm/org/apache/storm/Config.java",
+        "DateUpdated": "2019-09-25T04:32:24Z",
+        "Additions": 18,
+        "Deletions": 0,
+        "Commits": [
+          "822a4685c0278aba9d4e0f43104bc4f86a462222"
+        ]
+      },
+      {
+        "Sha": "28076f4edfb105b8211d7dee395e2b063d96f515",
+        "FileName": "DaemonConfig.java",
+        "Path": "storm-server/src/main/java/org/apache/storm/DaemonConfig.java",
+        "DateUpdated": "2019-09-25T04:32:24Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "822a4685c0278aba9d4e0f43104bc4f86a462222"
+        ]
+      },
+      {
+        "Sha": "69b2bb1d7f787a4fb25e2a2168e1db73ea515813",
+        "FileName": "Nimbus.java",
+        "Path": "storm-server/src/main/java/org/apache/storm/daemon/nimbus/Nimbus.java",
+        "DateUpdated": "2019-09-25T04:32:24Z",
+        "Additions": 52,
+        "Deletions": 10,
+        "Commits": [
+          "822a4685c0278aba9d4e0f43104bc4f86a462222"
+        ]
+      },
+      {
+        "Sha": "21ff8ec74b847272bc737c0e57e7516a13b89a76",
+        "FileName": "Container.java",
+        "Path": "storm-server/src/main/java/org/apache/storm/daemon/supervisor/Container.java",
+        "DateUpdated": "2019-09-25T04:32:24Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "822a4685c0278aba9d4e0f43104bc4f86a462222"
+        ]
+      },
+      {
+        "Sha": "7575a919278f46aa8d420c8169e78441d790dc73",
+        "FileName": "Slot.java",
+        "Path": "storm-server/src/main/java/org/apache/storm/daemon/supervisor/Slot.java",
+        "DateUpdated": "2019-09-25T04:32:24Z",
+        "Additions": 32,
+        "Deletions": 5,
+        "Commits": [
+          "822a4685c0278aba9d4e0f43104bc4f86a462222"
+        ]
+      },
+      {
+        "Sha": "5e4ce3f697bfbf229ef97e6bbb56583e89563a44",
+        "FileName": "SupervisorUtils.java",
+        "Path": "storm-server/src/main/java/org/apache/storm/daemon/supervisor/SupervisorUtils.java",
+        "DateUpdated": "2019-09-25T04:32:24Z",
+        "Additions": 0,
+        "Deletions": 8,
+        "Commits": [
+          "822a4685c0278aba9d4e0f43104bc4f86a462222"
+        ]
+      },
+      {
+        "Sha": "e57b626a1be90f016e712e9ee5d5ad8843ac5832",
+        "FileName": "WorkerLogs.java",
+        "Path": "storm-webapp/src/main/java/org/apache/storm/daemon/logviewer/utils/WorkerLogs.java",
+        "DateUpdated": "2019-09-25T04:32:24Z",
+        "Additions": 37,
+        "Deletions": 2,
+        "Commits": [
+          "822a4685c0278aba9d4e0f43104bc4f86a462222"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "822a4685c0278aba9d4e0f43104bc4f86a462222",
+        "Author": {
+          "name": "\"Meng Li (Ethan)\"",
+          "location": "USA",
+          "company": "@Yahoo!"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T04:32:24Z",
+        "additions": 152,
+        "deletions": 26,
+        "files": [
+          "4d2f2f7a4075483e27e05b3fd2c5ff2a16a46f21",
+          "4bcb2e3aae5c86471da0ca83ff382ca19fde311d",
+          "28076f4edfb105b8211d7dee395e2b063d96f515",
+          "69b2bb1d7f787a4fb25e2a2168e1db73ea515813",
+          "21ff8ec74b847272bc737c0e57e7516a13b89a76",
+          "7575a919278f46aa8d420c8169e78441d790dc73",
+          "5e4ce3f697bfbf229ef97e6bbb56583e89563a44",
+          "e57b626a1be90f016e712e9ee5d5ad8843ac5832"
+        ]
+      }
+    ]
+  }
+]

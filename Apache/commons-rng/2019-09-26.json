@@ -1,0 +1,386 @@
+[
+  {
+    "RepositoryName": "commons-rng",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T12:04:31Z",
+    "EndDate": "2019-09-26T13:04:31",
+    "Branches": 4,
+    "Forks": 31,
+    "Files": [
+      {
+        "Sha": "8a9445644cc6d23dbc44ca7ac43a225eaad5dbc0",
+        "FileName": "rng.apt",
+        "Path": "src/site/apt/userguide/rng.apt",
+        "DateUpdated": "2019-09-26T12:15:07Z",
+        "Additions": 36,
+        "Deletions": 36,
+        "Commits": [
+          "bd4c2258f3127817d3774a9a98690bcf97b12742"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "bd4c2258f3127817d3774a9a98690bcf97b12742",
+        "Author": {
+          "name": "\"Alex Herbert\"",
+          "location": "Brighton, UK",
+          "company": "University of Sussex"
+        },
+        "Commitor": {
+          "name": "\"Alex Herbert\"",
+          "location": "Brighton, UK",
+          "company": "University of Sussex"
+        },
+        "Date": "2019-09-26T12:15:07Z",
+        "additions": 36,
+        "deletions": 36,
+        "files": [
+          "8a9445644cc6d23dbc44ca7ac43a225eaad5dbc0"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "commons-rng",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T14:05:03Z",
+    "EndDate": "2019-09-26T15:05:03",
+    "Branches": 4,
+    "Forks": 31,
+    "Files": [
+      {
+        "Sha": "2d0af507c5172f436b67fa02429601e76b17b2b9",
+        "FileName": "ThreadLocalRandomSource.java",
+        "Path": "commons-rng-simple/src/main/java/org/apache/commons/rng/simple/ThreadLocalRandomSource.java",
+        "DateUpdated": "2019-09-26T14:43:31Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2d7df1163032e6eee7df4adadeae2d10ba2446ac"
+        ]
+      },
+      {
+        "Sha": "ddc46f7dd58f1623f2cbbc3f5c9df93f47ff5b61",
+        "FileName": "NumberFactory.java",
+        "Path": "commons-rng-core/src/main/java/org/apache/commons/rng/core/util/NumberFactory.java",
+        "DateUpdated": "2019-09-26T14:41:51Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "46ab1a6b80a4abca07afebaf6618630e3a70ce47"
+        ]
+      },
+      {
+        "Sha": "1739ea551cbacbd69881240d324ff7abb2a1b882",
+        "FileName": "ProviderBuilder.java",
+        "Path": "commons-rng-simple/src/main/java/org/apache/commons/rng/simple/internal/ProviderBuilder.java",
+        "DateUpdated": "2019-09-26T14:41:51Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "46ab1a6b80a4abca07afebaf6618630e3a70ce47"
+        ]
+      },
+      {
+        "Sha": "d9e394e8cd58c355c5413cada3075accb696b29c",
+        "FileName": "ProviderBuilder.java",
+        "Path": "commons-rng-simple/src/main/java/org/apache/commons/rng/simple/internal/ProviderBuilder.java",
+        "DateUpdated": "2019-09-26T14:35:03Z",
+        "Additions": 8,
+        "Deletions": 4,
+        "Commits": [
+          "63f0f63e315af66a521ea60627993b3e4b4208f8"
+        ]
+      },
+      {
+        "Sha": "b98f0603648b4d07199b2e4bd38f0884449ecde2",
+        "FileName": "RandomSource.java",
+        "Path": "commons-rng-simple/src/main/java/org/apache/commons/rng/simple/RandomSource.java",
+        "DateUpdated": "2019-09-26T14:26:55Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "01b25d4d0a552bbe6a0e7b877f8b15db2585b6ed"
+        ]
+      },
+      {
+        "Sha": "fd7da1c0b037b25b8884a366aaccdf26b0500874",
+        "FileName": "ProvidersCommonParametricTest.java",
+        "Path": "commons-rng-simple/src/test/java/org/apache/commons/rng/simple/ProvidersCommonParametricTest.java",
+        "DateUpdated": "2019-09-26T14:26:55Z",
+        "Additions": 9,
+        "Deletions": 0,
+        "Commits": [
+          "01b25d4d0a552bbe6a0e7b877f8b15db2585b6ed"
+        ]
+      },
+      {
+        "Sha": "35fbc5458ab13ced50edd5aa97144aecb9df9c3b",
+        "FileName": "changes.xml",
+        "Path": "src/changes/changes.xml",
+        "DateUpdated": "2019-09-26T14:19:39Z",
+        "Additions": 5,
+        "Deletions": 1,
+        "Commits": [
+          "98f105dcec5498303088d891bb0d7bc44fa685e5"
+        ]
+      },
+      {
+        "Sha": "a9526e0dc7ff58997211462c4c51188b775aa42a",
+        "FileName": "pom.xml",
+        "Path": "commons-rng-simple/pom.xml",
+        "DateUpdated": "2019-09-26T14:12:58Z",
+        "Additions": 12,
+        "Deletions": 0,
+        "Commits": [
+          "5b40af1e642667d0b121604b09901583420ee9b9"
+        ]
+      },
+      {
+        "Sha": "e8048a499043588371602cd5e7584f9f95e69d53",
+        "FileName": "RandomSource.java",
+        "Path": "commons-rng-simple/src/main/java/org/apache/commons/rng/simple/RandomSource.java",
+        "DateUpdated": "2019-09-26T14:12:58Z",
+        "Additions": 47,
+        "Deletions": 0,
+        "Commits": [
+          "d04c23fb7c506b63ec95610268e2c84af10a93e2"
+        ]
+      },
+      {
+        "Sha": "0fe9da50051a024381fa47b5b7c63f0c85fca8fc",
+        "FileName": "NativeSeedType.java",
+        "Path": "commons-rng-simple/src/main/java/org/apache/commons/rng/simple/internal/NativeSeedType.java",
+        "DateUpdated": "2019-09-26T14:12:58Z",
+        "Additions": 53,
+        "Deletions": 6,
+        "Commits": [
+          "d04c23fb7c506b63ec95610268e2c84af10a93e2"
+        ]
+      },
+      {
+        "Sha": "02af9fcf9a2256287cebb9e927a2b2737170e929",
+        "FileName": "ProviderBuilder.java",
+        "Path": "commons-rng-simple/src/main/java/org/apache/commons/rng/simple/internal/ProviderBuilder.java",
+        "DateUpdated": "2019-09-26T14:12:58Z",
+        "Additions": 82,
+        "Deletions": 6,
+        "Commits": [
+          "d04c23fb7c506b63ec95610268e2c84af10a93e2"
+        ]
+      },
+      {
+        "Sha": "4b336eaf21e89e9df22e21851e89cff5d6bd0fd9",
+        "FileName": "SeedFactory.java",
+        "Path": "commons-rng-simple/src/main/java/org/apache/commons/rng/simple/internal/SeedFactory.java",
+        "DateUpdated": "2019-09-26T14:12:58Z",
+        "Additions": 55,
+        "Deletions": 0,
+        "Commits": [
+          "d04c23fb7c506b63ec95610268e2c84af10a93e2"
+        ]
+      },
+      {
+        "Sha": "aa403dafb065b21799c564710b8f552b2cde5cde",
+        "FileName": "ProvidersCommonParametricTest.java",
+        "Path": "commons-rng-simple/src/test/java/org/apache/commons/rng/simple/ProvidersCommonParametricTest.java",
+        "DateUpdated": "2019-09-26T14:12:58Z",
+        "Additions": 15,
+        "Deletions": 0,
+        "Commits": [
+          "d04c23fb7c506b63ec95610268e2c84af10a93e2"
+        ]
+      },
+      {
+        "Sha": "3913341f423c4f7089fb608edbca061fc3aae2ce",
+        "FileName": "NativeSeedTypeParametricTest.java",
+        "Path": "commons-rng-simple/src/test/java/org/apache/commons/rng/simple/internal/NativeSeedTypeParametricTest.java",
+        "DateUpdated": "2019-09-26T14:12:58Z",
+        "Additions": 22,
+        "Deletions": 0,
+        "Commits": [
+          "d04c23fb7c506b63ec95610268e2c84af10a93e2"
+        ]
+      },
+      {
+        "Sha": "be699ae7591a2770e65379be8a23305585e0359a",
+        "FileName": "NativeSeedTypeTest.java",
+        "Path": "commons-rng-simple/src/test/java/org/apache/commons/rng/simple/internal/NativeSeedTypeTest.java",
+        "DateUpdated": "2019-09-26T14:12:58Z",
+        "Additions": 44,
+        "Deletions": 0,
+        "Commits": [
+          "d04c23fb7c506b63ec95610268e2c84af10a93e2"
+        ]
+      },
+      {
+        "Sha": "e58f4ff22dd83b8bad7f6ca2b8c96eef8f523371",
+        "FileName": "RandomSourceInternalParametricTest.java",
+        "Path": "commons-rng-simple/src/test/java/org/apache/commons/rng/simple/internal/RandomSourceInternalParametricTest.java",
+        "DateUpdated": "2019-09-26T14:12:58Z",
+        "Additions": 95,
+        "Deletions": 0,
+        "Commits": [
+          "d04c23fb7c506b63ec95610268e2c84af10a93e2"
+        ]
+      },
+      {
+        "Sha": "b936d8179338b34edbd97ee38cedbb48492caf38",
+        "FileName": "SeedFactoryTest.java",
+        "Path": "commons-rng-simple/src/test/java/org/apache/commons/rng/simple/internal/SeedFactoryTest.java",
+        "DateUpdated": "2019-09-26T14:12:58Z",
+        "Additions": 59,
+        "Deletions": 0,
+        "Commits": [
+          "d04c23fb7c506b63ec95610268e2c84af10a93e2"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "2d7df1163032e6eee7df4adadeae2d10ba2446ac",
+        "Author": {
+          "name": "\"Alex Herbert\"",
+          "location": "Brighton, UK",
+          "company": "University of Sussex"
+        },
+        "Commitor": {
+          "name": "\"Alex Herbert\"",
+          "location": "Brighton, UK",
+          "company": "University of Sussex"
+        },
+        "Date": "2019-09-26T14:43:31Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "2d0af507c5172f436b67fa02429601e76b17b2b9"
+        ]
+      },
+      {
+        "sha": "46ab1a6b80a4abca07afebaf6618630e3a70ce47",
+        "Author": {
+          "name": "\"Alex Herbert\"",
+          "location": "Brighton, UK",
+          "company": "University of Sussex"
+        },
+        "Commitor": {
+          "name": "\"Alex Herbert\"",
+          "location": "Brighton, UK",
+          "company": "University of Sussex"
+        },
+        "Date": "2019-09-26T14:41:51Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "ddc46f7dd58f1623f2cbbc3f5c9df93f47ff5b61",
+          "1739ea551cbacbd69881240d324ff7abb2a1b882"
+        ]
+      },
+      {
+        "sha": "63f0f63e315af66a521ea60627993b3e4b4208f8",
+        "Author": {
+          "name": "\"Alex Herbert\"",
+          "location": "Brighton, UK",
+          "company": "University of Sussex"
+        },
+        "Commitor": {
+          "name": "\"Alex Herbert\"",
+          "location": "Brighton, UK",
+          "company": "University of Sussex"
+        },
+        "Date": "2019-09-26T14:35:03Z",
+        "additions": 8,
+        "deletions": 4,
+        "files": [
+          "d9e394e8cd58c355c5413cada3075accb696b29c"
+        ]
+      },
+      {
+        "sha": "01b25d4d0a552bbe6a0e7b877f8b15db2585b6ed",
+        "Author": {
+          "name": "\"Alex Herbert\"",
+          "location": "Brighton, UK",
+          "company": "University of Sussex"
+        },
+        "Commitor": {
+          "name": "\"Alex Herbert\"",
+          "location": "Brighton, UK",
+          "company": "University of Sussex"
+        },
+        "Date": "2019-09-26T14:26:55Z",
+        "additions": 10,
+        "deletions": 1,
+        "files": [
+          "b98f0603648b4d07199b2e4bd38f0884449ecde2",
+          "fd7da1c0b037b25b8884a366aaccdf26b0500874"
+        ]
+      },
+      {
+        "sha": "98f105dcec5498303088d891bb0d7bc44fa685e5",
+        "Author": {
+          "name": "\"Alex Herbert\"",
+          "location": "Brighton, UK",
+          "company": "University of Sussex"
+        },
+        "Commitor": {
+          "name": "\"Alex Herbert\"",
+          "location": "Brighton, UK",
+          "company": "University of Sussex"
+        },
+        "Date": "2019-09-26T14:19:39Z",
+        "additions": 5,
+        "deletions": 1,
+        "files": [
+          "35fbc5458ab13ced50edd5aa97144aecb9df9c3b"
+        ]
+      },
+      {
+        "sha": "5b40af1e642667d0b121604b09901583420ee9b9",
+        "Author": {
+          "name": "\"Alex Herbert\"",
+          "location": "Brighton, UK",
+          "company": "University of Sussex"
+        },
+        "Commitor": {
+          "name": "\"Alex Herbert\"",
+          "location": "Brighton, UK",
+          "company": "University of Sussex"
+        },
+        "Date": "2019-09-26T14:12:58Z",
+        "additions": 12,
+        "deletions": 0,
+        "files": [
+          "a9526e0dc7ff58997211462c4c51188b775aa42a"
+        ]
+      },
+      {
+        "sha": "d04c23fb7c506b63ec95610268e2c84af10a93e2",
+        "Author": {
+          "name": "\"Alex Herbert\"",
+          "location": "Brighton, UK",
+          "company": "University of Sussex"
+        },
+        "Commitor": {
+          "name": "\"Alex Herbert\"",
+          "location": "Brighton, UK",
+          "company": "University of Sussex"
+        },
+        "Date": "2019-09-26T14:12:58Z",
+        "additions": 472,
+        "deletions": 12,
+        "files": [
+          "e8048a499043588371602cd5e7584f9f95e69d53",
+          "0fe9da50051a024381fa47b5b7c63f0c85fca8fc",
+          "02af9fcf9a2256287cebb9e927a2b2737170e929",
+          "4b336eaf21e89e9df22e21851e89cff5d6bd0fd9",
+          "aa403dafb065b21799c564710b8f552b2cde5cde",
+          "3913341f423c4f7089fb608edbca061fc3aae2ce",
+          "be699ae7591a2770e65379be8a23305585e0359a",
+          "e58f4ff22dd83b8bad7f6ca2b8c96eef8f523371",
+          "b936d8179338b34edbd97ee38cedbb48492caf38"
+        ]
+      }
+    ]
+  }
+]

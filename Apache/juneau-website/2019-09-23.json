@@ -1,0 +1,178 @@
+[
+  {
+    "RepositoryName": "juneau-website",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T14:03:41Z",
+    "EndDate": "2019-09-23T15:03:41",
+    "Branches": 1,
+    "Forks": 9,
+    "Files": [
+      {
+        "Sha": "1951fa2c826d1036c0c8a877ae1211b969c9ec60",
+        "FileName": "overview-summary.html",
+        "Path": "content/site/apidocs-8.1.1/overview-summary.html",
+        "DateUpdated": "2019-09-23T14:41:10Z",
+        "Additions": 13,
+        "Deletions": 3,
+        "Commits": [
+          "93e36907aa1b1d1db8181eba8bb3b545bea8a916"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "93e36907aa1b1d1db8181eba8bb3b545bea8a916",
+        "Author": {
+          "name": "\"James Bognar\"",
+          "location": "Raleigh, NC",
+          "company": "Salesforce"
+        },
+        "Commitor": {
+          "name": "\"James Bognar\"",
+          "location": "Raleigh, NC",
+          "company": "Salesforce"
+        },
+        "Date": "2019-09-23T14:41:10Z",
+        "additions": 13,
+        "deletions": 3,
+        "files": [
+          "1951fa2c826d1036c0c8a877ae1211b969c9ec60"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "juneau-website",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T15:03:35Z",
+    "EndDate": "2019-09-23T16:03:35",
+    "Branches": 1,
+    "Forks": 9,
+    "Files": [
+      {
+        "Sha": "55d3018c0f6be65734fb901b91b18a972a7b6a89",
+        "FileName": "index.html",
+        "Path": "content/index.html",
+        "DateUpdated": "2019-09-23T15:32:18Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "6953078eb3fe7348d897205b0845b2ba904ffa0d",
+          "6953078eb3fe7348d897205b0845b2ba904ffa0d"
+        ]
+      },
+      {
+        "Sha": "02e8e5a72f3c26fafdf8547cf71e4bc43493ee65",
+        "FileName": "releaseNotes.html",
+        "Path": "content/releaseNotes.html",
+        "DateUpdated": "2019-09-23T15:32:18Z",
+        "Additions": 105,
+        "Deletions": 0,
+        "Commits": [
+          "6953078eb3fe7348d897205b0845b2ba904ffa0d"
+        ]
+      },
+      {
+        "Sha": "d0de5b94d3b81069577308fa840c3ba0a6fa6908",
+        "FileName": "releaseNotes.html",
+        "Path": "templates/releaseNotes.html",
+        "DateUpdated": "2019-09-23T15:32:18Z",
+        "Additions": 26,
+        "Deletions": 0,
+        "Commits": [
+          "6953078eb3fe7348d897205b0845b2ba904ffa0d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "6953078eb3fe7348d897205b0845b2ba904ffa0d",
+        "Author": {
+          "name": "\"James Bognar\"",
+          "location": "Raleigh, NC",
+          "company": "Salesforce"
+        },
+        "Commitor": {
+          "name": "\"James Bognar\"",
+          "location": "Raleigh, NC",
+          "company": "Salesforce"
+        },
+        "Date": "2019-09-23T15:32:18Z",
+        "additions": 133,
+        "deletions": 0,
+        "files": [
+          "55d3018c0f6be65734fb901b91b18a972a7b6a89",
+          "02e8e5a72f3c26fafdf8547cf71e4bc43493ee65",
+          "55d3018c0f6be65734fb901b91b18a972a7b6a89",
+          "d0de5b94d3b81069577308fa840c3ba0a6fa6908"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "juneau-website",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T18:03:37Z",
+    "EndDate": "2019-09-23T19:03:37",
+    "Branches": 1,
+    "Forks": 9,
+    "Files": [
+      {
+        "Sha": "151bd79645a30cf097a2aee6f843652a49c22114",
+        "FileName": "overview-summary.html",
+        "Path": "content/site/apidocs-8.1.0/overview-summary.html",
+        "DateUpdated": "2019-09-23T18:17:17Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "2aa9c9a08efd174f92587544d24bbf184cce476b"
+        ]
+      },
+      {
+        "Sha": "9f80fa8cb671da5f451e815b54a6cea467402daa",
+        "FileName": "SvlExample.html",
+        "Path": "content/site/apidocs-8.1.0/src-html/org/apache/juneau/examples/core/svl/SvlExample.html",
+        "DateUpdated": "2019-09-23T18:17:17Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2aa9c9a08efd174f92587544d24bbf184cce476b"
+        ]
+      },
+      {
+        "Sha": "7b311eb5a8d672c2c2a718ff6f4d2656ee2a79f4",
+        "FileName": "overview-summary.html",
+        "Path": "content/site/apidocs-8.1.1/overview-summary.html",
+        "DateUpdated": "2019-09-23T18:17:17Z",
+        "Additions": 58,
+        "Deletions": 58,
+        "Commits": [
+          "2aa9c9a08efd174f92587544d24bbf184cce476b"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "2aa9c9a08efd174f92587544d24bbf184cce476b",
+        "Author": {
+          "name": "\"James Bognar\"",
+          "location": "Raleigh, NC",
+          "company": "Salesforce"
+        },
+        "Commitor": {
+          "name": "\"James Bognar\"",
+          "location": "Raleigh, NC",
+          "company": "Salesforce"
+        },
+        "Date": "2019-09-23T18:17:17Z",
+        "additions": 61,
+        "deletions": 61,
+        "files": [
+          "151bd79645a30cf097a2aee6f843652a49c22114",
+          "9f80fa8cb671da5f451e815b54a6cea467402daa",
+          "7b311eb5a8d672c2c2a718ff6f4d2656ee2a79f4"
+        ]
+      }
+    ]
+  }
+]

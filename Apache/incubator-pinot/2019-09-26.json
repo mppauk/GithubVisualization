@@ -1,0 +1,1806 @@
+[
+  {
+    "RepositoryName": "incubator-pinot",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T00:03:40Z",
+    "EndDate": "2019-09-26T01:03:40",
+    "Branches": 171,
+    "Forks": 449,
+    "Files": [
+      {
+        "Sha": "ccc63770f4be2ba29d83cf64b1c5f4a99dbdc0d2",
+        "FileName": "HelixBrokerStarterTest.java",
+        "Path": "pinot-broker/src/test/java/org/apache/pinot/broker/broker/HelixBrokerStarterTest.java",
+        "DateUpdated": "2019-09-26T00:44:34Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "577f1cf6328a135f3a933dc0c9dc43bb21d34f5a"
+        ]
+      },
+      {
+        "Sha": "6bf4d685b401f13d2db62c7b333cbd9438d26b40",
+        "FileName": "ZKOperator.java",
+        "Path": "pinot-controller/src/main/java/org/apache/pinot/controller/api/upload/ZKOperator.java",
+        "DateUpdated": "2019-09-26T00:44:34Z",
+        "Additions": 7,
+        "Deletions": 11,
+        "Commits": [
+          "577f1cf6328a135f3a933dc0c9dc43bb21d34f5a"
+        ]
+      },
+      {
+        "Sha": "9afd643d4439ee2c3b0462eb207d244eeb965cd8",
+        "FileName": "PinotHelixResourceManager.java",
+        "Path": "pinot-controller/src/main/java/org/apache/pinot/controller/helix/core/PinotHelixResourceManager.java",
+        "DateUpdated": "2019-09-26T00:44:34Z",
+        "Additions": 4,
+        "Deletions": 2,
+        "Commits": [
+          "577f1cf6328a135f3a933dc0c9dc43bb21d34f5a"
+        ]
+      },
+      {
+        "Sha": "cea265c98c18ca79df625a4e44887b86e7da7585",
+        "FileName": "ZKOperatorTest.java",
+        "Path": "pinot-controller/src/test/java/org/apache/pinot/controller/api/upload/ZKOperatorTest.java",
+        "DateUpdated": "2019-09-26T00:44:34Z",
+        "Additions": 141,
+        "Deletions": 0,
+        "Commits": [
+          "577f1cf6328a135f3a933dc0c9dc43bb21d34f5a"
+        ]
+      },
+      {
+        "Sha": "d4cc488a14c677776342704c8f05af4651031723",
+        "FileName": "ValidationManagerTest.java",
+        "Path": "pinot-controller/src/test/java/org/apache/pinot/controller/validation/ValidationManagerTest.java",
+        "DateUpdated": "2019-09-26T00:44:34Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "577f1cf6328a135f3a933dc0c9dc43bb21d34f5a"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "577f1cf6328a135f3a933dc0c9dc43bb21d34f5a",
+        "Author": {
+          "name": "\"Xiaotian (Jackie) Jiang\"",
+          "location": "Sunnyvale, California",
+          "company": "LinkedIn Corporation"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T00:44:34Z",
+        "additions": 156,
+        "deletions": 16,
+        "files": [
+          "ccc63770f4be2ba29d83cf64b1c5f4a99dbdc0d2",
+          "6bf4d685b401f13d2db62c7b333cbd9438d26b40",
+          "9afd643d4439ee2c3b0462eb207d244eeb965cd8",
+          "cea265c98c18ca79df625a4e44887b86e7da7585",
+          "d4cc488a14c677776342704c8f05af4651031723"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-pinot",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T01:03:09Z",
+    "EndDate": "2019-09-26T02:03:09",
+    "Branches": 169,
+    "Forks": 449,
+    "Files": [
+      {
+        "Sha": "75bd8250dbfb92b75d1380c5723b2858936aa680",
+        "FileName": "AggregationFunctionType.java",
+        "Path": "pinot-common/src/main/java/org/apache/pinot/common/function/AggregationFunctionType.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 25,
+        "Deletions": 30,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "3d0816d321b84656cfda502869908251bd10fe40",
+        "FileName": "FunctionDefinitionRegistry.java",
+        "Path": "pinot-common/src/main/java/org/apache/pinot/common/function/FunctionDefinitionRegistry.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 2,
+        "Deletions": 4,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "a8edbb2c278b0fdaae84f6df25f2712fd65b039d",
+        "FileName": "AggregationFunctionTypeTest.java",
+        "Path": "pinot-common/src/test/java/org/apache/pinot/common/function/AggregationFunctionTypeTest.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "77cdf5c1e947fe30e3d2fed6c06e91514f879663",
+        "FileName": "DataTableBuilder.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/common/datatable/DataTableBuilder.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "987d484442e37aa33f44f26b589fd5e0720213eb",
+        "FileName": "AvgValueAggregator.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/data/aggregator/AvgValueAggregator.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "56b9f8366d5f01c283a1edd83779b9f67d2aa0d9",
+        "FileName": "DistinctCountHLLValueAggregator.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/data/aggregator/DistinctCountHLLValueAggregator.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "41036af5c4eb774c2bd2a74e1d81b98c614adc4c",
+        "FileName": "MinMaxRangeValueAggregator.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/data/aggregator/MinMaxRangeValueAggregator.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "e1cf8e24d995a1c3032f01734e43bb6e1bb75c31",
+        "FileName": "PercentileEstValueAggregator.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/data/aggregator/PercentileEstValueAggregator.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "7597cbf600004116ba8c16717959d022b5bdff1c",
+        "FileName": "PercentileTDigestValueAggregator.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/data/aggregator/PercentileTDigestValueAggregator.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "68596587479d5e3f449274b9b12dd466eefc47f7",
+        "FileName": "DictionaryBasedAggregationOperator.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/operator/query/DictionaryBasedAggregationOperator.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "4557688707e83eb171a31df035736600a1e99124",
+        "FileName": "MetadataBasedAggregationOperator.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/operator/query/MetadataBasedAggregationOperator.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "4f7bc7947fd14231eb15932e08a737ce26aff3bd",
+        "FileName": "SingleParamMathTransformFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/SingleParamMathTransformFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 0,
+        "Deletions": 3,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "127395959c97b5e048918871e540445e35824803",
+        "FileName": "TransformFunctionFactory.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/operator/transform/function/TransformFunctionFactory.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 6,
+        "Deletions": 1,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "e0def6f7f55d3ae1dbf9ebd3119ee76215137d77",
+        "FileName": "AggregationExecutor.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/AggregationExecutor.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "d381d312a0f815c97f75c22c937dadf4c4c9266e",
+        "FileName": "DefaultAggregationExecutor.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/DefaultAggregationExecutor.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 2,
+        "Deletions": 7,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "d177ff37b23ccf1f28823e80f4fe5cd7dd99e0d8",
+        "FileName": "AggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/AggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 32,
+        "Deletions": 43,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "d6873e24af333814d205be8665cb5093bae7ce89",
+        "FileName": "AggregationFunctionFactory.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/AggregationFunctionFactory.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 0,
+        "Deletions": 3,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "3b44b9941bd024674956ffdfa7155023d5c55a64",
+        "FileName": "AggregationFunctionUtils.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/AggregationFunctionUtils.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 7,
+        "Deletions": 17,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "c21710a4d3e5bea6d798de9f8c7b420a8c3b1bef",
+        "FileName": "AggregationFunctionVisitorBase.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/AggregationFunctionVisitorBase.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 14,
+        "Deletions": 39,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "27c26c88ee1859e8586778787de72b7774823534",
+        "FileName": "AvgAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/AvgAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 16,
+        "Deletions": 29,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "12c3ab4bce17431d45d9c8406343e994004c87b9",
+        "FileName": "AvgMVAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/AvgMVAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 12,
+        "Deletions": 11,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "d9454b34f8eec464eed22af646eba6786c7b6340",
+        "FileName": "CountAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/CountAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 14,
+        "Deletions": 25,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "a3cc3db75abfc7f7a03b715ef36d7796ad15fa26",
+        "FileName": "CountMVAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/CountMVAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 11,
+        "Deletions": 10,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "cf68e1dad8c30df3915a91a90c631d277cca23cb",
+        "FileName": "DistinctAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/DistinctAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 24,
+        "Deletions": 33,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "17f055d6f018b549b9550a82044561b1350c46b7",
+        "FileName": "DistinctCountAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/DistinctCountAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 18,
+        "Deletions": 30,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "d3fb94cebc2cdc704d633edf651acfac2137e622",
+        "FileName": "DistinctCountHLLAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/DistinctCountHLLAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 20,
+        "Deletions": 35,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "5d85563ea09f29e7b59c3c77bece9d52c753439b",
+        "FileName": "DistinctCountHLLMVAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/DistinctCountHLLMVAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 11,
+        "Deletions": 10,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "c38671d65dc0efedb29655a7e244cd55585c40ef",
+        "FileName": "DistinctCountMVAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/DistinctCountMVAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 11,
+        "Deletions": 10,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "cbf883195aec7abceaa03c29cf8fb06d112820cd",
+        "FileName": "DistinctCountRawHLLAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/DistinctCountRawHLLAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 22,
+        "Deletions": 26,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "856d3f214769b30c25ef8b2a2036b24bb90e5899",
+        "FileName": "DistinctCountRawHLLMVAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/DistinctCountRawHLLMVAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 4,
+        "Deletions": 26,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "a97370f7c6a7b0ca25e1dd31e0da8bc4455f479c",
+        "FileName": "FastHLLAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/FastHLLAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 16,
+        "Deletions": 27,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "4e5959d86194316651083831389375f7e13c383e",
+        "FileName": "MaxAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/MaxAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 14,
+        "Deletions": 25,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "c3a8eee0351c5a75c1581aa3888cc5dae0aac999",
+        "FileName": "MaxMVAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/MaxMVAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 11,
+        "Deletions": 10,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "5cdc2add5e66ec5dd97e7f34242c7f208d8f9dfc",
+        "FileName": "MinAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/MinAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 14,
+        "Deletions": 25,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "5f7afbcb9502c26fd2713eca1046d21b0fec79c0",
+        "FileName": "MinMVAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/MinMVAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 11,
+        "Deletions": 10,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "7d0fa3dc3def3025a2993df01f8f4702889ca357",
+        "FileName": "MinMaxRangeAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/MinMaxRangeAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 16,
+        "Deletions": 30,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "c8e8e0a4fe24defddd30436868bc5b9bfe027daa",
+        "FileName": "MinMaxRangeMVAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/MinMaxRangeMVAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 12,
+        "Deletions": 11,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "323ced928e69ce7d2e8eba7eb00e33fb78c4719f",
+        "FileName": "PercentileAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/PercentileAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 16,
+        "Deletions": 28,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "e4fbdeb4cf3d4e42803920f1c174754d71003d10",
+        "FileName": "PercentileEstAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/PercentileEstAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 16,
+        "Deletions": 28,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "6e3f1e356f70cca6bbe8fa2103a08e8af033609e",
+        "FileName": "PercentileEstMVAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/PercentileEstMVAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 11,
+        "Deletions": 10,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "933ca1f939596a022e9e2244865d4580f1051548",
+        "FileName": "PercentileMVAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/PercentileMVAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 11,
+        "Deletions": 10,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "0e1ff7eca90504446e5f4c579dc7210ebd8879a9",
+        "FileName": "PercentileTDigestAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/PercentileTDigestAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 17,
+        "Deletions": 28,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "537426e568755f60a09fc4250770bf2067f62b56",
+        "FileName": "PercentileTDigestMVAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/PercentileTDigestMVAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 11,
+        "Deletions": 10,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "43e1a84927d77d9545d964525d945d3572b3b9f1",
+        "FileName": "SumAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/SumAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 14,
+        "Deletions": 25,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "7d220c741ea516dc7f7e71861c1e4b83a5e4c41e",
+        "FileName": "SumMVAggregationFunction.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/function/SumMVAggregationFunction.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 11,
+        "Deletions": 10,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "13ec1c9543dc30ed30fbd0776315d8fe96c435ee",
+        "FileName": "DefaultGroupByExecutor.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/aggregation/groupby/DefaultGroupByExecutor.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "bafabcc00a5a4ec4268cd5043bbfb02fd41d4f27",
+        "FileName": "ServerQueryRequest.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/request/ServerQueryRequest.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "e63767f5f56b6fda77547dc6e5ae4e95582e62c1",
+        "FileName": "StarTreeAggregationExecutor.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/startree/executor/StarTreeAggregationExecutor.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 3,
+        "Deletions": 4,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "1e039ef888b9ecbf75f3e3f3fc19b8b9e8f8f0a1",
+        "FileName": "StarTreeGroupByExecutor.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/startree/executor/StarTreeGroupByExecutor.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "dc0b7b1f66dbfa9104a1949ddbc699b6748ffb04",
+        "FileName": "BaseSingleTreeBuilder.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/startree/v2/builder/BaseSingleTreeBuilder.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "cabf2ad2b4ca70df3786fd692390406bc8027fa5",
+        "FileName": "StarTreeLoaderUtils.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/startree/v2/store/StarTreeLoaderUtils.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "a2141762e7cb1b3e5a0547836fcc039ccbd21409",
+        "FileName": "BaseStarTreeV2Test.java",
+        "Path": "pinot-core/src/test/java/org/apache/pinot/core/startree/v2/BaseStarTreeV2Test.java",
+        "DateUpdated": "2019-09-26T02:02:10Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "4b5c5acba103a7106aa361dde634d2020a2899ce"
+        ]
+      },
+      {
+        "Sha": "aec5aad3de7416986010fe1129dbdb593c569edc",
+        "FileName": "BytesUtils.java",
+        "Path": "pinot-common/src/main/java/org/apache/pinot/common/utils/BytesUtils.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 19,
+        "Deletions": 12,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "ea55725140ecc2dbb643eb032fa028c8ae10671f",
+        "FileName": "DataFetcher.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/common/DataFetcher.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 11,
+        "Deletions": 11,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "ad098b12e9c55edbbac4a4f0a3407e6b9a57da26",
+        "FileName": "OrderByUtils.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/data/order/OrderByUtils.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 28,
+        "Deletions": 30,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "4cc6c43818452c8ef9078f2d2bbd99eae2f33293",
+        "FileName": "PinotDataType.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/data/recordtransformer/PinotDataType.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 184,
+        "Deletions": 37,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "242375ef059852e51c92bb35fefc6fb70d1102d8",
+        "FileName": "MutableSegmentImpl.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/indexsegment/mutable/MutableSegmentImpl.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 28,
+        "Deletions": 30,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "06e6c7b7e325d06be2d3c896c268e8d8296fc86f",
+        "FileName": "DictionaryDelegatingValueReader.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/io/util/DictionaryDelegatingValueReader.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 0,
+        "Deletions": 79,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "f9de097181c2fb3180080becd72843bf13fe656a",
+        "FileName": "FixedByteValueReaderWriter.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/io/util/FixedByteValueReaderWriter.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 5,
+        "Deletions": 6,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "d5c9c98729894e95ec2545142d27818c39c47469",
+        "FileName": "ValueReader.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/io/util/ValueReader.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 13,
+        "Deletions": 2,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "292fb55421986cf0bdc0750ad091df6dd17dfd92",
+        "FileName": "VarLengthBytesValueReaderWriter.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/io/util/VarLengthBytesValueReaderWriter.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 9,
+        "Deletions": 44,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "e1431f0d0d3117b4792e091e7e46eed19653c2cf",
+        "FileName": "InPredicateEvaluatorFactory.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/operator/filter/predicate/InPredicateEvaluatorFactory.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "33e257e5c0c809e1e338eec4e1a6e776c1f7849b",
+        "FileName": "NotInPredicateEvaluatorFactory.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/operator/filter/predicate/NotInPredicateEvaluatorFactory.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "b48c71b27a6f45b739b4f4d4c1cd82c43e09eb52",
+        "FileName": "RangePredicateEvaluatorFactory.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/operator/filter/predicate/RangePredicateEvaluatorFactory.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 11,
+        "Deletions": 36,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "45c684adf9c0ff033fa9dd2e624e5f5907587858",
+        "FileName": "AbstractSegmentPruner.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/pruner/AbstractSegmentPruner.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "7c4eb31ce2b38f96e2e554a21e818e623dfc9621",
+        "FileName": "RealtimeColumnStatistics.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/realtime/converter/stats/RealtimeColumnStatistics.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "073b255e9847b6579381f98f1c846ec9f65661a9",
+        "FileName": "BaseMutableDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/dictionary/BaseMutableDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 72,
+        "Deletions": 0,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "1b6d16e325616fa00c8888c954752c9620d9fc9a",
+        "FileName": "BaseOffHeapMutableDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/dictionary/BaseOffHeapMutableDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 38,
+        "Deletions": 48,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "d2b55f6f876b0c794dee45e54422fe6e3669da83",
+        "FileName": "BaseOnHeapMutableDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/dictionary/BaseOnHeapMutableDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 16,
+        "Deletions": 19,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "be8852001369ab167c8a59bf2c14fb59dc35a06a",
+        "FileName": "BytesOffHeapMutableDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/dictionary/BytesOffHeapMutableDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 116,
+        "Deletions": 64,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "bca3082ea624ad78b276fcfa6916aa6bd9094328",
+        "FileName": "BytesOnHeapMutableDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/dictionary/BytesOnHeapMutableDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 100,
+        "Deletions": 43,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "daefc40c374d156889f29294fb22e58a26228fbc",
+        "FileName": "DoubleOffHeapMutableDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/dictionary/DoubleOffHeapMutableDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 139,
+        "Deletions": 83,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "091ce5b8b9388b2cc07da5cc28eabeac969fe61b",
+        "FileName": "DoubleOnHeapMutableDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/dictionary/DoubleOnHeapMutableDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 106,
+        "Deletions": 54,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "94592f3142ef60e6cfee77418b0504f123044ffa",
+        "FileName": "FloatOffHeapMutableDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/dictionary/FloatOffHeapMutableDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 139,
+        "Deletions": 84,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "7ac0ce49bade2bb66e2471c999fa13959e33995a",
+        "FileName": "FloatOnHeapMutableDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/dictionary/FloatOnHeapMutableDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 106,
+        "Deletions": 54,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "765740a058030c03d8fba37834714cfcaf77bdba",
+        "FileName": "IntOffHeapMutableDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/dictionary/IntOffHeapMutableDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 139,
+        "Deletions": 84,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "2d35c74fd1bbe3d6d80457c7c2705266d5adfb47",
+        "FileName": "IntOnHeapMutableDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/dictionary/IntOnHeapMutableDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 106,
+        "Deletions": 54,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "a068bb96c405ca260020d65540d3437d87df6d45",
+        "FileName": "LongOffHeapMutableDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/dictionary/LongOffHeapMutableDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 140,
+        "Deletions": 84,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "18d2d6cb9024f44033e74a2991af9049abc7b85f",
+        "FileName": "LongOnHeapMutableDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/dictionary/LongOnHeapMutableDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 106,
+        "Deletions": 54,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "1f9855bfb03c51c0e388fcaf710260ad6397b1b8",
+        "FileName": "MutableDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/dictionary/MutableDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 0,
+        "Deletions": 92,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "5c5821fb989269f8fdcb78e2af6c1e5696dfb635",
+        "FileName": "MutableDictionaryFactory.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/dictionary/MutableDictionaryFactory.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "7d568ca61c70a102ca50f5603c71fc2d8c0a6e1d",
+        "FileName": "StringOffHeapMutableDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/dictionary/StringOffHeapMutableDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 117,
+        "Deletions": 59,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "9d65ac287a7238449bb6fced13fbf7a98ca33fd8",
+        "FileName": "StringOnHeapMutableDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/realtime/impl/dictionary/StringOnHeapMutableDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 91,
+        "Deletions": 28,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "93360419204903a72842014f9705f1e0fd358b5d",
+        "FileName": "SegmentColumnarIndexCreator.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/creator/impl/SegmentColumnarIndexCreator.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "6facd26607f6ca73e7ad17ffcc4d6df600f55bed",
+        "FileName": "SegmentDictionaryCreator.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/creator/impl/SegmentDictionaryCreator.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "22245d7318586b5e7945071e9b52148db628af43",
+        "FileName": "V1Constants.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/creator/impl/V1Constants.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 2,
+        "Deletions": 37,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "1befd8ff255dfc65093d72beb8688c697eaf3793",
+        "FileName": "AbstractColumnStatisticsCollector.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/creator/impl/stats/AbstractColumnStatisticsCollector.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 0,
+        "Deletions": 23,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "bfc726883f1c70956f7110773598b667b721c347",
+        "FileName": "StringColumnPreIndexStatsCollector.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/creator/impl/stats/StringColumnPreIndexStatsCollector.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "27b7d20703183d245ee966b760d29b6c729d4253",
+        "FileName": "PhysicalColumnIndexContainer.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/index/column/PhysicalColumnIndexContainer.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "c44677f24f1bae870dea081bc3229f8f8e155a60",
+        "FileName": "ColumnDataSource.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/index/data/source/ColumnDataSource.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "fbbff7ebb88883e3e8fef1ef9f0259ecc4d2ff3e",
+        "FileName": "BloomFilterHandler.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/index/loader/bloomfilter/BloomFilterHandler.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "9a0effb67e267991a3fd7587c371881ae4c8c5db",
+        "FileName": "BaseDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/BaseDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 21,
+        "Deletions": 54,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "16feef13daf91fc82dc6a51e5fdc6dd5a6df95e3",
+        "FileName": "BaseImmutableDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/BaseImmutableDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 37,
+        "Deletions": 28,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "000755b7e52b27ec94a4115107ca77a68259cf83",
+        "FileName": "BytesDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/BytesDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 24,
+        "Deletions": 18,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "b62f3db123b14a2fdb548aaac8a5bd759a7a3ab2",
+        "FileName": "Dictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/Dictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 34,
+        "Deletions": 16,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "44f5c5dcc368ace243301b1fb82928bebf9e3540",
+        "FileName": "DoubleDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/DoubleDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 3,
+        "Deletions": 15,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "99ef941e279e602180aee1ae92b2c21581b99c3e",
+        "FileName": "FloatDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/FloatDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 3,
+        "Deletions": 15,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "5a2a5eac1155d3decddd07179b349e2d1e1d1350",
+        "FileName": "IntDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/IntDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 3,
+        "Deletions": 20,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "66d7ba6e899e8aafd2c1b293b2d24a44d54b65ab",
+        "FileName": "LongDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/LongDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 3,
+        "Deletions": 15,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "65bd4a4127110efe45a6967088f49f78d20f2714",
+        "FileName": "OnHeapDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/OnHeapDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "b96e757cb87cf40fb56b7c72ac03f2859dd62fdb",
+        "FileName": "OnHeapDoubleDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/OnHeapDoubleDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 22,
+        "Deletions": 21,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "d5f96560208b20811311971707035b55892b020e",
+        "FileName": "OnHeapFloatDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/OnHeapFloatDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 17,
+        "Deletions": 21,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "ac1172e666657f6f073a200a9e15a1c8c0c8bfa3",
+        "FileName": "OnHeapIntDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/OnHeapIntDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 7,
+        "Deletions": 21,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "b1e98e7923729331c00bde7a292d1eb3a14804e1",
+        "FileName": "OnHeapLongDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/OnHeapLongDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 22,
+        "Deletions": 21,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "a753c0c825871de053b528e3d57e9b4e96669c96",
+        "FileName": "OnHeapStringDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/OnHeapStringDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 48,
+        "Deletions": 21,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "b5674dcaf6e0d96cefe22a779c634450a03e7b09",
+        "FileName": "StringDictionary.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/StringDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 69,
+        "Deletions": 15,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "b2075585ff2d20e964943e0c87843882368d16c6",
+        "FileName": "DocIdVirtualColumnProvider.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/virtualcolumn/DocIdVirtualColumnProvider.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 16,
+        "Deletions": 40,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "7dd8e8342dc21298ab697cc3492db5898f2835e9",
+        "FileName": "SingleStringVirtualColumnProvider.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/virtualcolumn/SingleStringVirtualColumnProvider.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 28,
+        "Deletions": 48,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "39f8f0a7e0bffad7dd48497a9a4b2d68c043d56f",
+        "FileName": "FixedIntArrayOffHeapIdMap.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/util/FixedIntArrayOffHeapIdMap.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 64,
+        "Deletions": 32,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "674bfbd22bc1fb73f39d7ad6a6ec0ef7ede68391",
+        "FileName": "PinotDataTypeTest.java",
+        "Path": "pinot-core/src/test/java/org/apache/pinot/core/data/recordtransformer/PinotDataTypeTest.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 92,
+        "Deletions": 58,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "606d44bd4e01513f0d332ba37089f34d9ea3d93f",
+        "FileName": "VarLengthBytesValueReaderWriterTest.java",
+        "Path": "pinot-core/src/test/java/org/apache/pinot/core/io/util/VarLengthBytesValueReaderWriterTest.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 5,
+        "Deletions": 3,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "cd2fa3a8d82927473e01c2edea9607bcf2ebe505",
+        "FileName": "ValueInTransformFunctionTest.java",
+        "Path": "pinot-core/src/test/java/org/apache/pinot/core/operator/transform/function/ValueInTransformFunctionTest.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "a430d2f9a7fe96a921816d3c1bd312c163785b59",
+        "FileName": "RangeOfflineDictionaryPredicateEvaluatorTest.java",
+        "Path": "pinot-core/src/test/java/org/apache/pinot/core/predicate/RangeOfflineDictionaryPredicateEvaluatorTest.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 13,
+        "Deletions": 13,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "75e22c80fe4adbcaaa8838acc7ee5eab6d8d90f6",
+        "FileName": "DictionaryPerfRunner.java",
+        "Path": "pinot-core/src/test/java/org/apache/pinot/core/realtime/impl/dictionary/DictionaryPerfRunner.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 0,
+        "Deletions": 140,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "c8a27521bc48d7c5a318ac4069ee050c9fd71b6c",
+        "FileName": "MultiValueDictionaryTest.java",
+        "Path": "pinot-core/src/test/java/org/apache/pinot/core/realtime/impl/dictionary/MultiValueDictionaryTest.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 30,
+        "Deletions": 41,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "d88d99dd5402139a203092cdcfcd658658aed821",
+        "FileName": "MutableDictionaryTest.java",
+        "Path": "pinot-core/src/test/java/org/apache/pinot/core/realtime/impl/dictionary/MutableDictionaryTest.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 39,
+        "Deletions": 55,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "d80a73e79617a66936a0dee672f652c5c0bdc459",
+        "FileName": "SegmentGenerationWithBytesTypeTest.java",
+        "Path": "pinot-core/src/test/java/org/apache/pinot/core/segment/index/creator/SegmentGenerationWithBytesTypeTest.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 13,
+        "Deletions": 11,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "333adec15c44785dcbc714235f14c2fbf3417793",
+        "FileName": "ImmutableDictionaryTest.java",
+        "Path": "pinot-core/src/test/java/org/apache/pinot/core/segment/index/readers/ImmutableDictionaryTest.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 132,
+        "Deletions": 67,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "0a6d53be1bef604ee7e6c94a772a41cb398d9172",
+        "FileName": "ImmutableDictionaryTypeConversionTest.java",
+        "Path": "pinot-core/src/test/java/org/apache/pinot/core/segment/index/readers/ImmutableDictionaryTypeConversionTest.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 385,
+        "Deletions": 0,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "b3c771394e73e3aa18ab32cb6db3a64749c47ac8",
+        "FileName": "InterSegmentAggregationMultiValueQueriesTest.java",
+        "Path": "pinot-core/src/test/java/org/apache/pinot/queries/InterSegmentAggregationMultiValueQueriesTest.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 19,
+        "Deletions": 13,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "6074f87193e62400f99d15d7adf30bf1a9c5f027",
+        "FileName": "InterSegmentAggregationSingleValueQueriesTest.java",
+        "Path": "pinot-core/src/test/java/org/apache/pinot/queries/InterSegmentAggregationSingleValueQueriesTest.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "d623004d5096497ef7b405cce76ca44e2d41b443",
+        "FileName": "BitmapInvertedIndexTest.java",
+        "Path": "pinot-core/src/test/java/org/apache/pinot/segments/v1/creator/BitmapInvertedIndexTest.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 2,
+        "Deletions": 7,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "5c35f0387a5e4266d08a87b549cccaf513189f71",
+        "FileName": "DictionariesTest.java",
+        "Path": "pinot-core/src/test/java/org/apache/pinot/segments/v1/creator/DictionariesTest.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 37,
+        "Deletions": 62,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "437e7831348a3afc53e59f43fa1568c4cc5e70c2",
+        "FileName": "BenchmarkDictionary.java",
+        "Path": "pinot-perf/src/main/java/org/apache/pinot/perf/BenchmarkDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 63,
+        "Deletions": 54,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "39c9c9f2e0302d1d43f06468ce03ee95f551bca9",
+        "FileName": "BenchmarkOffHeapDictionaryMemory.java",
+        "Path": "pinot-perf/src/main/java/org/apache/pinot/perf/BenchmarkOffHeapDictionaryMemory.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 4,
+        "Deletions": 6,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "6a430e6007ebacf9aabc41843253fe17e6c652b0",
+        "FileName": "BenchmarkOfflineIndexReader.java",
+        "Path": "pinot-perf/src/main/java/org/apache/pinot/perf/BenchmarkOfflineIndexReader.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "f5dc8260ae15d980f81c4e8d6960e15302f6f7c4",
+        "FileName": "BenchmarkStringDictionary.java",
+        "Path": "pinot-perf/src/main/java/org/apache/pinot/perf/BenchmarkStringDictionary.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 6,
+        "Deletions": 4,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      },
+      {
+        "Sha": "d0f5f4b9d53a51733f3df0e9f99caf43ee23a442",
+        "FileName": "StringDictionaryPerfTest.java",
+        "Path": "pinot-perf/src/main/java/org/apache/pinot/perf/StringDictionaryPerfTest.java",
+        "DateUpdated": "2019-09-26T02:00:34Z",
+        "Additions": 23,
+        "Deletions": 41,
+        "Commits": [
+          "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "4b5c5acba103a7106aa361dde634d2020a2899ce",
+        "Author": {
+          "name": "\"Xiaotian (Jackie) Jiang\"",
+          "location": "Sunnyvale, California",
+          "company": "LinkedIn Corporation"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T02:02:10Z",
+        "additions": 472,
+        "deletions": 701,
+        "files": [
+          "75bd8250dbfb92b75d1380c5723b2858936aa680",
+          "3d0816d321b84656cfda502869908251bd10fe40",
+          "a8edbb2c278b0fdaae84f6df25f2712fd65b039d",
+          "77cdf5c1e947fe30e3d2fed6c06e91514f879663",
+          "987d484442e37aa33f44f26b589fd5e0720213eb",
+          "56b9f8366d5f01c283a1edd83779b9f67d2aa0d9",
+          "41036af5c4eb774c2bd2a74e1d81b98c614adc4c",
+          "e1cf8e24d995a1c3032f01734e43bb6e1bb75c31",
+          "7597cbf600004116ba8c16717959d022b5bdff1c",
+          "68596587479d5e3f449274b9b12dd466eefc47f7",
+          "4557688707e83eb171a31df035736600a1e99124",
+          "4f7bc7947fd14231eb15932e08a737ce26aff3bd",
+          "127395959c97b5e048918871e540445e35824803",
+          "e0def6f7f55d3ae1dbf9ebd3119ee76215137d77",
+          "d381d312a0f815c97f75c22c937dadf4c4c9266e",
+          "d177ff37b23ccf1f28823e80f4fe5cd7dd99e0d8",
+          "d6873e24af333814d205be8665cb5093bae7ce89",
+          "3b44b9941bd024674956ffdfa7155023d5c55a64",
+          "c21710a4d3e5bea6d798de9f8c7b420a8c3b1bef",
+          "27c26c88ee1859e8586778787de72b7774823534",
+          "12c3ab4bce17431d45d9c8406343e994004c87b9",
+          "d9454b34f8eec464eed22af646eba6786c7b6340",
+          "a3cc3db75abfc7f7a03b715ef36d7796ad15fa26",
+          "cf68e1dad8c30df3915a91a90c631d277cca23cb",
+          "17f055d6f018b549b9550a82044561b1350c46b7",
+          "d3fb94cebc2cdc704d633edf651acfac2137e622",
+          "5d85563ea09f29e7b59c3c77bece9d52c753439b",
+          "c38671d65dc0efedb29655a7e244cd55585c40ef",
+          "cbf883195aec7abceaa03c29cf8fb06d112820cd",
+          "856d3f214769b30c25ef8b2a2036b24bb90e5899",
+          "a97370f7c6a7b0ca25e1dd31e0da8bc4455f479c",
+          "4e5959d86194316651083831389375f7e13c383e",
+          "c3a8eee0351c5a75c1581aa3888cc5dae0aac999",
+          "5cdc2add5e66ec5dd97e7f34242c7f208d8f9dfc",
+          "5f7afbcb9502c26fd2713eca1046d21b0fec79c0",
+          "7d0fa3dc3def3025a2993df01f8f4702889ca357",
+          "c8e8e0a4fe24defddd30436868bc5b9bfe027daa",
+          "323ced928e69ce7d2e8eba7eb00e33fb78c4719f",
+          "e4fbdeb4cf3d4e42803920f1c174754d71003d10",
+          "6e3f1e356f70cca6bbe8fa2103a08e8af033609e",
+          "933ca1f939596a022e9e2244865d4580f1051548",
+          "0e1ff7eca90504446e5f4c579dc7210ebd8879a9",
+          "537426e568755f60a09fc4250770bf2067f62b56",
+          "43e1a84927d77d9545d964525d945d3572b3b9f1",
+          "7d220c741ea516dc7f7e71861c1e4b83a5e4c41e",
+          "13ec1c9543dc30ed30fbd0776315d8fe96c435ee",
+          "bafabcc00a5a4ec4268cd5043bbfb02fd41d4f27",
+          "e63767f5f56b6fda77547dc6e5ae4e95582e62c1",
+          "1e039ef888b9ecbf75f3e3f3fc19b8b9e8f8f0a1",
+          "dc0b7b1f66dbfa9104a1949ddbc699b6748ffb04",
+          "cabf2ad2b4ca70df3786fd692390406bc8027fa5",
+          "a2141762e7cb1b3e5a0547836fcc039ccbd21409"
+        ]
+      },
+      {
+        "sha": "d30dfb0c1fc5462e77cefde185478faa5d4eb6d4",
+        "Author": {
+          "name": "\"Xiaotian (Jackie) Jiang\"",
+          "location": "Sunnyvale, California",
+          "company": "LinkedIn Corporation"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T02:00:34Z",
+        "additions": 3154,
+        "deletions": 2283,
+        "files": [
+          "aec5aad3de7416986010fe1129dbdb593c569edc",
+          "ea55725140ecc2dbb643eb032fa028c8ae10671f",
+          "ad098b12e9c55edbbac4a4f0a3407e6b9a57da26",
+          "4cc6c43818452c8ef9078f2d2bbd99eae2f33293",
+          "242375ef059852e51c92bb35fefc6fb70d1102d8",
+          "06e6c7b7e325d06be2d3c896c268e8d8296fc86f",
+          "f9de097181c2fb3180080becd72843bf13fe656a",
+          "d5c9c98729894e95ec2545142d27818c39c47469",
+          "292fb55421986cf0bdc0750ad091df6dd17dfd92",
+          "e1431f0d0d3117b4792e091e7e46eed19653c2cf",
+          "33e257e5c0c809e1e338eec4e1a6e776c1f7849b",
+          "b48c71b27a6f45b739b4f4d4c1cd82c43e09eb52",
+          "45c684adf9c0ff033fa9dd2e624e5f5907587858",
+          "7c4eb31ce2b38f96e2e554a21e818e623dfc9621",
+          "073b255e9847b6579381f98f1c846ec9f65661a9",
+          "1b6d16e325616fa00c8888c954752c9620d9fc9a",
+          "d2b55f6f876b0c794dee45e54422fe6e3669da83",
+          "be8852001369ab167c8a59bf2c14fb59dc35a06a",
+          "bca3082ea624ad78b276fcfa6916aa6bd9094328",
+          "daefc40c374d156889f29294fb22e58a26228fbc",
+          "091ce5b8b9388b2cc07da5cc28eabeac969fe61b",
+          "94592f3142ef60e6cfee77418b0504f123044ffa",
+          "7ac0ce49bade2bb66e2471c999fa13959e33995a",
+          "765740a058030c03d8fba37834714cfcaf77bdba",
+          "2d35c74fd1bbe3d6d80457c7c2705266d5adfb47",
+          "a068bb96c405ca260020d65540d3437d87df6d45",
+          "18d2d6cb9024f44033e74a2991af9049abc7b85f",
+          "1f9855bfb03c51c0e388fcaf710260ad6397b1b8",
+          "5c5821fb989269f8fdcb78e2af6c1e5696dfb635",
+          "7d568ca61c70a102ca50f5603c71fc2d8c0a6e1d",
+          "9d65ac287a7238449bb6fced13fbf7a98ca33fd8",
+          "93360419204903a72842014f9705f1e0fd358b5d",
+          "6facd26607f6ca73e7ad17ffcc4d6df600f55bed",
+          "22245d7318586b5e7945071e9b52148db628af43",
+          "1befd8ff255dfc65093d72beb8688c697eaf3793",
+          "bfc726883f1c70956f7110773598b667b721c347",
+          "27b7d20703183d245ee966b760d29b6c729d4253",
+          "c44677f24f1bae870dea081bc3229f8f8e155a60",
+          "fbbff7ebb88883e3e8fef1ef9f0259ecc4d2ff3e",
+          "9a0effb67e267991a3fd7587c371881ae4c8c5db",
+          "16feef13daf91fc82dc6a51e5fdc6dd5a6df95e3",
+          "000755b7e52b27ec94a4115107ca77a68259cf83",
+          "b62f3db123b14a2fdb548aaac8a5bd759a7a3ab2",
+          "44f5c5dcc368ace243301b1fb82928bebf9e3540",
+          "99ef941e279e602180aee1ae92b2c21581b99c3e",
+          "5a2a5eac1155d3decddd07179b349e2d1e1d1350",
+          "66d7ba6e899e8aafd2c1b293b2d24a44d54b65ab",
+          "65bd4a4127110efe45a6967088f49f78d20f2714",
+          "b96e757cb87cf40fb56b7c72ac03f2859dd62fdb",
+          "d5f96560208b20811311971707035b55892b020e",
+          "ac1172e666657f6f073a200a9e15a1c8c0c8bfa3",
+          "b1e98e7923729331c00bde7a292d1eb3a14804e1",
+          "a753c0c825871de053b528e3d57e9b4e96669c96",
+          "b5674dcaf6e0d96cefe22a779c634450a03e7b09",
+          "b2075585ff2d20e964943e0c87843882368d16c6",
+          "7dd8e8342dc21298ab697cc3492db5898f2835e9",
+          "39f8f0a7e0bffad7dd48497a9a4b2d68c043d56f",
+          "674bfbd22bc1fb73f39d7ad6a6ec0ef7ede68391",
+          "606d44bd4e01513f0d332ba37089f34d9ea3d93f",
+          "cd2fa3a8d82927473e01c2edea9607bcf2ebe505",
+          "a430d2f9a7fe96a921816d3c1bd312c163785b59",
+          "75e22c80fe4adbcaaa8838acc7ee5eab6d8d90f6",
+          "c8a27521bc48d7c5a318ac4069ee050c9fd71b6c",
+          "d88d99dd5402139a203092cdcfcd658658aed821",
+          "d80a73e79617a66936a0dee672f652c5c0bdc459",
+          "333adec15c44785dcbc714235f14c2fbf3417793",
+          "0a6d53be1bef604ee7e6c94a772a41cb398d9172",
+          "b3c771394e73e3aa18ab32cb6db3a64749c47ac8",
+          "6074f87193e62400f99d15d7adf30bf1a9c5f027",
+          "d623004d5096497ef7b405cce76ca44e2d41b443",
+          "5c35f0387a5e4266d08a87b549cccaf513189f71",
+          "437e7831348a3afc53e59f43fa1568c4cc5e70c2",
+          "39c9c9f2e0302d1d43f06468ce03ee95f551bca9",
+          "6a430e6007ebacf9aabc41843253fe17e6c652b0",
+          "f5dc8260ae15d980f81c4e8d6960e15302f6f7c4",
+          "d0f5f4b9d53a51733f3df0e9f99caf43ee23a442"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-pinot",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T03:02:38Z",
+    "EndDate": "2019-09-26T04:02:38",
+    "Branches": 168,
+    "Forks": 449,
+    "Files": [
+      {
+        "Sha": "f348e5e5e9ad7708d7fc0289cfdf877bd6706b39",
+        "FileName": "FileFormat.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/data/readers/FileFormat.java",
+        "DateUpdated": "2019-09-26T03:50:22Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b0fe6818337dec5ad17d7f984e296f48feed0c5b"
+        ]
+      },
+      {
+        "Sha": "226a84ee4eee5d3f181fffafb81fe3f7af24c32b",
+        "FileName": "DataTypeTransformer.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/data/recordtransformer/DataTypeTransformer.java",
+        "DateUpdated": "2019-09-26T03:50:22Z",
+        "Additions": 15,
+        "Deletions": 3,
+        "Commits": [
+          "b0fe6818337dec5ad17d7f984e296f48feed0c5b"
+        ]
+      },
+      {
+        "Sha": "392439aa858b40819e2f0f27d28d5906963d7f5c",
+        "FileName": "PinotDataType.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/data/recordtransformer/PinotDataType.java",
+        "DateUpdated": "2019-09-26T03:50:22Z",
+        "Additions": 91,
+        "Deletions": 35,
+        "Commits": [
+          "b0fe6818337dec5ad17d7f984e296f48feed0c5b"
+        ]
+      },
+      {
+        "Sha": "27c11eb68f606b19db5fa118e9aa80be880931d3",
+        "FileName": "pom.xml",
+        "Path": "pinot-integration-tests/pom.xml",
+        "DateUpdated": "2019-09-26T03:50:22Z",
+        "Additions": 10,
+        "Deletions": 0,
+        "Commits": [
+          "b0fe6818337dec5ad17d7f984e296f48feed0c5b"
+        ]
+      },
+      {
+        "Sha": "7bfcf607db2680054f760f23298fe83f5901b75e",
+        "FileName": "ORCRecordReader.java",
+        "Path": "pinot-orc/src/main/java/org/apache/pinot/orc/data/readers/ORCRecordReader.java",
+        "DateUpdated": "2019-09-26T03:50:22Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "b0fe6818337dec5ad17d7f984e296f48feed0c5b"
+        ]
+      },
+      {
+        "Sha": "01e941c4ba996eaf5e8ff17d22f811b161e4417d",
+        "FileName": "pom.xml",
+        "Path": "pinot-tools/pom.xml",
+        "DateUpdated": "2019-09-26T03:50:22Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "b0fe6818337dec5ad17d7f984e296f48feed0c5b"
+        ]
+      },
+      {
+        "Sha": "82c5cbda4bda6eb17129c18346090fb602578d35",
+        "FileName": "CreateSegmentCommand.java",
+        "Path": "pinot-tools/src/main/java/org/apache/pinot/tools/admin/command/CreateSegmentCommand.java",
+        "DateUpdated": "2019-09-26T03:50:22Z",
+        "Additions": 30,
+        "Deletions": 3,
+        "Commits": [
+          "b0fe6818337dec5ad17d7f984e296f48feed0c5b"
+        ]
+      },
+      {
+        "Sha": "14b79140feedf655c4f1f41fbd84a73716ee1375",
+        "FileName": "airlineStats_data.json",
+        "Path": "pinot-tools/src/main/resources/sample_data/airlineStats_data.json",
+        "DateUpdated": "2019-09-26T03:50:22Z",
+        "Additions": 19492,
+        "Deletions": 0,
+        "Commits": [
+          "b0fe6818337dec5ad17d7f984e296f48feed0c5b"
+        ]
+      },
+      {
+        "Sha": "51f920de52265e3378026960722eb3d3cbd64972",
+        "FileName": "airlineStats_data.orc",
+        "Path": "pinot-tools/src/main/resources/sample_data/airlineStats_data.orc",
+        "DateUpdated": "2019-09-26T03:50:22Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "b0fe6818337dec5ad17d7f984e296f48feed0c5b"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "b0fe6818337dec5ad17d7f984e296f48feed0c5b",
+        "Author": {
+          "name": "\"Xiang Fu\"",
+          "location": "San Francisco",
+          "company": "Stealth Mode Startup"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T03:50:22Z",
+        "additions": 19647,
+        "deletions": 42,
+        "files": [
+          "f348e5e5e9ad7708d7fc0289cfdf877bd6706b39",
+          "226a84ee4eee5d3f181fffafb81fe3f7af24c32b",
+          "392439aa858b40819e2f0f27d28d5906963d7f5c",
+          "27c11eb68f606b19db5fa118e9aa80be880931d3",
+          "7bfcf607db2680054f760f23298fe83f5901b75e",
+          "01e941c4ba996eaf5e8ff17d22f811b161e4417d",
+          "82c5cbda4bda6eb17129c18346090fb602578d35",
+          "14b79140feedf655c4f1f41fbd84a73716ee1375",
+          "51f920de52265e3378026960722eb3d3cbd64972"
+        ]
+      }
+    ]
+  }
+]

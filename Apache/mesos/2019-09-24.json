@@ -1,0 +1,148 @@
+[
+  {
+    "RepositoryName": "mesos",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T08:46:52Z",
+    "EndDate": "2019-09-24T09:46:52",
+    "Branches": 7,
+    "Forks": 1624,
+    "Files": [
+      {
+        "Sha": "1a48acc6ce769f4554ed1a2d31fd76f0ac535531",
+        "FileName": "fault-domains.md",
+        "Path": "docs/fault-domains.md",
+        "DateUpdated": "2019-09-24T08:54:40Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "ce801bd6b3f56788eb4d3179959fa7290220432d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "ce801bd6b3f56788eb4d3179959fa7290220432d",
+        "Author": {
+          "name": "\"Dominik Dary\"",
+          "location": "Hamburg, Germany",
+          "company": "@mesosphere"
+        },
+        "Commitor": {
+          "name": "\"Benjamin Bannier\"",
+          "location": "Hamburg, Germany",
+          "company": "@mesosphere "
+        },
+        "Date": "2019-09-24T08:54:40Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "1a48acc6ce769f4554ed1a2d31fd76f0ac535531"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "mesos",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T11:46:49Z",
+    "EndDate": "2019-09-24T12:46:49",
+    "Branches": 7,
+    "Forks": 1624,
+    "Files": [
+      {
+        "Sha": "fd4fd6bd1baca0e4521999d2c08e6eab78e57a4f",
+        "FileName": "slave_tests.cpp",
+        "Path": "src/tests/slave_tests.cpp",
+        "DateUpdated": "2019-09-24T12:26:05Z",
+        "Additions": 158,
+        "Deletions": 0,
+        "Commits": [
+          "1122674a5c03894e4552d46cfa26dca0557a8f68"
+        ]
+      },
+      {
+        "Sha": "f7bc882a644ec65710ada3d15507e1d4c5ba06f7",
+        "FileName": "cluster.cpp",
+        "Path": "src/tests/cluster.cpp",
+        "DateUpdated": "2019-09-24T12:25:59Z",
+        "Additions": 13,
+        "Deletions": 7,
+        "Commits": [
+          "dee4b849c8179ea46947c8ea4dd031f6eb37b659"
+        ]
+      },
+      {
+        "Sha": "415a60f5fd4881bca329ffd718f58d676653a17d",
+        "FileName": "cluster.hpp",
+        "Path": "src/tests/cluster.hpp",
+        "DateUpdated": "2019-09-24T12:25:59Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "dee4b849c8179ea46947c8ea4dd031f6eb37b659"
+        ]
+      },
+      {
+        "Sha": "664c3027fd5bdfb1e81a4d9966fe93b2181479e4",
+        "FileName": "mesos.cpp",
+        "Path": "src/tests/mesos.cpp",
+        "DateUpdated": "2019-09-24T12:25:59Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "dee4b849c8179ea46947c8ea4dd031f6eb37b659"
+        ]
+      },
+      {
+        "Sha": "73b18663d4dbf0ee179c298ea77b548d5de40921",
+        "FileName": "mesos.hpp",
+        "Path": "src/tests/mesos.hpp",
+        "DateUpdated": "2019-09-24T12:25:59Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "dee4b849c8179ea46947c8ea4dd031f6eb37b659"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "1122674a5c03894e4552d46cfa26dca0557a8f68",
+        "Author": {
+          "name": "\"Andrei Budnik\"",
+          "location": "Minsk, Belarus"
+        },
+        "Commitor": {
+          "name": "\"Andrei Budnik\"",
+          "location": "Minsk, Belarus"
+        },
+        "Date": "2019-09-24T12:26:05Z",
+        "additions": 158,
+        "deletions": 0,
+        "files": [
+          "fd4fd6bd1baca0e4521999d2c08e6eab78e57a4f"
+        ]
+      },
+      {
+        "sha": "dee4b849c8179ea46947c8ea4dd031f6eb37b659",
+        "Author": {
+          "name": "\"Andrei Budnik\"",
+          "location": "Minsk, Belarus"
+        },
+        "Commitor": {
+          "name": "\"Andrei Budnik\"",
+          "location": "Minsk, Belarus"
+        },
+        "Date": "2019-09-24T12:25:59Z",
+        "additions": 27,
+        "deletions": 7,
+        "files": [
+          "f7bc882a644ec65710ada3d15507e1d4c5ba06f7",
+          "415a60f5fd4881bca329ffd718f58d676653a17d",
+          "664c3027fd5bdfb1e81a4d9966fe93b2181479e4",
+          "73b18663d4dbf0ee179c298ea77b548d5de40921"
+        ]
+      }
+    ]
+  }
+]

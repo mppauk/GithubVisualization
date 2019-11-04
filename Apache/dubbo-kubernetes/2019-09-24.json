@@ -1,0 +1,76 @@
+[
+  {
+    "RepositoryName": "dubbo-kubernetes",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T02:48:24Z",
+    "EndDate": "2019-09-24T03:48:24",
+    "Branches": 1,
+    "Forks": 12,
+    "Files": [
+      {
+        "Sha": "dc48743314bd0e64d0ec210015e0ab4c6717bc7d",
+        "FileName": "README.md",
+        "Path": "demo/README.md",
+        "DateUpdated": "2019-09-24T03:36:38Z",
+        "Additions": 23,
+        "Deletions": 0,
+        "Commits": [
+          "83d7f79baae619178b5618b8b6240dd41a42bbe1"
+        ]
+      },
+      {
+        "Sha": "934e0d8081e530fea6ef9bcb6b4c9b6af3a9b106",
+        "FileName": "kubernetes-demo-provider-1.0.0-SNAPSHOT.jar",
+        "Path": "demo/demo-provider/dist/kubernetes-demo-provider-1.0.0-SNAPSHOT.jar",
+        "DateUpdated": "2019-09-24T02:50:07Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "1a2b4ccce67d8c8d25ec514a3de61ff546211337"
+        ]
+      },
+      {
+        "Sha": "60f7472d90b5bd5730f9729c8eb0b886ed4032a8",
+        "FileName": "pom.xml",
+        "Path": "demo/demo-provider/pom.xml",
+        "DateUpdated": "2019-09-24T02:50:07Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "1a2b4ccce67d8c8d25ec514a3de61ff546211337"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "83d7f79baae619178b5618b8b6240dd41a42bbe1",
+        "Date": "2019-09-24T03:36:38Z",
+        "additions": 23,
+        "deletions": 0,
+        "files": [
+          "dc48743314bd0e64d0ec210015e0ab4c6717bc7d"
+        ]
+      },
+      {
+        "sha": "1a2b4ccce67d8c8d25ec514a3de61ff546211337",
+        "Author": {
+          "name": "\"Ian Luo\"",
+          "location": "HangZhou, China",
+          "company": "@alibaba "
+        },
+        "Commitor": {
+          "name": "\"Ian Luo\"",
+          "location": "HangZhou, China",
+          "company": "@alibaba "
+        },
+        "Date": "2019-09-24T02:50:07Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "934e0d8081e530fea6ef9bcb6b4c9b6af3a9b106",
+          "60f7472d90b5bd5730f9729c8eb0b886ed4032a8"
+        ]
+      }
+    ]
+  }
+]

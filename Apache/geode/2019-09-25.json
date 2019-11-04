@@ -1,0 +1,93 @@
+[
+  {
+    "RepositoryName": "geode",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T10:03:13Z",
+    "EndDate": "2019-09-25T11:03:13",
+    "Branches": 31,
+    "Forks": 539,
+    "Files": [
+      {
+        "Sha": "03258f75267a19bac16f332b0ff464b7aa438e2e",
+        "FileName": "staticimmutable.xml",
+        "Path": "static-analysis/pmd-rules/src/main/resources/org/apache/geode/pmd/staticimmutable.xml",
+        "DateUpdated": "2019-09-25T10:23:32Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "64fb67394508c3b0e083debef19394122445c3fe"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "64fb67394508c3b0e083debef19394122445c3fe",
+        "Author": {
+          "name": "\"Juan José Ramos\"",
+          "company": "@pivotalsoftware "
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T10:23:32Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "03258f75267a19bac16f332b0ff464b7aa438e2e"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "geode",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T20:03:27Z",
+    "EndDate": "2019-09-25T21:03:27",
+    "Branches": 31,
+    "Forks": 539,
+    "Files": [
+      {
+        "Sha": "67a81f2d6af941fd4d9800b30b564cc6fefee0e1",
+        "FileName": "ConnectCommandAcceptanceTest.java",
+        "Path": "geode-assembly/src/acceptanceTest/java/org/apache/geode/management/internal/cli/commands/ConnectCommandAcceptanceTest.java",
+        "DateUpdated": "2019-09-25T20:14:00Z",
+        "Additions": 18,
+        "Deletions": 7,
+        "Commits": [
+          "3efb71d8a5eedb0c70d9fbe7d77b2872b1dce5cb"
+        ]
+      },
+      {
+        "Sha": "08f13e75dc96f3e5fc93101a26128a6071885156",
+        "FileName": "ProcessLogger.java",
+        "Path": "geode-junit/src/main/java/org/apache/geode/test/junit/rules/gfsh/internal/ProcessLogger.java",
+        "DateUpdated": "2019-09-25T20:14:00Z",
+        "Additions": 5,
+        "Deletions": 37,
+        "Commits": [
+          "3efb71d8a5eedb0c70d9fbe7d77b2872b1dce5cb"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "3efb71d8a5eedb0c70d9fbe7d77b2872b1dce5cb",
+        "Author": {
+          "name": "\"Kirk Lund\"",
+          "location": "PDX",
+          "company": "Pivotal Software, Inc."
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T20:14:00Z",
+        "additions": 23,
+        "deletions": 44,
+        "files": [
+          "67a81f2d6af941fd4d9800b30b564cc6fefee0e1",
+          "08f13e75dc96f3e5fc93101a26128a6071885156"
+        ]
+      }
+    ]
+  }
+]

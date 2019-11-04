@@ -1,0 +1,133 @@
+[
+  {
+    "RepositoryName": "nifi-minifi-cpp",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T08:04:04Z",
+    "EndDate": "2019-09-26T09:04:04",
+    "Branches": 13,
+    "Forks": 60,
+    "Files": [
+      {
+        "Sha": "7dcbc811e76e713716115d61ec56360810d0acb7",
+        "FileName": "NOTICE",
+        "Path": "NOTICE",
+        "DateUpdated": "2019-09-26T08:38:46Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "baac0a08af4db0f8169e68e4618f021716f41338"
+        ]
+      },
+      {
+        "Sha": "a81e0ebe9af388588485b42e625458a7b999834e",
+        "FileName": "FindPatch.cmake",
+        "Path": "cmake/FindPatch.cmake",
+        "DateUpdated": "2019-09-26T08:38:46Z",
+        "Additions": 69,
+        "Deletions": 0,
+        "Commits": [
+          "baac0a08af4db0f8169e68e4618f021716f41338"
+        ]
+      },
+      {
+        "Sha": "aa74bbf5ab0239b8b1e5d196393ae9fe13ebbea8",
+        "FileName": "CMakeLists.txt",
+        "Path": "extensions/librdkafka/CMakeLists.txt",
+        "DateUpdated": "2019-09-26T08:38:46Z",
+        "Additions": 6,
+        "Deletions": 3,
+        "Commits": [
+          "baac0a08af4db0f8169e68e4618f021716f41338"
+        ]
+      },
+      {
+        "Sha": "04b327d0c8cef4bc46a1a81e1335c01b1aab3575",
+        "FileName": "KafkaConnection.cpp",
+        "Path": "extensions/librdkafka/KafkaConnection.cpp",
+        "DateUpdated": "2019-09-26T08:38:46Z",
+        "Additions": 9,
+        "Deletions": 12,
+        "Commits": [
+          "baac0a08af4db0f8169e68e4618f021716f41338"
+        ]
+      },
+      {
+        "Sha": "774754b71fce504d8a9fd4e83a5a5ddb1e71dfcb",
+        "FileName": "KafkaConnection.h",
+        "Path": "extensions/librdkafka/KafkaConnection.h",
+        "DateUpdated": "2019-09-26T08:38:46Z",
+        "Additions": 24,
+        "Deletions": 7,
+        "Commits": [
+          "baac0a08af4db0f8169e68e4618f021716f41338"
+        ]
+      },
+      {
+        "Sha": "f7b8f6e375314cde0bc12c2300657a3b4f62c133",
+        "FileName": "KafkaTopic.h",
+        "Path": "extensions/librdkafka/KafkaTopic.h",
+        "DateUpdated": "2019-09-26T08:38:46Z",
+        "Additions": 2,
+        "Deletions": 12,
+        "Commits": [
+          "baac0a08af4db0f8169e68e4618f021716f41338"
+        ]
+      },
+      {
+        "Sha": "75f8839f488af1c14f8705afeda59b4ce25c75b1",
+        "FileName": "PublishKafka.cpp",
+        "Path": "extensions/librdkafka/PublishKafka.cpp",
+        "DateUpdated": "2019-09-26T08:38:46Z",
+        "Additions": 449,
+        "Deletions": 178,
+        "Commits": [
+          "baac0a08af4db0f8169e68e4618f021716f41338"
+        ]
+      },
+      {
+        "Sha": "2881f492b4ea8991e8ec1329642b2cbd11c73642",
+        "FileName": "PublishKafka.h",
+        "Path": "extensions/librdkafka/PublishKafka.h",
+        "DateUpdated": "2019-09-26T08:38:46Z",
+        "Additions": 148,
+        "Deletions": 18,
+        "Commits": [
+          "baac0a08af4db0f8169e68e4618f021716f41338"
+        ]
+      },
+      {
+        "Sha": "c99a9d9227faf1d5317f717e44a7ceee47446885",
+        "FileName": "librdkafka-libressl.patch",
+        "Path": "thirdparty/librdkafka/librdkafka-libressl.patch",
+        "DateUpdated": "2019-09-26T08:38:46Z",
+        "Additions": 148,
+        "Deletions": 0,
+        "Commits": [
+          "baac0a08af4db0f8169e68e4618f021716f41338"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "baac0a08af4db0f8169e68e4618f021716f41338",
+        "Author": {
+          "name": "null"
+        },
+        "Date": "2019-09-26T08:38:46Z",
+        "additions": 860,
+        "deletions": 230,
+        "files": [
+          "7dcbc811e76e713716115d61ec56360810d0acb7",
+          "a81e0ebe9af388588485b42e625458a7b999834e",
+          "aa74bbf5ab0239b8b1e5d196393ae9fe13ebbea8",
+          "04b327d0c8cef4bc46a1a81e1335c01b1aab3575",
+          "774754b71fce504d8a9fd4e83a5a5ddb1e71dfcb",
+          "f7b8f6e375314cde0bc12c2300657a3b4f62c133",
+          "75f8839f488af1c14f8705afeda59b4ce25c75b1",
+          "2881f492b4ea8991e8ec1329642b2cbd11c73642",
+          "c99a9d9227faf1d5317f717e44a7ceee47446885"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "RepositoryName": "mynewt-documentation",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T21:03:22Z",
+    "EndDate": "2019-09-25T22:03:22",
+    "Branches": 4,
+    "Forks": 26,
+    "Files": [
+      {
+        "Sha": "5a5b29f1c6a5f93a2f988539de75ac6b62b64319",
+        "FileName": "conf.py",
+        "Path": "docs/conf.py",
+        "DateUpdated": "2019-09-25T21:48:35Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "60a3501429ea870bf9bf259bef7909b47f57398e"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "60a3501429ea870bf9bf259bef7909b47f57398e",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T21:48:35Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "5a5b29f1c6a5f93a2f988539de75ac6b62b64319"
+        ]
+      }
+    ]
+  }
+]

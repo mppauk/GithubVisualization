@@ -1,0 +1,386 @@
+[
+  {
+    "RepositoryName": "commons-fileupload",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T13:02:31Z",
+    "EndDate": "2019-09-23T14:02:31",
+    "Branches": 8,
+    "Forks": 94,
+    "Files": [
+      {
+        "Sha": "7b39f35d48b4c2a4b9a4fb9bf4885beb04b9d013",
+        "FileName": "FileItemIterator.java",
+        "Path": "src/main/java/org/apache/commons/fileupload2/FileItemIterator.java",
+        "DateUpdated": "2019-09-23T13:46:21Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "273cb114512f79dfe6cbce281a22976f174b588e"
+        ]
+      },
+      {
+        "Sha": "5b03531d3ef233e8e96bcf521517bf30619ce30a",
+        "FileName": "FileUploadBase.java",
+        "Path": "src/main/java/org/apache/commons/fileupload2/FileUploadBase.java",
+        "DateUpdated": "2019-09-23T13:46:21Z",
+        "Additions": 2,
+        "Deletions": 339,
+        "Commits": [
+          "273cb114512f79dfe6cbce281a22976f174b588e"
+        ]
+      },
+      {
+        "Sha": "4d14b01428422143e38741ed5b9c85621cc28e9d",
+        "FileName": "MultipartStream.java",
+        "Path": "src/main/java/org/apache/commons/fileupload2/MultipartStream.java",
+        "DateUpdated": "2019-09-23T13:46:21Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "273cb114512f79dfe6cbce281a22976f174b588e"
+        ]
+      },
+      {
+        "Sha": "1fc71856ab030575b815e296f98efa98dc278291",
+        "FileName": "FileItemIteratorImpl.java",
+        "Path": "src/main/java/org/apache/commons/fileupload2/impl/FileItemIteratorImpl.java",
+        "DateUpdated": "2019-09-23T13:46:21Z",
+        "Additions": 0,
+        "Deletions": 3,
+        "Commits": [
+          "273cb114512f79dfe6cbce281a22976f174b588e"
+        ]
+      },
+      {
+        "Sha": "a4db26b4f0a6381f86c0fd203ed506f624a3e9ca",
+        "FileName": "FileItemStreamImpl.java",
+        "Path": "src/main/java/org/apache/commons/fileupload2/impl/FileItemStreamImpl.java",
+        "DateUpdated": "2019-09-23T13:46:21Z",
+        "Additions": 2,
+        "Deletions": 5,
+        "Commits": [
+          "273cb114512f79dfe6cbce281a22976f174b588e"
+        ]
+      },
+      {
+        "Sha": "096c03cac050d3ee3b0df30f8a3f6942fe6279f1",
+        "FileName": "FileSizeLimitExceededException.java",
+        "Path": "src/main/java/org/apache/commons/fileupload2/impl/FileSizeLimitExceededException.java",
+        "DateUpdated": "2019-09-23T13:46:21Z",
+        "Additions": 94,
+        "Deletions": 0,
+        "Commits": [
+          "273cb114512f79dfe6cbce281a22976f174b588e"
+        ]
+      },
+      {
+        "Sha": "e1b214e0de4d1be7a457f219b565893b87ece146",
+        "FileName": "FileUploadIOException.java",
+        "Path": "src/main/java/org/apache/commons/fileupload2/impl/FileUploadIOException.java",
+        "DateUpdated": "2019-09-23T13:46:21Z",
+        "Additions": 62,
+        "Deletions": 0,
+        "Commits": [
+          "273cb114512f79dfe6cbce281a22976f174b588e"
+        ]
+      },
+      {
+        "Sha": "de7b44d4056c6ecddc9633ac4f66cfa399d98945",
+        "FileName": "IOFileUploadException.java",
+        "Path": "src/main/java/org/apache/commons/fileupload2/impl/IOFileUploadException.java",
+        "DateUpdated": "2019-09-23T13:46:21Z",
+        "Additions": 61,
+        "Deletions": 0,
+        "Commits": [
+          "273cb114512f79dfe6cbce281a22976f174b588e"
+        ]
+      },
+      {
+        "Sha": "e76f311092957d87b48b73931ffe9b755880d3b6",
+        "FileName": "InvalidContentTypeException.java",
+        "Path": "src/main/java/org/apache/commons/fileupload2/impl/InvalidContentTypeException.java",
+        "DateUpdated": "2019-09-23T13:46:21Z",
+        "Additions": 62,
+        "Deletions": 0,
+        "Commits": [
+          "273cb114512f79dfe6cbce281a22976f174b588e"
+        ]
+      },
+      {
+        "Sha": "d030c30af09fe8974518c5c65ad02d5064965a61",
+        "FileName": "SizeException.java",
+        "Path": "src/main/java/org/apache/commons/fileupload2/impl/SizeException.java",
+        "DateUpdated": "2019-09-23T13:46:21Z",
+        "Additions": 75,
+        "Deletions": 0,
+        "Commits": [
+          "273cb114512f79dfe6cbce281a22976f174b588e"
+        ]
+      },
+      {
+        "Sha": "0b34faeb9195edf207e779f219fa77106d9a45b7",
+        "FileName": "SizeLimitExceededException.java",
+        "Path": "src/main/java/org/apache/commons/fileupload2/impl/SizeLimitExceededException.java",
+        "DateUpdated": "2019-09-23T13:46:21Z",
+        "Additions": 43,
+        "Deletions": 0,
+        "Commits": [
+          "273cb114512f79dfe6cbce281a22976f174b588e"
+        ]
+      },
+      {
+        "Sha": "f4068df0bb3edaaa34b6d09b27d4d1f6d0951b09",
+        "FileName": "UnknownSizeException.java",
+        "Path": "src/main/java/org/apache/commons/fileupload2/impl/UnknownSizeException.java",
+        "DateUpdated": "2019-09-23T13:46:21Z",
+        "Additions": 56,
+        "Deletions": 0,
+        "Commits": [
+          "273cb114512f79dfe6cbce281a22976f174b588e"
+        ]
+      },
+      {
+        "Sha": "19ce62197d75bfe276d5b1d7f09f2c7be4d127ae",
+        "FileName": "DiskFileUploadTest.java",
+        "Path": "src/test/java/org/apache/commons/fileupload2/DiskFileUploadTest.java",
+        "DateUpdated": "2019-09-23T13:46:21Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "273cb114512f79dfe6cbce281a22976f174b588e"
+        ]
+      },
+      {
+        "Sha": "9f2308dd2049e29c36cb422a8555e411e488fa82",
+        "FileName": "SizesTest.java",
+        "Path": "src/test/java/org/apache/commons/fileupload2/SizesTest.java",
+        "DateUpdated": "2019-09-23T13:46:21Z",
+        "Additions": 291,
+        "Deletions": 291,
+        "Commits": [
+          "273cb114512f79dfe6cbce281a22976f174b588e"
+        ]
+      },
+      {
+        "Sha": "d173bdf9938e2ad41255af7a83068bd2be638919",
+        "FileName": "StreamingTest.java",
+        "Path": "src/test/java/org/apache/commons/fileupload2/StreamingTest.java",
+        "DateUpdated": "2019-09-23T13:46:21Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "273cb114512f79dfe6cbce281a22976f174b588e"
+        ]
+      },
+      {
+        "Sha": "4ba37ac5fc86b3cfdb63f50c06165d452e8ac029",
+        "FileName": "FileUploadBase.java",
+        "Path": "src/main/java/org/apache/commons/fileupload2/FileUploadBase.java",
+        "DateUpdated": "2019-09-23T13:31:08Z",
+        "Additions": 5,
+        "Deletions": 317,
+        "Commits": [
+          "f59766841400a41a0f416ab669a249515179ab94"
+        ]
+      },
+      {
+        "Sha": "ff36d9d3e4d1be6c4fa09cb5402ac9397ce165c8",
+        "FileName": "MultipartStream.java",
+        "Path": "src/main/java/org/apache/commons/fileupload2/MultipartStream.java",
+        "DateUpdated": "2019-09-23T13:31:08Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "f59766841400a41a0f416ab669a249515179ab94"
+        ]
+      },
+      {
+        "Sha": "2f0396e079c01fa21a4a215fc714b255e47223b1",
+        "FileName": "FileItemIteratorImpl.java",
+        "Path": "src/main/java/org/apache/commons/fileupload2/impl/FileItemIteratorImpl.java",
+        "DateUpdated": "2019-09-23T13:31:08Z",
+        "Additions": 351,
+        "Deletions": 0,
+        "Commits": [
+          "f59766841400a41a0f416ab669a249515179ab94"
+        ]
+      },
+      {
+        "Sha": "9a40a2509a6e3cc5bef54cb20e27062e13d25214",
+        "FileName": "FileItemStreamImpl.java",
+        "Path": "src/main/java/org/apache/commons/fileupload2/impl/FileItemStreamImpl.java",
+        "DateUpdated": "2019-09-23T13:31:08Z",
+        "Additions": 2,
+        "Deletions": 4,
+        "Commits": [
+          "f59766841400a41a0f416ab669a249515179ab94"
+        ]
+      },
+      {
+        "Sha": "b80bee086a304c9457cecb24b12a41fcb2cc7189",
+        "FileName": "StreamingTest.java",
+        "Path": "src/test/java/org/apache/commons/fileupload2/StreamingTest.java",
+        "DateUpdated": "2019-09-23T13:31:08Z",
+        "Additions": 1,
+        "Deletions": 3,
+        "Commits": [
+          "f59766841400a41a0f416ab669a249515179ab94"
+        ]
+      },
+      {
+        "Sha": "0a3a19be594c7eef2445eb8e641116a0442782ac",
+        "FileName": "FileUploadBase.java",
+        "Path": "src/main/java/org/apache/commons/fileupload2/FileUploadBase.java",
+        "DateUpdated": "2019-09-23T13:22:56Z",
+        "Additions": 3,
+        "Deletions": 195,
+        "Commits": [
+          "e0bfe29d200975e78982db4b276829c4318100e1"
+        ]
+      },
+      {
+        "Sha": "05f344ab96feaac2dd1066ed073f8d5082df1e91",
+        "FileName": "MultipartStream.java",
+        "Path": "src/main/java/org/apache/commons/fileupload2/MultipartStream.java",
+        "DateUpdated": "2019-09-23T13:22:56Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "e0bfe29d200975e78982db4b276829c4318100e1"
+        ]
+      },
+      {
+        "Sha": "be48435126d513339063f49631e30ab3228da34d",
+        "FileName": "FileItemStreamImpl.java",
+        "Path": "src/main/java/org/apache/commons/fileupload2/impl/FileItemStreamImpl.java",
+        "DateUpdated": "2019-09-23T13:22:56Z",
+        "Additions": 228,
+        "Deletions": 0,
+        "Commits": [
+          "e0bfe29d200975e78982db4b276829c4318100e1"
+        ]
+      },
+      {
+        "Sha": "b56706df2e980aad64658c9d22831cb909c225de",
+        "FileName": "FileItemIterator.java",
+        "Path": "src/main/java/org/apache/commons/fileupload2/FileItemIterator.java",
+        "DateUpdated": "2019-09-23T13:15:17Z",
+        "Additions": 96,
+        "Deletions": 52,
+        "Commits": [
+          "de1a19730600bd295a9f2c5c3bf83b0d0c20dc32"
+        ]
+      },
+      {
+        "Sha": "c15b0f9b5cc242605a1c1b35cad835a60d310178",
+        "FileName": "FileUploadBase.java",
+        "Path": "src/main/java/org/apache/commons/fileupload2/FileUploadBase.java",
+        "DateUpdated": "2019-09-23T13:15:17Z",
+        "Additions": 85,
+        "Deletions": 31,
+        "Commits": [
+          "de1a19730600bd295a9f2c5c3bf83b0d0c20dc32"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "273cb114512f79dfe6cbce281a22976f174b588e",
+        "Author": {
+          "name": "\"Jochen Wiedmann\"",
+          "location": "72800 Eningen, Germany",
+          "company": "Software AG"
+        },
+        "Commitor": {
+          "name": "\"Jochen Wiedmann\"",
+          "location": "72800 Eningen, Germany",
+          "company": "Software AG"
+        },
+        "Date": "2019-09-23T13:46:21Z",
+        "additions": 754,
+        "deletions": 642,
+        "files": [
+          "7b39f35d48b4c2a4b9a4fb9bf4885beb04b9d013",
+          "5b03531d3ef233e8e96bcf521517bf30619ce30a",
+          "4d14b01428422143e38741ed5b9c85621cc28e9d",
+          "1fc71856ab030575b815e296f98efa98dc278291",
+          "a4db26b4f0a6381f86c0fd203ed506f624a3e9ca",
+          "096c03cac050d3ee3b0df30f8a3f6942fe6279f1",
+          "e1b214e0de4d1be7a457f219b565893b87ece146",
+          "de7b44d4056c6ecddc9633ac4f66cfa399d98945",
+          "e76f311092957d87b48b73931ffe9b755880d3b6",
+          "d030c30af09fe8974518c5c65ad02d5064965a61",
+          "0b34faeb9195edf207e779f219fa77106d9a45b7",
+          "f4068df0bb3edaaa34b6d09b27d4d1f6d0951b09",
+          "19ce62197d75bfe276d5b1d7f09f2c7be4d127ae",
+          "9f2308dd2049e29c36cb422a8555e411e488fa82",
+          "d173bdf9938e2ad41255af7a83068bd2be638919"
+        ]
+      },
+      {
+        "sha": "f59766841400a41a0f416ab669a249515179ab94",
+        "Author": {
+          "name": "\"Jochen Wiedmann\"",
+          "location": "72800 Eningen, Germany",
+          "company": "Software AG"
+        },
+        "Commitor": {
+          "name": "\"Jochen Wiedmann\"",
+          "location": "72800 Eningen, Germany",
+          "company": "Software AG"
+        },
+        "Date": "2019-09-23T13:31:08Z",
+        "additions": 362,
+        "deletions": 327,
+        "files": [
+          "4ba37ac5fc86b3cfdb63f50c06165d452e8ac029",
+          "ff36d9d3e4d1be6c4fa09cb5402ac9397ce165c8",
+          "2f0396e079c01fa21a4a215fc714b255e47223b1",
+          "9a40a2509a6e3cc5bef54cb20e27062e13d25214",
+          "b80bee086a304c9457cecb24b12a41fcb2cc7189"
+        ]
+      },
+      {
+        "sha": "e0bfe29d200975e78982db4b276829c4318100e1",
+        "Author": {
+          "name": "\"Jochen Wiedmann\"",
+          "location": "72800 Eningen, Germany",
+          "company": "Software AG"
+        },
+        "Commitor": {
+          "name": "\"Jochen Wiedmann\"",
+          "location": "72800 Eningen, Germany",
+          "company": "Software AG"
+        },
+        "Date": "2019-09-23T13:22:56Z",
+        "additions": 232,
+        "deletions": 196,
+        "files": [
+          "0a3a19be594c7eef2445eb8e641116a0442782ac",
+          "05f344ab96feaac2dd1066ed073f8d5082df1e91",
+          "be48435126d513339063f49631e30ab3228da34d"
+        ]
+      },
+      {
+        "sha": "de1a19730600bd295a9f2c5c3bf83b0d0c20dc32",
+        "Author": {
+          "name": "\"Jochen Wiedmann\"",
+          "location": "72800 Eningen, Germany",
+          "company": "Software AG"
+        },
+        "Commitor": {
+          "name": "\"Jochen Wiedmann\"",
+          "location": "72800 Eningen, Germany",
+          "company": "Software AG"
+        },
+        "Date": "2019-09-23T13:15:17Z",
+        "additions": 181,
+        "deletions": 83,
+        "files": [
+          "b56706df2e980aad64658c9d22831cb909c225de",
+          "c15b0f9b5cc242605a1c1b35cad835a60d310178"
+        ]
+      }
+    ]
+  }
+]

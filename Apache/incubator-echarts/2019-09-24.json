@@ -1,0 +1,44 @@
+[
+  {
+    "RepositoryName": "incubator-echarts",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T09:46:33Z",
+    "EndDate": "2019-09-24T10:46:33",
+    "Branches": 10,
+    "Forks": 11292,
+    "Files": [
+      {
+        "Sha": "f4c1627c39e7422c9488d3df38632a0738ccb37e",
+        "FileName": "compareScreenshot.js",
+        "Path": "test/runTest/compareScreenshot.js",
+        "DateUpdated": "2019-09-24T10:17:47Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "de55405724e1d800093cfb2c8102310e6f2e3d0d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "de55405724e1d800093cfb2c8102310e6f2e3d0d",
+        "Author": {
+          "name": "\"Yi Shen\"",
+          "location": "Shanghai, China",
+          "company": "Baidu, Inc."
+        },
+        "Commitor": {
+          "name": "\"Yi Shen\"",
+          "location": "Shanghai, China",
+          "company": "Baidu, Inc."
+        },
+        "Date": "2019-09-24T10:17:47Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "f4c1627c39e7422c9488d3df38632a0738ccb37e"
+        ]
+      }
+    ]
+  }
+]

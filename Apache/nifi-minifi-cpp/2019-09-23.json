@@ -1,0 +1,997 @@
+[
+  {
+    "RepositoryName": "nifi-minifi-cpp",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T00:08:35Z",
+    "EndDate": "2019-09-23T01:08:35",
+    "Branches": 13,
+    "Forks": 60,
+    "Files": [
+      {
+        "Sha": "c3bec9f6fb6d9e192a003787dd1cd44a38857404",
+        "FileName": "ContentRepository.h",
+        "Path": "libminifi/include/core/ContentRepository.h",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "be8ed91b1803110362a98ba1726a55d3256c304f",
+        "FileName": "ProcessContext.h",
+        "Path": "libminifi/include/core/ProcessContext.h",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 16,
+        "Deletions": 2,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "a2a2e78897dd0d93c997a32e27aa7700f087e7bc",
+        "FileName": "StreamManager.h",
+        "Path": "libminifi/include/core/StreamManager.h",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "bedfee8e33354afadb53e4fa253c13d66b6a2091",
+        "FileName": "FileUtils.h",
+        "Path": "libminifi/include/utils/file/FileUtils.h",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 43,
+        "Deletions": 6,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "4f9b83d5d8d36ca70b4801a946e376798229edd0",
+        "FileName": "FileSystemRepository.cpp",
+        "Path": "libminifi/src/core/repository/FileSystemRepository.cpp",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "71105199aebb91ff6b3d535a9dbc9703aff952b0",
+        "FileName": "CMakeLists.txt",
+        "Path": "nanofi/CMakeLists.txt",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 4,
+        "Deletions": 2,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "fccb443067e9c5372b441e2a11e52e44c34d974c",
+        "FileName": "CMakeLists.txt",
+        "Path": "nanofi/ecu/CMakeLists.txt",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 10,
+        "Deletions": 29,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "52d4f23ee04aee24580c6d0ba30b66e499843936",
+        "FileName": "log_aggregator.c",
+        "Path": "nanofi/ecu/log_aggregator.c",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 82,
+        "Deletions": 0,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "c428be1a76dd1b69477414aa412ea42f1809a8d0",
+        "FileName": "tail_file.c",
+        "Path": "nanofi/ecu/tail_file.c",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 0,
+        "Deletions": 206,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "26b99667014cca05013b4598997fe109df1a708b",
+        "FileName": "tailfile_chunk.c",
+        "Path": "nanofi/ecu/tailfile_chunk.c",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 77,
+        "Deletions": 0,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "34952315729567455bb97b710ca50eb6eeba4fa3",
+        "FileName": "tailfile_delimited.c",
+        "Path": "nanofi/ecu/tailfile_delimited.c",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 77,
+        "Deletions": 0,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "6a9779c52c20a267233493b3d137a6b670d3a1a8",
+        "FileName": "CMakeLists.txt",
+        "Path": "nanofi/examples/CMakeLists.txt",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "2200df44fab0957dce5ea9ff0f2fdbef8e91db2e",
+        "FileName": "tail_file.c",
+        "Path": "nanofi/examples/tail_file.c",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 0,
+        "Deletions": 257,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "95494913a2f49e8772f9c43e22f09ccf046bc5f0",
+        "FileName": "ecu.h",
+        "Path": "nanofi/include/api/ecu.h",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 95,
+        "Deletions": 0,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "f4010734fa3cc2b4b095ce41fdc05182462c1226",
+        "FileName": "nanofi.h",
+        "Path": "nanofi/include/api/nanofi.h",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 37,
+        "Deletions": 1,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "846be5b831ad6d7050fdb8120241198869d9de17",
+        "FileName": "cstructs.h",
+        "Path": "nanofi/include/core/cstructs.h",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 10,
+        "Deletions": 11,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "15806e4149bb9565323651ab33bea04c8a09263b",
+        "FileName": "file_utils.h",
+        "Path": "nanofi/include/core/file_utils.h",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 43,
+        "Deletions": 7,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "72307eca2bffd3d4b721c5856de4b500cf89e46d",
+        "FileName": "flowfiles.h",
+        "Path": "nanofi/include/core/flowfiles.h",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 25,
+        "Deletions": 2,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "03250811fd78fb2b966f9da2b6b7e3996b1ff019",
+        "FileName": "Instance.h",
+        "Path": "nanofi/include/cxx/Instance.h",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 16,
+        "Deletions": 3,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "709c6817d76eedfffd0b1ddb7e2ddfea557a9250",
+        "FileName": "ecu.c",
+        "Path": "nanofi/src/api/ecu.c",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 530,
+        "Deletions": 0,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "e8ea25acdb63213ad9ea0d3a393e9d024433187f",
+        "FileName": "nanofi.cpp",
+        "Path": "nanofi/src/api/nanofi.cpp",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 77,
+        "Deletions": 19,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "1eeedc618bd9351524a75f2b400aa7385a50b308",
+        "FileName": "file_utils.c",
+        "Path": "nanofi/src/core/file_utils.c",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 107,
+        "Deletions": 29,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "6c86e984169c832107f81e8201084185fe01689c",
+        "FileName": "flowfiles.c",
+        "Path": "nanofi/src/core/flowfiles.c",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 130,
+        "Deletions": 19,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "769b1dc9809c3a701e0b26a45e10dabfc60cb463",
+        "FileName": "CAPITests.cpp",
+        "Path": "nanofi/tests/CAPITests.cpp",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "edf62c99257fe745555dd801668e03add0941660",
+        "FileName": "CLogAggregatorTests.cpp",
+        "Path": "nanofi/tests/CLogAggregatorTests.cpp",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 96,
+        "Deletions": 100,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "ff933c8e0494d8e6b642c7d1f826aa313b33d536",
+        "FileName": "CTailFileChunkTests.cpp",
+        "Path": "nanofi/tests/CTailFileChunkTests.cpp",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 135,
+        "Deletions": 0,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "ed079d1523fcd02080713f47704ba7184f1695e2",
+        "FileName": "CTailFileDelimitedTests.cpp",
+        "Path": "nanofi/tests/CTailFileDelimitedTests.cpp",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 256,
+        "Deletions": 0,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "bcde416f662313d99778d95c849f5d78e3dd8a6d",
+        "FileName": "CTestsBase.h",
+        "Path": "nanofi/tests/CTestsBase.h",
+        "DateUpdated": "2019-09-23T00:34:06Z",
+        "Additions": 141,
+        "Deletions": 0,
+        "Commits": [
+          "6fe6ae8d4743643b474214ace79e86d8b60c724b"
+        ]
+      },
+      {
+        "Sha": "9f946f20867cd9f8da90a7392fe72fdc3cf00233",
+        "FileName": "CMakeLists.txt",
+        "Path": "CMakeLists.txt",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "55d07c37da8c2cb896d78071b3af932fc8ca1a51",
+        "FileName": "minifi-log.properties",
+        "Path": "conf/minifi-log.properties",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "36f90961f92f9f8453d761f07612d3549de9e6cb",
+        "FileName": "ContainerBuild.sh",
+        "Path": "docker/ContainerBuild.sh",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "dca66779b48ff188a319bc3a9aa4da89980b949f",
+        "FileName": "Dockerfile",
+        "Path": "docker/centos/Dockerfile",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "48f25b3567c89ce8c0601874f353dad313bb1db5",
+        "FileName": "__init__.py",
+        "Path": "docker/test/integration/minifi/__init__.py",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 15,
+        "Deletions": 3,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "67affa986cff97c0a8cc7e7974776210f3b66ca8",
+        "FileName": "__init__.py",
+        "Path": "docker/test/integration/minifi/test/__init__.py",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 45,
+        "Deletions": 8,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "3080f8ed646d4256aaebecc78184aafa086c8d58",
+        "FileName": "test_filter_zero_file.py",
+        "Path": "docker/test/integration/test_filter_zero_file.py",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 37,
+        "Deletions": 0,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "f13c18edd9bf1c29f9b12158ee2ec9ffe1fb119d",
+        "FileName": "test_zero_file.py",
+        "Path": "docker/test/integration/test_zero_file.py",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "52f0f49088ac15d5b65a3bcf8d4cbd0fff66ad92",
+        "FileName": "CMakeLists.txt",
+        "Path": "extensions/civetweb/CMakeLists.txt",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "e9ea1ed2909356a632b095a8c15f76151295a515",
+        "FileName": "ListenHTTP.cpp",
+        "Path": "extensions/civetweb/processors/ListenHTTP.cpp",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 6,
+        "Deletions": 16,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "76e93424027d9cfc490b8e3f50ea07a7774f0781",
+        "FileName": "ListenHTTPTests.cpp",
+        "Path": "extensions/civetweb/tests/ListenHTTPTests.cpp",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "9fab59d56f95df70643f4686e9353aa7b90bcbdb",
+        "FileName": "HTTPCurlLoader.h",
+        "Path": "extensions/http-curl/HTTPCurlLoader.h",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "562376d5dc48b3d81b5ff1b8279dcb1c0a729b27",
+        "FileName": "HTTPClient.cpp",
+        "Path": "extensions/http-curl/client/HTTPClient.cpp",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "ae1ebf61f46009b451caf6d72a430596099c4ea9",
+        "FileName": "RESTReceiver.cpp",
+        "Path": "extensions/http-curl/protocols/RESTReceiver.cpp",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "abf8bdd06419d9dd246454be100d9bf0ca2f1789",
+        "FileName": "HTTPProtocol.cpp",
+        "Path": "extensions/http-curl/sitetosite/HTTPProtocol.cpp",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 26,
+        "Deletions": 32,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "2b667fc86d5cea4a2a5ab50e0d08e7ba94c793db",
+        "FileName": "TestServer.h",
+        "Path": "extensions/http-curl/tests/TestServer.h",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "6b8fbb2614d6c17d524eec5f83a59e1bf65999bf",
+        "FileName": "CMakeLists.txt",
+        "Path": "extensions/librdkafka/CMakeLists.txt",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "8009afa5cb1e207e24dec41fc197a0fdd54529e5",
+        "FileName": "FrameIO.h",
+        "Path": "extensions/opencv/FrameIO.h",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 77,
+        "Deletions": 0,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "5234a353983a03abf9ed009d95ccde9dc1796163",
+        "FileName": "MotionDetector.cpp",
+        "Path": "extensions/opencv/MotionDetector.cpp",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 203,
+        "Deletions": 0,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "4acafb86aaa627b53f5dfbabdd9e9f4d886bd558",
+        "FileName": "MotionDetector.h",
+        "Path": "extensions/opencv/MotionDetector.h",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 88,
+        "Deletions": 0,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "9993da3b2ea5eff3141b1d48204237f6cba7eb1f",
+        "FileName": "CaptureRTSPFrameTest.cpp",
+        "Path": "extensions/opencv/tests/CaptureRTSPFrameTest.cpp",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "1f81fec0e79172df1707c372cfaed282a413d97f",
+        "FileName": "Connection.h",
+        "Path": "libminifi/include/Connection.h",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 10,
+        "Deletions": 0,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "b28ee1f68999a239173a119c05e9040ebe87434d",
+        "FileName": "RemoteProcessorGroupPort.h",
+        "Path": "libminifi/include/RemoteProcessorGroupPort.h",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "ea714e97f9480de50fcf28c8c2e4a934d3eb45ef",
+        "FileName": "LoggerConfiguration.h",
+        "Path": "libminifi/include/core/logging/LoggerConfiguration.h",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 23,
+        "Deletions": 10,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "3d82c432265ab1bafd6b414c3e74bfe500de3003",
+        "FileName": "ClassUtils.h",
+        "Path": "libminifi/include/utils/ClassUtils.h",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 44,
+        "Deletions": 0,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "8cdc3ef12facaf81d8e909a20402929e5f3ddf5c",
+        "FileName": "HTTPClient.h",
+        "Path": "libminifi/include/utils/HTTPClient.h",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "b45f73d7e6695d18f5fa23722adab526fe172439",
+        "FileName": "StringUtils.h",
+        "Path": "libminifi/include/utils/StringUtils.h",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "be03180ca0f95785134588801c2d2c062c5e9174",
+        "FileName": "Connection.cpp",
+        "Path": "libminifi/src/Connection.cpp",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "dafa6c53380d09d8e1ef711c97a3bddf77582cb6",
+        "FileName": "FlowConfiguration.cpp",
+        "Path": "libminifi/src/core/FlowConfiguration.cpp",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "0997f095b8da9a7eb6ced7e2315ac068805abb85",
+        "FileName": "LoggerConfiguration.cpp",
+        "Path": "libminifi/src/core/logging/LoggerConfiguration.cpp",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 15,
+        "Deletions": 0,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "250e110b562b11a49969e860e0400d8ab12a3dfa",
+        "FileName": "YamlConfiguration.cpp",
+        "Path": "libminifi/src/core/yaml/YamlConfiguration.cpp",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "355fc42dbc2d97ae614be0f7b65226ce2e0427f4",
+        "FileName": "RawSocketProtocol.cpp",
+        "Path": "libminifi/src/sitetosite/RawSocketProtocol.cpp",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "056fd9eb6b318a84272ea0424d608d5dd01bb36b",
+        "FileName": "SiteToSiteClient.cpp",
+        "Path": "libminifi/src/sitetosite/SiteToSiteClient.cpp",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 37,
+        "Deletions": 27,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "9ef2c0d05499f163a0f91a3970d75daee458e650",
+        "FileName": "ClassUtils.cpp",
+        "Path": "libminifi/src/utils/ClassUtils.cpp",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 58,
+        "Deletions": 0,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "3328aa544b910a5f67ec39956221eab6b40e8fda",
+        "FileName": "HTTPClient.cpp",
+        "Path": "libminifi/src/utils/HTTPClient.cpp",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 27,
+        "Deletions": 41,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "4d7d363e6fc4d464c5fc2a157214c0583ea10083",
+        "FileName": "TestBase.h",
+        "Path": "libminifi/test/TestBase.h",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 78,
+        "Deletions": 14,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "61d888d23a2f953ca16a85074f61672703d65e64",
+        "FileName": "ClassUtilsTests.cpp",
+        "Path": "libminifi/test/unit/ClassUtilsTests.cpp",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 61,
+        "Deletions": 0,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "e3b7c45f87bc99b645aa2848d28dd7541c8a0f31",
+        "FileName": "HTTPUtilTests.cpp",
+        "Path": "libminifi/test/unit/HTTPUtilTests.cpp",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 67,
+        "Deletions": 0,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      },
+      {
+        "Sha": "e9db9a773e2fd196d4ee54d1400a09479f56e02b",
+        "FileName": "LoggerTests.cpp",
+        "Path": "libminifi/test/unit/LoggerTests.cpp",
+        "DateUpdated": "2019-09-23T00:32:29Z",
+        "Additions": 34,
+        "Deletions": 2,
+        "Commits": [
+          "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "6fe6ae8d4743643b474214ace79e86d8b60c724b",
+        "Date": "2019-09-23T00:34:06Z",
+        "additions": 2016,
+        "deletions": 706,
+        "files": [
+          "c3bec9f6fb6d9e192a003787dd1cd44a38857404",
+          "be8ed91b1803110362a98ba1726a55d3256c304f",
+          "a2a2e78897dd0d93c997a32e27aa7700f087e7bc",
+          "bedfee8e33354afadb53e4fa253c13d66b6a2091",
+          "4f9b83d5d8d36ca70b4801a946e376798229edd0",
+          "71105199aebb91ff6b3d535a9dbc9703aff952b0",
+          "fccb443067e9c5372b441e2a11e52e44c34d974c",
+          "52d4f23ee04aee24580c6d0ba30b66e499843936",
+          "c428be1a76dd1b69477414aa412ea42f1809a8d0",
+          "26b99667014cca05013b4598997fe109df1a708b",
+          "34952315729567455bb97b710ca50eb6eeba4fa3",
+          "6a9779c52c20a267233493b3d137a6b670d3a1a8",
+          "2200df44fab0957dce5ea9ff0f2fdbef8e91db2e",
+          "95494913a2f49e8772f9c43e22f09ccf046bc5f0",
+          "f4010734fa3cc2b4b095ce41fdc05182462c1226",
+          "846be5b831ad6d7050fdb8120241198869d9de17",
+          "15806e4149bb9565323651ab33bea04c8a09263b",
+          "72307eca2bffd3d4b721c5856de4b500cf89e46d",
+          "03250811fd78fb2b966f9da2b6b7e3996b1ff019",
+          "709c6817d76eedfffd0b1ddb7e2ddfea557a9250",
+          "e8ea25acdb63213ad9ea0d3a393e9d024433187f",
+          "1eeedc618bd9351524a75f2b400aa7385a50b308",
+          "6c86e984169c832107f81e8201084185fe01689c",
+          "769b1dc9809c3a701e0b26a45e10dabfc60cb463",
+          "edf62c99257fe745555dd801668e03add0941660",
+          "ff933c8e0494d8e6b642c7d1f826aa313b33d536",
+          "ed079d1523fcd02080713f47704ba7184f1695e2",
+          "bcde416f662313d99778d95c849f5d78e3dd8a6d"
+        ]
+      },
+      {
+        "sha": "8e40c3fa29d82a89efc995eb0615afd8a7fd92f7",
+        "Date": "2019-09-23T00:32:29Z",
+        "additions": 996,
+        "deletions": 173,
+        "files": [
+          "9f946f20867cd9f8da90a7392fe72fdc3cf00233",
+          "55d07c37da8c2cb896d78071b3af932fc8ca1a51",
+          "36f90961f92f9f8453d761f07612d3549de9e6cb",
+          "dca66779b48ff188a319bc3a9aa4da89980b949f",
+          "48f25b3567c89ce8c0601874f353dad313bb1db5",
+          "67affa986cff97c0a8cc7e7974776210f3b66ca8",
+          "3080f8ed646d4256aaebecc78184aafa086c8d58",
+          "f13c18edd9bf1c29f9b12158ee2ec9ffe1fb119d",
+          "52f0f49088ac15d5b65a3bcf8d4cbd0fff66ad92",
+          "e9ea1ed2909356a632b095a8c15f76151295a515",
+          "76e93424027d9cfc490b8e3f50ea07a7774f0781",
+          "9fab59d56f95df70643f4686e9353aa7b90bcbdb",
+          "562376d5dc48b3d81b5ff1b8279dcb1c0a729b27",
+          "ae1ebf61f46009b451caf6d72a430596099c4ea9",
+          "abf8bdd06419d9dd246454be100d9bf0ca2f1789",
+          "2b667fc86d5cea4a2a5ab50e0d08e7ba94c793db",
+          "6b8fbb2614d6c17d524eec5f83a59e1bf65999bf",
+          "8009afa5cb1e207e24dec41fc197a0fdd54529e5",
+          "5234a353983a03abf9ed009d95ccde9dc1796163",
+          "4acafb86aaa627b53f5dfbabdd9e9f4d886bd558",
+          "9993da3b2ea5eff3141b1d48204237f6cba7eb1f",
+          "1f81fec0e79172df1707c372cfaed282a413d97f",
+          "b28ee1f68999a239173a119c05e9040ebe87434d",
+          "ea714e97f9480de50fcf28c8c2e4a934d3eb45ef",
+          "3d82c432265ab1bafd6b414c3e74bfe500de3003",
+          "8cdc3ef12facaf81d8e909a20402929e5f3ddf5c",
+          "b45f73d7e6695d18f5fa23722adab526fe172439",
+          "be03180ca0f95785134588801c2d2c062c5e9174",
+          "dafa6c53380d09d8e1ef711c97a3bddf77582cb6",
+          "0997f095b8da9a7eb6ced7e2315ac068805abb85",
+          "250e110b562b11a49969e860e0400d8ab12a3dfa",
+          "355fc42dbc2d97ae614be0f7b65226ce2e0427f4",
+          "056fd9eb6b318a84272ea0424d608d5dd01bb36b",
+          "9ef2c0d05499f163a0f91a3970d75daee458e650",
+          "3328aa544b910a5f67ec39956221eab6b40e8fda",
+          "4d7d363e6fc4d464c5fc2a157214c0583ea10083",
+          "61d888d23a2f953ca16a85074f61672703d65e64",
+          "e3b7c45f87bc99b645aa2848d28dd7541c8a0f31",
+          "e9db9a773e2fd196d4ee54d1400a09479f56e02b"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "nifi-minifi-cpp",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T15:03:31Z",
+    "EndDate": "2019-09-23T16:03:31",
+    "Branches": 13,
+    "Forks": 60,
+    "Files": [
+      {
+        "Sha": "ec027344f16d7e5828d4ea1633001f08f9f62997",
+        "FileName": "CMakeLists.txt",
+        "Path": "CMakeLists.txt",
+        "DateUpdated": "2019-09-23T15:04:47Z",
+        "Additions": 22,
+        "Deletions": 2,
+        "Commits": [
+          "8719bdad38389e710f8edf844a5478ddfc0fec90"
+        ]
+      },
+      {
+        "Sha": "769b0e379c6affa2ef98b372b479c4523be8f391",
+        "FileName": "CMakeLists.txt",
+        "Path": "extensions/librdkafka/CMakeLists.txt",
+        "DateUpdated": "2019-09-23T15:04:47Z",
+        "Additions": 22,
+        "Deletions": 10,
+        "Commits": [
+          "8719bdad38389e710f8edf844a5478ddfc0fec90"
+        ]
+      },
+      {
+        "Sha": "b4120022be1c4d45ea5044df055f3b90e3f13f88",
+        "FileName": "CMakeLists.txt",
+        "Path": "thirdparty/paho.mqtt.c/src/CMakeLists.txt",
+        "DateUpdated": "2019-09-23T15:04:47Z",
+        "Additions": 5,
+        "Deletions": 22,
+        "Commits": [
+          "8719bdad38389e710f8edf844a5478ddfc0fec90"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "8719bdad38389e710f8edf844a5478ddfc0fec90",
+        "Author": {
+          "name": "null"
+        },
+        "Date": "2019-09-23T15:04:47Z",
+        "additions": 49,
+        "deletions": 34,
+        "files": [
+          "ec027344f16d7e5828d4ea1633001f08f9f62997",
+          "769b0e379c6affa2ef98b372b479c4523be8f391",
+          "b4120022be1c4d45ea5044df055f3b90e3f13f88"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "nifi-minifi-cpp",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T18:03:33Z",
+    "EndDate": "2019-09-23T19:03:33",
+    "Branches": 13,
+    "Forks": 60,
+    "Files": [
+      {
+        "Sha": "cdc4ed8b8842d65645a183f6171012b4e3715ee6",
+        "FileName": "MQTTControllerService.h",
+        "Path": "extensions/mqtt/controllerservice/MQTTControllerService.h",
+        "DateUpdated": "2019-09-23T18:58:56Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "8a2bb1bd96ab24740a993b54a432fdea71cbd663"
+        ]
+      },
+      {
+        "Sha": "501746dab52266c31555c08a9223e439d359fb50",
+        "FileName": "AbstractMQTTProcessor.cpp",
+        "Path": "extensions/mqtt/processors/AbstractMQTTProcessor.cpp",
+        "DateUpdated": "2019-09-23T18:58:56Z",
+        "Additions": 17,
+        "Deletions": 28,
+        "Commits": [
+          "8a2bb1bd96ab24740a993b54a432fdea71cbd663"
+        ]
+      },
+      {
+        "Sha": "03c118bf8033a5081345c03ef9e8e7b859ee4265",
+        "FileName": "AbstractMQTTProcessor.h",
+        "Path": "extensions/mqtt/processors/AbstractMQTTProcessor.h",
+        "DateUpdated": "2019-09-23T18:58:56Z",
+        "Additions": 10,
+        "Deletions": 19,
+        "Commits": [
+          "8a2bb1bd96ab24740a993b54a432fdea71cbd663"
+        ]
+      },
+      {
+        "Sha": "3c8f37bda7247ff44334243b5c496e69c4051882",
+        "FileName": "ConsumeMQTT.cpp",
+        "Path": "extensions/mqtt/processors/ConsumeMQTT.cpp",
+        "DateUpdated": "2019-09-23T18:58:56Z",
+        "Additions": 11,
+        "Deletions": 17,
+        "Commits": [
+          "8a2bb1bd96ab24740a993b54a432fdea71cbd663"
+        ]
+      },
+      {
+        "Sha": "18c0b335cb19396ef1d83f1a8f016fc9b5a59bcf",
+        "FileName": "ConsumeMQTT.h",
+        "Path": "extensions/mqtt/processors/ConsumeMQTT.h",
+        "DateUpdated": "2019-09-23T18:58:56Z",
+        "Additions": 7,
+        "Deletions": 4,
+        "Commits": [
+          "8a2bb1bd96ab24740a993b54a432fdea71cbd663"
+        ]
+      },
+      {
+        "Sha": "24ba49d8fa94b661546896cb227b300949338dea",
+        "FileName": "PublishMQTT.cpp",
+        "Path": "extensions/mqtt/processors/PublishMQTT.cpp",
+        "DateUpdated": "2019-09-23T18:58:56Z",
+        "Additions": 13,
+        "Deletions": 22,
+        "Commits": [
+          "8a2bb1bd96ab24740a993b54a432fdea71cbd663"
+        ]
+      },
+      {
+        "Sha": "6d6c834fc01547c9b266acd31616a4932ec512b6",
+        "FileName": "PublishMQTT.h",
+        "Path": "extensions/mqtt/processors/PublishMQTT.h",
+        "DateUpdated": "2019-09-23T18:58:56Z",
+        "Additions": 6,
+        "Deletions": 3,
+        "Commits": [
+          "8a2bb1bd96ab24740a993b54a432fdea71cbd663"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "8a2bb1bd96ab24740a993b54a432fdea71cbd663",
+        "Date": "2019-09-23T18:58:56Z",
+        "additions": 68,
+        "deletions": 97,
+        "files": [
+          "cdc4ed8b8842d65645a183f6171012b4e3715ee6",
+          "501746dab52266c31555c08a9223e439d359fb50",
+          "03c118bf8033a5081345c03ef9e8e7b859ee4265",
+          "3c8f37bda7247ff44334243b5c496e69c4051882",
+          "18c0b335cb19396ef1d83f1a8f016fc9b5a59bcf",
+          "24ba49d8fa94b661546896cb227b300949338dea",
+          "6d6c834fc01547c9b266acd31616a4932ec512b6"
+        ]
+      }
+    ]
+  }
+]

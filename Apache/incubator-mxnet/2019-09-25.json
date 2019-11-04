@@ -1,0 +1,102 @@
+[
+  {
+    "RepositoryName": "incubator-mxnet",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T12:03:37Z",
+    "EndDate": "2019-09-25T13:03:37",
+    "Branches": 25,
+    "Forks": 6330,
+    "Files": [
+      {
+        "Sha": "8db55af4ff87a88d617fc9469bbe90b5e385576b",
+        "FileName": "README.md",
+        "Path": "README.md",
+        "DateUpdated": "2019-09-25T12:41:18Z",
+        "Additions": 12,
+        "Deletions": 15,
+        "Commits": [
+          "ab2214beeb855c768f6b2deec5c144630f5f65e7"
+        ]
+      },
+      {
+        "Sha": "614b4a40977380473e8b29bc965846afec4e1fcd",
+        "FileName": "get_started.html",
+        "Path": "docs/static_site/src/_includes/get_started/get_started.html",
+        "DateUpdated": "2019-09-25T12:41:18Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "ab2214beeb855c768f6b2deec5c144630f5f65e7"
+        ]
+      },
+      {
+        "Sha": "0ca854005ffd5cf1458b90387e7a064d9d8fa4c5",
+        "FileName": "pip_snippet.md",
+        "Path": "docs/static_site/src/_includes/get_started/pip_snippet.md",
+        "DateUpdated": "2019-09-25T12:41:18Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "ab2214beeb855c768f6b2deec5c144630f5f65e7"
+        ]
+      },
+      {
+        "Sha": "37f00c318ce84876641b59a408d3ce7a9465d748",
+        "FileName": "index.md",
+        "Path": "docs/static_site/src/pages/api/cpp/index.md",
+        "DateUpdated": "2019-09-25T12:41:18Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "ab2214beeb855c768f6b2deec5c144630f5f65e7"
+        ]
+      },
+      {
+        "Sha": "e89b5e3b36e800bf44d519b73eb4f51a0e042754",
+        "FileName": "index.html",
+        "Path": "docs/static_site/src/pages/get_started/index.html",
+        "DateUpdated": "2019-09-25T12:41:18Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "ab2214beeb855c768f6b2deec5c144630f5f65e7"
+        ]
+      },
+      {
+        "Sha": "06e8c6eff6e5ec9d74c2cfc1326db0c00fe60261",
+        "FileName": "windows_setup.md",
+        "Path": "docs/static_site/src/pages/get_started/windows_setup.md",
+        "DateUpdated": "2019-09-25T12:41:18Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "ab2214beeb855c768f6b2deec5c144630f5f65e7"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "ab2214beeb855c768f6b2deec5c144630f5f65e7",
+        "Author": {
+          "name": "\"Aaron Markham\"",
+          "location": "East Palo Alto, CA",
+          "company": "@awsdocs "
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T12:41:18Z",
+        "additions": 21,
+        "deletions": 24,
+        "files": [
+          "8db55af4ff87a88d617fc9469bbe90b5e385576b",
+          "614b4a40977380473e8b29bc965846afec4e1fcd",
+          "0ca854005ffd5cf1458b90387e7a064d9d8fa4c5",
+          "37f00c318ce84876641b59a408d3ce7a9465d748",
+          "e89b5e3b36e800bf44d519b73eb4f51a0e042754",
+          "06e8c6eff6e5ec9d74c2cfc1326db0c00fe60261"
+        ]
+      }
+    ]
+  }
+]

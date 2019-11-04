@@ -1,0 +1,299 @@
+[
+  {
+    "RepositoryName": "incubator-dolphinscheduler",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T02:04:37Z",
+    "EndDate": "2019-09-26T03:04:37",
+    "Branches": 9,
+    "Forks": 719,
+    "Files": [
+      {
+        "Sha": "813e4b13fb9aba19ae5c0e52c6fbb2ea5d67db54",
+        "FileName": "ProcessDefinitionService.java",
+        "Path": "escheduler-api/src/main/java/cn/escheduler/api/service/ProcessDefinitionService.java",
+        "DateUpdated": "2019-09-26T02:27:04Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "dde5cb21037e04a10a1ddf602228796452bf5a62"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "dde5cb21037e04a10a1ddf602228796452bf5a62",
+        "Author": {
+          "name": "\"黄�?�\""
+        },
+        "Commitor": {
+          "name": "\"qiaozhanwei\"",
+          "company": "易观智库"
+        },
+        "Date": "2019-09-26T02:27:04Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "813e4b13fb9aba19ae5c0e52c6fbb2ea5d67db54"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-dolphinscheduler",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T03:04:17Z",
+    "EndDate": "2019-09-26T04:04:17",
+    "Branches": 9,
+    "Forks": 719,
+    "Files": [
+      {
+        "Sha": "feb7a86c1746348bd1805888c557d23b37d7b9a4",
+        "FileName": "createUdf.vue",
+        "Path": "escheduler-ui/src/js/conf/home/pages/resource/pages/udf/pages/function/_source/createUdf.vue",
+        "DateUpdated": "2019-09-26T03:17:20Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "6ff0d856b37f6b311dd51fa66a168c795d3be00b"
+        ]
+      },
+      {
+        "Sha": "3a8d532e01fc0fd5de1058de03d2bb80356964d0",
+        "FileName": "package.json",
+        "Path": "escheduler-ui/package.json",
+        "DateUpdated": "2019-09-26T03:15:54Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "b73c38a8b70723b38399628af642e58a0575e728"
+        ]
+      },
+      {
+        "Sha": "749529ce3f3b893f5b0da1e5e9abbf692ab5aa40",
+        "FileName": "timing.vue",
+        "Path": "escheduler-ui/src/js/conf/home/pages/projects/pages/definition/pages/list/_source/timing.vue",
+        "DateUpdated": "2019-09-26T03:15:54Z",
+        "Additions": 6,
+        "Deletions": 1,
+        "Commits": [
+          "b73c38a8b70723b38399628af642e58a0575e728"
+        ]
+      },
+      {
+        "Sha": "83eaec2e09295924ee90fe9cd1fdeff05997dd95",
+        "FileName": "defineUserCount.vue",
+        "Path": "escheduler-ui/src/js/conf/home/pages/projects/pages/index/_source/defineUserCount.vue",
+        "DateUpdated": "2019-09-26T03:15:54Z",
+        "Additions": 4,
+        "Deletions": 2,
+        "Commits": [
+          "b73c38a8b70723b38399628af642e58a0575e728"
+        ]
+      },
+      {
+        "Sha": "09b39517f33096bf0550b5df2cc042b9ae02cbe3",
+        "FileName": "list.vue",
+        "Path": "escheduler-ui/src/js/conf/home/pages/projects/pages/instance/pages/list/_source/list.vue",
+        "DateUpdated": "2019-09-26T03:15:54Z",
+        "Additions": 16,
+        "Deletions": 9,
+        "Commits": [
+          "b73c38a8b70723b38399628af642e58a0575e728"
+        ]
+      },
+      {
+        "Sha": "37e8563117bebb9c0c03e971796f3a9ecb5bcbd4",
+        "FileName": "list.vue",
+        "Path": "escheduler-ui/src/js/conf/home/pages/projects/pages/taskInstance/_source/list.vue",
+        "DateUpdated": "2019-09-26T03:15:54Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b73c38a8b70723b38399628af642e58a0575e728"
+        ]
+      },
+      {
+        "Sha": "13477fec34cd1748f95d87fb883568c0c7213786",
+        "FileName": "en_US.js",
+        "Path": "escheduler-ui/src/js/module/i18n/locale/en_US.js",
+        "DateUpdated": "2019-09-26T03:15:54Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "b73c38a8b70723b38399628af642e58a0575e728"
+        ]
+      },
+      {
+        "Sha": "bdea1b827fd3a043a75360a631bd571444195597",
+        "FileName": "zh_CN.js",
+        "Path": "escheduler-ui/src/js/module/i18n/locale/zh_CN.js",
+        "DateUpdated": "2019-09-26T03:15:54Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "b73c38a8b70723b38399628af642e58a0575e728"
+        ]
+      },
+      {
+        "Sha": "856dc6b243b49c7d96f77cb9bea5b46ec7576b9f",
+        "FileName": "package.json",
+        "Path": "escheduler-ui/src/lib/@analysys/ans-ui/package.json",
+        "DateUpdated": "2019-09-26T03:15:54Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "b73c38a8b70723b38399628af642e58a0575e728"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "56959f90618c1cb39136553b16422274d40dc618",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"qiaozhanwei\"",
+          "company": "易观智库"
+        },
+        "Date": "2019-09-26T03:23:15Z",
+        "additions": 0,
+        "deletions": 0,
+        "files": []
+      },
+      {
+        "sha": "6ff0d856b37f6b311dd51fa66a168c795d3be00b",
+        "Author": {
+          "name": "\"gary\"",
+          "company": "mxnavi"
+        },
+        "Commitor": {
+          "name": "\"qiaozhanwei\"",
+          "company": "易观智库"
+        },
+        "Date": "2019-09-26T03:17:20Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "feb7a86c1746348bd1805888c557d23b37d7b9a4"
+        ]
+      },
+      {
+        "sha": "b73c38a8b70723b38399628af642e58a0575e728",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"qiaozhanwei\"",
+          "company": "易观智库"
+        },
+        "Date": "2019-09-26T03:15:54Z",
+        "additions": 33,
+        "deletions": 17,
+        "files": [
+          "3a8d532e01fc0fd5de1058de03d2bb80356964d0",
+          "749529ce3f3b893f5b0da1e5e9abbf692ab5aa40",
+          "83eaec2e09295924ee90fe9cd1fdeff05997dd95",
+          "09b39517f33096bf0550b5df2cc042b9ae02cbe3",
+          "37e8563117bebb9c0c03e971796f3a9ecb5bcbd4",
+          "13477fec34cd1748f95d87fb883568c0c7213786",
+          "bdea1b827fd3a043a75360a631bd571444195597",
+          "856dc6b243b49c7d96f77cb9bea5b46ec7576b9f"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-dolphinscheduler",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T10:04:37Z",
+    "EndDate": "2019-09-26T11:04:37",
+    "Branches": 9,
+    "Forks": 721,
+    "Files": [
+      {
+        "Sha": "6352bd5f108b6b1717454cd23b4c93036316e44c",
+        "FileName": "README.md",
+        "Path": "README.md",
+        "DateUpdated": "2019-09-26T10:52:35Z",
+        "Additions": 16,
+        "Deletions": 16,
+        "Commits": [
+          "d62f140a87646a65286be7a41f3b114e1331344e"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d62f140a87646a65286be7a41f3b114e1331344e",
+        "Author": {
+          "name": "\"dailidong\""
+        },
+        "Commitor": {
+          "name": "\"qiaozhanwei\"",
+          "company": "易观智库"
+        },
+        "Date": "2019-09-26T10:52:35Z",
+        "additions": 16,
+        "deletions": 16,
+        "files": [
+          "6352bd5f108b6b1717454cd23b4c93036316e44c"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-dolphinscheduler",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T11:04:51Z",
+    "EndDate": "2019-09-26T12:04:51",
+    "Branches": 9,
+    "Forks": 721,
+    "Files": [
+      {
+        "Sha": "c92cc4776be4945f2c68988cce1663f361e3dc0c",
+        "FileName": ".asf.yaml",
+        "Path": ".asf.yaml",
+        "DateUpdated": "2019-09-26T11:13:38Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "f833b8ee4ab8b7e05700dc507a36b85e03a06ab1",
+          "c079c91b49b1671bcb2be40280083f491b89559f"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "f833b8ee4ab8b7e05700dc507a36b85e03a06ab1",
+        "Author": {
+          "name": "\"dailidong\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T11:13:38Z",
+        "additions": 0,
+        "deletions": 3,
+        "files": [
+          "c92cc4776be4945f2c68988cce1663f361e3dc0c"
+        ]
+      },
+      {
+        "sha": "c079c91b49b1671bcb2be40280083f491b89559f",
+        "Author": {
+          "name": "\"dailidong\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T11:06:38Z",
+        "additions": 3,
+        "deletions": 0,
+        "files": [
+          "c92cc4776be4945f2c68988cce1663f361e3dc0c"
+        ]
+      }
+    ]
+  }
+]

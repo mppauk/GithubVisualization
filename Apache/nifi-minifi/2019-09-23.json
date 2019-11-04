@@ -1,0 +1,41 @@
+[
+  {
+    "RepositoryName": "nifi-minifi",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T18:03:26Z",
+    "EndDate": "2019-09-23T19:03:26",
+    "Branches": 12,
+    "Forks": 86,
+    "Files": [
+      {
+        "Sha": "2fb4e0bdd1cbd1ab83b9f0fa2d280861460cef68",
+        "FileName": "RunMiNiFi.java",
+        "Path": "minifi-bootstrap/src/main/java/org/apache/nifi/minifi/bootstrap/RunMiNiFi.java",
+        "DateUpdated": "2019-09-23T18:27:45Z",
+        "Additions": 9,
+        "Deletions": 1,
+        "Commits": [
+          "55aac229331f520232644959d0b11e95616d3ca1"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "55aac229331f520232644959d0b11e95616d3ca1",
+        "Author": {
+          "name": "\"Kevin Doran\"",
+          "location": "Maryland, USA"
+        },
+        "Commitor": {
+          "name": "\"Bryan Bende\""
+        },
+        "Date": "2019-09-23T18:27:45Z",
+        "additions": 9,
+        "deletions": 1,
+        "files": [
+          "2fb4e0bdd1cbd1ab83b9f0fa2d280861460cef68"
+        ]
+      }
+    ]
+  }
+]

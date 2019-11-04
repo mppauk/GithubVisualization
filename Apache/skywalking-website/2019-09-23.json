@@ -1,0 +1,42 @@
+[
+  {
+    "RepositoryName": "skywalking-website",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T08:03:39Z",
+    "EndDate": "2019-09-23T09:03:39",
+    "Branches": 2,
+    "Forks": 33,
+    "Files": [
+      {
+        "Sha": "736f99fe3bdf72131bb3f59ccf3c9bc6728121bc",
+        "FileName": "README.md",
+        "Path": "docs/team/README.md",
+        "DateUpdated": "2019-09-23T08:16:55Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0c7de431b766d4dc65900c4efd4d3d70303a7b82"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "0c7de431b766d4dc65900c4efd4d3d70303a7b82",
+        "Author": {
+          "name": "\"linzesi\""
+        },
+        "Commitor": {
+          "name": "\"å?´æ™Ÿ Wu Sheng\"",
+          "location": "Beijing(China), SF(US)",
+          "company": "@apache  @tetrateio "
+        },
+        "Date": "2019-09-23T08:16:55Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "736f99fe3bdf72131bb3f59ccf3c9bc6728121bc"
+        ]
+      }
+    ]
+  }
+]

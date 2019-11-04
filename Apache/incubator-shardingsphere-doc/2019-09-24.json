@@ -1,0 +1,351 @@
+[
+  {
+    "RepositoryName": "incubator-shardingsphere-doc",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T02:48:10Z",
+    "EndDate": "2019-09-24T03:48:10",
+    "Branches": 2,
+    "Forks": 118,
+    "Files": [
+      {
+        "Sha": "edcfe8c64d2d66d915135ecaf934612eff7fe159",
+        "FileName": "usage.cn.md",
+        "Path": "document/current/content/manual/sharding-proxy/usage.cn.md",
+        "DateUpdated": "2019-09-24T03:22:01Z",
+        "Additions": 14,
+        "Deletions": 6,
+        "Commits": [
+          "257dfcdc1e273e8a9c9ade94e077784ff026ebda"
+        ]
+      },
+      {
+        "Sha": "47bcce25aad493f419bf3b09b6e539d838480e8f",
+        "FileName": "usage.en.md",
+        "Path": "document/current/content/manual/sharding-proxy/usage.en.md",
+        "DateUpdated": "2019-09-24T03:22:01Z",
+        "Additions": 13,
+        "Deletions": 6,
+        "Commits": [
+          "257dfcdc1e273e8a9c9ade94e077784ff026ebda"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "257dfcdc1e273e8a9c9ade94e077784ff026ebda",
+        "Author": {
+          "name": "\"liya\"",
+          "location": "Beijing,China",
+          "company": "nineseals"
+        },
+        "Commitor": {
+          "name": "\"zhaojun\"",
+          "location": "Beijing"
+        },
+        "Date": "2019-09-24T03:22:01Z",
+        "additions": 27,
+        "deletions": 12,
+        "files": [
+          "edcfe8c64d2d66d915135ecaf934612eff7fe159",
+          "47bcce25aad493f419bf3b09b6e539d838480e8f"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-shardingsphere-doc",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T08:48:42Z",
+    "EndDate": "2019-09-24T09:48:42",
+    "Branches": 2,
+    "Forks": 118,
+    "Files": [
+      {
+        "Sha": "e3e3e7ee611f95e709469870a6f817a444202c04",
+        "FileName": "_index.cn.md",
+        "Path": "community/content/team/_index.cn.md",
+        "DateUpdated": "2019-09-24T09:18:36Z",
+        "Additions": 15,
+        "Deletions": 15,
+        "Commits": [
+          "90ce41d4835334b3fd770b7405aaae9f34950112"
+        ]
+      },
+      {
+        "Sha": "36a63a551245542462efe7b02270655720a04219",
+        "FileName": "_index.en.md",
+        "Path": "community/content/team/_index.en.md",
+        "DateUpdated": "2019-09-24T09:18:36Z",
+        "Additions": 16,
+        "Deletions": 16,
+        "Commits": [
+          "90ce41d4835334b3fd770b7405aaae9f34950112"
+        ]
+      },
+      {
+        "Sha": "35c524ae7a7a856a71b46c51a44d832191482c07",
+        "FileName": "config-java.cn.md",
+        "Path": "document/current/content/manual/sharding-jdbc/configuration/config-java.cn.md",
+        "DateUpdated": "2019-09-24T09:18:36Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "90ce41d4835334b3fd770b7405aaae9f34950112"
+        ]
+      },
+      {
+        "Sha": "30fced7eb80fea6bd474f1bdedba7772b1fcd957",
+        "FileName": "config-java.en.md",
+        "Path": "document/current/content/manual/sharding-jdbc/configuration/config-java.en.md",
+        "DateUpdated": "2019-09-24T09:18:36Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "90ce41d4835334b3fd770b7405aaae9f34950112"
+        ]
+      },
+      {
+        "Sha": "9bce7747084b503a59a050d0ce06df18b82dbd29",
+        "FileName": "config-spring-namespace.cn.md",
+        "Path": "document/current/content/manual/sharding-jdbc/configuration/config-spring-namespace.cn.md",
+        "DateUpdated": "2019-09-24T09:18:36Z",
+        "Additions": 71,
+        "Deletions": 61,
+        "Commits": [
+          "90ce41d4835334b3fd770b7405aaae9f34950112"
+        ]
+      },
+      {
+        "Sha": "e97b9f3e4ec203d032987bd0f5f39916b8b9b366",
+        "FileName": "config-spring-namespace.en.md",
+        "Path": "document/current/content/manual/sharding-jdbc/configuration/config-spring-namespace.en.md",
+        "DateUpdated": "2019-09-24T09:18:36Z",
+        "Additions": 76,
+        "Deletions": 63,
+        "Commits": [
+          "90ce41d4835334b3fd770b7405aaae9f34950112"
+        ]
+      },
+      {
+        "Sha": "61e9ad2700756b7388c3c913223c6420c42fa042",
+        "FileName": "config-yaml.cn.md",
+        "Path": "document/current/content/manual/sharding-jdbc/configuration/config-yaml.cn.md",
+        "DateUpdated": "2019-09-24T09:18:36Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "90ce41d4835334b3fd770b7405aaae9f34950112"
+        ]
+      },
+      {
+        "Sha": "07d46a1b87b0a5387ac5500ba0fa8e325f1a9269",
+        "FileName": "config-yaml.en.md",
+        "Path": "document/current/content/manual/sharding-jdbc/configuration/config-yaml.en.md",
+        "DateUpdated": "2019-09-24T09:18:36Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "90ce41d4835334b3fd770b7405aaae9f34950112"
+        ]
+      },
+      {
+        "Sha": "ce934a915f8e0afa54c1f98fd4bf2fb4c2bf3233",
+        "FileName": "encrypt.cn.md",
+        "Path": "document/current/content/manual/sharding-jdbc/usage/encrypt.cn.md",
+        "DateUpdated": "2019-09-24T09:18:36Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "90ce41d4835334b3fd770b7405aaae9f34950112"
+        ]
+      },
+      {
+        "Sha": "3e0bdf7fb993de4465a640d999f28c0d5b8c3c4d",
+        "FileName": "encrypt.en.md",
+        "Path": "document/current/content/manual/sharding-jdbc/usage/encrypt.en.md",
+        "DateUpdated": "2019-09-24T09:18:36Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "90ce41d4835334b3fd770b7405aaae9f34950112"
+        ]
+      },
+      {
+        "Sha": "3c7de8a0f4e1acbe94d966ff3005052d0d860029",
+        "FileName": "orchestration.cn.md",
+        "Path": "document/current/content/manual/sharding-jdbc/usage/orchestration.cn.md",
+        "DateUpdated": "2019-09-24T09:18:36Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "90ce41d4835334b3fd770b7405aaae9f34950112"
+        ]
+      },
+      {
+        "Sha": "995e165a2186dd449cea5d48d9a2a428295a81a4",
+        "FileName": "orchestration.en.md",
+        "Path": "document/current/content/manual/sharding-jdbc/usage/orchestration.en.md",
+        "DateUpdated": "2019-09-24T09:18:36Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "90ce41d4835334b3fd770b7405aaae9f34950112"
+        ]
+      },
+      {
+        "Sha": "1c0a20a8f04b73c04a6bf17cfd0bc4ccebf8d143",
+        "FileName": "read-write-splitting.cn.md",
+        "Path": "document/current/content/manual/sharding-jdbc/usage/read-write-splitting.cn.md",
+        "DateUpdated": "2019-09-24T09:18:36Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "90ce41d4835334b3fd770b7405aaae9f34950112"
+        ]
+      },
+      {
+        "Sha": "0d582fe50647c02b5b2ed5c83c14391833a906bb",
+        "FileName": "read-write-splitting.en.md",
+        "Path": "document/current/content/manual/sharding-jdbc/usage/read-write-splitting.en.md",
+        "DateUpdated": "2019-09-24T09:18:36Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "90ce41d4835334b3fd770b7405aaae9f34950112"
+        ]
+      },
+      {
+        "Sha": "2fc279c7e6fcb428cd346913c279b66189528e69",
+        "FileName": "transaction.cn.md",
+        "Path": "document/current/content/manual/sharding-jdbc/usage/transaction.cn.md",
+        "DateUpdated": "2019-09-24T09:18:36Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "90ce41d4835334b3fd770b7405aaae9f34950112"
+        ]
+      },
+      {
+        "Sha": "975a33734d3d7a2c745f98a3461ea1e87be8c964",
+        "FileName": "transaction.en.md",
+        "Path": "document/current/content/manual/sharding-jdbc/usage/transaction.en.md",
+        "DateUpdated": "2019-09-24T09:18:36Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "90ce41d4835334b3fd770b7405aaae9f34950112"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "90ce41d4835334b3fd770b7405aaae9f34950112",
+        "Author": {
+          "name": "\"linzesi\""
+        },
+        "Commitor": {
+          "name": "\"panjuan\"",
+          "location": "Beijing, China",
+          "company": "@shardingjdbc "
+        },
+        "Date": "2019-09-24T09:18:36Z",
+        "additions": 196,
+        "deletions": 167,
+        "files": [
+          "e3e3e7ee611f95e709469870a6f817a444202c04",
+          "36a63a551245542462efe7b02270655720a04219",
+          "35c524ae7a7a856a71b46c51a44d832191482c07",
+          "30fced7eb80fea6bd474f1bdedba7772b1fcd957",
+          "9bce7747084b503a59a050d0ce06df18b82dbd29",
+          "e97b9f3e4ec203d032987bd0f5f39916b8b9b366",
+          "61e9ad2700756b7388c3c913223c6420c42fa042",
+          "07d46a1b87b0a5387ac5500ba0fa8e325f1a9269",
+          "ce934a915f8e0afa54c1f98fd4bf2fb4c2bf3233",
+          "3e0bdf7fb993de4465a640d999f28c0d5b8c3c4d",
+          "3c7de8a0f4e1acbe94d966ff3005052d0d860029",
+          "995e165a2186dd449cea5d48d9a2a428295a81a4",
+          "1c0a20a8f04b73c04a6bf17cfd0bc4ccebf8d143",
+          "0d582fe50647c02b5b2ed5c83c14391833a906bb",
+          "2fc279c7e6fcb428cd346913c279b66189528e69",
+          "975a33734d3d7a2c745f98a3461ea1e87be8c964"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-shardingsphere-doc",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T09:48:12Z",
+    "EndDate": "2019-09-24T10:48:12",
+    "Branches": 2,
+    "Forks": 118,
+    "Files": [
+      {
+        "Sha": "66608ed42f49bc401f3c27a189cd022e0bf7cdf8",
+        "FileName": "configuration.cn.md",
+        "Path": "document/current/content/manual/sharding-proxy/configuration.cn.md",
+        "DateUpdated": "2019-09-24T10:04:46Z",
+        "Additions": 26,
+        "Deletions": 26,
+        "Commits": [
+          "6ee498500f187804b4da428a1a6f08ecd5df012a"
+        ]
+      },
+      {
+        "Sha": "2a12e1a1c330d062e2203bd128f8743cfdd064d5",
+        "FileName": "configuration.en.md",
+        "Path": "document/current/content/manual/sharding-proxy/configuration.en.md",
+        "DateUpdated": "2019-09-24T10:04:46Z",
+        "Additions": 26,
+        "Deletions": 26,
+        "Commits": [
+          "6ee498500f187804b4da428a1a6f08ecd5df012a"
+        ]
+      },
+      {
+        "Sha": "9008316cca709853aeddc358160deacd1e244acc",
+        "FileName": "docker.cn.md",
+        "Path": "document/current/content/manual/sharding-proxy/docker.cn.md",
+        "DateUpdated": "2019-09-24T10:04:46Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "6ee498500f187804b4da428a1a6f08ecd5df012a"
+        ]
+      },
+      {
+        "Sha": "b3eabc5cc816e303a302263d13eae87b4323024a",
+        "FileName": "docker.en.md",
+        "Path": "document/current/content/manual/sharding-proxy/docker.en.md",
+        "DateUpdated": "2019-09-24T10:04:46Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "6ee498500f187804b4da428a1a6f08ecd5df012a"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "6ee498500f187804b4da428a1a6f08ecd5df012a",
+        "Author": {
+          "name": "\"WangHaitao\""
+        },
+        "Commitor": {
+          "name": "\"Liang Zhang\"",
+          "location": "Beijing China",
+          "company": "@apache @shardingjdbc @elasticjob "
+        },
+        "Date": "2019-09-24T10:04:46Z",
+        "additions": 58,
+        "deletions": 58,
+        "files": [
+          "66608ed42f49bc401f3c27a189cd022e0bf7cdf8",
+          "2a12e1a1c330d062e2203bd128f8743cfdd064d5",
+          "9008316cca709853aeddc358160deacd1e244acc",
+          "b3eabc5cc816e303a302263d13eae87b4323024a"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "RepositoryName": "commons-pool",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T01:02:55Z",
+    "EndDate": "2019-09-26T02:02:55",
+    "Branches": 12,
+    "Forks": 194,
+    "Files": [
+      {
+        "Sha": "528f265731cb16cf938e05e9362291f98c3e0376",
+        "FileName": "changes.xml",
+        "Path": "src/changes/changes.xml",
+        "DateUpdated": "2019-09-26T01:04:46Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "7d033060b08cedc9b54bdc1f8951a872870cdadb"
+        ]
+      },
+      {
+        "Sha": "6d8ec694d3fbd86f93273a518bed3b8f2cae111a",
+        "FileName": "GenericKeyedObjectPool.java",
+        "Path": "src/main/java/org/apache/commons/pool2/impl/GenericKeyedObjectPool.java",
+        "DateUpdated": "2019-09-26T01:04:46Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7d033060b08cedc9b54bdc1f8951a872870cdadb"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "7d033060b08cedc9b54bdc1f8951a872870cdadb",
+        "Author": {
+          "name": "\"Phil Steitz\""
+        },
+        "Commitor": {
+          "name": "\"Phil Steitz\""
+        },
+        "Date": "2019-09-26T01:04:46Z",
+        "additions": 5,
+        "deletions": 1,
+        "files": [
+          "528f265731cb16cf938e05e9362291f98c3e0376",
+          "6d8ec694d3fbd86f93273a518bed3b8f2cae111a"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "RepositoryName": "juneau",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T12:03:59Z",
+    "EndDate": "2019-09-25T13:03:59",
+    "Branches": 2,
+    "Forks": 30,
+    "Files": [
+      {
+        "Sha": "e7adc86b5acfd7e02213549890dc86ed9c1e5770",
+        "FileName": "8.1.1.html",
+        "Path": "juneau-doc/docs/ReleaseNotes/8.1.1.html",
+        "DateUpdated": "2019-09-25T13:01:39Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "ff690611fb716948fd04b0dee38a563b470cc1d7"
+        ]
+      },
+      {
+        "Sha": "54f1b9066e239764166fa865460b4a6d0010e78f",
+        "FileName": "juneau-doc.jar",
+        "Path": "juneau-doc/juneau-doc.jar",
+        "DateUpdated": "2019-09-25T13:01:39Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "ff690611fb716948fd04b0dee38a563b470cc1d7"
+        ]
+      },
+      {
+        "Sha": "d3100b84d7049e280e33551d5f45e85209e39900",
+        "FileName": "DocGenerator.java",
+        "Path": "juneau-doc/src/main/java/org/apache/juneau/doc/internal/DocGenerator.java",
+        "DateUpdated": "2019-09-25T13:01:39Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "ff690611fb716948fd04b0dee38a563b470cc1d7"
+        ]
+      },
+      {
+        "Sha": "3156f7ec9f42077e29dd2455bbc829255b051db8",
+        "FileName": "overview.html",
+        "Path": "juneau-doc/src/main/javadoc/overview.html",
+        "DateUpdated": "2019-09-25T13:01:39Z",
+        "Additions": 88,
+        "Deletions": 78,
+        "Commits": [
+          "ff690611fb716948fd04b0dee38a563b470cc1d7"
+        ]
+      },
+      {
+        "Sha": "5ec6e46c8926f95d418ff13f5af267cbea53b96d",
+        "FileName": "rntoc.html",
+        "Path": "juneau-doc/src/main/javadoc/resources/fragments/rntoc.html",
+        "DateUpdated": "2019-09-25T13:01:39Z",
+        "Additions": 92,
+        "Deletions": 0,
+        "Commits": [
+          "ff690611fb716948fd04b0dee38a563b470cc1d7"
+        ]
+      },
+      {
+        "Sha": "bbd22348294a787d46253267ddb32a900c63f832",
+        "FileName": "juneau-release.sh",
+        "Path": "juneau-release.sh",
+        "DateUpdated": "2019-09-25T13:01:39Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "ff690611fb716948fd04b0dee38a563b470cc1d7"
+        ]
+      },
+      {
+        "Sha": "6f64f70f75a1d77ca1aafba0776d2ba259ea1a92",
+        "FileName": "CalendarSwapTest.java",
+        "Path": "juneau-core/juneau-core-utest/src/test/java/org/apache/juneau/transforms/CalendarSwapTest.java",
+        "DateUpdated": "2019-09-25T12:59:49Z",
+        "Additions": 14,
+        "Deletions": 12,
+        "Commits": [
+          "c2c470dfcb6c80be533ab33549dbeaa928dd0f01"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "ff690611fb716948fd04b0dee38a563b470cc1d7",
+        "Author": {
+          "name": "\"James Bognar\"",
+          "location": "Raleigh, NC",
+          "company": "Salesforce"
+        },
+        "Commitor": {
+          "name": "\"James Bognar\"",
+          "location": "Raleigh, NC",
+          "company": "Salesforce"
+        },
+        "Date": "2019-09-25T13:01:39Z",
+        "additions": 187,
+        "deletions": 80,
+        "files": [
+          "e7adc86b5acfd7e02213549890dc86ed9c1e5770",
+          "54f1b9066e239764166fa865460b4a6d0010e78f",
+          "d3100b84d7049e280e33551d5f45e85209e39900",
+          "3156f7ec9f42077e29dd2455bbc829255b051db8",
+          "5ec6e46c8926f95d418ff13f5af267cbea53b96d",
+          "bbd22348294a787d46253267ddb32a900c63f832"
+        ]
+      },
+      {
+        "sha": "c2c470dfcb6c80be533ab33549dbeaa928dd0f01",
+        "Author": {
+          "name": "\"James Bognar\"",
+          "location": "Raleigh, NC",
+          "company": "Salesforce"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T12:59:49Z",
+        "additions": 14,
+        "deletions": 12,
+        "files": [
+          "6f64f70f75a1d77ca1aafba0776d2ba259ea1a92"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,777 @@
+[
+  {
+    "RepositoryName": "beam",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T23:03:39Z",
+    "EndDate": "2019-09-26T00:03:39",
+    "Branches": 46,
+    "Forks": 2054,
+    "Files": [
+      {
+        "Sha": "993e6402b048616a14d4f6f40ad30a02ded09c6e",
+        "FileName": "beam_fn_api.proto",
+        "Path": "model/fn-execution/src/main/proto/beam_fn_api.proto",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 15,
+        "Deletions": 25,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "8134b24af7a8d26dafd3902c95243b0c1e55afbc",
+        "FileName": "ExecutableStageDoFnOperatorTest.java",
+        "Path": "runners/flink/src/test/java/org/apache/beam/runners/flink/translation/wrappers/streaming/ExecutableStageDoFnOperatorTest.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "7e298e7b43d3fe1470e0521c6c6524f81ca350f7",
+        "FileName": "FnApiWindowMappingFn.java",
+        "Path": "runners/google-cloud-dataflow-java/worker/src/main/java/org/apache/beam/runners/dataflow/worker/FnApiWindowMappingFn.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "73bbf4b5b7a5707b4f04d999d0aef8bc012a7599",
+        "FileName": "RegisterAndProcessBundleOperation.java",
+        "Path": "runners/google-cloud-dataflow-java/worker/src/main/java/org/apache/beam/runners/dataflow/worker/fn/control/RegisterAndProcessBundleOperation.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 13,
+        "Deletions": 13,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "1af00f171ab185ab018a64ae57aecb55f23a08df",
+        "FileName": "DataflowWorkerLoggingHandler.java",
+        "Path": "runners/google-cloud-dataflow-java/worker/src/main/java/org/apache/beam/runners/dataflow/worker/logging/DataflowWorkerLoggingHandler.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "81d4a670340ae06de391c3a4cc317948fc75eaf6",
+        "FileName": "FnApiWindowMappingFnTest.java",
+        "Path": "runners/google-cloud-dataflow-java/worker/src/test/java/org/apache/beam/runners/dataflow/worker/FnApiWindowMappingFnTest.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "321a23612109ba64af370ab858cebebfd9979742",
+        "FileName": "RegisterAndProcessBundleOperationTest.java",
+        "Path": "runners/google-cloud-dataflow-java/worker/src/test/java/org/apache/beam/runners/dataflow/worker/fn/control/RegisterAndProcessBundleOperationTest.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 5,
+        "Deletions": 8,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "fc5adb1d9c9e42a43bcbdf97a424cb1a8f3e4e2d",
+        "FileName": "BeamFnDataGrpcServiceTest.java",
+        "Path": "runners/google-cloud-dataflow-java/worker/src/test/java/org/apache/beam/runners/dataflow/worker/fn/data/BeamFnDataGrpcServiceTest.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 5,
+        "Deletions": 7,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "55b81e0f63d08454969e4fb5a1796e511b58f5d3",
+        "FileName": "BeamFnLoggingServiceTest.java",
+        "Path": "runners/google-cloud-dataflow-java/worker/src/test/java/org/apache/beam/runners/dataflow/worker/fn/logging/BeamFnLoggingServiceTest.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 8,
+        "Deletions": 10,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "568fcff1163b44c7f31d1cb585bf08931258cdde",
+        "FileName": "DataflowWorkerLoggingHandlerTest.java",
+        "Path": "runners/google-cloud-dataflow-java/worker/src/test/java/org/apache/beam/runners/dataflow/worker/logging/DataflowWorkerLoggingHandlerTest.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "b3f1c2e81a28fe70ff3d53a542d50d3be6937332",
+        "FileName": "SdkHarnessClient.java",
+        "Path": "runners/java-fn-execution/src/main/java/org/apache/beam/runners/fnexecution/control/SdkHarnessClient.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "9c72d8114c9f4d7f040bb5c7d4b4acf650d26237",
+        "FileName": "GrpcStateService.java",
+        "Path": "runners/java-fn-execution/src/main/java/org/apache/beam/runners/fnexecution/state/GrpcStateService.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "4d8f816033107a875c9b5dc855b24dfda10583c3",
+        "FileName": "StateRequestHandlers.java",
+        "Path": "runners/java-fn-execution/src/main/java/org/apache/beam/runners/fnexecution/state/StateRequestHandlers.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "0972d7b69607b51888c270e1ea5ec46110624ae7",
+        "FileName": "ServerFactoryTest.java",
+        "Path": "runners/java-fn-execution/src/test/java/org/apache/beam/runners/fnexecution/ServerFactoryTest.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "8bb3aab5f275b77a1fe88d25771e1340c4b9284a",
+        "FileName": "GrpcDataServiceTest.java",
+        "Path": "runners/java-fn-execution/src/test/java/org/apache/beam/runners/fnexecution/data/GrpcDataServiceTest.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 5,
+        "Deletions": 7,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "3bfda79e8625c1ccc57a841a680cc4528a804947",
+        "FileName": "GrpcLoggingServiceTest.java",
+        "Path": "runners/java-fn-execution/src/test/java/org/apache/beam/runners/fnexecution/logging/GrpcLoggingServiceTest.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 8,
+        "Deletions": 10,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "f8b3f296dd783205dfa4aeb42f70c360aa2ebea0",
+        "FileName": "GrpcStateServiceTest.java",
+        "Path": "runners/java-fn-execution/src/test/java/org/apache/beam/runners/fnexecution/state/GrpcStateServiceTest.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "e6caafc6c01cf85711317d4ab2f35c79b0f6ada4",
+        "FileName": "translate.go",
+        "Path": "sdks/go/pkg/beam/core/runtime/exec/translate.go",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "453cf9fbb549e572d5a4611a97762133f1a3e28d",
+        "FileName": "datamgr.go",
+        "Path": "sdks/go/pkg/beam/core/runtime/harness/datamgr.go",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "1bbf22ea036142f8a993e853f493b346d78727bf",
+        "FileName": "datamgr_test.go",
+        "Path": "sdks/go/pkg/beam/core/runtime/harness/datamgr_test.go",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "dcc7922098bf7d33c12309141db0f5a717744cde",
+        "FileName": "harness.go",
+        "Path": "sdks/go/pkg/beam/core/runtime/harness/harness.go",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "63afe7c96569ef5e61459d46a5e3f37ef010a325",
+        "FileName": "logging.go",
+        "Path": "sdks/go/pkg/beam/core/runtime/harness/logging.go",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "ff20ff9e9db5d60ba6df277aa90466cf6aa51e32",
+        "FileName": "statemgr.go",
+        "Path": "sdks/go/pkg/beam/core/runtime/harness/statemgr.go",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "92a2b0309d6cf33a01e69acb44239dfcdad81fae",
+        "FileName": "doc_test.go",
+        "Path": "sdks/go/pkg/beam/doc_test.go",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "09c6600ca40cb0c66b7bc011c8fb439c6e4a96ee",
+        "FileName": "beam_fn_api.pb.go",
+        "Path": "sdks/go/pkg/beam/model/fnexecution_v1/beam_fn_api.pb.go",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 298,
+        "Deletions": 301,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "d2c8261d06e4343ed5d3ab31e6900a8ee39965ca",
+        "FileName": "beam_artifact_api.pb.go",
+        "Path": "sdks/go/pkg/beam/model/jobmanagement_v1/beam_artifact_api.pb.go",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 57,
+        "Deletions": 68,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "8d8face8ee78a556a1bcad4e9b19334e3b22c302",
+        "FileName": "beam_runner_api.pb.go",
+        "Path": "sdks/go/pkg/beam/model/pipeline_v1/beam_runner_api.pb.go",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 411,
+        "Deletions": 953,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "3320b26bbdeec578661346c30f020d84fcfca8fd",
+        "FileName": "BeamFnDataBufferingOutboundObserver.java",
+        "Path": "sdks/java/fn-execution/src/main/java/org/apache/beam/sdk/fn/data/BeamFnDataBufferingOutboundObserver.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "7ed83dfdc9ad85aec901a0e64547a8bee320b5c0",
+        "FileName": "BeamFnDataGrpcMultiplexer.java",
+        "Path": "sdks/java/fn-execution/src/main/java/org/apache/beam/sdk/fn/data/BeamFnDataGrpcMultiplexer.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 5,
+        "Deletions": 6,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "2ed55399530b83c4a53732bfa14a972c8071d707",
+        "FileName": "BeamFnDataInboundObserver.java",
+        "Path": "sdks/java/fn-execution/src/main/java/org/apache/beam/sdk/fn/data/BeamFnDataInboundObserver.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "93dd0c40e81272ab114fa464954ef88a3acfaf41",
+        "FileName": "BeamFnDataBufferingOutboundObserverTest.java",
+        "Path": "sdks/java/fn-execution/src/test/java/org/apache/beam/sdk/fn/data/BeamFnDataBufferingOutboundObserverTest.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "a99e5b98f7c9a926fc43754b7d5a368a2f6233e4",
+        "FileName": "BeamFnDataGrpcMultiplexerTest.java",
+        "Path": "sdks/java/fn-execution/src/test/java/org/apache/beam/sdk/fn/data/BeamFnDataGrpcMultiplexerTest.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "ec2875ee3a3fcf3fd7095b5dc5e04b9e3c1f3eb6",
+        "FileName": "SplittableProcessElementsRunner.java",
+        "Path": "sdks/java/harness/src/main/java/org/apache/beam/fn/harness/SplittableProcessElementsRunner.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "8b1c5fdedeef67c0a1485b131679592b552402a0",
+        "FileName": "ProcessBundleHandler.java",
+        "Path": "sdks/java/harness/src/main/java/org/apache/beam/fn/harness/control/ProcessBundleHandler.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "b3e6f64d7d5dfc01636ab086f30b901418ef69f2",
+        "FileName": "BagUserState.java",
+        "Path": "sdks/java/harness/src/main/java/org/apache/beam/fn/harness/state/BagUserState.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "26b0dfa65dbd77e3104f818413316d54ba299cc1",
+        "FileName": "FnApiStateAccessor.java",
+        "Path": "sdks/java/harness/src/main/java/org/apache/beam/fn/harness/state/FnApiStateAccessor.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "fff60e66d6dc3ec368846dfff886fe2c8b3a7c15",
+        "FileName": "MultimapSideInput.java",
+        "Path": "sdks/java/harness/src/main/java/org/apache/beam/fn/harness/state/MultimapSideInput.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "f97ec3ac0d2668eb866058e2dd1e06cf80ff6f73",
+        "FileName": "FnApiDoFnRunnerTest.java",
+        "Path": "sdks/java/harness/src/test/java/org/apache/beam/fn/harness/FnApiDoFnRunnerTest.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "54c1d1e3a17f38215c691b1a218e2282e732c45c",
+        "FileName": "ProcessBundleHandlerTest.java",
+        "Path": "sdks/java/harness/src/test/java/org/apache/beam/fn/harness/control/ProcessBundleHandlerTest.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 10,
+        "Deletions": 18,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "ffe777a504c5c00e6e0b3636868a4bfaa80a4f27",
+        "FileName": "BeamFnDataGrpcClientTest.java",
+        "Path": "sdks/java/harness/src/test/java/org/apache/beam/fn/harness/data/BeamFnDataGrpcClientTest.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 10,
+        "Deletions": 10,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "aa45df68805509c6e1e194cb3a33061c8d54ee1c",
+        "FileName": "BeamFnDataInboundObserverTest.java",
+        "Path": "sdks/java/harness/src/test/java/org/apache/beam/fn/harness/data/BeamFnDataInboundObserverTest.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 1,
+        "Deletions": 3,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "4f84d2ad0ee7fb18b7f1eb95e36bf3479a3d3dba",
+        "FileName": "QueueingBeamFnDataClientTest.java",
+        "Path": "sdks/java/harness/src/test/java/org/apache/beam/fn/harness/data/QueueingBeamFnDataClientTest.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 10,
+        "Deletions": 10,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "5b01c0ff01408b2fcae58742d888655b87853ac2",
+        "FileName": "BagUserStateTest.java",
+        "Path": "sdks/java/harness/src/test/java/org/apache/beam/fn/harness/state/BagUserStateTest.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "e1feac1ccbad3d17f4e7fd72c9ec48f58e2ad720",
+        "FileName": "BeamFnStateGrpcClientCacheTest.java",
+        "Path": "sdks/java/harness/src/test/java/org/apache/beam/fn/harness/state/BeamFnStateGrpcClientCacheTest.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "9705267419d5891df105e1886ab234526830b4af",
+        "FileName": "MultimapSideInputTest.java",
+        "Path": "sdks/java/harness/src/test/java/org/apache/beam/fn/harness/state/MultimapSideInputTest.java",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "274bd5eaa9584493de359401eb753cd53f50315c",
+        "FileName": "fn_api_runner.py",
+        "Path": "sdks/python/apache_beam/runners/portability/fn_api_runner.py",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 20,
+        "Deletions": 20,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "1156b15afbc97cb38026a0bbfa5dcc37ac349468",
+        "FileName": "bundle_processor.py",
+        "Path": "sdks/python/apache_beam/runners/worker/bundle_processor.py",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "8324e6bbf30e5ed29edabcf7491cc585fba77546",
+        "FileName": "data_plane.py",
+        "Path": "sdks/python/apache_beam/runners/worker/data_plane.py",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 11,
+        "Deletions": 11,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "d11390af77f46aaa76e4428fd080212448a07218",
+        "FileName": "data_plane_test.py",
+        "Path": "sdks/python/apache_beam/runners/worker/data_plane_test.py",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 8,
+        "Deletions": 8,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "2b18929bba83fc54329c29ff66e02dc16e21924d",
+        "FileName": "sdk_worker.py",
+        "Path": "sdks/python/apache_beam/runners/worker/sdk_worker.py",
+        "DateUpdated": "2019-09-25T23:28:12Z",
+        "Additions": 18,
+        "Deletions": 18,
+        "Commits": [
+          "17805bc3495418475c8e86110bc4c511a25e5801"
+        ]
+      },
+      {
+        "Sha": "76c15ef00fa9a0dccb792f5aff975d9f5b113caf",
+        "FileName": "flink_runner.py",
+        "Path": "sdks/python/apache_beam/runners/portability/flink_runner.py",
+        "DateUpdated": "2019-09-25T23:22:03Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "ba9a7ffab5d95d8301716af40e6337dd59cb2237"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "17805bc3495418475c8e86110bc4c511a25e5801",
+        "Author": {
+          "name": "\"Lukasz Cwik\"",
+          "location": "Seattle, WA, USA"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T23:28:12Z",
+        "additions": 1001,
+        "deletions": 1591,
+        "files": [
+          "993e6402b048616a14d4f6f40ad30a02ded09c6e",
+          "8134b24af7a8d26dafd3902c95243b0c1e55afbc",
+          "7e298e7b43d3fe1470e0521c6c6524f81ca350f7",
+          "73bbf4b5b7a5707b4f04d999d0aef8bc012a7599",
+          "1af00f171ab185ab018a64ae57aecb55f23a08df",
+          "81d4a670340ae06de391c3a4cc317948fc75eaf6",
+          "321a23612109ba64af370ab858cebebfd9979742",
+          "fc5adb1d9c9e42a43bcbdf97a424cb1a8f3e4e2d",
+          "55b81e0f63d08454969e4fb5a1796e511b58f5d3",
+          "568fcff1163b44c7f31d1cb585bf08931258cdde",
+          "b3f1c2e81a28fe70ff3d53a542d50d3be6937332",
+          "9c72d8114c9f4d7f040bb5c7d4b4acf650d26237",
+          "4d8f816033107a875c9b5dc855b24dfda10583c3",
+          "0972d7b69607b51888c270e1ea5ec46110624ae7",
+          "8bb3aab5f275b77a1fe88d25771e1340c4b9284a",
+          "3bfda79e8625c1ccc57a841a680cc4528a804947",
+          "f8b3f296dd783205dfa4aeb42f70c360aa2ebea0",
+          "e6caafc6c01cf85711317d4ab2f35c79b0f6ada4",
+          "453cf9fbb549e572d5a4611a97762133f1a3e28d",
+          "1bbf22ea036142f8a993e853f493b346d78727bf",
+          "dcc7922098bf7d33c12309141db0f5a717744cde",
+          "63afe7c96569ef5e61459d46a5e3f37ef010a325",
+          "ff20ff9e9db5d60ba6df277aa90466cf6aa51e32",
+          "92a2b0309d6cf33a01e69acb44239dfcdad81fae",
+          "09c6600ca40cb0c66b7bc011c8fb439c6e4a96ee",
+          "d2c8261d06e4343ed5d3ab31e6900a8ee39965ca",
+          "8d8face8ee78a556a1bcad4e9b19334e3b22c302",
+          "3320b26bbdeec578661346c30f020d84fcfca8fd",
+          "7ed83dfdc9ad85aec901a0e64547a8bee320b5c0",
+          "2ed55399530b83c4a53732bfa14a972c8071d707",
+          "93dd0c40e81272ab114fa464954ef88a3acfaf41",
+          "a99e5b98f7c9a926fc43754b7d5a368a2f6233e4",
+          "ec2875ee3a3fcf3fd7095b5dc5e04b9e3c1f3eb6",
+          "8b1c5fdedeef67c0a1485b131679592b552402a0",
+          "b3e6f64d7d5dfc01636ab086f30b901418ef69f2",
+          "26b0dfa65dbd77e3104f818413316d54ba299cc1",
+          "fff60e66d6dc3ec368846dfff886fe2c8b3a7c15",
+          "f97ec3ac0d2668eb866058e2dd1e06cf80ff6f73",
+          "54c1d1e3a17f38215c691b1a218e2282e732c45c",
+          "ffe777a504c5c00e6e0b3636868a4bfaa80a4f27",
+          "aa45df68805509c6e1e194cb3a33061c8d54ee1c",
+          "4f84d2ad0ee7fb18b7f1eb95e36bf3479a3d3dba",
+          "5b01c0ff01408b2fcae58742d888655b87853ac2",
+          "e1feac1ccbad3d17f4e7fd72c9ec48f58e2ad720",
+          "9705267419d5891df105e1886ab234526830b4af",
+          "274bd5eaa9584493de359401eb753cd53f50315c",
+          "1156b15afbc97cb38026a0bbfa5dcc37ac349468",
+          "8324e6bbf30e5ed29edabcf7491cc585fba77546",
+          "d11390af77f46aaa76e4428fd080212448a07218",
+          "2b18929bba83fc54329c29ff66e02dc16e21924d"
+        ]
+      },
+      {
+        "sha": "ba9a7ffab5d95d8301716af40e6337dd59cb2237",
+        "Author": {
+          "name": "\"Ankur\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T23:22:03Z",
+        "additions": 4,
+        "deletions": 1,
+        "files": [
+          "76c15ef00fa9a0dccb792f5aff975d9f5b113caf"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "beam",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T00:04:26Z",
+    "EndDate": "2019-09-26T01:04:26",
+    "Branches": 46,
+    "Forks": 2055,
+    "Files": [
+      {
+        "Sha": "f302d83fc8a6ad09cab6fcb20bd5f3367f67abb7",
+        "FileName": "filter-py.ipynb",
+        "Path": "examples/notebooks/documentation/transforms/python/element-wise/filter-py.ipynb",
+        "DateUpdated": "2019-09-26T00:58:47Z",
+        "Additions": 17,
+        "Deletions": 33,
+        "Commits": [
+          "7120cebf936da58febc00f931bc0450d2b515418"
+        ]
+      },
+      {
+        "Sha": "c6e1fb2236d429a0dcde7c323fd4aee99f6d903e",
+        "FileName": "flatmap-py.ipynb",
+        "Path": "examples/notebooks/documentation/transforms/python/element-wise/flatmap-py.ipynb",
+        "DateUpdated": "2019-09-26T00:58:47Z",
+        "Additions": 24,
+        "Deletions": 46,
+        "Commits": [
+          "7120cebf936da58febc00f931bc0450d2b515418"
+        ]
+      },
+      {
+        "Sha": "76e69a7968de7612e131cfa9c1239ccffc017d4f",
+        "FileName": "generate.py",
+        "Path": "website/notebooks/generate.py",
+        "DateUpdated": "2019-09-26T00:58:47Z",
+        "Additions": 57,
+        "Deletions": 23,
+        "Commits": [
+          "7120cebf936da58febc00f931bc0450d2b515418"
+        ]
+      },
+      {
+        "Sha": "c0135aa8ec1a2a8479c9dbcc7a57313470bb56c0",
+        "FileName": "button-pydoc.md",
+        "Path": "website/src/_includes/button-pydoc.md",
+        "DateUpdated": "2019-09-26T00:58:47Z",
+        "Additions": 23,
+        "Deletions": 0,
+        "Commits": [
+          "7120cebf936da58febc00f931bc0450d2b515418"
+        ]
+      },
+      {
+        "Sha": "04137715f8bd9246443af462bc6c4487cbfb2c77",
+        "FileName": "button.md",
+        "Path": "website/src/_includes/button.md",
+        "DateUpdated": "2019-09-26T00:58:47Z",
+        "Additions": 21,
+        "Deletions": 0,
+        "Commits": [
+          "7120cebf936da58febc00f931bc0450d2b515418"
+        ]
+      },
+      {
+        "Sha": "055a730a998f0abdd8ba4a97ad79888a9fa209d5",
+        "FileName": "buttons-code-snippet.md",
+        "Path": "website/src/_includes/buttons-code-snippet.md",
+        "DateUpdated": "2019-09-26T00:58:47Z",
+        "Additions": 32,
+        "Deletions": 0,
+        "Commits": [
+          "7120cebf936da58febc00f931bc0450d2b515418"
+        ]
+      },
+      {
+        "Sha": "346ffb47563ce8cf00e761c691cb720a4bb9df98",
+        "FileName": "filter.md",
+        "Path": "website/src/documentation/transforms/python/element-wise/filter.md",
+        "DateUpdated": "2019-09-26T00:58:47Z",
+        "Additions": 26,
+        "Deletions": 160,
+        "Commits": [
+          "7120cebf936da58febc00f931bc0450d2b515418"
+        ]
+      },
+      {
+        "Sha": "d2e861a25fee50063dadc4f1931cf0c5737b729a",
+        "FileName": "flatmap.md",
+        "Path": "website/src/documentation/transforms/python/element-wise/flatmap.md",
+        "DateUpdated": "2019-09-26T00:58:47Z",
+        "Additions": 38,
+        "Deletions": 229,
+        "Commits": [
+          "7120cebf936da58febc00f931bc0450d2b515418"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "7120cebf936da58febc00f931bc0450d2b515418",
+        "Author": {
+          "name": "\"Ahmet Altay\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T00:58:47Z",
+        "additions": 238,
+        "deletions": 491,
+        "files": [
+          "f302d83fc8a6ad09cab6fcb20bd5f3367f67abb7",
+          "c6e1fb2236d429a0dcde7c323fd4aee99f6d903e",
+          "76e69a7968de7612e131cfa9c1239ccffc017d4f",
+          "c0135aa8ec1a2a8479c9dbcc7a57313470bb56c0",
+          "04137715f8bd9246443af462bc6c4487cbfb2c77",
+          "055a730a998f0abdd8ba4a97ad79888a9fa209d5",
+          "346ffb47563ce8cf00e761c691cb720a4bb9df98",
+          "d2e861a25fee50063dadc4f1931cf0c5737b729a"
+        ]
+      }
+    ]
+  }
+]

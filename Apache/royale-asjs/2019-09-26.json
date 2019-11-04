@@ -1,0 +1,42 @@
+[
+  {
+    "RepositoryName": "royale-asjs",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T11:02:46Z",
+    "EndDate": "2019-09-26T12:02:46",
+    "Branches": 77,
+    "Forks": 73,
+    "Files": [
+      {
+        "Sha": "f88b576e02eb88891bab7bead05256a170ae784e",
+        "FileName": "README",
+        "Path": "releasemgr/README",
+        "DateUpdated": "2019-09-26T11:59:19Z",
+        "Additions": 14,
+        "Deletions": 20,
+        "Commits": [
+          "043e5e4b0842e1904e24fa29879492ec95bcc236"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "043e5e4b0842e1904e24fa29879492ec95bcc236",
+        "Author": {
+          "name": "\"Andrew Wetmore\"",
+          "location": "Nova Scotia",
+          "company": "Cottage 14"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T11:59:19Z",
+        "additions": 14,
+        "deletions": 20,
+        "files": [
+          "f88b576e02eb88891bab7bead05256a170ae784e"
+        ]
+      }
+    ]
+  }
+]

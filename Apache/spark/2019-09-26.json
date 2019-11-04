@@ -1,0 +1,1242 @@
+[
+  {
+    "RepositoryName": "spark",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T04:02:37Z",
+    "EndDate": "2019-09-26T05:02:37",
+    "Branches": 19,
+    "Forks": 20122,
+    "Files": [
+      {
+        "Sha": "17782e8ab1f0d28c0aa9dc585e208c70880d9d46",
+        "FileName": "DataFrameWriterV2.scala",
+        "Path": "sql/core/src/main/scala/org/apache/spark/sql/DataFrameWriterV2.scala",
+        "DateUpdated": "2019-09-26T04:41:34Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "6a4235aee7f5bfdba5fd5bd017294d7f958b2658"
+        ]
+      },
+      {
+        "Sha": "e418958bef94d517b18e9656e52ad166f971003a",
+        "FileName": "JavaDataFrameWriterV2Suite.java",
+        "Path": "sql/core/src/test/java/test/org/apache/spark/sql/JavaDataFrameWriterV2Suite.java",
+        "DateUpdated": "2019-09-26T04:41:34Z",
+        "Additions": 0,
+        "Deletions": 3,
+        "Commits": [
+          "6a4235aee7f5bfdba5fd5bd017294d7f958b2658"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "6a4235aee7f5bfdba5fd5bd017294d7f958b2658",
+        "Author": {
+          "name": "\"Ryan Blue\""
+        },
+        "Commitor": {
+          "name": "\"Wenchen Fan\"",
+          "location": "Hangzhou, China",
+          "company": "Databricks"
+        },
+        "Date": "2019-09-26T04:41:34Z",
+        "additions": 1,
+        "deletions": 4,
+        "files": [
+          "17782e8ab1f0d28c0aa9dc585e208c70880d9d46",
+          "e418958bef94d517b18e9656e52ad166f971003a"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "spark",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T05:02:43Z",
+    "EndDate": "2019-09-26T06:02:43",
+    "Branches": 19,
+    "Forks": 20121,
+    "Files": [
+      {
+        "Sha": "a32052ce121dfc8ee3ccacd1dd223fd5679e7a01",
+        "FileName": "EquivalentExpressions.scala",
+        "Path": "sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/EquivalentExpressions.scala",
+        "DateUpdated": "2019-09-26T05:55:01Z",
+        "Additions": 5,
+        "Deletions": 1,
+        "Commits": [
+          "b8b59d6fa3ac0952d6d857e7f42b6899a12c5271"
+        ]
+      },
+      {
+        "Sha": "b5d021549c7a8bb9b82deaff43eac059572f2175",
+        "FileName": "SQLQuerySuite.scala",
+        "Path": "sql/core/src/test/scala/org/apache/spark/sql/SQLQuerySuite.scala",
+        "DateUpdated": "2019-09-26T05:55:01Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "b8b59d6fa3ac0952d6d857e7f42b6899a12c5271"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "b8b59d6fa3ac0952d6d857e7f42b6899a12c5271",
+        "Author": {
+          "name": "\"Liang-Chi Hsieh\"",
+          "location": "Seattle",
+          "company": "Uber"
+        },
+        "Commitor": {
+          "name": "\"Wenchen Fan\"",
+          "location": "Hangzhou, China",
+          "company": "Databricks"
+        },
+        "Date": "2019-09-26T05:55:01Z",
+        "additions": 22,
+        "deletions": 1,
+        "files": [
+          "a32052ce121dfc8ee3ccacd1dd223fd5679e7a01",
+          "b5d021549c7a8bb9b82deaff43eac059572f2175"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "spark",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T07:03:08Z",
+    "EndDate": "2019-09-26T08:03:08",
+    "Branches": 19,
+    "Forks": 20122,
+    "Files": [
+      {
+        "Sha": "cad580ef615d62b9d47c4df48aa75b9b4f737d4a",
+        "FileName": "KafkaSinkSuite.scala",
+        "Path": "external/kafka-0-10-sql/src/test/scala/org/apache/spark/sql/kafka010/KafkaSinkSuite.scala",
+        "DateUpdated": "2019-09-26T07:20:04Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "c8159c7941f51caf3d420c8ad8599b869fc56a08"
+        ]
+      },
+      {
+        "Sha": "73302521b6397a8a5bfb6b59df1c72f7fa8633b9",
+        "FileName": "SQLConf.scala",
+        "Path": "sql/catalyst/src/main/scala/org/apache/spark/sql/internal/SQLConf.scala",
+        "DateUpdated": "2019-09-26T07:20:04Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c8159c7941f51caf3d420c8ad8599b869fc56a08"
+        ]
+      },
+      {
+        "Sha": "3f7016df2eb42c4671af81cd1834fc93c2478358",
+        "FileName": "DataFrameWriter.scala",
+        "Path": "sql/core/src/main/scala/org/apache/spark/sql/DataFrameWriter.scala",
+        "DateUpdated": "2019-09-26T07:20:04Z",
+        "Additions": 15,
+        "Deletions": 22,
+        "Commits": [
+          "c8159c7941f51caf3d420c8ad8599b869fc56a08"
+        ]
+      },
+      {
+        "Sha": "8e921aaeb66f9379ed50825b9449ba6312ee2d92",
+        "FileName": "DataSourceV2DataFrameSuite.scala",
+        "Path": "sql/core/src/test/scala/org/apache/spark/sql/connector/DataSourceV2DataFrameSuite.scala",
+        "DateUpdated": "2019-09-26T07:20:04Z",
+        "Additions": 9,
+        "Deletions": 6,
+        "Commits": [
+          "c8159c7941f51caf3d420c8ad8599b869fc56a08"
+        ]
+      },
+      {
+        "Sha": "138bbc3f04f649fcee29e4be5c9d5944010b6a6e",
+        "FileName": "DataSourceV2Suite.scala",
+        "Path": "sql/core/src/test/scala/org/apache/spark/sql/connector/DataSourceV2Suite.scala",
+        "DateUpdated": "2019-09-26T07:20:04Z",
+        "Additions": 8,
+        "Deletions": 4,
+        "Commits": [
+          "c8159c7941f51caf3d420c8ad8599b869fc56a08"
+        ]
+      },
+      {
+        "Sha": "b4073bedf5597aad8102bc2155408e5fd946dff8",
+        "FileName": "NoopSuite.scala",
+        "Path": "sql/core/src/test/scala/org/apache/spark/sql/execution/datasources/noop/NoopSuite.scala",
+        "DateUpdated": "2019-09-26T07:20:04Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "c8159c7941f51caf3d420c8ad8599b869fc56a08"
+        ]
+      },
+      {
+        "Sha": "cef0e5ab47568af3e435d03d92b72dd6ce8b5582",
+        "FileName": "DataFrameReaderWriterSuite.scala",
+        "Path": "sql/core/src/test/scala/org/apache/spark/sql/test/DataFrameReaderWriterSuite.scala",
+        "DateUpdated": "2019-09-26T07:20:04Z",
+        "Additions": 13,
+        "Deletions": 11,
+        "Commits": [
+          "c8159c7941f51caf3d420c8ad8599b869fc56a08"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c8159c7941f51caf3d420c8ad8599b869fc56a08",
+        "Author": {
+          "name": "\"Burak Yavuz\""
+        },
+        "Commitor": {
+          "name": "\"Wenchen Fan\"",
+          "location": "Hangzhou, China",
+          "company": "Databricks"
+        },
+        "Date": "2019-09-26T07:20:04Z",
+        "additions": 51,
+        "deletions": 45,
+        "files": [
+          "cad580ef615d62b9d47c4df48aa75b9b4f737d4a",
+          "73302521b6397a8a5bfb6b59df1c72f7fa8633b9",
+          "3f7016df2eb42c4671af81cd1834fc93c2478358",
+          "8e921aaeb66f9379ed50825b9449ba6312ee2d92",
+          "138bbc3f04f649fcee29e4be5c9d5944010b6a6e",
+          "b4073bedf5597aad8102bc2155408e5fd946dff8",
+          "cef0e5ab47568af3e435d03d92b72dd6ce8b5582"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "spark",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T12:03:24Z",
+    "EndDate": "2019-09-26T13:03:24",
+    "Branches": 19,
+    "Forks": 20129,
+    "Files": [
+      {
+        "Sha": "eafcc174509dcb3fc367331e841180de0ff66221",
+        "FileName": "Analyzer.scala",
+        "Path": "sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/analysis/Analyzer.scala",
+        "DateUpdated": "2019-09-26T13:00:27Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "a1213d5f963f6e8815bbfaff308b0a24112fff54"
+        ]
+      },
+      {
+        "Sha": "934e53703e24179d25290c5c8f094dcb037e9d52",
+        "FileName": "PostgreSQLDialect.scala",
+        "Path": "sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/analysis/PostgreSQLDialect.scala",
+        "DateUpdated": "2019-09-26T13:00:27Z",
+        "Additions": 49,
+        "Deletions": 0,
+        "Commits": [
+          "a1213d5f963f6e8815bbfaff308b0a24112fff54"
+        ]
+      },
+      {
+        "Sha": "8ab25f2dfda6f40fec126470d1a092d94a346c41",
+        "FileName": "TypeCoercion.scala",
+        "Path": "sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/analysis/TypeCoercion.scala",
+        "DateUpdated": "2019-09-26T13:00:27Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "a1213d5f963f6e8815bbfaff308b0a24112fff54"
+        ]
+      },
+      {
+        "Sha": "0e87707d01e477d5466f96b51315cccf10fbd501",
+        "FileName": "PostgreCastStringToBoolean.scala",
+        "Path": "sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/postgreSQL/PostgreCastStringToBoolean.scala",
+        "DateUpdated": "2019-09-26T13:00:27Z",
+        "Additions": 80,
+        "Deletions": 0,
+        "Commits": [
+          "a1213d5f963f6e8815bbfaff308b0a24112fff54"
+        ]
+      },
+      {
+        "Sha": "3bda9a2a1fc482f4bdafc17758381170f4c5a0d9",
+        "FileName": "StringUtils.scala",
+        "Path": "sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/util/StringUtils.scala",
+        "DateUpdated": "2019-09-26T13:00:27Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "a1213d5f963f6e8815bbfaff308b0a24112fff54"
+        ]
+      },
+      {
+        "Sha": "1ae15df29d6e7f6d59539cf63acf6b8fdca9756d",
+        "FileName": "StringUtils.scala",
+        "Path": "sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/util/postgreSQL/StringUtils.scala",
+        "DateUpdated": "2019-09-26T13:00:27Z",
+        "Additions": 33,
+        "Deletions": 0,
+        "Commits": [
+          "a1213d5f963f6e8815bbfaff308b0a24112fff54"
+        ]
+      },
+      {
+        "Sha": "431087c61ad8a05feab727005aa0fe1447b9f4bc",
+        "FileName": "SQLConf.scala",
+        "Path": "sql/catalyst/src/main/scala/org/apache/spark/sql/internal/SQLConf.scala",
+        "DateUpdated": "2019-09-26T13:00:27Z",
+        "Additions": 18,
+        "Deletions": 8,
+        "Commits": [
+          "a1213d5f963f6e8815bbfaff308b0a24112fff54"
+        ]
+      },
+      {
+        "Sha": "5d62754b1cec409eaf5ddc750d579b2c46234536",
+        "FileName": "TypeCoercionSuite.scala",
+        "Path": "sql/catalyst/src/test/scala/org/apache/spark/sql/catalyst/analysis/TypeCoercionSuite.scala",
+        "DateUpdated": "2019-09-26T13:00:27Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "a1213d5f963f6e8815bbfaff308b0a24112fff54"
+        ]
+      },
+      {
+        "Sha": "b3a53dc9fedf22f6ace7b341564ecf37a5547a01",
+        "FileName": "CastSuite.scala",
+        "Path": "sql/catalyst/src/test/scala/org/apache/spark/sql/catalyst/expressions/CastSuite.scala",
+        "DateUpdated": "2019-09-26T13:00:27Z",
+        "Additions": 7,
+        "Deletions": 19,
+        "Commits": [
+          "a1213d5f963f6e8815bbfaff308b0a24112fff54"
+        ]
+      },
+      {
+        "Sha": "175904da2196912d6fa5411f30a651e2b3c3f6ab",
+        "FileName": "CastSuite.scala",
+        "Path": "sql/catalyst/src/test/scala/org/apache/spark/sql/catalyst/expressions/postgreSQL/CastSuite.scala",
+        "DateUpdated": "2019-09-26T13:00:27Z",
+        "Additions": 59,
+        "Deletions": 0,
+        "Commits": [
+          "a1213d5f963f6e8815bbfaff308b0a24112fff54"
+        ]
+      },
+      {
+        "Sha": "1354dcfda45fe4fc0ef04452cdfddd51cddec2bc",
+        "FileName": "PostgreSQLDialectQuerySuite.scala",
+        "Path": "sql/core/src/test/scala/org/apache/spark/sql/PostgreSQLDialectQuerySuite.scala",
+        "DateUpdated": "2019-09-26T13:00:27Z",
+        "Additions": 42,
+        "Deletions": 0,
+        "Commits": [
+          "a1213d5f963f6e8815bbfaff308b0a24112fff54"
+        ]
+      },
+      {
+        "Sha": "850537185630bf1ddb73c9b6ac001e68f20c7e40",
+        "FileName": "SQLQueryTestSuite.scala",
+        "Path": "sql/core/src/test/scala/org/apache/spark/sql/SQLQueryTestSuite.scala",
+        "DateUpdated": "2019-09-26T13:00:27Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "a1213d5f963f6e8815bbfaff308b0a24112fff54"
+        ]
+      },
+      {
+        "Sha": "2d60e719dcf514fa5e4a8a479628a53f0e289b9c",
+        "FileName": "ThriftServerQueryTestSuite.scala",
+        "Path": "sql/hive-thriftserver/src/test/scala/org/apache/spark/sql/hive/thriftserver/ThriftServerQueryTestSuite.scala",
+        "DateUpdated": "2019-09-26T13:00:27Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a1213d5f963f6e8815bbfaff308b0a24112fff54"
+        ]
+      },
+      {
+        "Sha": "5d54be934114830e5a58edd8c6ce97047adcdd73",
+        "FileName": "aggregates_part1.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/postgreSQL/aggregates_part1.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "47f9d2f373069bd2f8578b3f1a58b86ec43e7a69",
+        "FileName": "aggregates_part2.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/postgreSQL/aggregates_part2.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "78fdbf6ae6cd221c67dbc32d94c4e91a9690b2db",
+        "FileName": "aggregates_part3.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/postgreSQL/aggregates_part3.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "6fa2306cf1475d9378d20d5df9d6863cf62288a5",
+        "FileName": "aggregates_part4.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/postgreSQL/aggregates_part4.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "178823bcfe9d62e101c3b2c0ee9275a1c5b62d02",
+        "FileName": "boolean.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/postgreSQL/boolean.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "6d9c44c67a96b4f2cfcb93b328a2d9a270a222d1",
+        "FileName": "case.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/postgreSQL/case.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "6725ce45e72a520a0477773389c9688d8fcb8a35",
+        "FileName": "comments.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/postgreSQL/comments.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "d3cd46e4e6b89a75d81777833c157725d5c1b378",
+        "FileName": "date.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/postgreSQL/date.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "058467695a608610f7d0270f61ea549ee47d2d66",
+        "FileName": "float4.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/postgreSQL/float4.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "957dabdebab4e6cb65a03e52be4ee9b7874fa777",
+        "FileName": "float8.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/postgreSQL/float8.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "f64ec5d75afcf7ecfe12a13cdb7434f809869d8a",
+        "FileName": "int2.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/postgreSQL/int2.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "1c2320ff7fad649a6fcb4864c34ac4d6961916f3",
+        "FileName": "int4.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/postgreSQL/int4.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "d29bf3bfad4caa93892aac0ca48047f578cdfce5",
+        "FileName": "int8.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/postgreSQL/int8.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "08f54fe0a40e58e75e48bdb615bfe606e3290c5c",
+        "FileName": "join.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/postgreSQL/join.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "c447a0dc2c7f255e64aebe7a921d814e6fb61ed3",
+        "FileName": "numeric.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/postgreSQL/numeric.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "1f83d6c41661f315965bb61d8687ef56106f1df4",
+        "FileName": "select.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/postgreSQL/select.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "5306028e5bd7b10ce0858cedfe5e49514034e73d",
+        "FileName": "select_distinct.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/postgreSQL/select_distinct.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "2edde8df08047211500db421e64e997ddcf79695",
+        "FileName": "select_having.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/postgreSQL/select_having.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "54b3083a9f4a2bc0edefdfdfc5e6687d3ac05755",
+        "FileName": "select_implicit.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/postgreSQL/select_implicit.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "05841af27dd2ea5f58ee6255603cc28318089b4a",
+        "FileName": "strings.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/postgreSQL/strings.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "7abf903bc6bee9b93fd406e86c1ca5cdd9ad0256",
+        "FileName": "text.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/postgreSQL/text.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "92bbe14dc1e5f76c0b0d5c74e989e8868e7e8a5e",
+        "FileName": "timestamp.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/postgreSQL/timestamp.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "41d8f6eb680c465eebb1fc3308b9a4ef328603c3",
+        "FileName": "union.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/postgreSQL/union.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "83c6fd8cbac914c68697d58d621eacca28d101cd",
+        "FileName": "with.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/postgreSQL/with.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "24bc25a3fd1c585e90cbe63a3821dc113f4649f4",
+        "FileName": "udf-aggregates_part1.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/udf/postgreSQL/udf-aggregates_part1.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "a86bb0b47487b6551fcb04818d35b805a3fcc5a6",
+        "FileName": "udf-aggregates_part2.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/udf/postgreSQL/udf-aggregates_part2.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "231c5235b313ad80e7d21e5b32320366cd0c34f8",
+        "FileName": "udf-aggregates_part3.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/udf/postgreSQL/udf-aggregates_part3.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "8aea00073eee832db2df8d50a7f851a86f41724f",
+        "FileName": "udf-aggregates_part4.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/udf/postgreSQL/udf-aggregates_part4.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "8fa3c0a6dfec9c20c2650c1ead5d4e6af4201ea3",
+        "FileName": "udf-case.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/udf/postgreSQL/udf-case.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "e6fe1078b0d24c8a43acc89a843211b33f7a4049",
+        "FileName": "udf-join.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/udf/postgreSQL/udf-join.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "412d45b49a18437eda56873168974633bd399bf9",
+        "FileName": "udf-select_having.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/udf/postgreSQL/udf-select_having.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "1cbd77c6cf86d4734134b8225e5bef1763015ba2",
+        "FileName": "udf-select_implicit.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/udf/postgreSQL/udf-select_implicit.sql",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "29bafb42f579ef68d3987ad7c3d885a4be805ab1",
+        "FileName": "aggregates_part1.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/postgreSQL/aggregates_part1.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "2b5371a6571965580900fe130744d29d9b0d8934",
+        "FileName": "aggregates_part2.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/postgreSQL/aggregates_part2.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "f102383cb4d8f9bdd6a576ea36d0c3328464aa08",
+        "FileName": "aggregates_part3.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/postgreSQL/aggregates_part3.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "b7bbdc50dfb4187bef82ccba679a6f94eb044e69",
+        "FileName": "aggregates_part4.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/postgreSQL/aggregates_part4.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88",
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "203806d43368a2025ed7c7f75ebdd067787f69e1",
+        "FileName": "boolean.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/postgreSQL/boolean.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "348198b060238e015330ec18b2d68bf5e0200350",
+        "FileName": "case.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/postgreSQL/case.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "5e8383e7945794334c080f41c15dbb3fe3522981",
+        "FileName": "comments.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/postgreSQL/comments.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "29fcf61bd5b785e0cdd30d82ab5bc55587e98ef3",
+        "FileName": "date.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/postgreSQL/date.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "c205f70a65f2d24ebfaede3ed35bb5b14815536a",
+        "FileName": "float4.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/postgreSQL/float4.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "9a785670fa95007f2870acd9f11dd1e13e39f477",
+        "FileName": "float8.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/postgreSQL/float8.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "569d137891dd36445967dab2d56b0b20c5dd83e6",
+        "FileName": "int2.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/postgreSQL/int2.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "52221d58392f019121a90211005f9ba0175914cd",
+        "FileName": "int4.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/postgreSQL/int4.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "20bb5dbda645ffddfbd1ad2dacfdefda012a46e0",
+        "FileName": "int8.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/postgreSQL/int8.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "f75fe0519645bd9670ae9a1d0143f333a9c53b98",
+        "FileName": "join.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/postgreSQL/join.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "ed649feaaebb26ce2d519a0a85e9a5f016093de1",
+        "FileName": "numeric.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/postgreSQL/numeric.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "e54de1d6fdbdc485dcf1c7f8450167a62f8f6169",
+        "FileName": "select.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/postgreSQL/select.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "38eae1739f553d8040392bab7273136b599af59f",
+        "FileName": "select_distinct.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/postgreSQL/select_distinct.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "02536ebd8ebea8ae47567b0aa8881e4e60b955d4",
+        "FileName": "select_having.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/postgreSQL/select_having.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "0675820b381dae6658dfd433344cefc2c2765b42",
+        "FileName": "select_implicit.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/postgreSQL/select_implicit.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "1e4e6e5021de8774840d1e89a39578535c072085",
+        "FileName": "strings.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/postgreSQL/strings.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "2e1d639974ec66fad8db484f0499ecbdd5a63bea",
+        "FileName": "text.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/postgreSQL/text.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "db17ee46c6829fd1d089dc20ca02841a29999285",
+        "FileName": "timestamp.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/postgreSQL/timestamp.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "05dedc547086e579c6503b73b5c475bc2b819aeb",
+        "FileName": "union.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/postgreSQL/union.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "91b0ff20b6ab0595baaf1468041ef59742da46a1",
+        "FileName": "with.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/postgreSQL/with.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "a2f64717d73a1622a9a009755c60b06da0fcacf4",
+        "FileName": "udf-aggregates_part1.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/udf/postgreSQL/udf-aggregates_part1.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "ad2f1bdf77d7a7e2127497455714e2e4d2c42dda",
+        "FileName": "udf-aggregates_part2.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/udf/postgreSQL/udf-aggregates_part2.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "eff33f280cff45bc95c1ce535ebf5a1febf06fb4",
+        "FileName": "udf-aggregates_part3.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/udf/postgreSQL/udf-aggregates_part3.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "44a764ce4e6dda581395f102d327b8f7e9c5abeb",
+        "FileName": "udf-case.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/udf/postgreSQL/udf-case.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "6fcff129d756812e6ba9e0d7b718b06ee24bd12b",
+        "FileName": "udf-join.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/udf/postgreSQL/udf-join.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "f731d11c6d3da53feb6ac4147df250a03fca6a09",
+        "FileName": "udf-select_having.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/udf/postgreSQL/udf-select_having.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "a60cbf33b9b24af9d9dc176b25fd85bdb76812d8",
+        "FileName": "udf-select_implicit.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/udf/postgreSQL/udf-select_implicit.sql.out",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "cc7c9839ed101878814a5eeac293d5348635a79e",
+        "FileName": "SQLQueryTestSuite.scala",
+        "Path": "sql/core/src/test/scala/org/apache/spark/sql/SQLQueryTestSuite.scala",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      },
+      {
+        "Sha": "f82391e011accee41909dbcc310725fc689544f9",
+        "FileName": "ThriftServerQueryTestSuite.scala",
+        "Path": "sql/hive-thriftserver/src/test/scala/org/apache/spark/sql/hive/thriftserver/ThriftServerQueryTestSuite.scala",
+        "DateUpdated": "2019-09-26T12:36:15Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "66c9dc316ac89108bd78086df3d3bc5f60d9bb88"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a1213d5f963f6e8815bbfaff308b0a24112fff54",
+        "Author": {
+          "name": "\"Gengliang Wang\""
+        },
+        "Commitor": {
+          "name": "\"Wenchen Fan\"",
+          "location": "Hangzhou, China",
+          "company": "Databricks"
+        },
+        "Date": "2019-09-26T13:00:27Z",
+        "additions": 302,
+        "deletions": 40,
+        "files": [
+          "eafcc174509dcb3fc367331e841180de0ff66221",
+          "934e53703e24179d25290c5c8f094dcb037e9d52",
+          "8ab25f2dfda6f40fec126470d1a092d94a346c41",
+          "0e87707d01e477d5466f96b51315cccf10fbd501",
+          "3bda9a2a1fc482f4bdafc17758381170f4c5a0d9",
+          "1ae15df29d6e7f6d59539cf63acf6b8fdca9756d",
+          "431087c61ad8a05feab727005aa0fe1447b9f4bc",
+          "5d62754b1cec409eaf5ddc750d579b2c46234536",
+          "b3a53dc9fedf22f6ace7b341564ecf37a5547a01",
+          "175904da2196912d6fa5411f30a651e2b3c3f6ab",
+          "1354dcfda45fe4fc0ef04452cdfddd51cddec2bc",
+          "850537185630bf1ddb73c9b6ac001e68f20c7e40",
+          "2d60e719dcf514fa5e4a8a479628a53f0e289b9c"
+        ]
+      },
+      {
+        "sha": "66c9dc316ac89108bd78086df3d3bc5f60d9bb88",
+        "Author": {
+          "name": "\"Gengliang Wang\""
+        },
+        "Commitor": {
+          "name": "\"Yuming Wang\"",
+          "location": "Shanghai, China",
+          "company": "@eBay @Apache"
+        },
+        "Date": "2019-09-26T12:36:15Z",
+        "additions": 15,
+        "deletions": 15,
+        "files": [
+          "5d54be934114830e5a58edd8c6ce97047adcdd73",
+          "47f9d2f373069bd2f8578b3f1a58b86ec43e7a69",
+          "78fdbf6ae6cd221c67dbc32d94c4e91a9690b2db",
+          "6fa2306cf1475d9378d20d5df9d6863cf62288a5",
+          "178823bcfe9d62e101c3b2c0ee9275a1c5b62d02",
+          "6d9c44c67a96b4f2cfcb93b328a2d9a270a222d1",
+          "6725ce45e72a520a0477773389c9688d8fcb8a35",
+          "d3cd46e4e6b89a75d81777833c157725d5c1b378",
+          "058467695a608610f7d0270f61ea549ee47d2d66",
+          "957dabdebab4e6cb65a03e52be4ee9b7874fa777",
+          "f64ec5d75afcf7ecfe12a13cdb7434f809869d8a",
+          "1c2320ff7fad649a6fcb4864c34ac4d6961916f3",
+          "d29bf3bfad4caa93892aac0ca48047f578cdfce5",
+          "08f54fe0a40e58e75e48bdb615bfe606e3290c5c",
+          "c447a0dc2c7f255e64aebe7a921d814e6fb61ed3",
+          "1f83d6c41661f315965bb61d8687ef56106f1df4",
+          "5306028e5bd7b10ce0858cedfe5e49514034e73d",
+          "2edde8df08047211500db421e64e997ddcf79695",
+          "54b3083a9f4a2bc0edefdfdfc5e6687d3ac05755",
+          "05841af27dd2ea5f58ee6255603cc28318089b4a",
+          "7abf903bc6bee9b93fd406e86c1ca5cdd9ad0256",
+          "92bbe14dc1e5f76c0b0d5c74e989e8868e7e8a5e",
+          "41d8f6eb680c465eebb1fc3308b9a4ef328603c3",
+          "83c6fd8cbac914c68697d58d621eacca28d101cd",
+          "24bc25a3fd1c585e90cbe63a3821dc113f4649f4",
+          "a86bb0b47487b6551fcb04818d35b805a3fcc5a6",
+          "231c5235b313ad80e7d21e5b32320366cd0c34f8",
+          "8aea00073eee832db2df8d50a7f851a86f41724f",
+          "8fa3c0a6dfec9c20c2650c1ead5d4e6af4201ea3",
+          "e6fe1078b0d24c8a43acc89a843211b33f7a4049",
+          "412d45b49a18437eda56873168974633bd399bf9",
+          "1cbd77c6cf86d4734134b8225e5bef1763015ba2",
+          "29bafb42f579ef68d3987ad7c3d885a4be805ab1",
+          "2b5371a6571965580900fe130744d29d9b0d8934",
+          "f102383cb4d8f9bdd6a576ea36d0c3328464aa08",
+          "b7bbdc50dfb4187bef82ccba679a6f94eb044e69",
+          "203806d43368a2025ed7c7f75ebdd067787f69e1",
+          "348198b060238e015330ec18b2d68bf5e0200350",
+          "5e8383e7945794334c080f41c15dbb3fe3522981",
+          "29fcf61bd5b785e0cdd30d82ab5bc55587e98ef3",
+          "c205f70a65f2d24ebfaede3ed35bb5b14815536a",
+          "9a785670fa95007f2870acd9f11dd1e13e39f477",
+          "569d137891dd36445967dab2d56b0b20c5dd83e6",
+          "52221d58392f019121a90211005f9ba0175914cd",
+          "20bb5dbda645ffddfbd1ad2dacfdefda012a46e0",
+          "f75fe0519645bd9670ae9a1d0143f333a9c53b98",
+          "ed649feaaebb26ce2d519a0a85e9a5f016093de1",
+          "e54de1d6fdbdc485dcf1c7f8450167a62f8f6169",
+          "38eae1739f553d8040392bab7273136b599af59f",
+          "02536ebd8ebea8ae47567b0aa8881e4e60b955d4",
+          "0675820b381dae6658dfd433344cefc2c2765b42",
+          "1e4e6e5021de8774840d1e89a39578535c072085",
+          "2e1d639974ec66fad8db484f0499ecbdd5a63bea",
+          "db17ee46c6829fd1d089dc20ca02841a29999285",
+          "05dedc547086e579c6503b73b5c475bc2b819aeb",
+          "91b0ff20b6ab0595baaf1468041ef59742da46a1",
+          "a2f64717d73a1622a9a009755c60b06da0fcacf4",
+          "ad2f1bdf77d7a7e2127497455714e2e4d2c42dda",
+          "eff33f280cff45bc95c1ce535ebf5a1febf06fb4",
+          "b7bbdc50dfb4187bef82ccba679a6f94eb044e69",
+          "44a764ce4e6dda581395f102d327b8f7e9c5abeb",
+          "6fcff129d756812e6ba9e0d7b718b06ee24bd12b",
+          "f731d11c6d3da53feb6ac4147df250a03fca6a09",
+          "a60cbf33b9b24af9d9dc176b25fd85bdb76812d8",
+          "cc7c9839ed101878814a5eeac293d5348635a79e",
+          "f82391e011accee41909dbcc310725fc689544f9"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "spark",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T13:03:31Z",
+    "EndDate": "2019-09-26T14:03:31",
+    "Branches": 19,
+    "Forks": 20130,
+    "Files": [
+      {
+        "Sha": "13f848eff88db694d66d55fe420e0fe0c17296d5",
+        "FileName": "building-spark.md",
+        "Path": "docs/building-spark.md",
+        "DateUpdated": "2019-09-26T13:23:43Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "8beb736a00b004f97de7fcdf9ff09388d80fc548"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "8beb736a00b004f97de7fcdf9ff09388d80fc548",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Sean Owen\"",
+          "location": "Austin, TX",
+          "company": "@databricks "
+        },
+        "Date": "2019-09-26T13:23:43Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "13f848eff88db694d66d55fe420e0fe0c17296d5"
+        ]
+      }
+    ]
+  }
+]

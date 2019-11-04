@@ -1,0 +1,1141 @@
+[
+  {
+    "RepositoryName": "kafka",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T03:46:20Z",
+    "EndDate": "2019-09-24T04:46:20",
+    "Branches": 20,
+    "Forks": 7242,
+    "Files": [],
+    "Commits": [
+      {
+        "sha": "bc4fd676e5ea0e3cf44a8684dca0db46f912c828",
+        "Author": {
+          "name": "\"khairy\""
+        },
+        "Commitor": {
+          "name": "\"Matthias J. Sax\"",
+          "location": "SF Bay Area, CA",
+          "company": "@confluentinc "
+        },
+        "Date": "2019-09-24T04:04:26Z",
+        "additions": 0,
+        "deletions": 0,
+        "files": []
+      }
+    ]
+  },
+  {
+    "RepositoryName": "kafka",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T08:46:31Z",
+    "EndDate": "2019-09-24T09:46:31",
+    "Branches": 20,
+    "Forks": 7244,
+    "Files": [
+      {
+        "Sha": "4256bbc21f0bc25ae3fe0d5154b401f6bc279fa1",
+        "FileName": "kafka.py",
+        "Path": "tests/kafkatest/services/kafka/kafka.py",
+        "DateUpdated": "2019-09-24T09:30:17Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "0d31272b350adf40bda09709304721545553d7f8"
+        ]
+      },
+      {
+        "Sha": "b4c92fe5f508ad50669595c801598053a04ec52c",
+        "FileName": "security_rolling_upgrade_test.py",
+        "Path": "tests/kafkatest/tests/core/security_rolling_upgrade_test.py",
+        "DateUpdated": "2019-09-24T09:30:17Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "0d31272b350adf40bda09709304721545553d7f8"
+        ]
+      },
+      {
+        "Sha": "d44bd4fd8f62df3c66ab3e6411739349688b16fc",
+        "FileName": "zookeeper_security_upgrade_test.py",
+        "Path": "tests/kafkatest/tests/core/zookeeper_security_upgrade_test.py",
+        "DateUpdated": "2019-09-24T09:30:17Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0d31272b350adf40bda09709304721545553d7f8"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "0d31272b350adf40bda09709304721545553d7f8",
+        "Author": {
+          "name": "\"Rajini Sivaram\"",
+          "location": "UK",
+          "company": "Confluent"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T09:30:17Z",
+        "additions": 7,
+        "deletions": 5,
+        "files": [
+          "4256bbc21f0bc25ae3fe0d5154b401f6bc279fa1",
+          "b4c92fe5f508ad50669595c801598053a04ec52c",
+          "d44bd4fd8f62df3c66ab3e6411739349688b16fc"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "kafka",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T19:46:40Z",
+    "EndDate": "2019-09-24T20:46:40",
+    "Branches": 20,
+    "Forks": 7246,
+    "Files": [
+      {
+        "Sha": "e90caae3667d8d445f865ac4313007d8935c1160",
+        "FileName": "KafkaStreams.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/KafkaStreams.java",
+        "DateUpdated": "2019-09-24T20:29:08Z",
+        "Additions": 50,
+        "Deletions": 22,
+        "Commits": [
+          "ad3b8437fd9ecc18fcfa8204e43be9bccb1a6548"
+        ]
+      },
+      {
+        "Sha": "5248aa4f8ab9c6670957aa47e5351c39f9a5550f",
+        "FileName": "GlobalStreamThread.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/GlobalStreamThread.java",
+        "DateUpdated": "2019-09-24T20:29:08Z",
+        "Additions": 5,
+        "Deletions": 2,
+        "Commits": [
+          "ad3b8437fd9ecc18fcfa8204e43be9bccb1a6548"
+        ]
+      },
+      {
+        "Sha": "b11b05c30f66118f32100a0e8c8a09589e31e090",
+        "FileName": "StreamThread.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/StreamThread.java",
+        "DateUpdated": "2019-09-24T20:29:08Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "ad3b8437fd9ecc18fcfa8204e43be9bccb1a6548"
+        ]
+      },
+      {
+        "Sha": "0341ab768cdc8522e031b524267273cb16e26fe6",
+        "FileName": "StreamsMetricsImpl.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/metrics/StreamsMetricsImpl.java",
+        "DateUpdated": "2019-09-24T20:29:08Z",
+        "Additions": 29,
+        "Deletions": 1,
+        "Commits": [
+          "ad3b8437fd9ecc18fcfa8204e43be9bccb1a6548"
+        ]
+      },
+      {
+        "Sha": "01510c14790a52a125ec17e22fe710c5e474564a",
+        "FileName": "KeyValueSegments.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/state/internals/KeyValueSegments.java",
+        "DateUpdated": "2019-09-24T20:29:08Z",
+        "Additions": 1,
+        "Deletions": 7,
+        "Commits": [
+          "ad3b8437fd9ecc18fcfa8204e43be9bccb1a6548"
+        ]
+      },
+      {
+        "Sha": "74ccd04becfb3b21c258033d76c468bb4d13c7a4",
+        "FileName": "RocksDBStore.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/state/internals/RocksDBStore.java",
+        "DateUpdated": "2019-09-24T20:29:08Z",
+        "Additions": 13,
+        "Deletions": 21,
+        "Commits": [
+          "ad3b8437fd9ecc18fcfa8204e43be9bccb1a6548"
+        ]
+      },
+      {
+        "Sha": "6545de0f691fcfbf1f2540e9b53031fc2e8525f6",
+        "FileName": "TimestampedSegments.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/state/internals/TimestampedSegments.java",
+        "DateUpdated": "2019-09-24T20:29:08Z",
+        "Additions": 0,
+        "Deletions": 6,
+        "Commits": [
+          "ad3b8437fd9ecc18fcfa8204e43be9bccb1a6548"
+        ]
+      },
+      {
+        "Sha": "04da4bc53ab7b53d1bf3ef06f2c4092c8c2674a4",
+        "FileName": "RocksDBMetrics.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/state/internals/metrics/RocksDBMetrics.java",
+        "DateUpdated": "2019-09-24T20:29:08Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "ad3b8437fd9ecc18fcfa8204e43be9bccb1a6548"
+        ]
+      },
+      {
+        "Sha": "de2a37c07bec15c0eb5d32b98080bd271686c17c",
+        "FileName": "RocksDBMetricsRecorder.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/state/internals/metrics/RocksDBMetricsRecorder.java",
+        "DateUpdated": "2019-09-24T20:29:08Z",
+        "Additions": 120,
+        "Deletions": 62,
+        "Commits": [
+          "ad3b8437fd9ecc18fcfa8204e43be9bccb1a6548"
+        ]
+      },
+      {
+        "Sha": "ce4c01af6fcb6bcda39ce86cd54872256727c06d",
+        "FileName": "RocksDBMetricsRecordingTrigger.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/state/internals/metrics/RocksDBMetricsRecordingTrigger.java",
+        "DateUpdated": "2019-09-24T20:29:08Z",
+        "Additions": 56,
+        "Deletions": 0,
+        "Commits": [
+          "ad3b8437fd9ecc18fcfa8204e43be9bccb1a6548"
+        ]
+      },
+      {
+        "Sha": "88659c3559886b5deff48b74c55898f4681b0fff",
+        "FileName": "MetricsIntegrationTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/integration/MetricsIntegrationTest.java",
+        "DateUpdated": "2019-09-24T20:29:08Z",
+        "Additions": 1,
+        "Deletions": 7,
+        "Commits": [
+          "ad3b8437fd9ecc18fcfa8204e43be9bccb1a6548"
+        ]
+      },
+      {
+        "Sha": "ce08a6ac83e21cf82b8dfb8b78e4d150cb6c64c7",
+        "FileName": "GlobalStreamThreadTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/processor/internals/GlobalStreamThreadTest.java",
+        "DateUpdated": "2019-09-24T20:29:08Z",
+        "Additions": 24,
+        "Deletions": 18,
+        "Commits": [
+          "ad3b8437fd9ecc18fcfa8204e43be9bccb1a6548"
+        ]
+      },
+      {
+        "Sha": "2f293819bc533a87a44660b70ad2c43afa8dc6b7",
+        "FileName": "StreamThreadTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/processor/internals/StreamThreadTest.java",
+        "DateUpdated": "2019-09-24T20:29:08Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "ad3b8437fd9ecc18fcfa8204e43be9bccb1a6548"
+        ]
+      },
+      {
+        "Sha": "e3b7274df1d4b11ab1e6787f617b28cdfa5d851e",
+        "FileName": "RocksDBStoreTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/state/internals/RocksDBStoreTest.java",
+        "DateUpdated": "2019-09-24T20:29:08Z",
+        "Additions": 99,
+        "Deletions": 43,
+        "Commits": [
+          "ad3b8437fd9ecc18fcfa8204e43be9bccb1a6548"
+        ]
+      },
+      {
+        "Sha": "2e305dd406b25425cc84ac0a0e2509708d96cb34",
+        "FileName": "SegmentIteratorTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/state/internals/SegmentIteratorTest.java",
+        "DateUpdated": "2019-09-24T20:29:08Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "ad3b8437fd9ecc18fcfa8204e43be9bccb1a6548"
+        ]
+      },
+      {
+        "Sha": "9bef2cc3b6f6b3810c1f97d71ec09bb2b76caac6",
+        "FileName": "RocksDBMetricsRecorderTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/state/internals/metrics/RocksDBMetricsRecorderTest.java",
+        "DateUpdated": "2019-09-24T20:29:08Z",
+        "Additions": 264,
+        "Deletions": 51,
+        "Commits": [
+          "ad3b8437fd9ecc18fcfa8204e43be9bccb1a6548"
+        ]
+      },
+      {
+        "Sha": "c341055f3976f35c2b892799462f61e645fe0133",
+        "FileName": "RocksDBMetricsRecordingTriggerTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/state/internals/metrics/RocksDBMetricsRecordingTriggerTest.java",
+        "DateUpdated": "2019-09-24T20:29:08Z",
+        "Additions": 87,
+        "Deletions": 0,
+        "Commits": [
+          "ad3b8437fd9ecc18fcfa8204e43be9bccb1a6548"
+        ]
+      },
+      {
+        "Sha": "aae7afeeb7e21ff7072a38f36a51bfc1542ec2e2",
+        "FileName": "RocksDBMetricsTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/state/internals/metrics/RocksDBMetricsTest.java",
+        "DateUpdated": "2019-09-24T20:29:08Z",
+        "Additions": 17,
+        "Deletions": 5,
+        "Commits": [
+          "ad3b8437fd9ecc18fcfa8204e43be9bccb1a6548"
+        ]
+      },
+      {
+        "Sha": "f5cb014550a99b2edbd1615f37330e42c92c6603",
+        "FileName": "InternalMockProcessorContext.java",
+        "Path": "streams/src/test/java/org/apache/kafka/test/InternalMockProcessorContext.java",
+        "DateUpdated": "2019-09-24T20:29:08Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "ad3b8437fd9ecc18fcfa8204e43be9bccb1a6548"
+        ]
+      },
+      {
+        "Sha": "a0ca6b2cad2d4249ee53ae10a150001f824e9dec",
+        "FileName": "TopologyTestDriver.java",
+        "Path": "streams/test-utils/src/main/java/org/apache/kafka/streams/TopologyTestDriver.java",
+        "DateUpdated": "2019-09-24T20:29:08Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "ad3b8437fd9ecc18fcfa8204e43be9bccb1a6548"
+        ]
+      },
+      {
+        "Sha": "5136d6886dd2d25297454ad5384fbd539b6dbbbb",
+        "FileName": "Consumer.java",
+        "Path": "clients/src/main/java/org/apache/kafka/clients/consumer/Consumer.java",
+        "DateUpdated": "2019-09-24T20:23:27Z",
+        "Additions": 12,
+        "Deletions": 0,
+        "Commits": [
+          "bcc023773ff0f5b68f0e808bc7c7aba457a4c472"
+        ]
+      },
+      {
+        "Sha": "7e023415dc3dd03516be42474deda697f9f671b7",
+        "FileName": "KafkaConsumer.java",
+        "Path": "clients/src/main/java/org/apache/kafka/clients/consumer/KafkaConsumer.java",
+        "DateUpdated": "2019-09-24T20:23:27Z",
+        "Additions": 74,
+        "Deletions": 6,
+        "Commits": [
+          "bcc023773ff0f5b68f0e808bc7c7aba457a4c472"
+        ]
+      },
+      {
+        "Sha": "b20ee9783fe90dcec9924bda1fc7df175374993f",
+        "FileName": "MockConsumer.java",
+        "Path": "clients/src/main/java/org/apache/kafka/clients/consumer/MockConsumer.java",
+        "DateUpdated": "2019-09-24T20:23:27Z",
+        "Additions": 21,
+        "Deletions": 7,
+        "Commits": [
+          "bcc023773ff0f5b68f0e808bc7c7aba457a4c472"
+        ]
+      },
+      {
+        "Sha": "a9c4d259aa4eabcb8b32812d57e02f1110dfa897",
+        "FileName": "KafkaConsumerTest.java",
+        "Path": "clients/src/test/java/org/apache/kafka/clients/consumer/KafkaConsumerTest.java",
+        "DateUpdated": "2019-09-24T20:23:27Z",
+        "Additions": 10,
+        "Deletions": 10,
+        "Commits": [
+          "bcc023773ff0f5b68f0e808bc7c7aba457a4c472"
+        ]
+      },
+      {
+        "Sha": "5a012b2cf67a9dfe0418523b26c0631b64662566",
+        "FileName": "MockConsumerTest.java",
+        "Path": "clients/src/test/java/org/apache/kafka/clients/consumer/MockConsumerTest.java",
+        "DateUpdated": "2019-09-24T20:23:27Z",
+        "Additions": 6,
+        "Deletions": 4,
+        "Commits": [
+          "bcc023773ff0f5b68f0e808bc7c7aba457a4c472"
+        ]
+      },
+      {
+        "Sha": "e355400fccc58fc8848ac3745d147bafbe6f688d",
+        "FileName": "ConsumerBounceTest.scala",
+        "Path": "core/src/test/scala/integration/kafka/api/ConsumerBounceTest.scala",
+        "DateUpdated": "2019-09-24T20:23:27Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "bcc023773ff0f5b68f0e808bc7c7aba457a4c472"
+        ]
+      },
+      {
+        "Sha": "62b358e6fa24df17b316a11af2666644247cb159",
+        "FileName": "PlaintextConsumerTest.scala",
+        "Path": "core/src/test/scala/integration/kafka/api/PlaintextConsumerTest.scala",
+        "DateUpdated": "2019-09-24T20:23:27Z",
+        "Additions": 23,
+        "Deletions": 23,
+        "Commits": [
+          "bcc023773ff0f5b68f0e808bc7c7aba457a4c472"
+        ]
+      },
+      {
+        "Sha": "e1bf3db4ff9ef79eacbd4afc8ec39721383a0ef0",
+        "FileName": "TransactionsTest.scala",
+        "Path": "core/src/test/scala/integration/kafka/api/TransactionsTest.scala",
+        "DateUpdated": "2019-09-24T20:23:27Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "bcc023773ff0f5b68f0e808bc7c7aba457a4c472"
+        ]
+      },
+      {
+        "Sha": "3ee83e25eeab90b3789f6473db448e15b2193921",
+        "FileName": "ConsumerGroupCommandTest.scala",
+        "Path": "core/src/test/scala/unit/kafka/admin/ConsumerGroupCommandTest.scala",
+        "DateUpdated": "2019-09-24T20:23:27Z",
+        "Additions": 5,
+        "Deletions": 9,
+        "Commits": [
+          "bcc023773ff0f5b68f0e808bc7c7aba457a4c472"
+        ]
+      },
+      {
+        "Sha": "c1951c010c53f8da36cb3611454170ade5a06d84",
+        "FileName": "TestUtils.scala",
+        "Path": "core/src/test/scala/unit/kafka/utils/TestUtils.scala",
+        "DateUpdated": "2019-09-24T20:23:27Z",
+        "Additions": 5,
+        "Deletions": 4,
+        "Commits": [
+          "bcc023773ff0f5b68f0e808bc7c7aba457a4c472"
+        ]
+      },
+      {
+        "Sha": "03a002127b7f3e98829a0c709ce203104c1b9b4c",
+        "FileName": "AbstractTask.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/AbstractTask.java",
+        "DateUpdated": "2019-09-24T20:23:27Z",
+        "Additions": 14,
+        "Deletions": 6,
+        "Commits": [
+          "bcc023773ff0f5b68f0e808bc7c7aba457a4c472"
+        ]
+      },
+      {
+        "Sha": "9f5f29fcdfe07d2126c40cca8a116f9322267a4d",
+        "FileName": "ProcessorStateManager.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/ProcessorStateManager.java",
+        "DateUpdated": "2019-09-24T20:23:27Z",
+        "Additions": 4,
+        "Deletions": 5,
+        "Commits": [
+          "bcc023773ff0f5b68f0e808bc7c7aba457a4c472"
+        ]
+      },
+      {
+        "Sha": "071b7d667bbbc10f2808187ce29c7de7ddeafec0",
+        "FileName": "StandbyTask.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/StandbyTask.java",
+        "DateUpdated": "2019-09-24T20:23:27Z",
+        "Additions": 19,
+        "Deletions": 15,
+        "Commits": [
+          "bcc023773ff0f5b68f0e808bc7c7aba457a4c472"
+        ]
+      },
+      {
+        "Sha": "ccf522813f36238912a557855b1217701a2e838d",
+        "FileName": "StreamTask.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/StreamTask.java",
+        "DateUpdated": "2019-09-24T20:23:27Z",
+        "Additions": 27,
+        "Deletions": 23,
+        "Commits": [
+          "bcc023773ff0f5b68f0e808bc7c7aba457a4c472"
+        ]
+      },
+      {
+        "Sha": "6f42fb26526e601fcb101a18120afd3445b4379f",
+        "FileName": "StandbyTaskTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/processor/internals/StandbyTaskTest.java",
+        "DateUpdated": "2019-09-24T20:23:27Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "bcc023773ff0f5b68f0e808bc7c7aba457a4c472"
+        ]
+      },
+      {
+        "Sha": "a4f529d8795f1335b76ad589344ba6be7923bbec",
+        "FileName": "StreamTaskTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/processor/internals/StreamTaskTest.java",
+        "DateUpdated": "2019-09-24T20:23:27Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "bcc023773ff0f5b68f0e808bc7c7aba457a4c472"
+        ]
+      },
+      {
+        "Sha": "cfbac1a4e4c499b080df5089f303331988505314",
+        "FileName": "TransactionalMessageCopier.java",
+        "Path": "tools/src/main/java/org/apache/kafka/tools/TransactionalMessageCopier.java",
+        "DateUpdated": "2019-09-24T20:23:27Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "bcc023773ff0f5b68f0e808bc7c7aba457a4c472"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "ad3b8437fd9ecc18fcfa8204e43be9bccb1a6548",
+        "Author": {
+          "name": "\"Bruno Cadonna\"",
+          "company": "Confluent"
+        },
+        "Commitor": {
+          "name": "\"Guozhang Wang\"",
+          "location": "San Franscisco",
+          "company": "@confluentinc "
+        },
+        "Date": "2019-09-24T20:29:08Z",
+        "additions": 782,
+        "deletions": 249,
+        "files": [
+          "e90caae3667d8d445f865ac4313007d8935c1160",
+          "5248aa4f8ab9c6670957aa47e5351c39f9a5550f",
+          "b11b05c30f66118f32100a0e8c8a09589e31e090",
+          "0341ab768cdc8522e031b524267273cb16e26fe6",
+          "01510c14790a52a125ec17e22fe710c5e474564a",
+          "74ccd04becfb3b21c258033d76c468bb4d13c7a4",
+          "6545de0f691fcfbf1f2540e9b53031fc2e8525f6",
+          "04da4bc53ab7b53d1bf3ef06f2c4092c8c2674a4",
+          "de2a37c07bec15c0eb5d32b98080bd271686c17c",
+          "ce4c01af6fcb6bcda39ce86cd54872256727c06d",
+          "88659c3559886b5deff48b74c55898f4681b0fff",
+          "ce08a6ac83e21cf82b8dfb8b78e4d150cb6c64c7",
+          "2f293819bc533a87a44660b70ad2c43afa8dc6b7",
+          "e3b7274df1d4b11ab1e6787f617b28cdfa5d851e",
+          "2e305dd406b25425cc84ac0a0e2509708d96cb34",
+          "9bef2cc3b6f6b3810c1f97d71ec09bb2b76caac6",
+          "c341055f3976f35c2b892799462f61e645fe0133",
+          "aae7afeeb7e21ff7072a38f36a51bfc1542ec2e2",
+          "f5cb014550a99b2edbd1615f37330e42c92c6603",
+          "a0ca6b2cad2d4249ee53ae10a150001f824e9dec"
+        ]
+      },
+      {
+        "sha": "bcc023773ff0f5b68f0e808bc7c7aba457a4c472",
+        "Author": {
+          "name": "\"Guozhang Wang\"",
+          "location": "San Franscisco",
+          "company": "@confluentinc "
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T20:23:27Z",
+        "additions": 235,
+        "deletions": 127,
+        "files": [
+          "5136d6886dd2d25297454ad5384fbd539b6dbbbb",
+          "7e023415dc3dd03516be42474deda697f9f671b7",
+          "b20ee9783fe90dcec9924bda1fc7df175374993f",
+          "a9c4d259aa4eabcb8b32812d57e02f1110dfa897",
+          "5a012b2cf67a9dfe0418523b26c0631b64662566",
+          "e355400fccc58fc8848ac3745d147bafbe6f688d",
+          "62b358e6fa24df17b316a11af2666644247cb159",
+          "e1bf3db4ff9ef79eacbd4afc8ec39721383a0ef0",
+          "3ee83e25eeab90b3789f6473db448e15b2193921",
+          "c1951c010c53f8da36cb3611454170ade5a06d84",
+          "03a002127b7f3e98829a0c709ce203104c1b9b4c",
+          "9f5f29fcdfe07d2126c40cca8a116f9322267a4d",
+          "071b7d667bbbc10f2808187ce29c7de7ddeafec0",
+          "ccf522813f36238912a557855b1217701a2e838d",
+          "6f42fb26526e601fcb101a18120afd3445b4379f",
+          "a4f529d8795f1335b76ad589344ba6be7923bbec",
+          "cfbac1a4e4c499b080df5089f303331988505314"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "kafka",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T21:46:00Z",
+    "EndDate": "2019-09-24T22:46:00",
+    "Branches": 20,
+    "Forks": 7246,
+    "Files": [
+      {
+        "Sha": "ec2ce39a2d9be60e89c523f040ab6a376d75a5ab",
+        "FileName": "ConsumerRebalanceListener.java",
+        "Path": "clients/src/main/java/org/apache/kafka/clients/consumer/ConsumerRebalanceListener.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 9,
+        "Deletions": 7,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "b5b5ce291292e0f1f6e1b89c279c8081ba09e535",
+        "FileName": "ConsumerCoordinator.java",
+        "Path": "clients/src/main/java/org/apache/kafka/clients/consumer/internals/ConsumerCoordinator.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 31,
+        "Deletions": 43,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "a405c6f0833682c86bbf7e822184056a8a21b6ef",
+        "FileName": "KafkaStreams.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/KafkaStreams.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 9,
+        "Deletions": 6,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "cfedee572f508856e92af001bae819a7c985da77",
+        "FileName": "StreamsConfig.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/StreamsConfig.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 39,
+        "Deletions": 4,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "9783970d4078843e03176667220afeca4b0fc047",
+        "FileName": "AssignedStandbyTasks.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/AssignedStandbyTasks.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 42,
+        "Deletions": 0,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "da0fc209391060665134cf9de672e3d8267b2289",
+        "FileName": "AssignedStreamsTasks.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/AssignedStreamsTasks.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 274,
+        "Deletions": 19,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "21f700bb6f5d8478e1015357999378ce97bb6883",
+        "FileName": "AssignedTasks.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/AssignedTasks.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 12,
+        "Deletions": 125,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "782be15b90f98c2ea7b1816a9651f95b5553b764",
+        "FileName": "ChangelogReader.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/ChangelogReader.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 13,
+        "Deletions": 2,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "6c6a1c4d12e7521ede9cb18e10d430799465d5c3",
+        "FileName": "StoreChangelogReader.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/StoreChangelogReader.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 16,
+        "Deletions": 8,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "e33c88724b0d05be1ac2da448ef64b372bfd7bb2",
+        "FileName": "StreamThread.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/StreamThread.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 61,
+        "Deletions": 153,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "b207e1de394580bb577e0fe64946af1ed6a0f4da",
+        "FileName": "StreamsPartitionAssignor.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/StreamsPartitionAssignor.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 28,
+        "Deletions": 11,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "17563fd460e483e58fe61554f14fae2b63eb4cfc",
+        "FileName": "StreamsRebalanceListener.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/StreamsRebalanceListener.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 169,
+        "Deletions": 0,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "0a7acf3336c841233d0c65ba8254704b0fa9e95c",
+        "FileName": "TaskManager.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/TaskManager.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 200,
+        "Deletions": 97,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "080c6145f663accf2eb80e64d0b6f4b856d7905a",
+        "FileName": "AssignorConfiguration.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/assignment/AssignorConfiguration.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 24,
+        "Deletions": 0,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "6cecb5691897a8b7faee13133fbabb1982f359a2",
+        "FileName": "RegexSourceIntegrationTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/integration/RegexSourceIntegrationTest.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "94808b8043a7579db0006bd8c8e297d8ff2d6d0a",
+        "FileName": "AssignedStreamsTasksTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/processor/internals/AssignedStreamsTasksTest.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 26,
+        "Deletions": 10,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "9cc51cedb30466e936dfb757910524826069bfaf",
+        "FileName": "MockChangelogReader.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/processor/internals/MockChangelogReader.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 9,
+        "Deletions": 1,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "3339080a90f353bee330967156793d34521b4647",
+        "FileName": "StreamThreadTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/processor/internals/StreamThreadTest.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 50,
+        "Deletions": 16,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "2bc465b50099f155b255ce538a883c9dac7d2eaa",
+        "FileName": "StreamsPartitionAssignorTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/processor/internals/StreamsPartitionAssignorTest.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "020ee363c05fc633c360ae9c9d19a896f2469aea",
+        "FileName": "TaskManagerTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/processor/internals/TaskManagerTest.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 64,
+        "Deletions": 50,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "de5311cef92d3ce3dc7131d090855dfe31046ed5",
+        "FileName": "StreamsUpgradeTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/tests/StreamsUpgradeTest.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 5,
+        "Deletions": 2,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "74f8ae13034d90800da5573666dea3bea5d702ce",
+        "Author": {
+          "name": "\"A. Sophie Blee-Goldman\""
+        },
+        "Commitor": {
+          "name": "\"Guozhang Wang\"",
+          "location": "San Franscisco",
+          "company": "@confluentinc "
+        },
+        "Date": "2019-09-24T22:33:03Z",
+        "additions": 1085,
+        "deletions": 556,
+        "files": [
+          "ec2ce39a2d9be60e89c523f040ab6a376d75a5ab",
+          "b5b5ce291292e0f1f6e1b89c279c8081ba09e535",
+          "a405c6f0833682c86bbf7e822184056a8a21b6ef",
+          "cfedee572f508856e92af001bae819a7c985da77",
+          "9783970d4078843e03176667220afeca4b0fc047",
+          "da0fc209391060665134cf9de672e3d8267b2289",
+          "21f700bb6f5d8478e1015357999378ce97bb6883",
+          "782be15b90f98c2ea7b1816a9651f95b5553b764",
+          "6c6a1c4d12e7521ede9cb18e10d430799465d5c3",
+          "e33c88724b0d05be1ac2da448ef64b372bfd7bb2",
+          "b207e1de394580bb577e0fe64946af1ed6a0f4da",
+          "17563fd460e483e58fe61554f14fae2b63eb4cfc",
+          "0a7acf3336c841233d0c65ba8254704b0fa9e95c",
+          "080c6145f663accf2eb80e64d0b6f4b856d7905a",
+          "6cecb5691897a8b7faee13133fbabb1982f359a2",
+          "94808b8043a7579db0006bd8c8e297d8ff2d6d0a",
+          "9cc51cedb30466e936dfb757910524826069bfaf",
+          "3339080a90f353bee330967156793d34521b4647",
+          "2bc465b50099f155b255ce538a883c9dac7d2eaa",
+          "020ee363c05fc633c360ae9c9d19a896f2469aea",
+          "de5311cef92d3ce3dc7131d090855dfe31046ed5"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "kafka",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T22:02:31Z",
+    "EndDate": "2019-09-24T23:02:31",
+    "Branches": 20,
+    "Forks": 7246,
+    "Files": [
+      {
+        "Sha": "ec2ce39a2d9be60e89c523f040ab6a376d75a5ab",
+        "FileName": "ConsumerRebalanceListener.java",
+        "Path": "clients/src/main/java/org/apache/kafka/clients/consumer/ConsumerRebalanceListener.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 9,
+        "Deletions": 7,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "b5b5ce291292e0f1f6e1b89c279c8081ba09e535",
+        "FileName": "ConsumerCoordinator.java",
+        "Path": "clients/src/main/java/org/apache/kafka/clients/consumer/internals/ConsumerCoordinator.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 31,
+        "Deletions": 43,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "a405c6f0833682c86bbf7e822184056a8a21b6ef",
+        "FileName": "KafkaStreams.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/KafkaStreams.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 9,
+        "Deletions": 6,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "cfedee572f508856e92af001bae819a7c985da77",
+        "FileName": "StreamsConfig.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/StreamsConfig.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 39,
+        "Deletions": 4,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "9783970d4078843e03176667220afeca4b0fc047",
+        "FileName": "AssignedStandbyTasks.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/AssignedStandbyTasks.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 42,
+        "Deletions": 0,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "da0fc209391060665134cf9de672e3d8267b2289",
+        "FileName": "AssignedStreamsTasks.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/AssignedStreamsTasks.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 274,
+        "Deletions": 19,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "21f700bb6f5d8478e1015357999378ce97bb6883",
+        "FileName": "AssignedTasks.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/AssignedTasks.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 12,
+        "Deletions": 125,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "782be15b90f98c2ea7b1816a9651f95b5553b764",
+        "FileName": "ChangelogReader.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/ChangelogReader.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 13,
+        "Deletions": 2,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "6c6a1c4d12e7521ede9cb18e10d430799465d5c3",
+        "FileName": "StoreChangelogReader.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/StoreChangelogReader.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 16,
+        "Deletions": 8,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "e33c88724b0d05be1ac2da448ef64b372bfd7bb2",
+        "FileName": "StreamThread.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/StreamThread.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 61,
+        "Deletions": 153,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "b207e1de394580bb577e0fe64946af1ed6a0f4da",
+        "FileName": "StreamsPartitionAssignor.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/StreamsPartitionAssignor.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 28,
+        "Deletions": 11,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "17563fd460e483e58fe61554f14fae2b63eb4cfc",
+        "FileName": "StreamsRebalanceListener.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/StreamsRebalanceListener.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 169,
+        "Deletions": 0,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "0a7acf3336c841233d0c65ba8254704b0fa9e95c",
+        "FileName": "TaskManager.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/TaskManager.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 200,
+        "Deletions": 97,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "080c6145f663accf2eb80e64d0b6f4b856d7905a",
+        "FileName": "AssignorConfiguration.java",
+        "Path": "streams/src/main/java/org/apache/kafka/streams/processor/internals/assignment/AssignorConfiguration.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 24,
+        "Deletions": 0,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "6cecb5691897a8b7faee13133fbabb1982f359a2",
+        "FileName": "RegexSourceIntegrationTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/integration/RegexSourceIntegrationTest.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "94808b8043a7579db0006bd8c8e297d8ff2d6d0a",
+        "FileName": "AssignedStreamsTasksTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/processor/internals/AssignedStreamsTasksTest.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 26,
+        "Deletions": 10,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "9cc51cedb30466e936dfb757910524826069bfaf",
+        "FileName": "MockChangelogReader.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/processor/internals/MockChangelogReader.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 9,
+        "Deletions": 1,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "3339080a90f353bee330967156793d34521b4647",
+        "FileName": "StreamThreadTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/processor/internals/StreamThreadTest.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 50,
+        "Deletions": 16,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "2bc465b50099f155b255ce538a883c9dac7d2eaa",
+        "FileName": "StreamsPartitionAssignorTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/processor/internals/StreamsPartitionAssignorTest.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "020ee363c05fc633c360ae9c9d19a896f2469aea",
+        "FileName": "TaskManagerTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/processor/internals/TaskManagerTest.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 64,
+        "Deletions": 50,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      },
+      {
+        "Sha": "de5311cef92d3ce3dc7131d090855dfe31046ed5",
+        "FileName": "StreamsUpgradeTest.java",
+        "Path": "streams/src/test/java/org/apache/kafka/streams/tests/StreamsUpgradeTest.java",
+        "DateUpdated": "2019-09-24T22:33:03Z",
+        "Additions": 5,
+        "Deletions": 2,
+        "Commits": [
+          "74f8ae13034d90800da5573666dea3bea5d702ce"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "74f8ae13034d90800da5573666dea3bea5d702ce",
+        "Author": {
+          "name": "\"A. Sophie Blee-Goldman\""
+        },
+        "Commitor": {
+          "name": "\"Guozhang Wang\"",
+          "location": "San Franscisco",
+          "company": "@confluentinc "
+        },
+        "Date": "2019-09-24T22:33:03Z",
+        "additions": 1085,
+        "deletions": 556,
+        "files": [
+          "ec2ce39a2d9be60e89c523f040ab6a376d75a5ab",
+          "b5b5ce291292e0f1f6e1b89c279c8081ba09e535",
+          "a405c6f0833682c86bbf7e822184056a8a21b6ef",
+          "cfedee572f508856e92af001bae819a7c985da77",
+          "9783970d4078843e03176667220afeca4b0fc047",
+          "da0fc209391060665134cf9de672e3d8267b2289",
+          "21f700bb6f5d8478e1015357999378ce97bb6883",
+          "782be15b90f98c2ea7b1816a9651f95b5553b764",
+          "6c6a1c4d12e7521ede9cb18e10d430799465d5c3",
+          "e33c88724b0d05be1ac2da448ef64b372bfd7bb2",
+          "b207e1de394580bb577e0fe64946af1ed6a0f4da",
+          "17563fd460e483e58fe61554f14fae2b63eb4cfc",
+          "0a7acf3336c841233d0c65ba8254704b0fa9e95c",
+          "080c6145f663accf2eb80e64d0b6f4b856d7905a",
+          "6cecb5691897a8b7faee13133fbabb1982f359a2",
+          "94808b8043a7579db0006bd8c8e297d8ff2d6d0a",
+          "9cc51cedb30466e936dfb757910524826069bfaf",
+          "3339080a90f353bee330967156793d34521b4647",
+          "2bc465b50099f155b255ce538a883c9dac7d2eaa",
+          "020ee363c05fc633c360ae9c9d19a896f2469aea",
+          "de5311cef92d3ce3dc7131d090855dfe31046ed5"
+        ]
+      }
+    ]
+  }
+]

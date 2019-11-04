@@ -1,0 +1,88 @@
+[
+  {
+    "RepositoryName": "incubator-echarts",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T06:02:36Z",
+    "EndDate": "2019-09-25T07:02:36",
+    "Branches": 10,
+    "Forks": 11301,
+    "Files": [
+      {
+        "Sha": "aff8ed47a1a4b86c9ccec24d2a76b4d99a78a707",
+        "FileName": "MIT.LICENSE",
+        "Path": "test/ut/MIT.LICENSE",
+        "DateUpdated": "2019-09-25T06:47:51Z",
+        "Additions": 0,
+        "Deletions": 20,
+        "Commits": [
+          "a5c55a052fd456d9eef2ead95c5a75603fb7d75f"
+        ]
+      },
+      {
+        "Sha": "e0ffd1f1b47027b6e3e193d42075568d48f851be",
+        "FileName": "List.js",
+        "Path": "test/ut/spec/data/List.js",
+        "DateUpdated": "2019-09-25T06:47:51Z",
+        "Additions": 18,
+        "Deletions": 26,
+        "Commits": [
+          "a5c55a052fd456d9eef2ead95c5a75603fb7d75f"
+        ]
+      },
+      {
+        "Sha": "4794ff3f5cccc58a63dd96dc02513088467d6b12",
+        "FileName": "completeDimensions.js",
+        "Path": "test/ut/spec/data/completeDimensions.js",
+        "DateUpdated": "2019-09-25T06:47:51Z",
+        "Additions": 160,
+        "Deletions": 360,
+        "Commits": [
+          "a5c55a052fd456d9eef2ead95c5a75603fb7d75f"
+        ]
+      },
+      {
+        "Sha": "b35ac4ce725cc1fd0838cf166de681600a88c024",
+        "FileName": "Component.js",
+        "Path": "test/ut/spec/model/Component.js",
+        "DateUpdated": "2019-09-25T06:47:51Z",
+        "Additions": 9,
+        "Deletions": 9,
+        "Commits": [
+          "a5c55a052fd456d9eef2ead95c5a75603fb7d75f"
+        ]
+      },
+      {
+        "Sha": "fc9a9b40e62a4d805f5bf62cdbdba0c29ad5680e",
+        "FileName": "interval.js",
+        "Path": "test/ut/spec/scale/interval.js",
+        "DateUpdated": "2019-09-25T06:47:51Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "a5c55a052fd456d9eef2ead95c5a75603fb7d75f"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a5c55a052fd456d9eef2ead95c5a75603fb7d75f",
+        "Author": {
+          "name": "\"Deqing Li\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T06:47:51Z",
+        "additions": 191,
+        "deletions": 416,
+        "files": [
+          "aff8ed47a1a4b86c9ccec24d2a76b4d99a78a707",
+          "e0ffd1f1b47027b6e3e193d42075568d48f851be",
+          "4794ff3f5cccc58a63dd96dc02513088467d6b12",
+          "b35ac4ce725cc1fd0838cf166de681600a88c024",
+          "fc9a9b40e62a4d805f5bf62cdbdba0c29ad5680e"
+        ]
+      }
+    ]
+  }
+]

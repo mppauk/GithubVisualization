@@ -1,0 +1,52 @@
+[
+  {
+    "RepositoryName": "incubator-gobblin",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T17:03:26Z",
+    "EndDate": "2019-09-23T18:03:26",
+    "Branches": 14,
+    "Forks": 615,
+    "Files": [
+      {
+        "Sha": "c23ed9a3d9f6f4e693536de0c57c5f946b05d13d",
+        "FileName": "OrcValueMapper.java",
+        "Path": "gobblin-compaction/src/main/java/org/apache/gobblin/compaction/mapreduce/orc/OrcValueMapper.java",
+        "DateUpdated": "2019-09-23T17:16:28Z",
+        "Additions": 3,
+        "Deletions": 5,
+        "Commits": [
+          "8998bc3111049509fede32bc146f774c1f5d658c"
+        ]
+      },
+      {
+        "Sha": "f8557908bb131b457e9cec8fdbca8369f4adc456",
+        "FileName": "OrcCompactionTaskTest.java",
+        "Path": "gobblin-compaction/src/test/java/org/apache/gobblin/compaction/mapreduce/OrcCompactionTaskTest.java",
+        "DateUpdated": "2019-09-23T17:16:28Z",
+        "Additions": 77,
+        "Deletions": 17,
+        "Commits": [
+          "8998bc3111049509fede32bc146f774c1f5d658c"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "8998bc3111049509fede32bc146f774c1f5d658c",
+        "Author": {
+          "name": "\"Lei\""
+        },
+        "Commitor": {
+          "name": "\"Hung Tran\""
+        },
+        "Date": "2019-09-23T17:16:28Z",
+        "additions": 80,
+        "deletions": 22,
+        "files": [
+          "c23ed9a3d9f6f4e693536de0c57c5f946b05d13d",
+          "f8557908bb131b457e9cec8fdbca8369f4adc456"
+        ]
+      }
+    ]
+  }
+]

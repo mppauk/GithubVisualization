@@ -1,0 +1,214 @@
+[
+  {
+    "RepositoryName": "commons-daemon",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T11:02:52Z",
+    "EndDate": "2019-09-25T12:02:52",
+    "Branches": 3,
+    "Forks": 29,
+    "Files": [
+      {
+        "Sha": "d93c81621d1fcb2e461b86b171d87b629368448b",
+        "FileName": "changes.xml",
+        "Path": "src/changes/changes.xml",
+        "DateUpdated": "2019-09-25T11:34:12Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "cdaad76b0689df633690601bd1a4db193588371d"
+        ]
+      },
+      {
+        "Sha": "fc06db893a91dee345f85b96516f415d042194ac",
+        "FileName": "prunsrv.c",
+        "Path": "src/native/windows/apps/prunsrv/prunsrv.c",
+        "DateUpdated": "2019-09-25T11:34:12Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "cdaad76b0689df633690601bd1a4db193588371d"
+        ]
+      },
+      {
+        "Sha": "21a26f15702748d29caeb8484e7b488f49a5b646",
+        "FileName": "utils.c",
+        "Path": "src/native/windows/src/utils.c",
+        "DateUpdated": "2019-09-25T11:34:12Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "cdaad76b0689df633690601bd1a4db193588371d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "cdaad76b0689df633690601bd1a4db193588371d",
+        "Author": {
+          "name": "\"Mark Thomas\""
+        },
+        "Commitor": {
+          "name": "\"Mark Thomas\""
+        },
+        "Date": "2019-09-25T11:34:12Z",
+        "additions": 7,
+        "deletions": 2,
+        "files": [
+          "d93c81621d1fcb2e461b86b171d87b629368448b",
+          "fc06db893a91dee345f85b96516f415d042194ac",
+          "21a26f15702748d29caeb8484e7b488f49a5b646"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "commons-daemon",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T12:02:52Z",
+    "EndDate": "2019-09-25T13:02:52",
+    "Branches": 3,
+    "Forks": 29,
+    "Files": [
+      {
+        "Sha": "09245365cc091c09dc0952070de1fba27a846ec7",
+        "FileName": "changes.xml",
+        "Path": "src/changes/changes.xml",
+        "DateUpdated": "2019-09-25T12:58:47Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "407b28f427e947b6ff079cce23d0fd9bef6ae84a"
+        ]
+      },
+      {
+        "Sha": "462c0e0ab0b5a1ad35f558f8736aeffff21d9888",
+        "FileName": "jsvc.1.xml",
+        "Path": "src/native/unix/man/jsvc.1.xml",
+        "DateUpdated": "2019-09-25T12:58:47Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "407b28f427e947b6ff079cce23d0fd9bef6ae84a"
+        ]
+      },
+      {
+        "Sha": "3693fba001c9c87132c19cf3e06ae190de5a0bf4",
+        "FileName": "README.md",
+        "Path": "README.md",
+        "DateUpdated": "2019-09-25T12:55:21Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "4e77a03266f846b04ada5116509dfe9452aa5819"
+        ]
+      },
+      {
+        "Sha": "e7944c7075d3aa62c5d2c8d10e386ee44935c1d8",
+        "FileName": "download_daemon.xml",
+        "Path": "src/site/xdoc/download_daemon.xml",
+        "DateUpdated": "2019-09-25T12:55:21Z",
+        "Additions": 14,
+        "Deletions": 14,
+        "Commits": [
+          "4e77a03266f846b04ada5116509dfe9452aa5819"
+        ]
+      },
+      {
+        "Sha": "9debeb8002d289b6aaa9e0f810a8b34b574dab6e",
+        "FileName": "issue-tracking.xml",
+        "Path": "src/site/xdoc/issue-tracking.xml",
+        "DateUpdated": "2019-09-25T12:55:21Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "4e77a03266f846b04ada5116509dfe9452aa5819"
+        ]
+      },
+      {
+        "Sha": "ae13876f74cc43a91544238c58dcb21b7c0a485b",
+        "FileName": "mail-lists.xml",
+        "Path": "src/site/xdoc/mail-lists.xml",
+        "DateUpdated": "2019-09-25T12:55:21Z",
+        "Additions": 23,
+        "Deletions": 23,
+        "Commits": [
+          "4e77a03266f846b04ada5116509dfe9452aa5819"
+        ]
+      },
+      {
+        "Sha": "130753a8962186a7f5c646eb901fca7d27014806",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-25T12:50:56Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7e38d2e4877d899967ae31c95aaf0d44256f5d3f"
+        ]
+      },
+      {
+        "Sha": "9b69c8ea6d4b73b05bb5ef8492cf9f53170f23a8",
+        "FileName": "changes.xml",
+        "Path": "src/changes/changes.xml",
+        "DateUpdated": "2019-09-25T12:50:56Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "7e38d2e4877d899967ae31c95aaf0d44256f5d3f"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "407b28f427e947b6ff079cce23d0fd9bef6ae84a",
+        "Author": {
+          "name": "\"Mark Thomas\""
+        },
+        "Commitor": {
+          "name": "\"Mark Thomas\""
+        },
+        "Date": "2019-09-25T12:58:47Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "09245365cc091c09dc0952070de1fba27a846ec7",
+          "462c0e0ab0b5a1ad35f558f8736aeffff21d9888"
+        ]
+      },
+      {
+        "sha": "4e77a03266f846b04ada5116509dfe9452aa5819",
+        "Author": {
+          "name": "\"Mark Thomas\""
+        },
+        "Commitor": {
+          "name": "\"Mark Thomas\""
+        },
+        "Date": "2019-09-25T12:55:21Z",
+        "additions": 40,
+        "deletions": 40,
+        "files": [
+          "3693fba001c9c87132c19cf3e06ae190de5a0bf4",
+          "e7944c7075d3aa62c5d2c8d10e386ee44935c1d8",
+          "9debeb8002d289b6aaa9e0f810a8b34b574dab6e",
+          "ae13876f74cc43a91544238c58dcb21b7c0a485b"
+        ]
+      },
+      {
+        "sha": "7e38d2e4877d899967ae31c95aaf0d44256f5d3f",
+        "Author": {
+          "name": "\"Mark Thomas\""
+        },
+        "Commitor": {
+          "name": "\"Mark Thomas\""
+        },
+        "Date": "2019-09-25T12:50:56Z",
+        "additions": 4,
+        "deletions": 1,
+        "files": [
+          "130753a8962186a7f5c646eb901fca7d27014806",
+          "9b69c8ea6d4b73b05bb5ef8492cf9f53170f23a8"
+        ]
+      }
+    ]
+  }
+]

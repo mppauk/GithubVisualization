@@ -1,0 +1,2377 @@
+{
+  "reportSchema": "1.1",
+  "scanInfo": {
+    "engineVersion": "5.0.0-M2",
+    "dataSource": [
+      {
+        "name": "NVD CVE 2002",
+        "timestamp": "09/09/2019 20:15:18"
+      },
+      {
+        "name": "NVD CVE 2003",
+        "timestamp": "09/09/2019 20:15:18"
+      },
+      {
+        "name": "NVD CVE 2004",
+        "timestamp": "09/09/2019 19:45:41"
+      },
+      {
+        "name": "NVD CVE 2005",
+        "timestamp": "21/09/2019 03:15:21"
+      },
+      {
+        "name": "NVD CVE 2006",
+        "timestamp": "09/09/2019 19:45:41"
+      },
+      {
+        "name": "NVD CVE 2007",
+        "timestamp": "09/09/2019 19:45:41"
+      },
+      {
+        "name": "NVD CVE 2008",
+        "timestamp": "09/09/2019 19:45:41"
+      },
+      {
+        "name": "NVD CVE 2009",
+        "timestamp": "21/09/2019 03:15:22"
+      },
+      {
+        "name": "NVD CVE 2010",
+        "timestamp": "14/09/2019 03:15:21"
+      },
+      {
+        "name": "NVD CVE 2011",
+        "timestamp": "20/09/2019 03:45:18"
+      },
+      {
+        "name": "NVD CVE 2012",
+        "timestamp": "09/09/2019 19:45:42"
+      },
+      {
+        "name": "NVD CVE 2013",
+        "timestamp": "13/09/2019 03:15:19"
+      },
+      {
+        "name": "NVD CVE 2014",
+        "timestamp": "21/09/2019 03:15:21"
+      },
+      {
+        "name": "NVD CVE 2015",
+        "timestamp": "21/09/2019 03:15:21"
+      },
+      {
+        "name": "NVD CVE 2016",
+        "timestamp": "21/09/2019 03:15:21"
+      },
+      {
+        "name": "NVD CVE 2017",
+        "timestamp": "20/09/2019 03:15:31"
+      },
+      {
+        "name": "NVD CVE 2018",
+        "timestamp": "21/09/2019 02:45:18"
+      },
+      {
+        "name": "NVD CVE 2019",
+        "timestamp": "22/09/2019 02:15:16"
+      },
+      {
+        "name": "NVD CVE Checked",
+        "timestamp": "25/09/2019 11:05:02"
+      },
+      {
+        "name": "NVD CVE Modified",
+        "timestamp": "25/09/2019 09:15:15"
+      },
+      {
+        "name": "VersionCheckOn",
+        "timestamp": "1569202714825"
+      }
+    ]
+  },
+  "projectInfo": {
+    "name": "",
+    "reportDate": "2019-09-25T11:05:27.125-0500",
+    "credits": {
+      "NVD": "This report contains data retrieved from the National Vulnerability Database: http://nvd.nist.gov",
+      "NPM": "This report may contain data retrieved from the NPM Public Advisories: https://www.npmjs.com/advisories",
+      "RETIREJS": "This report may contain data retrieved from the RetireJS community: https://retirejs.github.io/retire.js/"
+    }
+  },
+  "dependencies": [
+    {
+      "isVirtual": false,
+      "fileName": "jquery.flot.stack.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\content\\js\\jquery.flot.stack.js",
+      "md5": "7d9d0be00f88c525b9468e56719f8aa0",
+      "sha1": "25ca02d479cf4329c924f68d89396b5d0364d595",
+      "sha256": "630cbdffb20fdc67c6d6877de78d34e3066b224456e7b5d4c0902160c9c5358c",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.flot.crosshair.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\flot\\jquery.flot.crosshair.js",
+      "md5": "b02b4472d519a86857e31459c5a46661",
+      "sha1": "90e9bbe752fc6433bb82974b9cfc7b04100b47da",
+      "sha256": "c4e5b8e97bdc0590e2ad27cbbea2fd4b53883d19c26670c643d3051a0d37eb7d",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.flot.tooltip.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\flot.tooltip\\js\\jquery.flot.tooltip.js",
+      "md5": "9f3facd67c883a61c17685570543b13c",
+      "sha1": "7a825a910d6f1e2cfba1414fab21bbae7aeeb605",
+      "sha256": "867c0e826093f29b5f4f3a558abd868bb2f8fc91745d18dbf3b13fe751f71bd0",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "sb-admin-2.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\dist\\js\\sb-admin-2.js",
+      "md5": "7c9f742ca3c428b0ccc13a3d4e297563",
+      "sha1": "b8484e2408ff630ae5b8730704430067cf50bd70",
+      "sha256": "d652d8351615caa5dfe618603a972e426074e2bcf8e7ba29e8d70f5d0ce9b49d",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.flot.symbol.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\flot\\jquery.flot.symbol.js",
+      "md5": "a65f00a4faa7024f82d7ff1f1f43a561",
+      "sha1": "d5b4fc119e9bc767266411f7d62b0d15adbaea73",
+      "sha256": "39581d9ca01864c5f1df6e2f838754aeb67f3196e65b256d818f4ceed1b0bf7e",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.flot.time.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\flot\\jquery.flot.time.js",
+      "md5": "c21dd2087ac106f3626888bd16c8adad",
+      "sha1": "9adefb4f73d4921458a87b75e9bfc235cc93f16a",
+      "sha256": "84cc76a7f36d6c851c58e9a211dcd2db4e13683b61967df6399a7ff1b3f80e05",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.flot.tooltip.source.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\flot.tooltip\\js\\jquery.flot.tooltip.source.js",
+      "md5": "c2a221fb2b4e2bcd67bdd717be8c6412",
+      "sha1": "1c0e0d0d0614d63127316e5f697c18536b7cef86",
+      "sha256": "30f02206ab3b7109a4214271bb3882fc59a7b6d06a23f8277e82d6c1eac388cd",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.flot.threshold.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\flot\\jquery.flot.threshold.js",
+      "md5": "3c8e6fad5cdaa31d4d1946e287ebe25f",
+      "sha1": "bb429bfb30e2ddf022bfb5c245b32199fbd6b836",
+      "sha256": "866219e110312bbd5d8907c7b6a6aa90ca01871bf4c3c0a9ee34c0f3e609e5fc",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.colorhelpers.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\flot\\jquery.colorhelpers.js",
+      "md5": "405f85e5515fb0829a6a81f498811268",
+      "sha1": "7a21263bac1370abae6ba869be02118fc4d86a90",
+      "sha256": "0b790655388fcb92ff96f7c9f88da0d2bb8405cf51c5037be9ddff6f023e7854",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.flot.navigate.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\flot\\jquery.flot.navigate.js",
+      "md5": "6ac54713c8b468a82a226715979bb67f",
+      "sha1": "3e19b21890792c8fc94866f9a2de6ad28cd5e9ed",
+      "sha256": "59bc57fb2325c64a5f339c820d0d642a911a728f63c49d80a088c56a8409570d",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.flot.tooltip.min.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\flot.tooltip\\js\\jquery.flot.tooltip.min.js",
+      "md5": "db8f199b06b0a0c445e230c98edb4efd",
+      "sha1": "1b65ee5e20a9757c8b6715021f9571a40c98a0bf",
+      "sha256": "427abb81637bbfaf7e7d80df35b1fadfe6d3f0a1971ab38df28e0f39b1d8e9a3",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "excanvas.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\flot\\excanvas.js",
+      "md5": "f6af7ae7eda97e336a26d7af01c75f25",
+      "sha1": "642dd80cc637cbcf2e0a5662d1c08f20ad042dad",
+      "sha256": "9801ffaab9cced74dc1a24baf38082591c7f784a9209f47dc409339f3a2c33a7",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.flot.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\flot.tooltip\\js\\jquery.flot.js",
+      "md5": "ceb263b4fa467e54108a57af7c6cc95e",
+      "sha1": "a86fa9fe41b980dc26e19a857409b6610bb37d71",
+      "sha256": "c2c956b15faf7c6ce2b8c073ce1ba91687fed7ca5fbb3e0e420aaebc37106c5b",
+      "relatedDependencies": [
+        {
+          "isVirtual": false,
+          "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\flot\\jquery.flot.js",
+          "sha256": "c2c956b15faf7c6ce2b8c073ce1ba91687fed7ca5fbb3e0e420aaebc37106c5b",
+          "sha1": "a86fa9fe41b980dc26e19a857409b6610bb37d71",
+          "md5": "ceb263b4fa467e54108a57af7c6cc95e"
+        }
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.flot.stack.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\flot\\jquery.flot.stack.js",
+      "md5": "19dd2aa1563635d5dc3a41d743434667",
+      "sha1": "ba8e875fb1f024f7f309f94d2af9f996801dc917",
+      "sha256": "6c3e56d342b2e5f650e64ba37d98d45b3ff2ddc610350542a5f6349b72af115b",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "hashtable.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\content\\js\\hashtable.js",
+      "md5": "b2d65ae2edd7a7f7c751b2f02f76fb1e",
+      "sha1": "09ae3e620c8aa167fada891a3089b9ad0ceab37a",
+      "sha256": "51cd01b045389afa60be329b660f6876c7353d3b64add07a3661e957f411abb0",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.flot.resize.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\flot\\jquery.flot.resize.js",
+      "md5": "4d69f9f968102fafc2beb3e1a2b10453",
+      "sha1": "f76962a92f6bd1b3bd823b8f1a6480708a63589b",
+      "sha256": "7eb7769ba3cc65254b89feb7c91d7064b421e75bc72a9536f950a505ab2f5c4d",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.flot.selection.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\flot\\jquery.flot.selection.js",
+      "md5": "1066e8761c2a1bea1378dfb9ec1da361",
+      "sha1": "e1d250f2d32716fc710d8e96b5f357720e2c8f3d",
+      "sha256": "725324871385d52ce300cb6b9d60fa6f12d386b85b3b91db13820e6b838ad9ba",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.tablesorter.min.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\content\\js\\jquery.tablesorter.min.js",
+      "md5": "e6be2c2ac5f1bd80581fffa0be4c8f07",
+      "sha1": "fd4d1b69d5227af08bb59d98282440d99916d52e",
+      "sha256": "ebe3ff34f47f776c12f432d6f53393aeef5ba10e18d0f52582398fac28c3117f",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.flot.fillbetween.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\flot\\jquery.flot.fillbetween.js",
+      "md5": "2a04d2d8c1f2f2ceebbcef8edf608049",
+      "sha1": "8863ebb7b3706a08ad1ec7cf21bc212b8d603e25",
+      "sha256": "dbf3c53774b967c4066dfe322409b151b4482a7aee4a6a569204cfd1a8ea488d",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.numberformatter-1.2.3.min.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\content\\js\\jquery.numberformatter-1.2.3.min.js",
+      "md5": "ccf0167ab9837f9db78933cde57cc01d",
+      "sha1": "f7c0e7dbe955403649b671934cb0dbac4e953c14",
+      "sha256": "97c9ddbd879370412e06b4025a76672e77d8744bb60db46159846df86085caf2",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.flot.axislabels.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\flot-axislabels\\jquery.flot.axislabels.js",
+      "md5": "279c2f9f1a346cd3ff7e045fc307b3f6",
+      "sha1": "2d409758219cc4c92c086b341a35bb1235ef9d46",
+      "sha256": "a1a2971dc68e8302aff916a19bf40185862d5fee9385b5ad2eee2cf1b0fc3df3",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.flot.pie.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\flot\\jquery.flot.pie.js",
+      "md5": "b871e20dbd41432627ce7fef697b0726",
+      "sha1": "d815ea3957f5296cf7a5704dacced0cabf664d3f",
+      "sha256": "6ea6ad521715884397ed29df4cc58f7c33af94b77c6804dc531d0f27c5bd220f",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.flot.categories.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\flot\\jquery.flot.categories.js",
+      "md5": "0b00ee753a84e8ae8740a705ae24d85b",
+      "sha1": "1ef56f60f5e54f4877af658308b1742d3b3dd0e0",
+      "sha256": "ff88af7875dfc0a91bde29ee605ab3a8b3b064d1b3b8e43d513f0c446419ca03",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.min.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\jquery\\dist\\jquery.min.js",
+      "md5": "378087a64e1394fc51f300bb9c11878c",
+      "sha1": "0c3192b500a4fd550e483cf77a49806a5872185b",
+      "sha256": "4fe68fa216176e6d1f4580e924bafecc9f519984ecc06b1a840a08b0d88c95de",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "jquery"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "version",
+            "value": "3.3.1"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:javascript/jquery@3.3.1",
+          "confidence": "HIGHEST"
+        }
+      ],
+      "vulnerabilities": [
+        {
+          "source": "NVD",
+          "name": "CVE-2019-11358",
+          "cvssv2": {
+            "score": 4.3,
+            "accessVector": "NETWORK",
+            "accessComplexity": "MEDIUM",
+            "authenticationr>": "NONE",
+            "confidentialImpact": "NONE",
+            "integrityImpact": "NONE",
+            "availabilityImpact": "NONE",
+            "severity": "MEDIUM"
+          },
+          "cvssv3": {
+            "baseScore": 6.1,
+            "attackVector": "NETWORK",
+            "attackComplexity": "LOW",
+            "privilegesRequired": "NONE",
+            "userInteraction": "REQUIRED",
+            "scope": "CHANGED",
+            "confidentialityImpact": "LOW",
+            "integrityImpact": "LOW",
+            "availabilityImpact": "NONE",
+            "baseSeverity>": "MEDIUM"
+          },
+          "cwes": [
+            "CWE-79"
+          ],
+          "description": "jQuery before 3.4.0, as used in Drupal, Backdrop CMS, and other products, mishandles jQuery.extend(true, {}, ...) because of Object.prototype pollution. If an unsanitized source object contained an enumerable __proto__ property, it could extend the native Object.prototype.",
+          "notes": "",
+          "references": [
+            {
+              "source": "MISC",
+              "url": "http://packetstormsecurity.com/files/153237/RetireJS-CORS-Issue-Script-Execution.html",
+              "name": "http://packetstormsecurity.com/files/153237/RetireJS-CORS-Issue-Script-Execution.html"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/ba79cf1658741e9f146e4c59b50aee56656ea95d841d358d006c18b6@%3Ccommits.roller.apache.org%3E",
+              "name": "[roller-commits] 20190820 [jira] [Created] (ROL-2150) Fix Js security vulnerabilities detected using retire js"
+            },
+            {
+              "source": "REDHAT",
+              "url": "https://access.redhat.com/errata/RHBA-2019:1570",
+              "name": "RHBA-2019:1570"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/b736d0784cf02f5a30fbb4c5902762a15ad6d47e17e2c5a17b7d6205@%3Ccommits.airflow.apache.org%3E",
+              "name": "[airflow-commits] 20190428 [GitHub] [airflow] feng-tao opened a new pull request #5197: [AIRFLOW-XXX] Fix CVE-2019-11358"
+            },
+            {
+              "source": "SUSE",
+              "url": "http://lists.opensuse.org/opensuse-security-announce/2019-08/msg00006.html",
+              "name": "openSUSE-SU-2019:1839"
+            },
+            {
+              "source": "BUGTRAQ",
+              "url": "https://seclists.org/bugtraq/2019/Apr/32",
+              "name": "20190421 [SECURITY] [DSA 4434-1] drupal7 security update"
+            },
+            {
+              "source": "MISC",
+              "url": "https://snyk.io/vuln/SNYK-JS-JQUERY-174006",
+              "name": "https://snyk.io/vuln/SNYK-JS-JQUERY-174006"
+            },
+            {
+              "source": "info",
+              "url": "https://nvd.nist.gov/vuln/detail/CVE-2019-11358",
+              "name": "info"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/jquery/jquery/pull/4333",
+              "name": "https://github.com/jquery/jquery/pull/4333"
+            },
+            {
+              "source": "FEDORA",
+              "url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/WZW27UCJ5CYFL4KFFFMYMIBNMIU2ALG5/",
+              "name": "FEDORA-2019-f563e66380"
+            },
+            {
+              "source": "DEBIAN",
+              "url": "https://www.debian.org/security/2019/dsa-4434",
+              "name": "DSA-4434"
+            },
+            {
+              "source": "FEDORA",
+              "url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/RLXRX23725JL366CNZGJZ7AQQB7LHQ6F/",
+              "name": "FEDORA-2019-2a0ce0c58c"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.debian.org/debian-lts-announce/2019/05/msg00006.html",
+              "name": "[debian-lts-announce] 20190506 [SECURITY] [DLA 1777-1] jquery security update"
+            },
+            {
+              "source": "MLIST",
+              "url": "http://www.openwall.com/lists/oss-security/2019/06/03/2",
+              "name": "[oss-security] 20190603 Django: CVE-2019-12308 AdminURLFieldWidget XSS (plus patched bundled jQuery for CVE-2019-11358)"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.debian.org/debian-lts-announce/2019/05/msg00029.html",
+              "name": "[debian-lts-announce] 20190520 [SECURITY] [DLA 1797-1] drupal7 security update"
+            },
+            {
+              "source": "FEDORA",
+              "url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/4UOAZIFCSZ3ENEFOR5IXX6NFAD3HV7FA/",
+              "name": "FEDORA-2019-1a3edd7e8a"
+            },
+            {
+              "source": "info",
+              "url": "https://github.com/jquery/jquery/commit/753d591aea698e57d6db58c9f722cd0808619b1b",
+              "name": "info"
+            },
+            {
+              "source": "FEDORA",
+              "url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/QV3PKZC3PQCO3273HAT76PAQZFBEO4KP/",
+              "name": "FEDORA-2019-a06dffab1c"
+            },
+            {
+              "source": "MISC",
+              "url": "https://blog.jquery.com/2019/04/10/jquery-3-4-0-released/",
+              "name": "https://blog.jquery.com/2019/04/10/jquery-3-4-0-released/"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/88fb0362fd40e5b605ea8149f63241537b8b6fb5bfa315391fc5cbb7@%3Ccommits.airflow.apache.org%3E",
+              "name": "[airflow-commits] 20190428 [GitHub] [airflow] codecov-io commented on issue #5197: [AIRFLOW-XXX] Fix CVE-2019-11358"
+            },
+            {
+              "source": "FEDORA",
+              "url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/KYH3OAGR2RTCHRA5NOKX2TES7SNQMWGO/",
+              "name": "FEDORA-2019-7eaf0bbe7c"
+            },
+            {
+              "source": "CONFIRM",
+              "url": "https://security.netapp.com/advisory/ntap-20190919-0001/",
+              "name": "https://security.netapp.com/advisory/ntap-20190919-0001/"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/5928aa293e39d248266472210c50f176cac1535220f2486e6a7fa844@%3Ccommits.airflow.apache.org%3E",
+              "name": "[airflow-commits] 20190428 [GitHub] [airflow] XD-DENG merged pull request #5197: [AIRFLOW-XXX] Fix CVE-2019-11358"
+            },
+            {
+              "source": "info",
+              "url": "https://blog.jquery.com/2019/04/10/jquery-3-4-0-released/",
+              "name": "info"
+            },
+            {
+              "source": "DEBIAN",
+              "url": "https://www.debian.org/security/2019/dsa-4460",
+              "name": "DSA-4460"
+            },
+            {
+              "source": "MISC",
+              "url": "https://www.oracle.com/technetwork/security-advisory/cpujul2019-5072835.html",
+              "name": "https://www.oracle.com/technetwork/security-advisory/cpujul2019-5072835.html"
+            },
+            {
+              "source": "REDHAT",
+              "url": "https://access.redhat.com/errata/RHSA-2019:2587",
+              "name": "RHSA-2019:2587"
+            },
+            {
+              "source": "FEDORA",
+              "url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/5IABSKTYZ5JUGL735UKGXL5YPRYOPUYI/",
+              "name": "FEDORA-2019-eba8e44ee6"
+            },
+            {
+              "source": "SUSE",
+              "url": "http://lists.opensuse.org/opensuse-security-announce/2019-08/msg00025.html",
+              "name": "openSUSE-SU-2019:1872"
+            },
+            {
+              "source": "MISC",
+              "url": "https://backdropcms.org/security/backdrop-sa-core-2019-009",
+              "name": "https://backdropcms.org/security/backdrop-sa-core-2019-009"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/08720ef215ee7ab3386c05a1a90a7d1c852bf0706f176a7816bf65fc@%3Ccommits.airflow.apache.org%3E",
+              "name": "[airflow-commits] 20190428 [GitHub] [airflow] feng-tao commented on issue #5197: [AIRFLOW-XXX] Fix CVE-2019-11358"
+            },
+            {
+              "source": "MISC",
+              "url": "https://www.drupal.org/sa-core-2019-006",
+              "name": "https://www.drupal.org/sa-core-2019-006"
+            },
+            {
+              "source": "REDHAT",
+              "url": "https://access.redhat.com/errata/RHSA-2019:1456",
+              "name": "RHSA-2019:1456"
+            },
+            {
+              "source": "BUGTRAQ",
+              "url": "https://seclists.org/bugtraq/2019/May/18",
+              "name": "20190509 dotCMS v5.1.1 Vulnerabilities"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/13",
+              "name": "20190510 Re: dotCMS v5.1.1 HTML Injection & XSS Vulnerability"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/jquery/jquery/commit/753d591aea698e57d6db58c9f722cd0808619b1b",
+              "name": "https://github.com/jquery/jquery/commit/753d591aea698e57d6db58c9f722cd0808619b1b"
+            },
+            {
+              "source": "BUGTRAQ",
+              "url": "https://seclists.org/bugtraq/2019/Jun/12",
+              "name": "20190612 [SECURITY] [DSA 4460-1] mediawiki security update"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/11",
+              "name": "20190510 dotCMS v5.1.1 HTML Injection & XSS Vulnerability"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/6097cdbd6f0a337bedd9bb5cc441b2d525ff002a96531de367e4259f@%3Ccommits.airflow.apache.org%3E",
+              "name": "[airflow-commits] 20190428 [GitHub] [airflow] XD-DENG commented on issue #5197: [AIRFLOW-XXX] Fix CVE-2019-11358"
+            },
+            {
+              "source": "MISC",
+              "url": "http://packetstormsecurity.com/files/152787/dotCMS-5.1.1-Vulnerable-Dependencies.html",
+              "name": "http://packetstormsecurity.com/files/152787/dotCMS-5.1.1-Vulnerable-Dependencies.html"
+            },
+            {
+              "source": "MISC",
+              "url": "https://www.privacy-wise.com/mitigating-cve-2019-11358-in-old-versions-of-jquery/",
+              "name": "https://www.privacy-wise.com/mitigating-cve-2019-11358-in-old-versions-of-jquery/"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/10",
+              "name": "20190510 dotCMS v5.1.1 Vulnerabilities"
+            },
+            {
+              "source": "BID",
+              "url": "http://www.securityfocus.com/bid/108023",
+              "name": "108023"
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:backdropcms:backdrop:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "1.11.0",
+                "versionEndExcluding": "1.11.9"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:drupal:drupal:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "8.6.0",
+                "versionEndExcluding": "8.6.15"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:drupal:drupal:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "8.5.0",
+                "versionEndExcluding": "8.5.15"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:jquery:jquery:*:*:*:*:*:*:*:*",
+                "versionEndExcluding": "3.4.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:backdropcms:backdrop:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "1.12.0",
+                "versionEndExcluding": "1.12.6"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:drupal:drupal:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "7.0",
+                "versionEndExcluding": "7.66"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "isVirtual": false,
+      "fileName": "ant-jmeter-1.1.1.jar",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\extras\\ant-jmeter-1.1.1.jar",
+      "md5": "a72d3bb85c96b07913197a9fc7af0cea",
+      "sha1": "928972d091b275b97a6abed349dda4032cb3e927",
+      "sha256": "ebe1982185d4695532618f4b0a5a7198487512addd7fb1e90c796de1810edbe8",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "LOW",
+            "source": "jar",
+            "name": "package name",
+            "value": "ant"
+          },
+          {
+            "type": "vendor",
+            "confidence": "LOW",
+            "source": "jar",
+            "name": "package name",
+            "value": "taskdefs"
+          },
+          {
+            "type": "vendor",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "ant-jmeter"
+          },
+          {
+            "type": "vendor",
+            "confidence": "LOW",
+            "source": "jar",
+            "name": "package name",
+            "value": "programmerplanet"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "LOW",
+            "source": "jar",
+            "name": "package name",
+            "value": "ant"
+          },
+          {
+            "type": "product",
+            "confidence": "LOW",
+            "source": "jar",
+            "name": "package name",
+            "value": "jmeter"
+          },
+          {
+            "type": "product",
+            "confidence": "LOW",
+            "source": "jar",
+            "name": "package name",
+            "value": "taskdefs"
+          },
+          {
+            "type": "product",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "ant-jmeter"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "MEDIUM",
+            "source": "file",
+            "name": "name",
+            "value": "ant-jmeter"
+          },
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "file",
+            "name": "version",
+            "value": "1.1.1"
+          }
+        ]
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "excanvas.min.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\flot.tooltip\\js\\excanvas.min.js",
+      "md5": "3682670784157eca627a91ae04f925b8",
+      "sha1": "367b6955bcaabc71381ee3c8436db71413894257",
+      "sha256": "f98cb332c803a746862b762c94e95379b2407d1a87af8c69299590a4e9473781",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "gradle-wrapper.jar",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\gradle\\wrapper\\gradle-wrapper.jar",
+      "md5": "486ee2aaebfb80c46e8414fa494a3043",
+      "sha1": "077964f866df8e1eda6c45d00768250a4c8a81c7",
+      "sha256": "f1a597a1f2b23089deec11d5b924d074f9e4ed810f2093be7021ded01c8073ad",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "LOW",
+            "source": "jar",
+            "name": "package name",
+            "value": "gradle"
+          },
+          {
+            "type": "vendor",
+            "confidence": "LOW",
+            "source": "jar",
+            "name": "package name",
+            "value": "cli"
+          },
+          {
+            "type": "vendor",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "gradle-wrapper"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGH",
+            "source": "Manifest",
+            "name": "Implementation-Title",
+            "value": "Gradle"
+          },
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "jar",
+            "name": "package name",
+            "value": "gradle"
+          },
+          {
+            "type": "product",
+            "confidence": "LOW",
+            "source": "jar",
+            "name": "package name",
+            "value": "cli"
+          },
+          {
+            "type": "product",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "gradle-wrapper"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGH",
+            "source": "Manifest",
+            "name": "Implementation-Version",
+            "value": "5.0"
+          }
+        ]
+      },
+      "vulnerabilityIds": [
+        {
+          "id": "cpe:2.3:a:gradle:gradle:5.0:*:*:*:*:*:*:*",
+          "confidence": "HIGH",
+          "url": "https://nvd.nist.gov/vuln/search/results?form_type=Advanced&results_type=overview&search_type=all&cpe_vendor=cpe%3A%2F%3Agradle&cpe_product=cpe%3A%2F%3Agradle%3Agradle&cpe_version=cpe%3A%2F%3Agradle%3Agradle%3A5.0"
+        }
+      ],
+      "vulnerabilities": [
+        {
+          "source": "NVD",
+          "name": "CVE-2019-11065",
+          "cvssv2": {
+            "score": 4.3,
+            "accessVector": "NETWORK",
+            "accessComplexity": "MEDIUM",
+            "authenticationr>": "NONE",
+            "confidentialImpact": "PARTIAL",
+            "integrityImpact": "PARTIAL",
+            "availabilityImpact": "NONE",
+            "severity": "MEDIUM"
+          },
+          "cvssv3": {
+            "baseScore": 5.9,
+            "attackVector": "NETWORK",
+            "attackComplexity": "HIGH",
+            "privilegesRequired": "NONE",
+            "userInteraction": "NONE",
+            "scope": "UNCHANGED",
+            "confidentialityImpact": "HIGH",
+            "integrityImpact": "NONE",
+            "availabilityImpact": "NONE",
+            "baseSeverity>": "MEDIUM"
+          },
+          "cwes": [
+            "CWE-254"
+          ],
+          "description": "Gradle versions from 1.4 to 5.3.1 use an insecure HTTP URL to download dependencies when the built-in JavaScript or CoffeeScript Gradle plugins are used. Dependency artifacts could have been maliciously compromised by a MITM attack against the ajax.googleapis.com web site.",
+          "notes": "",
+          "references": [
+            {
+              "source": "FEDORA",
+              "url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/YQ5CGOV5QVQCSPGE3WRZDKUGIXLHSZDR/",
+              "name": "FEDORA-2019-1b6383acdd"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/gradle/gradle/pull/8927",
+              "name": "https://github.com/gradle/gradle/pull/8927"
+            },
+            {
+              "source": "FEDORA",
+              "url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/WVXOXNLAYRGPKAZV63PYNV3HF27JW2MW/",
+              "name": "FEDORA-2019-a9c15101fb"
+            },
+            {
+              "source": "FEDORA",
+              "url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/Y43P7SVDJOG6OUDVFR4ZIDITZLNHPGTO/",
+              "name": "FEDORA-2019-902786bc1e"
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:gradle:gradle:*:*:*:*:*:*:*:*",
+                "vulnerabilityIdMatched": "true",
+                "versionStartIncluding": "1.4",
+                "versionEndIncluding": "5.3.1"
+              }
+            }
+          ]
+        },
+        {
+          "source": "NVD",
+          "name": "CVE-2019-15052",
+          "cvssv2": {
+            "score": 5.0,
+            "accessVector": "NETWORK",
+            "accessComplexity": "LOW",
+            "authenticationr>": "NONE",
+            "confidentialImpact": "PARTIAL",
+            "integrityImpact": "PARTIAL",
+            "availabilityImpact": "NONE",
+            "severity": "MEDIUM"
+          },
+          "cvssv3": {
+            "baseScore": 9.8,
+            "attackVector": "NETWORK",
+            "attackComplexity": "LOW",
+            "privilegesRequired": "NONE",
+            "userInteraction": "NONE",
+            "scope": "UNCHANGED",
+            "confidentialityImpact": "HIGH",
+            "integrityImpact": "HIGH",
+            "availabilityImpact": "HIGH",
+            "baseSeverity>": "CRITICAL"
+          },
+          "cwes": [
+            "CWE-255"
+          ],
+          "description": "The HTTP client in Gradle before 5.6 sends authentication credentials originally destined for the configured host. If that host returns a 30x redirect, Gradle also sends those credentials to all subsequent hosts that the request redirects to. This is similar to CVE-2018-1000007.",
+          "notes": "",
+          "references": [
+            {
+              "source": "MISC",
+              "url": "https://github.com/gradle/gradle/security/advisories/GHSA-4cwg-f7qc-6r95",
+              "name": "https://github.com/gradle/gradle/security/advisories/GHSA-4cwg-f7qc-6r95"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/gradle/gradle/pull/10176",
+              "name": "https://github.com/gradle/gradle/pull/10176"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/gradle/gradle/issues/10278",
+              "name": "https://github.com/gradle/gradle/issues/10278"
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:gradle:gradle:*:*:*:*:*:*:*:*",
+                "vulnerabilityIdMatched": "true",
+                "versionEndExcluding": "5.6"
+              }
+            }
+          ]
+        },
+        {
+          "source": "NVD",
+          "name": "CVE-2019-16370",
+          "cvssv2": {
+            "score": 4.3,
+            "accessVector": "NETWORK",
+            "accessComplexity": "MEDIUM",
+            "authenticationr>": "NONE",
+            "confidentialImpact": "NONE",
+            "integrityImpact": "NONE",
+            "availabilityImpact": "NONE",
+            "severity": "MEDIUM"
+          },
+          "cwes": [
+            "CWE-20"
+          ],
+          "description": "The PGP signing plugin in Gradle before 6.0 relies on the SHA-1 algorithm, which might allow an attacker to replace an artifact with a different one that has the same SHA-1 message digest, a related issue to CVE-2005-4900.",
+          "notes": "",
+          "references": [
+            {
+              "source": "MISC",
+              "url": "https://github.com/gradle/gradle/commit/425b2b7a50cd84106a77cdf1ab665c89c6b14d2f",
+              "name": "https://github.com/gradle/gradle/commit/425b2b7a50cd84106a77cdf1ab665c89c6b14d2f"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/gradle/gradle/pull/10543",
+              "name": "https://github.com/gradle/gradle/pull/10543"
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:gradle:gradle:*:*:*:*:*:*:*:*",
+                "vulnerabilityIdMatched": "true",
+                "versionEndExcluding": "6.0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery-ui.min.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\content\\js\\jquery-ui.min.js",
+      "md5": "6f64e821a4c688caa46643d0647acb2f",
+      "sha1": "c228f9d2a1e771d780d972d936cc9a26cd6450e7",
+      "sha256": "3eafc97d9d635513d98ae17b0e0e0d1016c3336ff6d30b1d6bcdd9ae4fabf136",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "excanvas.min.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\flot\\excanvas.min.js",
+      "md5": "ee9e3fee14270b7b27fcaa0e2cf2e042",
+      "sha1": "ae4ce1a2bfb06c82653633191b04a8969a946b6b",
+      "sha256": "6201dbbd9beb94d8a241a0debf2cc2e6efc07ec69f4d1f116984e21b459ee569",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "metisMenu.min.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\metisMenu\\dist\\metisMenu.min.js",
+      "md5": "71b6c7cee07ad87f86a0452dec4743bf",
+      "sha1": "2fd87c8a2afb14b72fb984aed0720f38d80f380d",
+      "sha256": "77af9d897c6761e86337ef852099926f60965877b82f69253f05fc7f30fa6e05",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\jquery\\dist\\jquery.js",
+      "md5": "b0e8755b0ab71a0a4aea47c3b589b47e",
+      "sha1": "849189b1a2f520293ffc649ee14fbddc32f44fdb",
+      "sha256": "8a051cd343d7193d5804bd7f29fed0632f5f3e52ea64a7041ab0aa0f3dc41432",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "jquery"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "version",
+            "value": "3.3.1"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:javascript/jquery@3.3.1",
+          "confidence": "HIGHEST"
+        }
+      ],
+      "vulnerabilities": [
+        {
+          "source": "NVD",
+          "name": "CVE-2019-11358",
+          "cvssv2": {
+            "score": 4.3,
+            "accessVector": "NETWORK",
+            "accessComplexity": "MEDIUM",
+            "authenticationr>": "NONE",
+            "confidentialImpact": "NONE",
+            "integrityImpact": "NONE",
+            "availabilityImpact": "NONE",
+            "severity": "MEDIUM"
+          },
+          "cvssv3": {
+            "baseScore": 6.1,
+            "attackVector": "NETWORK",
+            "attackComplexity": "LOW",
+            "privilegesRequired": "NONE",
+            "userInteraction": "REQUIRED",
+            "scope": "CHANGED",
+            "confidentialityImpact": "LOW",
+            "integrityImpact": "LOW",
+            "availabilityImpact": "NONE",
+            "baseSeverity>": "MEDIUM"
+          },
+          "cwes": [
+            "CWE-79"
+          ],
+          "description": "jQuery before 3.4.0, as used in Drupal, Backdrop CMS, and other products, mishandles jQuery.extend(true, {}, ...) because of Object.prototype pollution. If an unsanitized source object contained an enumerable __proto__ property, it could extend the native Object.prototype.",
+          "notes": "",
+          "references": [
+            {
+              "source": "MISC",
+              "url": "http://packetstormsecurity.com/files/153237/RetireJS-CORS-Issue-Script-Execution.html",
+              "name": "http://packetstormsecurity.com/files/153237/RetireJS-CORS-Issue-Script-Execution.html"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/ba79cf1658741e9f146e4c59b50aee56656ea95d841d358d006c18b6@%3Ccommits.roller.apache.org%3E",
+              "name": "[roller-commits] 20190820 [jira] [Created] (ROL-2150) Fix Js security vulnerabilities detected using retire js"
+            },
+            {
+              "source": "REDHAT",
+              "url": "https://access.redhat.com/errata/RHBA-2019:1570",
+              "name": "RHBA-2019:1570"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/b736d0784cf02f5a30fbb4c5902762a15ad6d47e17e2c5a17b7d6205@%3Ccommits.airflow.apache.org%3E",
+              "name": "[airflow-commits] 20190428 [GitHub] [airflow] feng-tao opened a new pull request #5197: [AIRFLOW-XXX] Fix CVE-2019-11358"
+            },
+            {
+              "source": "SUSE",
+              "url": "http://lists.opensuse.org/opensuse-security-announce/2019-08/msg00006.html",
+              "name": "openSUSE-SU-2019:1839"
+            },
+            {
+              "source": "BUGTRAQ",
+              "url": "https://seclists.org/bugtraq/2019/Apr/32",
+              "name": "20190421 [SECURITY] [DSA 4434-1] drupal7 security update"
+            },
+            {
+              "source": "MISC",
+              "url": "https://snyk.io/vuln/SNYK-JS-JQUERY-174006",
+              "name": "https://snyk.io/vuln/SNYK-JS-JQUERY-174006"
+            },
+            {
+              "source": "info",
+              "url": "https://nvd.nist.gov/vuln/detail/CVE-2019-11358",
+              "name": "info"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/jquery/jquery/pull/4333",
+              "name": "https://github.com/jquery/jquery/pull/4333"
+            },
+            {
+              "source": "FEDORA",
+              "url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/WZW27UCJ5CYFL4KFFFMYMIBNMIU2ALG5/",
+              "name": "FEDORA-2019-f563e66380"
+            },
+            {
+              "source": "DEBIAN",
+              "url": "https://www.debian.org/security/2019/dsa-4434",
+              "name": "DSA-4434"
+            },
+            {
+              "source": "FEDORA",
+              "url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/RLXRX23725JL366CNZGJZ7AQQB7LHQ6F/",
+              "name": "FEDORA-2019-2a0ce0c58c"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.debian.org/debian-lts-announce/2019/05/msg00006.html",
+              "name": "[debian-lts-announce] 20190506 [SECURITY] [DLA 1777-1] jquery security update"
+            },
+            {
+              "source": "MLIST",
+              "url": "http://www.openwall.com/lists/oss-security/2019/06/03/2",
+              "name": "[oss-security] 20190603 Django: CVE-2019-12308 AdminURLFieldWidget XSS (plus patched bundled jQuery for CVE-2019-11358)"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.debian.org/debian-lts-announce/2019/05/msg00029.html",
+              "name": "[debian-lts-announce] 20190520 [SECURITY] [DLA 1797-1] drupal7 security update"
+            },
+            {
+              "source": "FEDORA",
+              "url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/4UOAZIFCSZ3ENEFOR5IXX6NFAD3HV7FA/",
+              "name": "FEDORA-2019-1a3edd7e8a"
+            },
+            {
+              "source": "info",
+              "url": "https://github.com/jquery/jquery/commit/753d591aea698e57d6db58c9f722cd0808619b1b",
+              "name": "info"
+            },
+            {
+              "source": "FEDORA",
+              "url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/QV3PKZC3PQCO3273HAT76PAQZFBEO4KP/",
+              "name": "FEDORA-2019-a06dffab1c"
+            },
+            {
+              "source": "MISC",
+              "url": "https://blog.jquery.com/2019/04/10/jquery-3-4-0-released/",
+              "name": "https://blog.jquery.com/2019/04/10/jquery-3-4-0-released/"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/88fb0362fd40e5b605ea8149f63241537b8b6fb5bfa315391fc5cbb7@%3Ccommits.airflow.apache.org%3E",
+              "name": "[airflow-commits] 20190428 [GitHub] [airflow] codecov-io commented on issue #5197: [AIRFLOW-XXX] Fix CVE-2019-11358"
+            },
+            {
+              "source": "FEDORA",
+              "url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/KYH3OAGR2RTCHRA5NOKX2TES7SNQMWGO/",
+              "name": "FEDORA-2019-7eaf0bbe7c"
+            },
+            {
+              "source": "CONFIRM",
+              "url": "https://security.netapp.com/advisory/ntap-20190919-0001/",
+              "name": "https://security.netapp.com/advisory/ntap-20190919-0001/"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/5928aa293e39d248266472210c50f176cac1535220f2486e6a7fa844@%3Ccommits.airflow.apache.org%3E",
+              "name": "[airflow-commits] 20190428 [GitHub] [airflow] XD-DENG merged pull request #5197: [AIRFLOW-XXX] Fix CVE-2019-11358"
+            },
+            {
+              "source": "info",
+              "url": "https://blog.jquery.com/2019/04/10/jquery-3-4-0-released/",
+              "name": "info"
+            },
+            {
+              "source": "DEBIAN",
+              "url": "https://www.debian.org/security/2019/dsa-4460",
+              "name": "DSA-4460"
+            },
+            {
+              "source": "MISC",
+              "url": "https://www.oracle.com/technetwork/security-advisory/cpujul2019-5072835.html",
+              "name": "https://www.oracle.com/technetwork/security-advisory/cpujul2019-5072835.html"
+            },
+            {
+              "source": "REDHAT",
+              "url": "https://access.redhat.com/errata/RHSA-2019:2587",
+              "name": "RHSA-2019:2587"
+            },
+            {
+              "source": "FEDORA",
+              "url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/5IABSKTYZ5JUGL735UKGXL5YPRYOPUYI/",
+              "name": "FEDORA-2019-eba8e44ee6"
+            },
+            {
+              "source": "SUSE",
+              "url": "http://lists.opensuse.org/opensuse-security-announce/2019-08/msg00025.html",
+              "name": "openSUSE-SU-2019:1872"
+            },
+            {
+              "source": "MISC",
+              "url": "https://backdropcms.org/security/backdrop-sa-core-2019-009",
+              "name": "https://backdropcms.org/security/backdrop-sa-core-2019-009"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/08720ef215ee7ab3386c05a1a90a7d1c852bf0706f176a7816bf65fc@%3Ccommits.airflow.apache.org%3E",
+              "name": "[airflow-commits] 20190428 [GitHub] [airflow] feng-tao commented on issue #5197: [AIRFLOW-XXX] Fix CVE-2019-11358"
+            },
+            {
+              "source": "MISC",
+              "url": "https://www.drupal.org/sa-core-2019-006",
+              "name": "https://www.drupal.org/sa-core-2019-006"
+            },
+            {
+              "source": "REDHAT",
+              "url": "https://access.redhat.com/errata/RHSA-2019:1456",
+              "name": "RHSA-2019:1456"
+            },
+            {
+              "source": "BUGTRAQ",
+              "url": "https://seclists.org/bugtraq/2019/May/18",
+              "name": "20190509 dotCMS v5.1.1 Vulnerabilities"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/13",
+              "name": "20190510 Re: dotCMS v5.1.1 HTML Injection & XSS Vulnerability"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/jquery/jquery/commit/753d591aea698e57d6db58c9f722cd0808619b1b",
+              "name": "https://github.com/jquery/jquery/commit/753d591aea698e57d6db58c9f722cd0808619b1b"
+            },
+            {
+              "source": "BUGTRAQ",
+              "url": "https://seclists.org/bugtraq/2019/Jun/12",
+              "name": "20190612 [SECURITY] [DSA 4460-1] mediawiki security update"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/11",
+              "name": "20190510 dotCMS v5.1.1 HTML Injection & XSS Vulnerability"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/6097cdbd6f0a337bedd9bb5cc441b2d525ff002a96531de367e4259f@%3Ccommits.airflow.apache.org%3E",
+              "name": "[airflow-commits] 20190428 [GitHub] [airflow] XD-DENG commented on issue #5197: [AIRFLOW-XXX] Fix CVE-2019-11358"
+            },
+            {
+              "source": "MISC",
+              "url": "http://packetstormsecurity.com/files/152787/dotCMS-5.1.1-Vulnerable-Dependencies.html",
+              "name": "http://packetstormsecurity.com/files/152787/dotCMS-5.1.1-Vulnerable-Dependencies.html"
+            },
+            {
+              "source": "MISC",
+              "url": "https://www.privacy-wise.com/mitigating-cve-2019-11358-in-old-versions-of-jquery/",
+              "name": "https://www.privacy-wise.com/mitigating-cve-2019-11358-in-old-versions-of-jquery/"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/10",
+              "name": "20190510 dotCMS v5.1.1 Vulnerabilities"
+            },
+            {
+              "source": "BID",
+              "url": "http://www.securityfocus.com/bid/108023",
+              "name": "108023"
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:backdropcms:backdrop:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "1.11.0",
+                "versionEndExcluding": "1.11.9"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:drupal:drupal:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "8.6.0",
+                "versionEndExcluding": "8.6.15"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:drupal:drupal:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "8.5.0",
+                "versionEndExcluding": "8.5.15"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:jquery:jquery:*:*:*:*:*:*:*:*",
+                "versionEndExcluding": "3.4.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:backdropcms:backdrop:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "1.12.0",
+                "versionEndExcluding": "1.12.6"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:drupal:drupal:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "7.0",
+                "versionEndExcluding": "7.66"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.flot.errorbars.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\flot\\jquery.flot.errorbars.js",
+      "md5": "f615b4e9d7b28943c21989fa6a351c84",
+      "sha1": "1f3c83d79b20ae1805136532277946faf643f71e",
+      "sha256": "9c4ae3e96879567bf2d13d4f79c68102ebb353f73780998168a9bfef25b710d9",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.flot.image.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\flot\\jquery.flot.image.js",
+      "md5": "a54a5b369a87742f975572535528ed8e",
+      "sha1": "86d6fdeb8d2263760571d504ab6842c06ec3978b",
+      "sha256": "b067e1dadfed4dfbdc529436d4053e60590e35623da25be2f50cd33759a47063",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.flot.canvas.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\flot\\jquery.flot.canvas.js",
+      "md5": "07d5f3888981f0072b936166c1eb5c89",
+      "sha1": "428cd2b5af292dc4b95a62ba818ff15e180577ca",
+      "sha256": "511dc9a49f546136c43bd1effa1fe763b72a0b02763dd86859c0742ec2e7cde5",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "curvedLines.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\content\\js\\curvedLines.js",
+      "md5": "b5b01e71f0e63c4514a6701b81909564",
+      "sha1": "3ff61be3417f50651aa215e997df7bdfc525de8d",
+      "sha256": "f402972b488e22a62bcfc5456d069cccd1505d0145a3e77e8daae67da60e95e2",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "bootstrap.min.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\sbadmin2-1.0.7\\bower_components\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "md5": "04c84852e9937b142ac73c285b895b85",
+      "sha1": "8fb8a9319055253d085edfc3bb72d20f614ec709",
+      "sha256": "36460e494e4c628443afded40b2743b5ede9a4a76fb4f7b9ef2345cc7e59fd64",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "bootstrap"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "version",
+            "value": "3.3.7"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:javascript/bootstrap@3.3.7",
+          "confidence": "HIGHEST"
+        }
+      ],
+      "vulnerabilities": [
+        {
+          "source": "NVD",
+          "name": "CVE-2018-14040",
+          "cvssv2": {
+            "score": 4.3,
+            "accessVector": "NETWORK",
+            "accessComplexity": "MEDIUM",
+            "authenticationr>": "NONE",
+            "confidentialImpact": "NONE",
+            "integrityImpact": "NONE",
+            "availabilityImpact": "NONE",
+            "severity": "MEDIUM"
+          },
+          "cvssv3": {
+            "baseScore": 6.1,
+            "attackVector": "NETWORK",
+            "attackComplexity": "LOW",
+            "privilegesRequired": "NONE",
+            "userInteraction": "REQUIRED",
+            "scope": "CHANGED",
+            "confidentialityImpact": "LOW",
+            "integrityImpact": "LOW",
+            "availabilityImpact": "NONE",
+            "baseSeverity>": "MEDIUM"
+          },
+          "cwes": [
+            "CWE-79"
+          ],
+          "description": "In Bootstrap before 4.1.2, XSS is possible in the collapse data-parent attribute.",
+          "notes": "",
+          "references": [
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/13",
+              "name": "20190510 Re: dotCMS v5.1.1 HTML Injection & XSS Vulnerability"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/twbs/bootstrap/pull/26630",
+              "name": "https://github.com/twbs/bootstrap/pull/26630"
+            },
+            {
+              "source": "info",
+              "url": "https://github.com/twbs/bootstrap/issues/20184",
+              "name": "info"
+            },
+            {
+              "source": "MISC",
+              "url": "https://blog.getbootstrap.com/2018/07/12/bootstrap-4-1-2/",
+              "name": "https://blog.getbootstrap.com/2018/07/12/bootstrap-4-1-2/"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/11",
+              "name": "20190510 dotCMS v5.1.1 HTML Injection & XSS Vulnerability"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/twbs/bootstrap/issues/26423",
+              "name": "https://github.com/twbs/bootstrap/issues/26423"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/twbs/bootstrap/issues/26625",
+              "name": "https://github.com/twbs/bootstrap/issues/26625"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.debian.org/debian-lts-announce/2018/08/msg00027.html",
+              "name": "[debian-lts-announce] 20180827 [SECURITY] [DLA 1479-1] twitter-bootstrap3 security update"
+            },
+            {
+              "source": "BUGTRAQ",
+              "url": "https://seclists.org/bugtraq/2019/May/18",
+              "name": "20190509 dotCMS v5.1.1 Vulnerabilities"
+            },
+            {
+              "source": "MISC",
+              "url": "http://packetstormsecurity.com/files/152787/dotCMS-5.1.1-Vulnerable-Dependencies.html",
+              "name": "http://packetstormsecurity.com/files/152787/dotCMS-5.1.1-Vulnerable-Dependencies.html"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/10",
+              "name": "20190510 dotCMS v5.1.1 Vulnerabilities"
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:beta:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:*:*:*:*:*:*:*:*",
+                "versionEndExcluding": "3.4.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha5:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:beta2:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha3:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha6:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha2:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "4.0.0",
+                "versionEndExcluding": "4.1.2"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha4:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:beta3:*:*:*:*:*:*"
+              }
+            }
+          ]
+        },
+        {
+          "source": "NVD",
+          "name": "CVE-2018-14041",
+          "cvssv2": {
+            "score": 4.3,
+            "accessVector": "NETWORK",
+            "accessComplexity": "MEDIUM",
+            "authenticationr>": "NONE",
+            "confidentialImpact": "NONE",
+            "integrityImpact": "NONE",
+            "availabilityImpact": "NONE",
+            "severity": "MEDIUM"
+          },
+          "cvssv3": {
+            "baseScore": 6.1,
+            "attackVector": "NETWORK",
+            "attackComplexity": "LOW",
+            "privilegesRequired": "NONE",
+            "userInteraction": "REQUIRED",
+            "scope": "CHANGED",
+            "confidentialityImpact": "LOW",
+            "integrityImpact": "LOW",
+            "availabilityImpact": "NONE",
+            "baseSeverity>": "MEDIUM"
+          },
+          "cwes": [
+            "CWE-79"
+          ],
+          "description": "In Bootstrap before 4.1.2, XSS is possible in the data-target property of scrollspy.",
+          "notes": "",
+          "references": [
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/13",
+              "name": "20190510 Re: dotCMS v5.1.1 HTML Injection & XSS Vulnerability"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/twbs/bootstrap/pull/26630",
+              "name": "https://github.com/twbs/bootstrap/pull/26630"
+            },
+            {
+              "source": "info",
+              "url": "https://github.com/twbs/bootstrap/issues/20184",
+              "name": "info"
+            },
+            {
+              "source": "MISC",
+              "url": "https://blog.getbootstrap.com/2018/07/12/bootstrap-4-1-2/",
+              "name": "https://blog.getbootstrap.com/2018/07/12/bootstrap-4-1-2/"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/twbs/bootstrap/issues/26627",
+              "name": "https://github.com/twbs/bootstrap/issues/26627"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/11",
+              "name": "20190510 dotCMS v5.1.1 HTML Injection & XSS Vulnerability"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/twbs/bootstrap/issues/26423",
+              "name": "https://github.com/twbs/bootstrap/issues/26423"
+            },
+            {
+              "source": "REDHAT",
+              "url": "https://access.redhat.com/errata/RHSA-2019:1456",
+              "name": "RHSA-2019:1456"
+            },
+            {
+              "source": "BUGTRAQ",
+              "url": "https://seclists.org/bugtraq/2019/May/18",
+              "name": "20190509 dotCMS v5.1.1 Vulnerabilities"
+            },
+            {
+              "source": "MISC",
+              "url": "http://packetstormsecurity.com/files/152787/dotCMS-5.1.1-Vulnerable-Dependencies.html",
+              "name": "http://packetstormsecurity.com/files/152787/dotCMS-5.1.1-Vulnerable-Dependencies.html"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/10",
+              "name": "20190510 dotCMS v5.1.1 Vulnerabilities"
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:beta:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha5:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:beta2:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha3:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha6:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha2:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "4.0.0",
+                "versionEndExcluding": "4.1.2"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha4:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:beta3:*:*:*:*:*:*"
+              }
+            }
+          ]
+        },
+        {
+          "source": "NVD",
+          "name": "CVE-2018-14042",
+          "cvssv2": {
+            "score": 4.3,
+            "accessVector": "NETWORK",
+            "accessComplexity": "MEDIUM",
+            "authenticationr>": "NONE",
+            "confidentialImpact": "NONE",
+            "integrityImpact": "NONE",
+            "availabilityImpact": "NONE",
+            "severity": "MEDIUM"
+          },
+          "cvssv3": {
+            "baseScore": 6.1,
+            "attackVector": "NETWORK",
+            "attackComplexity": "LOW",
+            "privilegesRequired": "NONE",
+            "userInteraction": "REQUIRED",
+            "scope": "CHANGED",
+            "confidentialityImpact": "LOW",
+            "integrityImpact": "LOW",
+            "availabilityImpact": "NONE",
+            "baseSeverity>": "MEDIUM"
+          },
+          "cwes": [
+            "CWE-79"
+          ],
+          "description": "In Bootstrap before 4.1.2, XSS is possible in the data-container property of tooltip.",
+          "notes": "",
+          "references": [
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/13",
+              "name": "20190510 Re: dotCMS v5.1.1 HTML Injection & XSS Vulnerability"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/twbs/bootstrap/pull/26630",
+              "name": "https://github.com/twbs/bootstrap/pull/26630"
+            },
+            {
+              "source": "info",
+              "url": "https://github.com/twbs/bootstrap/issues/20184",
+              "name": "info"
+            },
+            {
+              "source": "MISC",
+              "url": "https://blog.getbootstrap.com/2018/07/12/bootstrap-4-1-2/",
+              "name": "https://blog.getbootstrap.com/2018/07/12/bootstrap-4-1-2/"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/twbs/bootstrap/issues/26628",
+              "name": "https://github.com/twbs/bootstrap/issues/26628"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/11",
+              "name": "20190510 dotCMS v5.1.1 HTML Injection & XSS Vulnerability"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/twbs/bootstrap/issues/26423",
+              "name": "https://github.com/twbs/bootstrap/issues/26423"
+            },
+            {
+              "source": "BUGTRAQ",
+              "url": "https://seclists.org/bugtraq/2019/May/18",
+              "name": "20190509 dotCMS v5.1.1 Vulnerabilities"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/10",
+              "name": "20190510 dotCMS v5.1.1 Vulnerabilities"
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:beta:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:*:*:*:*:*:*:*:*",
+                "versionEndExcluding": "3.4.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha5:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:beta2:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha3:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha6:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha2:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "4.0.0",
+                "versionEndExcluding": "4.1.2"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha4:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:beta3:*:*:*:*:*:*"
+              }
+            }
+          ]
+        },
+        {
+          "source": "NVD",
+          "name": "CVE-2019-8331",
+          "cvssv2": {
+            "score": 4.3,
+            "accessVector": "NETWORK",
+            "accessComplexity": "MEDIUM",
+            "authenticationr>": "NONE",
+            "confidentialImpact": "NONE",
+            "integrityImpact": "NONE",
+            "availabilityImpact": "NONE",
+            "severity": "MEDIUM"
+          },
+          "cvssv3": {
+            "baseScore": 6.1,
+            "attackVector": "NETWORK",
+            "attackComplexity": "LOW",
+            "privilegesRequired": "NONE",
+            "userInteraction": "REQUIRED",
+            "scope": "CHANGED",
+            "confidentialityImpact": "LOW",
+            "integrityImpact": "LOW",
+            "availabilityImpact": "NONE",
+            "baseSeverity>": "MEDIUM"
+          },
+          "cwes": [
+            "CWE-79"
+          ],
+          "description": "In Bootstrap before 3.4.1 and 4.3.x before 4.3.1, XSS is possible in the tooltip or popover data-template attribute.",
+          "notes": "",
+          "references": [
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/52bafac05ad174000ea465fe275fd3cc7bd5c25535a7631c0bc9bfb2@%3Cuser.flink.apache.org%3E",
+              "name": "[flink-user] 20190813 Re: Apache flink 1.7.2 security issues"
+            },
+            {
+              "source": "REDHAT",
+              "url": "https://access.redhat.com/errata/RHSA-2019:1456",
+              "name": "RHSA-2019:1456"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/twbs/bootstrap/pull/28236",
+              "name": "https://github.com/twbs/bootstrap/pull/28236"
+            },
+            {
+              "source": "BUGTRAQ",
+              "url": "https://seclists.org/bugtraq/2019/May/18",
+              "name": "20190509 dotCMS v5.1.1 Vulnerabilities"
+            },
+            {
+              "source": "CONFIRM",
+              "url": "https://support.f5.com/csp/article/K24383845",
+              "name": "https://support.f5.com/csp/article/K24383845"
+            },
+            {
+              "source": "CONFIRM",
+              "url": "https://blog.getbootstrap.com/2019/02/13/bootstrap-4-3-1-and-3-4-1/",
+              "name": "https://blog.getbootstrap.com/2019/02/13/bootstrap-4-3-1-and-3-4-1/"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/twbs/bootstrap/releases/tag/v3.4.1",
+              "name": "https://github.com/twbs/bootstrap/releases/tag/v3.4.1"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/10f0f3aefd51444d1198c65f44ffdf2d78ca3359423dbc1c168c9731@%3Cdev.flink.apache.org%3E",
+              "name": "[flink-dev] 20190811 Apache flink 1.7.2 security issues"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/13",
+              "name": "20190510 Re: dotCMS v5.1.1 HTML Injection & XSS Vulnerability"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/17ff53f7999e74fbe3cc0ceb4e1c3b00b180b7c5afec8e978837bc49@%3Cuser.flink.apache.org%3E",
+              "name": "[flink-user] 20190813 Apache flink 1.7.2 security issues"
+            },
+            {
+              "source": "BID",
+              "url": "http://www.securityfocus.com/bid/107375",
+              "name": "107375"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/twbs/bootstrap/releases/tag/v4.3.1",
+              "name": "https://github.com/twbs/bootstrap/releases/tag/v4.3.1"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/11",
+              "name": "20190510 dotCMS v5.1.1 HTML Injection & XSS Vulnerability"
+            },
+            {
+              "source": "info",
+              "url": "https://github.com/twbs/bootstrap/issues/28236",
+              "name": "info"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/54df3aeb4239b64b50b356f0ca6f986e3c4ca5b84c515dce077c7854@%3Cuser.flink.apache.org%3E",
+              "name": "[flink-user] 20190811 Apache flink 1.7.2 security issues"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/10",
+              "name": "20190510 dotCMS v5.1.1 Vulnerabilities"
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_global_traffic_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_link_controller:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_advanced_firewall_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_analytics:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_local_traffic_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_policy_enforcement_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_local_traffic_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_access_policy_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_application_acceleration_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_fraud_protection_service:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_application_acceleration_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_application_security_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_webaccelerator:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_webaccelerator:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_access_policy_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_link_controller:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_application_security_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:*:*:*:*:*:*:*:*",
+                "versionEndExcluding": "3.4.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_advanced_firewall_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_local_traffic_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_application_security_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_webaccelerator:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "4.3.0",
+                "versionEndExcluding": "4.3.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_access_policy_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_analytics:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_fraud_protection_service:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_global_traffic_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_policy_enforcement_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_analytics:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_link_controller:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_advanced_firewall_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_application_acceleration_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_fraud_protection_service:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_global_traffic_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_policy_enforcement_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery.cookie.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\jmeter\\bin\\report-template\\content\\js\\jquery.cookie.js",
+      "md5": "a79ce0f6eed17894a3d9b854fe700461",
+      "sha1": "cf68d8abf7d192a3044cb82ec31c2106e4a2b5bb",
+      "sha256": "afd6a5f6de40e9e67b55ff6afec66fff4827e775c996ab80c9e964a872a92523",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    }
+  ]
+}

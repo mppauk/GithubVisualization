@@ -1,0 +1,182 @@
+[
+  {
+    "RepositoryName": "whimsy",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T15:03:19Z",
+    "EndDate": "2019-09-23T16:03:19",
+    "Branches": 19,
+    "Forks": 36,
+    "Files": [
+      {
+        "Sha": "dac99b6af14273886b4dfaa8809dcea30d1a559c",
+        "FileName": "committee.rb",
+        "Path": "lib/whimsy/asf/committee.rb",
+        "DateUpdated": "2019-09-23T15:53:18Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "27956988c7aec6e1fd1e4e46560242ea19312491"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "27956988c7aec6e1fd1e4e46560242ea19312491",
+        "Author": {
+          "name": "\"Sam Ruby\""
+        },
+        "Commitor": {
+          "name": "\"Sam Ruby\""
+        },
+        "Date": "2019-09-23T15:53:18Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "dac99b6af14273886b4dfaa8809dcea30d1a559c"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "whimsy",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T16:03:31Z",
+    "EndDate": "2019-09-23T17:03:31",
+    "Branches": 19,
+    "Forks": 36,
+    "Files": [
+      {
+        "Sha": "b6eeaefd99469ea29013aa5d3de63f58f2388394",
+        "FileName": "todos.json.rb",
+        "Path": "www/board/agenda/views/actions/todos.json.rb",
+        "DateUpdated": "2019-09-23T16:33:04Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c2bb9ea2444f32160198e03ac38dc3fa4dbf8e5a"
+        ]
+      },
+      {
+        "Sha": "6c0e351ddb1e7ed66f66a3a3f5171495087f88a5",
+        "FileName": "adjournment.js.rb",
+        "Path": "www/board/agenda/views/pages/adjournment.js.rb",
+        "DateUpdated": "2019-09-23T16:27:03Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "f6579e6c48fddaf685054695ca9fec9ea626b5f5"
+        ]
+      },
+      {
+        "Sha": "c353d35823b8de950e56aa0e0ce0251e198f1196",
+        "FileName": "adjournment.js.rb",
+        "Path": "www/board/agenda/views/pages/adjournment.js.rb",
+        "DateUpdated": "2019-09-23T16:21:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "059c65712b5b56e0e0378ca968cb8b737da6ccb9"
+        ]
+      },
+      {
+        "Sha": "ba8bf8780cf490906874142ba1a9445940b88da1",
+        "FileName": "todos.json.rb",
+        "Path": "www/board/agenda/views/actions/todos.json.rb",
+        "DateUpdated": "2019-09-23T16:14:19Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "2e6d15317af3e5e19385775b30413232a172b7d0"
+        ]
+      },
+      {
+        "Sha": "bf9b1557ad5eaecdc694d62cc5c0a5b0a217093a",
+        "FileName": "todos.json.rb",
+        "Path": "www/board/agenda/views/actions/todos.json.rb",
+        "DateUpdated": "2019-09-23T16:08:28Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "b17d04337d484e3e6422915f10a6693b0c9c92bd"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c2bb9ea2444f32160198e03ac38dc3fa4dbf8e5a",
+        "Author": {
+          "name": "\"Sam Ruby\""
+        },
+        "Commitor": {
+          "name": "\"Sam Ruby\""
+        },
+        "Date": "2019-09-23T16:33:04Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "b6eeaefd99469ea29013aa5d3de63f58f2388394"
+        ]
+      },
+      {
+        "sha": "f6579e6c48fddaf685054695ca9fec9ea626b5f5",
+        "Author": {
+          "name": "\"Sam Ruby\""
+        },
+        "Commitor": {
+          "name": "\"Sam Ruby\""
+        },
+        "Date": "2019-09-23T16:27:03Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "6c0e351ddb1e7ed66f66a3a3f5171495087f88a5"
+        ]
+      },
+      {
+        "sha": "059c65712b5b56e0e0378ca968cb8b737da6ccb9",
+        "Author": {
+          "name": "\"Sam Ruby\""
+        },
+        "Commitor": {
+          "name": "\"Sam Ruby\""
+        },
+        "Date": "2019-09-23T16:21:59Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "c353d35823b8de950e56aa0e0ce0251e198f1196"
+        ]
+      },
+      {
+        "sha": "2e6d15317af3e5e19385775b30413232a172b7d0",
+        "Author": {
+          "name": "\"Sam Ruby\""
+        },
+        "Commitor": {
+          "name": "\"Sam Ruby\""
+        },
+        "Date": "2019-09-23T16:14:19Z",
+        "additions": 0,
+        "deletions": 1,
+        "files": [
+          "ba8bf8780cf490906874142ba1a9445940b88da1"
+        ]
+      },
+      {
+        "sha": "b17d04337d484e3e6422915f10a6693b0c9c92bd",
+        "Author": {
+          "name": "\"Sam Ruby\""
+        },
+        "Commitor": {
+          "name": "\"Sam Ruby\""
+        },
+        "Date": "2019-09-23T16:08:28Z",
+        "additions": 3,
+        "deletions": 1,
+        "files": [
+          "bf9b1557ad5eaecdc694d62cc5c0a5b0a217093a"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "RepositoryName": "commons-rng",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T10:03:40Z",
+    "EndDate": "2019-09-25T11:03:40",
+    "Branches": 4,
+    "Forks": 31,
+    "Files": [
+      {
+        "Sha": "98e0dc0973bb57cb3083f87b1123c05cd5efd43a",
+        "FileName": "ProvidersCommonParametricTest.java",
+        "Path": "commons-rng-core/src/test/java/org/apache/commons/rng/core/ProvidersCommonParametricTest.java",
+        "DateUpdated": "2019-09-25T10:42:56Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "9d0695e75f3068a47477825fd1357ec9f0521967"
+        ]
+      },
+      {
+        "Sha": "c09e2e5d96ab92bfa4a3f7239ebade9d6386496a",
+        "FileName": "ProvidersCommonParametricTest.java",
+        "Path": "commons-rng-simple/src/test/java/org/apache/commons/rng/simple/ProvidersCommonParametricTest.java",
+        "DateUpdated": "2019-09-25T10:42:56Z",
+        "Additions": 14,
+        "Deletions": 4,
+        "Commits": [
+          "9d0695e75f3068a47477825fd1357ec9f0521967"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "9d0695e75f3068a47477825fd1357ec9f0521967",
+        "Author": {
+          "name": "\"Alex Herbert\"",
+          "location": "Brighton, UK",
+          "company": "University of Sussex"
+        },
+        "Commitor": {
+          "name": "\"Alex Herbert\"",
+          "location": "Brighton, UK",
+          "company": "University of Sussex"
+        },
+        "Date": "2019-09-25T10:42:56Z",
+        "additions": 16,
+        "deletions": 6,
+        "files": [
+          "98e0dc0973bb57cb3083f87b1123c05cd5efd43a",
+          "c09e2e5d96ab92bfa4a3f7239ebade9d6386496a"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,400 @@
+[
+  {
+    "RepositoryName": "incubator-shardingsphere-benchmark",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T05:48:15Z",
+    "EndDate": "2019-09-25T06:48:15",
+    "Branches": 1,
+    "Forks": 3,
+    "Files": [
+      {
+        "Sha": "bc6f5a017e97c531a9be5da70e3b6a158709dc65",
+        "FileName": "mysql vs shardingproxy.json",
+        "Path": "report/data_json/mysql vs shardingproxy.json",
+        "DateUpdated": "2019-09-25T06:17:06Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "035075ff42e3d87f6b902f5090448af342cf4d7f"
+        ]
+      },
+      {
+        "Sha": "8a1ca4e176427b7583c7efad97b0af6af6eefa71",
+        "FileName": "sharding proxy single database single table.json",
+        "Path": "report/data_json/sharding proxy single database single table.json",
+        "DateUpdated": "2019-09-25T06:17:06Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "035075ff42e3d87f6b902f5090448af342cf4d7f"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "035075ff42e3d87f6b902f5090448af342cf4d7f",
+        "Author": {
+          "name": "\"nancyzrh\""
+        },
+        "Commitor": {
+          "name": "\"nancyzrh\""
+        },
+        "Date": "2019-09-25T06:17:06Z",
+        "additions": 2,
+        "deletions": 0,
+        "files": [
+          "bc6f5a017e97c531a9be5da70e3b6a158709dc65",
+          "8a1ca4e176427b7583c7efad97b0af6af6eefa71"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-shardingsphere-benchmark",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T06:04:50Z",
+    "EndDate": "2019-09-25T07:04:50",
+    "Branches": 1,
+    "Forks": 3,
+    "Files": [
+      {
+        "Sha": "bc6f5a017e97c531a9be5da70e3b6a158709dc65",
+        "FileName": "mysql vs shardingproxy.json",
+        "Path": "report/data_json/mysql vs shardingproxy.json",
+        "DateUpdated": "2019-09-25T06:17:06Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "035075ff42e3d87f6b902f5090448af342cf4d7f"
+        ]
+      },
+      {
+        "Sha": "8a1ca4e176427b7583c7efad97b0af6af6eefa71",
+        "FileName": "sharding proxy single database single table.json",
+        "Path": "report/data_json/sharding proxy single database single table.json",
+        "DateUpdated": "2019-09-25T06:17:06Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "035075ff42e3d87f6b902f5090448af342cf4d7f"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "035075ff42e3d87f6b902f5090448af342cf4d7f",
+        "Author": {
+          "name": "\"nancyzrh\""
+        },
+        "Commitor": {
+          "name": "\"nancyzrh\""
+        },
+        "Date": "2019-09-25T06:17:06Z",
+        "additions": 2,
+        "deletions": 0,
+        "files": [
+          "bc6f5a017e97c531a9be5da70e3b6a158709dc65",
+          "8a1ca4e176427b7583c7efad97b0af6af6eefa71"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-shardingsphere-benchmark",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T07:04:47Z",
+    "EndDate": "2019-09-25T08:04:47",
+    "Branches": 1,
+    "Forks": 3,
+    "Files": [
+      {
+        "Sha": "51199887c3f983a84c3628d7a538b447513fca30",
+        "FileName": "pom.xml",
+        "Path": "shardingsphere-benchmark/pom.xml",
+        "DateUpdated": "2019-09-25T07:43:39Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "ec42e7840c3db022203ca07d23f20508e8d30610"
+        ]
+      },
+      {
+        "Sha": "b5346076b9ed676a22e88341a76e905fb80b51f4",
+        "FileName": "pom.xml",
+        "Path": "shardingsphere-benchmark/pom.xml",
+        "DateUpdated": "2019-09-25T07:42:20Z",
+        "Additions": 112,
+        "Deletions": 0,
+        "Commits": [
+          "a14c30f2869e51ff2dc98309c0a0c0d4fe647203"
+        ]
+      },
+      {
+        "Sha": "1460808974b0bccd7db132a61da60f99dd9bf1f7",
+        "FileName": "sharding proxy master slave + sharding.json",
+        "Path": "report/data_json/sharding proxy master slave + sharding.json",
+        "DateUpdated": "2019-09-25T07:13:04Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "422e10e4493e87760a24be3e164d4bcaba479840"
+        ]
+      },
+      {
+        "Sha": "86392923301f7fa6cc535fa97d96042a3de7ce85",
+        "FileName": "sharding proxy master slave.json",
+        "Path": "report/data_json/sharding proxy master slave.json",
+        "DateUpdated": "2019-09-25T07:13:04Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "422e10e4493e87760a24be3e164d4bcaba479840"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "ec42e7840c3db022203ca07d23f20508e8d30610",
+        "Author": {
+          "name": "\"nancyzrh\""
+        },
+        "Commitor": {
+          "name": "\"nancyzrh\""
+        },
+        "Date": "2019-09-25T07:43:39Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "51199887c3f983a84c3628d7a538b447513fca30"
+        ]
+      },
+      {
+        "sha": "a14c30f2869e51ff2dc98309c0a0c0d4fe647203",
+        "Author": {
+          "name": "\"nancyzrh\""
+        },
+        "Commitor": {
+          "name": "\"nancyzrh\""
+        },
+        "Date": "2019-09-25T07:42:20Z",
+        "additions": 112,
+        "deletions": 0,
+        "files": [
+          "b5346076b9ed676a22e88341a76e905fb80b51f4"
+        ]
+      },
+      {
+        "sha": "422e10e4493e87760a24be3e164d4bcaba479840",
+        "Author": {
+          "name": "\"nancyzrh\""
+        },
+        "Commitor": {
+          "name": "\"nancyzrh\""
+        },
+        "Date": "2019-09-25T07:13:04Z",
+        "additions": 2,
+        "deletions": 0,
+        "files": [
+          "1460808974b0bccd7db132a61da60f99dd9bf1f7",
+          "86392923301f7fa6cc535fa97d96042a3de7ce85"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-shardingsphere-benchmark",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T09:05:04Z",
+    "EndDate": "2019-09-25T10:05:04",
+    "Branches": 1,
+    "Forks": 4,
+    "Files": [
+      {
+        "Sha": "bc6f5a017e97c531a9be5da70e3b6a158709dc65",
+        "FileName": "mysql vs shardingproxy.json",
+        "Path": "report/data_json/mysql vs shardingproxy.json",
+        "DateUpdated": "2019-09-25T10:00:51Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c2781ca107cc78322ee845170d2ebcb015a55757",
+          "726c6dffa753b1db7a4e7079317b9f9f7b0bd0b7"
+        ]
+      },
+      {
+        "Sha": "1460808974b0bccd7db132a61da60f99dd9bf1f7",
+        "FileName": "sharding proxy master slave + sharding.json",
+        "Path": "report/data_json/sharding proxy master slave + sharding.json",
+        "DateUpdated": "2019-09-25T10:00:51Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c2781ca107cc78322ee845170d2ebcb015a55757",
+          "726c6dffa753b1db7a4e7079317b9f9f7b0bd0b7"
+        ]
+      },
+      {
+        "Sha": "86392923301f7fa6cc535fa97d96042a3de7ce85",
+        "FileName": "sharding proxy master slave.json",
+        "Path": "report/data_json/sharding proxy master slave.json",
+        "DateUpdated": "2019-09-25T10:00:51Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c2781ca107cc78322ee845170d2ebcb015a55757",
+          "726c6dffa753b1db7a4e7079317b9f9f7b0bd0b7"
+        ]
+      },
+      {
+        "Sha": "8a1ca4e176427b7583c7efad97b0af6af6eefa71",
+        "FileName": "sharding proxy single database single table.json",
+        "Path": "report/data_json/sharding proxy single database single table.json",
+        "DateUpdated": "2019-09-25T10:00:51Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c2781ca107cc78322ee845170d2ebcb015a55757",
+          "726c6dffa753b1db7a4e7079317b9f9f7b0bd0b7"
+        ]
+      },
+      {
+        "Sha": "51199887c3f983a84c3628d7a538b447513fca30",
+        "FileName": "pom.xml",
+        "Path": "shardingsphere-benchmark/pom.xml",
+        "DateUpdated": "2019-09-25T09:57:22Z",
+        "Additions": 112,
+        "Deletions": 0,
+        "Commits": [
+          "465cf9eec87216cbd233153a0640ed050a3dd0c5"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c2781ca107cc78322ee845170d2ebcb015a55757",
+        "Author": {
+          "name": "\"nancyzrh\""
+        },
+        "Commitor": {
+          "name": "\"nancyzrh\""
+        },
+        "Date": "2019-09-25T10:00:51Z",
+        "additions": 0,
+        "deletions": 4,
+        "files": [
+          "bc6f5a017e97c531a9be5da70e3b6a158709dc65",
+          "1460808974b0bccd7db132a61da60f99dd9bf1f7",
+          "86392923301f7fa6cc535fa97d96042a3de7ce85",
+          "8a1ca4e176427b7583c7efad97b0af6af6eefa71"
+        ]
+      },
+      {
+        "sha": "465cf9eec87216cbd233153a0640ed050a3dd0c5",
+        "Author": {
+          "name": "\"nancyzrh\""
+        },
+        "Commitor": {
+          "name": "\"nancyzrh\""
+        },
+        "Date": "2019-09-25T09:57:22Z",
+        "additions": 112,
+        "deletions": 0,
+        "files": [
+          "51199887c3f983a84c3628d7a538b447513fca30"
+        ]
+      },
+      {
+        "sha": "726c6dffa753b1db7a4e7079317b9f9f7b0bd0b7",
+        "Author": {
+          "name": "\"nancyzrh\""
+        },
+        "Commitor": {
+          "name": "\"nancyzrh\""
+        },
+        "Date": "2019-09-25T09:57:06Z",
+        "additions": 4,
+        "deletions": 0,
+        "files": [
+          "bc6f5a017e97c531a9be5da70e3b6a158709dc65",
+          "86392923301f7fa6cc535fa97d96042a3de7ce85",
+          "1460808974b0bccd7db132a61da60f99dd9bf1f7",
+          "8a1ca4e176427b7583c7efad97b0af6af6eefa71"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-shardingsphere-benchmark",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T12:05:04Z",
+    "EndDate": "2019-09-25T13:05:04",
+    "Branches": 1,
+    "Forks": 4,
+    "Files": [
+      {
+        "Sha": "accdd2a0c0fa1fbaf1817c5c882b6380834de217",
+        "FileName": "mysql_vs_shardingproxy.json",
+        "Path": "report/data_json/mysql_vs_shardingproxy.json",
+        "DateUpdated": "2019-09-25T12:56:36Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "ab790723cce127d36e2adb3498a2f972b22b81d0"
+        ]
+      },
+      {
+        "Sha": "275c04169d6028c69b7699f31f7755618e3dd125",
+        "FileName": "sharding_proxy_master_slave.json",
+        "Path": "report/data_json/sharding_proxy_master_slave.json",
+        "DateUpdated": "2019-09-25T12:56:36Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "ab790723cce127d36e2adb3498a2f972b22b81d0"
+        ]
+      },
+      {
+        "Sha": "8f781236c6771748af67b703045b2614e7f3a30a",
+        "FileName": "sharding_proxy_master_slave_sharding.json",
+        "Path": "report/data_json/sharding_proxy_master_slave_sharding.json",
+        "DateUpdated": "2019-09-25T12:56:36Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "ab790723cce127d36e2adb3498a2f972b22b81d0"
+        ]
+      },
+      {
+        "Sha": "100fc303098275da2c660f6eca3db50e500652f2",
+        "FileName": "sharding_proxy_single_database_single_table.json",
+        "Path": "report/data_json/sharding_proxy_single_database_single_table.json",
+        "DateUpdated": "2019-09-25T12:56:36Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "ab790723cce127d36e2adb3498a2f972b22b81d0"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "ab790723cce127d36e2adb3498a2f972b22b81d0",
+        "Author": {
+          "name": "\"nancyzrh\""
+        },
+        "Commitor": {
+          "name": "\"nancyzrh\""
+        },
+        "Date": "2019-09-25T12:56:36Z",
+        "additions": 4,
+        "deletions": 4,
+        "files": [
+          "accdd2a0c0fa1fbaf1817c5c882b6380834de217",
+          "275c04169d6028c69b7699f31f7755618e3dd125",
+          "8f781236c6771748af67b703045b2614e7f3a30a",
+          "100fc303098275da2c660f6eca3db50e500652f2"
+        ]
+      }
+    ]
+  }
+]

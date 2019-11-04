@@ -1,0 +1,255 @@
+[
+  {
+    "RepositoryName": "parquet-mr",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T04:47:11Z",
+    "EndDate": "2019-09-24T05:47:11",
+    "Branches": 36,
+    "Forks": 815,
+    "Files": [
+      {
+        "Sha": "c08dc6cef957b49a17193f4a5599c3eceaa26af2",
+        "FileName": "ParquetFileReader.java",
+        "Path": "parquet-hadoop/src/main/java/org/apache/parquet/hadoop/ParquetFileReader.java",
+        "DateUpdated": "2019-09-24T04:59:59Z",
+        "Additions": 9,
+        "Deletions": 1,
+        "Commits": [
+          "76c40e7039069a71448f6f30e3de4e86302d17e7"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "76c40e7039069a71448f6f30e3de4e86302d17e7",
+        "Author": {
+          "name": "null",
+          "location": "Shanghai"
+        },
+        "Commitor": {
+          "name": "\"Gabor Szadovszky\""
+        },
+        "Date": "2019-09-24T04:59:59Z",
+        "additions": 9,
+        "deletions": 1,
+        "files": [
+          "c08dc6cef957b49a17193f4a5599c3eceaa26af2"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "parquet-mr",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T07:47:14Z",
+    "EndDate": "2019-09-24T08:47:14",
+    "Branches": 36,
+    "Forks": 816,
+    "Files": [
+      {
+        "Sha": "85ec3cff866849fb5ee7b9c9a66aeb7287c88be1",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-24T08:13:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "6e072cfa9ff47d45c7ebcac3d03ce5877e33bb4a"
+        ]
+      },
+      {
+        "Sha": "0333e2a530c31a84f5bf6387b6a3edaa1d7379aa",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-24T08:05:13Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0cb5ead05a2acdb6b492c370b72970764cb7f8d0"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "6e072cfa9ff47d45c7ebcac3d03ce5877e33bb4a",
+        "Author": {
+          "name": "\"Kengo Seki\"",
+          "location": "Tokyo, Japan",
+          "company": "NTT DATA"
+        },
+        "Commitor": {
+          "name": "\"Nándor Kollár\"",
+          "location": "Budapest",
+          "company": "Cloudera"
+        },
+        "Date": "2019-09-24T08:13:50Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "85ec3cff866849fb5ee7b9c9a66aeb7287c88be1"
+        ]
+      },
+      {
+        "sha": "0cb5ead05a2acdb6b492c370b72970764cb7f8d0",
+        "Author": {
+          "name": "\"Ismaël Mejía\""
+        },
+        "Commitor": {
+          "name": "\"Gabor Szadovszky\""
+        },
+        "Date": "2019-09-24T08:05:13Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "0333e2a530c31a84f5bf6387b6a3edaa1d7379aa"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "parquet-mr",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T09:46:57Z",
+    "EndDate": "2019-09-24T10:46:57",
+    "Branches": 36,
+    "Forks": 816,
+    "Files": [
+      {
+        "Sha": "63101bd1b50122cd8174b99dedbdaccb55fef820",
+        "FileName": "README.md",
+        "Path": "parquet-benchmarks/README.md",
+        "DateUpdated": "2019-09-24T10:22:40Z",
+        "Additions": 28,
+        "Deletions": 8,
+        "Commits": [
+          "7c4d1ec859d46bead9f8ed9446d2d5875082211d"
+        ]
+      },
+      {
+        "Sha": "ba407662d228b90f08b33575d4df4de17d05175b",
+        "FileName": "run.sh",
+        "Path": "parquet-benchmarks/run.sh",
+        "DateUpdated": "2019-09-24T10:22:40Z",
+        "Additions": 88,
+        "Deletions": 8,
+        "Commits": [
+          "7c4d1ec859d46bead9f8ed9446d2d5875082211d"
+        ]
+      },
+      {
+        "Sha": "24da8220ca7faf308e978e7bf7860c4bfda58d3f",
+        "FileName": "BenchmarkFiles.java",
+        "Path": "parquet-benchmarks/src/main/java/org/apache/parquet/benchmarks/BenchmarkFiles.java",
+        "DateUpdated": "2019-09-24T10:22:40Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "7c4d1ec859d46bead9f8ed9446d2d5875082211d"
+        ]
+      },
+      {
+        "Sha": "3b5db686fa83ef9a3d6e615bf99923abbf2d96f2",
+        "FileName": "DataGenerator.java",
+        "Path": "parquet-benchmarks/src/main/java/org/apache/parquet/benchmarks/DataGenerator.java",
+        "DateUpdated": "2019-09-24T10:22:40Z",
+        "Additions": 1,
+        "Deletions": 8,
+        "Commits": [
+          "7c4d1ec859d46bead9f8ed9446d2d5875082211d"
+        ]
+      },
+      {
+        "Sha": "49ebdce8e320bd459b2f23184c8f7932eb2cd197",
+        "FileName": "PageChecksumDataGenerator.java",
+        "Path": "parquet-benchmarks/src/main/java/org/apache/parquet/benchmarks/PageChecksumDataGenerator.java",
+        "DateUpdated": "2019-09-24T10:22:40Z",
+        "Additions": 1,
+        "Deletions": 22,
+        "Commits": [
+          "7c4d1ec859d46bead9f8ed9446d2d5875082211d"
+        ]
+      },
+      {
+        "Sha": "be2ebe40f7cd97177c0c17cc57c14e6d6986e4a7",
+        "FileName": "PageChecksumReadBenchmarks.java",
+        "Path": "parquet-benchmarks/src/main/java/org/apache/parquet/benchmarks/PageChecksumReadBenchmarks.java",
+        "DateUpdated": "2019-09-24T10:22:40Z",
+        "Additions": 40,
+        "Deletions": 23,
+        "Commits": [
+          "7c4d1ec859d46bead9f8ed9446d2d5875082211d"
+        ]
+      },
+      {
+        "Sha": "e892d53a76b6449eb67322d91628d26c67596f2b",
+        "FileName": "PageChecksumWriteBenchmarks.java",
+        "Path": "parquet-benchmarks/src/main/java/org/apache/parquet/benchmarks/PageChecksumWriteBenchmarks.java",
+        "DateUpdated": "2019-09-24T10:22:40Z",
+        "Additions": 37,
+        "Deletions": 19,
+        "Commits": [
+          "7c4d1ec859d46bead9f8ed9446d2d5875082211d"
+        ]
+      },
+      {
+        "Sha": "e74204a69d2c8913ccfe52d252895fc0a53eb780",
+        "FileName": "ReadBenchmarks.java",
+        "Path": "parquet-benchmarks/src/main/java/org/apache/parquet/benchmarks/ReadBenchmarks.java",
+        "DateUpdated": "2019-09-24T10:22:40Z",
+        "Additions": 25,
+        "Deletions": 0,
+        "Commits": [
+          "7c4d1ec859d46bead9f8ed9446d2d5875082211d"
+        ]
+      },
+      {
+        "Sha": "0a2d2c058ba22c73c97bb15e2f37827a18c85f57",
+        "FileName": "WriteBenchmarks.java",
+        "Path": "parquet-benchmarks/src/main/java/org/apache/parquet/benchmarks/WriteBenchmarks.java",
+        "DateUpdated": "2019-09-24T10:22:40Z",
+        "Additions": 10,
+        "Deletions": 1,
+        "Commits": [
+          "7c4d1ec859d46bead9f8ed9446d2d5875082211d"
+        ]
+      },
+      {
+        "Sha": "f4737c8808b455d11564a00c335faf74edea7831",
+        "FileName": "log4j.properties",
+        "Path": "parquet-benchmarks/src/main/resources/log4j.properties",
+        "DateUpdated": "2019-09-24T10:22:40Z",
+        "Additions": 5,
+        "Deletions": 9,
+        "Commits": [
+          "7c4d1ec859d46bead9f8ed9446d2d5875082211d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "7c4d1ec859d46bead9f8ed9446d2d5875082211d",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Gabor Szadovszky\""
+        },
+        "Date": "2019-09-24T10:22:40Z",
+        "additions": 237,
+        "deletions": 98,
+        "files": [
+          "63101bd1b50122cd8174b99dedbdaccb55fef820",
+          "ba407662d228b90f08b33575d4df4de17d05175b",
+          "24da8220ca7faf308e978e7bf7860c4bfda58d3f",
+          "3b5db686fa83ef9a3d6e615bf99923abbf2d96f2",
+          "49ebdce8e320bd459b2f23184c8f7932eb2cd197",
+          "be2ebe40f7cd97177c0c17cc57c14e6d6986e4a7",
+          "e892d53a76b6449eb67322d91628d26c67596f2b",
+          "e74204a69d2c8913ccfe52d252895fc0a53eb780",
+          "0a2d2c058ba22c73c97bb15e2f37827a18c85f57",
+          "f4737c8808b455d11564a00c335faf74edea7831"
+        ]
+      }
+    ]
+  }
+]

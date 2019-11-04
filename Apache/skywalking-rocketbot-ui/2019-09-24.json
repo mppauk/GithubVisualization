@@ -1,0 +1,92 @@
+[
+  {
+    "RepositoryName": "skywalking-rocketbot-ui",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T04:48:53Z",
+    "EndDate": "2019-09-24T05:48:53",
+    "Branches": 2,
+    "Forks": 136,
+    "Files": [
+      {
+        "Sha": "9620a9198e05ca658600febca826592e476908e7",
+        "FileName": ".gitignore",
+        "Path": ".gitignore",
+        "DateUpdated": "2019-09-24T05:22:17Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "1adce5403957510d1ff3f714898636809172ac6c"
+        ]
+      },
+      {
+        "Sha": "7762b3e59fd05fe3c8e357c1819d086e6d740484",
+        "FileName": "package-lock.json",
+        "Path": "package-lock.json",
+        "DateUpdated": "2019-09-24T05:22:17Z",
+        "Additions": 103,
+        "Deletions": 83,
+        "Commits": [
+          "1adce5403957510d1ff3f714898636809172ac6c"
+        ]
+      },
+      {
+        "Sha": "d83738fea86f35216a0c2b84f2c2dfb12ae60853",
+        "FileName": "package.json",
+        "Path": "package.json",
+        "DateUpdated": "2019-09-24T05:22:17Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "1adce5403957510d1ff3f714898636809172ac6c"
+        ]
+      },
+      {
+        "Sha": "1c459d478a033619d6b13ac2198fa22474a4ed17",
+        "FileName": "index.ts",
+        "Path": "src/store/modules/topology/index.ts",
+        "DateUpdated": "2019-09-24T05:22:17Z",
+        "Additions": 5,
+        "Deletions": 2,
+        "Commits": [
+          "1adce5403957510d1ff3f714898636809172ac6c"
+        ]
+      },
+      {
+        "Sha": "d716e5d7633c61c427a8d59c3f32b159aa2e7f1d",
+        "FileName": "topo-aside.vue",
+        "Path": "src/views/components/topology/topo-aside.vue",
+        "DateUpdated": "2019-09-24T05:22:17Z",
+        "Additions": 106,
+        "Deletions": 9,
+        "Commits": [
+          "1adce5403957510d1ff3f714898636809172ac6c"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "1adce5403957510d1ff3f714898636809172ac6c",
+        "Author": {
+          "name": "\"Kdump\"",
+          "location": "Shenzhen, China",
+          "company": "@apache "
+        },
+        "Commitor": {
+          "name": "\"å?´æ™Ÿ Wu Sheng\"",
+          "location": "Beijing(China), SF(US)",
+          "company": "@apache  @tetrateio "
+        },
+        "Date": "2019-09-24T05:22:17Z",
+        "additions": 216,
+        "deletions": 94,
+        "files": [
+          "9620a9198e05ca658600febca826592e476908e7",
+          "7762b3e59fd05fe3c8e357c1819d086e6d740484",
+          "d83738fea86f35216a0c2b84f2c2dfb12ae60853",
+          "1c459d478a033619d6b13ac2198fa22474a4ed17",
+          "d716e5d7633c61c427a8d59c3f32b159aa2e7f1d"
+        ]
+      }
+    ]
+  }
+]

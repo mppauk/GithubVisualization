@@ -1,0 +1,233 @@
+[
+  {
+    "RepositoryName": "flink",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T06:02:58Z",
+    "EndDate": "2019-09-26T07:02:58",
+    "Branches": 94,
+    "Forks": 5600,
+    "Files": [
+      {
+        "Sha": "e43e84121c3254d7fc501ce2014c41b16995be2d",
+        "FileName": "FunctionDefinition.java",
+        "Path": "flink-table/flink-table-common/src/main/java/org/apache/flink/table/functions/FunctionDefinition.java",
+        "DateUpdated": "2019-09-26T06:50:32Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "2b608e3169ee416c922a8337c2ba5fa873516fde"
+        ]
+      },
+      {
+        "Sha": "7b36b132a4719f61f5a933bb9378bae751aa72e9",
+        "FileName": "FunctionLanguage.java",
+        "Path": "flink-table/flink-table-common/src/main/java/org/apache/flink/table/functions/FunctionLanguage.java",
+        "DateUpdated": "2019-09-26T06:50:32Z",
+        "Additions": 32,
+        "Deletions": 0,
+        "Commits": [
+          "2b608e3169ee416c922a8337c2ba5fa873516fde"
+        ]
+      },
+      {
+        "Sha": "4ba17131ddbdf750e42cbcdbf1c2e2874297e80d",
+        "FileName": "CalciteConfig.scala",
+        "Path": "flink-table/flink-table-planner/src/main/scala/org/apache/flink/table/calcite/CalciteConfig.scala",
+        "DateUpdated": "2019-09-26T06:50:32Z",
+        "Additions": 31,
+        "Deletions": 0,
+        "Commits": [
+          "2b608e3169ee416c922a8337c2ba5fa873516fde"
+        ]
+      },
+      {
+        "Sha": "4336c074c3c94808cb0c492147db29a3c93b7374",
+        "FileName": "Optimizer.scala",
+        "Path": "flink-table/flink-table-planner/src/main/scala/org/apache/flink/table/plan/Optimizer.scala",
+        "DateUpdated": "2019-09-26T06:50:32Z",
+        "Additions": 39,
+        "Deletions": 0,
+        "Commits": [
+          "2b608e3169ee416c922a8337c2ba5fa873516fde"
+        ]
+      },
+      {
+        "Sha": "1ef6d7017d2606a80168abcaedc3711432d3603f",
+        "FileName": "StreamOptimizer.scala",
+        "Path": "flink-table/flink-table-planner/src/main/scala/org/apache/flink/table/plan/StreamOptimizer.scala",
+        "DateUpdated": "2019-09-26T06:50:32Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "2b608e3169ee416c922a8337c2ba5fa873516fde"
+        ]
+      },
+      {
+        "Sha": "34f4ba84bda28903ffb3c192765d2a161719e7d3",
+        "FileName": "CommonCalc.scala",
+        "Path": "flink-table/flink-table-planner/src/main/scala/org/apache/flink/table/plan/nodes/CommonCalc.scala",
+        "DateUpdated": "2019-09-26T06:50:32Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "2b608e3169ee416c922a8337c2ba5fa873516fde"
+        ]
+      },
+      {
+        "Sha": "7d2aa58a6353ee09d324f3836b69b6db6c317805",
+        "FileName": "DataSetCalc.scala",
+        "Path": "flink-table/flink-table-planner/src/main/scala/org/apache/flink/table/plan/nodes/dataset/DataSetCalc.scala",
+        "DateUpdated": "2019-09-26T06:50:32Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "2b608e3169ee416c922a8337c2ba5fa873516fde"
+        ]
+      },
+      {
+        "Sha": "f3e6afa7e4791353381a80aa03afef80e48c3f43",
+        "FileName": "DataStreamCalc.scala",
+        "Path": "flink-table/flink-table-planner/src/main/scala/org/apache/flink/table/plan/nodes/datastream/DataStreamCalc.scala",
+        "DateUpdated": "2019-09-26T06:50:32Z",
+        "Additions": 10,
+        "Deletions": 33,
+        "Commits": [
+          "2b608e3169ee416c922a8337c2ba5fa873516fde"
+        ]
+      },
+      {
+        "Sha": "5e62a9f2ddfceb12e33e45022c70563c454b23c2",
+        "FileName": "DataStreamCalcBase.scala",
+        "Path": "flink-table/flink-table-planner/src/main/scala/org/apache/flink/table/plan/nodes/datastream/DataStreamCalcBase.scala",
+        "DateUpdated": "2019-09-26T06:50:32Z",
+        "Additions": 68,
+        "Deletions": 0,
+        "Commits": [
+          "2b608e3169ee416c922a8337c2ba5fa873516fde"
+        ]
+      },
+      {
+        "Sha": "fbb7be14bc4580ba4d9369c94ea0dc70d20e95a1",
+        "FileName": "DataStreamPythonCalc.scala",
+        "Path": "flink-table/flink-table-planner/src/main/scala/org/apache/flink/table/plan/nodes/datastream/DataStreamPythonCalc.scala",
+        "DateUpdated": "2019-09-26T06:50:32Z",
+        "Additions": 68,
+        "Deletions": 0,
+        "Commits": [
+          "2b608e3169ee416c922a8337c2ba5fa873516fde"
+        ]
+      },
+      {
+        "Sha": "c13ed65ea465c8fdc27747818d1336882a428d02",
+        "FileName": "FlinkRuleSets.scala",
+        "Path": "flink-table/flink-table-planner/src/main/scala/org/apache/flink/table/plan/rules/FlinkRuleSets.scala",
+        "DateUpdated": "2019-09-26T06:50:32Z",
+        "Additions": 9,
+        "Deletions": 1,
+        "Commits": [
+          "2b608e3169ee416c922a8337c2ba5fa873516fde"
+        ]
+      },
+      {
+        "Sha": "a7c16d9b840193c242952980af5e6ff053686aa4",
+        "FileName": "DataStreamCalcRule.scala",
+        "Path": "flink-table/flink-table-planner/src/main/scala/org/apache/flink/table/plan/rules/datastream/DataStreamCalcRule.scala",
+        "DateUpdated": "2019-09-26T06:50:32Z",
+        "Additions": 12,
+        "Deletions": 3,
+        "Commits": [
+          "2b608e3169ee416c922a8337c2ba5fa873516fde"
+        ]
+      },
+      {
+        "Sha": "e164c0991047c41cd382a71b38c9616f3d1f28d3",
+        "FileName": "DataStreamPythonCalcRule.scala",
+        "Path": "flink-table/flink-table-planner/src/main/scala/org/apache/flink/table/plan/rules/datastream/DataStreamPythonCalcRule.scala",
+        "DateUpdated": "2019-09-26T06:50:32Z",
+        "Additions": 64,
+        "Deletions": 0,
+        "Commits": [
+          "2b608e3169ee416c922a8337c2ba5fa873516fde"
+        ]
+      },
+      {
+        "Sha": "deb56c55de8a004ef1f4e0c843269b26e128ed7e",
+        "FileName": "PythonScalarFunctionSplitRule.scala",
+        "Path": "flink-table/flink-table-planner/src/main/scala/org/apache/flink/table/plan/rules/logical/PythonScalarFunctionSplitRule.scala",
+        "DateUpdated": "2019-09-26T06:50:32Z",
+        "Additions": 211,
+        "Deletions": 0,
+        "Commits": [
+          "2b608e3169ee416c922a8337c2ba5fa873516fde"
+        ]
+      },
+      {
+        "Sha": "cd4efd9c770c76d070a866a49ef938b3740fd73a",
+        "FileName": "PythonUtil.scala",
+        "Path": "flink-table/flink-table-planner/src/main/scala/org/apache/flink/table/plan/util/PythonUtil.scala",
+        "DateUpdated": "2019-09-26T06:50:32Z",
+        "Additions": 68,
+        "Deletions": 0,
+        "Commits": [
+          "2b608e3169ee416c922a8337c2ba5fa873516fde"
+        ]
+      },
+      {
+        "Sha": "9dc36065cada59d1aa3df83ebfe633c11aed5d4c",
+        "FileName": "CalciteConfigBuilderTest.scala",
+        "Path": "flink-table/flink-table-planner/src/test/scala/org/apache/flink/table/calcite/CalciteConfigBuilderTest.scala",
+        "DateUpdated": "2019-09-26T06:50:32Z",
+        "Additions": 55,
+        "Deletions": 0,
+        "Commits": [
+          "2b608e3169ee416c922a8337c2ba5fa873516fde"
+        ]
+      },
+      {
+        "Sha": "3db9398733376aec7331ba65d1d30ecef67d9ecd",
+        "FileName": "PythonScalarFunctionSplitRuleTest.scala",
+        "Path": "flink-table/flink-table-planner/src/test/scala/org/apache/flink/table/plan/PythonScalarFunctionSplitRuleTest.scala",
+        "DateUpdated": "2019-09-26T06:50:32Z",
+        "Additions": 238,
+        "Deletions": 0,
+        "Commits": [
+          "2b608e3169ee416c922a8337c2ba5fa873516fde"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "2b608e3169ee416c922a8337c2ba5fa873516fde",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Hequn Cheng\"",
+          "company": "Alibaba"
+        },
+        "Date": "2019-09-26T06:50:32Z",
+        "additions": 914,
+        "deletions": 41,
+        "files": [
+          "e43e84121c3254d7fc501ce2014c41b16995be2d",
+          "7b36b132a4719f61f5a933bb9378bae751aa72e9",
+          "4ba17131ddbdf750e42cbcdbf1c2e2874297e80d",
+          "4336c074c3c94808cb0c492147db29a3c93b7374",
+          "1ef6d7017d2606a80168abcaedc3711432d3603f",
+          "34f4ba84bda28903ffb3c192765d2a161719e7d3",
+          "7d2aa58a6353ee09d324f3836b69b6db6c317805",
+          "f3e6afa7e4791353381a80aa03afef80e48c3f43",
+          "5e62a9f2ddfceb12e33e45022c70563c454b23c2",
+          "fbb7be14bc4580ba4d9369c94ea0dc70d20e95a1",
+          "c13ed65ea465c8fdc27747818d1336882a428d02",
+          "a7c16d9b840193c242952980af5e6ff053686aa4",
+          "e164c0991047c41cd382a71b38c9616f3d1f28d3",
+          "deb56c55de8a004ef1f4e0c843269b26e128ed7e",
+          "cd4efd9c770c76d070a866a49ef938b3740fd73a",
+          "9dc36065cada59d1aa3df83ebfe633c11aed5d4c",
+          "3db9398733376aec7331ba65d1d30ecef67d9ecd"
+        ]
+      }
+    ]
+  }
+]

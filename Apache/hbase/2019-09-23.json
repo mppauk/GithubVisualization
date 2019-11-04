@@ -1,0 +1,177 @@
+[
+  {
+    "RepositoryName": "hbase",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T04:02:36Z",
+    "EndDate": "2019-09-23T05:02:36",
+    "Branches": 48,
+    "Forks": 2130,
+    "Files": [
+      {
+        "Sha": "d0085ffb4a86f963524ac063e25c879e684ea706",
+        "FileName": "MetricsTableQueryMeter.java",
+        "Path": "hbase-hadoop-compat/src/main/java/org/apache/hadoop/hbase/regionserver/MetricsTableQueryMeter.java",
+        "DateUpdated": "2019-09-23T04:51:25Z",
+        "Additions": 53,
+        "Deletions": 0,
+        "Commits": [
+          "a8e3d23cca4d98d1c288bca0da056f92c49b453f"
+        ]
+      },
+      {
+        "Sha": "5a3f3b9d2491e908480dfae1a38698b0bf5eed64",
+        "FileName": "MetricsTableLatenciesImpl.java",
+        "Path": "hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/regionserver/MetricsTableLatenciesImpl.java",
+        "DateUpdated": "2019-09-23T04:51:25Z",
+        "Additions": 13,
+        "Deletions": 0,
+        "Commits": [
+          "a8e3d23cca4d98d1c288bca0da056f92c49b453f"
+        ]
+      },
+      {
+        "Sha": "438310ff1d44dc1a5a34d10fbf327d7e09fbaa5e",
+        "FileName": "MetricsTableQueryMeterImpl.java",
+        "Path": "hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/regionserver/MetricsTableQueryMeterImpl.java",
+        "DateUpdated": "2019-09-23T04:51:25Z",
+        "Additions": 102,
+        "Deletions": 0,
+        "Commits": [
+          "a8e3d23cca4d98d1c288bca0da056f92c49b453f"
+        ]
+      },
+      {
+        "Sha": "a9ff44072f9267cff3cc2287ef41c235907ebf50",
+        "FileName": "HRegion.java",
+        "Path": "hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/HRegion.java",
+        "DateUpdated": "2019-09-23T04:51:25Z",
+        "Additions": 16,
+        "Deletions": 0,
+        "Commits": [
+          "a8e3d23cca4d98d1c288bca0da056f92c49b453f"
+        ]
+      },
+      {
+        "Sha": "0738f5e9b2b614878a79a282409d456ea143d91b",
+        "FileName": "MetricsRegionServer.java",
+        "Path": "hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/MetricsRegionServer.java",
+        "DateUpdated": "2019-09-23T04:51:25Z",
+        "Additions": 33,
+        "Deletions": 0,
+        "Commits": [
+          "a8e3d23cca4d98d1c288bca0da056f92c49b453f"
+        ]
+      },
+      {
+        "Sha": "ec6c0493bb75e200253e6e1cac15e95fbf22fed0",
+        "FileName": "RegionServerTableMetrics.java",
+        "Path": "hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/RegionServerTableMetrics.java",
+        "DateUpdated": "2019-09-23T04:51:25Z",
+        "Additions": 20,
+        "Deletions": 0,
+        "Commits": [
+          "a8e3d23cca4d98d1c288bca0da056f92c49b453f"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a8e3d23cca4d98d1c288bca0da056f92c49b453f",
+        "Author": {
+          "name": "\"zbq.dean\""
+        },
+        "Commitor": {
+          "name": "\"Reid Chan\"",
+          "location": "Zodiac"
+        },
+        "Date": "2019-09-23T04:51:25Z",
+        "additions": 237,
+        "deletions": 0,
+        "files": [
+          "d0085ffb4a86f963524ac063e25c879e684ea706",
+          "5a3f3b9d2491e908480dfae1a38698b0bf5eed64",
+          "438310ff1d44dc1a5a34d10fbf327d7e09fbaa5e",
+          "a9ff44072f9267cff3cc2287ef41c235907ebf50",
+          "0738f5e9b2b614878a79a282409d456ea143d91b",
+          "ec6c0493bb75e200253e6e1cac15e95fbf22fed0"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "hbase",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T09:02:23Z",
+    "EndDate": "2019-09-23T10:02:23",
+    "Branches": 49,
+    "Forks": 2131,
+    "Files": [
+      {
+        "Sha": "6725b475fba12952945816ee0bdbad37388ae4a9",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-23T09:59:06Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d3c1bb42e9e60a30d9579c84fa30f2c324c75d70"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d3c1bb42e9e60a30d9579c84fa30f2c324c75d70",
+        "Author": {
+          "name": "\"Balazs Meszaros\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T09:59:06Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "6725b475fba12952945816ee0bdbad37388ae4a9"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "hbase",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T12:03:08Z",
+    "EndDate": "2019-09-23T13:03:08",
+    "Branches": 48,
+    "Forks": 2131,
+    "Files": [
+      {
+        "Sha": "cb66cc86c6ff5aedaef31b528a94966989581532",
+        "FileName": "Jenkinsfile",
+        "Path": "dev-support/Jenkinsfile",
+        "DateUpdated": "2019-09-23T13:00:22Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "56489819bc835c9231053b550215f139c9da648e"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "56489819bc835c9231053b550215f139c9da648e",
+        "Author": {
+          "name": "\"Peter Somogyi\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T13:00:22Z",
+        "additions": 1,
+        "deletions": 0,
+        "files": [
+          "cb66cc86c6ff5aedaef31b528a94966989581532"
+        ]
+      }
+    ]
+  }
+]

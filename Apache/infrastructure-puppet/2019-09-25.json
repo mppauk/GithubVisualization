@@ -1,0 +1,363 @@
+[
+  {
+    "RepositoryName": "infrastructure-puppet",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T23:46:50Z",
+    "EndDate": "2019-09-25T00:46:50",
+    "Branches": 351,
+    "Forks": 124,
+    "Files": [
+      {
+        "Sha": "2bed35ac7fe6abab95f2eb4d10fb75993b060ef0",
+        "FileName": "loggy.py",
+        "Path": "modules/loggy/files/loggy.py",
+        "DateUpdated": "2019-09-25T00:33:39Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9b512795a6604cb5bb9c60dd4f631f2561c91ffd"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "9b512795a6604cb5bb9c60dd4f631f2561c91ffd",
+        "Author": {
+          "name": "\"Daniel Gruno\"",
+          "location": "Copenhagen, Denmark"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T00:33:39Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "2bed35ac7fe6abab95f2eb4d10fb75993b060ef0"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "infrastructure-puppet",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T00:03:01Z",
+    "EndDate": "2019-09-25T01:03:01",
+    "Branches": 351,
+    "Forks": 124,
+    "Files": [
+      {
+        "Sha": "2bed35ac7fe6abab95f2eb4d10fb75993b060ef0",
+        "FileName": "loggy.py",
+        "Path": "modules/loggy/files/loggy.py",
+        "DateUpdated": "2019-09-25T00:33:39Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9b512795a6604cb5bb9c60dd4f631f2561c91ffd"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "9b512795a6604cb5bb9c60dd4f631f2561c91ffd",
+        "Author": {
+          "name": "\"Daniel Gruno\"",
+          "location": "Copenhagen, Denmark"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T00:33:39Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "2bed35ac7fe6abab95f2eb4d10fb75993b060ef0"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "infrastructure-puppet",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T00:46:46Z",
+    "EndDate": "2019-09-25T01:46:46",
+    "Branches": 351,
+    "Forks": 124,
+    "Files": [
+      {
+        "Sha": "5e86c96c800083299d91b50f7c6af0ea38770889",
+        "FileName": "common.yaml",
+        "Path": "data/common.yaml",
+        "DateUpdated": "2019-09-25T01:17:44Z",
+        "Additions": 6,
+        "Deletions": 0,
+        "Commits": [
+          "00e1b8954387657aca4d455d5abccacf5ef6b8a6",
+          "4c76f55cf848fd7f21db53f455d1ac78629f6d4e"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "00e1b8954387657aca4d455d5abccacf5ef6b8a6",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T01:17:44Z",
+        "additions": 6,
+        "deletions": 0,
+        "files": [
+          "5e86c96c800083299d91b50f7c6af0ea38770889"
+        ]
+      },
+      {
+        "sha": "4c76f55cf848fd7f21db53f455d1ac78629f6d4e",
+        "Author": {
+          "name": "\"Chris Thistlethwaite\"",
+          "company": "The Apache Software Foundation"
+        },
+        "Commitor": {
+          "name": "\"Chris Thistlethwaite\"",
+          "company": "The Apache Software Foundation"
+        },
+        "Date": "2019-09-25T01:15:12Z",
+        "additions": 6,
+        "deletions": 0,
+        "files": [
+          "5e86c96c800083299d91b50f7c6af0ea38770889"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "infrastructure-puppet",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T01:03:24Z",
+    "EndDate": "2019-09-25T02:03:24",
+    "Branches": 351,
+    "Forks": 124,
+    "Files": [
+      {
+        "Sha": "e7b8d8cb50bbd7053be0c63bd500eae860c37de6",
+        "FileName": "staged.service",
+        "Path": "modules/staged/files/staged.service",
+        "DateUpdated": "2019-09-25T01:48:25Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "f4d73831f5356c77412d40d52dbeda015a357683"
+        ]
+      },
+      {
+        "Sha": "5e86c96c800083299d91b50f7c6af0ea38770889",
+        "FileName": "common.yaml",
+        "Path": "data/common.yaml",
+        "DateUpdated": "2019-09-25T01:17:44Z",
+        "Additions": 6,
+        "Deletions": 0,
+        "Commits": [
+          "00e1b8954387657aca4d455d5abccacf5ef6b8a6",
+          "4c76f55cf848fd7f21db53f455d1ac78629f6d4e"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "f4d73831f5356c77412d40d52dbeda015a357683",
+        "Author": {
+          "name": "\"Daniel Gruno\"",
+          "location": "Copenhagen, Denmark"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T01:48:25Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "e7b8d8cb50bbd7053be0c63bd500eae860c37de6"
+        ]
+      },
+      {
+        "sha": "00e1b8954387657aca4d455d5abccacf5ef6b8a6",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T01:17:44Z",
+        "additions": 6,
+        "deletions": 0,
+        "files": [
+          "5e86c96c800083299d91b50f7c6af0ea38770889"
+        ]
+      },
+      {
+        "sha": "4c76f55cf848fd7f21db53f455d1ac78629f6d4e",
+        "Author": {
+          "name": "\"Chris Thistlethwaite\"",
+          "company": "The Apache Software Foundation"
+        },
+        "Commitor": {
+          "name": "\"Chris Thistlethwaite\"",
+          "company": "The Apache Software Foundation"
+        },
+        "Date": "2019-09-25T01:15:12Z",
+        "additions": 6,
+        "deletions": 0,
+        "files": [
+          "5e86c96c800083299d91b50f7c6af0ea38770889"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "infrastructure-puppet",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T01:46:54Z",
+    "EndDate": "2019-09-25T02:46:54",
+    "Branches": 351,
+    "Forks": 124,
+    "Files": [
+      {
+        "Sha": "8bf7b5965907343ba3bcb3f99b5abf9ce3c5b679",
+        "FileName": "asfyaml.py",
+        "Path": "modules/gitbox/files/asfgit/asfyaml.py",
+        "DateUpdated": "2019-09-25T02:09:55Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "3a992a1ff7bffc61b6e52ce09e186e8cb18fd669"
+        ]
+      },
+      {
+        "Sha": "e7b8d8cb50bbd7053be0c63bd500eae860c37de6",
+        "FileName": "staged.service",
+        "Path": "modules/staged/files/staged.service",
+        "DateUpdated": "2019-09-25T01:48:25Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "f4d73831f5356c77412d40d52dbeda015a357683"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "3a992a1ff7bffc61b6e52ce09e186e8cb18fd669",
+        "Author": {
+          "name": "\"Daniel Gruno\"",
+          "location": "Copenhagen, Denmark"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T02:09:55Z",
+        "additions": 2,
+        "deletions": 1,
+        "files": [
+          "8bf7b5965907343ba3bcb3f99b5abf9ce3c5b679"
+        ]
+      },
+      {
+        "sha": "f4d73831f5356c77412d40d52dbeda015a357683",
+        "Author": {
+          "name": "\"Daniel Gruno\"",
+          "location": "Copenhagen, Denmark"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T01:48:25Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "e7b8d8cb50bbd7053be0c63bd500eae860c37de6"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "infrastructure-puppet",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T02:03:08Z",
+    "EndDate": "2019-09-25T03:03:08",
+    "Branches": 351,
+    "Forks": 124,
+    "Files": [
+      {
+        "Sha": "8bf7b5965907343ba3bcb3f99b5abf9ce3c5b679",
+        "FileName": "asfyaml.py",
+        "Path": "modules/gitbox/files/asfgit/asfyaml.py",
+        "DateUpdated": "2019-09-25T02:09:55Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "3a992a1ff7bffc61b6e52ce09e186e8cb18fd669"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "3a992a1ff7bffc61b6e52ce09e186e8cb18fd669",
+        "Author": {
+          "name": "\"Daniel Gruno\"",
+          "location": "Copenhagen, Denmark"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T02:09:55Z",
+        "additions": 2,
+        "deletions": 1,
+        "files": [
+          "8bf7b5965907343ba3bcb3f99b5abf9ce3c5b679"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "infrastructure-puppet",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T12:03:21Z",
+    "EndDate": "2019-09-25T13:03:21",
+    "Branches": 351,
+    "Forks": 124,
+    "Files": [
+      {
+        "Sha": "0caa3944783ed054776119fa9b417fdda50d0368",
+        "FileName": "loggy.py",
+        "Path": "modules/loggy/files/loggy.py",
+        "DateUpdated": "2019-09-25T12:54:49Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "bb5a6071b714654ff00d08a03ebfe6bef37afeb2"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "bb5a6071b714654ff00d08a03ebfe6bef37afeb2",
+        "Author": {
+          "name": "\"Daniel Gruno\"",
+          "location": "Copenhagen, Denmark"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T12:54:49Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "0caa3944783ed054776119fa9b417fdda50d0368"
+        ]
+      }
+    ]
+  }
+]

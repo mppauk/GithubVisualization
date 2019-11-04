@@ -1,0 +1,102 @@
+[
+  {
+    "RepositoryName": "hive",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T00:45:55Z",
+    "EndDate": "2019-09-25T01:45:55",
+    "Branches": 62,
+    "Forks": 2696,
+    "Files": [
+      {
+        "Sha": "f6b43dbb3d302cb40b6c44c55c8a6279e8b284bd",
+        "FileName": "SharedWorkOptimizer.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/optimizer/SharedWorkOptimizer.java",
+        "DateUpdated": "2019-09-25T01:14:52Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "c6875a378dd78f3d3b3c6876455e69fdc24d13e4"
+        ]
+      },
+      {
+        "Sha": "0da7eee61c056448c27e0371f3b0369533568be8",
+        "FileName": "mergejoin.q",
+        "Path": "ql/src/test/queries/clientpositive/mergejoin.q",
+        "DateUpdated": "2019-09-25T01:14:52Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "c6875a378dd78f3d3b3c6876455e69fdc24d13e4"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c6875a378dd78f3d3b3c6876455e69fdc24d13e4",
+        "Author": {
+          "name": "\"Vineet G\""
+        },
+        "Commitor": {
+          "name": "\"Vineet G\""
+        },
+        "Date": "2019-09-25T01:14:52Z",
+        "additions": 9,
+        "deletions": 0,
+        "files": [
+          "f6b43dbb3d302cb40b6c44c55c8a6279e8b284bd",
+          "0da7eee61c056448c27e0371f3b0369533568be8"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "hive",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T01:02:28Z",
+    "EndDate": "2019-09-25T02:02:28",
+    "Branches": 62,
+    "Forks": 2696,
+    "Files": [
+      {
+        "Sha": "f6b43dbb3d302cb40b6c44c55c8a6279e8b284bd",
+        "FileName": "SharedWorkOptimizer.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/optimizer/SharedWorkOptimizer.java",
+        "DateUpdated": "2019-09-25T01:14:52Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "c6875a378dd78f3d3b3c6876455e69fdc24d13e4"
+        ]
+      },
+      {
+        "Sha": "0da7eee61c056448c27e0371f3b0369533568be8",
+        "FileName": "mergejoin.q",
+        "Path": "ql/src/test/queries/clientpositive/mergejoin.q",
+        "DateUpdated": "2019-09-25T01:14:52Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "c6875a378dd78f3d3b3c6876455e69fdc24d13e4"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c6875a378dd78f3d3b3c6876455e69fdc24d13e4",
+        "Author": {
+          "name": "\"Vineet G\""
+        },
+        "Commitor": {
+          "name": "\"Vineet G\""
+        },
+        "Date": "2019-09-25T01:14:52Z",
+        "additions": 9,
+        "deletions": 0,
+        "files": [
+          "f6b43dbb3d302cb40b6c44c55c8a6279e8b284bd",
+          "0da7eee61c056448c27e0371f3b0369533568be8"
+        ]
+      }
+    ]
+  }
+]

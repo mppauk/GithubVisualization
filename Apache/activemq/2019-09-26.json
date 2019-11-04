@@ -1,0 +1,112 @@
+[
+  {
+    "RepositoryName": "activemq",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T14:02:39Z",
+    "EndDate": "2019-09-26T15:02:39",
+    "Branches": 15,
+    "Forks": 1087,
+    "Files": [
+      {
+        "Sha": "ccf7485013a1292f07595f90564dcd8554cf121b",
+        "FileName": "JdbcMemoryTransactionStore.java",
+        "Path": "activemq-jdbc-store/src/main/java/org/apache/activemq/store/jdbc/JdbcMemoryTransactionStore.java",
+        "DateUpdated": "2019-09-26T14:54:57Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "ed5edb03d7fe63ef27269566aaa9a9b501650eb0"
+        ]
+      },
+      {
+        "Sha": "031d976e398b36d9f911a0ed38195e5537d54860",
+        "FileName": "DefaultJDBCAdapter.java",
+        "Path": "activemq-jdbc-store/src/main/java/org/apache/activemq/store/jdbc/adapter/DefaultJDBCAdapter.java",
+        "DateUpdated": "2019-09-26T14:54:57Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "ed5edb03d7fe63ef27269566aaa9a9b501650eb0"
+        ]
+      },
+      {
+        "Sha": "a8af5aecd6e7270c0140577b3241638dd4cc2251",
+        "FileName": "KahaDBStore.java",
+        "Path": "activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/KahaDBStore.java",
+        "DateUpdated": "2019-09-26T14:54:57Z",
+        "Additions": 52,
+        "Deletions": 14,
+        "Commits": [
+          "ed5edb03d7fe63ef27269566aaa9a9b501650eb0"
+        ]
+      },
+      {
+        "Sha": "b0f5c411d2b76b257f6ada44a2bee2b992468017",
+        "FileName": "KahaDBTransactionStore.java",
+        "Path": "activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/KahaDBTransactionStore.java",
+        "DateUpdated": "2019-09-26T14:54:57Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "ed5edb03d7fe63ef27269566aaa9a9b501650eb0"
+        ]
+      },
+      {
+        "Sha": "9e174c2ff06c69a08d2543899b7406b154fe450e",
+        "FileName": "XARecoveryBrokerTest.java",
+        "Path": "activemq-unit-tests/src/test/java/org/apache/activemq/broker/XARecoveryBrokerTest.java",
+        "DateUpdated": "2019-09-26T14:54:57Z",
+        "Additions": 92,
+        "Deletions": 1,
+        "Commits": [
+          "ed5edb03d7fe63ef27269566aaa9a9b501650eb0"
+        ]
+      },
+      {
+        "Sha": "eb8baddfaeaa283efd272a23998788215410adad",
+        "FileName": "mLevelDBXARecoveryBrokerTest.java",
+        "Path": "activemq-unit-tests/src/test/java/org/apache/activemq/broker/mLevelDBXARecoveryBrokerTest.java",
+        "DateUpdated": "2019-09-26T14:54:57Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "ed5edb03d7fe63ef27269566aaa9a9b501650eb0"
+        ]
+      },
+      {
+        "Sha": "e203f96b5fcd91ee423f1ccf14d8f8752d8006ff",
+        "FileName": "XACompletionTest.java",
+        "Path": "activemq-unit-tests/src/test/java/org/apache/activemq/store/jdbc/XACompletionTest.java",
+        "DateUpdated": "2019-09-26T14:54:57Z",
+        "Additions": 197,
+        "Deletions": 2,
+        "Commits": [
+          "ed5edb03d7fe63ef27269566aaa9a9b501650eb0"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "ed5edb03d7fe63ef27269566aaa9a9b501650eb0",
+        "Author": {
+          "name": "\"Gary Tully\""
+        },
+        "Commitor": {
+          "name": "\"Gary Tully\""
+        },
+        "Date": "2019-09-26T14:54:57Z",
+        "additions": 351,
+        "deletions": 20,
+        "files": [
+          "ccf7485013a1292f07595f90564dcd8554cf121b",
+          "031d976e398b36d9f911a0ed38195e5537d54860",
+          "a8af5aecd6e7270c0140577b3241638dd4cc2251",
+          "b0f5c411d2b76b257f6ada44a2bee2b992468017",
+          "9e174c2ff06c69a08d2543899b7406b154fe450e",
+          "eb8baddfaeaa283efd272a23998788215410adad",
+          "e203f96b5fcd91ee423f1ccf14d8f8752d8006ff"
+        ]
+      }
+    ]
+  }
+]

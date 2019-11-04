@@ -1,0 +1,40 @@
+[
+  {
+    "RepositoryName": "commons-net",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T23:02:28Z",
+    "EndDate": "2019-09-25T00:02:28",
+    "Branches": 11,
+    "Forks": 89,
+    "Files": [
+      {
+        "Sha": "eaeb0a8413b6866607c2daf9b59d9513f0fd9e2c",
+        "FileName": "IMAPImportMbox.java",
+        "Path": "src/main/java/org/apache/commons/net/examples/mail/IMAPImportMbox.java",
+        "DateUpdated": "2019-09-24T23:27:26Z",
+        "Additions": 15,
+        "Deletions": 3,
+        "Commits": [
+          "ab90a71cf2b43792799866c9ed78823bf34b6298"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "ab90a71cf2b43792799866c9ed78823bf34b6298",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-24T23:27:26Z",
+        "additions": 15,
+        "deletions": 3,
+        "files": [
+          "eaeb0a8413b6866607c2daf9b59d9513f0fd9e2c"
+        ]
+      }
+    ]
+  }
+]

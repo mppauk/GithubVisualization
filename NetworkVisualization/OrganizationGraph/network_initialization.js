@@ -1,6 +1,7 @@
     var OrgName = "apache"
     var RepoName;
-    loadJson("org/" + OrgName+"/recent/repos").then(initializeOrganizationNetwork).catch(function(error){});
+    var DefaultViewTime = 7;
+    loadJson(OrgName+"/RecentlyUpdatedRepositories.json").then(initializeOrganizationNetwork).catch(function(error){});
 
     function initializeOrganizationNetwork(Repos){
         var org_Root = {id:0, label:"Apache", group:0}
@@ -56,20 +57,30 @@
             if(id != null){
                 var node = org_nodes.get(id);
                 RepoName = node.label;
-                var dateQueryEndRange = new Date();
-                var dateQueryBeginRange = new Date();
-                dateQueryBeginRange.setDate(dateQueryBeginRange.getDate() - 3);
-                loadJson("org/"+OrgName+"/repo/"+RepoName+"/vulnerabilities")
+                var dateQueryEndRange = new Date(2019, 8, 26);
+                var day = dateQueryEndRange.getDay();
+                var dateQueryBeginRange = new Date(2019, 8, 26);
+                dateQueryBeginRange.setDate(dateQueryEndRange.getDate() - day);
+                loadJson(OrgName+"/"+RepoName+"/dependency-check-report.json")
                     .then(initializeVulnerabilityNetwork)
-                    .catch(function(error){console.log(error)});
-                loadJson("org/" + OrgName+'/repo/'+RepoName +'/snapshots/from/'+dateQueryBeginRange.toISOString().substring(0, 19)+'/to/' + dateQueryEndRange.toISOString()
-                    .substring(0, 19))
-                    .then(function(responseData){
+                    .catch(function(error){ initializeVulnerabilityNetwork(null)});
+                var promiseArray = []
+                var tempDate = new Date(dateQueryBeginRange.getTime())
+                while(tempDate.getTime() < dateQueryEndRange.getTime()){
+                    promiseArray.push(loadJson(OrgName+'/'+RepoName +'/'+tempDate.toISOString().substring(0, 10)+ ".json"));
+                    tempDate.setDate(tempDate.getDate() + 1);
+                }
+                Promise.allSettled(promiseArray).then(function(results){
+                        var responseData = [];
+                        results.forEach(function(result){
+                            if(result.status == "fulfilled"){
+                                responseData = responseData.concat(result.value);
+                            }
+                        });
                         initializeCommitNetwork(responseData, dateQueryBeginRange, dateQueryEndRange)
                     })
                     .then(initializeAnimationControls)
                     .then(initializeTimeRange)
-                    .then(initializeStatistics)
                     .catch(function(error){console.log(error)});
             }
         });

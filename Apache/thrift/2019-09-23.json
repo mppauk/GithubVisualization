@@ -1,0 +1,65 @@
+[
+  {
+    "RepositoryName": "thrift",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T12:02:37Z",
+    "EndDate": "2019-09-23T13:02:37",
+    "Branches": 18,
+    "Forks": 3060,
+    "Files": [
+      {
+        "Sha": "70e18472c2c2737984125318d9761ce5370560e7",
+        "FileName": "t_rs_generator.cc",
+        "Path": "compiler/cpp/src/thrift/generate/t_rs_generator.cc",
+        "DateUpdated": "2019-09-23T12:41:30Z",
+        "Additions": 21,
+        "Deletions": 6,
+        "Commits": [
+          "786c019476dd5508c53314cf3b25c47fe3ec2ae8"
+        ]
+      },
+      {
+        "Sha": "486188cfe9ccdac1fa533fa5fc2810f152f44f41",
+        "FileName": "Makefile.am",
+        "Path": "lib/rs/test/Makefile.am",
+        "DateUpdated": "2019-09-23T12:41:30Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "786c019476dd5508c53314cf3b25c47fe3ec2ae8"
+        ]
+      },
+      {
+        "Sha": "aa3e4eac5708d44ae3331669ed8dcefa0142d3d2",
+        "FileName": "Identifiers.thrift",
+        "Path": "test/Identifiers.thrift",
+        "DateUpdated": "2019-09-23T12:41:30Z",
+        "Additions": 6,
+        "Deletions": 0,
+        "Commits": [
+          "786c019476dd5508c53314cf3b25c47fe3ec2ae8"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "786c019476dd5508c53314cf3b25c47fe3ec2ae8",
+        "Author": {
+          "name": "\"Allen George\"",
+          "location": "New York, NY, USA"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T12:41:30Z",
+        "additions": 28,
+        "deletions": 6,
+        "files": [
+          "70e18472c2c2737984125318d9761ce5370560e7",
+          "486188cfe9ccdac1fa533fa5fc2810f152f44f41",
+          "aa3e4eac5708d44ae3331669ed8dcefa0142d3d2"
+        ]
+      }
+    ]
+  }
+]

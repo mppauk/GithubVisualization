@@ -1,0 +1,140 @@
+[
+  {
+    "RepositoryName": "dubbo-website",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T02:02:48Z",
+    "EndDate": "2019-09-23T03:02:48",
+    "Branches": 2,
+    "Forks": 322,
+    "Files": [
+      {
+        "Sha": "94c8708f5c764f3bea5dad3a288ce965dd5f197c",
+        "FileName": "router.md",
+        "Path": "docs/en-us/dev/impls/router.md",
+        "DateUpdated": "2019-09-23T02:56:06Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a2a572a833e2f1ea6818b7dec1bac248b3be5f6e"
+        ]
+      },
+      {
+        "Sha": "db5a865d7af05921fd9543ad410fb792fbb42454",
+        "FileName": "router.md",
+        "Path": "docs/zh-cn/dev/impls/router.md",
+        "DateUpdated": "2019-09-23T02:56:06Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a2a572a833e2f1ea6818b7dec1bac248b3be5f6e"
+        ]
+      },
+      {
+        "Sha": "d70072a1dba5e3caeac65bc1ae84245aee64f88f",
+        "FileName": "dubbo-generic-invoke.md",
+        "Path": "blog/zh-cn/dubbo-generic-invoke.md",
+        "DateUpdated": "2019-09-23T02:37:37Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "76ce22e73df6d150338a097c9075c74c4046bf86"
+        ]
+      },
+      {
+        "Sha": "017a2c51ddb7b422693baa516a294254b888d214",
+        "FileName": "recommend.md",
+        "Path": "docs/zh-cn/user/recommend.md",
+        "DateUpdated": "2019-09-23T02:36:42Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "2db949facde1bb4bd4b9d48fb67aad8f751d4f24"
+        ]
+      },
+      {
+        "Sha": "adbf0b40fada3c4831c179d5c8132779b786950d",
+        "FileName": "dubbo-service.md",
+        "Path": "docs/zh-cn/user/references/xml/dubbo-service.md",
+        "DateUpdated": "2019-09-23T02:36:42Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2db949facde1bb4bd4b9d48fb67aad8f751d4f24"
+        ]
+      },
+      {
+        "Sha": "7daa93858811171889cb601afbfc72e7c66051dd",
+        "FileName": "version-270.md",
+        "Path": "docs/zh-cn/user/versions/version-270.md",
+        "DateUpdated": "2019-09-23T02:36:42Z",
+        "Additions": 2,
+        "Deletions": 4,
+        "Commits": [
+          "2db949facde1bb4bd4b9d48fb67aad8f751d4f24"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a2a572a833e2f1ea6818b7dec1bac248b3be5f6e",
+        "Author": {
+          "name": "\"bailei\"",
+          "location": "Shanghai",
+          "company": "@Meituan-Dianping"
+        },
+        "Commitor": {
+          "name": "\"Xin Wang\"",
+          "location": "Beijing,China",
+          "company": "@apache "
+        },
+        "Date": "2019-09-23T02:56:06Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "94c8708f5c764f3bea5dad3a288ce965dd5f197c",
+          "db5a865d7af05921fd9543ad410fb792fbb42454"
+        ]
+      },
+      {
+        "sha": "76ce22e73df6d150338a097c9075c74c4046bf86",
+        "Author": {
+          "name": "\"zimingsir\"",
+          "location": "æ±Ÿè¥¿å?—æ˜Œ",
+          "company": "none"
+        },
+        "Commitor": {
+          "name": "\"Xin Wang\"",
+          "location": "Beijing,China",
+          "company": "@apache "
+        },
+        "Date": "2019-09-23T02:37:37Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "d70072a1dba5e3caeac65bc1ae84245aee64f88f"
+        ]
+      },
+      {
+        "sha": "2db949facde1bb4bd4b9d48fb67aad8f751d4f24",
+        "Author": {
+          "name": "\"maslke\"",
+          "location": "Nanjing China",
+          "company": "Whale Cloud"
+        },
+        "Commitor": {
+          "name": "\"Xin Wang\"",
+          "location": "Beijing,China",
+          "company": "@apache "
+        },
+        "Date": "2019-09-23T02:36:42Z",
+        "additions": 6,
+        "deletions": 8,
+        "files": [
+          "017a2c51ddb7b422693baa516a294254b888d214",
+          "adbf0b40fada3c4831c179d5c8132779b786950d",
+          "7daa93858811171889cb601afbfc72e7c66051dd"
+        ]
+      }
+    ]
+  }
+]

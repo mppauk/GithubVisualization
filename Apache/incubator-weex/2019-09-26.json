@@ -1,0 +1,90 @@
+[
+  {
+    "RepositoryName": "incubator-weex",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T04:03:45Z",
+    "EndDate": "2019-09-26T05:03:45",
+    "Branches": 15,
+    "Forks": 1732,
+    "Files": [
+      {
+        "Sha": "7827816d0eb3d3f8cabbe6311ca6bdefd35d6029",
+        "FileName": "WXTextComponent.mm",
+        "Path": "ios/sdk/WeexSDK/Sources/Component/WXTextComponent.mm",
+        "DateUpdated": "2019-09-26T05:01:50Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "344bb3f7a981cce8e42760e558e154bdce73db52"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "344bb3f7a981cce8e42760e558e154bdce73db52",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-26T05:01:50Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "7827816d0eb3d3f8cabbe6311ca6bdefd35d6029"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-weex",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T06:04:03Z",
+    "EndDate": "2019-09-26T07:04:03",
+    "Branches": 17,
+    "Forks": 1732,
+    "Files": [
+      {
+        "Sha": "9caff56495a2ee6ea188ac10429f3dda9f3a362e",
+        "FileName": "WXJSCoreBridge.mm",
+        "Path": "ios/sdk/WeexSDK/Sources/Bridge/WXJSCoreBridge.mm",
+        "DateUpdated": "2019-09-26T06:32:07Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "69cfe53cd1886e827306c20f020bb66ecd19b361"
+        ]
+      },
+      {
+        "Sha": "7a22748e875f8ef43c85347ea1e2684d94b06ddd",
+        "FileName": "WXSDKInstance.m",
+        "Path": "ios/sdk/WeexSDK/Sources/Model/WXSDKInstance.m",
+        "DateUpdated": "2019-09-26T06:32:07Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "69cfe53cd1886e827306c20f020bb66ecd19b361"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "69cfe53cd1886e827306c20f020bb66ecd19b361",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-26T06:32:07Z",
+        "additions": 5,
+        "deletions": 0,
+        "files": [
+          "9caff56495a2ee6ea188ac10429f3dda9f3a362e",
+          "7a22748e875f8ef43c85347ea1e2684d94b06ddd"
+        ]
+      }
+    ]
+  }
+]

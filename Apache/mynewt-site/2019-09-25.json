@@ -1,0 +1,66 @@
+[
+  {
+    "RepositoryName": "mynewt-site",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T20:03:46Z",
+    "EndDate": "2019-09-25T21:03:46",
+    "Branches": 14,
+    "Forks": 63,
+    "Files": [
+      {
+        "Sha": "0c00d88d6089a86a9b47f3c24a31305904144f2b",
+        "FileName": "footer.html",
+        "Path": "custom-theme/footer.html",
+        "DateUpdated": "2019-09-25T20:58:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "ea7b8f6ad6a4f7669d9b5849af2c217cfc9c832a"
+        ]
+      },
+      {
+        "Sha": "081089954a63e33843993c07e937f6404bed5163",
+        "FileName": "mkdocs.yml",
+        "Path": "mkdocs.yml",
+        "DateUpdated": "2019-09-25T20:25:49Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "ecbb321e17753823cdcb0bc0f8f0a3226d23156c"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "ea7b8f6ad6a4f7669d9b5849af2c217cfc9c832a",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T20:58:59Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "0c00d88d6089a86a9b47f3c24a31305904144f2b"
+        ]
+      },
+      {
+        "sha": "ecbb321e17753823cdcb0bc0f8f0a3226d23156c",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T20:25:49Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "081089954a63e33843993c07e937f6404bed5163"
+        ]
+      }
+    ]
+  }
+]

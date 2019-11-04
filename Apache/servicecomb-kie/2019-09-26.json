@@ -1,0 +1,43 @@
+[
+  {
+    "RepositoryName": "servicecomb-kie",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T01:04:48Z",
+    "EndDate": "2019-09-26T02:04:48",
+    "Branches": 1,
+    "Forks": 13,
+    "Files": [
+      {
+        "Sha": "1190d6b55651f39caa9a1b440aa4172f9de9fb03",
+        "FileName": "client.go",
+        "Path": "client/client.go",
+        "DateUpdated": "2019-09-26T01:59:40Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "43a128b7a5764c331acdd8f37527e2e8c858d781"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "43a128b7a5764c331acdd8f37527e2e8c858d781",
+        "Author": {
+          "name": "\"surechen\"",
+          "location": "GUANGDONG. CHINA",
+          "company": "Huawei Technologies"
+        },
+        "Commitor": {
+          "name": "\"Shawn\"",
+          "location": "Beijing"
+        },
+        "Date": "2019-09-26T01:59:40Z",
+        "additions": 0,
+        "deletions": 1,
+        "files": [
+          "1190d6b55651f39caa9a1b440aa4172f9de9fb03"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "RepositoryName": "cayenne",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T10:01:56Z",
+    "EndDate": "2019-09-25T11:01:56",
+    "Branches": 5,
+    "Forks": 93,
+    "Files": [
+      {
+        "Sha": "becd72b5c7aafd8309a297d23d0c98a189dd3d8a",
+        "FileName": "FilterContainer.java",
+        "Path": "cayenne-dbsync/src/main/java/org/apache/cayenne/dbsync/reverse/dbimport/FilterContainer.java",
+        "DateUpdated": "2019-09-25T10:29:02Z",
+        "Additions": 18,
+        "Deletions": 19,
+        "Commits": [
+          "6a4c15a96cd8e84e9b18986a54c5fdc6431284fe"
+        ]
+      },
+      {
+        "Sha": "a1f0b4ace9f076df26e3b4af32535baf1601e303",
+        "FileName": "IncludeTable.java",
+        "Path": "cayenne-dbsync/src/main/java/org/apache/cayenne/dbsync/reverse/dbimport/IncludeTable.java",
+        "DateUpdated": "2019-09-25T10:29:02Z",
+        "Additions": 8,
+        "Deletions": 7,
+        "Commits": [
+          "6a4c15a96cd8e84e9b18986a54c5fdc6431284fe"
+        ]
+      },
+      {
+        "Sha": "e1eb23c5dc5069c60091f74bfb5140eb75b57d3d",
+        "FileName": "ReverseEngineering.java",
+        "Path": "cayenne-dbsync/src/main/java/org/apache/cayenne/dbsync/reverse/dbimport/ReverseEngineering.java",
+        "DateUpdated": "2019-09-25T10:29:02Z",
+        "Additions": 5,
+        "Deletions": 4,
+        "Commits": [
+          "6a4c15a96cd8e84e9b18986a54c5fdc6431284fe"
+        ]
+      },
+      {
+        "Sha": "6c9076742a8a8346c4f3269ed5a1947b766ee541",
+        "FileName": "SchemaContainer.java",
+        "Path": "cayenne-dbsync/src/main/java/org/apache/cayenne/dbsync/reverse/dbimport/SchemaContainer.java",
+        "DateUpdated": "2019-09-25T10:29:02Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "6a4c15a96cd8e84e9b18986a54c5fdc6431284fe"
+        ]
+      },
+      {
+        "Sha": "31d7aa7d6b81c56f4d857177cbe19400a7f6e681",
+        "FileName": "DatabaseSchemaLoader.java",
+        "Path": "modeler/cayenne-modeler/src/main/java/org/apache/cayenne/modeler/editor/dbimport/DatabaseSchemaLoader.java",
+        "DateUpdated": "2019-09-25T10:29:02Z",
+        "Additions": 20,
+        "Deletions": 0,
+        "Commits": [
+          "6a4c15a96cd8e84e9b18986a54c5fdc6431284fe"
+        ]
+      },
+      {
+        "Sha": "ec782f379b05e5f11f670656074449171ed875fa",
+        "FileName": "GeneratorController.java",
+        "Path": "modeler/cayenne-modeler/src/main/java/org/apache/cayenne/modeler/editor/cgen/GeneratorController.java",
+        "DateUpdated": "2019-09-25T10:27:26Z",
+        "Additions": 17,
+        "Deletions": 83,
+        "Commits": [
+          "044081ebd1f51b7998e34faf6f27307300e9fd4d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "6a4c15a96cd8e84e9b18986a54c5fdc6431284fe",
+        "Author": {
+          "name": "\"Nikita Timofeev\""
+        },
+        "Commitor": {
+          "name": "\"Nikita Timofeev\""
+        },
+        "Date": "2019-09-25T10:29:02Z",
+        "additions": 55,
+        "deletions": 34,
+        "files": [
+          "becd72b5c7aafd8309a297d23d0c98a189dd3d8a",
+          "a1f0b4ace9f076df26e3b4af32535baf1601e303",
+          "e1eb23c5dc5069c60091f74bfb5140eb75b57d3d",
+          "6c9076742a8a8346c4f3269ed5a1947b766ee541",
+          "31d7aa7d6b81c56f4d857177cbe19400a7f6e681"
+        ]
+      },
+      {
+        "sha": "044081ebd1f51b7998e34faf6f27307300e9fd4d",
+        "Author": {
+          "name": "\"Nikita Timofeev\""
+        },
+        "Commitor": {
+          "name": "\"Nikita Timofeev\""
+        },
+        "Date": "2019-09-25T10:27:26Z",
+        "additions": 17,
+        "deletions": 83,
+        "files": [
+          "ec782f379b05e5f11f670656074449171ed875fa"
+        ]
+      }
+    ]
+  }
+]

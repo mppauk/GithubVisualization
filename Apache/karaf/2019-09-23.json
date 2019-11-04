@@ -1,0 +1,80 @@
+[
+  {
+    "RepositoryName": "karaf",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T05:02:00Z",
+    "EndDate": "2019-09-23T06:02:00",
+    "Branches": 24,
+    "Forks": 508,
+    "Files": [
+      {
+        "Sha": "eb2e12828ec6e10fe89728e1d5692391886d25fb",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-23T05:19:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "cb5f8f1cb4aa6546cde5afd39217bf2c1c2d422b"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "cb5f8f1cb4aa6546cde5afd39217bf2c1c2d422b",
+        "Author": {
+          "name": "\"Jean-Baptiste Onofré\"",
+          "location": "Paris, France"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T05:19:50Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "eb2e12828ec6e10fe89728e1d5692391886d25fb"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "karaf",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T08:02:09Z",
+    "EndDate": "2019-09-23T09:02:09",
+    "Branches": 24,
+    "Forks": 508,
+    "Files": [
+      {
+        "Sha": "942327acbab91e3dbbc0964d2490a644bc034572",
+        "FileName": "ConfigRepositoryImpl.java",
+        "Path": "config/src/main/java/org/apache/karaf/config/core/impl/ConfigRepositoryImpl.java",
+        "DateUpdated": "2019-09-23T08:31:15Z",
+        "Additions": 7,
+        "Deletions": 2,
+        "Commits": [
+          "9f84e2a5f0c2b809f9677f3122a6fa6d2e770307"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "9f84e2a5f0c2b809f9677f3122a6fa6d2e770307",
+        "Author": {
+          "name": "\"Jean-Baptiste Onofré\"",
+          "location": "Paris, France"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T08:31:15Z",
+        "additions": 7,
+        "deletions": 2,
+        "files": [
+          "942327acbab91e3dbbc0964d2490a644bc034572"
+        ]
+      }
+    ]
+  }
+]

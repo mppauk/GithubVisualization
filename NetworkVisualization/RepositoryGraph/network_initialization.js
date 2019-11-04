@@ -63,7 +63,7 @@
             edges: []
         }
         var map = {};
-        for(var i=0; i< RepositoryData.snapshots.length;i++){
+        for(var i=0; i< RepositoryData.length;i++){
             getCommitPathTree(i, Root, Nodes, map);
             CommitAdaptedDFS(Root, GraphSubset, RootNode.id, Nodes);
             Snapshots.push(GraphSubset);
@@ -113,11 +113,11 @@
         }
     }
     function getCommitPathTree(index, Root, Nodes, map){
-        var Files = RepositoryData.snapshots[index].Files
+        var Files = RepositoryData[index].Files
         var i;
         var nodeid=Nodes.length+ authors.length;
         for(i=0;i<Files.length;i++){
-            var commit = RepositoryData.snapshots[index].Commits.find(commit => commit.sha == Files[i].Commits[Files[i].Commits.length-1]);
+            var commit = RepositoryData[index].Commits.find(commit => commit.sha == Files[i].Commits[Files[i].Commits.length-1]);
             var authorNode;
             if(commit.Author && commit.Author.name != "null"){
                 var authorName = commit.Author.name.slice(1,-1);

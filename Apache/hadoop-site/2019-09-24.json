@@ -1,0 +1,78 @@
+[
+  {
+    "RepositoryName": "hadoop-site",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T09:48:33Z",
+    "EndDate": "2019-09-24T10:48:33",
+    "Branches": 1,
+    "Forks": 10,
+    "Files": [
+      {
+        "Sha": "ea35f68c7ab346ea96465a2b388c1004237e3540",
+        "FileName": "index.html",
+        "Path": "content/index.html",
+        "DateUpdated": "2019-09-24T10:16:49Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9a1e81f3114c157d9ef10b8abdb4b4ddf411869c"
+        ]
+      },
+      {
+        "Sha": "eff843280e35b1425cc1a9d474e64e584fd980b4",
+        "FileName": "release.html",
+        "Path": "content/release.html",
+        "DateUpdated": "2019-09-24T10:16:49Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9a1e81f3114c157d9ef10b8abdb4b4ddf411869c"
+        ]
+      },
+      {
+        "Sha": "e03ad04c951e40d424c0511ab2dadb1b26693616",
+        "FileName": "3.2.1.html",
+        "Path": "content/release/3.2.1.html",
+        "DateUpdated": "2019-09-24T10:16:49Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9a1e81f3114c157d9ef10b8abdb4b4ddf411869c"
+        ]
+      },
+      {
+        "Sha": "0048f01eea840a2043b68b8c7b65a54260ba66f9",
+        "FileName": "3.2.1.md",
+        "Path": "src/release/3.2.1.md",
+        "DateUpdated": "2019-09-24T10:10:04Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "6eceddcf7fb10459c806c219f619cb8e6f078d31"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "9a1e81f3114c157d9ef10b8abdb4b4ddf411869c",
+        "Date": "2019-09-24T10:16:49Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "ea35f68c7ab346ea96465a2b388c1004237e3540",
+          "eff843280e35b1425cc1a9d474e64e584fd980b4",
+          "e03ad04c951e40d424c0511ab2dadb1b26693616"
+        ]
+      },
+      {
+        "sha": "6eceddcf7fb10459c806c219f619cb8e6f078d31",
+        "Date": "2019-09-24T10:10:04Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "0048f01eea840a2043b68b8c7b65a54260ba66f9"
+        ]
+      }
+    ]
+  }
+]

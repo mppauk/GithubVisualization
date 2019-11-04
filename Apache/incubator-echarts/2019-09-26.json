@@ -1,0 +1,82 @@
+[
+  {
+    "RepositoryName": "incubator-echarts",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T08:02:54Z",
+    "EndDate": "2019-09-26T09:02:54",
+    "Branches": 10,
+    "Forks": 11320,
+    "Files": [
+      {
+        "Sha": "106fc4ffd51f7dc14f86e37b9bc0434cfbc58596",
+        "FileName": "number.js",
+        "Path": "src/util/number.js",
+        "DateUpdated": "2019-09-26T08:08:17Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "3d2690a8ed4f250c9d275fea3fff7e3375b61c43"
+        ]
+      },
+      {
+        "Sha": "39c99c7a130918a66460992464e00522bc0e6a5a",
+        "FileName": "number.js",
+        "Path": "src/util/number.js",
+        "DateUpdated": "2019-09-26T08:08:17Z",
+        "Additions": 8,
+        "Deletions": 1,
+        "Commits": [
+          "8d7e0df206dc23c8ed8258e6aad6b2ef6697342f"
+        ]
+      },
+      {
+        "Sha": "154152eac698b4768d13712261521b2fd4bcca48",
+        "FileName": "number.js",
+        "Path": "test/ut/spec/util/number.js",
+        "DateUpdated": "2019-09-26T08:08:17Z",
+        "Additions": 56,
+        "Deletions": 0,
+        "Commits": [
+          "8d7e0df206dc23c8ed8258e6aad6b2ef6697342f"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "3d2690a8ed4f250c9d275fea3fff7e3375b61c43",
+        "Author": {
+          "name": "\"Ovilia\"",
+          "location": "Shanghai, China"
+        },
+        "Commitor": {
+          "name": "\"Ovilia\"",
+          "location": "Shanghai, China"
+        },
+        "Date": "2019-09-26T08:08:17Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "106fc4ffd51f7dc14f86e37b9bc0434cfbc58596"
+        ]
+      },
+      {
+        "sha": "8d7e0df206dc23c8ed8258e6aad6b2ef6697342f",
+        "Author": {
+          "name": "\"Ovilia\"",
+          "location": "Shanghai, China"
+        },
+        "Commitor": {
+          "name": "\"Ovilia\"",
+          "location": "Shanghai, China"
+        },
+        "Date": "2019-09-26T08:08:17Z",
+        "additions": 64,
+        "deletions": 1,
+        "files": [
+          "39c99c7a130918a66460992464e00522bc0e6a5a",
+          "154152eac698b4768d13712261521b2fd4bcca48"
+        ]
+      }
+    ]
+  }
+]

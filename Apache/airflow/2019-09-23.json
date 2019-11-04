@@ -1,0 +1,79 @@
+[
+  {
+    "RepositoryName": "airflow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T11:03:08Z",
+    "EndDate": "2019-09-23T12:03:08",
+    "Branches": 8,
+    "Forks": 5208,
+    "Files": [
+      {
+        "Sha": "f1444f9fd068a24b648d528c94b464a7011f0f94",
+        "FileName": "default_airflow.cfg",
+        "Path": "airflow/config_templates/default_airflow.cfg",
+        "DateUpdated": "2019-09-23T11:43:08Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "7506c95efa3f7992a5c40b1a198a71993038bf83"
+        ]
+      },
+      {
+        "Sha": "f784212389cd8554bc0d10dca3fd746a5c2105f5",
+        "FileName": "stats.py",
+        "Path": "airflow/stats.py",
+        "DateUpdated": "2019-09-23T11:43:08Z",
+        "Additions": 29,
+        "Deletions": 6,
+        "Commits": [
+          "7506c95efa3f7992a5c40b1a198a71993038bf83"
+        ]
+      },
+      {
+        "Sha": "402e77bd5360a4b08014836f977aae633604e9c9",
+        "FileName": "metrics.rst",
+        "Path": "docs/metrics.rst",
+        "DateUpdated": "2019-09-23T11:43:08Z",
+        "Additions": 9,
+        "Deletions": 1,
+        "Commits": [
+          "7506c95efa3f7992a5c40b1a198a71993038bf83"
+        ]
+      },
+      {
+        "Sha": "3f44c24e35c4e48f336fabf8be91123ac8d20941",
+        "FileName": "test_stats.py",
+        "Path": "tests/test_stats.py",
+        "DateUpdated": "2019-09-23T11:43:08Z",
+        "Additions": 20,
+        "Deletions": 1,
+        "Commits": [
+          "7506c95efa3f7992a5c40b1a198a71993038bf83"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "7506c95efa3f7992a5c40b1a198a71993038bf83",
+        "Author": {
+          "name": "\"Mike Dias\"",
+          "location": "Sydney, Australia",
+          "company": "@atlassian"
+        },
+        "Commitor": {
+          "name": "\"Ash Berlin-Taylor\"",
+          "location": "London"
+        },
+        "Date": "2019-09-23T11:43:08Z",
+        "additions": 63,
+        "deletions": 8,
+        "files": [
+          "f1444f9fd068a24b648d528c94b464a7011f0f94",
+          "f784212389cd8554bc0d10dca3fd746a5c2105f5",
+          "402e77bd5360a4b08014836f977aae633604e9c9",
+          "3f44c24e35c4e48f336fabf8be91123ac8d20941"
+        ]
+      }
+    ]
+  }
+]

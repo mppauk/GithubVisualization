@@ -1,0 +1,86 @@
+[
+  {
+    "RepositoryName": "phoenix",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T21:03:25Z",
+    "EndDate": "2019-09-24T22:03:25",
+    "Branches": 67,
+    "Forks": 769,
+    "Files": [
+      {
+        "Sha": "c2b177af7f17ef3d9a1d53ce66e7cbfe96f32149",
+        "FileName": "IndexMasterObserver.java",
+        "Path": "phoenix-core/src/main/java/org/apache/phoenix/hbase/index/master/IndexMasterObserver.java",
+        "DateUpdated": "2019-09-24T21:50:47Z",
+        "Additions": 0,
+        "Deletions": 28,
+        "Commits": [
+          "11997d48d1957cf613526f01c5ccbe2812cf095d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "11997d48d1957cf613526f01c5ccbe2812cf095d",
+        "Author": {
+          "name": "\"Chinmay Kulkarni\"",
+          "location": "San Francisco, CA",
+          "company": "@Salesforce"
+        },
+        "Commitor": {
+          "name": "\"Chinmay Kulkarni\"",
+          "location": "San Francisco, CA",
+          "company": "@Salesforce"
+        },
+        "Date": "2019-09-24T21:50:47Z",
+        "additions": 0,
+        "deletions": 28,
+        "files": [
+          "c2b177af7f17ef3d9a1d53ce66e7cbfe96f32149"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "phoenix",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T21:46:30Z",
+    "EndDate": "2019-09-24T22:46:30",
+    "Branches": 67,
+    "Forks": 769,
+    "Files": [
+      {
+        "Sha": "c2b177af7f17ef3d9a1d53ce66e7cbfe96f32149",
+        "FileName": "IndexMasterObserver.java",
+        "Path": "phoenix-core/src/main/java/org/apache/phoenix/hbase/index/master/IndexMasterObserver.java",
+        "DateUpdated": "2019-09-24T21:50:47Z",
+        "Additions": 0,
+        "Deletions": 28,
+        "Commits": [
+          "11997d48d1957cf613526f01c5ccbe2812cf095d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "11997d48d1957cf613526f01c5ccbe2812cf095d",
+        "Author": {
+          "name": "\"Chinmay Kulkarni\"",
+          "location": "San Francisco, CA",
+          "company": "@Salesforce"
+        },
+        "Commitor": {
+          "name": "\"Chinmay Kulkarni\"",
+          "location": "San Francisco, CA",
+          "company": "@Salesforce"
+        },
+        "Date": "2019-09-24T21:50:47Z",
+        "additions": 0,
+        "deletions": 28,
+        "files": [
+          "c2b177af7f17ef3d9a1d53ce66e7cbfe96f32149"
+        ]
+      }
+    ]
+  }
+]

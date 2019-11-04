@@ -1,0 +1,845 @@
+[
+  {
+    "RepositoryName": "incubator-pinot",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T00:04:26Z",
+    "EndDate": "2019-09-24T01:04:26",
+    "Branches": 173,
+    "Forks": 448,
+    "Files": [
+      {
+        "Sha": "e04edf3629f5f6840c7abf76d15e7b2a9874d14f",
+        "FileName": "ReduceService.java",
+        "Path": "pinot-common/src/main/java/org/apache/pinot/common/query/ReduceService.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 1,
+        "Deletions": 3,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "e5a7088bd530cc7551ae1ebe0351b1365d145d07",
+        "FileName": "DataSchema.java",
+        "Path": "pinot-common/src/main/java/org/apache/pinot/common/utils/DataSchema.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 14,
+        "Deletions": 11,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "83f53d3eac95a7eddc946d39f7c65fc1894e014e",
+        "FileName": "DataTable.java",
+        "Path": "pinot-common/src/main/java/org/apache/pinot/common/utils/DataTable.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 1,
+        "Deletions": 11,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "3ca3f684de8f3df62355c37a6a9e8be0fcada9db",
+        "FileName": "PinotQuery2BrokerRequestConverter.java",
+        "Path": "pinot-common/src/main/java/org/apache/pinot/pql/parsers/PinotQuery2BrokerRequestConverter.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 2,
+        "Deletions": 5,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "bfcbae4c4a9d15e74db72a6410c77b7dc421c165",
+        "FileName": "Pql2AstListener.java",
+        "Path": "pinot-common/src/main/java/org/apache/pinot/pql/parsers/Pql2AstListener.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "efeb8c52cb1174f5aa5e8ceb0ee4d69a3d3b2060",
+        "FileName": "OrderByAstNode.java",
+        "Path": "pinot-common/src/main/java/org/apache/pinot/pql/parsers/pql2/ast/OrderByAstNode.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 33,
+        "Deletions": 24,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "e633d0f669ace5cbbf5674254718f7a18042cb76",
+        "FileName": "Pql2CompilerTest.java",
+        "Path": "pinot-common/src/test/java/org/apache/pinot/pql/parsers/Pql2CompilerTest.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 19,
+        "Deletions": 11,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "a251626f407f2d202b4df68ed4657487719dd7ca",
+        "FileName": "BrokerRequestSerializationTest.java",
+        "Path": "pinot-common/src/test/java/org/apache/pinot/request/BrokerRequestSerializationTest.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 6,
+        "Deletions": 3,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "0e95862a40408cbcf42f1aa97ebb3b0697ceab4d",
+        "FileName": "DataTableImplV2.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/common/datatable/DataTableImplV2.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 4,
+        "Deletions": 17,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "09ac6386402115931d3774eb5d72f6ffb5ed0f68",
+        "FileName": "ExpressionFilterOperator.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/operator/filter/ExpressionFilterOperator.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 7,
+        "Deletions": 14,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "044d4c5da230f5951fc6130a32298350d059665c",
+        "FileName": "EmptySelectionOperator.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/operator/query/EmptySelectionOperator.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 20,
+        "Deletions": 6,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "6c5cb3c65af8c323b04096a50fa0edf3ac62d32d",
+        "FileName": "SelectionOnlyOperator.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/operator/query/SelectionOnlyOperator.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 126,
+        "Deletions": 0,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "c20d194999608418bcfeda620a23beebdaf11f2f",
+        "FileName": "SelectionOperator.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/operator/query/SelectionOperator.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 0,
+        "Deletions": 282,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "eee2ceb063f0dac2a6fb0337747e994c77708f00",
+        "FileName": "SelectionOrderByOperator.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/operator/query/SelectionOrderByOperator.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 179,
+        "Deletions": 0,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "6efbff62e667aad022446200b24f4a11f5102c90",
+        "FileName": "TransformOperator.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/operator/transform/TransformOperator.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 5,
+        "Deletions": 16,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "0b87eb74270ffc9ca2973550c2ea0cb745d2d66f",
+        "FileName": "SelectionPlanNode.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/plan/SelectionPlanNode.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 17,
+        "Deletions": 16,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "d8ceebbd55c74df267502d809f4ad6a3db5bb208",
+        "FileName": "TransformPlanNode.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/plan/TransformPlanNode.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 25,
+        "Deletions": 43,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "e0b4c607942021b5dbbacbc3e4d5a9ce91ec7f59",
+        "FileName": "BrokerReduceService.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/reduce/BrokerReduceService.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 209,
+        "Deletions": 53,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "87bd766f88d897a57467b2583394ed71a7d2c8f9",
+        "FileName": "SelectionOperatorService.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/selection/SelectionOperatorService.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 45,
+        "Deletions": 206,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "fe9b10751cd16707ed53e4a0238f5156e0633fab",
+        "FileName": "SelectionOperatorUtils.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/query/selection/SelectionOperatorUtils.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 125,
+        "Deletions": 243,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "10c22761a3e07619540ab7f0376396bed972f893",
+        "FileName": "StarTreeTransformPlanNode.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/startree/plan/StarTreeTransformPlanNode.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "307e992ce0a6f3eb2c9da8c10900cf24ee6d06dd",
+        "FileName": "InnerSegmentSelectionMultiValueQueriesTest.java",
+        "Path": "pinot-core/src/test/java/org/apache/pinot/queries/InnerSegmentSelectionMultiValueQueriesTest.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 32,
+        "Deletions": 16,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "6201b3d8abdf5478b274d9567ee975b1b2cbd59e",
+        "FileName": "InnerSegmentSelectionSingleValueQueriesTest.java",
+        "Path": "pinot-core/src/test/java/org/apache/pinot/queries/InnerSegmentSelectionSingleValueQueriesTest.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 40,
+        "Deletions": 20,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "62402aa44afcef4d79d1cb3ee30e9179949a5c70",
+        "FileName": "DefaultAggregationExecutorTest.java",
+        "Path": "pinot-core/src/test/java/org/apache/pinot/query/aggregation/DefaultAggregationExecutorTest.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "2b6c42b164cb40766bc335ed43380c4823667f2e",
+        "FileName": "SelectionOperatorServiceTest.java",
+        "Path": "pinot-core/src/test/java/org/apache/pinot/query/selection/SelectionOperatorServiceTest.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 140,
+        "Deletions": 69,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "c961204af12270eb23313f30009cef794511ac0f",
+        "FileName": "ClusterIntegrationTestUtils.java",
+        "Path": "pinot-integration-tests/src/test/java/org/apache/pinot/integration/tests/ClusterIntegrationTestUtils.java",
+        "DateUpdated": "2019-09-24T00:45:11Z",
+        "Additions": 15,
+        "Deletions": 4,
+        "Commits": [
+          "f8c2cf3d87a2849c029e861c5470311e0c217011"
+        ]
+      },
+      {
+        "Sha": "7c285ca9729ac8990b3620356c00de9f0b0fbce5",
+        "FileName": "architecture.rst",
+        "Path": "docs/architecture.rst",
+        "DateUpdated": "2019-09-24T00:35:41Z",
+        "Additions": 54,
+        "Deletions": 12,
+        "Commits": [
+          "3668c7964ca6fa35374cb2490678e311fdce4925"
+        ]
+      },
+      {
+        "Sha": "2115fb51ea4af73bad4a778aa8496b0245629b84",
+        "FileName": "code_modules.rst",
+        "Path": "docs/code_modules.rst",
+        "DateUpdated": "2019-09-24T00:35:41Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "3668c7964ca6fa35374cb2490678e311fdce4925"
+        ]
+      },
+      {
+        "Sha": "76414f8ea887dcbf6cfeb61265e970bd80f78d08",
+        "FileName": "contribution_guidelines.rst",
+        "Path": "docs/contribution_guidelines.rst",
+        "DateUpdated": "2019-09-24T00:35:41Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "3668c7964ca6fa35374cb2490678e311fdce4925"
+        ]
+      },
+      {
+        "Sha": "45c348883780844ae5cf3f1eacfb678f811390f7",
+        "FileName": "pluggable_streams.rst",
+        "Path": "docs/pluggable_streams.rst",
+        "DateUpdated": "2019-09-24T00:35:41Z",
+        "Additions": 5,
+        "Deletions": 4,
+        "Commits": [
+          "3668c7964ca6fa35374cb2490678e311fdce4925"
+        ]
+      },
+      {
+        "Sha": "24a4e08ba7f140ce4d2b34dcf0b8d36cf54a2698",
+        "FileName": "pql_examples.rst",
+        "Path": "docs/pql_examples.rst",
+        "DateUpdated": "2019-09-24T00:35:41Z",
+        "Additions": 7,
+        "Deletions": 2,
+        "Commits": [
+          "3668c7964ca6fa35374cb2490678e311fdce4925"
+        ]
+      },
+      {
+        "Sha": "9f0c1cee2c1a2cb4da16fb20e7f855c2f237faa4",
+        "FileName": "tableconfig_schema.rst",
+        "Path": "docs/tableconfig_schema.rst",
+        "DateUpdated": "2019-09-24T00:35:41Z",
+        "Additions": 159,
+        "Deletions": 9,
+        "Commits": [
+          "3668c7964ca6fa35374cb2490678e311fdce4925"
+        ]
+      },
+      {
+        "Sha": "ca6117b4a7e629ea34c82ce13cb692baee172033",
+        "FileName": "tuning_pinot.rst",
+        "Path": "docs/tuning_pinot.rst",
+        "DateUpdated": "2019-09-24T00:35:41Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "3668c7964ca6fa35374cb2490678e311fdce4925"
+        ]
+      },
+      {
+        "Sha": "fb930f1ad94f01ab24b569ab5b9c2fac41257b5a",
+        "FileName": "tuning_realtime_performance.rst",
+        "Path": "docs/tuning_realtime_performance.rst",
+        "DateUpdated": "2019-09-24T00:35:41Z",
+        "Additions": 77,
+        "Deletions": 0,
+        "Commits": [
+          "3668c7964ca6fa35374cb2490678e311fdce4925"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "f8c2cf3d87a2849c029e861c5470311e0c217011",
+        "Author": {
+          "name": "\"Xiaotian (Jackie) Jiang\"",
+          "location": "Sunnyvale, California",
+          "company": "LinkedIn Corporation"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T00:45:11Z",
+        "additions": 1068,
+        "deletions": 1077,
+        "files": [
+          "e04edf3629f5f6840c7abf76d15e7b2a9874d14f",
+          "e5a7088bd530cc7551ae1ebe0351b1365d145d07",
+          "83f53d3eac95a7eddc946d39f7c65fc1894e014e",
+          "3ca3f684de8f3df62355c37a6a9e8be0fcada9db",
+          "bfcbae4c4a9d15e74db72a6410c77b7dc421c165",
+          "efeb8c52cb1174f5aa5e8ceb0ee4d69a3d3b2060",
+          "e633d0f669ace5cbbf5674254718f7a18042cb76",
+          "a251626f407f2d202b4df68ed4657487719dd7ca",
+          "0e95862a40408cbcf42f1aa97ebb3b0697ceab4d",
+          "09ac6386402115931d3774eb5d72f6ffb5ed0f68",
+          "044d4c5da230f5951fc6130a32298350d059665c",
+          "6c5cb3c65af8c323b04096a50fa0edf3ac62d32d",
+          "c20d194999608418bcfeda620a23beebdaf11f2f",
+          "eee2ceb063f0dac2a6fb0337747e994c77708f00",
+          "6efbff62e667aad022446200b24f4a11f5102c90",
+          "0b87eb74270ffc9ca2973550c2ea0cb745d2d66f",
+          "d8ceebbd55c74df267502d809f4ad6a3db5bb208",
+          "e0b4c607942021b5dbbacbc3e4d5a9ce91ec7f59",
+          "87bd766f88d897a57467b2583394ed71a7d2c8f9",
+          "fe9b10751cd16707ed53e4a0238f5156e0633fab",
+          "10c22761a3e07619540ab7f0376396bed972f893",
+          "307e992ce0a6f3eb2c9da8c10900cf24ee6d06dd",
+          "6201b3d8abdf5478b274d9567ee975b1b2cbd59e",
+          "62402aa44afcef4d79d1cb3ee30e9179949a5c70",
+          "2b6c42b164cb40766bc335ed43380c4823667f2e",
+          "c961204af12270eb23313f30009cef794511ac0f"
+        ]
+      },
+      {
+        "sha": "3668c7964ca6fa35374cb2490678e311fdce4925",
+        "Author": {
+          "name": "\"Subbu Subramaniam\"",
+          "company": "Linkedin"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T00:35:41Z",
+        "additions": 307,
+        "deletions": 31,
+        "files": [
+          "7c285ca9729ac8990b3620356c00de9f0b0fbce5",
+          "2115fb51ea4af73bad4a778aa8496b0245629b84",
+          "76414f8ea887dcbf6cfeb61265e970bd80f78d08",
+          "45c348883780844ae5cf3f1eacfb678f811390f7",
+          "24a4e08ba7f140ce4d2b34dcf0b8d36cf54a2698",
+          "9f0c1cee2c1a2cb4da16fb20e7f855c2f237faa4",
+          "ca6117b4a7e629ea34c82ce13cb692baee172033",
+          "fb930f1ad94f01ab24b569ab5b9c2fac41257b5a"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-pinot",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T20:46:47Z",
+    "EndDate": "2019-09-24T21:46:47",
+    "Branches": 173,
+    "Forks": 447,
+    "Files": [
+      {
+        "Sha": "c7fc486278ba67f36a34bdc95511063b54e19b51",
+        "FileName": "architecture.rst",
+        "Path": "docs/architecture.rst",
+        "DateUpdated": "2019-09-24T21:28:51Z",
+        "Additions": 12,
+        "Deletions": 10,
+        "Commits": [
+          "49a65a3987a78fce2a0851a65eb65762b4f3003d"
+        ]
+      },
+      {
+        "Sha": "44f53326b7acef71bd650a72cba60677e6e16e6f",
+        "FileName": "FieldSpecTest.java",
+        "Path": "pinot-common/src/test/java/org/apache/pinot/common/data/FieldSpecTest.java",
+        "DateUpdated": "2019-09-24T21:28:51Z",
+        "Additions": 11,
+        "Deletions": 0,
+        "Commits": [
+          "49a65a3987a78fce2a0851a65eb65762b4f3003d"
+        ]
+      },
+      {
+        "Sha": "081b2799fa1ca94c09ed980a8734dd4207106575",
+        "FileName": "SegmentColumnarIndexCreator.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/creator/impl/SegmentColumnarIndexCreator.java",
+        "DateUpdated": "2019-09-24T21:28:51Z",
+        "Additions": 8,
+        "Deletions": 4,
+        "Commits": [
+          "49a65a3987a78fce2a0851a65eb65762b4f3003d"
+        ]
+      },
+      {
+        "Sha": "dd8b745d8b9220dda3f0f2ab5a547d2342c8cb36",
+        "FileName": "BaseDefaultColumnHandler.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/index/loader/defaultcolumn/BaseDefaultColumnHandler.java",
+        "DateUpdated": "2019-09-24T21:28:51Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "49a65a3987a78fce2a0851a65eb65762b4f3003d"
+        ]
+      },
+      {
+        "Sha": "99601227979090e9a82e0c748cb634749cc3556e",
+        "FileName": "ImmutableDictionaryReader.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/ImmutableDictionaryReader.java",
+        "DateUpdated": "2019-09-24T21:28:51Z",
+        "Additions": 4,
+        "Deletions": 3,
+        "Commits": [
+          "49a65a3987a78fce2a0851a65eb65762b4f3003d"
+        ]
+      },
+      {
+        "Sha": "a1f435315181735acad80b1a83e93649434d6307",
+        "FileName": "SegmentPreProcessorTest.java",
+        "Path": "pinot-core/src/test/java/org/apache/pinot/core/segment/index/loader/SegmentPreProcessorTest.java",
+        "DateUpdated": "2019-09-24T21:28:51Z",
+        "Additions": 12,
+        "Deletions": 0,
+        "Commits": [
+          "49a65a3987a78fce2a0851a65eb65762b4f3003d"
+        ]
+      },
+      {
+        "Sha": "6e05ce3ba7ec6f3ff239108ec32564641037144c",
+        "FileName": "newColumnsSchema3.json",
+        "Path": "pinot-core/src/test/resources/data/newColumnsSchema3.json",
+        "DateUpdated": "2019-09-24T21:28:51Z",
+        "Additions": 10,
+        "Deletions": 0,
+        "Commits": [
+          "49a65a3987a78fce2a0851a65eb65762b4f3003d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "49a65a3987a78fce2a0851a65eb65762b4f3003d",
+        "Author": {
+          "name": "\"Jialiang Li\"",
+          "location": "Mountain View",
+          "company": "LinkedIn"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T21:28:51Z",
+        "additions": 62,
+        "deletions": 17,
+        "files": [
+          "c7fc486278ba67f36a34bdc95511063b54e19b51",
+          "44f53326b7acef71bd650a72cba60677e6e16e6f",
+          "081b2799fa1ca94c09ed980a8734dd4207106575",
+          "dd8b745d8b9220dda3f0f2ab5a547d2342c8cb36",
+          "99601227979090e9a82e0c748cb634749cc3556e",
+          "a1f435315181735acad80b1a83e93649434d6307",
+          "6e05ce3ba7ec6f3ff239108ec32564641037144c"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-pinot",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T21:03:20Z",
+    "EndDate": "2019-09-24T22:03:20",
+    "Branches": 172,
+    "Forks": 447,
+    "Files": [
+      {
+        "Sha": "c29c85dc72083cf7890eb71e2c5e01d677834841",
+        "FileName": "PinotByteBuffer.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/memory/PinotByteBuffer.java",
+        "DateUpdated": "2019-09-24T21:48:23Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "e4471175899a2d0533d9fba2f481490ae18fd53f"
+        ]
+      },
+      {
+        "Sha": "c7fc486278ba67f36a34bdc95511063b54e19b51",
+        "FileName": "architecture.rst",
+        "Path": "docs/architecture.rst",
+        "DateUpdated": "2019-09-24T21:28:51Z",
+        "Additions": 12,
+        "Deletions": 10,
+        "Commits": [
+          "49a65a3987a78fce2a0851a65eb65762b4f3003d"
+        ]
+      },
+      {
+        "Sha": "44f53326b7acef71bd650a72cba60677e6e16e6f",
+        "FileName": "FieldSpecTest.java",
+        "Path": "pinot-common/src/test/java/org/apache/pinot/common/data/FieldSpecTest.java",
+        "DateUpdated": "2019-09-24T21:28:51Z",
+        "Additions": 11,
+        "Deletions": 0,
+        "Commits": [
+          "49a65a3987a78fce2a0851a65eb65762b4f3003d"
+        ]
+      },
+      {
+        "Sha": "081b2799fa1ca94c09ed980a8734dd4207106575",
+        "FileName": "SegmentColumnarIndexCreator.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/creator/impl/SegmentColumnarIndexCreator.java",
+        "DateUpdated": "2019-09-24T21:28:51Z",
+        "Additions": 8,
+        "Deletions": 4,
+        "Commits": [
+          "49a65a3987a78fce2a0851a65eb65762b4f3003d"
+        ]
+      },
+      {
+        "Sha": "dd8b745d8b9220dda3f0f2ab5a547d2342c8cb36",
+        "FileName": "BaseDefaultColumnHandler.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/index/loader/defaultcolumn/BaseDefaultColumnHandler.java",
+        "DateUpdated": "2019-09-24T21:28:51Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "49a65a3987a78fce2a0851a65eb65762b4f3003d"
+        ]
+      },
+      {
+        "Sha": "99601227979090e9a82e0c748cb634749cc3556e",
+        "FileName": "ImmutableDictionaryReader.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/index/readers/ImmutableDictionaryReader.java",
+        "DateUpdated": "2019-09-24T21:28:51Z",
+        "Additions": 4,
+        "Deletions": 3,
+        "Commits": [
+          "49a65a3987a78fce2a0851a65eb65762b4f3003d"
+        ]
+      },
+      {
+        "Sha": "a1f435315181735acad80b1a83e93649434d6307",
+        "FileName": "SegmentPreProcessorTest.java",
+        "Path": "pinot-core/src/test/java/org/apache/pinot/core/segment/index/loader/SegmentPreProcessorTest.java",
+        "DateUpdated": "2019-09-24T21:28:51Z",
+        "Additions": 12,
+        "Deletions": 0,
+        "Commits": [
+          "49a65a3987a78fce2a0851a65eb65762b4f3003d"
+        ]
+      },
+      {
+        "Sha": "6e05ce3ba7ec6f3ff239108ec32564641037144c",
+        "FileName": "newColumnsSchema3.json",
+        "Path": "pinot-core/src/test/resources/data/newColumnsSchema3.json",
+        "DateUpdated": "2019-09-24T21:28:51Z",
+        "Additions": 10,
+        "Deletions": 0,
+        "Commits": [
+          "49a65a3987a78fce2a0851a65eb65762b4f3003d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "e4471175899a2d0533d9fba2f481490ae18fd53f",
+        "Author": {
+          "name": "\"Xiang Fu\"",
+          "location": "San Francisco",
+          "company": "Stealth Mode Startup"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T21:48:23Z",
+        "additions": 2,
+        "deletions": 3,
+        "files": [
+          "c29c85dc72083cf7890eb71e2c5e01d677834841"
+        ]
+      },
+      {
+        "sha": "49a65a3987a78fce2a0851a65eb65762b4f3003d",
+        "Author": {
+          "name": "\"Jialiang Li\"",
+          "location": "Mountain View",
+          "company": "LinkedIn"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T21:28:51Z",
+        "additions": 62,
+        "deletions": 17,
+        "files": [
+          "c7fc486278ba67f36a34bdc95511063b54e19b51",
+          "44f53326b7acef71bd650a72cba60677e6e16e6f",
+          "081b2799fa1ca94c09ed980a8734dd4207106575",
+          "dd8b745d8b9220dda3f0f2ab5a547d2342c8cb36",
+          "99601227979090e9a82e0c748cb634749cc3556e",
+          "a1f435315181735acad80b1a83e93649434d6307",
+          "6e05ce3ba7ec6f3ff239108ec32564641037144c"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-pinot",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T21:46:28Z",
+    "EndDate": "2019-09-24T22:46:28",
+    "Branches": 173,
+    "Forks": 447,
+    "Files": [
+      {
+        "Sha": "c29c85dc72083cf7890eb71e2c5e01d677834841",
+        "FileName": "PinotByteBuffer.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/memory/PinotByteBuffer.java",
+        "DateUpdated": "2019-09-24T21:48:23Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "e4471175899a2d0533d9fba2f481490ae18fd53f"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "e4471175899a2d0533d9fba2f481490ae18fd53f",
+        "Author": {
+          "name": "\"Xiang Fu\"",
+          "location": "San Francisco",
+          "company": "Stealth Mode Startup"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T21:48:23Z",
+        "additions": 2,
+        "deletions": 3,
+        "files": [
+          "c29c85dc72083cf7890eb71e2c5e01d677834841"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-pinot",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T22:46:42Z",
+    "EndDate": "2019-09-24T23:46:42",
+    "Branches": 173,
+    "Forks": 447,
+    "Files": [
+      {
+        "Sha": "e07f384ab9eef57152c3730732c28799cc6ecfb6",
+        "FileName": "LeadControllerUtils.java",
+        "Path": "pinot-common/src/main/java/org/apache/pinot/common/utils/helix/LeadControllerUtils.java",
+        "DateUpdated": "2019-09-24T23:11:56Z",
+        "Additions": 21,
+        "Deletions": 16,
+        "Commits": [
+          "ffa66bf3b5101278a475052878a722c53231ad3e"
+        ]
+      },
+      {
+        "Sha": "29d6a0955ab67b50770c06c6f13f3d19b38bd040",
+        "FileName": "LeadControllerManager.java",
+        "Path": "pinot-controller/src/main/java/org/apache/pinot/controller/LeadControllerManager.java",
+        "DateUpdated": "2019-09-24T23:11:56Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "ffa66bf3b5101278a475052878a722c53231ad3e"
+        ]
+      },
+      {
+        "Sha": "f790759eaa2a9cf3c0e6976938231ca8403d5162",
+        "FileName": "LeadControllerManagerTest.java",
+        "Path": "pinot-controller/src/test/java/org/apache/pinot/controller/LeadControllerManagerTest.java",
+        "DateUpdated": "2019-09-24T23:11:56Z",
+        "Additions": 1,
+        "Deletions": 10,
+        "Commits": [
+          "ffa66bf3b5101278a475052878a722c53231ad3e"
+        ]
+      },
+      {
+        "Sha": "e4d754feb1b464614d80de640b0dc541a2bad955",
+        "FileName": "RetentionManagerTest.java",
+        "Path": "pinot-controller/src/test/java/org/apache/pinot/controller/helix/core/retention/RetentionManagerTest.java",
+        "DateUpdated": "2019-09-24T23:11:56Z",
+        "Additions": 4,
+        "Deletions": 3,
+        "Commits": [
+          "ffa66bf3b5101278a475052878a722c53231ad3e"
+        ]
+      },
+      {
+        "Sha": "caa80340f771fea7ed5a2d96704ad5a2310c71d1",
+        "FileName": "ControllerLeaderLocator.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/server/realtime/ControllerLeaderLocator.java",
+        "DateUpdated": "2019-09-24T23:11:56Z",
+        "Additions": 103,
+        "Deletions": 102,
+        "Commits": [
+          "ffa66bf3b5101278a475052878a722c53231ad3e"
+        ]
+      },
+      {
+        "Sha": "2b5097ecdedb6f1243e66e17a2317bea750f1ddf",
+        "FileName": "ControllerLeaderLocatorTest.java",
+        "Path": "pinot-core/src/test/java/org/apache/pinot/server/realtime/ControllerLeaderLocatorTest.java",
+        "DateUpdated": "2019-09-24T23:11:56Z",
+        "Additions": 91,
+        "Deletions": 64,
+        "Commits": [
+          "ffa66bf3b5101278a475052878a722c53231ad3e"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "ffa66bf3b5101278a475052878a722c53231ad3e",
+        "Author": {
+          "name": "\"Jialiang Li\"",
+          "location": "Mountain View",
+          "company": "LinkedIn"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T23:11:56Z",
+        "additions": 220,
+        "deletions": 199,
+        "files": [
+          "e07f384ab9eef57152c3730732c28799cc6ecfb6",
+          "29d6a0955ab67b50770c06c6f13f3d19b38bd040",
+          "f790759eaa2a9cf3c0e6976938231ca8403d5162",
+          "e4d754feb1b464614d80de640b0dc541a2bad955",
+          "caa80340f771fea7ed5a2d96704ad5a2310c71d1",
+          "2b5097ecdedb6f1243e66e17a2317bea750f1ddf"
+        ]
+      }
+    ]
+  }
+]

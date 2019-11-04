@@ -1,0 +1,56 @@
+[
+  {
+    "RepositoryName": "plc4x",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T08:48:50Z",
+    "EndDate": "2019-09-24T09:48:50",
+    "Branches": 20,
+    "Forks": 62,
+    "Files": [
+      {
+        "Sha": "d415f217027489ff4eba53b3a591cc303f0b63c4",
+        "FileName": "pom.xml",
+        "Path": "plc4j/integrations/logstash-plugin/pom.xml",
+        "DateUpdated": "2019-09-24T09:31:25Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "3191dcbb226f4f1b2349b6c78695d66e804242bf"
+        ]
+      },
+      {
+        "Sha": "7ac5d6443b436356b39319482b56a55891242e1e",
+        "FileName": "PcapSocketChannelConfig.java",
+        "Path": "plc4j/utils/pcap-sockets/src/main/java/org/apache/plc4x/java/utils/pcapsockets/netty/PcapSocketChannelConfig.java",
+        "DateUpdated": "2019-09-24T09:31:25Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "3191dcbb226f4f1b2349b6c78695d66e804242bf"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "3191dcbb226f4f1b2349b6c78695d66e804242bf",
+        "Author": {
+          "name": "\"Christofer Dutz\"",
+          "location": "Frankfurt, Germany",
+          "company": "codecentric AG"
+        },
+        "Commitor": {
+          "name": "\"Christofer Dutz\"",
+          "location": "Frankfurt, Germany",
+          "company": "codecentric AG"
+        },
+        "Date": "2019-09-24T09:31:25Z",
+        "additions": 2,
+        "deletions": 1,
+        "files": [
+          "d415f217027489ff4eba53b3a591cc303f0b63c4",
+          "7ac5d6443b436356b39319482b56a55891242e1e"
+        ]
+      }
+    ]
+  }
+]

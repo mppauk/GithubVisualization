@@ -1,0 +1,4398 @@
+[
+  {
+    "RepositoryName": "incubator-iotdb",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T01:04:41Z",
+    "EndDate": "2019-09-26T02:04:41",
+    "Branches": 31,
+    "Forks": 74,
+    "Files": [
+      {
+        "Sha": "65a141fae4ad098309cfced77c7bf63370be9983",
+        "FileName": "TsFileProcessor.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/storagegroup/TsFileProcessor.java",
+        "DateUpdated": "2019-09-26T02:02:39Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "68264c346e4c3a0f7936cea07eaeaa2c76e4d5a3"
+        ]
+      },
+      {
+        "Sha": "7433565aaa6447d6f932d8ae1c053e67f80a841c",
+        "FileName": "BatchInsertPlan.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/physical/crud/BatchInsertPlan.java",
+        "DateUpdated": "2019-09-26T02:02:39Z",
+        "Additions": 36,
+        "Deletions": 30,
+        "Commits": [
+          "68264c346e4c3a0f7936cea07eaeaa2c76e4d5a3"
+        ]
+      },
+      {
+        "Sha": "4fbb3f785d9358dace57b53443a6df12b15a556d",
+        "FileName": "LogReplayer.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/writelog/recover/LogReplayer.java",
+        "DateUpdated": "2019-09-26T02:02:39Z",
+        "Additions": 35,
+        "Deletions": 6,
+        "Commits": [
+          "68264c346e4c3a0f7936cea07eaeaa2c76e4d5a3"
+        ]
+      },
+      {
+        "Sha": "859ffad8c4f6907cc9a2674057fddabb02bea525",
+        "FileName": "1-JDBC API.md",
+        "Path": "docs/Documentation/UserGuide/6-JDBC API/1-JDBC API.md",
+        "DateUpdated": "2019-09-26T01:42:08Z",
+        "Additions": 9,
+        "Deletions": 2,
+        "Commits": [
+          "c0bec96a39bf8105f425a9a01a0dff204d852d89"
+        ]
+      },
+      {
+        "Sha": "d7259fb683ece84d04c7bfb9324ed4cca09d1fb3",
+        "FileName": "Constant.java",
+        "Path": "jdbc/src/main/java/org/apache/iotdb/jdbc/Constant.java",
+        "DateUpdated": "2019-09-26T01:42:08Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "c0bec96a39bf8105f425a9a01a0dff204d852d89"
+        ]
+      },
+      {
+        "Sha": "3e3dbb4ec9bf896cbf2dab7779b348afee6bcf82",
+        "FileName": "IoTDBDatabaseMetadata.java",
+        "Path": "jdbc/src/main/java/org/apache/iotdb/jdbc/IoTDBDatabaseMetadata.java",
+        "DateUpdated": "2019-09-26T01:42:08Z",
+        "Additions": 13,
+        "Deletions": 12,
+        "Commits": [
+          "c0bec96a39bf8105f425a9a01a0dff204d852d89"
+        ]
+      },
+      {
+        "Sha": "1a56fcffc75fdff5e8ed2a6dfd91b12cf14637a4",
+        "FileName": "IoTDBMetadataResultSet.java",
+        "Path": "jdbc/src/main/java/org/apache/iotdb/jdbc/IoTDBMetadataResultSet.java",
+        "DateUpdated": "2019-09-26T01:42:08Z",
+        "Additions": 18,
+        "Deletions": 1,
+        "Commits": [
+          "c0bec96a39bf8105f425a9a01a0dff204d852d89"
+        ]
+      },
+      {
+        "Sha": "c442c9d6cb69a36e4b6b868206b85936060e21ae",
+        "FileName": "IoTDBStatement.java",
+        "Path": "jdbc/src/main/java/org/apache/iotdb/jdbc/IoTDBStatement.java",
+        "DateUpdated": "2019-09-26T01:42:08Z",
+        "Additions": 7,
+        "Deletions": 2,
+        "Commits": [
+          "c0bec96a39bf8105f425a9a01a0dff204d852d89"
+        ]
+      },
+      {
+        "Sha": "ec63598c7316dc40c6f791fcbc2e4f6a928e575f",
+        "FileName": "IoTDBDatabaseMetadataTest.java",
+        "Path": "jdbc/src/test/java/org/apache/iotdb/jdbc/IoTDBDatabaseMetadataTest.java",
+        "DateUpdated": "2019-09-26T01:42:08Z",
+        "Additions": 51,
+        "Deletions": 7,
+        "Commits": [
+          "c0bec96a39bf8105f425a9a01a0dff204d852d89"
+        ]
+      },
+      {
+        "Sha": "2991d160bffc11e86c6c4b3b49ee4f0c05032b31",
+        "FileName": "IoTDBStatementTest.java",
+        "Path": "jdbc/src/test/java/org/apache/iotdb/jdbc/IoTDBStatementTest.java",
+        "DateUpdated": "2019-09-26T01:42:08Z",
+        "Additions": 5,
+        "Deletions": 3,
+        "Commits": [
+          "c0bec96a39bf8105f425a9a01a0dff204d852d89"
+        ]
+      },
+      {
+        "Sha": "1dedc8063222b1cc4253508cc1e5637bcace164a",
+        "FileName": "MGraph.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/metadata/MGraph.java",
+        "DateUpdated": "2019-09-26T01:42:08Z",
+        "Additions": 6,
+        "Deletions": 2,
+        "Commits": [
+          "c0bec96a39bf8105f425a9a01a0dff204d852d89"
+        ]
+      },
+      {
+        "Sha": "05c9331c4259b6caaac712017cb4814375a2b309",
+        "FileName": "MManager.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/metadata/MManager.java",
+        "DateUpdated": "2019-09-26T01:42:08Z",
+        "Additions": 16,
+        "Deletions": 1,
+        "Commits": [
+          "c0bec96a39bf8105f425a9a01a0dff204d852d89"
+        ]
+      },
+      {
+        "Sha": "e3f6431e7d76926f83ebf4df97fb871e451d9850",
+        "FileName": "MTree.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/metadata/MTree.java",
+        "DateUpdated": "2019-09-26T01:42:08Z",
+        "Additions": 20,
+        "Deletions": 8,
+        "Commits": [
+          "c0bec96a39bf8105f425a9a01a0dff204d852d89"
+        ]
+      },
+      {
+        "Sha": "41ceed358143ac08bec843319d8ce1942cc2a4a9",
+        "FileName": "TSServiceImpl.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/service/TSServiceImpl.java",
+        "DateUpdated": "2019-09-26T01:42:08Z",
+        "Additions": 11,
+        "Deletions": 13,
+        "Commits": [
+          "c0bec96a39bf8105f425a9a01a0dff204d852d89"
+        ]
+      },
+      {
+        "Sha": "67bc5d6b1d37013b584ba4d49e3319364b5f326a",
+        "FileName": "IoTDBMetadataFetchIT.java",
+        "Path": "server/src/test/java/org/apache/iotdb/db/integration/IoTDBMetadataFetchIT.java",
+        "DateUpdated": "2019-09-26T01:42:08Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "c0bec96a39bf8105f425a9a01a0dff204d852d89"
+        ]
+      },
+      {
+        "Sha": "3b9166cc62228d95c0ed83b83fd9bb99011572d6",
+        "FileName": "rpc-changelist.md",
+        "Path": "service-rpc/rpc-changelist.md",
+        "DateUpdated": "2019-09-26T01:42:08Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "c0bec96a39bf8105f425a9a01a0dff204d852d89"
+        ]
+      },
+      {
+        "Sha": "79ff7575fd9f7b345d3a1163d66dd3b16db44b22",
+        "FileName": "rpc.thrift",
+        "Path": "service-rpc/src/main/thrift/rpc.thrift",
+        "DateUpdated": "2019-09-26T01:42:08Z",
+        "Additions": 5,
+        "Deletions": 4,
+        "Commits": [
+          "c0bec96a39bf8105f425a9a01a0dff204d852d89"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "68264c346e4c3a0f7936cea07eaeaa2c76e4d5a3",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Jialin Qiao\"",
+          "location": "Beijing",
+          "company": "Tsinghua university"
+        },
+        "Date": "2019-09-26T02:02:39Z",
+        "additions": 73,
+        "deletions": 36,
+        "files": [
+          "65a141fae4ad098309cfced77c7bf63370be9983",
+          "7433565aaa6447d6f932d8ae1c053e67f80a841c",
+          "4fbb3f785d9358dace57b53443a6df12b15a556d"
+        ]
+      },
+      {
+        "sha": "c0bec96a39bf8105f425a9a01a0dff204d852d89",
+        "Author": {
+          "name": "\"Zesong Sun\"",
+          "location": "Beijing, China"
+        },
+        "Commitor": {
+          "name": "\"Jialin Qiao\"",
+          "location": "Beijing",
+          "company": "Tsinghua university"
+        },
+        "Date": "2019-09-26T01:42:08Z",
+        "additions": 167,
+        "deletions": 59,
+        "files": [
+          "859ffad8c4f6907cc9a2674057fddabb02bea525",
+          "d7259fb683ece84d04c7bfb9324ed4cca09d1fb3",
+          "3e3dbb4ec9bf896cbf2dab7779b348afee6bcf82",
+          "1a56fcffc75fdff5e8ed2a6dfd91b12cf14637a4",
+          "c442c9d6cb69a36e4b6b868206b85936060e21ae",
+          "ec63598c7316dc40c6f791fcbc2e4f6a928e575f",
+          "2991d160bffc11e86c6c4b3b49ee4f0c05032b31",
+          "1dedc8063222b1cc4253508cc1e5637bcace164a",
+          "05c9331c4259b6caaac712017cb4814375a2b309",
+          "e3f6431e7d76926f83ebf4df97fb871e451d9850",
+          "41ceed358143ac08bec843319d8ce1942cc2a4a9",
+          "67bc5d6b1d37013b584ba4d49e3319364b5f326a",
+          "3b9166cc62228d95c0ed83b83fd9bb99011572d6",
+          "79ff7575fd9f7b345d3a1163d66dd3b16db44b22"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-iotdb",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T04:04:18Z",
+    "EndDate": "2019-09-26T05:04:18",
+    "Branches": 31,
+    "Forks": 74,
+    "Files": [
+      {
+        "Sha": "b5023f8ad5ee9a6ab7da3465dd212d1a7d6b7bb2",
+        "FileName": "1-Session API.md",
+        "Path": "docs/Documentation-CHN/UserGuide/7-Session API/1-Session API.md",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 58,
+        "Deletions": 96,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "c8fef865171958266ab55ce47abb3c350f77c2b0",
+        "FileName": "1-Session API.md",
+        "Path": "docs/Documentation/UserGuide/7-Session API/1-Session API.md",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 53,
+        "Deletions": 101,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "41dd5430190addd6cc308758783c2a1c22104238",
+        "FileName": "IoTDBConfigDynamicAdapter.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/conf/adapter/IoTDBConfigDynamicAdapter.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 0,
+        "Deletions": 3,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "d0f8fa77ca50f0a7a3497b14808f57b45bd3684c",
+        "FileName": "StorageEngine.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/StorageEngine.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 6,
+        "Deletions": 0,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "70ac9c7c104f935b353b3bc509967b5cea293ee5",
+        "FileName": "StorageGroupProcessor.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/storagegroup/StorageGroupProcessor.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 18,
+        "Deletions": 0,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "9a7a5cc830c8fe3c4def6a83c7de2816d28f500c",
+        "FileName": "MGraph.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/metadata/MGraph.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 15,
+        "Deletions": 7,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "c8c6bfa3ca1f73e7493f56a47544104c6cc179bf",
+        "FileName": "MManager.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/metadata/MManager.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 65,
+        "Deletions": 16,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "4d92cdbbad8e1e1a26b7a4d96d67474a06760b0e",
+        "FileName": "MNode.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/metadata/MNode.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 8,
+        "Deletions": 8,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "77753d43347e7c440e135e0323d62aabc9491909",
+        "FileName": "MTree.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/metadata/MTree.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 29,
+        "Deletions": 16,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "0ed030414c129d0aa3319c79cf967ec217f79a60",
+        "FileName": "MetadataOperationType.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/metadata/MetadataOperationType.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "130c1be71f68b753afdba192f00e3c4f11090471",
+        "FileName": "StatMonitor.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/monitor/StatMonitor.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 4,
+        "Deletions": 5,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "59525bd785c22f4dd45dc10f05a54650fb14b701",
+        "FileName": "QueryProcessor.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/QueryProcessor.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "be3f5a2197807d745411f5b12beb352e1cf5df2d",
+        "FileName": "QueryProcessExecutor.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/executor/QueryProcessExecutor.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 8,
+        "Deletions": 1,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "28af9580a4517de977295ecb30b4c19ecb572812",
+        "FileName": "Operator.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/logical/Operator.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "c0dfeb4955538f1f6345cfcd021b8a88ee877540",
+        "FileName": "MetadataOperator.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/logical/sys/MetadataOperator.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 8,
+        "Deletions": 1,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "d4c51ec8566003c7404c70c0047ec4fd40011f37",
+        "FileName": "MetadataPlan.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/physical/sys/MetadataPlan.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "afbf30663c11cff3aefa734862d487dbbdddcc77",
+        "FileName": "TSServiceImpl.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/service/TSServiceImpl.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 18,
+        "Deletions": 0,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "53ce023c707e5dbff97bf84209bc1a2d79ba28f4",
+        "FileName": "SyncServiceImpl.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/sync/receiver/SyncServiceImpl.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 8,
+        "Deletions": 2,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "8da1c4367e8715b09e10838f278ab037cbf43146",
+        "FileName": "MetadataManagerHelper.java",
+        "Path": "server/src/test/java/org/apache/iotdb/db/engine/MetadataManagerHelper.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 4,
+        "Deletions": 5,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "34bce41863f25c59aa30a61427f2d39c186e4d2c",
+        "FileName": "MergeTest.java",
+        "Path": "server/src/test/java/org/apache/iotdb/db/engine/merge/MergeTest.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "66b3db6479bb8fc1bba1220eec9e669975ede11b",
+        "FileName": "DeletionFileNodeTest.java",
+        "Path": "server/src/test/java/org/apache/iotdb/db/engine/modification/DeletionFileNodeTest.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 1,
+        "Deletions": 3,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "d455cffcd4ff113b486caed354a54b2a7db11cca",
+        "FileName": "DeletionQueryTest.java",
+        "Path": "server/src/test/java/org/apache/iotdb/db/engine/modification/DeletionQueryTest.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 1,
+        "Deletions": 3,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "9549475c73665e368bcba52d7145d13db8797052",
+        "FileName": "FileNodeManagerBenchmark.java",
+        "Path": "server/src/test/java/org/apache/iotdb/db/engine/storagegroup/FileNodeManagerBenchmark.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "c5995b50b09f4f82492b4edb039da933df44c852",
+        "FileName": "MGraphTest.java",
+        "Path": "server/src/test/java/org/apache/iotdb/db/metadata/MGraphTest.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "29ed209645db48ab7789a5aab5b01e6093369048",
+        "FileName": "MManagerAdvancedTest.java",
+        "Path": "server/src/test/java/org/apache/iotdb/db/metadata/MManagerAdvancedTest.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "7c13ae1331f90306f9f0642c6bc47c9952d9ec4e",
+        "FileName": "MManagerBasicTest.java",
+        "Path": "server/src/test/java/org/apache/iotdb/db/metadata/MManagerBasicTest.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 24,
+        "Deletions": 25,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "33911b77b98aaf3f36a27497fdf3166ef186d2a1",
+        "FileName": "MManagerImproveTest.java",
+        "Path": "server/src/test/java/org/apache/iotdb/db/metadata/MManagerImproveTest.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "56098dbda7b5cace6e450ce8870b42c039ff4ec2",
+        "FileName": "MetadataTest.java",
+        "Path": "server/src/test/java/org/apache/iotdb/db/metadata/MetadataTest.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 8,
+        "Deletions": 8,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "3d5a6a8261fc222f26fa6c8c613875709f200e92",
+        "FileName": "QueryProcessorTest.java",
+        "Path": "server/src/test/java/org/apache/iotdb/db/qp/QueryProcessorTest.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "101456929d227c1eb60d34de0a5ec78690ba40f4",
+        "FileName": "PerformanceTest.java",
+        "Path": "server/src/test/java/org/apache/iotdb/db/writelog/PerformanceTest.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "a3f838b8c05ee3793741352156beb28248c8501b",
+        "FileName": "rpc.thrift",
+        "Path": "service-rpc/src/main/thrift/rpc.thrift",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "0ad5508de88136391c435c2cc9b77efdb0e09f41",
+        "FileName": "Session.java",
+        "Path": "session/src/main/java/org/apache/iotdb/session/Session.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "05d1c91ade7cee708d9dc2f95ff9a53431b0f1ef",
+        "FileName": "IoTDBSessionIT.java",
+        "Path": "session/src/test/java/org/apache/iotdb/session/IoTDBSessionIT.java",
+        "DateUpdated": "2019-09-26T04:54:22Z",
+        "Additions": 49,
+        "Deletions": 0,
+        "Commits": [
+          "59f66f6a2544ef91c905b43d354a7181fd730174"
+        ]
+      },
+      {
+        "Sha": "4f8f9820c5a00ebc78098e964af7e64dc7f69123",
+        "FileName": "3-JMX Tool.md",
+        "Path": "docs/Documentation-CHN/UserGuide/9-System Tools/3-JMX Tool.md",
+        "DateUpdated": "2019-09-26T04:52:16Z",
+        "Additions": 34,
+        "Deletions": 0,
+        "Commits": [
+          "6fe298dc95e3297ecd84baad23146b69f6c8c55a"
+        ]
+      },
+      {
+        "Sha": "6c0299f5879ae35fec9050b7593d36626b7d26b8",
+        "FileName": "0-Content.md",
+        "Path": "docs/Documentation/UserGuide/0-Content.md",
+        "DateUpdated": "2019-09-26T04:52:16Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "6fe298dc95e3297ecd84baad23146b69f6c8c55a"
+        ]
+      },
+      {
+        "Sha": "79133916faf52c8b62ad79a243108499e2bdb4c5",
+        "FileName": "3-JMX Tool.md",
+        "Path": "docs/Documentation/UserGuide/9-System Tools/3-JMX Tool.md",
+        "DateUpdated": "2019-09-26T04:52:16Z",
+        "Additions": 34,
+        "Deletions": 0,
+        "Commits": [
+          "6fe298dc95e3297ecd84baad23146b69f6c8c55a"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "59f66f6a2544ef91c905b43d354a7181fd730174",
+        "Author": {
+          "name": "\"Yi Tao\"",
+          "company": "Tsinghua University"
+        },
+        "Commitor": {
+          "name": "\"Jialin Qiao\"",
+          "location": "Beijing",
+          "company": "Tsinghua university"
+        },
+        "Date": "2019-09-26T04:54:22Z",
+        "additions": 427,
+        "deletions": 322,
+        "files": [
+          "b5023f8ad5ee9a6ab7da3465dd212d1a7d6b7bb2",
+          "c8fef865171958266ab55ce47abb3c350f77c2b0",
+          "41dd5430190addd6cc308758783c2a1c22104238",
+          "d0f8fa77ca50f0a7a3497b14808f57b45bd3684c",
+          "70ac9c7c104f935b353b3bc509967b5cea293ee5",
+          "9a7a5cc830c8fe3c4def6a83c7de2816d28f500c",
+          "c8c6bfa3ca1f73e7493f56a47544104c6cc179bf",
+          "4d92cdbbad8e1e1a26b7a4d96d67474a06760b0e",
+          "77753d43347e7c440e135e0323d62aabc9491909",
+          "0ed030414c129d0aa3319c79cf967ec217f79a60",
+          "130c1be71f68b753afdba192f00e3c4f11090471",
+          "59525bd785c22f4dd45dc10f05a54650fb14b701",
+          "be3f5a2197807d745411f5b12beb352e1cf5df2d",
+          "28af9580a4517de977295ecb30b4c19ecb572812",
+          "c0dfeb4955538f1f6345cfcd021b8a88ee877540",
+          "d4c51ec8566003c7404c70c0047ec4fd40011f37",
+          "afbf30663c11cff3aefa734862d487dbbdddcc77",
+          "53ce023c707e5dbff97bf84209bc1a2d79ba28f4",
+          "8da1c4367e8715b09e10838f278ab037cbf43146",
+          "34bce41863f25c59aa30a61427f2d39c186e4d2c",
+          "66b3db6479bb8fc1bba1220eec9e669975ede11b",
+          "d455cffcd4ff113b486caed354a54b2a7db11cca",
+          "9549475c73665e368bcba52d7145d13db8797052",
+          "c5995b50b09f4f82492b4edb039da933df44c852",
+          "29ed209645db48ab7789a5aab5b01e6093369048",
+          "7c13ae1331f90306f9f0642c6bc47c9952d9ec4e",
+          "33911b77b98aaf3f36a27497fdf3166ef186d2a1",
+          "56098dbda7b5cace6e450ce8870b42c039ff4ec2",
+          "3d5a6a8261fc222f26fa6c8c613875709f200e92",
+          "101456929d227c1eb60d34de0a5ec78690ba40f4",
+          "a3f838b8c05ee3793741352156beb28248c8501b",
+          "0ad5508de88136391c435c2cc9b77efdb0e09f41",
+          "05d1c91ade7cee708d9dc2f95ff9a53431b0f1ef"
+        ]
+      },
+      {
+        "sha": "6fe298dc95e3297ecd84baad23146b69f6c8c55a",
+        "Author": {
+          "name": "\"Zesong Sun\"",
+          "location": "Beijing, China"
+        },
+        "Commitor": {
+          "name": "\"Jialin Qiao\"",
+          "location": "Beijing",
+          "company": "Tsinghua university"
+        },
+        "Date": "2019-09-26T04:52:16Z",
+        "additions": 69,
+        "deletions": 0,
+        "files": [
+          "4f8f9820c5a00ebc78098e964af7e64dc7f69123",
+          "6c0299f5879ae35fec9050b7593d36626b7d26b8",
+          "79133916faf52c8b62ad79a243108499e2bdb4c5"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-iotdb",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T05:04:20Z",
+    "EndDate": "2019-09-26T06:04:20",
+    "Branches": 31,
+    "Forks": 74,
+    "Files": [
+      {
+        "Sha": "509e1d775088ad9dd485eef5907a43c0c8f381f3",
+        "FileName": "Jenkinsfile",
+        "Path": "Jenkinsfile",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "b636785727ac82975bb1f90224fd1acca05982b4",
+        "FileName": "AbstractClient.java",
+        "Path": "client/src/main/java/org/apache/iotdb/client/AbstractClient.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "4b441918ff712793fa6bf3d44b3d1ffc701a6da1",
+        "FileName": "Client.java",
+        "Path": "client/src/main/java/org/apache/iotdb/client/Client.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "e52ebf039475d8d333044b616e7092e77d0c1892",
+        "FileName": "WinClient.java",
+        "Path": "client/src/main/java/org/apache/iotdb/client/WinClient.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "848e7eb9938f0a2f1cc89011ca0431b076698980",
+        "FileName": "ArgsErrorException.java",
+        "Path": "client/src/main/java/org/apache/iotdb/exception/ArgsErrorException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "d7e3074b999714c2f42a7e4e504f09bd4da565b8",
+        "FileName": "AbstractCsvTool.java",
+        "Path": "client/src/main/java/org/apache/iotdb/tool/AbstractCsvTool.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "1a961300d910c6d518b337c7369bd04d15c14c12",
+        "FileName": "ExportCsv.java",
+        "Path": "client/src/main/java/org/apache/iotdb/tool/ExportCsv.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "06daab75fcdf4c0372fcc963b08374ef0d4f2483",
+        "FileName": "ImportCsv.java",
+        "Path": "client/src/main/java/org/apache/iotdb/tool/ImportCsv.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "bfdacc2d61f4b4a5ae3c44660d59bada55882556",
+        "FileName": "AbstractClientIT.java",
+        "Path": "client/src/test/java/org/apache/iotdb/client/AbstractClientIT.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "a041dfaea840ba0f401d0354aeda8a752d07e398",
+        "FileName": "AbstractScript.java",
+        "Path": "client/src/test/java/org/apache/iotdb/client/AbstractScript.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "cdadcbaafc67b095c0f40eaa801ab5da5715cf0b",
+        "FileName": "StartClientScriptIT.java",
+        "Path": "client/src/test/java/org/apache/iotdb/client/StartClientScriptIT.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "04ffd484f6563d3aa0975bb9b85310324e9eca9e",
+        "FileName": "ExportCsvTestIT.java",
+        "Path": "client/src/test/java/org/apache/iotdb/tool/ExportCsvTestIT.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "b018ed05a70b3e87a45f736cb8c5740b6e2747d1",
+        "FileName": "ImportCsvTestIT.java",
+        "Path": "client/src/test/java/org/apache/iotdb/tool/ImportCsvTestIT.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "4524d55882e998cb17405d5107b30cbb2f676611",
+        "FileName": "JDBCExample.java",
+        "Path": "example/jdbc/src/main/java/org/apache/iotdb/JDBCExample.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "423ce398ce56fa8e08073b2936b29c7aadee6675",
+        "FileName": "PrepareStatementDemo.java",
+        "Path": "example/jdbc/src/main/java/org/apache/iotdb/PrepareStatementDemo.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "4a7915d9844fb3cce76b3048e7d282a049fb9f05",
+        "FileName": "Constant.java",
+        "Path": "example/kafka/src/main/java/org/apache/iotdb/kafka/Constant.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "2eef722ceb4e6f24ac34657393c4b5860f1e8a1d",
+        "FileName": "KafkaConsumer.java",
+        "Path": "example/kafka/src/main/java/org/apache/iotdb/kafka/KafkaConsumer.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "86be072f24d27affb53da9ffc447cfa479f22019",
+        "FileName": "KafkaConsumerThread.java",
+        "Path": "example/kafka/src/main/java/org/apache/iotdb/kafka/KafkaConsumerThread.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "b379eef8afdf4debb8a4239a629fb5215a9c2db7",
+        "FileName": "KafkaProducer.java",
+        "Path": "example/kafka/src/main/java/org/apache/iotdb/kafka/KafkaProducer.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "8d7d0e5503badd0dc40fb6ebde7502e54af56215",
+        "FileName": "Constant.java",
+        "Path": "example/rocketmq/src/main/java/org/apache/iotdb/rocketmq/Constant.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "200d505a63d487b22de9dcf886dfa2bd08cac699",
+        "FileName": "RocketMQConsumer.java",
+        "Path": "example/rocketmq/src/main/java/org/apache/iotdb/rocketmq/RocketMQConsumer.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "86b41ad90e4fe9058cb8fad30859d74d04d48006",
+        "FileName": "RocketMQProducer.java",
+        "Path": "example/rocketmq/src/main/java/org/apache/iotdb/rocketmq/RocketMQProducer.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "ead6266cfd5ea09fd7ae57c9706fd46581493409",
+        "FileName": "Utils.java",
+        "Path": "example/rocketmq/src/main/java/org/apache/iotdb/rocketmq/Utils.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "1982bfd6552e0f28a282358eebac41f16d30a39f",
+        "FileName": "SessionExample.java",
+        "Path": "example/session/src/main/java/org/apache/iotdb/SessionExample.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "1171a866ea8e7c965ac0d348fe2a99bfc525c216",
+        "FileName": "TsFileRead.java",
+        "Path": "example/tsfile/src/main/java/org/apache/iotdb/tsfile/TsFileRead.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "35c1cdfda7ef35d65f7d45ccc71becf050f956c4",
+        "FileName": "TsFileSequenceRead.java",
+        "Path": "example/tsfile/src/main/java/org/apache/iotdb/tsfile/TsFileSequenceRead.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "fc20e90336d87570dfff3d9884bbc9dad1ece3c2",
+        "FileName": "TsFileSketchTool.java",
+        "Path": "example/tsfile/src/main/java/org/apache/iotdb/tsfile/TsFileSketchTool.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "b49f5e3b6758011b7f199ebcb07196fd96784142",
+        "FileName": "TsFileWriteWithRowBatch.java",
+        "Path": "example/tsfile/src/main/java/org/apache/iotdb/tsfile/TsFileWriteWithRowBatch.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "bc749e166cd1355ed2856541eaff505d005c7028",
+        "FileName": "TsFileWriteWithTSRecord.java",
+        "Path": "example/tsfile/src/main/java/org/apache/iotdb/tsfile/TsFileWriteWithTSRecord.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "06149cbb61311a8e3e157861b8a82d873d41949d",
+        "FileName": "TsfileWebDemoApplication.java",
+        "Path": "grafana/src/main/java/org/apache/iotdb/web/grafana/TsfileWebDemoApplication.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "9d090303467207c4eb0f8ccda8f5c1f002dec7d1",
+        "FileName": "TimeValues.java",
+        "Path": "grafana/src/main/java/org/apache/iotdb/web/grafana/bean/TimeValues.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "a456b85da17b16a25cbd588df23d93aa7d9720b2",
+        "FileName": "MyConfiguration.java",
+        "Path": "grafana/src/main/java/org/apache/iotdb/web/grafana/conf/MyConfiguration.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "b4dee8b535aba6c32dfead4b4cffc7b12832cef6",
+        "FileName": "DatabaseConnectController.java",
+        "Path": "grafana/src/main/java/org/apache/iotdb/web/grafana/controller/DatabaseConnectController.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "e55d57d034a01d430c5b81c13dec50137349f75e",
+        "FileName": "BasicDao.java",
+        "Path": "grafana/src/main/java/org/apache/iotdb/web/grafana/dao/BasicDao.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "6bf195cf36011e6e9fdf2e9e98fc6ebaf749abf8",
+        "FileName": "BasicDaoImpl.java",
+        "Path": "grafana/src/main/java/org/apache/iotdb/web/grafana/dao/impl/BasicDaoImpl.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "714c78f4668c8376af22489a19217a583c0a0419",
+        "FileName": "DatabaseConnectService.java",
+        "Path": "grafana/src/main/java/org/apache/iotdb/web/grafana/service/DatabaseConnectService.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "a6ddcdbbb8f0a7d9fc671f87a4668a60629cf2b6",
+        "FileName": "DatabaseConnectServiceImpl.java",
+        "Path": "grafana/src/main/java/org/apache/iotdb/web/grafana/service/impl/DatabaseConnectServiceImpl.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "63fcce73871265da7edeb6e2bf286d83cf2c3e6d",
+        "FileName": "TSFHadoopException.java",
+        "Path": "hadoop/src/main/java/org/apache/iotdb/tsfile/hadoop/TSFHadoopException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "e22a9fdf2b272c717f1c75d95d17f0a0a072dd0d",
+        "FileName": "TSFInputFormat.java",
+        "Path": "hadoop/src/main/java/org/apache/iotdb/tsfile/hadoop/TSFInputFormat.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "1df902b585a10cff4183c40e8abebf54c523a316",
+        "FileName": "TSFInputSplit.java",
+        "Path": "hadoop/src/main/java/org/apache/iotdb/tsfile/hadoop/TSFInputSplit.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "b32fa1499f7666e0cd8c05765a44dae4deeaef06",
+        "FileName": "TSFOutputFormat.java",
+        "Path": "hadoop/src/main/java/org/apache/iotdb/tsfile/hadoop/TSFOutputFormat.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "feb29d36ad3bac3ac4eff41b3418263602941fec",
+        "FileName": "TSFRecordReader.java",
+        "Path": "hadoop/src/main/java/org/apache/iotdb/tsfile/hadoop/TSFRecordReader.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "856bd5a16cd5169ce6b31cf36f90fc9a0b6fc08e",
+        "FileName": "TSFRecordWriter.java",
+        "Path": "hadoop/src/main/java/org/apache/iotdb/tsfile/hadoop/TSFRecordWriter.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "e2000565725b4c3e17e4d88f8f5e99d240321dd7",
+        "FileName": "TSRow.java",
+        "Path": "hadoop/src/main/java/org/apache/iotdb/tsfile/hadoop/TSRow.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "4890108a8076c1977857ee695d3b2af0d8f2f0c7",
+        "FileName": "TSFMRReadExample.java",
+        "Path": "hadoop/src/main/java/org/apache/iotdb/tsfile/hadoop/example/TSFMRReadExample.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "b74980072a4cdc89ef0412fd8451dbca18b0d1e8",
+        "FileName": "TsFileHelper.java",
+        "Path": "hadoop/src/main/java/org/apache/iotdb/tsfile/hadoop/example/TsFileHelper.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "901fe5ed0a9bdc1e6aaca2503043d1e7ba68743e",
+        "FileName": "HDFSInputStream.java",
+        "Path": "hadoop/src/main/java/org/apache/iotdb/tsfile/hadoop/io/HDFSInputStream.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "63495fcaad4cd6a0aba06e01e2cefea6b23fc681",
+        "FileName": "HDFSOutputStream.java",
+        "Path": "hadoop/src/main/java/org/apache/iotdb/tsfile/hadoop/io/HDFSOutputStream.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "a866ee2229f85ed02435db797338dc961d77834b",
+        "FileName": "InputOutputStreamTest.java",
+        "Path": "hadoop/src/test/java/cn/edu/thu/tsfile/hadoop/InputOutputStreamTest.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "2743b788a82ffa53768375f27176e00997401794",
+        "FileName": "TSFHadoopTest.java",
+        "Path": "hadoop/src/test/java/cn/edu/thu/tsfile/hadoop/TSFHadoopTest.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "f655ec8670d9f508ccffc6e51618951b31d29e67",
+        "FileName": "TSFInputSplitTest.java",
+        "Path": "hadoop/src/test/java/cn/edu/thu/tsfile/hadoop/TSFInputSplitTest.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "e338aa17484d459df9e489b000a5ca93e60899dd",
+        "FileName": "TsFileTestHelper.java",
+        "Path": "hadoop/src/test/java/cn/edu/thu/tsfile/hadoop/TsFileTestHelper.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "09f999de2154b19dd48780382a67c8e94ef62f89",
+        "FileName": "Config.java",
+        "Path": "jdbc/src/main/java/org/apache/iotdb/jdbc/Config.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "ae593faeef99e355ba05178ea2039a86d9506fd6",
+        "FileName": "Constant.java",
+        "Path": "jdbc/src/main/java/org/apache/iotdb/jdbc/Constant.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "368b1189e93b2ed6422a04aabc43bece650b0c40",
+        "FileName": "IoTDBConnection.java",
+        "Path": "jdbc/src/main/java/org/apache/iotdb/jdbc/IoTDBConnection.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "dfd177281716f4a4310a5939f3c73f63c0109ce9",
+        "FileName": "IoTDBConnectionParams.java",
+        "Path": "jdbc/src/main/java/org/apache/iotdb/jdbc/IoTDBConnectionParams.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "ba001881e0c8092ed64700ed73872aff6b884cb7",
+        "FileName": "IoTDBDatabaseMetadata.java",
+        "Path": "jdbc/src/main/java/org/apache/iotdb/jdbc/IoTDBDatabaseMetadata.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "1b3f1db8c6cdcd0d29d99a7a8920294ef6eb7b3e",
+        "FileName": "IoTDBDriver.java",
+        "Path": "jdbc/src/main/java/org/apache/iotdb/jdbc/IoTDBDriver.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "3f2cb980cd957a974acc9da1c3430fe417d3a936",
+        "FileName": "IoTDBMetadataResultMetadata.java",
+        "Path": "jdbc/src/main/java/org/apache/iotdb/jdbc/IoTDBMetadataResultMetadata.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "532fbd8603959c7007e550c2569de4effadc4966",
+        "FileName": "IoTDBMetadataResultSet.java",
+        "Path": "jdbc/src/main/java/org/apache/iotdb/jdbc/IoTDBMetadataResultSet.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "e54b16db1676abd30c2fff7f01e58c68a5108358",
+        "FileName": "IoTDBPreparedStatement.java",
+        "Path": "jdbc/src/main/java/org/apache/iotdb/jdbc/IoTDBPreparedStatement.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "b3fb5e98e341198c862bb25ea893744977662a07",
+        "FileName": "IoTDBQueryResultSet.java",
+        "Path": "jdbc/src/main/java/org/apache/iotdb/jdbc/IoTDBQueryResultSet.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "a500d58b68bd182a582c916d0d0453559f150615",
+        "FileName": "IoTDBResultMetadata.java",
+        "Path": "jdbc/src/main/java/org/apache/iotdb/jdbc/IoTDBResultMetadata.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "dd27fc5b84327bafa80408021c4de2ee7319a86c",
+        "FileName": "IoTDBSQLException.java",
+        "Path": "jdbc/src/main/java/org/apache/iotdb/jdbc/IoTDBSQLException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "f74d5006316a45ddc48e59e719d484c4a7c05dc2",
+        "FileName": "IoTDBStatement.java",
+        "Path": "jdbc/src/main/java/org/apache/iotdb/jdbc/IoTDBStatement.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "8a9c4cc6c49991809d6bbf3ff65ca75bfe542718",
+        "FileName": "IoTDBURLException.java",
+        "Path": "jdbc/src/main/java/org/apache/iotdb/jdbc/IoTDBURLException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "d2cce5073468d0f4081f0cabb8fa3edf202dba00",
+        "FileName": "Utils.java",
+        "Path": "jdbc/src/main/java/org/apache/iotdb/jdbc/Utils.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "4784f0c6c5650771363ab907c677babcf7dc98a8",
+        "FileName": "BatchTest.java",
+        "Path": "jdbc/src/test/java/org/apache/iotdb/jdbc/BatchTest.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "76b26a28674e4eed48fa074b0c5b5932d761a4b7",
+        "FileName": "IoTDBConnectionTest.java",
+        "Path": "jdbc/src/test/java/org/apache/iotdb/jdbc/IoTDBConnectionTest.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "dc5bd67e4d50a7a11c2b6d3f8366c9e014be7b85",
+        "FileName": "IoTDBDatabaseMetadataTest.java",
+        "Path": "jdbc/src/test/java/org/apache/iotdb/jdbc/IoTDBDatabaseMetadataTest.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "9f022174cd35108da0ef25d3e369b27818bbee50",
+        "FileName": "IoTDBMetadataResultMetadataTest.java",
+        "Path": "jdbc/src/test/java/org/apache/iotdb/jdbc/IoTDBMetadataResultMetadataTest.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "9702ed4662f760130de99a7c2e2a938da9360928",
+        "FileName": "IoTDBPreparedStatementTest.java",
+        "Path": "jdbc/src/test/java/org/apache/iotdb/jdbc/IoTDBPreparedStatementTest.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "36d7d1cd771b9068e6f3c8f3086bf7369c7ae5c4",
+        "FileName": "IoTDBQueryResultSetTest.java",
+        "Path": "jdbc/src/test/java/org/apache/iotdb/jdbc/IoTDBQueryResultSetTest.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "a46537d51f6d8ad83be004bf4892fb6972ba6c43",
+        "FileName": "IoTDBResultMetadataTest.java",
+        "Path": "jdbc/src/test/java/org/apache/iotdb/jdbc/IoTDBResultMetadataTest.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "d91decc9dbb8bcf6b1a8b3bde4e05bfaae313fd3",
+        "FileName": "IoTDBStatementTest.java",
+        "Path": "jdbc/src/test/java/org/apache/iotdb/jdbc/IoTDBStatementTest.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "eb318d8e39e03d4504f00a7e3fe5f1f80bbfd4c1",
+        "FileName": "UtilsTest.java",
+        "Path": "jdbc/src/test/java/org/apache/iotdb/jdbc/UtilsTest.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "c066de4576fa65507af295c849c939590ffc1a16",
+        "FileName": "AuthException.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/auth/AuthException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "68cb93b9025b0e699773d61fdcdbcbecb0cadd0c",
+        "FileName": "AuthorityChecker.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/auth/AuthorityChecker.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "3659d2d6b09bbbcc5bb230495e3aca4c8ddcd12e",
+        "FileName": "BasicAuthorizer.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/auth/authorizer/BasicAuthorizer.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "331a79d16c2a3a737801751b2c1057cd823d6a75",
+        "FileName": "IAuthorizer.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/auth/authorizer/IAuthorizer.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "c2d94ceb020cf4630c78d6dd0c010d54bbeb5493",
+        "FileName": "LocalFileAuthorizer.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/auth/authorizer/LocalFileAuthorizer.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "df5158204aa13619937219e8f8f6610e9d25674d",
+        "FileName": "PathPrivilege.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/auth/entity/PathPrivilege.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "551e9736f2bc170e6335fbf3d5d463e0138761bd",
+        "FileName": "PrivilegeType.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/auth/entity/PrivilegeType.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "5ee6a5b8015f8fab2f756e8b341033a79f257560",
+        "FileName": "Role.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/auth/entity/Role.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "48ade95344e024db4ff6d0ad70060d4d358c89ba",
+        "FileName": "User.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/auth/entity/User.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "b7343a3896685ecad9cb5287cc684adddc3b9709",
+        "FileName": "BasicRoleManager.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/auth/role/BasicRoleManager.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "42af845cbab411e40440086b44d71209a1d48ae6",
+        "FileName": "IRoleAccessor.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/auth/role/IRoleAccessor.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "83c957cf750882c6a1f552773060b0842dc3e100",
+        "FileName": "IRoleManager.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/auth/role/IRoleManager.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "0d13a18019ba4f07fc5d72261c8c28df1f41ffda",
+        "FileName": "LocalFileRoleAccessor.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/auth/role/LocalFileRoleAccessor.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "9495a9e0d037c7f169d053751b994cf56a72c1f9",
+        "FileName": "LocalFileRoleManager.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/auth/role/LocalFileRoleManager.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "3145ac7554c311f9e281b9a24b97d28b7a7ad220",
+        "FileName": "BasicUserManager.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/auth/user/BasicUserManager.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "cc31200cdc39ea3e0dfab9aecff80ab99646c073",
+        "FileName": "IUserAccessor.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/auth/user/IUserAccessor.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "4d7a3f3389ae630ffe0af2b0caadc894f0220ca5",
+        "FileName": "IUserManager.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/auth/user/IUserManager.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "6946a86da750f9d9ccd4c1604f8997d8eed2c7a8",
+        "FileName": "LocalFileUserAccessor.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/auth/user/LocalFileUserAccessor.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "d6914f3bc4e27c8afa8841d29ff7b14a078038a7",
+        "FileName": "LocalFileUserManager.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/auth/user/LocalFileUserManager.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "c55ecb9942d6502e5011a478d5df8ac9e9d19d7d",
+        "FileName": "HashLock.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/concurrent/HashLock.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "632e33baa23bc9a847ef7f7dd3df94b3a48bb5ba",
+        "FileName": "IoTDBDefaultThreadExceptionHandler.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/concurrent/IoTDBDefaultThreadExceptionHandler.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "b66ca74781cedbcf3585fd31693c69f2343425a8",
+        "FileName": "IoTDBThreadPoolFactory.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/concurrent/IoTDBThreadPoolFactory.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "dc888c7f5bd90df90013472818bebf7ac627c7a8",
+        "FileName": "IoTThreadFactory.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/concurrent/IoTThreadFactory.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "28dd9c44c5a025b5eb5bfd2f4aded8d1ee21023c",
+        "FileName": "ThreadName.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/concurrent/ThreadName.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "b99ec35cd631e094a20654be163c288ccec39427",
+        "FileName": "IoTDBConfig.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/conf/IoTDBConfig.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "7b6bdef3569dca82894b781da3254654c8821dce",
+        "FileName": "IoTDBConfigCheck.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/conf/IoTDBConfigCheck.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "568b7aa0ec59ed9b3e8bb54a88c1fcd714bae049",
+        "FileName": "IoTDBConstant.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/conf/IoTDBConstant.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "700f634a2ab16dbe7f4cebd6acc83f3e288604c6",
+        "FileName": "IoTDBDescriptor.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/conf/IoTDBDescriptor.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "3b5ae62d8dfc58246662c970033ad916d419b773",
+        "FileName": "CompressionRatio.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/conf/adapter/CompressionRatio.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "1f6b58f14d67ed299e6b038f696a9920dca25579",
+        "FileName": "IDynamicAdapter.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/conf/adapter/IDynamicAdapter.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "f3a71f1620a1ebac2632a86c2e8ba332a15c1ba7",
+        "FileName": "IoTDBConfigDynamicAdapter.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/conf/adapter/IoTDBConfigDynamicAdapter.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "a21399b7b41497c1a00291a6302c000b9dd3e80b",
+        "FileName": "ManageDynamicParameters.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/conf/adapter/ManageDynamicParameters.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "92e0da56d3a54b61c3a84c9932ab0d8a13af59a9",
+        "FileName": "ManageDynamicParametersMBean.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/conf/adapter/ManageDynamicParametersMBean.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "f44a2c8d2fd9032807627a74fd75ea022ecd52be",
+        "FileName": "DirectoryManager.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/conf/directories/DirectoryManager.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "085de134823d78d161dbc6714ed7eede2cc6591b",
+        "FileName": "DirectoryStrategy.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/conf/directories/strategy/DirectoryStrategy.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "94961c626caf2d5deccd5ee451d286ce676471c8",
+        "FileName": "MaxDiskUsableSpaceFirstStrategy.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/conf/directories/strategy/MaxDiskUsableSpaceFirstStrategy.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "224948a8506fe6e2838f6a1c8a7035b586aaa726",
+        "FileName": "MinFolderOccupiedSpaceFirstStrategy.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/conf/directories/strategy/MinFolderOccupiedSpaceFirstStrategy.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "75a78701cd7aeb798c82ad5a2f5b718959fd2508",
+        "FileName": "SequenceStrategy.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/conf/directories/strategy/SequenceStrategy.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "10b4cb6a2b396b6b3df29e9ed7489225e25bef5d",
+        "FileName": "ConcurrentCircularArray.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/cost/statistic/ConcurrentCircularArray.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "81914817dc23fdbe77ae93b1b93e80809e9dcb07",
+        "FileName": "Measurement.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/cost/statistic/Measurement.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "79d22206b23a0fd52fc952b197f45d2946b21886",
+        "FileName": "MeasurementMBean.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/cost/statistic/MeasurementMBean.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "f676d8d0442a9cfc7e5c3add2c0ff4ffbee0b9f9",
+        "FileName": "Operation.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/cost/statistic/Operation.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "334f63041878faed565f36443cc6df2dc1f4dace",
+        "FileName": "DeviceMetaDataCache.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/cache/DeviceMetaDataCache.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "c85d1478eb1c1c6dc826133af06deeb9d016ba78",
+        "FileName": "LRULinkedHashMap.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/cache/LRULinkedHashMap.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "907b69c31c9059cd6cbccee6306ec5cf6fbdb6dd",
+        "FileName": "RamUsageEstimator.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/cache/RamUsageEstimator.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "1721ff0b8f3756277c5e95bd6dd7ab1b4f8182ce",
+        "FileName": "TsFileMetaDataCache.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/cache/TsFileMetaDataCache.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "311a685f3e26352f8701f23b8e61509ae3e5243e",
+        "FileName": "TsFileMetadataUtils.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/cache/TsFileMetadataUtils.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "099a4966faded6895cceb78a9082fa7b876c233f",
+        "FileName": "NotifyFlushMemTable.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/flush/NotifyFlushMemTable.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "d1ab35ea65ff91381dd0aa52f80a4d70e8b536f2",
+        "FileName": "AbstractPoolManager.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/flush/pool/AbstractPoolManager.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "fd13ab8785ab604a41142d1f4cecda8a11192875",
+        "FileName": "FlushSubTaskPoolManager.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/flush/pool/FlushSubTaskPoolManager.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "0656ab2037c8c7ccb0911d500fae29f0a2a5f3b8",
+        "FileName": "FlushTaskPoolManager.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/flush/pool/FlushTaskPoolManager.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "c3d8cb8f377938436a41acb6fc2be3ce398c3098",
+        "FileName": "AbstractMemTable.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/memtable/AbstractMemTable.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "1d5b4c56e0ffbe8c247a175635bd6f5f9f4779ec",
+        "FileName": "IMemTable.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/memtable/IMemTable.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "a7b412607b6831bcd4b3c80a613efc606f75b763",
+        "FileName": "IWritableMemChunk.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/memtable/IWritableMemChunk.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "7545d8cbbbf4f343652dc500be2aa3b9dbb361da",
+        "FileName": "PrimitiveMemTable.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/memtable/PrimitiveMemTable.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "6554a381a829072edd1575c9debdb2b6b01e5974",
+        "FileName": "MergeContext.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/merge/manage/MergeContext.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "ee4372448136747083159244e51ee3618859e8a5",
+        "FileName": "MergeManager.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/merge/manage/MergeManager.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "54463d9a6a238f6eb890d7f61c007d51c0a6c701",
+        "FileName": "MergeResource.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/merge/manage/MergeResource.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "8d9a86f6acaec70d516608a3edceeb80f40fc125",
+        "FileName": "package-info.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/merge/package-info.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "04f364bc5bbd8f676e47c11569fc02bde11b613f",
+        "FileName": "LogAnalyzer.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/merge/recover/LogAnalyzer.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "986bacb603f4bcc7ff536356ac923c2de2c0db72",
+        "FileName": "MergeLogger.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/merge/recover/MergeLogger.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "7883f1aed34cb4552b18cde77ed8ad4f5de7d5bc",
+        "FileName": "IFileQueryMemMeasurement.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/merge/selector/IFileQueryMemMeasurement.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "d452dff54872c8c2f32358f3c152b7c82ee51ceb",
+        "FileName": "IMergeFileSelector.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/merge/selector/IMergeFileSelector.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "a5ed5b04440ff9150069a3b7f3ce9ff4c1a143d6",
+        "FileName": "IMergePathSelector.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/merge/selector/IMergePathSelector.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "612a758de4b82c13837bee70139cdae48f184542",
+        "FileName": "MaxFileMergeFileSelector.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/merge/selector/MaxFileMergeFileSelector.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "5209f48c3dd95ab3a604fcb2c20ef026dc412723",
+        "FileName": "MaxSeriesMergeFileSelector.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/merge/selector/MaxSeriesMergeFileSelector.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "874a91bcc429af268db29003b12c45525649c282",
+        "FileName": "MergeFileStrategy.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/merge/selector/MergeFileStrategy.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "073a248ce9d6af05701f3985c7bdf1e4b89ae3f3",
+        "FileName": "NaivePathSelector.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/merge/selector/NaivePathSelector.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "d783abfacaedc3acca50ad899e3dcf65eb99ffeb",
+        "FileName": "MergeCallback.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/merge/task/MergeCallback.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "e559c8e1256fccb883cbc60ccb02ab2125522c6a",
+        "FileName": "MergeFileTask.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/merge/task/MergeFileTask.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "7bf648802812a9a7823c40f19d9a430476bcd1e4",
+        "FileName": "MergeMultiChunkTask.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/merge/task/MergeMultiChunkTask.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "39bbb027fd229ce46b3cf16fb8f2be300d124ce3",
+        "FileName": "MergeTask.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/merge/task/MergeTask.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "1f3ebe7819b441f18818f1c4203511a4851878c3",
+        "FileName": "RecoverMergeTask.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/merge/task/RecoverMergeTask.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "2c0d3284fb50000401ba25f75791db0a63462c8d",
+        "FileName": "Deletion.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/modification/Deletion.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "e75b89961ebdccd9784136dc7be11220524316e5",
+        "FileName": "Modification.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/modification/Modification.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "d513eb35c4264d94191f7e54d052e49a37fd8710",
+        "FileName": "ModificationFile.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/modification/ModificationFile.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "b2312554720699b62c1dbe980ef5411e6d50cc18",
+        "FileName": "LocalTextModificationAccessor.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/modification/io/LocalTextModificationAccessor.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "9ce449f486c7ace6810545892cf25996b31f143d",
+        "FileName": "ModificationReader.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/modification/io/ModificationReader.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "5e12f21f2f50713fa7a6cd2a7244c459865d3867",
+        "FileName": "ModificationWriter.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/modification/io/ModificationWriter.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "c21f020e3fccc060bdc9a9ae2694bd1b10c5e8b2",
+        "FileName": "package-info.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/modification/package-info.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "2eebde212c32acd7c9d0454955314e597bb85386",
+        "FileName": "QueryDataSource.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/querycontext/QueryDataSource.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "9d467c5343842a3404dffc855b12aff8782b745c",
+        "FileName": "ReadOnlyMemChunk.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/querycontext/ReadOnlyMemChunk.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "902f14f65fa6b99a62cb03fa37e496aad7e52405",
+        "FileName": "TsFileProcessor.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/storagegroup/TsFileProcessor.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "edfcacdc107f48d7f6146a200c79c71a4add5153",
+        "FileName": "SimpleFileVersionController.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/version/SimpleFileVersionController.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "3e47cd912386c38db40f7556a4e42f143216bf1e",
+        "FileName": "SysTimeVersionController.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/version/SysTimeVersionController.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "30c93c64bf7719765c58e49d93a2b66b2cd7f15c",
+        "FileName": "VersionController.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/version/VersionController.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "cc1c417a11bec33460edef5f90a9fbb0e8a15eb7",
+        "FileName": "ArgsErrorException.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/exception/ArgsErrorException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "5c111111e168a3673b6624cc8879ab5bc865875d",
+        "FileName": "ConfigAdjusterException.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/exception/ConfigAdjusterException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "757f0af896c5a894d95c7c0e8719c2614e596960",
+        "FileName": "DeltaEngineRunningException.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/exception/DeltaEngineRunningException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "15b39825679e7410a4fb85cba36d9e423f2e3115",
+        "FileName": "DiskSpaceInsufficientException.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/exception/DiskSpaceInsufficientException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "82c7046b98751eafab38055c696a587f79f8fa61",
+        "FileName": "FlushRunTimeException.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/exception/FlushRunTimeException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "7065f8f4d569e4624235ad70e37ab7948ddbf33a",
+        "FileName": "MergeException.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/exception/MergeException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "7eb817b1a20f0a5b7856effacef4af1c026c2fcc",
+        "FileName": "MetadataErrorException.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/exception/MetadataErrorException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "3ec696ba6c60a48b8dce9f0fb0e0dd50a5304f3d",
+        "FileName": "PathErrorException.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/exception/PathErrorException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "bb2dd759714ec6ed95c3a87442b16a4eccaf4831",
+        "FileName": "ProcessorException.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/exception/ProcessorException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "8c8ac1a8a480df994042f758666ff005ec8c4468",
+        "FileName": "QueryInBatchStmtException.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/exception/QueryInBatchStmtException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "5c6f527a08138b664eac45cee9e5fb7e649568a5",
+        "FileName": "StartupException.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/exception/StartupException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "f2cb726a59f858cd1ae49f47dd14b0e2a9ebf51b",
+        "FileName": "StorageEngineException.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/exception/StorageEngineException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "f80ab7c5e1e01886189d415236bb0e28db9ac4a2",
+        "FileName": "StorageEngineFailureException.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/exception/StorageEngineFailureException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "3480faebe20eeae15cd11c93085b712d9320339d",
+        "FileName": "StorageGroupProcessorException.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/exception/StorageGroupProcessorException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "d02d8bf6e33dfb56d00cd776d23487f8a01f97f2",
+        "FileName": "SyncConnectionException.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/exception/SyncConnectionException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "35b371e828ffd035097834f5408e786ea2be4cea",
+        "FileName": "SysCheckException.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/exception/SysCheckException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "cdd8ad85c292934fc375ebfb4507d9c574450928",
+        "FileName": "TsFileProcessorException.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/exception/TsFileProcessorException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "27526a888041105c7ef97504ac25e7c84e75eb42",
+        "FileName": "UnSupportedFillTypeException.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/exception/UnSupportedFillTypeException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "379652ba638fcda12becd714036c2fa635f7d80e",
+        "FileName": "IllegalASTFormatException.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/exception/qp/IllegalASTFormatException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "524a4c69e1f306067dded23e07550ebe3c548584",
+        "FileName": "LogicalOperatorException.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/exception/qp/LogicalOperatorException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "983a70fec2a9a4acd9ac89aee263e56b2312d1fe",
+        "FileName": "LogicalOptimizeException.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/exception/qp/LogicalOptimizeException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "c479c077e719955379e0714a943cf42c25f73547",
+        "FileName": "QueryProcessorException.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/exception/qp/QueryProcessorException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "abcafc4268c6f3f1630a014496e3106263516bcb",
+        "FileName": "MGraph.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/metadata/MGraph.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "914091a39bcf0bb9821226a0bffe00508b6f7a0f",
+        "FileName": "MManager.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/metadata/MManager.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "3571cbd69b59e94979724e0d9a5269e144f6aaa2",
+        "FileName": "MNode.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/metadata/MNode.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "db25f001bfd3dccf5b64d0eae1f4fbea1bd8908f",
+        "FileName": "MTree.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/metadata/MTree.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "ee59a2ac8cb879d70d51f6bb3e197684bc0cc961",
+        "FileName": "Metadata.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/metadata/Metadata.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "13bb74f31b713ae9d077bd7f885c76d61cf37f4a",
+        "FileName": "MetadataConstant.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/metadata/MetadataConstant.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "72010acbe8728195d505ad3522636e60d5a437ca",
+        "FileName": "MetadataOperationType.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/metadata/MetadataOperationType.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "73b8ddff9dec5b441df0d3adcea1e551a51dbaf8",
+        "FileName": "PNode.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/metadata/PNode.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "d62bb7b0c5bf667da7f05cd963739757d5957290",
+        "FileName": "PTree.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/metadata/PTree.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "490743c3f9e3cc69725a9c16b58d2275a5c624f4",
+        "FileName": "MonitorConstants.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/monitor/MonitorConstants.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "bc3d77b2cb07dd3ea6bc4610646427c9eb09d9aa",
+        "FileName": "MemTableWriteTimeCost.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/monitor/collector/MemTableWriteTimeCost.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "c7c2f7bc15ad877e953108a9006d093b52486a69",
+        "FileName": "QueryProcessor.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/QueryProcessor.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "35e9d68bf0a8570bf723499cb7ce98754959e6a0",
+        "FileName": "DatetimeUtils.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/constant/DatetimeUtils.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "797a87fab94bee47c0a90e04a4267e734793e4e5",
+        "FileName": "SQLConstant.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/constant/SQLConstant.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "f77005a5c5a80862c7c898c35679dc0f7d1e2035",
+        "FileName": "TSParserConstant.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/constant/TSParserConstant.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "83eea6800d30255415e1bb7ad0f14d564efae33b",
+        "FileName": "DateTimeFormatException.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/exception/DateTimeFormatException.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "ddda66c38b84f057257f913d9c622d2f9e8e2da6",
+        "FileName": "AbstractQueryProcessExecutor.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/executor/AbstractQueryProcessExecutor.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "f8f4de24503be99f44d9fa4913ce41bd6fdebbfb",
+        "FileName": "IQueryProcessExecutor.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/executor/IQueryProcessExecutor.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "571cc8fd6517d9b3c789537bc542a46ceb2642c0",
+        "FileName": "QueryProcessExecutor.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/executor/QueryProcessExecutor.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "a6cb607b9f594f82740f50b7b44bb65a715fca56",
+        "FileName": "Operator.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/logical/Operator.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "98da17610ca9f05d120ed1da675fd017961aadd4",
+        "FileName": "RootOperator.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/logical/RootOperator.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "722f473fa096221dcc9c3cb072e860583d846435",
+        "FileName": "BasicFunctionOperator.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/logical/crud/BasicFunctionOperator.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "4c29ca0de9079d7aef292a3ae96a03691939afb1",
+        "FileName": "BasicOperatorType.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/logical/crud/BasicOperatorType.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "1c19921917ddb4a8f145454ec91bab21162818f6",
+        "FileName": "DeleteOperator.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/logical/crud/DeleteOperator.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "cfd7ef4f45c62bfbdc0fa89e4fba18848211e1cd",
+        "FileName": "FilterOperator.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/logical/crud/FilterOperator.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "d86b71ff54591f2169801364d2451108e2d3ce53",
+        "FileName": "FromOperator.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/logical/crud/FromOperator.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "64039bdeed457bd25d73e016e45b96c1f81ae2c4",
+        "FileName": "FunctionOperator.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/logical/crud/FunctionOperator.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "13a3b459046d43d8af4ca73d2a3aaffbb8f48b7e",
+        "FileName": "InsertOperator.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/logical/crud/InsertOperator.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "2b4ca51f91b988f8b3be0f268f2c59f1a62c351d",
+        "FileName": "QueryOperator.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/logical/crud/QueryOperator.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "e675bfd55db465bfe1976a6d980ab711061c2ffe",
+        "FileName": "SFWOperator.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/logical/crud/SFWOperator.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "902dc384370be052f905c032c43808eb237917ad",
+        "FileName": "SelectOperator.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/logical/crud/SelectOperator.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "df788281acf318830163ade62090d7df2d9b5f91",
+        "FileName": "UpdateOperator.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/logical/crud/UpdateOperator.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "f60489a6f7f3a977c6d6fdc6ce3bed85c7097b31",
+        "FileName": "AuthorOperator.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/logical/sys/AuthorOperator.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "59626b459c5718c615db8cfa335bcb8f31f5ed3b",
+        "FileName": "DataAuthOperator.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/logical/sys/DataAuthOperator.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "26b68d61de748d2d74ba89662a0ef4cce0a26d38",
+        "FileName": "LoadDataOperator.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/logical/sys/LoadDataOperator.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "d5d51caf037887d27109e71fb2651f7f1be33ee5",
+        "FileName": "MetadataOperator.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/logical/sys/MetadataOperator.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "5160bee4ed30c02522d90fd9c2b7850790215f70",
+        "FileName": "PropertyOperator.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/logical/sys/PropertyOperator.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "d791456d64ca7ffa999d7e57bd8ec2a2eaecdb7e",
+        "FileName": "PhysicalPlan.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/physical/PhysicalPlan.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "f5d98156c4a1376f0f9887d35e9dd7393c8777fd",
+        "FileName": "AggregationPlan.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/physical/crud/AggregationPlan.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "d052a986fc8ca33b1d23f28d5ce3b68d92a5599b",
+        "FileName": "BatchInsertPlan.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/physical/crud/BatchInsertPlan.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "a46aaeae1af75901fd3186506986129d9067b982",
+        "FileName": "DeletePlan.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/physical/crud/DeletePlan.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "b17467df6da0c0efb7d819c201ab391e3e04dd50",
+        "FileName": "FillQueryPlan.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/physical/crud/FillQueryPlan.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "f348b112f9d1e1a1d9f64b7d524d21a868333843",
+        "FileName": "GroupByPlan.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/physical/crud/GroupByPlan.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "5b3fb5847f62d237bfc9d47a44a5504fc0a5a555",
+        "FileName": "InsertPlan.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/physical/crud/InsertPlan.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "8f82bc3d30dfbd0f3d8b0554072bb54b5ed1ec9c",
+        "FileName": "QueryPlan.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/physical/crud/QueryPlan.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "418cb068b5c02d81fc77f8ed0b553c872a9844e4",
+        "FileName": "UpdatePlan.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/physical/crud/UpdatePlan.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "650d3c02332e09cb4795f342c31cbda613800596",
+        "FileName": "AuthorPlan.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/physical/sys/AuthorPlan.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "380c7657206bcab5e73ef43534e73f8ee50d7218",
+        "FileName": "DataAuthPlan.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/physical/sys/DataAuthPlan.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "2c27c9fa19a6f7937ae9f1b5483b88514997d064",
+        "FileName": "LoadDataPlan.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/physical/sys/LoadDataPlan.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "59a38e293efab855d0938bee180199a6c0cf8eec",
+        "FileName": "MetadataPlan.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/physical/sys/MetadataPlan.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "e7e27e49efea8fb7cd8b61efea24d5eb84a958b6",
+        "FileName": "PropertyPlan.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/physical/sys/PropertyPlan.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "c093e2db2f5367fbc1a688106f0b4d8ef3ce6f20",
+        "FileName": "LogicalGenerator.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/strategy/LogicalGenerator.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "4f23522be8eaf8e241b1ebe196a0118376094df4",
+        "FileName": "PhysicalGenerator.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/strategy/PhysicalGenerator.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "6ff7fd0c35ff3337a310c47c6dac054bcd67f916",
+        "FileName": "ConcatPathOptimizer.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/strategy/optimizer/ConcatPathOptimizer.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "75e9abd121cb7e37c7c3dd48057901b221038098",
+        "FileName": "DnfFilterOptimizer.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/strategy/optimizer/DnfFilterOptimizer.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "0d5c345f841da15d9991c61776a79915ce348d23",
+        "FileName": "IFilterOptimizer.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/strategy/optimizer/IFilterOptimizer.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "753ece6cb99181a9629ab4756e5d573684c981fc",
+        "FileName": "ILogicalOptimizer.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/strategy/optimizer/ILogicalOptimizer.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "457020457e65f40e4a18dd41c7b3da211b5a46ee",
+        "FileName": "MergeSingleFilterOptimizer.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/strategy/optimizer/MergeSingleFilterOptimizer.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "d747a1bcb5e73265b330e0c4a9f9f0960d0fc466",
+        "FileName": "RemoveNotOptimizer.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/qp/strategy/optimizer/RemoveNotOptimizer.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "bba800481f7e027c1a5f00be96b5a8def48a18d0",
+        "FileName": "AggreResultData.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/aggregation/AggreResultData.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "579ceb76e6d660d6d7ec60b3bd7e3e8f3d813c07",
+        "FileName": "AggregateFunction.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/aggregation/AggregateFunction.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "7fc48121e42479d5f5b2ef81bc86f84e10fe8f08",
+        "FileName": "AvgAggrFunc.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/aggregation/impl/AvgAggrFunc.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "edb13343ba2499366f6e2c9bd529420852034459",
+        "FileName": "CountAggrFunc.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/aggregation/impl/CountAggrFunc.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "5e2757da4c935d5e303e2740dfe8e4d901909cfd",
+        "FileName": "FirstAggrFunc.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/aggregation/impl/FirstAggrFunc.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "7a4687b8f111ada4b58d5174a7374297aad083c5",
+        "FileName": "LastAggrFunc.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/aggregation/impl/LastAggrFunc.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "04444431e4927751a3d54b162a999f2537b184b6",
+        "FileName": "MaxTimeAggrFunc.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/aggregation/impl/MaxTimeAggrFunc.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "78453044c8ddcc625d13cbf2ff5a7fc8c5a8156c",
+        "FileName": "MaxValueAggrFunc.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/aggregation/impl/MaxValueAggrFunc.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "f9b64c8033cc808575f66297de08f3b454c55c53",
+        "FileName": "MinTimeAggrFunc.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/aggregation/impl/MinTimeAggrFunc.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "74a3211d792499d1704942088d67857b4107c6b6",
+        "FileName": "MinValueAggrFunc.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/aggregation/impl/MinValueAggrFunc.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "bd862e061a0f7c8960b34943bcae8554f360a1cf",
+        "FileName": "SumAggrFunc.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/aggregation/impl/SumAggrFunc.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "0f838543817063211a02f73eb989a3f23a603e96",
+        "FileName": "QueryContext.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/context/QueryContext.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "c34e443129c244dc4afbbf1b69d8fbb5506b16e0",
+        "FileName": "FileReaderManager.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/control/FileReaderManager.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "f632f85b855390734a1b6de07f26bc740a27e9ad",
+        "FileName": "JobFileManager.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/control/JobFileManager.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "1822323c4e94f3e3856fb7021bbb76db7f8414d3",
+        "FileName": "QueryResourceManager.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/control/QueryResourceManager.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "87fa4d67dfc1e849bcb2d341ec8cdc3a6c8d6bde",
+        "FileName": "AuthDataSet.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/dataset/AuthDataSet.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "c319c0a7b0dccd90dd0c1b996df4c3b8f65906ad",
+        "FileName": "EngineDataSetWithValueFilter.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/dataset/EngineDataSetWithValueFilter.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "02b07616d9f01d1ba61135be9220e2e799d27b58",
+        "FileName": "EngineDataSetWithoutValueFilter.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/dataset/EngineDataSetWithoutValueFilter.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "0e2413dc0cf32bbf664db50af82423513bb73233",
+        "FileName": "GroupByEngineDataSet.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/dataset/groupby/GroupByEngineDataSet.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "09e264e970efa9add909d21f1023b444be71cc77",
+        "FileName": "GroupByWithValueFilterDataSet.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/dataset/groupby/GroupByWithValueFilterDataSet.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "2062b78a42f8973800f0083d2aea301e860e510b",
+        "FileName": "GroupByWithoutValueFilterDataSet.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/dataset/groupby/GroupByWithoutValueFilterDataSet.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "1bad0a01fa277c257746bf010e297a97e9abd46e",
+        "FileName": "AggregateEngineExecutor.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/executor/AggregateEngineExecutor.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "d78cb09dc66bd93633394333bdd0e1b79882bf7f",
+        "FileName": "EngineExecutor.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/executor/EngineExecutor.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "fdef52ff35fd218692592c71dd7bcb2eca7b61b3",
+        "FileName": "EngineQueryRouter.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/executor/EngineQueryRouter.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "c4a35648532b2ab953318870a2716d551fc086ec",
+        "FileName": "FillEngineExecutor.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/executor/FillEngineExecutor.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "eea20c9cdeee8991e7f423ade440ce5c08d8f727",
+        "FileName": "IEngineQueryRouter.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/executor/IEngineQueryRouter.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "69cfe46861480f3f5d1a40a123f3d1ebdbe810fe",
+        "FileName": "AggreFuncFactory.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/factory/AggreFuncFactory.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "4cf7eb03a489f750d29151383cb42b6b4fd07ecb",
+        "FileName": "IFill.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/fill/IFill.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "bc5efff55ccd2e8f57d902d069668c45740a9853",
+        "FileName": "LinearFill.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/fill/LinearFill.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "546d734d450bd9ce33886cad5ce22b5b73ad78cd",
+        "FileName": "PreviousFill.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/fill/PreviousFill.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "7cb91120013f0ff9f30b90ce737d1ef0becd7180",
+        "FileName": "IAggregateReader.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/IAggregateReader.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "bbf1a15bf359c380bd1fe19c4210c0691fd4fbff",
+        "FileName": "IBatchReader.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/IBatchReader.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "9f7ad600db500e2deb7bb0b12575b59da0588e00",
+        "FileName": "IPointReader.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/IPointReader.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "efc73b323bb6e6083c3accd9f01fde54a5644c9b",
+        "FileName": "IReaderByTimestamp.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/IReaderByTimestamp.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "d9f86b9cdc84726ab0bf1a6046b7fed8de3bc7e7",
+        "FileName": "CachedDiskChunkReader.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/chunkRelated/CachedDiskChunkReader.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "b7043f0deef42576c1dfa60e95eec8139b9622df",
+        "FileName": "DiskChunkReader.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/chunkRelated/DiskChunkReader.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "cea0b9623f7d8e81a2c4cbbd96cd0a20e07d7a02",
+        "FileName": "DiskChunkReaderByTimestamp.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/chunkRelated/DiskChunkReaderByTimestamp.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "b0885ae82e04ef59abac063be1ee5503a9655809",
+        "FileName": "MemChunkReader.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/chunkRelated/MemChunkReader.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "94d8b4d1c53f38ed2fa81e6f754f9031698e76f8",
+        "FileName": "MemChunkReaderByTimestamp.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/chunkRelated/MemChunkReaderByTimestamp.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "ff048fd2683b8c1bbdaf9096a3da06dbe86bdeff",
+        "FileName": "FileSeriesReaderAdapter.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/fileRelated/FileSeriesReaderAdapter.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "70fce7f26e7d318fb95c9baed5cac637abbd08bc",
+        "FileName": "FileSeriesReaderByTimestampAdapter.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/fileRelated/FileSeriesReaderByTimestampAdapter.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "d7dda614baf9cb640288a3d159fbde79464339d6",
+        "FileName": "UnSealedTsFileIterateReader.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/fileRelated/UnSealedTsFileIterateReader.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "7e1856add9ba4c2599533be0184e24e8232d827f",
+        "FileName": "UnSealedTsFileReaderByTimestamp.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/fileRelated/UnSealedTsFileReaderByTimestamp.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "2ffab28fa8236d2d44f595202faf0bf6e0770aff",
+        "FileName": "CachedUnseqResourceMergeReader.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/resourceRelated/CachedUnseqResourceMergeReader.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "1dc9099af41267d3e5e05425f7ffc77cd2fcac9e",
+        "FileName": "SeqResourceIterateReader.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/resourceRelated/SeqResourceIterateReader.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "6073b43143cd9eed1366c9f2edeba7ac810dab73",
+        "FileName": "SeqResourceReaderByTimestamp.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/resourceRelated/SeqResourceReaderByTimestamp.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "a525e78eaa55e4ba26af0085d0dca3d60b71f3a2",
+        "FileName": "UnseqResourceMergeReader.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/resourceRelated/UnseqResourceMergeReader.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "1a5b57da2f734cdaa11984349af2556a9a2de70b",
+        "FileName": "UnseqResourceReaderByTimestamp.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/resourceRelated/UnseqResourceReaderByTimestamp.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "b9233e914a0a9a0e08954bb3e914bd9b218d15c7",
+        "FileName": "SeriesReaderByTimestamp.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/seriesRelated/SeriesReaderByTimestamp.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "f9df67b17c15798110e57917272725cb22318a77",
+        "FileName": "SeriesReaderWithValueFilter.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/seriesRelated/SeriesReaderWithValueFilter.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "46093b4a5a53176f5cb8330f6d3c7b2c19d6e961",
+        "FileName": "SeriesReaderWithoutValueFilter.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/seriesRelated/SeriesReaderWithoutValueFilter.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "e28d6f699ae40f64f383e00dc20333c116a860b5",
+        "FileName": "CachedPriorityMergeReader.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/universal/CachedPriorityMergeReader.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "58ce739dadb8cb954cdb354a798ed9cb5e0ec09b",
+        "FileName": "IterateReader.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/universal/IterateReader.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "8d220e51ba8d956ae2804958cf0d002ff827fe43",
+        "FileName": "PriorityMergeReader.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/universal/PriorityMergeReader.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "e5faf18b462f127630e275dab14bb0e32f2d5b2e",
+        "FileName": "PriorityMergeReaderByTimestamp.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/reader/universal/PriorityMergeReaderByTimestamp.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "6fb44ba278a13e1f8724ea55fc1c090d6751cfa7",
+        "FileName": "AbstractNodeConstructor.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/timegenerator/AbstractNodeConstructor.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      },
+      {
+        "Sha": "9571967890cacd5a470846cfd154eaed924f9039",
+        "FileName": "EngineLeafNode.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/query/timegenerator/EngineLeafNode.java",
+        "DateUpdated": "2019-09-26T05:27:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9bae1f3933cfcde26056a4e781235d03d6ad25e3"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "9bae1f3933cfcde26056a4e781235d03d6ad25e3",
+        "Author": {
+          "name": "\"Boris\""
+        },
+        "Commitor": {
+          "name": "\"Jialin Qiao\"",
+          "location": "Beijing",
+          "company": "Tsinghua university"
+        },
+        "Date": "2019-09-26T05:27:58Z",
+        "additions": 769,
+        "deletions": 769,
+        "files": [
+          "509e1d775088ad9dd485eef5907a43c0c8f381f3",
+          "b636785727ac82975bb1f90224fd1acca05982b4",
+          "4b441918ff712793fa6bf3d44b3d1ffc701a6da1",
+          "e52ebf039475d8d333044b616e7092e77d0c1892",
+          "848e7eb9938f0a2f1cc89011ca0431b076698980",
+          "d7e3074b999714c2f42a7e4e504f09bd4da565b8",
+          "1a961300d910c6d518b337c7369bd04d15c14c12",
+          "06daab75fcdf4c0372fcc963b08374ef0d4f2483",
+          "bfdacc2d61f4b4a5ae3c44660d59bada55882556",
+          "a041dfaea840ba0f401d0354aeda8a752d07e398",
+          "cdadcbaafc67b095c0f40eaa801ab5da5715cf0b",
+          "04ffd484f6563d3aa0975bb9b85310324e9eca9e",
+          "b018ed05a70b3e87a45f736cb8c5740b6e2747d1",
+          "4524d55882e998cb17405d5107b30cbb2f676611",
+          "423ce398ce56fa8e08073b2936b29c7aadee6675",
+          "4a7915d9844fb3cce76b3048e7d282a049fb9f05",
+          "2eef722ceb4e6f24ac34657393c4b5860f1e8a1d",
+          "86be072f24d27affb53da9ffc447cfa479f22019",
+          "b379eef8afdf4debb8a4239a629fb5215a9c2db7",
+          "8d7d0e5503badd0dc40fb6ebde7502e54af56215",
+          "200d505a63d487b22de9dcf886dfa2bd08cac699",
+          "86b41ad90e4fe9058cb8fad30859d74d04d48006",
+          "ead6266cfd5ea09fd7ae57c9706fd46581493409",
+          "1982bfd6552e0f28a282358eebac41f16d30a39f",
+          "1171a866ea8e7c965ac0d348fe2a99bfc525c216",
+          "35c1cdfda7ef35d65f7d45ccc71becf050f956c4",
+          "fc20e90336d87570dfff3d9884bbc9dad1ece3c2",
+          "b49f5e3b6758011b7f199ebcb07196fd96784142",
+          "bc749e166cd1355ed2856541eaff505d005c7028",
+          "06149cbb61311a8e3e157861b8a82d873d41949d",
+          "9d090303467207c4eb0f8ccda8f5c1f002dec7d1",
+          "a456b85da17b16a25cbd588df23d93aa7d9720b2",
+          "b4dee8b535aba6c32dfead4b4cffc7b12832cef6",
+          "e55d57d034a01d430c5b81c13dec50137349f75e",
+          "6bf195cf36011e6e9fdf2e9e98fc6ebaf749abf8",
+          "714c78f4668c8376af22489a19217a583c0a0419",
+          "a6ddcdbbb8f0a7d9fc671f87a4668a60629cf2b6",
+          "63fcce73871265da7edeb6e2bf286d83cf2c3e6d",
+          "e22a9fdf2b272c717f1c75d95d17f0a0a072dd0d",
+          "1df902b585a10cff4183c40e8abebf54c523a316",
+          "b32fa1499f7666e0cd8c05765a44dae4deeaef06",
+          "feb29d36ad3bac3ac4eff41b3418263602941fec",
+          "856bd5a16cd5169ce6b31cf36f90fc9a0b6fc08e",
+          "e2000565725b4c3e17e4d88f8f5e99d240321dd7",
+          "4890108a8076c1977857ee695d3b2af0d8f2f0c7",
+          "b74980072a4cdc89ef0412fd8451dbca18b0d1e8",
+          "901fe5ed0a9bdc1e6aaca2503043d1e7ba68743e",
+          "63495fcaad4cd6a0aba06e01e2cefea6b23fc681",
+          "a866ee2229f85ed02435db797338dc961d77834b",
+          "2743b788a82ffa53768375f27176e00997401794",
+          "f655ec8670d9f508ccffc6e51618951b31d29e67",
+          "e338aa17484d459df9e489b000a5ca93e60899dd",
+          "09f999de2154b19dd48780382a67c8e94ef62f89",
+          "ae593faeef99e355ba05178ea2039a86d9506fd6",
+          "368b1189e93b2ed6422a04aabc43bece650b0c40",
+          "dfd177281716f4a4310a5939f3c73f63c0109ce9",
+          "ba001881e0c8092ed64700ed73872aff6b884cb7",
+          "1b3f1db8c6cdcd0d29d99a7a8920294ef6eb7b3e",
+          "3f2cb980cd957a974acc9da1c3430fe417d3a936",
+          "532fbd8603959c7007e550c2569de4effadc4966",
+          "e54b16db1676abd30c2fff7f01e58c68a5108358",
+          "b3fb5e98e341198c862bb25ea893744977662a07",
+          "a500d58b68bd182a582c916d0d0453559f150615",
+          "dd27fc5b84327bafa80408021c4de2ee7319a86c",
+          "f74d5006316a45ddc48e59e719d484c4a7c05dc2",
+          "8a9c4cc6c49991809d6bbf3ff65ca75bfe542718",
+          "d2cce5073468d0f4081f0cabb8fa3edf202dba00",
+          "4784f0c6c5650771363ab907c677babcf7dc98a8",
+          "76b26a28674e4eed48fa074b0c5b5932d761a4b7",
+          "dc5bd67e4d50a7a11c2b6d3f8366c9e014be7b85",
+          "9f022174cd35108da0ef25d3e369b27818bbee50",
+          "9702ed4662f760130de99a7c2e2a938da9360928",
+          "36d7d1cd771b9068e6f3c8f3086bf7369c7ae5c4",
+          "a46537d51f6d8ad83be004bf4892fb6972ba6c43",
+          "d91decc9dbb8bcf6b1a8b3bde4e05bfaae313fd3",
+          "eb318d8e39e03d4504f00a7e3fe5f1f80bbfd4c1",
+          "c066de4576fa65507af295c849c939590ffc1a16",
+          "68cb93b9025b0e699773d61fdcdbcbecb0cadd0c",
+          "3659d2d6b09bbbcc5bb230495e3aca4c8ddcd12e",
+          "331a79d16c2a3a737801751b2c1057cd823d6a75",
+          "c2d94ceb020cf4630c78d6dd0c010d54bbeb5493",
+          "df5158204aa13619937219e8f8f6610e9d25674d",
+          "551e9736f2bc170e6335fbf3d5d463e0138761bd",
+          "5ee6a5b8015f8fab2f756e8b341033a79f257560",
+          "48ade95344e024db4ff6d0ad70060d4d358c89ba",
+          "b7343a3896685ecad9cb5287cc684adddc3b9709",
+          "42af845cbab411e40440086b44d71209a1d48ae6",
+          "83c957cf750882c6a1f552773060b0842dc3e100",
+          "0d13a18019ba4f07fc5d72261c8c28df1f41ffda",
+          "9495a9e0d037c7f169d053751b994cf56a72c1f9",
+          "3145ac7554c311f9e281b9a24b97d28b7a7ad220",
+          "cc31200cdc39ea3e0dfab9aecff80ab99646c073",
+          "4d7a3f3389ae630ffe0af2b0caadc894f0220ca5",
+          "6946a86da750f9d9ccd4c1604f8997d8eed2c7a8",
+          "d6914f3bc4e27c8afa8841d29ff7b14a078038a7",
+          "c55ecb9942d6502e5011a478d5df8ac9e9d19d7d",
+          "632e33baa23bc9a847ef7f7dd3df94b3a48bb5ba",
+          "b66ca74781cedbcf3585fd31693c69f2343425a8",
+          "dc888c7f5bd90df90013472818bebf7ac627c7a8",
+          "28dd9c44c5a025b5eb5bfd2f4aded8d1ee21023c",
+          "b99ec35cd631e094a20654be163c288ccec39427",
+          "7b6bdef3569dca82894b781da3254654c8821dce",
+          "568b7aa0ec59ed9b3e8bb54a88c1fcd714bae049",
+          "700f634a2ab16dbe7f4cebd6acc83f3e288604c6",
+          "3b5ae62d8dfc58246662c970033ad916d419b773",
+          "1f6b58f14d67ed299e6b038f696a9920dca25579",
+          "f3a71f1620a1ebac2632a86c2e8ba332a15c1ba7",
+          "a21399b7b41497c1a00291a6302c000b9dd3e80b",
+          "92e0da56d3a54b61c3a84c9932ab0d8a13af59a9",
+          "f44a2c8d2fd9032807627a74fd75ea022ecd52be",
+          "085de134823d78d161dbc6714ed7eede2cc6591b",
+          "94961c626caf2d5deccd5ee451d286ce676471c8",
+          "224948a8506fe6e2838f6a1c8a7035b586aaa726",
+          "75a78701cd7aeb798c82ad5a2f5b718959fd2508",
+          "10b4cb6a2b396b6b3df29e9ed7489225e25bef5d",
+          "81914817dc23fdbe77ae93b1b93e80809e9dcb07",
+          "79d22206b23a0fd52fc952b197f45d2946b21886",
+          "f676d8d0442a9cfc7e5c3add2c0ff4ffbee0b9f9",
+          "334f63041878faed565f36443cc6df2dc1f4dace",
+          "c85d1478eb1c1c6dc826133af06deeb9d016ba78",
+          "907b69c31c9059cd6cbccee6306ec5cf6fbdb6dd",
+          "1721ff0b8f3756277c5e95bd6dd7ab1b4f8182ce",
+          "311a685f3e26352f8701f23b8e61509ae3e5243e",
+          "099a4966faded6895cceb78a9082fa7b876c233f",
+          "d1ab35ea65ff91381dd0aa52f80a4d70e8b536f2",
+          "fd13ab8785ab604a41142d1f4cecda8a11192875",
+          "0656ab2037c8c7ccb0911d500fae29f0a2a5f3b8",
+          "c3d8cb8f377938436a41acb6fc2be3ce398c3098",
+          "1d5b4c56e0ffbe8c247a175635bd6f5f9f4779ec",
+          "a7b412607b6831bcd4b3c80a613efc606f75b763",
+          "7545d8cbbbf4f343652dc500be2aa3b9dbb361da",
+          "6554a381a829072edd1575c9debdb2b6b01e5974",
+          "ee4372448136747083159244e51ee3618859e8a5",
+          "54463d9a6a238f6eb890d7f61c007d51c0a6c701",
+          "8d9a86f6acaec70d516608a3edceeb80f40fc125",
+          "04f364bc5bbd8f676e47c11569fc02bde11b613f",
+          "986bacb603f4bcc7ff536356ac923c2de2c0db72",
+          "7883f1aed34cb4552b18cde77ed8ad4f5de7d5bc",
+          "d452dff54872c8c2f32358f3c152b7c82ee51ceb",
+          "a5ed5b04440ff9150069a3b7f3ce9ff4c1a143d6",
+          "612a758de4b82c13837bee70139cdae48f184542",
+          "5209f48c3dd95ab3a604fcb2c20ef026dc412723",
+          "874a91bcc429af268db29003b12c45525649c282",
+          "073a248ce9d6af05701f3985c7bdf1e4b89ae3f3",
+          "d783abfacaedc3acca50ad899e3dcf65eb99ffeb",
+          "e559c8e1256fccb883cbc60ccb02ab2125522c6a",
+          "7bf648802812a9a7823c40f19d9a430476bcd1e4",
+          "39bbb027fd229ce46b3cf16fb8f2be300d124ce3",
+          "1f3ebe7819b441f18818f1c4203511a4851878c3",
+          "2c0d3284fb50000401ba25f75791db0a63462c8d",
+          "e75b89961ebdccd9784136dc7be11220524316e5",
+          "d513eb35c4264d94191f7e54d052e49a37fd8710",
+          "b2312554720699b62c1dbe980ef5411e6d50cc18",
+          "9ce449f486c7ace6810545892cf25996b31f143d",
+          "5e12f21f2f50713fa7a6cd2a7244c459865d3867",
+          "c21f020e3fccc060bdc9a9ae2694bd1b10c5e8b2",
+          "2eebde212c32acd7c9d0454955314e597bb85386",
+          "9d467c5343842a3404dffc855b12aff8782b745c",
+          "902f14f65fa6b99a62cb03fa37e496aad7e52405",
+          "edfcacdc107f48d7f6146a200c79c71a4add5153",
+          "3e47cd912386c38db40f7556a4e42f143216bf1e",
+          "30c93c64bf7719765c58e49d93a2b66b2cd7f15c",
+          "cc1c417a11bec33460edef5f90a9fbb0e8a15eb7",
+          "5c111111e168a3673b6624cc8879ab5bc865875d",
+          "757f0af896c5a894d95c7c0e8719c2614e596960",
+          "15b39825679e7410a4fb85cba36d9e423f2e3115",
+          "82c7046b98751eafab38055c696a587f79f8fa61",
+          "7065f8f4d569e4624235ad70e37ab7948ddbf33a",
+          "7eb817b1a20f0a5b7856effacef4af1c026c2fcc",
+          "3ec696ba6c60a48b8dce9f0fb0e0dd50a5304f3d",
+          "bb2dd759714ec6ed95c3a87442b16a4eccaf4831",
+          "8c8ac1a8a480df994042f758666ff005ec8c4468",
+          "5c6f527a08138b664eac45cee9e5fb7e649568a5",
+          "f2cb726a59f858cd1ae49f47dd14b0e2a9ebf51b",
+          "f80ab7c5e1e01886189d415236bb0e28db9ac4a2",
+          "3480faebe20eeae15cd11c93085b712d9320339d",
+          "d02d8bf6e33dfb56d00cd776d23487f8a01f97f2",
+          "35b371e828ffd035097834f5408e786ea2be4cea",
+          "cdd8ad85c292934fc375ebfb4507d9c574450928",
+          "27526a888041105c7ef97504ac25e7c84e75eb42",
+          "379652ba638fcda12becd714036c2fa635f7d80e",
+          "524a4c69e1f306067dded23e07550ebe3c548584",
+          "983a70fec2a9a4acd9ac89aee263e56b2312d1fe",
+          "c479c077e719955379e0714a943cf42c25f73547",
+          "abcafc4268c6f3f1630a014496e3106263516bcb",
+          "914091a39bcf0bb9821226a0bffe00508b6f7a0f",
+          "3571cbd69b59e94979724e0d9a5269e144f6aaa2",
+          "db25f001bfd3dccf5b64d0eae1f4fbea1bd8908f",
+          "ee59a2ac8cb879d70d51f6bb3e197684bc0cc961",
+          "13bb74f31b713ae9d077bd7f885c76d61cf37f4a",
+          "72010acbe8728195d505ad3522636e60d5a437ca",
+          "73b8ddff9dec5b441df0d3adcea1e551a51dbaf8",
+          "d62bb7b0c5bf667da7f05cd963739757d5957290",
+          "490743c3f9e3cc69725a9c16b58d2275a5c624f4",
+          "bc3d77b2cb07dd3ea6bc4610646427c9eb09d9aa",
+          "c7c2f7bc15ad877e953108a9006d093b52486a69",
+          "35e9d68bf0a8570bf723499cb7ce98754959e6a0",
+          "797a87fab94bee47c0a90e04a4267e734793e4e5",
+          "f77005a5c5a80862c7c898c35679dc0f7d1e2035",
+          "83eea6800d30255415e1bb7ad0f14d564efae33b",
+          "ddda66c38b84f057257f913d9c622d2f9e8e2da6",
+          "f8f4de24503be99f44d9fa4913ce41bd6fdebbfb",
+          "571cc8fd6517d9b3c789537bc542a46ceb2642c0",
+          "a6cb607b9f594f82740f50b7b44bb65a715fca56",
+          "98da17610ca9f05d120ed1da675fd017961aadd4",
+          "722f473fa096221dcc9c3cb072e860583d846435",
+          "4c29ca0de9079d7aef292a3ae96a03691939afb1",
+          "1c19921917ddb4a8f145454ec91bab21162818f6",
+          "cfd7ef4f45c62bfbdc0fa89e4fba18848211e1cd",
+          "d86b71ff54591f2169801364d2451108e2d3ce53",
+          "64039bdeed457bd25d73e016e45b96c1f81ae2c4",
+          "13a3b459046d43d8af4ca73d2a3aaffbb8f48b7e",
+          "2b4ca51f91b988f8b3be0f268f2c59f1a62c351d",
+          "e675bfd55db465bfe1976a6d980ab711061c2ffe",
+          "902dc384370be052f905c032c43808eb237917ad",
+          "df788281acf318830163ade62090d7df2d9b5f91",
+          "f60489a6f7f3a977c6d6fdc6ce3bed85c7097b31",
+          "59626b459c5718c615db8cfa335bcb8f31f5ed3b",
+          "26b68d61de748d2d74ba89662a0ef4cce0a26d38",
+          "d5d51caf037887d27109e71fb2651f7f1be33ee5",
+          "5160bee4ed30c02522d90fd9c2b7850790215f70",
+          "d791456d64ca7ffa999d7e57bd8ec2a2eaecdb7e",
+          "f5d98156c4a1376f0f9887d35e9dd7393c8777fd",
+          "d052a986fc8ca33b1d23f28d5ce3b68d92a5599b",
+          "a46aaeae1af75901fd3186506986129d9067b982",
+          "b17467df6da0c0efb7d819c201ab391e3e04dd50",
+          "f348b112f9d1e1a1d9f64b7d524d21a868333843",
+          "5b3fb5847f62d237bfc9d47a44a5504fc0a5a555",
+          "8f82bc3d30dfbd0f3d8b0554072bb54b5ed1ec9c",
+          "418cb068b5c02d81fc77f8ed0b553c872a9844e4",
+          "650d3c02332e09cb4795f342c31cbda613800596",
+          "380c7657206bcab5e73ef43534e73f8ee50d7218",
+          "2c27c9fa19a6f7937ae9f1b5483b88514997d064",
+          "59a38e293efab855d0938bee180199a6c0cf8eec",
+          "e7e27e49efea8fb7cd8b61efea24d5eb84a958b6",
+          "c093e2db2f5367fbc1a688106f0b4d8ef3ce6f20",
+          "4f23522be8eaf8e241b1ebe196a0118376094df4",
+          "6ff7fd0c35ff3337a310c47c6dac054bcd67f916",
+          "75e9abd121cb7e37c7c3dd48057901b221038098",
+          "0d5c345f841da15d9991c61776a79915ce348d23",
+          "753ece6cb99181a9629ab4756e5d573684c981fc",
+          "457020457e65f40e4a18dd41c7b3da211b5a46ee",
+          "d747a1bcb5e73265b330e0c4a9f9f0960d0fc466",
+          "bba800481f7e027c1a5f00be96b5a8def48a18d0",
+          "579ceb76e6d660d6d7ec60b3bd7e3e8f3d813c07",
+          "7fc48121e42479d5f5b2ef81bc86f84e10fe8f08",
+          "edb13343ba2499366f6e2c9bd529420852034459",
+          "5e2757da4c935d5e303e2740dfe8e4d901909cfd",
+          "7a4687b8f111ada4b58d5174a7374297aad083c5",
+          "04444431e4927751a3d54b162a999f2537b184b6",
+          "78453044c8ddcc625d13cbf2ff5a7fc8c5a8156c",
+          "f9b64c8033cc808575f66297de08f3b454c55c53",
+          "74a3211d792499d1704942088d67857b4107c6b6",
+          "bd862e061a0f7c8960b34943bcae8554f360a1cf",
+          "0f838543817063211a02f73eb989a3f23a603e96",
+          "c34e443129c244dc4afbbf1b69d8fbb5506b16e0",
+          "f632f85b855390734a1b6de07f26bc740a27e9ad",
+          "1822323c4e94f3e3856fb7021bbb76db7f8414d3",
+          "87fa4d67dfc1e849bcb2d341ec8cdc3a6c8d6bde",
+          "c319c0a7b0dccd90dd0c1b996df4c3b8f65906ad",
+          "02b07616d9f01d1ba61135be9220e2e799d27b58",
+          "0e2413dc0cf32bbf664db50af82423513bb73233",
+          "09e264e970efa9add909d21f1023b444be71cc77",
+          "2062b78a42f8973800f0083d2aea301e860e510b",
+          "1bad0a01fa277c257746bf010e297a97e9abd46e",
+          "d78cb09dc66bd93633394333bdd0e1b79882bf7f",
+          "fdef52ff35fd218692592c71dd7bcb2eca7b61b3",
+          "c4a35648532b2ab953318870a2716d551fc086ec",
+          "eea20c9cdeee8991e7f423ade440ce5c08d8f727",
+          "69cfe46861480f3f5d1a40a123f3d1ebdbe810fe",
+          "4cf7eb03a489f750d29151383cb42b6b4fd07ecb",
+          "bc5efff55ccd2e8f57d902d069668c45740a9853",
+          "546d734d450bd9ce33886cad5ce22b5b73ad78cd",
+          "7cb91120013f0ff9f30b90ce737d1ef0becd7180",
+          "bbf1a15bf359c380bd1fe19c4210c0691fd4fbff",
+          "9f7ad600db500e2deb7bb0b12575b59da0588e00",
+          "efc73b323bb6e6083c3accd9f01fde54a5644c9b",
+          "d9f86b9cdc84726ab0bf1a6046b7fed8de3bc7e7",
+          "b7043f0deef42576c1dfa60e95eec8139b9622df",
+          "cea0b9623f7d8e81a2c4cbbd96cd0a20e07d7a02",
+          "b0885ae82e04ef59abac063be1ee5503a9655809",
+          "94d8b4d1c53f38ed2fa81e6f754f9031698e76f8",
+          "ff048fd2683b8c1bbdaf9096a3da06dbe86bdeff",
+          "70fce7f26e7d318fb95c9baed5cac637abbd08bc",
+          "d7dda614baf9cb640288a3d159fbde79464339d6",
+          "7e1856add9ba4c2599533be0184e24e8232d827f",
+          "2ffab28fa8236d2d44f595202faf0bf6e0770aff",
+          "1dc9099af41267d3e5e05425f7ffc77cd2fcac9e",
+          "6073b43143cd9eed1366c9f2edeba7ac810dab73",
+          "a525e78eaa55e4ba26af0085d0dca3d60b71f3a2",
+          "1a5b57da2f734cdaa11984349af2556a9a2de70b",
+          "b9233e914a0a9a0e08954bb3e914bd9b218d15c7",
+          "f9df67b17c15798110e57917272725cb22318a77",
+          "46093b4a5a53176f5cb8330f6d3c7b2c19d6e961",
+          "e28d6f699ae40f64f383e00dc20333c116a860b5",
+          "58ce739dadb8cb954cdb354a798ed9cb5e0ec09b",
+          "8d220e51ba8d956ae2804958cf0d002ff827fe43",
+          "e5faf18b462f127630e275dab14bb0e32f2d5b2e",
+          "6fb44ba278a13e1f8724ea55fc1c090d6751cfa7",
+          "9571967890cacd5a470846cfd154eaed924f9039"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-iotdb",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T08:04:49Z",
+    "EndDate": "2019-09-26T09:04:49",
+    "Branches": 33,
+    "Forks": 74,
+    "Files": [
+      {
+        "Sha": "43455051ff4ec6b9093a8a2d5f8503298013ead1",
+        "FileName": "ChunkBuffer.java",
+        "Path": "tsfile/src/main/java/org/apache/iotdb/tsfile/write/chunk/ChunkBuffer.java",
+        "DateUpdated": "2019-09-26T08:39:40Z",
+        "Additions": 8,
+        "Deletions": 9,
+        "Commits": [
+          "39ea67d9a088cca8d51f3ff32141ca5bc2101957"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "39ea67d9a088cca8d51f3ff32141ca5bc2101957",
+        "Author": {
+          "name": "\"Zesong Sun\"",
+          "location": "Beijing, China"
+        },
+        "Commitor": {
+          "name": "\"Jialin Qiao\"",
+          "location": "Beijing",
+          "company": "Tsinghua university"
+        },
+        "Date": "2019-09-26T08:39:40Z",
+        "additions": 8,
+        "deletions": 9,
+        "files": [
+          "43455051ff4ec6b9093a8a2d5f8503298013ead1"
+        ]
+      }
+    ]
+  }
+]

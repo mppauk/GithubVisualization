@@ -1,0 +1,95 @@
+[
+  {
+    "RepositoryName": "incubator-echarts-bot",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T02:04:47Z",
+    "EndDate": "2019-09-26T03:04:47",
+    "Branches": 1,
+    "Forks": 0,
+    "Files": [
+      {
+        "Sha": "bad9fc0ef52940875541a5f8da01eac9f030a0b4",
+        "FileName": "package-lock.json",
+        "Path": "package-lock.json",
+        "DateUpdated": "2019-09-26T02:08:41Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "d7baba984a3a0b34c91f25abc2c7050d984844ad"
+        ]
+      },
+      {
+        "Sha": "96de564095bace49f1d7a8b9f5faf6c68ed699eb",
+        "FileName": "package-lock.json",
+        "Path": "package-lock.json",
+        "DateUpdated": "2019-09-26T02:08:25Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "075c311e0b6f2236f8d742dd60b89a29f370b558"
+        ]
+      },
+      {
+        "Sha": "51093cc06880334e3917115494bbdc9275a66e94",
+        "FileName": "package-lock.json",
+        "Path": "package-lock.json",
+        "DateUpdated": "2019-09-26T02:08:02Z",
+        "Additions": 55,
+        "Deletions": 34,
+        "Commits": [
+          "66697c04888d25ed38749c72ab77584789aa90b0"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d7baba984a3a0b34c91f25abc2c7050d984844ad",
+        "Author": {
+          "name": "\"Ovilia\"",
+          "location": "Shanghai, China"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T02:08:41Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "bad9fc0ef52940875541a5f8da01eac9f030a0b4"
+        ]
+      },
+      {
+        "sha": "075c311e0b6f2236f8d742dd60b89a29f370b558",
+        "Author": {
+          "name": "\"Ovilia\"",
+          "location": "Shanghai, China"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T02:08:25Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "96de564095bace49f1d7a8b9f5faf6c68ed699eb"
+        ]
+      },
+      {
+        "sha": "66697c04888d25ed38749c72ab77584789aa90b0",
+        "Author": {
+          "name": "\"Ovilia\"",
+          "location": "Shanghai, China"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T02:08:02Z",
+        "additions": 55,
+        "deletions": 34,
+        "files": [
+          "51093cc06880334e3917115494bbdc9275a66e94"
+        ]
+      }
+    ]
+  }
+]

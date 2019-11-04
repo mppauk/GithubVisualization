@@ -1,0 +1,76 @@
+[
+  {
+    "RepositoryName": "incubator-druid-website",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-22T22:03:26Z",
+    "EndDate": "2019-09-22T23:03:26",
+    "Branches": 3,
+    "Forks": 4,
+    "Files": [
+      {
+        "Sha": "67b712d9eb9ce8ca14ebd69ad74fb5317bfe4cca",
+        "FileName": "druid-powered.html",
+        "Path": "druid-powered.html",
+        "DateUpdated": "2019-09-22T22:06:48Z",
+        "Additions": 8,
+        "Deletions": 2,
+        "Commits": [
+          "e1b5ca983bc6d50ea6d330b67ff870fad420a1ea",
+          "2eb943ffcc545f3b65d3756e9331a0b106f01892"
+        ]
+      },
+      {
+        "Sha": "03d4f6ec442d43d6611ed175f90ea48aa5c690e0",
+        "FileName": "index.html",
+        "Path": "index.html",
+        "DateUpdated": "2019-09-22T22:06:48Z",
+        "Additions": 18,
+        "Deletions": 70,
+        "Commits": [
+          "e1b5ca983bc6d50ea6d330b67ff870fad420a1ea",
+          "2eb943ffcc545f3b65d3756e9331a0b106f01892"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "e1b5ca983bc6d50ea6d330b67ff870fad420a1ea",
+        "Author": {
+          "name": "\"Fangjin Yang\"",
+          "location": "San Francisco",
+          "company": "Imply"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-22T22:06:48Z",
+        "additions": 26,
+        "deletions": 36,
+        "files": [
+          "67b712d9eb9ce8ca14ebd69ad74fb5317bfe4cca",
+          "03d4f6ec442d43d6611ed175f90ea48aa5c690e0"
+        ]
+      },
+      {
+        "sha": "2eb943ffcc545f3b65d3756e9331a0b106f01892",
+        "Author": {
+          "name": "\"Vadim Ogievetsky\"",
+          "location": "San Francisco, CA",
+          "company": "Imply Data"
+        },
+        "Commitor": {
+          "name": "\"Vadim Ogievetsky\"",
+          "location": "San Francisco, CA",
+          "company": "Imply Data"
+        },
+        "Date": "2019-09-22T22:03:30Z",
+        "additions": 26,
+        "deletions": 36,
+        "files": [
+          "67b712d9eb9ce8ca14ebd69ad74fb5317bfe4cca",
+          "03d4f6ec442d43d6611ed175f90ea48aa5c690e0"
+        ]
+      }
+    ]
+  }
+]

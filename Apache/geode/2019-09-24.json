@@ -1,0 +1,82 @@
+[
+  {
+    "RepositoryName": "geode",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T20:47:19Z",
+    "EndDate": "2019-09-24T21:47:19",
+    "Branches": 31,
+    "Forks": 539,
+    "Files": [
+      {
+        "Sha": "b846add0d148198fbc2d14ff2620eb3e2b7f586f",
+        "FileName": "jinja.template.yml",
+        "Path": "ci/pipelines/geode-build/jinja.template.yml",
+        "DateUpdated": "2019-09-24T21:29:37Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "a7c4c5f685a790eb8229b26e15cfe06e98bfebb9"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a7c4c5f685a790eb8229b26e15cfe06e98bfebb9",
+        "Author": {
+          "name": "\"Robert Houghton\"",
+          "company": "@gemfire @pivotal "
+        },
+        "Commitor": {
+          "name": "\"Robert Houghton\"",
+          "company": "@gemfire @pivotal "
+        },
+        "Date": "2019-09-24T21:29:37Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "b846add0d148198fbc2d14ff2620eb3e2b7f586f"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "geode",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T21:03:52Z",
+    "EndDate": "2019-09-24T22:03:52",
+    "Branches": 31,
+    "Forks": 539,
+    "Files": [
+      {
+        "Sha": "b846add0d148198fbc2d14ff2620eb3e2b7f586f",
+        "FileName": "jinja.template.yml",
+        "Path": "ci/pipelines/geode-build/jinja.template.yml",
+        "DateUpdated": "2019-09-24T21:29:37Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "a7c4c5f685a790eb8229b26e15cfe06e98bfebb9"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a7c4c5f685a790eb8229b26e15cfe06e98bfebb9",
+        "Author": {
+          "name": "\"Robert Houghton\"",
+          "company": "@gemfire @pivotal "
+        },
+        "Commitor": {
+          "name": "\"Robert Houghton\"",
+          "company": "@gemfire @pivotal "
+        },
+        "Date": "2019-09-24T21:29:37Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "b846add0d148198fbc2d14ff2620eb3e2b7f586f"
+        ]
+      }
+    ]
+  }
+]

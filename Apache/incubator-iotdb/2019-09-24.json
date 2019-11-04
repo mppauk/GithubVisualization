@@ -1,0 +1,106 @@
+[
+  {
+    "RepositoryName": "incubator-iotdb",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T05:48:23Z",
+    "EndDate": "2019-09-24T06:48:23",
+    "Branches": 30,
+    "Forks": 74,
+    "Files": [
+      {
+        "Sha": "5ab53f725340e1891bc6bae0e6244e251ed19f41",
+        "FileName": "TsFileRestorableReaderTest.java",
+        "Path": "tsfile/src/test/java/org/apache/iotdb/tsfile/read/TsFileRestorableReaderTest.java",
+        "DateUpdated": "2019-09-24T06:32:38Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "964f74456b2f4f900900219e38bc80cf2889d2ad"
+        ]
+      },
+      {
+        "Sha": "00c923faaac8871da72c53dca6cb7dcab91002bd",
+        "FileName": "IncompleteFileTestUtil.java",
+        "Path": "tsfile/src/test/java/org/apache/iotdb/tsfile/utils/IncompleteFileTestUtil.java",
+        "DateUpdated": "2019-09-24T06:32:38Z",
+        "Additions": 0,
+        "Deletions": 61,
+        "Commits": [
+          "964f74456b2f4f900900219e38bc80cf2889d2ad"
+        ]
+      },
+      {
+        "Sha": "76f28933598b599232bb5618a1c68b080dbb5d1e",
+        "FileName": "TsFileGeneratorForTest.java",
+        "Path": "tsfile/src/test/java/org/apache/iotdb/tsfile/utils/TsFileGeneratorForTest.java",
+        "DateUpdated": "2019-09-24T06:32:38Z",
+        "Additions": 21,
+        "Deletions": 0,
+        "Commits": [
+          "964f74456b2f4f900900219e38bc80cf2889d2ad"
+        ]
+      },
+      {
+        "Sha": "012ab3fb937df870899ce02ef991f28b38dea574",
+        "FileName": "RestorableTsFileIOWriterTest.java",
+        "Path": "tsfile/src/test/java/org/apache/iotdb/tsfile/write/writer/RestorableTsFileIOWriterTest.java",
+        "DateUpdated": "2019-09-24T06:32:38Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "964f74456b2f4f900900219e38bc80cf2889d2ad"
+        ]
+      },
+      {
+        "Sha": "897bc7281e808e2a61a7400322ee783a7045fd4b",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-24T06:17:19Z",
+        "Additions": 1,
+        "Deletions": 30,
+        "Commits": [
+          "fdc546a49ceaa2f0c26e9b3020bd85356362c97e"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "964f74456b2f4f900900219e38bc80cf2889d2ad",
+        "Author": {
+          "name": "\"Jiang Tian\""
+        },
+        "Commitor": {
+          "name": "\"Jialin Qiao\"",
+          "location": "Beijing",
+          "company": "Tsinghua university"
+        },
+        "Date": "2019-09-24T06:32:38Z",
+        "additions": 25,
+        "deletions": 66,
+        "files": [
+          "5ab53f725340e1891bc6bae0e6244e251ed19f41",
+          "00c923faaac8871da72c53dca6cb7dcab91002bd",
+          "76f28933598b599232bb5618a1c68b080dbb5d1e",
+          "012ab3fb937df870899ce02ef991f28b38dea574"
+        ]
+      },
+      {
+        "sha": "fdc546a49ceaa2f0c26e9b3020bd85356362c97e",
+        "Author": {
+          "name": "\"Jialin Qiao\"",
+          "location": "Beijing",
+          "company": "Tsinghua university"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T06:17:19Z",
+        "additions": 1,
+        "deletions": 30,
+        "files": [
+          "897bc7281e808e2a61a7400322ee783a7045fd4b"
+        ]
+      }
+    ]
+  }
+]

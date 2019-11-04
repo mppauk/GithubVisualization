@@ -1,0 +1,42 @@
+[
+  {
+    "RepositoryName": "openoffice",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T20:02:49Z",
+    "EndDate": "2019-09-25T21:02:49",
+    "Branches": 29,
+    "Forks": 176,
+    "Files": [
+      {
+        "Sha": "46ded751e871dad4b3d69b7fb59de84ae1b770f4",
+        "FileName": "paragrph.src",
+        "Path": "main/cui/source/tabpages/paragrph.src",
+        "DateUpdated": "2019-09-25T20:51:33Z",
+        "Additions": 292,
+        "Deletions": 290,
+        "Commits": [
+          "a228e35486128d50bec20249d13ef19fc834c74c"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a228e35486128d50bec20249d13ef19fc834c74c",
+        "Author": {
+          "name": "\"Matthias\"",
+          "location": "Hamburg, Germany"
+        },
+        "Commitor": {
+          "name": "\"Matthias\"",
+          "location": "Hamburg, Germany"
+        },
+        "Date": "2019-09-25T20:51:33Z",
+        "additions": 292,
+        "deletions": 290,
+        "files": [
+          "46ded751e871dad4b3d69b7fb59de84ae1b770f4"
+        ]
+      }
+    ]
+  }
+]

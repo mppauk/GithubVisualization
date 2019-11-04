@@ -1,0 +1,285 @@
+[
+  {
+    "RepositoryName": "incubator-superset",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-22T23:02:57Z",
+    "EndDate": "2019-09-23T00:02:57",
+    "Branches": 100,
+    "Forks": 5124,
+    "Files": [
+      {
+        "Sha": "7a3e3f5487e4a7e51d6b8825636f2008d56ea44b",
+        "FileName": "messages.json",
+        "Path": "superset/translations/ko/LC_MESSAGES/messages.json",
+        "DateUpdated": "2019-09-22T23:25:56Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "6a08f25b151913b57032b7f4f30a766fedc338e2"
+        ]
+      },
+      {
+        "Sha": "2b52cb73142929d214c7f04966154cfd931f0d4e",
+        "FileName": "messages.po",
+        "Path": "superset/translations/ko/LC_MESSAGES/messages.po",
+        "DateUpdated": "2019-09-22T23:25:56Z",
+        "Additions": 474,
+        "Deletions": 1376,
+        "Commits": [
+          "6a08f25b151913b57032b7f4f30a766fedc338e2"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "6a08f25b151913b57032b7f4f30a766fedc338e2",
+        "Author": {
+          "name": "\"kuckjwi\"",
+          "location": "Suwon, Korea",
+          "company": "Datajunta"
+        },
+        "Commitor": {
+          "name": "\"Maxime Beauchemin\"",
+          "location": "Belmont, CA",
+          "company": "Stealth Co"
+        },
+        "Date": "2019-09-22T23:25:56Z",
+        "additions": 475,
+        "deletions": 1377,
+        "files": [
+          "7a3e3f5487e4a7e51d6b8825636f2008d56ea44b",
+          "2b52cb73142929d214c7f04966154cfd931f0d4e"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-superset",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T15:03:14Z",
+    "EndDate": "2019-09-23T16:03:14",
+    "Branches": 100,
+    "Forks": 5125,
+    "Files": [
+      {
+        "Sha": "4673644778a314044518d4e2b798210a38bc7387",
+        "FileName": "__init__.py",
+        "Path": "superset/views/database/__init__.py",
+        "DateUpdated": "2019-09-23T15:28:08Z",
+        "Additions": 27,
+        "Deletions": 2,
+        "Commits": [
+          "f3065a763f34d00dc5da6b5c5fc1c13d3f6095d0"
+        ]
+      },
+      {
+        "Sha": "fbfbc5bd98a2c45252bda54cf2e97680417c1cc3",
+        "FileName": "api.py",
+        "Path": "superset/views/database/api.py",
+        "DateUpdated": "2019-09-23T15:28:08Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "f3065a763f34d00dc5da6b5c5fc1c13d3f6095d0"
+        ]
+      },
+      {
+        "Sha": "0c616d109351c769a1a769d0183a3325292bdb7e",
+        "FileName": "views.py",
+        "Path": "superset/views/database/views.py",
+        "DateUpdated": "2019-09-23T15:28:08Z",
+        "Additions": 12,
+        "Deletions": 1,
+        "Commits": [
+          "f3065a763f34d00dc5da6b5c5fc1c13d3f6095d0"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "f3065a763f34d00dc5da6b5c5fc1c13d3f6095d0",
+        "Author": {
+          "name": "\"Daniel Vaz Gaspar\"",
+          "location": "Lisbon, Portugal"
+        },
+        "Commitor": {
+          "name": "\"Maxime Beauchemin\"",
+          "location": "Belmont, CA",
+          "company": "Stealth Co"
+        },
+        "Date": "2019-09-23T15:28:08Z",
+        "additions": 41,
+        "deletions": 4,
+        "files": [
+          "4673644778a314044518d4e2b798210a38bc7387",
+          "fbfbc5bd98a2c45252bda54cf2e97680417c1cc3",
+          "0c616d109351c769a1a769d0183a3325292bdb7e"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-superset",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T16:03:19Z",
+    "EndDate": "2019-09-23T17:03:19",
+    "Branches": 100,
+    "Forks": 5126,
+    "Files": [
+      {
+        "Sha": "e0dd954f13f65378ddb2c6a110b5b87743e75658",
+        "FileName": "258b5280a45e_form_strip_leading_and_trailing_whitespace.py",
+        "Path": "superset/migrations/versions/258b5280a45e_form_strip_leading_and_trailing_whitespace.py",
+        "DateUpdated": "2019-09-23T16:13:01Z",
+        "Additions": 193,
+        "Deletions": 0,
+        "Commits": [
+          "d46510779ffb3858f91ba7572443e236074e1568"
+        ]
+      },
+      {
+        "Sha": "f00160053bbe3bc13281ca28f924377bf4bd9624",
+        "FileName": "query.js",
+        "Path": "superset/assets/cypress/integration/sqllab/query.js",
+        "DateUpdated": "2019-09-23T16:09:12Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "5d1bf4245d901e8c89922133bc9ca379f5005f51"
+        ]
+      },
+      {
+        "Sha": "32b0900b0af7a6d875ec41a52438a61a1c1217b8",
+        "FileName": "sqlLab_spec.js",
+        "Path": "superset/assets/spec/javascripts/sqllab/actions/sqlLab_spec.js",
+        "DateUpdated": "2019-09-23T16:09:12Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "5d1bf4245d901e8c89922133bc9ca379f5005f51"
+        ]
+      },
+      {
+        "Sha": "5f2baa71734fdc08d1d42dc42b0d0624a6ee7513",
+        "FileName": "sqlLab.js",
+        "Path": "superset/assets/src/SqlLab/actions/sqlLab.js",
+        "DateUpdated": "2019-09-23T16:09:12Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "5d1bf4245d901e8c89922133bc9ca379f5005f51"
+        ]
+      },
+      {
+        "Sha": "72b5a7a5e60f9688d2d6f8a14f20d0bec5ae59bf",
+        "FileName": "core.py",
+        "Path": "superset/views/core.py",
+        "DateUpdated": "2019-09-23T16:09:12Z",
+        "Additions": 15,
+        "Deletions": 13,
+        "Commits": [
+          "5d1bf4245d901e8c89922133bc9ca379f5005f51"
+        ]
+      },
+      {
+        "Sha": "812c896e967d6adf8274cecbcccd96c5a1cdc59a",
+        "FileName": "base_tests.py",
+        "Path": "tests/base_tests.py",
+        "DateUpdated": "2019-09-23T16:09:12Z",
+        "Additions": 10,
+        "Deletions": 4,
+        "Commits": [
+          "5d1bf4245d901e8c89922133bc9ca379f5005f51"
+        ]
+      },
+      {
+        "Sha": "d4516db9099c82aa62c3923cfe4c989ab20c4991",
+        "FileName": "celery_tests.py",
+        "Path": "tests/celery_tests.py",
+        "DateUpdated": "2019-09-23T16:09:12Z",
+        "Additions": 6,
+        "Deletions": 8,
+        "Commits": [
+          "5d1bf4245d901e8c89922133bc9ca379f5005f51"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d46510779ffb3858f91ba7572443e236074e1568",
+        "Author": {
+          "name": "\"John Bodley\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T16:13:01Z",
+        "additions": 193,
+        "deletions": 0,
+        "files": [
+          "e0dd954f13f65378ddb2c6a110b5b87743e75658"
+        ]
+      },
+      {
+        "sha": "5d1bf4245d901e8c89922133bc9ca379f5005f51",
+        "Author": {
+          "name": "\"John Bodley\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T16:09:12Z",
+        "additions": 36,
+        "deletions": 30,
+        "files": [
+          "f00160053bbe3bc13281ca28f924377bf4bd9624",
+          "32b0900b0af7a6d875ec41a52438a61a1c1217b8",
+          "5f2baa71734fdc08d1d42dc42b0d0624a6ee7513",
+          "72b5a7a5e60f9688d2d6f8a14f20d0bec5ae59bf",
+          "812c896e967d6adf8274cecbcccd96c5a1cdc59a",
+          "d4516db9099c82aa62c3923cfe4c989ab20c4991"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-superset",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T18:03:12Z",
+    "EndDate": "2019-09-23T19:03:12",
+    "Branches": 100,
+    "Forks": 5127,
+    "Files": [
+      {
+        "Sha": "c98c6cd7a9ddb5e7d2e7e791e61469e9f8b4b324",
+        "FileName": "query.js",
+        "Path": "superset/assets/cypress/integration/sqllab/query.js",
+        "DateUpdated": "2019-09-23T18:28:10Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "09bbdd277c9d94ad17660a53d0880a68c37ae8a9"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "09bbdd277c9d94ad17660a53d0880a68c37ae8a9",
+        "Author": {
+          "name": "\"Maxime Beauchemin\"",
+          "location": "Belmont, CA",
+          "company": "Stealth Co"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T18:28:10Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "c98c6cd7a9ddb5e7d2e7e791e61469e9f8b4b324"
+        ]
+      }
+    ]
+  }
+]

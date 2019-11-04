@@ -1,0 +1,88 @@
+[
+  {
+    "RepositoryName": "hbase-thirdparty",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T22:03:53Z",
+    "EndDate": "2019-09-25T23:03:53",
+    "Branches": 2,
+    "Forks": 9,
+    "Files": [
+      {
+        "Sha": "d89bcc423b09dda6774f5eec168c3a1c0da1d358",
+        "FileName": "pom.xml",
+        "Path": "hbase-shaded-gson/pom.xml",
+        "DateUpdated": "2019-09-25T22:47:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c9032c98b7381bb593069d20765df6783f18ffd2"
+        ]
+      },
+      {
+        "Sha": "abfc26b180ec95f63fa569713e811b64f7c9ab2c",
+        "FileName": "pom.xml",
+        "Path": "hbase-shaded-miscellaneous/pom.xml",
+        "DateUpdated": "2019-09-25T22:47:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c9032c98b7381bb593069d20765df6783f18ffd2"
+        ]
+      },
+      {
+        "Sha": "96adcc5457565264208150e45739219a0c860763",
+        "FileName": "pom.xml",
+        "Path": "hbase-shaded-netty/pom.xml",
+        "DateUpdated": "2019-09-25T22:47:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c9032c98b7381bb593069d20765df6783f18ffd2"
+        ]
+      },
+      {
+        "Sha": "97a624bf089e2bd54d597c220ffa7bf1b0a9614e",
+        "FileName": "pom.xml",
+        "Path": "hbase-shaded-protobuf/pom.xml",
+        "DateUpdated": "2019-09-25T22:47:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c9032c98b7381bb593069d20765df6783f18ffd2"
+        ]
+      },
+      {
+        "Sha": "1e3c21076835341f021c11e4397898f5ad2ac596",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-25T22:47:29Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "c9032c98b7381bb593069d20765df6783f18ffd2"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c9032c98b7381bb593069d20765df6783f18ffd2",
+        "Author": {
+          "name": "\"Sean Busbey\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T22:47:29Z",
+        "additions": 6,
+        "deletions": 6,
+        "files": [
+          "d89bcc423b09dda6774f5eec168c3a1c0da1d358",
+          "abfc26b180ec95f63fa569713e811b64f7c9ab2c",
+          "96adcc5457565264208150e45739219a0c860763",
+          "97a624bf089e2bd54d597c220ffa7bf1b0a9614e",
+          "1e3c21076835341f021c11e4397898f5ad2ac596"
+        ]
+      }
+    ]
+  }
+]

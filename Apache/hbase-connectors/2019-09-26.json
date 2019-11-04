@@ -1,0 +1,40 @@
+[
+  {
+    "RepositoryName": "hbase-connectors",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T09:04:41Z",
+    "EndDate": "2019-09-26T10:04:41",
+    "Branches": 1,
+    "Forks": 44,
+    "Files": [
+      {
+        "Sha": "2b3b09d7f03c60c549100f8a489b0b77b9e3ba51",
+        "FileName": "pom.xml",
+        "Path": "spark/pom.xml",
+        "DateUpdated": "2019-09-26T09:06:01Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "53bf51ad7d954d1b4e7af414d4de6e699c8879ee"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "53bf51ad7d954d1b4e7af414d4de6e699c8879ee",
+        "Author": {
+          "name": "\"SteNicholas\""
+        },
+        "Commitor": {
+          "name": "\"Peter Somogyi\""
+        },
+        "Date": "2019-09-26T09:06:01Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "2b3b09d7f03c60c549100f8a489b0b77b9e3ba51"
+        ]
+      }
+    ]
+  }
+]

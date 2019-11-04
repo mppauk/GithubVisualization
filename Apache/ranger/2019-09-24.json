@@ -1,0 +1,244 @@
+[
+  {
+    "RepositoryName": "ranger",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T05:46:36Z",
+    "EndDate": "2019-09-24T06:46:36",
+    "Branches": 12,
+    "Forks": 267,
+    "Files": [
+      {
+        "Sha": "399fd8aaf18020f3283a6142d3a95f61a0699d78",
+        "FileName": "ranger_core_db_mysql.sql",
+        "Path": "security-admin/db/mysql/optimized/current/ranger_core_db_mysql.sql",
+        "DateUpdated": "2019-09-24T05:53:00Z",
+        "Additions": 13,
+        "Deletions": 13,
+        "Commits": [
+          "2a6dd3d078c52cc1314af581f7b8e6c8cdab933a"
+        ]
+      },
+      {
+        "Sha": "9899e8ce7dc516bc93c7890596b0e18356dde3f3",
+        "FileName": "009-updated_schema.sql",
+        "Path": "security-admin/db/mysql/patches/009-updated_schema.sql",
+        "DateUpdated": "2019-09-24T05:53:00Z",
+        "Additions": 12,
+        "Deletions": 12,
+        "Commits": [
+          "2a6dd3d078c52cc1314af581f7b8e6c8cdab933a"
+        ]
+      },
+      {
+        "Sha": "c06f1c5652fb0d83a28d41ac6fd82121199da715",
+        "FileName": "016-updated-schema-for-tag-based-policy.sql",
+        "Path": "security-admin/db/mysql/patches/016-updated-schema-for-tag-based-policy.sql",
+        "DateUpdated": "2019-09-24T05:53:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2a6dd3d078c52cc1314af581f7b8e6c8cdab933a"
+        ]
+      },
+      {
+        "Sha": "0597536d6eba2b03c803aed2c758b211d0d7b23e",
+        "FileName": "020-datamask-policy.sql",
+        "Path": "security-admin/db/mysql/patches/020-datamask-policy.sql",
+        "DateUpdated": "2019-09-24T05:53:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2a6dd3d078c52cc1314af581f7b8e6c8cdab933a"
+        ]
+      },
+      {
+        "Sha": "73b91736ccfca151820fd626e86ab008d7b25a5c",
+        "FileName": "ranger_core_db_oracle.sql",
+        "Path": "security-admin/db/oracle/optimized/current/ranger_core_db_oracle.sql",
+        "DateUpdated": "2019-09-24T05:53:00Z",
+        "Additions": 10,
+        "Deletions": 10,
+        "Commits": [
+          "2a6dd3d078c52cc1314af581f7b8e6c8cdab933a"
+        ]
+      },
+      {
+        "Sha": "59b56e520dd985fec6efdcd9e535a5bef4b744b9",
+        "FileName": "009-updated_schema.sql",
+        "Path": "security-admin/db/oracle/patches/009-updated_schema.sql",
+        "DateUpdated": "2019-09-24T05:53:00Z",
+        "Additions": 12,
+        "Deletions": 12,
+        "Commits": [
+          "2a6dd3d078c52cc1314af581f7b8e6c8cdab933a"
+        ]
+      },
+      {
+        "Sha": "b46928ce10116e1f597c95358e411748cebd8f99",
+        "FileName": "016-updated-schema-for-tag-based-policy.sql",
+        "Path": "security-admin/db/oracle/patches/016-updated-schema-for-tag-based-policy.sql",
+        "DateUpdated": "2019-09-24T05:53:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2a6dd3d078c52cc1314af581f7b8e6c8cdab933a"
+        ]
+      },
+      {
+        "Sha": "ebf691cbd8a3028f23f11715121db6c222b52801",
+        "FileName": "020-datamask-policy.sql",
+        "Path": "security-admin/db/oracle/patches/020-datamask-policy.sql",
+        "DateUpdated": "2019-09-24T05:53:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2a6dd3d078c52cc1314af581f7b8e6c8cdab933a"
+        ]
+      },
+      {
+        "Sha": "0e8fd9c138e9592ddab3770d5b5e1d1bd7f94635",
+        "FileName": "ranger_core_db_postgres.sql",
+        "Path": "security-admin/db/postgres/optimized/current/ranger_core_db_postgres.sql",
+        "DateUpdated": "2019-09-24T05:53:00Z",
+        "Additions": 13,
+        "Deletions": 13,
+        "Commits": [
+          "2a6dd3d078c52cc1314af581f7b8e6c8cdab933a"
+        ]
+      },
+      {
+        "Sha": "093b5b2399f8edd53e385b0ca8790e5a5ddec40d",
+        "FileName": "016-updated-schema-for-tag-based-policy.sql",
+        "Path": "security-admin/db/postgres/patches/016-updated-schema-for-tag-based-policy.sql",
+        "DateUpdated": "2019-09-24T05:53:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2a6dd3d078c52cc1314af581f7b8e6c8cdab933a"
+        ]
+      },
+      {
+        "Sha": "ea5b2abbc4d0c01470b23e471a105365bd029a9b",
+        "FileName": "020-datamask-policy.sql",
+        "Path": "security-admin/db/postgres/patches/020-datamask-policy.sql",
+        "DateUpdated": "2019-09-24T05:53:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2a6dd3d078c52cc1314af581f7b8e6c8cdab933a"
+        ]
+      },
+      {
+        "Sha": "5d37f08d5b9328f1eae9f1b7306796fefb3d00c5",
+        "FileName": "ranger_core_db_sqlanywhere.sql",
+        "Path": "security-admin/db/sqlanywhere/optimized/current/ranger_core_db_sqlanywhere.sql",
+        "DateUpdated": "2019-09-24T05:53:00Z",
+        "Additions": 13,
+        "Deletions": 13,
+        "Commits": [
+          "2a6dd3d078c52cc1314af581f7b8e6c8cdab933a"
+        ]
+      },
+      {
+        "Sha": "e6246ece16544beda41f41d5f993e0ff4b4a443d",
+        "FileName": "016-updated-schema-for-tag-based-policy.sql",
+        "Path": "security-admin/db/sqlanywhere/patches/016-updated-schema-for-tag-based-policy.sql",
+        "DateUpdated": "2019-09-24T05:53:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2a6dd3d078c52cc1314af581f7b8e6c8cdab933a"
+        ]
+      },
+      {
+        "Sha": "8c174815eb42bebecf24c38ecdeb72dc2db0939f",
+        "FileName": "020-datamask-policy.sql",
+        "Path": "security-admin/db/sqlanywhere/patches/020-datamask-policy.sql",
+        "DateUpdated": "2019-09-24T05:53:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2a6dd3d078c52cc1314af581f7b8e6c8cdab933a"
+        ]
+      },
+      {
+        "Sha": "16600e0108558c43f56af94db58933197e347731",
+        "FileName": "ranger_core_db_sqlserver.sql",
+        "Path": "security-admin/db/sqlserver/optimized/current/ranger_core_db_sqlserver.sql",
+        "DateUpdated": "2019-09-24T05:53:00Z",
+        "Additions": 11,
+        "Deletions": 11,
+        "Commits": [
+          "2a6dd3d078c52cc1314af581f7b8e6c8cdab933a"
+        ]
+      },
+      {
+        "Sha": "561915fd4621f250d48d87d2a5df4f6bf690e346",
+        "FileName": "016-updated-schema-for-tag-based-policy.sql",
+        "Path": "security-admin/db/sqlserver/patches/016-updated-schema-for-tag-based-policy.sql",
+        "DateUpdated": "2019-09-24T05:53:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2a6dd3d078c52cc1314af581f7b8e6c8cdab933a"
+        ]
+      },
+      {
+        "Sha": "b67f3ae0ead4135580cd0190d00c8ad40a3b9dbb",
+        "FileName": "020-datamask-policy.sql",
+        "Path": "security-admin/db/sqlserver/patches/020-datamask-policy.sql",
+        "DateUpdated": "2019-09-24T05:53:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2a6dd3d078c52cc1314af581f7b8e6c8cdab933a"
+        ]
+      },
+      {
+        "Sha": "d506a4375cad8e49566fce052505f3084858b097",
+        "FileName": "041-create-role-schema.sql",
+        "Path": "security-admin/db/sqlserver/patches/041-create-role-schema.sql",
+        "DateUpdated": "2019-09-24T05:53:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2a6dd3d078c52cc1314af581f7b8e6c8cdab933a"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "2a6dd3d078c52cc1314af581f7b8e6c8cdab933a",
+        "Author": {
+          "name": "\"PradeeP AgrawaL\""
+        },
+        "Commitor": {
+          "name": "\"PradeeP AgrawaL\""
+        },
+        "Date": "2019-09-24T05:53:00Z",
+        "additions": 95,
+        "deletions": 95,
+        "files": [
+          "399fd8aaf18020f3283a6142d3a95f61a0699d78",
+          "9899e8ce7dc516bc93c7890596b0e18356dde3f3",
+          "c06f1c5652fb0d83a28d41ac6fd82121199da715",
+          "0597536d6eba2b03c803aed2c758b211d0d7b23e",
+          "73b91736ccfca151820fd626e86ab008d7b25a5c",
+          "59b56e520dd985fec6efdcd9e535a5bef4b744b9",
+          "b46928ce10116e1f597c95358e411748cebd8f99",
+          "ebf691cbd8a3028f23f11715121db6c222b52801",
+          "0e8fd9c138e9592ddab3770d5b5e1d1bd7f94635",
+          "093b5b2399f8edd53e385b0ca8790e5a5ddec40d",
+          "ea5b2abbc4d0c01470b23e471a105365bd029a9b",
+          "5d37f08d5b9328f1eae9f1b7306796fefb3d00c5",
+          "e6246ece16544beda41f41d5f993e0ff4b4a443d",
+          "8c174815eb42bebecf24c38ecdeb72dc2db0939f",
+          "16600e0108558c43f56af94db58933197e347731",
+          "561915fd4621f250d48d87d2a5df4f6bf690e346",
+          "b67f3ae0ead4135580cd0190d00c8ad40a3b9dbb",
+          "d506a4375cad8e49566fce052505f3084858b097"
+        ]
+      }
+    ]
+  }
+]

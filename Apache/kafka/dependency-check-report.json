@@ -1,0 +1,116 @@
+{
+  "reportSchema": "1.1",
+  "scanInfo": {
+    "engineVersion": "5.0.0-M2",
+    "dataSource": [
+      {
+        "name": "NVD CVE 2002",
+        "timestamp": "26/03/2019 03:46:06"
+      },
+      {
+        "name": "NVD CVE 2003",
+        "timestamp": "04/04/2019 03:46:02"
+      },
+      {
+        "name": "NVD CVE 2004",
+        "timestamp": "23/03/2019 03:16:03"
+      },
+      {
+        "name": "NVD CVE 2005",
+        "timestamp": "04/04/2019 03:46:02"
+      },
+      {
+        "name": "NVD CVE 2006",
+        "timestamp": "04/04/2019 03:46:02"
+      },
+      {
+        "name": "NVD CVE 2007",
+        "timestamp": "04/04/2019 03:16:04"
+      },
+      {
+        "name": "NVD CVE 2008",
+        "timestamp": "04/04/2019 03:16:06"
+      },
+      {
+        "name": "NVD CVE 2009",
+        "timestamp": "04/04/2019 03:16:04"
+      },
+      {
+        "name": "NVD CVE 2010",
+        "timestamp": "04/04/2019 03:16:04"
+      },
+      {
+        "name": "NVD CVE 2011",
+        "timestamp": "04/04/2019 03:16:04"
+      },
+      {
+        "name": "NVD CVE 2012",
+        "timestamp": "04/04/2019 03:16:04"
+      },
+      {
+        "name": "NVD CVE 2013",
+        "timestamp": "04/04/2019 03:16:05"
+      },
+      {
+        "name": "NVD CVE 2014",
+        "timestamp": "04/04/2019 03:16:06"
+      },
+      {
+        "name": "NVD CVE 2015",
+        "timestamp": "04/04/2019 02:46:07"
+      },
+      {
+        "name": "NVD CVE 2016",
+        "timestamp": "04/04/2019 02:46:07"
+      },
+      {
+        "name": "NVD CVE 2017",
+        "timestamp": "04/04/2019 02:46:08"
+      },
+      {
+        "name": "NVD CVE 2018",
+        "timestamp": "04/04/2019 02:46:07"
+      },
+      {
+        "name": "NVD CVE 2019",
+        "timestamp": "04/04/2019 02:16:02"
+      },
+      {
+        "name": "NVD CVE Checked",
+        "timestamp": "04/04/2019 11:10:20"
+      },
+      {
+        "name": "NVD CVE Modified",
+        "timestamp": "04/04/2019 09:16:02"
+      },
+      {
+        "name": "VersionCheckOn",
+        "timestamp": "1554394220621"
+      }
+    ]
+  },
+  "projectInfo": {
+    "name": "",
+    "reportDate": "2019-04-10T11:15:28.501-0500",
+    "credits": {
+      "NVD": "This report contains data retrieved from the National Vulnerability Database: http://nvd.nist.gov",
+      "NPM": "This report may contain data retrieved from the NPM Public Advisories: https://www.npmjs.com/advisories",
+      "RETIREJS": "This report may contain data retrieved from the RetireJS community: https://retirejs.github.io/retire.js/"
+    }
+  },
+  "dependencies": [
+    {
+      "isVirtual": false,
+      "fileName": "templateData.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\GithubDataAnalysis\\kafka\\docs\\js\\templateData.js",
+      "md5": "5b05de68a7d3f17e2dd698124e2cb3d0",
+      "sha1": "08119129e6ea334212bc4dae98580e295093963b",
+      "sha256": "87d224a3d5b651840894f511e0f358c27b9f60519d0eb259f6b50f0443b9f685",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+[
+  {
+    "RepositoryName": "airflow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T08:47:33Z",
+    "EndDate": "2019-09-24T09:47:33",
+    "Branches": 8,
+    "Forks": 5213,
+    "Files": [
+      {
+        "Sha": "885eb22c6980522f60d437ff4e4618d3e5f41eec",
+        "FileName": "UPDATING.md",
+        "Path": "UPDATING.md",
+        "DateUpdated": "2019-09-24T09:23:51Z",
+        "Additions": 10,
+        "Deletions": 0,
+        "Commits": [
+          "5f9ab7a1d5cd4540e953005d43898be08ed56d60"
+        ]
+      },
+      {
+        "Sha": "97b3130fb83f6e2495ac0f55061f364c363392de",
+        "FileName": "scheduler_job.py",
+        "Path": "airflow/jobs/scheduler_job.py",
+        "DateUpdated": "2019-09-24T09:23:51Z",
+        "Additions": 3,
+        "Deletions": 5,
+        "Commits": [
+          "5f9ab7a1d5cd4540e953005d43898be08ed56d60"
+        ]
+      },
+      {
+        "Sha": "b8328566b8122194087010d502717882ce0dbeb6",
+        "FileName": "dagbag.py",
+        "Path": "airflow/models/dagbag.py",
+        "DateUpdated": "2019-09-24T09:23:51Z",
+        "Additions": 2,
+        "Deletions": 8,
+        "Commits": [
+          "5f9ab7a1d5cd4540e953005d43898be08ed56d60"
+        ]
+      },
+      {
+        "Sha": "bf425a8857a9f6ee1add201ad1d2305b59003d5d",
+        "FileName": "dag_processing.py",
+        "Path": "airflow/utils/dag_processing.py",
+        "DateUpdated": "2019-09-24T09:23:51Z",
+        "Additions": 141,
+        "Deletions": 75,
+        "Commits": [
+          "5f9ab7a1d5cd4540e953005d43898be08ed56d60"
+        ]
+      },
+      {
+        "Sha": "ac3fe18eadc7dee27cdb996d97907d626c0afd20",
+        "FileName": "metrics.rst",
+        "Path": "docs/metrics.rst",
+        "DateUpdated": "2019-09-24T09:23:51Z",
+        "Additions": 15,
+        "Deletions": 13,
+        "Commits": [
+          "5f9ab7a1d5cd4540e953005d43898be08ed56d60"
+        ]
+      },
+      {
+        "Sha": "84f0eb99507a3ce3ff7ebeecbfce37459d23db8b",
+        "FileName": "test_dagbag.py",
+        "Path": "tests/models/test_dagbag.py",
+        "DateUpdated": "2019-09-24T09:23:51Z",
+        "Additions": 9,
+        "Deletions": 6,
+        "Commits": [
+          "5f9ab7a1d5cd4540e953005d43898be08ed56d60"
+        ]
+      },
+      {
+        "Sha": "0b8687da7c9ae1a2a0e80a2dcdc432c6c6792e67",
+        "FileName": "config.py",
+        "Path": "tests/test_utils/config.py",
+        "DateUpdated": "2019-09-24T09:23:51Z",
+        "Additions": 18,
+        "Deletions": 0,
+        "Commits": [
+          "5f9ab7a1d5cd4540e953005d43898be08ed56d60"
+        ]
+      },
+      {
+        "Sha": "26ec144e6fd2808cb81b504b7e40eedea34f8da1",
+        "FileName": "test_dag_processing.py",
+        "Path": "tests/utils/test_dag_processing.py",
+        "DateUpdated": "2019-09-24T09:23:51Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "5f9ab7a1d5cd4540e953005d43898be08ed56d60"
+        ]
+      },
+      {
+        "Sha": "9e989215e567e3efe42cae70f4fcd467127e6223",
+        "FileName": "default_airflow.cfg",
+        "Path": "airflow/config_templates/default_airflow.cfg",
+        "DateUpdated": "2019-09-24T09:22:01Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "dc3bfe470c2d6ad9cda801635e3514088d38aed5"
+        ]
+      },
+      {
+        "Sha": "bd47429bb6d3ad7d54f0dd0e79a5036df0fffa7c",
+        "FileName": "dag.py",
+        "Path": "airflow/models/dag.py",
+        "DateUpdated": "2019-09-24T09:22:01Z",
+        "Additions": 11,
+        "Deletions": 1,
+        "Commits": [
+          "dc3bfe470c2d6ad9cda801635e3514088d38aed5"
+        ]
+      },
+      {
+        "Sha": "10a4dfa147c3d73c1c755fee85516af2c71bf131",
+        "FileName": "taskinstance.py",
+        "Path": "airflow/models/taskinstance.py",
+        "DateUpdated": "2019-09-24T09:22:01Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "dc3bfe470c2d6ad9cda801635e3514088d38aed5"
+        ]
+      },
+      {
+        "Sha": "efd91340b7c2b4012b92c94c029cac06911372ab",
+        "FileName": "sentry.py",
+        "Path": "airflow/sentry.py",
+        "DateUpdated": "2019-09-24T09:22:01Z",
+        "Additions": 170,
+        "Deletions": 0,
+        "Commits": [
+          "dc3bfe470c2d6ad9cda801635e3514088d38aed5"
+        ]
+      },
+      {
+        "Sha": "3abd055bf26096fb34efb0119bc9b7f916222c07",
+        "FileName": "conf.py",
+        "Path": "docs/conf.py",
+        "DateUpdated": "2019-09-24T09:22:01Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "dc3bfe470c2d6ad9cda801635e3514088d38aed5"
+        ]
+      },
+      {
+        "Sha": "11f4b8b95f59b76507f1c79518bed68281c42d84",
+        "FileName": "errors.rst",
+        "Path": "docs/errors.rst",
+        "DateUpdated": "2019-09-24T09:22:01Z",
+        "Additions": 67,
+        "Deletions": 0,
+        "Commits": [
+          "dc3bfe470c2d6ad9cda801635e3514088d38aed5"
+        ]
+      },
+      {
+        "Sha": "e87335468ddc874810ae98f71538c9de918aaf5f",
+        "FileName": "index.rst",
+        "Path": "docs/index.rst",
+        "DateUpdated": "2019-09-24T09:22:01Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "dc3bfe470c2d6ad9cda801635e3514088d38aed5"
+        ]
+      },
+      {
+        "Sha": "ca32964625c0507336cfa91e98fd60f5a006d5f4",
+        "FileName": "setup.py",
+        "Path": "setup.py",
+        "DateUpdated": "2019-09-24T09:22:01Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "dc3bfe470c2d6ad9cda801635e3514088d38aed5"
+        ]
+      },
+      {
+        "Sha": "f4d390563402741e8d72a1038a39805358cd8531",
+        "FileName": "test_sentry.py",
+        "Path": "tests/test_sentry.py",
+        "DateUpdated": "2019-09-24T09:22:01Z",
+        "Additions": 105,
+        "Deletions": 0,
+        "Commits": [
+          "dc3bfe470c2d6ad9cda801635e3514088d38aed5"
+        ]
+      },
+      {
+        "Sha": "3257b7441f17ab62deb35cc8dec56ccc7c9d0984",
+        "FileName": "helpers.py",
+        "Path": "airflow/utils/helpers.py",
+        "DateUpdated": "2019-09-24T09:08:05Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "04c7fd01e2a58bb809cdd50a607dff53351bbf53"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "5f9ab7a1d5cd4540e953005d43898be08ed56d60",
+        "Author": {
+          "name": "\"Ash Berlin-Taylor\"",
+          "location": "London"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T09:23:51Z",
+        "additions": 200,
+        "deletions": 108,
+        "files": [
+          "885eb22c6980522f60d437ff4e4618d3e5f41eec",
+          "97b3130fb83f6e2495ac0f55061f364c363392de",
+          "b8328566b8122194087010d502717882ce0dbeb6",
+          "bf425a8857a9f6ee1add201ad1d2305b59003d5d",
+          "ac3fe18eadc7dee27cdb996d97907d626c0afd20",
+          "84f0eb99507a3ce3ff7ebeecbfce37459d23db8b",
+          "0b8687da7c9ae1a2a0e80a2dcdc432c6c6792e67",
+          "26ec144e6fd2808cb81b504b7e40eedea34f8da1"
+        ]
+      },
+      {
+        "sha": "dc3bfe470c2d6ad9cda801635e3514088d38aed5",
+        "Author": {
+          "name": "\"Osmar Coronel\""
+        },
+        "Commitor": {
+          "name": "\"Ash Berlin-Taylor\"",
+          "location": "London"
+        },
+        "Date": "2019-09-24T09:22:01Z",
+        "additions": 364,
+        "deletions": 2,
+        "files": [
+          "9e989215e567e3efe42cae70f4fcd467127e6223",
+          "bd47429bb6d3ad7d54f0dd0e79a5036df0fffa7c",
+          "10a4dfa147c3d73c1c755fee85516af2c71bf131",
+          "efd91340b7c2b4012b92c94c029cac06911372ab",
+          "3abd055bf26096fb34efb0119bc9b7f916222c07",
+          "11f4b8b95f59b76507f1c79518bed68281c42d84",
+          "e87335468ddc874810ae98f71538c9de918aaf5f",
+          "ca32964625c0507336cfa91e98fd60f5a006d5f4",
+          "f4d390563402741e8d72a1038a39805358cd8531"
+        ]
+      },
+      {
+        "sha": "04c7fd01e2a58bb809cdd50a607dff53351bbf53",
+        "Author": {
+          "name": "\"Bharath Palaksha\"",
+          "location": "Bangalore",
+          "company": "@WalmartLabs"
+        },
+        "Commitor": {
+          "name": "\"Ash Berlin-Taylor\"",
+          "location": "London"
+        },
+        "Date": "2019-09-24T09:08:05Z",
+        "additions": 5,
+        "deletions": 0,
+        "files": [
+          "3257b7441f17ab62deb35cc8dec56ccc7c9d0984"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "airflow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T10:47:28Z",
+    "EndDate": "2019-09-24T11:47:28",
+    "Branches": 8,
+    "Forks": 5213,
+    "Files": [
+      {
+        "Sha": "684f88e64bc70d4d2b15ae7347c8b796fb225044",
+        "FileName": "example_azure_container_instances_operator.py",
+        "Path": "airflow/contrib/example_dags/example_azure_container_instances_operator.py",
+        "DateUpdated": "2019-09-24T11:21:45Z",
+        "Additions": 16,
+        "Deletions": 17,
+        "Commits": [
+          "9c5284856b2e353097a235e07afccf1676d4018d"
+        ]
+      },
+      {
+        "Sha": "c4e7035358ce3403087ce047544a82667b30b30e",
+        "FileName": "example_azure_cosmosdb_sensor.py",
+        "Path": "airflow/contrib/example_dags/example_azure_cosmosdb_sensor.py",
+        "DateUpdated": "2019-09-24T11:21:45Z",
+        "Additions": 20,
+        "Deletions": 18,
+        "Commits": [
+          "9c5284856b2e353097a235e07afccf1676d4018d"
+        ]
+      },
+      {
+        "Sha": "262edbdc2c3250096aed31e39e3b9ebb3b1d861b",
+        "FileName": "example_databricks_operator.py",
+        "Path": "airflow/contrib/example_dags/example_databricks_operator.py",
+        "DateUpdated": "2019-09-24T11:21:45Z",
+        "Additions": 40,
+        "Deletions": 39,
+        "Commits": [
+          "9c5284856b2e353097a235e07afccf1676d4018d"
+        ]
+      },
+      {
+        "Sha": "d67ad6af2c7bbfaaf720bb911cf808eda2827a16",
+        "FileName": "example_dingding_operator.py",
+        "Path": "airflow/contrib/example_dags/example_dingding_operator.py",
+        "DateUpdated": "2019-09-24T11:21:45Z",
+        "Additions": 160,
+        "Deletions": 169,
+        "Commits": [
+          "9c5284856b2e353097a235e07afccf1676d4018d"
+        ]
+      },
+      {
+        "Sha": "6e6a4ee7c9fa311bcb6bc642b587ab2018eedbdb",
+        "FileName": "example_emr_job_flow_automatic_steps.py",
+        "Path": "airflow/contrib/example_dags/example_emr_job_flow_automatic_steps.py",
+        "DateUpdated": "2019-09-24T11:21:45Z",
+        "Additions": 15,
+        "Deletions": 17,
+        "Commits": [
+          "9c5284856b2e353097a235e07afccf1676d4018d"
+        ]
+      },
+      {
+        "Sha": "6eaa4e5ec62adc29537eacb017d17b2125bdad42",
+        "FileName": "example_emr_job_flow_manual_steps.py",
+        "Path": "airflow/contrib/example_dags/example_emr_job_flow_manual_steps.py",
+        "DateUpdated": "2019-09-24T11:21:45Z",
+        "Additions": 27,
+        "Deletions": 33,
+        "Commits": [
+          "9c5284856b2e353097a235e07afccf1676d4018d"
+        ]
+      },
+      {
+        "Sha": "8269bc7843ead6f4419ffac07d96e7f19e0d0373",
+        "FileName": "example_jenkins_job_trigger_operator.py.notexecutable",
+        "Path": "airflow/contrib/example_dags/example_jenkins_job_trigger_operator.py.notexecutable",
+        "DateUpdated": "2019-09-24T11:21:45Z",
+        "Additions": 34,
+        "Deletions": 32,
+        "Commits": [
+          "9c5284856b2e353097a235e07afccf1676d4018d"
+        ]
+      },
+      {
+        "Sha": "683bef3a56aef5a786add5c7341ca5e0c5199891",
+        "FileName": "example_kubernetes_executor.py",
+        "Path": "airflow/contrib/example_dags/example_kubernetes_executor.py",
+        "DateUpdated": "2019-09-24T11:21:45Z",
+        "Additions": 79,
+        "Deletions": 76,
+        "Commits": [
+          "9c5284856b2e353097a235e07afccf1676d4018d"
+        ]
+      },
+      {
+        "Sha": "498cf6e54198f0cc89afa489d965ca04b4e34dd4",
+        "FileName": "example_kubernetes_executor_config.py",
+        "Path": "airflow/contrib/example_dags/example_kubernetes_executor_config.py",
+        "DateUpdated": "2019-09-24T11:21:45Z",
+        "Additions": 54,
+        "Deletions": 52,
+        "Commits": [
+          "9c5284856b2e353097a235e07afccf1676d4018d"
+        ]
+      },
+      {
+        "Sha": "e9453356bcff0fe8fc87a693cd2578ad1e5d0d71",
+        "FileName": "example_kubernetes_operator.py",
+        "Path": "airflow/contrib/example_dags/example_kubernetes_operator.py",
+        "DateUpdated": "2019-09-24T11:21:45Z",
+        "Additions": 25,
+        "Deletions": 25,
+        "Commits": [
+          "9c5284856b2e353097a235e07afccf1676d4018d"
+        ]
+      },
+      {
+        "Sha": "8710538d4a5f183ba89782a4468b8e1726a9fdf2",
+        "FileName": "example_papermill_operator.py",
+        "Path": "airflow/contrib/example_dags/example_papermill_operator.py",
+        "DateUpdated": "2019-09-24T11:21:45Z",
+        "Additions": 51,
+        "Deletions": 0,
+        "Commits": [
+          "9c5284856b2e353097a235e07afccf1676d4018d"
+        ]
+      },
+      {
+        "Sha": "5d48fb6aca5dae4a0f7a86fa6a28f7119bca1b80",
+        "FileName": "example_qubole_operator.py",
+        "Path": "airflow/contrib/example_dags/example_qubole_operator.py",
+        "DateUpdated": "2019-09-24T11:21:45Z",
+        "Additions": 181,
+        "Deletions": 187,
+        "Commits": [
+          "9c5284856b2e353097a235e07afccf1676d4018d"
+        ]
+      },
+      {
+        "Sha": "9a10621f2699e721923afc2e7033e729bc3b5c95",
+        "FileName": "example_qubole_sensor.py",
+        "Path": "airflow/contrib/example_dags/example_qubole_sensor.py",
+        "DateUpdated": "2019-09-24T11:21:45Z",
+        "Additions": 34,
+        "Deletions": 33,
+        "Commits": [
+          "9c5284856b2e353097a235e07afccf1676d4018d"
+        ]
+      },
+      {
+        "Sha": "648e2fbe7d402d3a99599b2c746e097c505b84b1",
+        "FileName": "example_twitter_dag.py",
+        "Path": "airflow/contrib/example_dags/example_twitter_dag.py",
+        "DateUpdated": "2019-09-24T11:21:45Z",
+        "Additions": 115,
+        "Deletions": 113,
+        "Commits": [
+          "9c5284856b2e353097a235e07afccf1676d4018d"
+        ]
+      },
+      {
+        "Sha": "df28d9e2e576bdd84948c8c00970223ab2834c5c",
+        "FileName": "example_winrm_operator.py",
+        "Path": "airflow/contrib/example_dags/example_winrm_operator.py",
+        "DateUpdated": "2019-09-24T11:21:45Z",
+        "Additions": 26,
+        "Deletions": 25,
+        "Commits": [
+          "9c5284856b2e353097a235e07afccf1676d4018d"
+        ]
+      },
+      {
+        "Sha": "c6a9eeb71fb17d0f13b4e49cd53b4006bf0191b1",
+        "FileName": "dingding.rst",
+        "Path": "docs/howto/operator/dingding.rst",
+        "DateUpdated": "2019-09-24T11:21:45Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "9c5284856b2e353097a235e07afccf1676d4018d"
+        ]
+      },
+      {
+        "Sha": "63bf860649645503d0b7b54ef834671771aa9da8",
+        "FileName": "papermill.rst",
+        "Path": "docs/howto/operator/papermill.rst",
+        "DateUpdated": "2019-09-24T11:21:45Z",
+        "Additions": 8,
+        "Deletions": 30,
+        "Commits": [
+          "9c5284856b2e353097a235e07afccf1676d4018d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "9c5284856b2e353097a235e07afccf1676d4018d",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Felix Uellendall\"",
+          "location": "Germany",
+          "company": "Publicis Pixelpark"
+        },
+        "Date": "2019-09-24T11:21:45Z",
+        "additions": 888,
+        "deletions": 866,
+        "files": [
+          "684f88e64bc70d4d2b15ae7347c8b796fb225044",
+          "c4e7035358ce3403087ce047544a82667b30b30e",
+          "262edbdc2c3250096aed31e39e3b9ebb3b1d861b",
+          "d67ad6af2c7bbfaaf720bb911cf808eda2827a16",
+          "6e6a4ee7c9fa311bcb6bc642b587ab2018eedbdb",
+          "6eaa4e5ec62adc29537eacb017d17b2125bdad42",
+          "8269bc7843ead6f4419ffac07d96e7f19e0d0373",
+          "683bef3a56aef5a786add5c7341ca5e0c5199891",
+          "498cf6e54198f0cc89afa489d965ca04b4e34dd4",
+          "e9453356bcff0fe8fc87a693cd2578ad1e5d0d71",
+          "8710538d4a5f183ba89782a4468b8e1726a9fdf2",
+          "5d48fb6aca5dae4a0f7a86fa6a28f7119bca1b80",
+          "9a10621f2699e721923afc2e7033e729bc3b5c95",
+          "648e2fbe7d402d3a99599b2c746e097c505b84b1",
+          "df28d9e2e576bdd84948c8c00970223ab2834c5c",
+          "c6a9eeb71fb17d0f13b4e49cd53b4006bf0191b1",
+          "63bf860649645503d0b7b54ef834671771aa9da8"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "airflow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T11:47:26Z",
+    "EndDate": "2019-09-24T12:47:26",
+    "Branches": 8,
+    "Forks": 5214,
+    "Files": [
+      {
+        "Sha": "31df6ac1beb2c57ab3d3d10d9ef8c257e43f18cd",
+        "FileName": "helpers.py",
+        "Path": "airflow/utils/helpers.py",
+        "DateUpdated": "2019-09-24T12:42:16Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "418143222026fa27ed0ebdd12b1566ef78fbcccb"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "418143222026fa27ed0ebdd12b1566ef78fbcccb",
+        "Author": {
+          "name": "\"Bharath Palaksha\"",
+          "location": "Bangalore",
+          "company": "@WalmartLabs"
+        },
+        "Commitor": {
+          "name": "\"Ash Berlin-Taylor\"",
+          "location": "London"
+        },
+        "Date": "2019-09-24T12:42:16Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "31df6ac1beb2c57ab3d3d10d9ef8c257e43f18cd"
+        ]
+      }
+    ]
+  }
+]

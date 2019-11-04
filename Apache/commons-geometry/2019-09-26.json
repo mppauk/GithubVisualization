@@ -1,0 +1,58 @@
+[
+  {
+    "RepositoryName": "commons-geometry",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T12:05:09Z",
+    "EndDate": "2019-09-26T13:05:09",
+    "Branches": 4,
+    "Forks": 9,
+    "Files": [
+      {
+        "Sha": "80ba963be29b08e68874915bc02b97c226473b30",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-26T12:32:12Z",
+        "Additions": 53,
+        "Deletions": 2,
+        "Commits": [
+          "2447eaf476127cd745af069a4ae4c22e3eb63f7d"
+        ]
+      },
+      {
+        "Sha": "96c84906d99acd86ec608c1ae52d54342f99400a",
+        "FileName": "checkstyle-suppressions.xml",
+        "Path": "src/main/resources/checkstyle/checkstyle-suppressions.xml",
+        "DateUpdated": "2019-09-26T12:32:12Z",
+        "Additions": 29,
+        "Deletions": 0,
+        "Commits": [
+          "2447eaf476127cd745af069a4ae4c22e3eb63f7d"
+        ]
+      },
+      {
+        "Sha": "d834902fff8acb1e21d146de0a7cc531e74d346a",
+        "FileName": "checkstyle.xml",
+        "Path": "src/main/resources/checkstyle/checkstyle.xml",
+        "DateUpdated": "2019-09-26T12:32:12Z",
+        "Additions": 175,
+        "Deletions": 114,
+        "Commits": [
+          "2447eaf476127cd745af069a4ae4c22e3eb63f7d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "2447eaf476127cd745af069a4ae4c22e3eb63f7d",
+        "Date": "2019-09-26T12:32:12Z",
+        "additions": 257,
+        "deletions": 116,
+        "files": [
+          "80ba963be29b08e68874915bc02b97c226473b30",
+          "96c84906d99acd86ec608c1ae52d54342f99400a",
+          "d834902fff8acb1e21d146de0a7cc531e74d346a"
+        ]
+      }
+    ]
+  }
+]

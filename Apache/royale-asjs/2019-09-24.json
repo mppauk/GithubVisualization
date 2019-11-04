@@ -1,0 +1,170 @@
+[
+  {
+    "RepositoryName": "royale-asjs",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T05:46:18Z",
+    "EndDate": "2019-09-24T06:46:18",
+    "Branches": 77,
+    "Forks": 73,
+    "Files": [
+      {
+        "Sha": "7c9590f5eec5f18310032c276a329f885b3dd66c",
+        "FileName": "GraphicShape.as",
+        "Path": "frameworks/projects/Basic/src/main/royale/org/apache/royale/svg/GraphicShape.as",
+        "DateUpdated": "2019-09-24T05:59:19Z",
+        "Additions": 112,
+        "Deletions": 103,
+        "Commits": [
+          "8cc19cd55a6f1345fb60ca65cf3a2cdb4bf8d95f"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "8cc19cd55a6f1345fb60ca65cf3a2cdb4bf8d95f",
+        "Author": {
+          "name": "\"Harbs\"",
+          "company": "In-Tools.com, PrintUI"
+        },
+        "Commitor": {
+          "name": "\"Harbs\"",
+          "company": "In-Tools.com, PrintUI"
+        },
+        "Date": "2019-09-24T05:59:19Z",
+        "additions": 112,
+        "deletions": 103,
+        "files": [
+          "7c9590f5eec5f18310032c276a329f885b3dd66c"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "royale-asjs",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T06:46:31Z",
+    "EndDate": "2019-09-24T07:46:31",
+    "Branches": 77,
+    "Forks": 73,
+    "Files": [
+      {
+        "Sha": "84984cb0f06bbecce19153aa1031fdbe1c098cfc",
+        "FileName": "Circle.as",
+        "Path": "frameworks/projects/Basic/src/main/royale/org/apache/royale/svg/Circle.as",
+        "DateUpdated": "2019-09-24T07:29:22Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "b054a0a6e3a6131a9cf78b3e0358a2dc08d34bcf"
+        ]
+      },
+      {
+        "Sha": "ce1763378299418236ba3b44cf6f7ce5efb8009c",
+        "FileName": "Ellipse.as",
+        "Path": "frameworks/projects/Basic/src/main/royale/org/apache/royale/svg/Ellipse.as",
+        "DateUpdated": "2019-09-24T07:29:22Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "b054a0a6e3a6131a9cf78b3e0358a2dc08d34bcf"
+        ]
+      },
+      {
+        "Sha": "90a2c8e3a0baa51ab528a555577bbe0b71ba407c",
+        "FileName": "Path.as",
+        "Path": "frameworks/projects/Basic/src/main/royale/org/apache/royale/svg/Path.as",
+        "DateUpdated": "2019-09-24T07:29:22Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "b054a0a6e3a6131a9cf78b3e0358a2dc08d34bcf"
+        ]
+      },
+      {
+        "Sha": "15bf4a115343da002e2711ae4d66c3c06bd8fca0",
+        "FileName": "Rect.as",
+        "Path": "frameworks/projects/Basic/src/main/royale/org/apache/royale/svg/Rect.as",
+        "DateUpdated": "2019-09-24T07:29:22Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "b054a0a6e3a6131a9cf78b3e0358a2dc08d34bcf"
+        ]
+      },
+      {
+        "Sha": "4722c955fed36e5351ff418e349274fc99b5de21",
+        "FileName": "Text.as",
+        "Path": "frameworks/projects/Basic/src/main/royale/org/apache/royale/svg/Text.as",
+        "DateUpdated": "2019-09-24T07:29:22Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "b054a0a6e3a6131a9cf78b3e0358a2dc08d34bcf"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "b054a0a6e3a6131a9cf78b3e0358a2dc08d34bcf",
+        "Author": {
+          "name": "\"Harbs\"",
+          "company": "In-Tools.com, PrintUI"
+        },
+        "Commitor": {
+          "name": "\"Harbs\"",
+          "company": "In-Tools.com, PrintUI"
+        },
+        "Date": "2019-09-24T07:29:22Z",
+        "additions": 10,
+        "deletions": 0,
+        "files": [
+          "84984cb0f06bbecce19153aa1031fdbe1c098cfc",
+          "ce1763378299418236ba3b44cf6f7ce5efb8009c",
+          "90a2c8e3a0baa51ab528a555577bbe0b71ba407c",
+          "15bf4a115343da002e2711ae4d66c3c06bd8fca0",
+          "4722c955fed36e5351ff418e349274fc99b5de21"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "royale-asjs",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T11:46:43Z",
+    "EndDate": "2019-09-24T12:46:43",
+    "Branches": 77,
+    "Forks": 73,
+    "Files": [
+      {
+        "Sha": "a9355eae56cee3dc6a25b37afb68c465271554af",
+        "FileName": "Circle.as",
+        "Path": "frameworks/projects/Basic/src/main/royale/org/apache/royale/svg/Circle.as",
+        "DateUpdated": "2019-09-24T12:15:08Z",
+        "Additions": 29,
+        "Deletions": 10,
+        "Commits": [
+          "9db99c214d6ca9c300a11489d2421cf6920e9de4"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "9db99c214d6ca9c300a11489d2421cf6920e9de4",
+        "Author": {
+          "name": "\"Harbs\"",
+          "company": "In-Tools.com, PrintUI"
+        },
+        "Commitor": {
+          "name": "\"Harbs\"",
+          "company": "In-Tools.com, PrintUI"
+        },
+        "Date": "2019-09-24T12:15:08Z",
+        "additions": 29,
+        "deletions": 10,
+        "files": [
+          "a9355eae56cee3dc6a25b37afb68c465271554af"
+        ]
+      }
+    ]
+  }
+]

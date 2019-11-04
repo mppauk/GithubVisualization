@@ -1,0 +1,148 @@
+[
+  {
+    "RepositoryName": "incubator-iotdb-website",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T02:04:30Z",
+    "EndDate": "2019-09-26T03:04:30",
+    "Branches": 4,
+    "Forks": 10,
+    "Files": [
+      {
+        "Sha": "0d9680ba241fab8a51246950edb427c06908888f",
+        "FileName": "Documents.vue",
+        "Path": "src/views/Documents.vue",
+        "DateUpdated": "2019-09-26T02:27:06Z",
+        "Additions": 57,
+        "Deletions": 58,
+        "Commits": [
+          "313850962091d9d626f05b4c25a3c694f1a13388",
+          "a4543a26cb77c4386bd04718c1d842450884406e"
+        ]
+      },
+      {
+        "Sha": "d99db4dcdeb05d70cc73ef840900151b5d6a779d",
+        "FileName": "Global.vue",
+        "Path": "src/components/Global.vue",
+        "DateUpdated": "2019-09-26T02:09:36Z",
+        "Additions": 4,
+        "Deletions": 8,
+        "Commits": [
+          "e4de269f5823507b60f8e63a9355c994010ea959",
+          "81a8ca1109eda5f1746ea2b408ad1b9fe9003908"
+        ]
+      },
+      {
+        "Sha": "d4204bf553cce5daaec089262e10b88115236658",
+        "FileName": "NavBar.vue",
+        "Path": "src/components/NavBar.vue",
+        "DateUpdated": "2019-09-26T02:09:36Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "e4de269f5823507b60f8e63a9355c994010ea959",
+          "81a8ca1109eda5f1746ea2b408ad1b9fe9003908"
+        ]
+      },
+      {
+        "Sha": "6cbe6ee8ec33b36de23f3aaa6f076f43adbc0fce",
+        "FileName": "Development.vue",
+        "Path": "src/views/Development.vue",
+        "DateUpdated": "2019-09-26T02:09:36Z",
+        "Additions": 8,
+        "Deletions": 16,
+        "Commits": [
+          "e4de269f5823507b60f8e63a9355c994010ea959",
+          "81a8ca1109eda5f1746ea2b408ad1b9fe9003908"
+        ]
+      },
+      {
+        "Sha": "4b9cbb7092cb7070099df2ff9b42c7c2d554664c",
+        "FileName": "Documents.vue",
+        "Path": "src/views/Documents.vue",
+        "DateUpdated": "2019-09-26T02:09:36Z",
+        "Additions": 0,
+        "Deletions": 34,
+        "Commits": [
+          "e4de269f5823507b60f8e63a9355c994010ea959",
+          "81a8ca1109eda5f1746ea2b408ad1b9fe9003908"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "313850962091d9d626f05b4c25a3c694f1a13388",
+        "Author": {
+          "name": "\"Jialin Qiao\"",
+          "location": "Beijing",
+          "company": "Tsinghua university"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T02:27:06Z",
+        "additions": 57,
+        "deletions": 29,
+        "files": [
+          "0d9680ba241fab8a51246950edb427c06908888f"
+        ]
+      },
+      {
+        "sha": "a4543a26cb77c4386bd04718c1d842450884406e",
+        "Author": {
+          "name": "\"Zesong Sun\"",
+          "location": "Beijing, China"
+        },
+        "Commitor": {
+          "name": "\"Zesong Sun\"",
+          "location": "Beijing, China"
+        },
+        "Date": "2019-09-26T02:25:00Z",
+        "additions": 57,
+        "deletions": 29,
+        "files": [
+          "0d9680ba241fab8a51246950edb427c06908888f"
+        ]
+      },
+      {
+        "sha": "e4de269f5823507b60f8e63a9355c994010ea959",
+        "Author": {
+          "name": "\"Jialin Qiao\"",
+          "location": "Beijing",
+          "company": "Tsinghua university"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T02:09:36Z",
+        "additions": 13,
+        "deletions": 30,
+        "files": [
+          "d99db4dcdeb05d70cc73ef840900151b5d6a779d",
+          "d4204bf553cce5daaec089262e10b88115236658",
+          "6cbe6ee8ec33b36de23f3aaa6f076f43adbc0fce",
+          "4b9cbb7092cb7070099df2ff9b42c7c2d554664c"
+        ]
+      },
+      {
+        "sha": "81a8ca1109eda5f1746ea2b408ad1b9fe9003908",
+        "Author": {
+          "name": "\"Zesong Sun\"",
+          "location": "Beijing, China"
+        },
+        "Commitor": {
+          "name": "\"Zesong Sun\"",
+          "location": "Beijing, China"
+        },
+        "Date": "2019-09-26T02:06:37Z",
+        "additions": 13,
+        "deletions": 30,
+        "files": [
+          "d99db4dcdeb05d70cc73ef840900151b5d6a779d",
+          "d4204bf553cce5daaec089262e10b88115236658",
+          "6cbe6ee8ec33b36de23f3aaa6f076f43adbc0fce",
+          "4b9cbb7092cb7070099df2ff9b42c7c2d554664c"
+        ]
+      }
+    ]
+  }
+]

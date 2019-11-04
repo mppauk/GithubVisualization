@@ -1,0 +1,1035 @@
+[
+  {
+    "RepositoryName": "kylin",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T05:46:49Z",
+    "EndDate": "2019-09-24T06:46:49",
+    "Branches": 24,
+    "Forks": 1063,
+    "Files": [
+      {
+        "Sha": "e4d204f93e9db45b447d0eebc47643197232367a",
+        "FileName": "kylin-server-log4j.properties",
+        "Path": "build/conf/kylin-server-log4j.properties",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 1,
+        "Deletions": 11,
+        "Commits": [
+          "80384da925e7b284eea461d21754ebc2d7695c66"
+        ]
+      },
+      {
+        "Sha": "94734b3079a3c7e63446f964145e72f2a30aa624",
+        "FileName": "CubeTupleConverter.java",
+        "Path": "core-storage/src/main/java/org/apache/kylin/storage/gtrecord/CubeTupleConverter.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "80384da925e7b284eea461d21754ebc2d7695c66"
+        ]
+      },
+      {
+        "Sha": "731ee0077dc6c0f382626cec3e3037969634e982",
+        "FileName": "TimezoneRewriteVisitor.java",
+        "Path": "query/src/main/java/org/apache/kylin/query/optrule/visitor/TimezoneRewriteVisitor.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 3,
+        "Deletions": 154,
+        "Commits": [
+          "80384da925e7b284eea461d21754ebc2d7695c66",
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "99c464564ce660d6a861579f56fb71a217c60115",
+        "FileName": "TupleFilterVisitorTest.java",
+        "Path": "query/src/test/java/org/apache/kylin/query/relnode/visitor/TupleFilterVisitorTest.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 8,
+        "Deletions": 1,
+        "Commits": [
+          "80384da925e7b284eea461d21754ebc2d7695c66"
+        ]
+      },
+      {
+        "Sha": "9e32f4676608740ef7f8b59ef4ff1732a238f67c",
+        "FileName": "BuildJobSubmitter.java",
+        "Path": "stream-coordinator/src/main/java/org/apache/kylin/stream/coordinator/coordinate/BuildJobSubmitter.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 6,
+        "Deletions": 1,
+        "Commits": [
+          "80384da925e7b284eea461d21754ebc2d7695c66"
+        ]
+      },
+      {
+        "Sha": "7c3c575a8ac706bfe419cf1d0780b755aa83762a",
+        "FileName": "StreamingCoordinator.java",
+        "Path": "stream-coordinator/src/main/java/org/apache/kylin/stream/coordinator/coordinate/StreamingCoordinator.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "80384da925e7b284eea461d21754ebc2d7695c66"
+        ]
+      },
+      {
+        "Sha": "0b3cef9a5f55ac98b25c391c2dd7c3ebbb90c990",
+        "FileName": "kylin-server-log4j.properties",
+        "Path": "build/conf/kylin-server-log4j.properties",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 10,
+        "Deletions": 0,
+        "Commits": [
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "6f73024cdd2b20f9113167cc5e5ba981f09b5a4d",
+        "FileName": "KylinConfigBase.java",
+        "Path": "core-common/src/main/java/org/apache/kylin/common/KylinConfigBase.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "20d62f98ea5d742184f6dd4337b0a7d726389310",
+        "FileName": "AbstractExecutable.java",
+        "Path": "core-job/src/main/java/org/apache/kylin/job/execution/AbstractExecutable.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "7ac7610262ad538fcef1456c2b4bc054ba96b2a8",
+        "FileName": "StreamingCoordinatorService.java",
+        "Path": "server-base/src/main/java/org/apache/kylin/rest/service/StreamingCoordinatorService.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 17,
+        "Deletions": 10,
+        "Commits": [
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "bc075ce39bf7435bdaadfb3c2bd97d18348e7a31",
+        "FileName": "HttpStreamDataSearchClient.java",
+        "Path": "storage-stream/src/main/java/org/apache/kylin/storage/stream/rpc/HttpStreamDataSearchClient.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "77f1268c506471f413fa3675d6ec342130acbf01",
+        "FileName": "Coordinator.java",
+        "Path": "stream-coordinator/src/main/java/org/apache/kylin/stream/coordinator/Coordinator.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "6c8fa1688f4ec9dcbc9a908da617df2eb0887391",
+        "FileName": "CoordinatorClientFactory.java",
+        "Path": "stream-coordinator/src/main/java/org/apache/kylin/stream/coordinator/client/CoordinatorClientFactory.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 14,
+        "Deletions": 3,
+        "Commits": [
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "cf3771b53c49c120d8406e3965e202816f307d76",
+        "FileName": "BuildJobSubmitter.java",
+        "Path": "stream-coordinator/src/main/java/org/apache/kylin/stream/coordinator/coordinate/BuildJobSubmitter.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 459,
+        "Deletions": 0,
+        "Commits": [
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "81b2e8cb61d8f0c11408f7d33ce80f3fe782a1ca",
+        "FileName": "ReceiverClusterManager.java",
+        "Path": "stream-coordinator/src/main/java/org/apache/kylin/stream/coordinator/coordinate/ReceiverClusterManager.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 651,
+        "Deletions": 0,
+        "Commits": [
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "13f72e66355446ca7c87cda65510df7875697108",
+        "FileName": "SegmentJobBuildInfo.java",
+        "Path": "stream-coordinator/src/main/java/org/apache/kylin/stream/coordinator/coordinate/SegmentJobBuildInfo.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 73,
+        "Deletions": 0,
+        "Commits": [
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "875a4d7441115618b4a18f0a79e13cb33d5328eb",
+        "FileName": "StreamingCoordinator.java",
+        "Path": "stream-coordinator/src/main/java/org/apache/kylin/stream/coordinator/coordinate/StreamingCoordinator.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 643,
+        "Deletions": 0,
+        "Commits": [
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "0d63ac7dfc54901f4368548734ac8dc5f94f7cbd",
+        "FileName": "NonSideEffect.java",
+        "Path": "stream-coordinator/src/main/java/org/apache/kylin/stream/coordinator/coordinate/annotations/NonSideEffect.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 41,
+        "Deletions": 0,
+        "Commits": [
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "e14d7d2b3c085d5fced97c2ecdc50d3c4259d8f8",
+        "FileName": "NotAtomicAndNotIdempotent.java",
+        "Path": "stream-coordinator/src/main/java/org/apache/kylin/stream/coordinator/coordinate/annotations/NotAtomicAndNotIdempotent.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 45,
+        "Deletions": 0,
+        "Commits": [
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "224ef7059da224f8584fd7c0daa293a5449e8901",
+        "FileName": "NotAtomicIdempotent.java",
+        "Path": "stream-coordinator/src/main/java/org/apache/kylin/stream/coordinator/coordinate/annotations/NotAtomicIdempotent.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 42,
+        "Deletions": 0,
+        "Commits": [
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "f06e7efc289a9c05390e63416e34a0cc220aed8f",
+        "FileName": "ClusterDoctor.java",
+        "Path": "stream-coordinator/src/main/java/org/apache/kylin/stream/coordinator/doctor/ClusterDoctor.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 33,
+        "Deletions": 0,
+        "Commits": [
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "2c4fce2436112531042b0311215508bc7d381d89",
+        "FileName": "ClusterStateChecker.java",
+        "Path": "stream-coordinator/src/main/java/org/apache/kylin/stream/coordinator/doctor/ClusterStateChecker.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 34,
+        "Deletions": 0,
+        "Commits": [
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "105344a21bd9933319d37efacb4d034a6e96e48c",
+        "FileName": "ClusterStateException.java",
+        "Path": "stream-coordinator/src/main/java/org/apache/kylin/stream/coordinator/exception/ClusterStateException.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 5,
+        "Deletions": 1,
+        "Commits": [
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "9b283558257bad520e14fc4d439dcf6e515163f4",
+        "FileName": "CoordinateException.java",
+        "Path": "stream-coordinator/src/main/java/org/apache/kylin/stream/coordinator/exception/CoordinateException.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "8ba032ac4092b64cda09667bd1c7c123f82ae603",
+        "FileName": "NotLeadCoordinatorException.java",
+        "Path": "stream-coordinator/src/main/java/org/apache/kylin/stream/coordinator/exception/NotLeadCoordinatorException.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "a38aa9197c44cecb97838b7e174f6c3df0d27650",
+        "FileName": "StoreException.java",
+        "Path": "stream-coordinator/src/main/java/org/apache/kylin/stream/coordinator/exception/StoreException.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "abea109b1351817f9404074caf9c76a575f46414",
+        "FileName": "log4j.properties",
+        "Path": "stream-coordinator/src/main/resources/log4j.properties",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 24,
+        "Deletions": 0,
+        "Commits": [
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "95a0f055f82dff8a1453ff9f44de7b5721e80c6b",
+        "FileName": "BuildJobSubmitterTest.java",
+        "Path": "stream-coordinator/src/test/java/org/apache/kylin/stream/coordinator/coordinate/BuildJobSubmitterTest.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 194,
+        "Deletions": 0,
+        "Commits": [
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "5308d793a3727ceef206f5311686e1cd91258bfb",
+        "FileName": "StreamingTestBase.java",
+        "Path": "stream-coordinator/src/test/java/org/apache/kylin/stream/coordinator/coordinate/StreamingTestBase.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 335,
+        "Deletions": 0,
+        "Commits": [
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "b4b4123407f8de1a80d46dac2cd2daa754285a71",
+        "FileName": "StreamingServer.java",
+        "Path": "stream-receiver/src/main/java/org/apache/kylin/stream/server/StreamingServer.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 6,
+        "Deletions": 4,
+        "Commits": [
+          "e8ad658fcd43c650a7545c0d6946fdcd114460dc"
+        ]
+      },
+      {
+        "Sha": "36509135491d7014247b7b3c012fca7f3a7c81fd",
+        "FileName": "CubeManager.java",
+        "Path": "core-cube/src/main/java/org/apache/kylin/cube/CubeManager.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a6fc3e7e22bf335f868ad3533aae65b602a9ea94"
+        ]
+      },
+      {
+        "Sha": "3dd78595eb8d7885e14f9ecda9999634254c0a50",
+        "FileName": "StreamingCubingEngine.java",
+        "Path": "engine-mr/src/main/java/org/apache/kylin/engine/mr/StreamingCubingEngine.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "a6fc3e7e22bf335f868ad3533aae65b602a9ea94"
+        ]
+      },
+      {
+        "Sha": "e1f737e1d70b0e816dec8b1854cd41e254c4266e",
+        "FileName": "StreamingCoordinatorController.java",
+        "Path": "server-base/src/main/java/org/apache/kylin/rest/controller/StreamingCoordinatorController.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 6,
+        "Deletions": 2,
+        "Commits": [
+          "a6fc3e7e22bf335f868ad3533aae65b602a9ea94"
+        ]
+      },
+      {
+        "Sha": "dc6f8d3e296524b3fa192fa9538b654056b7a3c2",
+        "FileName": "StreamingV2Service.java",
+        "Path": "server-base/src/main/java/org/apache/kylin/rest/service/StreamingV2Service.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 16,
+        "Deletions": 24,
+        "Commits": [
+          "a6fc3e7e22bf335f868ad3533aae65b602a9ea94"
+        ]
+      },
+      {
+        "Sha": "309bee923918fee61b0b1d640d6b1bea0327ce2f",
+        "FileName": "StreamMetadataStore.java",
+        "Path": "stream-coordinator/src/main/java/org/apache/kylin/stream/coordinator/StreamMetadataStore.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 6,
+        "Deletions": 5,
+        "Commits": [
+          "a6fc3e7e22bf335f868ad3533aae65b602a9ea94"
+        ]
+      },
+      {
+        "Sha": "4431b4c0feabbeb3208acb6fc92e4349baa3ddb9",
+        "FileName": "ZookeeperStreamMetadataStore.java",
+        "Path": "stream-coordinator/src/main/java/org/apache/kylin/stream/coordinator/ZookeeperStreamMetadataStore.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 33,
+        "Deletions": 33,
+        "Commits": [
+          "a6fc3e7e22bf335f868ad3533aae65b602a9ea94"
+        ]
+      },
+      {
+        "Sha": "476abfb12f75708442a65078d4d53d0432c5315b",
+        "FileName": "CoordinatorClient.java",
+        "Path": "stream-coordinator/src/main/java/org/apache/kylin/stream/coordinator/client/CoordinatorClient.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 15,
+        "Deletions": 0,
+        "Commits": [
+          "a6fc3e7e22bf335f868ad3533aae65b602a9ea94"
+        ]
+      },
+      {
+        "Sha": "b040691158bbde0eb7a3206e38af42427c4c48a8",
+        "FileName": "ReceiverAdminClient.java",
+        "Path": "stream-core/src/main/java/org/apache/kylin/stream/core/client/ReceiverAdminClient.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 76,
+        "Deletions": 0,
+        "Commits": [
+          "a6fc3e7e22bf335f868ad3533aae65b602a9ea94"
+        ]
+      },
+      {
+        "Sha": "256b5191482ce43fe6d5df63ca5188fa5070c9be",
+        "FileName": "StreamingConsumerChannel.java",
+        "Path": "stream-core/src/main/java/org/apache/kylin/stream/core/consumer/StreamingConsumerChannel.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 12,
+        "Deletions": 0,
+        "Commits": [
+          "a6fc3e7e22bf335f868ad3533aae65b602a9ea94"
+        ]
+      },
+      {
+        "Sha": "b28efd9dd134914199a03c0522a9f39c70a7a751",
+        "FileName": "SegmentBuildState.java",
+        "Path": "stream-core/src/main/java/org/apache/kylin/stream/core/model/SegmentBuildState.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a6fc3e7e22bf335f868ad3533aae65b602a9ea94"
+        ]
+      },
+      {
+        "Sha": "9fa277fcca2a6b4755f15f9e6a4a2c3a26fcc547",
+        "FileName": "ClusterState.java",
+        "Path": "stream-core/src/main/java/org/apache/kylin/stream/core/model/stats/ClusterState.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "a6fc3e7e22bf335f868ad3533aae65b602a9ea94"
+        ]
+      },
+      {
+        "Sha": "933aeae7b51654a51ccaf5012efeda823002c3d3",
+        "FileName": "ReplicaSetState.java",
+        "Path": "stream-core/src/main/java/org/apache/kylin/stream/core/model/stats/ReplicaSetState.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "a6fc3e7e22bf335f868ad3533aae65b602a9ea94"
+        ]
+      },
+      {
+        "Sha": "5982065d3945debe699084080bd175e8623aced9",
+        "FileName": "ColumnarSegmentStore.java",
+        "Path": "stream-core/src/main/java/org/apache/kylin/stream/core/storage/columnar/ColumnarSegmentStore.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a6fc3e7e22bf335f868ad3533aae65b602a9ea94"
+        ]
+      },
+      {
+        "Sha": "aa5f8278036dd20198b0a7d30811b866a45acbdb",
+        "FileName": "ColumnarStoreCache.java",
+        "Path": "stream-core/src/main/java/org/apache/kylin/stream/core/storage/columnar/ColumnarStoreCache.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 13,
+        "Deletions": 3,
+        "Commits": [
+          "a6fc3e7e22bf335f868ad3533aae65b602a9ea94"
+        ]
+      },
+      {
+        "Sha": "7a1604475498c9a562830f62aed0e6ab71fc8c65",
+        "FileName": "StreamingServer.java",
+        "Path": "stream-receiver/src/main/java/org/apache/kylin/stream/server/StreamingServer.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 0,
+        "Deletions": 2,
+        "Commits": [
+          "a6fc3e7e22bf335f868ad3533aae65b602a9ea94"
+        ]
+      },
+      {
+        "Sha": "80b1170b0ffbd74e9aa30ac5299c513d2282ffda",
+        "FileName": "AdminController.java",
+        "Path": "stream-receiver/src/main/java/org/apache/kylin/stream/server/rest/controller/AdminController.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 8,
+        "Deletions": 2,
+        "Commits": [
+          "a6fc3e7e22bf335f868ad3533aae65b602a9ea94"
+        ]
+      },
+      {
+        "Sha": "a0a1d38d7754c85969d98fa22ebcb53d718f4c0f",
+        "FileName": "KylinConfigBase.java",
+        "Path": "core-common/src/main/java/org/apache/kylin/common/KylinConfigBase.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "4f3d8e70124349b121e920b93a0683303014ef11"
+        ]
+      },
+      {
+        "Sha": "4cd1dcdfe6d1cfcdaf42157fb86911753e1f8253",
+        "FileName": "pom.xml",
+        "Path": "stream-core/pom.xml",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "4f3d8e70124349b121e920b93a0683303014ef11"
+        ]
+      },
+      {
+        "Sha": "f84ea0c8f55f97eeda2973adf816bf1fde96cc3f",
+        "FileName": "LocalDictionaryStore.java",
+        "Path": "stream-core/src/main/java/org/apache/kylin/stream/core/dict/LocalDictionaryStore.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 144,
+        "Deletions": 0,
+        "Commits": [
+          "4f3d8e70124349b121e920b93a0683303014ef11"
+        ]
+      },
+      {
+        "Sha": "0d65090db7c2288f3ccb7beb940872eac8965653",
+        "FileName": "RemoteDictionaryStore.java",
+        "Path": "stream-core/src/main/java/org/apache/kylin/stream/core/dict/RemoteDictionaryStore.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 215,
+        "Deletions": 0,
+        "Commits": [
+          "4f3d8e70124349b121e920b93a0683303014ef11"
+        ]
+      },
+      {
+        "Sha": "c9d44120c8db406163a77d41c6f674b9515bff46",
+        "FileName": "StreamingDictionaryClient.java",
+        "Path": "stream-core/src/main/java/org/apache/kylin/stream/core/dict/StreamingDictionaryClient.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 216,
+        "Deletions": 0,
+        "Commits": [
+          "4f3d8e70124349b121e920b93a0683303014ef11"
+        ]
+      },
+      {
+        "Sha": "8b4eca73a6bdc47ec0844bd1d81f44299adae704",
+        "FileName": "StreamingDistributedDictionary.java",
+        "Path": "stream-core/src/main/java/org/apache/kylin/stream/core/dict/StreamingDistributedDictionary.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 91,
+        "Deletions": 0,
+        "Commits": [
+          "4f3d8e70124349b121e920b93a0683303014ef11"
+        ]
+      },
+      {
+        "Sha": "adc49a5e8349c297b6d96bdaa83fb13d3a3a3048",
+        "FileName": "IStreamingSegmentStore.java",
+        "Path": "stream-core/src/main/java/org/apache/kylin/stream/core/storage/IStreamingSegmentStore.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "4f3d8e70124349b121e920b93a0683303014ef11"
+        ]
+      },
+      {
+        "Sha": "580e0547de50feea91eb646f4faf06c5ebb03806",
+        "FileName": "StreamingSegmentManager.java",
+        "Path": "stream-core/src/main/java/org/apache/kylin/stream/core/storage/StreamingSegmentManager.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 44,
+        "Deletions": 1,
+        "Commits": [
+          "4f3d8e70124349b121e920b93a0683303014ef11"
+        ]
+      },
+      {
+        "Sha": "14a92f7b454edba29498409bad2a0bf12246ad5c",
+        "FileName": "ColumnarSegmentStore.java",
+        "Path": "stream-core/src/main/java/org/apache/kylin/stream/core/storage/columnar/ColumnarSegmentStore.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 12,
+        "Deletions": 0,
+        "Commits": [
+          "4f3d8e70124349b121e920b93a0683303014ef11"
+        ]
+      },
+      {
+        "Sha": "243fd05ada53721dc9eaaaf74e3ee5223606c4ed",
+        "FileName": "SegmentMemoryStore.java",
+        "Path": "stream-core/src/main/java/org/apache/kylin/stream/core/storage/columnar/SegmentMemoryStore.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 8,
+        "Deletions": 4,
+        "Commits": [
+          "4f3d8e70124349b121e920b93a0683303014ef11"
+        ]
+      },
+      {
+        "Sha": "95630c6823f0e0398257e0029ca19968d40d07cd",
+        "FileName": "StreamingServer.java",
+        "Path": "stream-receiver/src/main/java/org/apache/kylin/stream/server/StreamingServer.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "4f3d8e70124349b121e920b93a0683303014ef11"
+        ]
+      },
+      {
+        "Sha": "9d6dc41affebd1a1b519362fc6aebda0e6044912",
+        "FileName": "KylinConfigBase.java",
+        "Path": "core-common/src/main/java/org/apache/kylin/common/KylinConfigBase.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "92273d469511d32c5291f8b856ed0f4fba98b5e6"
+        ]
+      },
+      {
+        "Sha": "01953e7ad1be710e38e8edaf92c1c5e67a4804cb",
+        "FileName": "TimeDerivedColumnType.java",
+        "Path": "core-metadata/src/main/java/org/apache/kylin/dimension/TimeDerivedColumnType.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "92273d469511d32c5291f8b856ed0f4fba98b5e6"
+        ]
+      },
+      {
+        "Sha": "15f57af64fd12ab9a530d21258e592b080d6591e",
+        "FileName": "TimeDerivedColumnTypeTest.java",
+        "Path": "core-metadata/src/test/java/org/apache/kylin/dimension/TimeDerivedColumnTypeTest.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "92273d469511d32c5291f8b856ed0f4fba98b5e6"
+        ]
+      },
+      {
+        "Sha": "2e04daaebf178662f71fad16b5553decde3bc6e7",
+        "FileName": "CubeTupleConverter.java",
+        "Path": "core-storage/src/main/java/org/apache/kylin/storage/gtrecord/CubeTupleConverter.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 30,
+        "Deletions": 2,
+        "Commits": [
+          "92273d469511d32c5291f8b856ed0f4fba98b5e6"
+        ]
+      },
+      {
+        "Sha": "cb75b34705911cc974bb319a5a1a65727f201046",
+        "FileName": "TimezoneRewriteVisitor.java",
+        "Path": "query/src/main/java/org/apache/kylin/query/optrule/visitor/TimezoneRewriteVisitor.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 151,
+        "Deletions": 0,
+        "Commits": [
+          "92273d469511d32c5291f8b856ed0f4fba98b5e6"
+        ]
+      },
+      {
+        "Sha": "3a76be6038d325c32e44418053aad08552300717",
+        "FileName": "OLAPFilterRel.java",
+        "Path": "query/src/main/java/org/apache/kylin/query/relnode/OLAPFilterRel.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "92273d469511d32c5291f8b856ed0f4fba98b5e6"
+        ]
+      },
+      {
+        "Sha": "3e07ecad52aa80a5b61cff61bd1dcfc858b62da9",
+        "FileName": "TupleFilterVisitor.java",
+        "Path": "query/src/main/java/org/apache/kylin/query/relnode/visitor/TupleFilterVisitor.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 21,
+        "Deletions": 3,
+        "Commits": [
+          "92273d469511d32c5291f8b856ed0f4fba98b5e6"
+        ]
+      },
+      {
+        "Sha": "98b4f4b37375d4ba2c55bc76d0bf0773e24d6679",
+        "FileName": "StreamingDataQueryPlanner.java",
+        "Path": "stream-core/src/main/java/org/apache/kylin/stream/core/query/StreamingDataQueryPlanner.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "92273d469511d32c5291f8b856ed0f4fba98b5e6"
+        ]
+      },
+      {
+        "Sha": "110cc8e79ea71b98a7c206209c8397636faeb41e",
+        "FileName": "StreamingTupleConverter.java",
+        "Path": "stream-core/src/main/java/org/apache/kylin/stream/core/query/StreamingTupleConverter.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 26,
+        "Deletions": 3,
+        "Commits": [
+          "92273d469511d32c5291f8b856ed0f4fba98b5e6"
+        ]
+      },
+      {
+        "Sha": "fa9b9ab9d9efb9b059758013cf1c4333a6456a64",
+        "FileName": "StreamingSegmentManager.java",
+        "Path": "stream-core/src/main/java/org/apache/kylin/stream/core/storage/StreamingSegmentManager.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 10,
+        "Deletions": 6,
+        "Commits": [
+          "92273d469511d32c5291f8b856ed0f4fba98b5e6"
+        ]
+      },
+      {
+        "Sha": "0406ecb0746fc60c55a5efe307aecf1164051f3f",
+        "FileName": "ColumnarStoreDimDesc.java",
+        "Path": "stream-core/src/main/java/org/apache/kylin/stream/core/storage/columnar/ColumnarStoreDimDesc.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "92273d469511d32c5291f8b856ed0f4fba98b5e6"
+        ]
+      },
+      {
+        "Sha": "9b0a912537e540d62429933771e2805a15e5ca7f",
+        "FileName": "FragmentFileSearcher.java",
+        "Path": "stream-core/src/main/java/org/apache/kylin/stream/core/storage/columnar/FragmentFileSearcher.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 359,
+        "Deletions": 359,
+        "Commits": [
+          "92273d469511d32c5291f8b856ed0f4fba98b5e6"
+        ]
+      },
+      {
+        "Sha": "22025fff088cb6b9bb6f00fa7c818323661d4552",
+        "FileName": "TimeDerivedColumnEncoding.java",
+        "Path": "stream-core/src/main/java/org/apache/kylin/stream/core/storage/columnar/TimeDerivedColumnEncoding.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "92273d469511d32c5291f8b856ed0f4fba98b5e6"
+        ]
+      },
+      {
+        "Sha": "c01459dbc5c359068e417d024d3a872dbdf38752",
+        "FileName": "CompareFilterTimeRangeChecker.java",
+        "Path": "stream-core/src/main/java/org/apache/kylin/stream/core/util/CompareFilterTimeRangeChecker.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "92273d469511d32c5291f8b856ed0f4fba98b5e6"
+        ]
+      },
+      {
+        "Sha": "408a5e7a20ee61d5eccec05033d70dcadb108e70",
+        "FileName": "StreamingServer.java",
+        "Path": "stream-receiver/src/main/java/org/apache/kylin/stream/server/StreamingServer.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 4,
+        "Deletions": 2,
+        "Commits": [
+          "92273d469511d32c5291f8b856ed0f4fba98b5e6"
+        ]
+      },
+      {
+        "Sha": "809844c49accbffeb4b50050c838a517d9e29f31",
+        "FileName": "TimedJsonStreamParser.java",
+        "Path": "stream-source-kafka/src/main/java/org/apache/kylin/stream/source/kafka/TimedJsonStreamParser.java",
+        "DateUpdated": "2019-09-24T05:50:36Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "92273d469511d32c5291f8b856ed0f4fba98b5e6"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "80384da925e7b284eea461d21754ebc2d7695c66",
+        "Author": {
+          "name": "\"Xiaoxiang Yu\"",
+          "location": "Shanghai, China",
+          "company": "@Kyligence "
+        },
+        "Commitor": {
+          "name": "\"Ni Chunen\"",
+          "location": "Shanghai",
+          "company": "Kyligence"
+        },
+        "Date": "2019-09-24T05:50:36Z",
+        "additions": 18,
+        "deletions": 167,
+        "files": [
+          "e4d204f93e9db45b447d0eebc47643197232367a",
+          "94734b3079a3c7e63446f964145e72f2a30aa624",
+          "731ee0077dc6c0f382626cec3e3037969634e982",
+          "99c464564ce660d6a861579f56fb71a217c60115",
+          "9e32f4676608740ef7f8b59ef4ff1732a238f67c",
+          "7c3c575a8ac706bfe419cf1d0780b755aa83762a"
+        ]
+      },
+      {
+        "sha": "e8ad658fcd43c650a7545c0d6946fdcd114460dc",
+        "Author": {
+          "name": "\"Xiaoxiang Yu\"",
+          "location": "Shanghai, China",
+          "company": "@Kyligence "
+        },
+        "Commitor": {
+          "name": "\"Ni Chunen\"",
+          "location": "Shanghai",
+          "company": "Kyligence"
+        },
+        "Date": "2019-09-24T05:50:36Z",
+        "additions": 2645,
+        "deletions": 25,
+        "files": [
+          "0b3cef9a5f55ac98b25c391c2dd7c3ebbb90c990",
+          "6f73024cdd2b20f9113167cc5e5ba981f09b5a4d",
+          "20d62f98ea5d742184f6dd4337b0a7d726389310",
+          "731ee0077dc6c0f382626cec3e3037969634e982",
+          "7ac7610262ad538fcef1456c2b4bc054ba96b2a8",
+          "bc075ce39bf7435bdaadfb3c2bd97d18348e7a31",
+          "77f1268c506471f413fa3675d6ec342130acbf01",
+          "6c8fa1688f4ec9dcbc9a908da617df2eb0887391",
+          "cf3771b53c49c120d8406e3965e202816f307d76",
+          "81b2e8cb61d8f0c11408f7d33ce80f3fe782a1ca",
+          "13f72e66355446ca7c87cda65510df7875697108",
+          "875a4d7441115618b4a18f0a79e13cb33d5328eb",
+          "0d63ac7dfc54901f4368548734ac8dc5f94f7cbd",
+          "e14d7d2b3c085d5fced97c2ecdc50d3c4259d8f8",
+          "224ef7059da224f8584fd7c0daa293a5449e8901",
+          "f06e7efc289a9c05390e63416e34a0cc220aed8f",
+          "2c4fce2436112531042b0311215508bc7d381d89",
+          "105344a21bd9933319d37efacb4d034a6e96e48c",
+          "9b283558257bad520e14fc4d439dcf6e515163f4",
+          "8ba032ac4092b64cda09667bd1c7c123f82ae603",
+          "a38aa9197c44cecb97838b7e174f6c3df0d27650",
+          "abea109b1351817f9404074caf9c76a575f46414",
+          "95a0f055f82dff8a1453ff9f44de7b5721e80c6b",
+          "5308d793a3727ceef206f5311686e1cd91258bfb",
+          "b4b4123407f8de1a80d46dac2cd2daa754285a71"
+        ]
+      },
+      {
+        "sha": "a6fc3e7e22bf335f868ad3533aae65b602a9ea94",
+        "Author": {
+          "name": "\"Xiaoxiang Yu\"",
+          "location": "Shanghai, China",
+          "company": "@Kyligence "
+        },
+        "Commitor": {
+          "name": "\"Ni Chunen\"",
+          "location": "Shanghai",
+          "company": "Kyligence"
+        },
+        "Date": "2019-09-24T05:50:36Z",
+        "additions": 203,
+        "deletions": 75,
+        "files": [
+          "36509135491d7014247b7b3c012fca7f3a7c81fd",
+          "3dd78595eb8d7885e14f9ecda9999634254c0a50",
+          "e1f737e1d70b0e816dec8b1854cd41e254c4266e",
+          "dc6f8d3e296524b3fa192fa9538b654056b7a3c2",
+          "309bee923918fee61b0b1d640d6b1bea0327ce2f",
+          "4431b4c0feabbeb3208acb6fc92e4349baa3ddb9",
+          "476abfb12f75708442a65078d4d53d0432c5315b",
+          "b040691158bbde0eb7a3206e38af42427c4c48a8",
+          "256b5191482ce43fe6d5df63ca5188fa5070c9be",
+          "b28efd9dd134914199a03c0522a9f39c70a7a751",
+          "9fa277fcca2a6b4755f15f9e6a4a2c3a26fcc547",
+          "933aeae7b51654a51ccaf5012efeda823002c3d3",
+          "5982065d3945debe699084080bd175e8623aced9",
+          "aa5f8278036dd20198b0a7d30811b866a45acbdb",
+          "7a1604475498c9a562830f62aed0e6ab71fc8c65",
+          "80b1170b0ffbd74e9aa30ac5299c513d2282ffda"
+        ]
+      },
+      {
+        "sha": "4f3d8e70124349b121e920b93a0683303014ef11",
+        "Author": {
+          "name": "\"Xiaoxiang Yu\"",
+          "location": "Shanghai, China",
+          "company": "@Kyligence "
+        },
+        "Commitor": {
+          "name": "\"Ni Chunen\"",
+          "location": "Shanghai",
+          "company": "Kyligence"
+        },
+        "Date": "2019-09-24T05:50:36Z",
+        "additions": 748,
+        "deletions": 5,
+        "files": [
+          "a0a1d38d7754c85969d98fa22ebcb53d718f4c0f",
+          "4cd1dcdfe6d1cfcdaf42157fb86911753e1f8253",
+          "f84ea0c8f55f97eeda2973adf816bf1fde96cc3f",
+          "0d65090db7c2288f3ccb7beb940872eac8965653",
+          "c9d44120c8db406163a77d41c6f674b9515bff46",
+          "8b4eca73a6bdc47ec0844bd1d81f44299adae704",
+          "adc49a5e8349c297b6d96bdaa83fb13d3a3a3048",
+          "580e0547de50feea91eb646f4faf06c5ebb03806",
+          "14a92f7b454edba29498409bad2a0bf12246ad5c",
+          "243fd05ada53721dc9eaaaf74e3ee5223606c4ed",
+          "95630c6823f0e0398257e0029ca19968d40d07cd"
+        ]
+      },
+      {
+        "sha": "92273d469511d32c5291f8b856ed0f4fba98b5e6",
+        "Author": {
+          "name": "\"Xiaoxiang Yu\"",
+          "location": "Shanghai, China",
+          "company": "@Kyligence "
+        },
+        "Commitor": {
+          "name": "\"Ni Chunen\"",
+          "location": "Shanghai",
+          "company": "Kyligence"
+        },
+        "Date": "2019-09-24T05:50:36Z",
+        "additions": 620,
+        "deletions": 381,
+        "files": [
+          "9d6dc41affebd1a1b519362fc6aebda0e6044912",
+          "01953e7ad1be710e38e8edaf92c1c5e67a4804cb",
+          "15f57af64fd12ab9a530d21258e592b080d6591e",
+          "2e04daaebf178662f71fad16b5553decde3bc6e7",
+          "cb75b34705911cc974bb319a5a1a65727f201046",
+          "3a76be6038d325c32e44418053aad08552300717",
+          "3e07ecad52aa80a5b61cff61bd1dcfc858b62da9",
+          "98b4f4b37375d4ba2c55bc76d0bf0773e24d6679",
+          "110cc8e79ea71b98a7c206209c8397636faeb41e",
+          "fa9b9ab9d9efb9b059758013cf1c4333a6456a64",
+          "0406ecb0746fc60c55a5efe307aecf1164051f3f",
+          "9b0a912537e540d62429933771e2805a15e5ca7f",
+          "22025fff088cb6b9bb6f00fa7c818323661d4552",
+          "c01459dbc5c359068e417d024d3a872dbdf38752",
+          "408a5e7a20ee61d5eccec05033d70dcadb108e70",
+          "809844c49accbffeb4b50050c838a517d9e29f31"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "kylin",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T08:47:23Z",
+    "EndDate": "2019-09-24T09:47:23",
+    "Branches": 24,
+    "Forks": 1064,
+    "Files": [
+      {
+        "Sha": "433c3b6532ba5b54f03f8b0b5b3ba8ca3e550869",
+        "FileName": "badQuery.js",
+        "Path": "webapp/app/js/controllers/badQuery.js",
+        "DateUpdated": "2019-09-24T09:46:44Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "75c90df928d921808201b172f14c42cc91eeae02"
+        ]
+      },
+      {
+        "Sha": "99f5c3b8f881e283dba3a8305ea2a0abb793820f",
+        "FileName": "job.js",
+        "Path": "webapp/app/js/controllers/job.js",
+        "DateUpdated": "2019-09-24T09:46:44Z",
+        "Additions": 1,
+        "Deletions": 3,
+        "Commits": [
+          "75c90df928d921808201b172f14c42cc91eeae02"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "75c90df928d921808201b172f14c42cc91eeae02",
+        "Author": {
+          "name": "\"guosheng lu\"",
+          "location": "shanghai"
+        },
+        "Commitor": {
+          "name": "\"Ni Chunen\"",
+          "location": "Shanghai",
+          "company": "Kyligence"
+        },
+        "Date": "2019-09-24T09:46:44Z",
+        "additions": 3,
+        "deletions": 5,
+        "files": [
+          "433c3b6532ba5b54f03f8b0b5b3ba8ca3e550869",
+          "99f5c3b8f881e283dba3a8305ea2a0abb793820f"
+        ]
+      }
+    ]
+  }
+]

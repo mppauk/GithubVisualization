@@ -1,0 +1,258 @@
+[
+  {
+    "RepositoryName": "ignite",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T11:03:33Z",
+    "EndDate": "2019-09-25T12:03:33",
+    "Branches": 357,
+    "Forks": 1335,
+    "Files": [
+      {
+        "Sha": "1a9c0ab832c304f25724a9b25af14bd6d95dbbbe",
+        "FileName": "JdbcMetadataSelfTest.java",
+        "Path": "modules/clients/src/test/java/org/apache/ignite/internal/jdbc2/JdbcMetadataSelfTest.java",
+        "DateUpdated": "2019-09-25T11:12:17Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "b67f2df77b96e05f99a30d1abb8bb4d4d4707fe9"
+        ]
+      },
+      {
+        "Sha": "aa09aa5caa2aa6f2c57a8efe28d9fc8ed0e73b4d",
+        "FileName": "JdbcThinMetadataSelfTest.java",
+        "Path": "modules/clients/src/test/java/org/apache/ignite/jdbc/thin/JdbcThinMetadataSelfTest.java",
+        "DateUpdated": "2019-09-25T11:12:17Z",
+        "Additions": 9,
+        "Deletions": 2,
+        "Commits": [
+          "b67f2df77b96e05f99a30d1abb8bb4d4d4707fe9"
+        ]
+      },
+      {
+        "Sha": "24f56ff373a376caeaccf7106518c6714b5834e7",
+        "FileName": "SystemViewRowAttributeWalkerGenerator.java",
+        "Path": "modules/codegen/src/main/java/org/apache/ignite/codegen/SystemViewRowAttributeWalkerGenerator.java",
+        "DateUpdated": "2019-09-25T11:12:17Z",
+        "Additions": 10,
+        "Deletions": 3,
+        "Commits": [
+          "b67f2df77b96e05f99a30d1abb8bb4d4d4707fe9"
+        ]
+      },
+      {
+        "Sha": "616561d438d10fdd58fe0aa49d88bee9744cde5b",
+        "FileName": "ProtocolVersion.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/client/thin/ProtocolVersion.java",
+        "DateUpdated": "2019-09-25T11:12:17Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "b67f2df77b96e05f99a30d1abb8bb4d4d4707fe9"
+        ]
+      },
+      {
+        "Sha": "e31c614b76578cb4f6682062347c429d1361e914",
+        "FileName": "TcpClientChannel.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/client/thin/TcpClientChannel.java",
+        "DateUpdated": "2019-09-25T11:12:17Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "b67f2df77b96e05f99a30d1abb8bb4d4d4707fe9"
+        ]
+      },
+      {
+        "Sha": "ab6b218bc9dc406881e1325f25355e96465f7ba8",
+        "FileName": "GridSystemViewManager.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/managers/systemview/GridSystemViewManager.java",
+        "DateUpdated": "2019-09-25T11:12:17Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "b67f2df77b96e05f99a30d1abb8bb4d4d4707fe9"
+        ]
+      },
+      {
+        "Sha": "b8b26444063f7d5fd49fcb17c1a640971b770231",
+        "FileName": "ClientConnectionViewWalker.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/managers/systemview/walker/ClientConnectionViewWalker.java",
+        "DateUpdated": "2019-09-25T11:12:17Z",
+        "Additions": 55,
+        "Deletions": 0,
+        "Commits": [
+          "b67f2df77b96e05f99a30d1abb8bb4d4d4707fe9"
+        ]
+      },
+      {
+        "Sha": "925df8ff172a30c11de3d482cdff01cc86365e69",
+        "FileName": "ClientListenerAbstractConnectionContext.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/odbc/ClientListenerAbstractConnectionContext.java",
+        "DateUpdated": "2019-09-25T11:12:17Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "b67f2df77b96e05f99a30d1abb8bb4d4d4707fe9"
+        ]
+      },
+      {
+        "Sha": "fda0671804e6251ac1735277ef56e58d2f93657e",
+        "FileName": "ClientListenerProcessor.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/odbc/ClientListenerProcessor.java",
+        "DateUpdated": "2019-09-25T11:12:17Z",
+        "Additions": 13,
+        "Deletions": 0,
+        "Commits": [
+          "b67f2df77b96e05f99a30d1abb8bb4d4d4707fe9"
+        ]
+      },
+      {
+        "Sha": "b1040eeb49e648081234d0943ac1dd043441c7bd",
+        "FileName": "ClientListenerProtocolVersion.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/odbc/ClientListenerProtocolVersion.java",
+        "DateUpdated": "2019-09-25T11:12:17Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "b67f2df77b96e05f99a30d1abb8bb4d4d4707fe9"
+        ]
+      },
+      {
+        "Sha": "dc89f78c9e86341cc4dafe994b224c4199183ea5",
+        "FileName": "ClientListenerRequestHandler.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/odbc/ClientListenerRequestHandler.java",
+        "DateUpdated": "2019-09-25T11:12:17Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "b67f2df77b96e05f99a30d1abb8bb4d4d4707fe9"
+        ]
+      },
+      {
+        "Sha": "6f4a7578354615f5d6c0c902fe6eb95fc570e6e6",
+        "FileName": "JdbcConnectionContext.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/odbc/jdbc/JdbcConnectionContext.java",
+        "DateUpdated": "2019-09-25T11:12:17Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b67f2df77b96e05f99a30d1abb8bb4d4d4707fe9"
+        ]
+      },
+      {
+        "Sha": "04909d0b2e90a471b04b3d7ef677b2c5a0b3dad1",
+        "FileName": "JdbcRequestHandler.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/odbc/jdbc/JdbcRequestHandler.java",
+        "DateUpdated": "2019-09-25T11:12:17Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "b67f2df77b96e05f99a30d1abb8bb4d4d4707fe9"
+        ]
+      },
+      {
+        "Sha": "887ee2e91492bfa140def9f2621adceeb4cc5b6c",
+        "FileName": "OdbcRequestHandler.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/odbc/odbc/OdbcRequestHandler.java",
+        "DateUpdated": "2019-09-25T11:12:17Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "b67f2df77b96e05f99a30d1abb8bb4d4d4707fe9"
+        ]
+      },
+      {
+        "Sha": "11714ef5edd41a12c7d70bd7e25a665d702a8f55",
+        "FileName": "ClientRequestHandler.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/internal/processors/platform/client/ClientRequestHandler.java",
+        "DateUpdated": "2019-09-25T11:12:17Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "b67f2df77b96e05f99a30d1abb8bb4d4d4707fe9"
+        ]
+      },
+      {
+        "Sha": "ef30f3c5bb359f800d36b025416e1dd0f9f78a75",
+        "FileName": "ClientConnectionView.java",
+        "Path": "modules/core/src/main/java/org/apache/ignite/spi/systemview/view/ClientConnectionView.java",
+        "DateUpdated": "2019-09-25T11:12:17Z",
+        "Additions": 107,
+        "Deletions": 0,
+        "Commits": [
+          "b67f2df77b96e05f99a30d1abb8bb4d4d4707fe9"
+        ]
+      },
+      {
+        "Sha": "c7254fdc3d2517ad5b0d1feec7adb18cdf2f2fdd",
+        "FileName": "JmxExporterSpiTest.java",
+        "Path": "modules/core/src/test/java/org/apache/ignite/internal/metric/JmxExporterSpiTest.java",
+        "DateUpdated": "2019-09-25T11:12:17Z",
+        "Additions": 58,
+        "Deletions": 0,
+        "Commits": [
+          "b67f2df77b96e05f99a30d1abb8bb4d4d4707fe9"
+        ]
+      },
+      {
+        "Sha": "d9707cd15620f78ff3e3b194bc1c880b98c7afad",
+        "FileName": "SystemViewSelfTest.java",
+        "Path": "modules/core/src/test/java/org/apache/ignite/internal/metric/SystemViewSelfTest.java",
+        "DateUpdated": "2019-09-25T11:12:17Z",
+        "Additions": 66,
+        "Deletions": 4,
+        "Commits": [
+          "b67f2df77b96e05f99a30d1abb8bb4d4d4707fe9"
+        ]
+      },
+      {
+        "Sha": "00dcf4c68c3617320e631415be1c5a7d0004c14a",
+        "FileName": "SqlViewExporterSpiTest.java",
+        "Path": "modules/indexing/src/test/java/org/apache/ignite/internal/processors/cache/metric/SqlViewExporterSpiTest.java",
+        "DateUpdated": "2019-09-25T11:12:17Z",
+        "Additions": 25,
+        "Deletions": 0,
+        "Commits": [
+          "b67f2df77b96e05f99a30d1abb8bb4d4d4707fe9"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "b67f2df77b96e05f99a30d1abb8bb4d4d4707fe9",
+        "Author": {
+          "name": "\"Nikolay\"",
+          "location": "Moscow",
+          "company": "@Sberbank-Technology "
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T11:12:17Z",
+        "additions": 380,
+        "deletions": 12,
+        "files": [
+          "1a9c0ab832c304f25724a9b25af14bd6d95dbbbe",
+          "aa09aa5caa2aa6f2c57a8efe28d9fc8ed0e73b4d",
+          "24f56ff373a376caeaccf7106518c6714b5834e7",
+          "616561d438d10fdd58fe0aa49d88bee9744cde5b",
+          "e31c614b76578cb4f6682062347c429d1361e914",
+          "ab6b218bc9dc406881e1325f25355e96465f7ba8",
+          "b8b26444063f7d5fd49fcb17c1a640971b770231",
+          "925df8ff172a30c11de3d482cdff01cc86365e69",
+          "fda0671804e6251ac1735277ef56e58d2f93657e",
+          "b1040eeb49e648081234d0943ac1dd043441c7bd",
+          "dc89f78c9e86341cc4dafe994b224c4199183ea5",
+          "6f4a7578354615f5d6c0c902fe6eb95fc570e6e6",
+          "04909d0b2e90a471b04b3d7ef677b2c5a0b3dad1",
+          "887ee2e91492bfa140def9f2621adceeb4cc5b6c",
+          "11714ef5edd41a12c7d70bd7e25a665d702a8f55",
+          "ef30f3c5bb359f800d36b025416e1dd0f9f78a75",
+          "c7254fdc3d2517ad5b0d1feec7adb18cdf2f2fdd",
+          "d9707cd15620f78ff3e3b194bc1c880b98c7afad",
+          "00dcf4c68c3617320e631415be1c5a7d0004c14a"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,214 @@
+[
+  {
+    "RepositoryName": "samza",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T02:46:50Z",
+    "EndDate": "2019-09-25T03:46:50",
+    "Branches": 22,
+    "Forks": 245,
+    "Files": [
+      {
+        "Sha": "23234cdcdf1aa60a859b3d43804e444ef1d2459c",
+        "FileName": "RemoteTableDescriptor.java",
+        "Path": "samza-api/src/main/java/org/apache/samza/table/descriptors/RemoteTableDescriptor.java",
+        "DateUpdated": "2019-09-25T03:13:23Z",
+        "Additions": 6,
+        "Deletions": 2,
+        "Commits": [
+          "48b3c8e6669521f0d333e72bae8f89c5f576e0c1"
+        ]
+      },
+      {
+        "Sha": "adb637ecdb94c6ed9f28f855fdc3af8fb0833bd2",
+        "FileName": "EmbeddedTaggedRateLimiter.java",
+        "Path": "samza-core/src/main/java/org/apache/samza/util/EmbeddedTaggedRateLimiter.java",
+        "DateUpdated": "2019-09-25T03:13:23Z",
+        "Additions": 7,
+        "Deletions": 2,
+        "Commits": [
+          "48b3c8e6669521f0d333e72bae8f89c5f576e0c1"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "48b3c8e6669521f0d333e72bae8f89c5f576e0c1",
+        "Author": {
+          "name": "\"Hai Lu\"",
+          "company": "LinkedIn"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T03:13:23Z",
+        "additions": 13,
+        "deletions": 4,
+        "files": [
+          "23234cdcdf1aa60a859b3d43804e444ef1d2459c",
+          "adb637ecdb94c6ed9f28f855fdc3af8fb0833bd2"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "samza",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T03:03:10Z",
+    "EndDate": "2019-09-25T04:03:10",
+    "Branches": 22,
+    "Forks": 245,
+    "Files": [
+      {
+        "Sha": "23234cdcdf1aa60a859b3d43804e444ef1d2459c",
+        "FileName": "RemoteTableDescriptor.java",
+        "Path": "samza-api/src/main/java/org/apache/samza/table/descriptors/RemoteTableDescriptor.java",
+        "DateUpdated": "2019-09-25T03:13:23Z",
+        "Additions": 6,
+        "Deletions": 2,
+        "Commits": [
+          "48b3c8e6669521f0d333e72bae8f89c5f576e0c1"
+        ]
+      },
+      {
+        "Sha": "adb637ecdb94c6ed9f28f855fdc3af8fb0833bd2",
+        "FileName": "EmbeddedTaggedRateLimiter.java",
+        "Path": "samza-core/src/main/java/org/apache/samza/util/EmbeddedTaggedRateLimiter.java",
+        "DateUpdated": "2019-09-25T03:13:23Z",
+        "Additions": 7,
+        "Deletions": 2,
+        "Commits": [
+          "48b3c8e6669521f0d333e72bae8f89c5f576e0c1"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "48b3c8e6669521f0d333e72bae8f89c5f576e0c1",
+        "Author": {
+          "name": "\"Hai Lu\"",
+          "company": "LinkedIn"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T03:13:23Z",
+        "additions": 13,
+        "deletions": 4,
+        "files": [
+          "23234cdcdf1aa60a859b3d43804e444ef1d2459c",
+          "adb637ecdb94c6ed9f28f855fdc3af8fb0833bd2"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "samza",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T21:03:11Z",
+    "EndDate": "2019-09-25T22:03:11",
+    "Branches": 22,
+    "Forks": 245,
+    "Files": [
+      {
+        "Sha": "efff5724b617a0f719a04ba3a426326b5cc8d807",
+        "FileName": "JobConfig.java",
+        "Path": "samza-core/src/main/java/org/apache/samza/config/JobConfig.java",
+        "DateUpdated": "2019-09-25T21:34:47Z",
+        "Additions": 12,
+        "Deletions": 0,
+        "Commits": [
+          "0effeb62e2da48f9f32906106d288816906ffeaa"
+        ]
+      },
+      {
+        "Sha": "6f930f3867570422998171d68d6b54e4d5607166",
+        "FileName": "CoordinatorStreamConfigFactory.java",
+        "Path": "samza-core/src/main/scala/org/apache/samza/util/CoordinatorStreamConfigFactory.java",
+        "DateUpdated": "2019-09-25T21:34:47Z",
+        "Additions": 38,
+        "Deletions": 0,
+        "Commits": [
+          "0effeb62e2da48f9f32906106d288816906ffeaa"
+        ]
+      },
+      {
+        "Sha": "f6636e7663e0d53dfda63a1aaff4a0047aae9ce3",
+        "FileName": "CoordinatorStreamUtil.scala",
+        "Path": "samza-core/src/main/scala/org/apache/samza/util/CoordinatorStreamUtil.scala",
+        "DateUpdated": "2019-09-25T21:34:47Z",
+        "Additions": 5,
+        "Deletions": 12,
+        "Commits": [
+          "0effeb62e2da48f9f32906106d288816906ffeaa"
+        ]
+      },
+      {
+        "Sha": "f3bf10fabaf77d597bb152a3e54578afb41fd785",
+        "FileName": "DefaultCoordinatorStreamConfigFactory.java",
+        "Path": "samza-core/src/main/scala/org/apache/samza/util/DefaultCoordinatorStreamConfigFactory.java",
+        "DateUpdated": "2019-09-25T21:34:47Z",
+        "Additions": 50,
+        "Deletions": 0,
+        "Commits": [
+          "0effeb62e2da48f9f32906106d288816906ffeaa"
+        ]
+      },
+      {
+        "Sha": "dab0f77ef6a2290e3f396bdf27de119b415b2be2",
+        "FileName": "TestJobConfig.java",
+        "Path": "samza-core/src/test/java/org/apache/samza/config/TestJobConfig.java",
+        "DateUpdated": "2019-09-25T21:34:47Z",
+        "Additions": 9,
+        "Deletions": 0,
+        "Commits": [
+          "0effeb62e2da48f9f32906106d288816906ffeaa"
+        ]
+      },
+      {
+        "Sha": "209dd05a3e308b440d6104d08accbb2c426ced7f",
+        "FileName": "TestDefaultCoordinatorStreamConfigFactory.java",
+        "Path": "samza-core/src/test/java/org/apache/samza/util/TestDefaultCoordinatorStreamConfigFactory.java",
+        "DateUpdated": "2019-09-25T21:34:47Z",
+        "Additions": 69,
+        "Deletions": 0,
+        "Commits": [
+          "0effeb62e2da48f9f32906106d288816906ffeaa"
+        ]
+      },
+      {
+        "Sha": "dac1fe08a82f2d58f13753ce32a76149a61f8a91",
+        "FileName": "TestCoordinatorStreamUtil.scala",
+        "Path": "samza-core/src/test/scala/org/apache/samza/util/TestCoordinatorStreamUtil.scala",
+        "DateUpdated": "2019-09-25T21:34:47Z",
+        "Additions": 16,
+        "Deletions": 0,
+        "Commits": [
+          "0effeb62e2da48f9f32906106d288816906ffeaa"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "0effeb62e2da48f9f32906106d288816906ffeaa",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Cameron Lee\""
+        },
+        "Date": "2019-09-25T21:34:47Z",
+        "additions": 199,
+        "deletions": 12,
+        "files": [
+          "efff5724b617a0f719a04ba3a426326b5cc8d807",
+          "6f930f3867570422998171d68d6b54e4d5607166",
+          "f6636e7663e0d53dfda63a1aaff4a0047aae9ce3",
+          "f3bf10fabaf77d597bb152a3e54578afb41fd785",
+          "dab0f77ef6a2290e3f396bdf27de119b415b2be2",
+          "209dd05a3e308b440d6104d08accbb2c426ced7f",
+          "dac1fe08a82f2d58f13753ce32a76149a61f8a91"
+        ]
+      }
+    ]
+  }
+]

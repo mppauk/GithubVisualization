@@ -1,0 +1,52 @@
+[
+  {
+    "RepositoryName": "incubator-gobblin",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T04:02:57Z",
+    "EndDate": "2019-09-26T05:02:57",
+    "Branches": 14,
+    "Forks": 615,
+    "Files": [
+      {
+        "Sha": "a4082898832c5b65d76c45e6eabfb42b41f3957f",
+        "FileName": "FsDataWriter.java",
+        "Path": "gobblin-core/src/main/java/org/apache/gobblin/writer/FsDataWriter.java",
+        "DateUpdated": "2019-09-26T04:10:51Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "f24b5eaaa141e6b3447c2c7c6664b4a6a5e8028c"
+        ]
+      },
+      {
+        "Sha": "f7b8256c3f30f355a9647293a4a1cfefcc8f21d9",
+        "FileName": "WriterUtils.java",
+        "Path": "gobblin-utility/src/main/java/org/apache/gobblin/util/WriterUtils.java",
+        "DateUpdated": "2019-09-26T04:10:51Z",
+        "Additions": 8,
+        "Deletions": 3,
+        "Commits": [
+          "f24b5eaaa141e6b3447c2c7c6664b4a6a5e8028c"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "f24b5eaaa141e6b3447c2c7c6664b4a6a5e8028c",
+        "Author": {
+          "name": "\"Kuai Yu\""
+        },
+        "Commitor": {
+          "name": "\"Hung Tran\""
+        },
+        "Date": "2019-09-26T04:10:51Z",
+        "additions": 11,
+        "deletions": 4,
+        "files": [
+          "a4082898832c5b65d76c45e6eabfb42b41f3957f",
+          "f7b8256c3f30f355a9647293a4a1cfefcc8f21d9"
+        ]
+      }
+    ]
+  }
+]

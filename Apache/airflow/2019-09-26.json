@@ -1,0 +1,1122 @@
+[
+  {
+    "RepositoryName": "airflow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T02:03:08Z",
+    "EndDate": "2019-09-26T03:03:08",
+    "Branches": 8,
+    "Forks": 5231,
+    "Files": [
+      {
+        "Sha": "be95b20823ff17faaf1727e073dbbfb800397ed1",
+        "FileName": "UPDATING.md",
+        "Path": "UPDATING.md",
+        "DateUpdated": "2019-09-26T02:45:14Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "fd8de3e48e9a333e051e0b30e9a70dce28b6815f"
+        ]
+      },
+      {
+        "Sha": "8a6cb76b1ce391ada301d00b3ee451d7f9fb808a",
+        "FileName": "hipchat_operator.py",
+        "Path": "airflow/contrib/operators/hipchat_operator.py",
+        "DateUpdated": "2019-09-26T02:45:14Z",
+        "Additions": 0,
+        "Deletions": 131,
+        "Commits": [
+          "fd8de3e48e9a333e051e0b30e9a70dce28b6815f"
+        ]
+      },
+      {
+        "Sha": "7851841730de8d42a4a87269b4b16765304031f0",
+        "FileName": "test_hipchat_operator.py",
+        "Path": "tests/contrib/operators/test_hipchat_operator.py",
+        "DateUpdated": "2019-09-26T02:45:14Z",
+        "Additions": 0,
+        "Deletions": 68,
+        "Commits": [
+          "fd8de3e48e9a333e051e0b30e9a70dce28b6815f"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "fd8de3e48e9a333e051e0b30e9a70dce28b6815f",
+        "Author": {
+          "name": "\"Kamil Breguła\"",
+          "location": "Warszawa",
+          "company": "@Polidea"
+        },
+        "Commitor": {
+          "name": "\"Xiaodong\"",
+          "location": "Living in Singapore; From China"
+        },
+        "Date": "2019-09-26T02:45:14Z",
+        "additions": 7,
+        "deletions": 199,
+        "files": [
+          "be95b20823ff17faaf1727e073dbbfb800397ed1",
+          "8a6cb76b1ce391ada301d00b3ee451d7f9fb808a",
+          "7851841730de8d42a4a87269b4b16765304031f0"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "airflow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T09:03:33Z",
+    "EndDate": "2019-09-26T10:03:33",
+    "Branches": 8,
+    "Forks": 5232,
+    "Files": [
+      {
+        "Sha": "30847cc6e20739976dcb040b0a88963f53fba24a",
+        "FileName": "README.md",
+        "Path": "README.md",
+        "DateUpdated": "2019-09-26T09:46:32Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "407c1f7c7282823a63c438f3420f26a645316552"
+        ]
+      },
+      {
+        "Sha": "bdc5904d3de542efc226c3d60d46a2f6c787eb3e",
+        "FileName": "setup.py",
+        "Path": "setup.py",
+        "DateUpdated": "2019-09-26T09:45:27Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b4dd430384de69eef64e1b8f75f27090e51ea964"
+        ]
+      },
+      {
+        "Sha": "e13b6168de0927748048098731d0d5d964de01c8",
+        "FileName": "integration.rst",
+        "Path": "docs/integration.rst",
+        "DateUpdated": "2019-09-26T09:37:03Z",
+        "Additions": 137,
+        "Deletions": 0,
+        "Commits": [
+          "d0ebbd5a2566c7f6cf91912f9f03104cad5978be"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "407c1f7c7282823a63c438f3420f26a645316552",
+        "Author": {
+          "name": "\"Vipul Pandey\"",
+          "location": "Bengaluru",
+          "company": "Walmartlabs"
+        },
+        "Commitor": {
+          "name": "\"Kamil Breguła\"",
+          "location": "Warszawa",
+          "company": "@Polidea"
+        },
+        "Date": "2019-09-26T09:46:32Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "30847cc6e20739976dcb040b0a88963f53fba24a"
+        ]
+      },
+      {
+        "sha": "b4dd430384de69eef64e1b8f75f27090e51ea964",
+        "Author": {
+          "name": "\"David Smith\"",
+          "company": "Evidation Health"
+        },
+        "Commitor": {
+          "name": "\"Ash Berlin-Taylor\"",
+          "location": "London"
+        },
+        "Date": "2019-09-26T09:45:27Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "bdc5904d3de542efc226c3d60d46a2f6c787eb3e"
+        ]
+      },
+      {
+        "sha": "d0ebbd5a2566c7f6cf91912f9f03104cad5978be",
+        "Author": {
+          "name": "\"Kamil Breguła\"",
+          "location": "Warszawa",
+          "company": "@Polidea"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T09:37:03Z",
+        "additions": 137,
+        "deletions": 0,
+        "files": [
+          "e13b6168de0927748048098731d0d5d964de01c8"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "airflow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T10:03:19Z",
+    "EndDate": "2019-09-26T11:03:19",
+    "Branches": 8,
+    "Forks": 5232,
+    "Files": [
+      {
+        "Sha": "a63fad33030d5b3e436a3cc5e915c80e4a1ca7a2",
+        "FileName": "integration.rst",
+        "Path": "docs/integration.rst",
+        "DateUpdated": "2019-09-26T10:36:36Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "30c3052d01cd63a6e664ce0a8ac4dd4dbcb7cb3d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "30c3052d01cd63a6e664ce0a8ac4dd4dbcb7cb3d",
+        "Author": {
+          "name": "\"Kamil Breguła\"",
+          "location": "Warszawa",
+          "company": "@Polidea"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T10:36:36Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "a63fad33030d5b3e436a3cc5e915c80e4a1ca7a2"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "airflow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T11:03:35Z",
+    "EndDate": "2019-09-26T12:03:35",
+    "Branches": 8,
+    "Forks": 5232,
+    "Files": [
+      {
+        "Sha": "9581f4432b82c6a6c943c26ff2561cf1239452be",
+        "FileName": "openfaas_hook.py",
+        "Path": "airflow/contrib/hooks/openfaas_hook.py",
+        "DateUpdated": "2019-09-26T11:40:13Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "123147230cd4a7763698c28a77f0c2bf95ee4667"
+        ]
+      },
+      {
+        "Sha": "7e9db81cca666d25712e5564b8894c2ab7bfa03f",
+        "FileName": "integration.rst",
+        "Path": "docs/integration.rst",
+        "DateUpdated": "2019-09-26T11:39:21Z",
+        "Additions": 37,
+        "Deletions": 19,
+        "Commits": [
+          "ee44093e8116eff3997ba272a8a5b6e20094c793"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "123147230cd4a7763698c28a77f0c2bf95ee4667",
+        "Author": {
+          "name": "\"Kamil Breguła\"",
+          "location": "Warszawa",
+          "company": "@Polidea"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T11:40:13Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "9581f4432b82c6a6c943c26ff2561cf1239452be"
+        ]
+      },
+      {
+        "sha": "ee44093e8116eff3997ba272a8a5b6e20094c793",
+        "Author": {
+          "name": "\"Kamil Breguła\"",
+          "location": "Warszawa",
+          "company": "@Polidea"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T11:39:21Z",
+        "additions": 37,
+        "deletions": 19,
+        "files": [
+          "7e9db81cca666d25712e5564b8894c2ab7bfa03f"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "airflow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T12:03:55Z",
+    "EndDate": "2019-09-26T13:03:55",
+    "Branches": 8,
+    "Forks": 5232,
+    "Files": [
+      {
+        "Sha": "0f6763ef4989a02c381e412774222272319b1ee5",
+        "FileName": "6e96a59344a4_make_taskinstance_pool_not_nullable.py",
+        "Path": "airflow/migrations/versions/6e96a59344a4_make_taskinstance_pool_not_nullable.py",
+        "DateUpdated": "2019-09-26T12:48:12Z",
+        "Additions": 19,
+        "Deletions": 6,
+        "Commits": [
+          "f1674e30d36c617e95e3b3762739197932726f4e"
+        ]
+      },
+      {
+        "Sha": "0929ede57600e7d36dd633d954b6047453fe9c98",
+        "FileName": "gcp_api_base_hook.py",
+        "Path": "airflow/contrib/hooks/gcp_api_base_hook.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 8,
+        "Deletions": 312,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "64f33fcbe82f156955c3355305633d7e2a03f9dd",
+        "FileName": "gdrive_hook.py",
+        "Path": "airflow/contrib/hooks/gdrive_hook.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "f6e8e0471f5bc94c8dae6554a22beb9ac6b542ef",
+        "FileName": "automl.py",
+        "Path": "airflow/gcp/hooks/automl.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "859b076d8171ce4f4249945b59743afb0c4d612a",
+        "FileName": "base.py",
+        "Path": "airflow/gcp/hooks/base.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 333,
+        "Deletions": 0,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "fad4dcb9c62f3400f75d7c21ad3349848b7694b1",
+        "FileName": "bigquery.py",
+        "Path": "airflow/gcp/hooks/bigquery.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "bae2906f0fe4f71dbbbbe09b4c44fc75b2bad36f",
+        "FileName": "bigquery_dts.py",
+        "Path": "airflow/gcp/hooks/bigquery_dts.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "90fbc8d69ebdf37d0ad538cf04f88591cf3b74e9",
+        "FileName": "bigtable.py",
+        "Path": "airflow/gcp/hooks/bigtable.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "b5737b9307a88b3cc37cced52d0d9f7730aacadc",
+        "FileName": "cloud_build.py",
+        "Path": "airflow/gcp/hooks/cloud_build.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "13baf44e1f06cf75e470255bfa8ec5abd35291ab",
+        "FileName": "cloud_memorystore.py",
+        "Path": "airflow/gcp/hooks/cloud_memorystore.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "41937830a1fb75059f19dddedc4a0af3fcfae2de",
+        "FileName": "cloud_sql.py",
+        "Path": "airflow/gcp/hooks/cloud_sql.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "cb7a39966b4c70f931cca00614a41fd54b32e852",
+        "FileName": "cloud_storage_transfer_service.py",
+        "Path": "airflow/gcp/hooks/cloud_storage_transfer_service.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "5c5006ddeff20fc100e781a30c7e16f2b2ba627b",
+        "FileName": "compute.py",
+        "Path": "airflow/gcp/hooks/compute.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "64446a21174e1ab98c58795538bbe0f6fb0ac1cd",
+        "FileName": "dataflow.py",
+        "Path": "airflow/gcp/hooks/dataflow.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "d24fc6339ed3e8b99896427b96836b5be3a7cf8e",
+        "FileName": "dataproc.py",
+        "Path": "airflow/gcp/hooks/dataproc.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "9b6d8632b69d60d2734f253505479e7dc17e9be8",
+        "FileName": "datastore.py",
+        "Path": "airflow/gcp/hooks/datastore.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "5e1e5788de3d308fe362582f49f50770678ba1a3",
+        "FileName": "discovery_api.py",
+        "Path": "airflow/gcp/hooks/discovery_api.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "929f9bfed9dd4ec29302eb0f7c0f2e55b4e5ef52",
+        "FileName": "dlp.py",
+        "Path": "airflow/gcp/hooks/dlp.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "2c1b80b93780ba12296eb1f2b34c2f47da689b9a",
+        "FileName": "functions.py",
+        "Path": "airflow/gcp/hooks/functions.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "b140df02e776c38b3364f3003e4129ae223d7b33",
+        "FileName": "gcs.py",
+        "Path": "airflow/gcp/hooks/gcs.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "ee3d21b8a1be9a03b57cadf5d8bc453484b38d76",
+        "FileName": "gsheets.py",
+        "Path": "airflow/gcp/hooks/gsheets.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "ccb22326e38d29fcf52abfb1e9062cc472421425",
+        "FileName": "kms.py",
+        "Path": "airflow/gcp/hooks/kms.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "aaa1555ae056645c2084584278ea465523cbb4f8",
+        "FileName": "kubernetes_engine.py",
+        "Path": "airflow/gcp/hooks/kubernetes_engine.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "c44eb6d341795f194cd2006340b3cece3a756ae8",
+        "FileName": "mlengine.py",
+        "Path": "airflow/gcp/hooks/mlengine.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "12349a4de510aefb29c78c6c7d6c9b6210671eb8",
+        "FileName": "natural_language.py",
+        "Path": "airflow/gcp/hooks/natural_language.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "9b865ecd5dc61e8628278ef49998f216e4f79317",
+        "FileName": "pubsub.py",
+        "Path": "airflow/gcp/hooks/pubsub.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "5580e9250fcec1fd729f2061620d24427a2547b0",
+        "FileName": "spanner.py",
+        "Path": "airflow/gcp/hooks/spanner.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "6b1ed5982180c0c0763819155c33d9ac5d75f910",
+        "FileName": "speech_to_text.py",
+        "Path": "airflow/gcp/hooks/speech_to_text.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "356658f0bd2559593c4235053a7ea23d8d82decd",
+        "FileName": "tasks.py",
+        "Path": "airflow/gcp/hooks/tasks.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "16cb8816525cdf62146519ce67214c46e3596d88",
+        "FileName": "text_to_speech.py",
+        "Path": "airflow/gcp/hooks/text_to_speech.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "4d1e7f8673add5ce4eb16ea01d9f0450a717a474",
+        "FileName": "translate.py",
+        "Path": "airflow/gcp/hooks/translate.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "0afa32595b9c8cadc3f61ba8644d524ae7c38153",
+        "FileName": "video_intelligence.py",
+        "Path": "airflow/gcp/hooks/video_intelligence.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "77f2f5a0a611b0cbb4ad4504daf5184bcdca82fa",
+        "FileName": "vision.py",
+        "Path": "airflow/gcp/hooks/vision.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "aa53e2589d78196e34a5917a50fd1226e1895120",
+        "FileName": "test_gdrive_hook.py",
+        "Path": "tests/contrib/hooks/test_gdrive_hook.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "424dcdd7a135531af2b108f81bd0dce8e871ab03",
+        "FileName": "test_base.py",
+        "Path": "tests/gcp/hooks/test_base.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "3f19da1ed2a290eb02d88f9fa83c90e875e553aa",
+        "FileName": "test_bigquery.py",
+        "Path": "tests/gcp/hooks/test_bigquery.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "c4b790cccb8fba97a37c57dc9038e5b7bb9f733a",
+        "FileName": "test_bigtable.py",
+        "Path": "tests/gcp/hooks/test_bigtable.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 12,
+        "Deletions": 12,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "95884f3ba43a4183615210b44526303296613e58",
+        "FileName": "test_cloud_build.py",
+        "Path": "tests/gcp/hooks/test_cloud_build.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 8,
+        "Deletions": 8,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "6d0fefb7da027c0141e6b5b23f1dd8f65409dce6",
+        "FileName": "test_cloud_memorystore.py",
+        "Path": "tests/gcp/hooks/test_cloud_memorystore.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 11,
+        "Deletions": 11,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "9a7d006540eb1a260e20e0e5dab2c9c914cea7a6",
+        "FileName": "test_cloud_sql.py",
+        "Path": "tests/gcp/hooks/test_cloud_sql.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 22,
+        "Deletions": 22,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "b3b79934baa863950a1e85a296e6b2092aaca2e5",
+        "FileName": "test_cloud_storage_transfer_service.py",
+        "Path": "tests/gcp/hooks/test_cloud_storage_transfer_service.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 22,
+        "Deletions": 22,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "e5df8e971642e38050a4d6a24fee7613205432d1",
+        "FileName": "test_dataflow.py",
+        "Path": "tests/gcp/hooks/test_dataflow.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "ffcffe9d160750259aab92a13f33a2bb3bb1229e",
+        "FileName": "test_dataproc.py",
+        "Path": "tests/gcp/hooks/test_dataproc.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "45b77b2bdaee570f0d2dd0c5225a25f554187fa0",
+        "FileName": "test_datastore.py",
+        "Path": "tests/gcp/hooks/test_datastore.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "8cea4b1be691b2416bdad1ae8f644783733d49b7",
+        "FileName": "test_dlp.py",
+        "Path": "tests/gcp/hooks/test_dlp.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 45,
+        "Deletions": 45,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "30f81902f837eb635600aa2447e1cf3761daa6c5",
+        "FileName": "test_functions.py",
+        "Path": "tests/gcp/hooks/test_functions.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "dfff2c6c093f30a98e2551ed2712e5f96d172199",
+        "FileName": "test_gcp_compute_hook.py",
+        "Path": "tests/gcp/hooks/test_gcp_compute_hook.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 16,
+        "Deletions": 16,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "797d8fbe11e29cadfe0a20b0986ed499315e6897",
+        "FileName": "test_gcs.py",
+        "Path": "tests/gcp/hooks/test_gcs.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "e26b9b42a11bb9577fe816f72fc593367f831d6e",
+        "FileName": "test_gsheets.py",
+        "Path": "tests/gcp/hooks/test_gsheets.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "b099bc8392175d0e934b53d483cb9f2bef72766f",
+        "FileName": "test_kms.py",
+        "Path": "tests/gcp/hooks/test_kms.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "4c7ccde3ff58e68a5bf0578ae13edb54dd64ee50",
+        "FileName": "test_kubernetes_engine.py",
+        "Path": "tests/gcp/hooks/test_kubernetes_engine.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "664595e3a51f5a0ea01e46c82570b32a6712342b",
+        "FileName": "test_pubsub.py",
+        "Path": "tests/gcp/hooks/test_pubsub.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "7746c5d1cde62d1d96e1261dec72194360ef66de",
+        "FileName": "test_spanner.py",
+        "Path": "tests/gcp/hooks/test_spanner.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 19,
+        "Deletions": 19,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "fbd833e58afc53cd88631af25278ebc6ddc8385e",
+        "FileName": "test_speech_to_text.py",
+        "Path": "tests/gcp/hooks/test_speech_to_text.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "df332598c36f3d77ac50be928917530a9a2d84db",
+        "FileName": "test_tasks.py",
+        "Path": "tests/gcp/hooks/test_tasks.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "61350c3583406f84dafac37a787bfe7c1ec88b4a",
+        "FileName": "test_text_to_speech.py",
+        "Path": "tests/gcp/hooks/test_text_to_speech.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "42fd340ec50ec200d342a2a18829702bc6871b3c",
+        "FileName": "test_core_to_contrib.py",
+        "Path": "tests/test_core_to_contrib.py",
+        "DateUpdated": "2019-09-26T12:34:59Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "1eda51c5015c05ca3b2f3ad3b370d55213ca0765"
+        ]
+      },
+      {
+        "Sha": "37edce9b72c80259e7aef878028a2bb008285bd8",
+        "FileName": "test_gcs.py",
+        "Path": "tests/gcp/hooks/test_gcs.py",
+        "DateUpdated": "2019-09-26T12:26:59Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "009cee658ad6831e6c6a22629eab58e5248a56f7"
+        ]
+      },
+      {
+        "Sha": "002992d8bf5045bd9371bfbd814b9d7c26ddede5",
+        "FileName": "test_automl.py",
+        "Path": "tests/gcp/operators/test_automl.py",
+        "DateUpdated": "2019-09-26T12:26:59Z",
+        "Additions": 44,
+        "Deletions": 73,
+        "Commits": [
+          "009cee658ad6831e6c6a22629eab58e5248a56f7"
+        ]
+      },
+      {
+        "Sha": "ed2858dc40c8869a982fffdc6eeea22bed9cff57",
+        "FileName": "test_bigquery_dts.py",
+        "Path": "tests/gcp/operators/test_bigquery_dts.py",
+        "DateUpdated": "2019-09-26T12:26:59Z",
+        "Additions": 6,
+        "Deletions": 15,
+        "Commits": [
+          "009cee658ad6831e6c6a22629eab58e5248a56f7"
+        ]
+      },
+      {
+        "Sha": "505351776258c7e36d314472f28f732210a3d034",
+        "FileName": "test_vision.py",
+        "Path": "tests/gcp/operators/test_vision.py",
+        "DateUpdated": "2019-09-26T12:26:59Z",
+        "Additions": 6,
+        "Deletions": 10,
+        "Commits": [
+          "009cee658ad6831e6c6a22629eab58e5248a56f7"
+        ]
+      },
+      {
+        "Sha": "95fba396b90049ff155ae40ad59bcdf2f0aee1fb",
+        "FileName": "test_bigquery_dts.py",
+        "Path": "tests/gcp/sensors/test_bigquery_dts.py",
+        "DateUpdated": "2019-09-26T12:26:59Z",
+        "Additions": 2,
+        "Deletions": 5,
+        "Commits": [
+          "009cee658ad6831e6c6a22629eab58e5248a56f7"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "f1674e30d36c617e95e3b3762739197932726f4e",
+        "Author": {
+          "name": "\"Morten Post\"",
+          "location": "Copenhagen"
+        },
+        "Commitor": {
+          "name": "\"Jarek Potiuk\"",
+          "location": "Warsaw",
+          "company": "Polidea"
+        },
+        "Date": "2019-09-26T12:48:12Z",
+        "additions": 19,
+        "deletions": 6,
+        "files": [
+          "0f6763ef4989a02c381e412774222272319b1ee5"
+        ]
+      },
+      {
+        "sha": "1eda51c5015c05ca3b2f3ad3b370d55213ca0765",
+        "Author": {
+          "name": "\"Tomek\"",
+          "location": "Warsaw",
+          "company": "Polidea"
+        },
+        "Commitor": {
+          "name": "\"Jarek Potiuk\"",
+          "location": "Warsaw",
+          "company": "Polidea"
+        },
+        "Date": "2019-09-26T12:34:59Z",
+        "additions": 563,
+        "deletions": 530,
+        "files": [
+          "0929ede57600e7d36dd633d954b6047453fe9c98",
+          "64f33fcbe82f156955c3355305633d7e2a03f9dd",
+          "f6e8e0471f5bc94c8dae6554a22beb9ac6b542ef",
+          "859b076d8171ce4f4249945b59743afb0c4d612a",
+          "fad4dcb9c62f3400f75d7c21ad3349848b7694b1",
+          "bae2906f0fe4f71dbbbbe09b4c44fc75b2bad36f",
+          "90fbc8d69ebdf37d0ad538cf04f88591cf3b74e9",
+          "b5737b9307a88b3cc37cced52d0d9f7730aacadc",
+          "13baf44e1f06cf75e470255bfa8ec5abd35291ab",
+          "41937830a1fb75059f19dddedc4a0af3fcfae2de",
+          "cb7a39966b4c70f931cca00614a41fd54b32e852",
+          "5c5006ddeff20fc100e781a30c7e16f2b2ba627b",
+          "64446a21174e1ab98c58795538bbe0f6fb0ac1cd",
+          "d24fc6339ed3e8b99896427b96836b5be3a7cf8e",
+          "9b6d8632b69d60d2734f253505479e7dc17e9be8",
+          "5e1e5788de3d308fe362582f49f50770678ba1a3",
+          "929f9bfed9dd4ec29302eb0f7c0f2e55b4e5ef52",
+          "2c1b80b93780ba12296eb1f2b34c2f47da689b9a",
+          "b140df02e776c38b3364f3003e4129ae223d7b33",
+          "ee3d21b8a1be9a03b57cadf5d8bc453484b38d76",
+          "ccb22326e38d29fcf52abfb1e9062cc472421425",
+          "aaa1555ae056645c2084584278ea465523cbb4f8",
+          "c44eb6d341795f194cd2006340b3cece3a756ae8",
+          "12349a4de510aefb29c78c6c7d6c9b6210671eb8",
+          "9b865ecd5dc61e8628278ef49998f216e4f79317",
+          "5580e9250fcec1fd729f2061620d24427a2547b0",
+          "6b1ed5982180c0c0763819155c33d9ac5d75f910",
+          "356658f0bd2559593c4235053a7ea23d8d82decd",
+          "16cb8816525cdf62146519ce67214c46e3596d88",
+          "4d1e7f8673add5ce4eb16ea01d9f0450a717a474",
+          "0afa32595b9c8cadc3f61ba8644d524ae7c38153",
+          "77f2f5a0a611b0cbb4ad4504daf5184bcdca82fa",
+          "aa53e2589d78196e34a5917a50fd1226e1895120",
+          "424dcdd7a135531af2b108f81bd0dce8e871ab03",
+          "3f19da1ed2a290eb02d88f9fa83c90e875e553aa",
+          "c4b790cccb8fba97a37c57dc9038e5b7bb9f733a",
+          "95884f3ba43a4183615210b44526303296613e58",
+          "6d0fefb7da027c0141e6b5b23f1dd8f65409dce6",
+          "9a7d006540eb1a260e20e0e5dab2c9c914cea7a6",
+          "b3b79934baa863950a1e85a296e6b2092aaca2e5",
+          "e5df8e971642e38050a4d6a24fee7613205432d1",
+          "ffcffe9d160750259aab92a13f33a2bb3bb1229e",
+          "45b77b2bdaee570f0d2dd0c5225a25f554187fa0",
+          "8cea4b1be691b2416bdad1ae8f644783733d49b7",
+          "30f81902f837eb635600aa2447e1cf3761daa6c5",
+          "dfff2c6c093f30a98e2551ed2712e5f96d172199",
+          "797d8fbe11e29cadfe0a20b0986ed499315e6897",
+          "e26b9b42a11bb9577fe816f72fc593367f831d6e",
+          "b099bc8392175d0e934b53d483cb9f2bef72766f",
+          "4c7ccde3ff58e68a5bf0578ae13edb54dd64ee50",
+          "664595e3a51f5a0ea01e46c82570b32a6712342b",
+          "7746c5d1cde62d1d96e1261dec72194360ef66de",
+          "fbd833e58afc53cd88631af25278ebc6ddc8385e",
+          "df332598c36f3d77ac50be928917530a9a2d84db",
+          "61350c3583406f84dafac37a787bfe7c1ec88b4a",
+          "42fd340ec50ec200d342a2a18829702bc6871b3c"
+        ]
+      },
+      {
+        "sha": "009cee658ad6831e6c6a22629eab58e5248a56f7",
+        "Author": {
+          "name": "\"Tomek\"",
+          "location": "Warsaw",
+          "company": "Polidea"
+        },
+        "Commitor": {
+          "name": "\"Jarek Potiuk\"",
+          "location": "Warsaw",
+          "company": "Polidea"
+        },
+        "Date": "2019-09-26T12:26:59Z",
+        "additions": 60,
+        "deletions": 103,
+        "files": [
+          "37edce9b72c80259e7aef878028a2bb008285bd8",
+          "002992d8bf5045bd9371bfbd814b9d7c26ddede5",
+          "ed2858dc40c8869a982fffdc6eeea22bed9cff57",
+          "505351776258c7e36d314472f28f732210a3d034",
+          "95fba396b90049ff155ae40ad59bcdf2f0aee1fb"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "airflow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T13:04:02Z",
+    "EndDate": "2019-09-26T14:04:02",
+    "Branches": 8,
+    "Forks": 5231,
+    "Files": [
+      {
+        "Sha": "6ec8296f70450f0304a509e0fcaf8b702290c8e4",
+        "FileName": "integration.rst",
+        "Path": "docs/integration.rst",
+        "DateUpdated": "2019-09-26T13:17:29Z",
+        "Additions": 100,
+        "Deletions": 6,
+        "Commits": [
+          "93e856e7021a4b8c60afd737689415ffb1015d7c"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "93e856e7021a4b8c60afd737689415ffb1015d7c",
+        "Author": {
+          "name": "\"Kamil Breguła\"",
+          "location": "Warszawa",
+          "company": "@Polidea"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T13:17:29Z",
+        "additions": 100,
+        "deletions": 6,
+        "files": [
+          "6ec8296f70450f0304a509e0fcaf8b702290c8e4"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "RepositoryName": "servicemix-bundles",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T13:03:23Z",
+    "EndDate": "2019-09-23T14:03:23",
+    "Branches": 1,
+    "Forks": 71,
+    "Files": [
+      {
+        "Sha": "7f21662d45f2914c4488fe71327fae80b9d844cc",
+        "FileName": "pom.xml",
+        "Path": "java-util-1.36.0/pom.xml",
+        "DateUpdated": "2019-09-23T13:35:49Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "887cf22fdaf8d67a52553b4a2f9b45ed3ffaf92c"
+        ]
+      },
+      {
+        "Sha": "3e351a149726fc177f57ed9149ba49474558a166",
+        "FileName": "bundle.info",
+        "Path": "java-util-1.36.0/src/main/resources/OSGI-INF/bundle.info",
+        "DateUpdated": "2019-09-23T13:35:49Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "887cf22fdaf8d67a52553b4a2f9b45ed3ffaf92c"
+        ]
+      },
+      {
+        "Sha": "33dd3c19d8b3a7c88caa92c7b2a536c7d86c6a91",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-23T13:35:49Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "887cf22fdaf8d67a52553b4a2f9b45ed3ffaf92c"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "887cf22fdaf8d67a52553b4a2f9b45ed3ffaf92c",
+        "Author": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T13:35:49Z",
+        "additions": 3,
+        "deletions": 2,
+        "files": [
+          "7f21662d45f2914c4488fe71327fae80b9d844cc",
+          "3e351a149726fc177f57ed9149ba49474558a166",
+          "33dd3c19d8b3a7c88caa92c7b2a536c7d86c6a91"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "servicemix-bundles",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T14:03:08Z",
+    "EndDate": "2019-09-23T15:03:08",
+    "Branches": 1,
+    "Forks": 71,
+    "Files": [
+      {
+        "Sha": "236297061d46253f3b9e8c2ef0f1727caccca75f",
+        "FileName": "pom.xml",
+        "Path": "ognl-3.2.11/pom.xml",
+        "DateUpdated": "2019-09-23T14:48:15Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "b3bc3e6b6bb2a853aa1bb9a5d05c062263f92515"
+        ]
+      },
+      {
+        "Sha": "7a5e8b73ab994f8f172d69a3254fcaea9cc15d5a",
+        "FileName": "bundle.info",
+        "Path": "ognl-3.2.11/src/main/resources/OSGI-INF/bundle.info",
+        "DateUpdated": "2019-09-23T14:48:15Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "b3bc3e6b6bb2a853aa1bb9a5d05c062263f92515"
+        ]
+      },
+      {
+        "Sha": "ab89a0769c14cfa45694952046498b25137f9149",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-23T14:48:15Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "b3bc3e6b6bb2a853aa1bb9a5d05c062263f92515"
+        ]
+      },
+      {
+        "Sha": "56863350e257ee740794b3bfd3924cd25200b943",
+        "FileName": "pom.xml",
+        "Path": "avro-1.9.1/pom.xml",
+        "DateUpdated": "2019-09-23T14:44:45Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "b7ac35a12bad8b9d232d2e41fbacd325fb2ad669"
+        ]
+      },
+      {
+        "Sha": "e68ffdb3939d88afec4ba6a90ed3384f9f6993dc",
+        "FileName": "bundle.info",
+        "Path": "avro-1.9.1/src/main/resources/OSGI-INF/bundle.info",
+        "DateUpdated": "2019-09-23T14:44:45Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "b7ac35a12bad8b9d232d2e41fbacd325fb2ad669",
+          "b7ac35a12bad8b9d232d2e41fbacd325fb2ad669"
+        ]
+      },
+      {
+        "Sha": "e2bb2c1b9672f648afbe7a7b1c806f17163d348d",
+        "FileName": "pom.xml",
+        "Path": "avro-ipc-1.9.1/pom.xml",
+        "DateUpdated": "2019-09-23T14:44:45Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "b7ac35a12bad8b9d232d2e41fbacd325fb2ad669"
+        ]
+      },
+      {
+        "Sha": "8e69a089c3ee1d1afcdc502774618630ed6d2e73",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-23T14:44:45Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "b7ac35a12bad8b9d232d2e41fbacd325fb2ad669"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "b3bc3e6b6bb2a853aa1bb9a5d05c062263f92515",
+        "Author": {
+          "name": "\"Jean-Baptiste Onofré\"",
+          "location": "Paris, France"
+        },
+        "Commitor": {
+          "name": "\"Jean-Baptiste Onofré\"",
+          "location": "Paris, France"
+        },
+        "Date": "2019-09-23T14:48:15Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "236297061d46253f3b9e8c2ef0f1727caccca75f",
+          "7a5e8b73ab994f8f172d69a3254fcaea9cc15d5a",
+          "ab89a0769c14cfa45694952046498b25137f9149"
+        ]
+      },
+      {
+        "sha": "b7ac35a12bad8b9d232d2e41fbacd325fb2ad669",
+        "Author": {
+          "name": "\"Jean-Baptiste Onofré\"",
+          "location": "Paris, France"
+        },
+        "Commitor": {
+          "name": "\"Jean-Baptiste Onofré\"",
+          "location": "Paris, France"
+        },
+        "Date": "2019-09-23T14:44:45Z",
+        "additions": 6,
+        "deletions": 6,
+        "files": [
+          "56863350e257ee740794b3bfd3924cd25200b943",
+          "e68ffdb3939d88afec4ba6a90ed3384f9f6993dc",
+          "e2bb2c1b9672f648afbe7a7b1c806f17163d348d",
+          "e68ffdb3939d88afec4ba6a90ed3384f9f6993dc",
+          "8e69a089c3ee1d1afcdc502774618630ed6d2e73"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "servicemix-bundles",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T16:02:57Z",
+    "EndDate": "2019-09-23T17:02:57",
+    "Branches": 1,
+    "Forks": 71,
+    "Files": [
+      {
+        "Sha": "31816d797b59558fb8c416de5b5a6c38576bacc8",
+        "FileName": "pom.xml",
+        "Path": "okhttp-4.2.0/pom.xml",
+        "DateUpdated": "2019-09-23T16:49:41Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "2302f9362263dde05dbbdb9eefa2222bc7ffd48d"
+        ]
+      },
+      {
+        "Sha": "b06d1961548372c6947c5941375755b7b7ec9154",
+        "FileName": "bundle.info",
+        "Path": "okhttp-4.2.0/src/main/resources/OSGI-INF/bundle.info",
+        "DateUpdated": "2019-09-23T16:49:41Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "2302f9362263dde05dbbdb9eefa2222bc7ffd48d"
+        ]
+      },
+      {
+        "Sha": "561fb1642ad81fa77e0b66a8d1be23b2173b824f",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-23T16:49:41Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "2302f9362263dde05dbbdb9eefa2222bc7ffd48d"
+        ]
+      },
+      {
+        "Sha": "81fed4b4a093d3ab4056122511f43095bedd716a",
+        "FileName": "pom.xml",
+        "Path": "okio-2.4.0/pom.xml",
+        "DateUpdated": "2019-09-23T16:45:49Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "6d591e5f1ab1fee9fd8c7c383ad57f230c8e9fc2"
+        ]
+      },
+      {
+        "Sha": "b24b209933643d10869fc2b0c3f49481fa92733c",
+        "FileName": "bundle.info",
+        "Path": "okio-2.4.0/src/main/resources/OSGI-INF/bundle.info",
+        "DateUpdated": "2019-09-23T16:45:49Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "6d591e5f1ab1fee9fd8c7c383ad57f230c8e9fc2"
+        ]
+      },
+      {
+        "Sha": "296c18f0f67b773fac86f17d7292c63076b0950b",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-23T16:45:49Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "6d591e5f1ab1fee9fd8c7c383ad57f230c8e9fc2"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "2302f9362263dde05dbbdb9eefa2222bc7ffd48d",
+        "Author": {
+          "name": "\"Jean-Baptiste Onofré\"",
+          "location": "Paris, France"
+        },
+        "Commitor": {
+          "name": "\"Jean-Baptiste Onofré\"",
+          "location": "Paris, France"
+        },
+        "Date": "2019-09-23T16:49:41Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "31816d797b59558fb8c416de5b5a6c38576bacc8",
+          "b06d1961548372c6947c5941375755b7b7ec9154",
+          "561fb1642ad81fa77e0b66a8d1be23b2173b824f"
+        ]
+      },
+      {
+        "sha": "6d591e5f1ab1fee9fd8c7c383ad57f230c8e9fc2",
+        "Author": {
+          "name": "\"Jean-Baptiste Onofré\"",
+          "location": "Paris, France"
+        },
+        "Commitor": {
+          "name": "\"Jean-Baptiste Onofré\"",
+          "location": "Paris, France"
+        },
+        "Date": "2019-09-23T16:45:49Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "81fed4b4a093d3ab4056122511f43095bedd716a",
+          "b24b209933643d10869fc2b0c3f49481fa92733c",
+          "296c18f0f67b773fac86f17d7292c63076b0950b"
+        ]
+      }
+    ]
+  }
+]

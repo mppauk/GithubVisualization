@@ -1,0 +1,40 @@
+[
+  {
+    "RepositoryName": "incubator-hudi",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T00:09:09Z",
+    "EndDate": "2019-09-23T01:09:09",
+    "Branches": 5,
+    "Forks": 227,
+    "Files": [
+      {
+        "Sha": "c34d483afd83ab347f4d68243c40ebe22a90adb3",
+        "FileName": ".mailmap",
+        "Path": ".mailmap",
+        "DateUpdated": "2019-09-23T00:26:04Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "1e6dd1ca1de576bc090c67ba0abdf466ada5cb3e"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "1e6dd1ca1de576bc090c67ba0abdf466ada5cb3e",
+        "Author": {
+          "name": "\"vinoth chandar\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T00:26:04Z",
+        "additions": 3,
+        "deletions": 0,
+        "files": [
+          "c34d483afd83ab347f4d68243c40ebe22a90adb3"
+        ]
+      }
+    ]
+  }
+]

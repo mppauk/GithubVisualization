@@ -1,0 +1,152 @@
+[
+  {
+    "RepositoryName": "hadoop-submarine",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T03:03:26Z",
+    "EndDate": "2019-09-23T04:03:26",
+    "Branches": 2,
+    "Forks": 7,
+    "Files": [
+      {
+        "Sha": "68a0678361e7eac18ed66d5e7184792ef3abe59e",
+        "FileName": "README.md",
+        "Path": "dev-support/cicd/README.md",
+        "DateUpdated": "2019-09-23T03:50:46Z",
+        "Additions": 30,
+        "Deletions": 0,
+        "Commits": [
+          "6c9e181d43e752db808200297f4d084f8bcad62d"
+        ]
+      },
+      {
+        "Sha": "cac83638c51bfd20b750ff94d3fd808f9de25caf",
+        "FileName": "merge_submarine_pr.py",
+        "Path": "dev-support/cicd/merge_submarine_pr.py",
+        "DateUpdated": "2019-09-23T03:50:46Z",
+        "Additions": 356,
+        "Deletions": 0,
+        "Commits": [
+          "6c9e181d43e752db808200297f4d084f8bcad62d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "6c9e181d43e752db808200297f4d084f8bcad62d",
+        "Author": {
+          "name": "\"tangzhankun\"",
+          "location": "Shanghai",
+          "company": "Cloudera"
+        },
+        "Commitor": {
+          "name": "\"tangzhankun\"",
+          "location": "Shanghai",
+          "company": "Cloudera"
+        },
+        "Date": "2019-09-23T03:50:46Z",
+        "additions": 386,
+        "deletions": 0,
+        "files": [
+          "68a0678361e7eac18ed66d5e7184792ef3abe59e",
+          "cac83638c51bfd20b750ff94d3fd808f9de25caf"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "hadoop-submarine",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T07:03:54Z",
+    "EndDate": "2019-09-23T08:03:54",
+    "Branches": 2,
+    "Forks": 7,
+    "Files": [
+      {
+        "Sha": "486dda8965ce19eaed4d1fe2a71edfabba3d416c",
+        "FileName": "merge_submarine_pr.py",
+        "Path": "dev-support/cicd/merge_submarine_pr.py",
+        "DateUpdated": "2019-09-23T07:37:35Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "4b8e588e651c8ddc382d43a762998bfcc5e53687"
+        ]
+      },
+      {
+        "Sha": "e2475d05d0ed9d76f5ff0b6f814b0908e5d021c5",
+        "FileName": "Dockerfile",
+        "Path": "dev-support/cicd/Dockerfile",
+        "DateUpdated": "2019-09-23T07:13:59Z",
+        "Additions": 30,
+        "Deletions": 0,
+        "Commits": [
+          "e161000310763fc61bbfddaa52b46a54872cc0fd"
+        ]
+      },
+      {
+        "Sha": "b1440071a472ad884e001eaf4d47c0940b8d12f4",
+        "FileName": "README.md",
+        "Path": "dev-support/cicd/README.md",
+        "DateUpdated": "2019-09-23T07:13:59Z",
+        "Additions": 15,
+        "Deletions": 13,
+        "Commits": [
+          "e161000310763fc61bbfddaa52b46a54872cc0fd"
+        ]
+      },
+      {
+        "Sha": "958947bba5f979c1c63ccf913ed1d6cd21108058",
+        "FileName": "entry.sh",
+        "Path": "dev-support/cicd/entry.sh",
+        "DateUpdated": "2019-09-23T07:13:59Z",
+        "Additions": 77,
+        "Deletions": 0,
+        "Commits": [
+          "e161000310763fc61bbfddaa52b46a54872cc0fd"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "4b8e588e651c8ddc382d43a762998bfcc5e53687",
+        "Author": {
+          "name": "\"tangzhankun\"",
+          "location": "Shanghai",
+          "company": "Cloudera"
+        },
+        "Commitor": {
+          "name": "\"tangzhankun\"",
+          "location": "Shanghai",
+          "company": "Cloudera"
+        },
+        "Date": "2019-09-23T07:37:35Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "486dda8965ce19eaed4d1fe2a71edfabba3d416c"
+        ]
+      },
+      {
+        "sha": "e161000310763fc61bbfddaa52b46a54872cc0fd",
+        "Author": {
+          "name": "\"tangzhankun\"",
+          "location": "Shanghai",
+          "company": "Cloudera"
+        },
+        "Commitor": {
+          "name": "\"tangzhankun\"",
+          "location": "Shanghai",
+          "company": "Cloudera"
+        },
+        "Date": "2019-09-23T07:13:59Z",
+        "additions": 122,
+        "deletions": 13,
+        "files": [
+          "e2475d05d0ed9d76f5ff0b6f814b0908e5d021c5",
+          "b1440071a472ad884e001eaf4d47c0940b8d12f4",
+          "958947bba5f979c1c63ccf913ed1d6cd21108058"
+        ]
+      }
+    ]
+  }
+]

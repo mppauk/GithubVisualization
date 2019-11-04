@@ -1,0 +1,128 @@
+[
+  {
+    "RepositoryName": "incubator-iceberg",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T22:48:20Z",
+    "EndDate": "2019-09-24T23:48:20",
+    "Branches": 4,
+    "Forks": 106,
+    "Files": [
+      {
+        "Sha": "7ed9234b81f95f1d6d9b6ac57ecf08b02b11182f",
+        "FileName": "ParquetDictionaryRowGroupFilter.java",
+        "Path": "parquet/src/main/java/org/apache/iceberg/parquet/ParquetDictionaryRowGroupFilter.java",
+        "DateUpdated": "2019-09-24T23:28:00Z",
+        "Additions": 4,
+        "Deletions": 2,
+        "Commits": [
+          "bd9f8c0b544a82293262e5eb924b9e081b28a1ba"
+        ]
+      },
+      {
+        "Sha": "38443032a99e917543cc711f8007f182da74b1b9",
+        "FileName": "TestDictionaryRowGroupFilter.java",
+        "Path": "parquet/src/test/java/org/apache/iceberg/parquet/TestDictionaryRowGroupFilter.java",
+        "DateUpdated": "2019-09-24T23:28:00Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "bd9f8c0b544a82293262e5eb924b9e081b28a1ba"
+        ]
+      },
+      {
+        "Sha": "7479fd69f307e149a1422e8c06ed3a393d594967",
+        "FileName": "TableProperties.java",
+        "Path": "core/src/main/java/org/apache/iceberg/TableProperties.java",
+        "DateUpdated": "2019-09-24T23:24:16Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "c2435d64709b9657768f35ae5048c9ef4a352716"
+        ]
+      },
+      {
+        "Sha": "14838d5d0ca5ee5cc2f5424a8d0a63e83059926e",
+        "FileName": "ParquetWriter.java",
+        "Path": "parquet/src/main/java/org/apache/iceberg/parquet/ParquetWriter.java",
+        "DateUpdated": "2019-09-24T23:24:16Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c2435d64709b9657768f35ae5048c9ef4a352716"
+        ]
+      },
+      {
+        "Sha": "419ef22232dc43e42eb2b9a20c951b3dcb79860d",
+        "FileName": "configuration.md",
+        "Path": "site/docs/configuration.md",
+        "DateUpdated": "2019-09-24T23:24:16Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "c2435d64709b9657768f35ae5048c9ef4a352716"
+        ]
+      },
+      {
+        "Sha": "b05fe3bc3f6bf74f44622d92131d91a5cd900c7c",
+        "FileName": "Writer.java",
+        "Path": "spark/src/main/java/org/apache/iceberg/spark/source/Writer.java",
+        "DateUpdated": "2019-09-24T23:24:16Z",
+        "Additions": 164,
+        "Deletions": 112,
+        "Commits": [
+          "c2435d64709b9657768f35ae5048c9ef4a352716"
+        ]
+      },
+      {
+        "Sha": "79a50d25da192ac1c1242b279f2df68ffc4f50e9",
+        "FileName": "TestParquetWrite.java",
+        "Path": "spark/src/test/java/org/apache/iceberg/spark/source/TestParquetWrite.java",
+        "DateUpdated": "2019-09-24T23:24:16Z",
+        "Additions": 91,
+        "Deletions": 0,
+        "Commits": [
+          "c2435d64709b9657768f35ae5048c9ef4a352716"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "bd9f8c0b544a82293262e5eb924b9e081b28a1ba",
+        "Author": {
+          "name": "\"Filip Bocse\""
+        },
+        "Commitor": {
+          "name": "\"Ryan Blue\""
+        },
+        "Date": "2019-09-24T23:28:00Z",
+        "additions": 12,
+        "deletions": 2,
+        "files": [
+          "7ed9234b81f95f1d6d9b6ac57ecf08b02b11182f",
+          "38443032a99e917543cc711f8007f182da74b1b9"
+        ]
+      },
+      {
+        "sha": "c2435d64709b9657768f35ae5048c9ef4a352716",
+        "Author": {
+          "name": "\"Xabriel J. Collazo Mojica\"",
+          "location": "San José",
+          "company": "@adobe"
+        },
+        "Commitor": {
+          "name": "\"Ryan Blue\""
+        },
+        "Date": "2019-09-24T23:24:16Z",
+        "additions": 261,
+        "deletions": 113,
+        "files": [
+          "7479fd69f307e149a1422e8c06ed3a393d594967",
+          "14838d5d0ca5ee5cc2f5424a8d0a63e83059926e",
+          "419ef22232dc43e42eb2b9a20c951b3dcb79860d",
+          "b05fe3bc3f6bf74f44622d92131d91a5cd900c7c",
+          "79a50d25da192ac1c1242b279f2df68ffc4f50e9"
+        ]
+      }
+    ]
+  }
+]

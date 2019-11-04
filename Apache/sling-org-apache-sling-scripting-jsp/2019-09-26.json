@@ -1,0 +1,41 @@
+[
+  {
+    "RepositoryName": "sling-org-apache-sling-scripting-jsp",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T09:04:29Z",
+    "EndDate": "2019-09-26T10:04:29",
+    "Branches": 1,
+    "Forks": 3,
+    "Files": [
+      {
+        "Sha": "d1a09ec9f1618d41d80370d7d5f3dadeb4b88f36",
+        "FileName": "JspScriptEngineFactory.java",
+        "Path": "src/main/java/org/apache/sling/scripting/jsp/JspScriptEngineFactory.java",
+        "DateUpdated": "2019-09-26T09:06:02Z",
+        "Additions": 11,
+        "Deletions": 8,
+        "Commits": [
+          "0245049a34b33f053073998716de7539922577d9"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "0245049a34b33f053073998716de7539922577d9",
+        "Author": {
+          "name": "\"Karl Pauls\"",
+          "company": "@adobe"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T09:06:02Z",
+        "additions": 11,
+        "deletions": 8,
+        "files": [
+          "d1a09ec9f1618d41d80370d7d5f3dadeb4b88f36"
+        ]
+      }
+    ]
+  }
+]

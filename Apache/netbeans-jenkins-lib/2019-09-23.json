@@ -1,0 +1,230 @@
+[
+  {
+    "RepositoryName": "netbeans-jenkins-lib",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T09:03:55Z",
+    "EndDate": "2019-09-23T10:03:55",
+    "Branches": 2,
+    "Forks": 2,
+    "Files": [
+      {
+        "Sha": "4d591f881343456f4eb0b5c812042feb24096d1e",
+        "FileName": "asfMainNetBeansBuild.groovy",
+        "Path": "vars/asfMainNetBeansBuild.groovy",
+        "DateUpdated": "2019-09-23T09:07:56Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "e0ca458139a5163a1ca7cc11ed4c278c57896658"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "e0ca458139a5163a1ca7cc11ed4c278c57896658",
+        "Author": {
+          "name": "\"Eric Barboni\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T09:07:56Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "4d591f881343456f4eb0b5c812042feb24096d1e"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "netbeans-jenkins-lib",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T10:03:49Z",
+    "EndDate": "2019-09-23T11:03:49",
+    "Branches": 2,
+    "Forks": 2,
+    "Files": [
+      {
+        "Sha": "8fd7b89675aebb67a4a26f32db04a9396958ded4",
+        "FileName": "asfMainNetBeansBuild.groovy",
+        "Path": "vars/asfMainNetBeansBuild.groovy",
+        "DateUpdated": "2019-09-23T10:15:28Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "48710fb4dcae9ed3f40660cbfae7ed7d8fbec6ef"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "48710fb4dcae9ed3f40660cbfae7ed7d8fbec6ef",
+        "Author": {
+          "name": "\"Eric Barboni\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T10:15:28Z",
+        "additions": 2,
+        "deletions": 0,
+        "files": [
+          "8fd7b89675aebb67a4a26f32db04a9396958ded4"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "netbeans-jenkins-lib",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T11:04:26Z",
+    "EndDate": "2019-09-23T12:04:26",
+    "Branches": 2,
+    "Forks": 2,
+    "Files": [
+      {
+        "Sha": "6d85fe6eefad5dfd23cf15bef11a909aeaaaf31e",
+        "FileName": "asfMainNetBeansBuild.groovy",
+        "Path": "vars/asfMainNetBeansBuild.groovy",
+        "DateUpdated": "2019-09-23T11:13:29Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "67f1bcb7c5983e93429a14fa841b24fa9b7d5d83"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "67f1bcb7c5983e93429a14fa841b24fa9b7d5d83",
+        "Author": {
+          "name": "\"Eric Barboni\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T11:13:29Z",
+        "additions": 5,
+        "deletions": 5,
+        "files": [
+          "6d85fe6eefad5dfd23cf15bef11a909aeaaaf31e"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "netbeans-jenkins-lib",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T13:04:44Z",
+    "EndDate": "2019-09-23T14:04:44",
+    "Branches": 2,
+    "Forks": 2,
+    "Files": [
+      {
+        "Sha": "a678280e1f17831f05f277fc2740ff31c7d271bd",
+        "FileName": "asfMainNetBeansBuild.groovy",
+        "Path": "vars/asfMainNetBeansBuild.groovy",
+        "DateUpdated": "2019-09-23T13:44:22Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "985051210b82a35b07bef04b0d79c05620eeb301"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "985051210b82a35b07bef04b0d79c05620eeb301",
+        "Author": {
+          "name": "\"Eric Barboni\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T13:44:22Z",
+        "additions": 5,
+        "deletions": 5,
+        "files": [
+          "a678280e1f17831f05f277fc2740ff31c7d271bd"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "netbeans-jenkins-lib",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T14:04:43Z",
+    "EndDate": "2019-09-23T15:04:43",
+    "Branches": 2,
+    "Forks": 2,
+    "Files": [
+      {
+        "Sha": "7b8085b15d0aabd95f3800dc792c3553fc570602",
+        "FileName": "asfMainNetBeansBuild.groovy",
+        "Path": "vars/asfMainNetBeansBuild.groovy",
+        "DateUpdated": "2019-09-23T14:07:06Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "d84272e69d04c17517885185143fa0cdccc4de99"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d84272e69d04c17517885185143fa0cdccc4de99",
+        "Author": {
+          "name": "\"Eric Barboni\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T14:07:06Z",
+        "additions": 5,
+        "deletions": 5,
+        "files": [
+          "7b8085b15d0aabd95f3800dc792c3553fc570602"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "netbeans-jenkins-lib",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T15:04:24Z",
+    "EndDate": "2019-09-23T16:04:24",
+    "Branches": 2,
+    "Forks": 2,
+    "Files": [
+      {
+        "Sha": "0bd98d08b672c944e84bbf08128a638dc0f2a612",
+        "FileName": "asfMainNetBeansBuild.groovy",
+        "Path": "vars/asfMainNetBeansBuild.groovy",
+        "DateUpdated": "2019-09-23T15:48:01Z",
+        "Additions": 1,
+        "Deletions": 16,
+        "Commits": [
+          "1b82ae6cb6e91446203b0881811e27ea9d829898"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "1b82ae6cb6e91446203b0881811e27ea9d829898",
+        "Author": {
+          "name": "\"Eric Barboni\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T15:48:01Z",
+        "additions": 1,
+        "deletions": 16,
+        "files": [
+          "0bd98d08b672c944e84bbf08128a638dc0f2a612"
+        ]
+      }
+    ]
+  }
+]

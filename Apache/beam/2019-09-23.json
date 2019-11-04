@@ -1,0 +1,306 @@
+[
+  {
+    "RepositoryName": "beam",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T12:03:46Z",
+    "EndDate": "2019-09-23T13:03:46",
+    "Branches": 46,
+    "Forks": 2045,
+    "Files": [
+      {
+        "Sha": "60a761b9fcb5e26b55cb49cc9131a23015647968",
+        "FileName": "flink.md",
+        "Path": "website/src/documentation/runners/flink.md",
+        "DateUpdated": "2019-09-23T12:09:05Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "cb30e25c8cc4d291c110ff2b16da31a09977c8f3"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "cb30e25c8cc4d291c110ff2b16da31a09977c8f3",
+        "Author": {
+          "name": "\"Ismaël Mejía\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T12:09:05Z",
+        "additions": 7,
+        "deletions": 7,
+        "files": [
+          "60a761b9fcb5e26b55cb49cc9131a23015647968"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "beam",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T15:03:24Z",
+    "EndDate": "2019-09-23T16:03:24",
+    "Branches": 46,
+    "Forks": 2045,
+    "Files": [
+      {
+        "Sha": "41a46abce9cf8c45c6924400d2ab889b494650c6",
+        "FileName": "TestStream.java",
+        "Path": "sdks/java/core/src/main/java/org/apache/beam/sdk/testing/TestStream.java",
+        "DateUpdated": "2019-09-23T15:47:19Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "a15ccc87be7ea19420432c93a24eb22b872ea35b"
+        ]
+      },
+      {
+        "Sha": "8496a712fef0b2417635962445f2c78031f5d2e6",
+        "FileName": "BeamSqlExample.java",
+        "Path": "sdks/java/extensions/sql/src/main/java/org/apache/beam/sdk/extensions/sql/example/BeamSqlExample.java",
+        "DateUpdated": "2019-09-23T15:47:19Z",
+        "Additions": 1,
+        "Deletions": 6,
+        "Commits": [
+          "a15ccc87be7ea19420432c93a24eb22b872ea35b"
+        ]
+      },
+      {
+        "Sha": "8137f5c2045951a861180f5444e44af889f1f4ef",
+        "FileName": "BeamSortRel.java",
+        "Path": "sdks/java/extensions/sql/src/main/java/org/apache/beam/sdk/extensions/sql/impl/rel/BeamSortRel.java",
+        "DateUpdated": "2019-09-23T15:47:19Z",
+        "Additions": 1,
+        "Deletions": 5,
+        "Commits": [
+          "a15ccc87be7ea19420432c93a24eb22b872ea35b"
+        ]
+      },
+      {
+        "Sha": "29c112025cdc08eb148f7368ee6e0eebacc357fc",
+        "FileName": "TestTableProvider.java",
+        "Path": "sdks/java/extensions/sql/src/main/java/org/apache/beam/sdk/extensions/sql/meta/provider/test/TestTableProvider.java",
+        "DateUpdated": "2019-09-23T15:47:19Z",
+        "Additions": 1,
+        "Deletions": 5,
+        "Commits": [
+          "a15ccc87be7ea19420432c93a24eb22b872ea35b"
+        ]
+      },
+      {
+        "Sha": "88738a52b571dc4ce657c9a013f3491ebabe5471",
+        "FileName": "TestUnboundedTable.java",
+        "Path": "sdks/java/extensions/sql/src/main/java/org/apache/beam/sdk/extensions/sql/meta/provider/test/TestUnboundedTable.java",
+        "DateUpdated": "2019-09-23T15:47:19Z",
+        "Additions": 1,
+        "Deletions": 4,
+        "Commits": [
+          "a15ccc87be7ea19420432c93a24eb22b872ea35b"
+        ]
+      },
+      {
+        "Sha": "01872a57dc71e4fddab0c00211c07eaf52c74c0a",
+        "FileName": "BeamSqlCastTest.java",
+        "Path": "sdks/java/extensions/sql/src/test/java/org/apache/beam/sdk/extensions/sql/BeamSqlCastTest.java",
+        "DateUpdated": "2019-09-23T15:47:19Z",
+        "Additions": 2,
+        "Deletions": 9,
+        "Commits": [
+          "a15ccc87be7ea19420432c93a24eb22b872ea35b"
+        ]
+      },
+      {
+        "Sha": "edb765a254db5291e76d16c0f008a77762ec0bc0",
+        "FileName": "BeamSqlDslAggregationCovarianceTest.java",
+        "Path": "sdks/java/extensions/sql/src/test/java/org/apache/beam/sdk/extensions/sql/BeamSqlDslAggregationCovarianceTest.java",
+        "DateUpdated": "2019-09-23T15:47:19Z",
+        "Additions": 1,
+        "Deletions": 6,
+        "Commits": [
+          "a15ccc87be7ea19420432c93a24eb22b872ea35b"
+        ]
+      },
+      {
+        "Sha": "91925f08d80efc2ccce2dd13dc363b22b0152873",
+        "FileName": "BeamSqlDslAggregationNullableTest.java",
+        "Path": "sdks/java/extensions/sql/src/test/java/org/apache/beam/sdk/extensions/sql/BeamSqlDslAggregationNullableTest.java",
+        "DateUpdated": "2019-09-23T15:47:19Z",
+        "Additions": 1,
+        "Deletions": 3,
+        "Commits": [
+          "a15ccc87be7ea19420432c93a24eb22b872ea35b"
+        ]
+      },
+      {
+        "Sha": "2803fffcfd06570697eaec3fcfc1e5437cbd0aad",
+        "FileName": "BeamSqlDslAggregationTest.java",
+        "Path": "sdks/java/extensions/sql/src/test/java/org/apache/beam/sdk/extensions/sql/BeamSqlDslAggregationTest.java",
+        "DateUpdated": "2019-09-23T15:47:19Z",
+        "Additions": 3,
+        "Deletions": 11,
+        "Commits": [
+          "a15ccc87be7ea19420432c93a24eb22b872ea35b"
+        ]
+      },
+      {
+        "Sha": "808b27aaac4ce620eb8b0b5253d2fdc695bcafc0",
+        "FileName": "BeamSqlDslAggregationVarianceTest.java",
+        "Path": "sdks/java/extensions/sql/src/test/java/org/apache/beam/sdk/extensions/sql/BeamSqlDslAggregationVarianceTest.java",
+        "DateUpdated": "2019-09-23T15:47:19Z",
+        "Additions": 1,
+        "Deletions": 6,
+        "Commits": [
+          "a15ccc87be7ea19420432c93a24eb22b872ea35b"
+        ]
+      },
+      {
+        "Sha": "a9da87acbaca7fd2d84c94eb9f57300ba191fdaa",
+        "FileName": "BeamSqlDslArrayTest.java",
+        "Path": "sdks/java/extensions/sql/src/test/java/org/apache/beam/sdk/extensions/sql/BeamSqlDslArrayTest.java",
+        "DateUpdated": "2019-09-23T15:47:19Z",
+        "Additions": 8,
+        "Deletions": 33,
+        "Commits": [
+          "a15ccc87be7ea19420432c93a24eb22b872ea35b"
+        ]
+      },
+      {
+        "Sha": "ad26d4a27f5bbf89cf014f2aac4e2fc40ea1e9ee",
+        "FileName": "BeamSqlDslBase.java",
+        "Path": "sdks/java/extensions/sql/src/test/java/org/apache/beam/sdk/extensions/sql/BeamSqlDslBase.java",
+        "DateUpdated": "2019-09-23T15:47:19Z",
+        "Additions": 8,
+        "Deletions": 43,
+        "Commits": [
+          "a15ccc87be7ea19420432c93a24eb22b872ea35b"
+        ]
+      },
+      {
+        "Sha": "db6cc1421b2123b83a637c1025088f71026b3c35",
+        "FileName": "BeamSqlDslNestedRowsTest.java",
+        "Path": "sdks/java/extensions/sql/src/test/java/org/apache/beam/sdk/extensions/sql/BeamSqlDslNestedRowsTest.java",
+        "DateUpdated": "2019-09-23T15:47:19Z",
+        "Additions": 5,
+        "Deletions": 11,
+        "Commits": [
+          "a15ccc87be7ea19420432c93a24eb22b872ea35b"
+        ]
+      },
+      {
+        "Sha": "76ed40e202a36ec02e449ef3a4b06595efdd3037",
+        "FileName": "BeamSqlMapTest.java",
+        "Path": "sdks/java/extensions/sql/src/test/java/org/apache/beam/sdk/extensions/sql/BeamSqlMapTest.java",
+        "DateUpdated": "2019-09-23T15:47:19Z",
+        "Additions": 1,
+        "Deletions": 5,
+        "Commits": [
+          "a15ccc87be7ea19420432c93a24eb22b872ea35b"
+        ]
+      },
+      {
+        "Sha": "3d11e7d3041f8c5f45912c8e18c6675fd3ba5364",
+        "FileName": "TestUtils.java",
+        "Path": "sdks/java/extensions/sql/src/test/java/org/apache/beam/sdk/extensions/sql/TestUtils.java",
+        "DateUpdated": "2019-09-23T15:47:19Z",
+        "Additions": 1,
+        "Deletions": 4,
+        "Commits": [
+          "a15ccc87be7ea19420432c93a24eb22b872ea35b"
+        ]
+      },
+      {
+        "Sha": "5c92ea8dd5a95845ce68e4e67225605326d88179",
+        "FileName": "BeamSqlRowCoderTest.java",
+        "Path": "sdks/java/extensions/sql/src/test/java/org/apache/beam/sdk/extensions/sql/impl/schema/BeamSqlRowCoderTest.java",
+        "DateUpdated": "2019-09-23T15:47:19Z",
+        "Additions": 1,
+        "Deletions": 4,
+        "Commits": [
+          "a15ccc87be7ea19420432c93a24eb22b872ea35b"
+        ]
+      },
+      {
+        "Sha": "221f490bd2a710cb866a6c0b5291d43103b4759a",
+        "FileName": "BeamSqlBuiltinFunctionsIntegrationTestBase.java",
+        "Path": "sdks/java/extensions/sql/src/test/java/org/apache/beam/sdk/extensions/sql/integrationtest/BeamSqlBuiltinFunctionsIntegrationTestBase.java",
+        "DateUpdated": "2019-09-23T15:47:19Z",
+        "Additions": 1,
+        "Deletions": 7,
+        "Commits": [
+          "a15ccc87be7ea19420432c93a24eb22b872ea35b"
+        ]
+      },
+      {
+        "Sha": "632158903786026d23e3edcfef55acbe5d5ba7a1",
+        "FileName": "BigQueryReadWriteIT.java",
+        "Path": "sdks/java/extensions/sql/src/test/java/org/apache/beam/sdk/extensions/sql/meta/provider/bigquery/BigQueryReadWriteIT.java",
+        "DateUpdated": "2019-09-23T15:47:19Z",
+        "Additions": 1,
+        "Deletions": 5,
+        "Commits": [
+          "a15ccc87be7ea19420432c93a24eb22b872ea35b"
+        ]
+      },
+      {
+        "Sha": "65aeb656001464a8c313889ee36cb69c76cc3f3f",
+        "FileName": "PubsubJsonIT.java",
+        "Path": "sdks/java/extensions/sql/src/test/java/org/apache/beam/sdk/extensions/sql/meta/provider/pubsub/PubsubJsonIT.java",
+        "DateUpdated": "2019-09-23T15:47:19Z",
+        "Additions": 2,
+        "Deletions": 5,
+        "Commits": [
+          "a15ccc87be7ea19420432c93a24eb22b872ea35b"
+        ]
+      },
+      {
+        "Sha": "aa1709a74f13867b2981a0872a0be45af36350bc",
+        "FileName": "RowSizeTest.java",
+        "Path": "sdks/java/testing/nexmark/src/test/java/org/apache/beam/sdk/nexmark/model/sql/RowSizeTest.java",
+        "DateUpdated": "2019-09-23T15:47:19Z",
+        "Additions": 1,
+        "Deletions": 6,
+        "Commits": [
+          "a15ccc87be7ea19420432c93a24eb22b872ea35b"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a15ccc87be7ea19420432c93a24eb22b872ea35b",
+        "Author": {
+          "name": "\"Andrew Pilloud\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T15:47:19Z",
+        "additions": 45,
+        "deletions": 178,
+        "files": [
+          "41a46abce9cf8c45c6924400d2ab889b494650c6",
+          "8496a712fef0b2417635962445f2c78031f5d2e6",
+          "8137f5c2045951a861180f5444e44af889f1f4ef",
+          "29c112025cdc08eb148f7368ee6e0eebacc357fc",
+          "88738a52b571dc4ce657c9a013f3491ebabe5471",
+          "01872a57dc71e4fddab0c00211c07eaf52c74c0a",
+          "edb765a254db5291e76d16c0f008a77762ec0bc0",
+          "91925f08d80efc2ccce2dd13dc363b22b0152873",
+          "2803fffcfd06570697eaec3fcfc1e5437cbd0aad",
+          "808b27aaac4ce620eb8b0b5253d2fdc695bcafc0",
+          "a9da87acbaca7fd2d84c94eb9f57300ba191fdaa",
+          "ad26d4a27f5bbf89cf014f2aac4e2fc40ea1e9ee",
+          "db6cc1421b2123b83a637c1025088f71026b3c35",
+          "76ed40e202a36ec02e449ef3a4b06595efdd3037",
+          "3d11e7d3041f8c5f45912c8e18c6675fd3ba5364",
+          "5c92ea8dd5a95845ce68e4e67225605326d88179",
+          "221f490bd2a710cb866a6c0b5291d43103b4759a",
+          "632158903786026d23e3edcfef55acbe5d5ba7a1",
+          "65aeb656001464a8c313889ee36cb69c76cc3f3f",
+          "aa1709a74f13867b2981a0872a0be45af36350bc"
+        ]
+      }
+    ]
+  }
+]

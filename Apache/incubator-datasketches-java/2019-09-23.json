@@ -1,0 +1,44 @@
+[
+  {
+    "RepositoryName": "incubator-datasketches-java",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T16:03:16Z",
+    "EndDate": "2019-09-23T17:03:16",
+    "Branches": 2,
+    "Forks": 156,
+    "Files": [
+      {
+        "Sha": "06a14e9b0c638b0babdfdb49a4782c185f9c1c8f",
+        "FileName": "LICENSE",
+        "Path": "LICENSE",
+        "DateUpdated": "2019-09-23T16:34:44Z",
+        "Additions": 19,
+        "Deletions": 9,
+        "Commits": [
+          "7e6990785fe6dc7131aa91c7e42f99ff1550bbe0"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "7e6990785fe6dc7131aa91c7e42f99ff1550bbe0",
+        "Author": {
+          "name": "\"Lee Rhodes\"",
+          "location": "Sunnyvale, CA",
+          "company": "Yahoo"
+        },
+        "Commitor": {
+          "name": "\"Lee Rhodes\"",
+          "location": "Sunnyvale, CA",
+          "company": "Yahoo"
+        },
+        "Date": "2019-09-23T16:34:44Z",
+        "additions": 19,
+        "deletions": 9,
+        "files": [
+          "06a14e9b0c638b0babdfdb49a4782c185f9c1c8f"
+        ]
+      }
+    ]
+  }
+]

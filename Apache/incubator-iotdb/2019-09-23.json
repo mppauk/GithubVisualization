@@ -1,0 +1,179 @@
+[
+  {
+    "RepositoryName": "incubator-iotdb",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T11:04:16Z",
+    "EndDate": "2019-09-23T12:04:16",
+    "Branches": 30,
+    "Forks": 74,
+    "Files": [
+      {
+        "Sha": "5377adf886404fa529f083697bac2ac89c0f06c7",
+        "FileName": "StorageGroupProcessor.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/engine/storagegroup/StorageGroupProcessor.java",
+        "DateUpdated": "2019-09-23T11:19:01Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "6c341db333a1c3b7c65c67caf9e9cbdd2ebd706b"
+        ]
+      },
+      {
+        "Sha": "4dafbdbd18e489391b39e0aaf5741c90c50b6319",
+        "FileName": "TsFileResourcePrinter.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/tools/TsFileResourcePrinter.java",
+        "DateUpdated": "2019-09-23T11:19:01Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "6c341db333a1c3b7c65c67caf9e9cbdd2ebd706b"
+        ]
+      },
+      {
+        "Sha": "fd393565b6f347f2bec0d62a8ba47bfa2afbb362",
+        "FileName": "LogReplayer.java",
+        "Path": "server/src/main/java/org/apache/iotdb/db/writelog/recover/LogReplayer.java",
+        "DateUpdated": "2019-09-23T11:19:01Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "6c341db333a1c3b7c65c67caf9e9cbdd2ebd706b"
+        ]
+      },
+      {
+        "Sha": "efb59270e0ce4d814b59d63a8a63d9a8a6a5cb87",
+        "FileName": "FileInputFactory.java",
+        "Path": "tsfile/src/main/java/org/apache/iotdb/tsfile/fileSystem/FileInputFactory.java",
+        "DateUpdated": "2019-09-23T11:19:01Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "6c341db333a1c3b7c65c67caf9e9cbdd2ebd706b"
+        ]
+      },
+      {
+        "Sha": "621a04adfe367ee2125b3f32b6a04cc187d1becf",
+        "FileName": "FileOutputFactory.java",
+        "Path": "tsfile/src/main/java/org/apache/iotdb/tsfile/fileSystem/FileOutputFactory.java",
+        "DateUpdated": "2019-09-23T11:19:01Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "6c341db333a1c3b7c65c67caf9e9cbdd2ebd706b"
+        ]
+      },
+      {
+        "Sha": "6dc411a53cfe7811f310f2fbe5aaf7a77d096778",
+        "FileName": "HDFSFile.java",
+        "Path": "tsfile/src/main/java/org/apache/iotdb/tsfile/fileSystem/HDFSFile.java",
+        "DateUpdated": "2019-09-23T11:19:01Z",
+        "Additions": 24,
+        "Deletions": 35,
+        "Commits": [
+          "6c341db333a1c3b7c65c67caf9e9cbdd2ebd706b"
+        ]
+      },
+      {
+        "Sha": "56b01775d3ca9a698bef067c22c36efe9a167c10",
+        "FileName": "HDFSOutput.java",
+        "Path": "tsfile/src/main/java/org/apache/iotdb/tsfile/fileSystem/HDFSOutput.java",
+        "DateUpdated": "2019-09-23T11:19:01Z",
+        "Additions": 20,
+        "Deletions": 5,
+        "Commits": [
+          "6c341db333a1c3b7c65c67caf9e9cbdd2ebd706b"
+        ]
+      },
+      {
+        "Sha": "644c3b6a5414d6dffa106237d71d91f6267c671e",
+        "FileName": "TSFileFactory.java",
+        "Path": "tsfile/src/main/java/org/apache/iotdb/tsfile/fileSystem/TSFileFactory.java",
+        "DateUpdated": "2019-09-23T11:19:01Z",
+        "Additions": 68,
+        "Deletions": 16,
+        "Commits": [
+          "6c341db333a1c3b7c65c67caf9e9cbdd2ebd706b"
+        ]
+      },
+      {
+        "Sha": "7b47a91a61e4a9e9ae7f242069e0d6436e81cbc0",
+        "FileName": "TsFileWriter.java",
+        "Path": "tsfile/src/main/java/org/apache/iotdb/tsfile/write/TsFileWriter.java",
+        "DateUpdated": "2019-09-23T11:08:32Z",
+        "Additions": 4,
+        "Deletions": 6,
+        "Commits": [
+          "e2007390cf6b496b1531955267911a416ca55385"
+        ]
+      },
+      {
+        "Sha": "bef057ff54bd0a3f3f3825dc9ddeef61bf585103",
+        "FileName": "ChunkGroupWriterImpl.java",
+        "Path": "tsfile/src/main/java/org/apache/iotdb/tsfile/write/chunk/ChunkGroupWriterImpl.java",
+        "DateUpdated": "2019-09-23T11:08:32Z",
+        "Additions": 3,
+        "Deletions": 4,
+        "Commits": [
+          "e2007390cf6b496b1531955267911a416ca55385"
+        ]
+      },
+      {
+        "Sha": "fb5623bd3880638d398e5525e2ad55d94bc2e44d",
+        "FileName": "IChunkGroupWriter.java",
+        "Path": "tsfile/src/main/java/org/apache/iotdb/tsfile/write/chunk/IChunkGroupWriter.java",
+        "DateUpdated": "2019-09-23T11:08:32Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "e2007390cf6b496b1531955267911a416ca55385"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "6c341db333a1c3b7c65c67caf9e9cbdd2ebd706b",
+        "Author": {
+          "name": "\"Zesong Sun\"",
+          "location": "Beijing, China"
+        },
+        "Commitor": {
+          "name": "\"Jialin Qiao\"",
+          "location": "Beijing",
+          "company": "Tsinghua university"
+        },
+        "Date": "2019-09-23T11:19:01Z",
+        "additions": 122,
+        "deletions": 66,
+        "files": [
+          "5377adf886404fa529f083697bac2ac89c0f06c7",
+          "4dafbdbd18e489391b39e0aaf5741c90c50b6319",
+          "fd393565b6f347f2bec0d62a8ba47bfa2afbb362",
+          "efb59270e0ce4d814b59d63a8a63d9a8a6a5cb87",
+          "621a04adfe367ee2125b3f32b6a04cc187d1becf",
+          "6dc411a53cfe7811f310f2fbe5aaf7a77d096778",
+          "56b01775d3ca9a698bef067c22c36efe9a167c10",
+          "644c3b6a5414d6dffa106237d71d91f6267c671e"
+        ]
+      },
+      {
+        "sha": "e2007390cf6b496b1531955267911a416ca55385",
+        "Author": {
+          "name": "\"Boris\""
+        },
+        "Commitor": {
+          "name": "\"Jialin Qiao\"",
+          "location": "Beijing",
+          "company": "Tsinghua university"
+        },
+        "Date": "2019-09-23T11:08:32Z",
+        "additions": 9,
+        "deletions": 11,
+        "files": [
+          "7b47a91a61e4a9e9ae7f242069e0d6436e81cbc0",
+          "bef057ff54bd0a3f3f3825dc9ddeef61bf585103",
+          "fb5623bd3880638d398e5525e2ad55d94bc2e44d"
+        ]
+      }
+    ]
+  }
+]

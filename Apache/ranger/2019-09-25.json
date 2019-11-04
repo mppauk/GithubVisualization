@@ -1,0 +1,893 @@
+[
+  {
+    "RepositoryName": "ranger",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T10:02:46Z",
+    "EndDate": "2019-09-25T11:02:46",
+    "Branches": 12,
+    "Forks": 268,
+    "Files": [
+      {
+        "Sha": "93b28a82e132781dc30cf7cab6320d1a69063ec8",
+        "FileName": "SearchFilter.java",
+        "Path": "agents-common/src/main/java/org/apache/ranger/plugin/util/SearchFilter.java",
+        "DateUpdated": "2019-09-25T10:31:42Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "c5bf2f6364a97539451656d28fd36e35d8e2736d"
+        ]
+      },
+      {
+        "Sha": "e1c45788b0502d4acb11dfb0d1e48aa49ded2e7e",
+        "FileName": "ServiceDBStore.java",
+        "Path": "security-admin/src/main/java/org/apache/ranger/biz/ServiceDBStore.java",
+        "DateUpdated": "2019-09-25T10:31:42Z",
+        "Additions": 101,
+        "Deletions": 28,
+        "Commits": [
+          "c5bf2f6364a97539451656d28fd36e35d8e2736d"
+        ]
+      },
+      {
+        "Sha": "99af81804da914e73667959de6574cf909e19fbb",
+        "FileName": "RangerSearchUtil.java",
+        "Path": "security-admin/src/main/java/org/apache/ranger/common/RangerSearchUtil.java",
+        "DateUpdated": "2019-09-25T10:31:42Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "c5bf2f6364a97539451656d28fd36e35d8e2736d"
+        ]
+      },
+      {
+        "Sha": "2b1a3fa306c69d7c33c59a0fa367db235fb4dd4d",
+        "FileName": "ServiceUtil.java",
+        "Path": "security-admin/src/main/java/org/apache/ranger/common/ServiceUtil.java",
+        "DateUpdated": "2019-09-25T10:31:42Z",
+        "Additions": 18,
+        "Deletions": 24,
+        "Commits": [
+          "c5bf2f6364a97539451656d28fd36e35d8e2736d"
+        ]
+      },
+      {
+        "Sha": "8ee181afbc7e580aa31af9098691d5980a078bd1",
+        "FileName": "ServiceREST.java",
+        "Path": "security-admin/src/main/java/org/apache/ranger/rest/ServiceREST.java",
+        "DateUpdated": "2019-09-25T10:31:42Z",
+        "Additions": 11,
+        "Deletions": 4,
+        "Commits": [
+          "c5bf2f6364a97539451656d28fd36e35d8e2736d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c5bf2f6364a97539451656d28fd36e35d8e2736d",
+        "Author": {
+          "name": "\"Sanjar Matin\""
+        },
+        "Commitor": {
+          "name": "\"PradeeP AgrawaL\""
+        },
+        "Date": "2019-09-25T10:31:42Z",
+        "additions": 134,
+        "deletions": 56,
+        "files": [
+          "93b28a82e132781dc30cf7cab6320d1a69063ec8",
+          "e1c45788b0502d4acb11dfb0d1e48aa49ded2e7e",
+          "99af81804da914e73667959de6574cf909e19fbb",
+          "2b1a3fa306c69d7c33c59a0fa367db235fb4dd4d",
+          "8ee181afbc7e580aa31af9098691d5980a078bd1"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "ranger",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T12:03:12Z",
+    "EndDate": "2019-09-25T13:03:12",
+    "Branches": 12,
+    "Forks": 268,
+    "Files": [
+      {
+        "Sha": "01ee945f34d6758a74c6edfafc164128787b704c",
+        "FileName": "RangerAdminRESTClient.java",
+        "Path": "agents-common/src/main/java/org/apache/ranger/admin/client/RangerAdminRESTClient.java",
+        "DateUpdated": "2019-09-25T12:43:57Z",
+        "Additions": 152,
+        "Deletions": 94,
+        "Commits": [
+          "4624da1f47242715865a5197ecd1f0d5adb62617"
+        ]
+      },
+      {
+        "Sha": "ef5f1d53f37f4db93d672a533dad0248d392beb7",
+        "FileName": "RangerRESTClient.java",
+        "Path": "agents-common/src/main/java/org/apache/ranger/plugin/util/RangerRESTClient.java",
+        "DateUpdated": "2019-09-25T12:43:57Z",
+        "Additions": 187,
+        "Deletions": 7,
+        "Commits": [
+          "4624da1f47242715865a5197ecd1f0d5adb62617"
+        ]
+      },
+      {
+        "Sha": "db16d73a0b72813794501d2fc8ffc3230a07bf22",
+        "FileName": "RangerAdminJersey2RESTClient.java",
+        "Path": "knox-agent/src/main/java/org/apache/ranger/admin/client/RangerAdminJersey2RESTClient.java",
+        "DateUpdated": "2019-09-25T12:43:57Z",
+        "Additions": 95,
+        "Deletions": 57,
+        "Commits": [
+          "4624da1f47242715865a5197ecd1f0d5adb62617"
+        ]
+      },
+      {
+        "Sha": "062c5e307b80a69562afc574fc0e8432b56fe05e",
+        "FileName": "TagAdminRESTSink.java",
+        "Path": "tagsync/src/main/java/org/apache/ranger/tagsync/sink/tagadmin/TagAdminRESTSink.java",
+        "DateUpdated": "2019-09-25T12:43:57Z",
+        "Additions": 29,
+        "Deletions": 55,
+        "Commits": [
+          "4624da1f47242715865a5197ecd1f0d5adb62617"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "4624da1f47242715865a5197ecd1f0d5adb62617",
+        "Author": {
+          "name": "\"Mateen Mansoori\"",
+          "location": "India"
+        },
+        "Commitor": {
+          "name": "\"PradeeP AgrawaL\""
+        },
+        "Date": "2019-09-25T12:43:57Z",
+        "additions": 463,
+        "deletions": 213,
+        "files": [
+          "01ee945f34d6758a74c6edfafc164128787b704c",
+          "ef5f1d53f37f4db93d672a533dad0248d392beb7",
+          "db16d73a0b72813794501d2fc8ffc3230a07bf22",
+          "062c5e307b80a69562afc574fc0e8432b56fe05e"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "ranger",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T20:03:06Z",
+    "EndDate": "2019-09-25T21:03:06",
+    "Branches": 12,
+    "Forks": 268,
+    "Files": [
+      {
+        "Sha": "5939f3854159156fcaaecd708350f635f17aede9",
+        "FileName": "RangerAdminRESTClient.java",
+        "Path": "agents-common/src/main/java/org/apache/ranger/admin/client/RangerAdminRESTClient.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 13,
+        "Deletions": 6,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "3063885345653a0ef6e310aa0b923584e3de0208",
+        "FileName": "RangerTagEnricher.java",
+        "Path": "agents-common/src/main/java/org/apache/ranger/plugin/contextenricher/RangerTagEnricher.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 345,
+        "Deletions": 82,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "1b69d8dd4528f9bfe7aa02d9fa4c3cafb3944909",
+        "FileName": "RangerPolicyDelta.java",
+        "Path": "agents-common/src/main/java/org/apache/ranger/plugin/model/RangerPolicyDelta.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "c23a2d47670727da05cf7700f1924009fad74e32",
+        "FileName": "RangerPolicyEngineImpl.java",
+        "Path": "agents-common/src/main/java/org/apache/ranger/plugin/policyengine/RangerPolicyEngineImpl.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 209,
+        "Deletions": 121,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "ae88c73ea91788a939a22d5ba0884e77d53f454c",
+        "FileName": "RangerPolicyRepository.java",
+        "Path": "agents-common/src/main/java/org/apache/ranger/plugin/policyengine/RangerPolicyRepository.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 65,
+        "Deletions": 21,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "d2fc5d3152a4bcb42e2a6f33bcefbae73ad1cf19",
+        "FileName": "RangerDefaultPolicyResourceMatcher.java",
+        "Path": "agents-common/src/main/java/org/apache/ranger/plugin/policyresourcematcher/RangerDefaultPolicyResourceMatcher.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "cf833b78883ccfd53d9b731ab1b794e6d5eb9407",
+        "FileName": "RangerBasePlugin.java",
+        "Path": "agents-common/src/main/java/org/apache/ranger/plugin/service/RangerBasePlugin.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "795289b5c6190c1f81ddfdf5d3177b1af13ceea1",
+        "FileName": "TagStore.java",
+        "Path": "agents-common/src/main/java/org/apache/ranger/plugin/store/TagStore.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 5,
+        "Deletions": 2,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "08b1e45fdac697abd97e891462d00da79674c4e4",
+        "FileName": "TagValidator.java",
+        "Path": "agents-common/src/main/java/org/apache/ranger/plugin/store/TagValidator.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 20,
+        "Deletions": 3,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "bdb77e7b4850afc38581021229b46cd9f6706681",
+        "FileName": "RangerRESTUtils.java",
+        "Path": "agents-common/src/main/java/org/apache/ranger/plugin/util/RangerRESTUtils.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "0cba8823259289771a8b47ed45f6009594424374",
+        "FileName": "RangerResourceTrie.java",
+        "Path": "agents-common/src/main/java/org/apache/ranger/plugin/util/RangerResourceTrie.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 76,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "6b70b22595b5c00630a2fd07b6609f922a6a8880",
+        "FileName": "RangerServiceTagsDeltaUtil.java",
+        "Path": "agents-common/src/main/java/org/apache/ranger/plugin/util/RangerServiceTagsDeltaUtil.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 177,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "9e8e0cf6cc420af463d87b7a2a0ada36ebf7596b",
+        "FileName": "ServiceTags.java",
+        "Path": "agents-common/src/main/java/org/apache/ranger/plugin/util/ServiceTags.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 28,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "d0e0cfcd0cb67da8c1fd7626e61a2b8f8822842f",
+        "FileName": "TestPolicyEngine.java",
+        "Path": "agents-common/src/test/java/org/apache/ranger/plugin/policyengine/TestPolicyEngine.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 10,
+        "Deletions": 5,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "b0a12c3410626e94adc87817793fbd4cc3a86ea1",
+        "FileName": "TestPolicyEngineComparison.java",
+        "Path": "agents-common/src/test/java/org/apache/ranger/plugin/policyengine/TestPolicyEngineComparison.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 191,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "5b7996875fe40c1de0a91b6dd5b39d4836a17274",
+        "FileName": "myServicePolicies.json",
+        "Path": "agents-common/src/test/resources/policyengine/comparison/fail/myServicePolicies.json",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 177,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "fe57135a44b9a9993c6e9f8663b9d684d8591880",
+        "FileName": "myServiceTags.json",
+        "Path": "agents-common/src/test/resources/policyengine/comparison/fail/myServiceTags.json",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 55,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "f70737d9340421628db94fe10c2d079106610d33",
+        "FileName": "otherServicePolicies.json",
+        "Path": "agents-common/src/test/resources/policyengine/comparison/fail/otherServicePolicies.json",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 225,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "66e63d1f5f3b06da980719abb82a9a9de8f256c4",
+        "FileName": "otherServiceTags.json",
+        "Path": "agents-common/src/test/resources/policyengine/comparison/fail/otherServiceTags.json",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 55,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "2cfd8ec85589dfcfdfd2cfe1a9fe8184eb76b366",
+        "FileName": "myServicePolicies.json",
+        "Path": "agents-common/src/test/resources/policyengine/comparison/success/myServicePolicies.json",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47",
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "626c02300297799f5e6df4a4032784f65a760596",
+        "FileName": "myServiceTags.json",
+        "Path": "agents-common/src/test/resources/policyengine/comparison/success/myServiceTags.json",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "1d8043d497d9fb7779d54ad03ad46ffd364f30df",
+        "FileName": "otherServiceTags.json",
+        "Path": "agents-common/src/test/resources/policyengine/comparison/success/otherServiceTags.json",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "9a0d846fb6e20ad1c52db2597e38f198b605b88b",
+        "FileName": "test_compare_policyengines.json",
+        "Path": "agents-common/src/test/resources/policyengine/test_compare_policyengines.json",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 30,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "efc1dcc06ae6d140ec1a00286ef367c66e62c3c0",
+        "FileName": "test_policyengine_hive.json",
+        "Path": "agents-common/src/test/resources/policyengine/test_policyengine_hive.json",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 32,
+        "Deletions": 1,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "234673ed34956c119084567b980ba667b4033303",
+        "FileName": "test_policyengine_hive_incremental_add.json",
+        "Path": "agents-common/src/test/resources/policyengine/test_policyengine_hive_incremental_add.json",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 52,
+        "Deletions": 10,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "1ba9fba04b7280980ca549502c3588caaff0a5f8",
+        "FileName": "test_policyengine_hive_incremental_delete.json",
+        "Path": "agents-common/src/test/resources/policyengine/test_policyengine_hive_incremental_delete.json",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 135,
+        "Deletions": 11,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "2959225f2803947757c710e5884e94a7630e4f51",
+        "FileName": "test_policyengine_hive_incremental_update.json",
+        "Path": "agents-common/src/test/resources/policyengine/test_policyengine_hive_incremental_update.json",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 51,
+        "Deletions": 9,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "5dcce11b6d37971d3e68d83c30f9c7e664697c1b",
+        "FileName": "RangerAdminJersey2RESTClient.java",
+        "Path": "knox-agent/src/main/java/org/apache/ranger/admin/client/RangerAdminJersey2RESTClient.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 7,
+        "Deletions": 2,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "8e42bd9d375b2f578e91744225b243493d716b0d",
+        "FileName": "ranger_core_db_mysql.sql",
+        "Path": "security-admin/db/mysql/optimized/current/ranger_core_db_mysql.sql",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 15,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "bf81a028ed1028394690d01e8f588c567a850d96",
+        "FileName": "043-add-tag-change-log-table.sql",
+        "Path": "security-admin/db/mysql/patches/043-add-tag-change-log-table.sql",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 31,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "1b158c9e3cadaa28f8be62ea941062ad43cca930",
+        "FileName": "ranger_core_db_oracle.sql",
+        "Path": "security-admin/db/oracle/optimized/current/ranger_core_db_oracle.sql",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 18,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "691cbdb573c8fb18eee818b9ad0bc7f7fbd67945",
+        "FileName": "043-add-tag-change-log-table.sql",
+        "Path": "security-admin/db/oracle/patches/043-add-tag-change-log-table.sql",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 60,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "0034759b848458fc9626ec3e1b538a592ab2804a",
+        "FileName": "ranger_core_db_postgres.sql",
+        "Path": "security-admin/db/postgres/optimized/current/ranger_core_db_postgres.sql",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 21,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "3e060d7addeeabe9bc69abd45980ec9a34658eae",
+        "FileName": "043-add-tag-change-log-table.sql",
+        "Path": "security-admin/db/postgres/patches/043-add-tag-change-log-table.sql",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 39,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "9dc7656957bab5d7cd880d3288c20fe4739e11aa",
+        "FileName": "ranger_core_db_sqlanywhere.sql",
+        "Path": "security-admin/db/sqlanywhere/optimized/current/ranger_core_db_sqlanywhere.sql",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 20,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "74ae77797bd2f1e24e6524c36ad299947d23285f",
+        "FileName": "043-add-tag-change-log-table.sql",
+        "Path": "security-admin/db/sqlanywhere/patches/043-add-tag-change-log-table.sql",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 62,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "9383d1aafc4b670e2d5259d659664a6a75caa626",
+        "FileName": "ranger_core_db_sqlserver.sql",
+        "Path": "security-admin/db/sqlserver/optimized/current/ranger_core_db_sqlserver.sql",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 32,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "79c012d495ab31f5a99f102f1ae742c036b243a2",
+        "FileName": "043-add-tag-change-log-table.sql",
+        "Path": "security-admin/db/sqlserver/patches/043-add-tag-change-log-table.sql",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 53,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "22bea8bb0dcdae16257a494e2b38f34232bfb670",
+        "FileName": "RangerTagDBRetriever.java",
+        "Path": "security-admin/src/main/java/org/apache/ranger/biz/RangerTagDBRetriever.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 3,
+        "Deletions": 4,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "92436ac202dbe1e670e5836c18abac7edced6ed8",
+        "FileName": "ServiceDBStore.java",
+        "Path": "security-admin/src/main/java/org/apache/ranger/biz/ServiceDBStore.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 155,
+        "Deletions": 50,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "0e33298dbd41ea7ed80718ee7449469773926e8d",
+        "FileName": "TagDBStore.java",
+        "Path": "security-admin/src/main/java/org/apache/ranger/biz/TagDBStore.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 206,
+        "Deletions": 32,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "ad8d43bcf6614426a08a0674e801263eff26bcbf",
+        "FileName": "RangerAdminTagEnricher.java",
+        "Path": "security-admin/src/main/java/org/apache/ranger/common/RangerAdminTagEnricher.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 55,
+        "Deletions": 8,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "22a92b2065e719a1e90ac95804ef68162419adcf",
+        "FileName": "RangerServiceTagsCache.java",
+        "Path": "security-admin/src/main/java/org/apache/ranger/common/RangerServiceTagsCache.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 128,
+        "Deletions": 71,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "74c3dd04b8e3f0de5c1d145e1288598ef2af0b40",
+        "FileName": "RangerDaoManagerBase.java",
+        "Path": "security-admin/src/main/java/org/apache/ranger/db/RangerDaoManagerBase.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "7055391d10a96073d44ddb5359dd03cfc6668cc6",
+        "FileName": "XXPolicyChangeLogDao.java",
+        "Path": "security-admin/src/main/java/org/apache/ranger/db/XXPolicyChangeLogDao.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 21,
+        "Deletions": 8,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "9f6f024bbb74aba9644a73d1ac7d558978a1d0a6",
+        "FileName": "XXServiceVersionInfoDao.java",
+        "Path": "security-admin/src/main/java/org/apache/ranger/db/XXServiceVersionInfoDao.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 49,
+        "Deletions": 23,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "ef65e9a6b6f3d26e1f96057e6addea5333e176e4",
+        "FileName": "XXTagChangeLogDao.java",
+        "Path": "security-admin/src/main/java/org/apache/ranger/db/XXTagChangeLogDao.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 122,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "c3eb14414196333138af733f009890af450be1b0",
+        "FileName": "XXTagChangeLog.java",
+        "Path": "security-admin/src/main/java/org/apache/ranger/entity/XXTagChangeLog.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 219,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "c33841dfd13517b9646f45bdba2eea0f1d9d19dc",
+        "FileName": "PublicAPIsv2.java",
+        "Path": "security-admin/src/main/java/org/apache/ranger/rest/PublicAPIsv2.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "cfeaadd029d5c282aae961ad6d271879d50077bb",
+        "FileName": "ServiceREST.java",
+        "Path": "security-admin/src/main/java/org/apache/ranger/rest/ServiceREST.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 5,
+        "Deletions": 4,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "51f33db09a24c5beb57f217daa5d577b8885396c",
+        "FileName": "TagREST.java",
+        "Path": "security-admin/src/main/java/org/apache/ranger/rest/TagREST.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 26,
+        "Deletions": 8,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "6bbf98dbdb1e8eab8a72e75a85187079bd04795d",
+        "FileName": "RangerServiceResourceService.java",
+        "Path": "security-admin/src/main/java/org/apache/ranger/service/RangerServiceResourceService.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "d4350b68e412c05a1a98553097f52de1bc34dd74",
+        "FileName": "RangerTagDefService.java",
+        "Path": "security-admin/src/main/java/org/apache/ranger/service/RangerTagDefService.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "76c02ac9ec458bb228f378168fd9c71e28ea7b3b",
+        "FileName": "RangerTagResourceMapService.java",
+        "Path": "security-admin/src/main/java/org/apache/ranger/service/RangerTagResourceMapService.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 2,
+        "Deletions": 11,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "5fdefe5a3088c0b46e5f510d1a79f3019f9b6395",
+        "FileName": "RangerTagService.java",
+        "Path": "security-admin/src/main/java/org/apache/ranger/service/RangerTagService.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 19,
+        "Deletions": 1,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "9714fa91be373134a206ceefc334df3525294390",
+        "FileName": "jpa_named_queries.xml",
+        "Path": "security-admin/src/main/resources/META-INF/jpa_named_queries.xml",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 20,
+        "Deletions": 0,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "402f1ce2c2a741621cba91ad6e67f8bce5270016",
+        "FileName": "TestTagREST.java",
+        "Path": "security-admin/src/test/java/org/apache/ranger/rest/TestTagREST.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 22,
+        "Deletions": 22,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "160a53c5044d76cb48452712ec9d2c17746af795",
+        "FileName": "TestRangerTagDefService.java",
+        "Path": "security-admin/src/test/java/org/apache/ranger/service/TestRangerTagDefService.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      },
+      {
+        "Sha": "1e17af8bac9e68db6f2a48ef237950e901369948",
+        "FileName": "TestRangerTagResourceMapService.java",
+        "Path": "security-admin/src/test/java/org/apache/ranger/service/TestRangerTagResourceMapService.java",
+        "DateUpdated": "2019-09-25T20:44:05Z",
+        "Additions": 0,
+        "Deletions": 8,
+        "Commits": [
+          "c31d4e45281d18b2f18be315d58dc21ea02c7c47"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c31d4e45281d18b2f18be315d58dc21ea02c7c47",
+        "Date": "2019-09-25T20:44:05Z",
+        "additions": 3382,
+        "deletions": 533,
+        "files": [
+          "5939f3854159156fcaaecd708350f635f17aede9",
+          "3063885345653a0ef6e310aa0b923584e3de0208",
+          "1b69d8dd4528f9bfe7aa02d9fa4c3cafb3944909",
+          "c23a2d47670727da05cf7700f1924009fad74e32",
+          "ae88c73ea91788a939a22d5ba0884e77d53f454c",
+          "d2fc5d3152a4bcb42e2a6f33bcefbae73ad1cf19",
+          "cf833b78883ccfd53d9b731ab1b794e6d5eb9407",
+          "795289b5c6190c1f81ddfdf5d3177b1af13ceea1",
+          "08b1e45fdac697abd97e891462d00da79674c4e4",
+          "bdb77e7b4850afc38581021229b46cd9f6706681",
+          "0cba8823259289771a8b47ed45f6009594424374",
+          "6b70b22595b5c00630a2fd07b6609f922a6a8880",
+          "9e8e0cf6cc420af463d87b7a2a0ada36ebf7596b",
+          "d0e0cfcd0cb67da8c1fd7626e61a2b8f8822842f",
+          "b0a12c3410626e94adc87817793fbd4cc3a86ea1",
+          "5b7996875fe40c1de0a91b6dd5b39d4836a17274",
+          "fe57135a44b9a9993c6e9f8663b9d684d8591880",
+          "f70737d9340421628db94fe10c2d079106610d33",
+          "66e63d1f5f3b06da980719abb82a9a9de8f256c4",
+          "2cfd8ec85589dfcfdfd2cfe1a9fe8184eb76b366",
+          "626c02300297799f5e6df4a4032784f65a760596",
+          "2cfd8ec85589dfcfdfd2cfe1a9fe8184eb76b366",
+          "1d8043d497d9fb7779d54ad03ad46ffd364f30df",
+          "9a0d846fb6e20ad1c52db2597e38f198b605b88b",
+          "efc1dcc06ae6d140ec1a00286ef367c66e62c3c0",
+          "234673ed34956c119084567b980ba667b4033303",
+          "1ba9fba04b7280980ca549502c3588caaff0a5f8",
+          "2959225f2803947757c710e5884e94a7630e4f51",
+          "5dcce11b6d37971d3e68d83c30f9c7e664697c1b",
+          "8e42bd9d375b2f578e91744225b243493d716b0d",
+          "bf81a028ed1028394690d01e8f588c567a850d96",
+          "1b158c9e3cadaa28f8be62ea941062ad43cca930",
+          "691cbdb573c8fb18eee818b9ad0bc7f7fbd67945",
+          "0034759b848458fc9626ec3e1b538a592ab2804a",
+          "3e060d7addeeabe9bc69abd45980ec9a34658eae",
+          "9dc7656957bab5d7cd880d3288c20fe4739e11aa",
+          "74ae77797bd2f1e24e6524c36ad299947d23285f",
+          "9383d1aafc4b670e2d5259d659664a6a75caa626",
+          "79c012d495ab31f5a99f102f1ae742c036b243a2",
+          "22bea8bb0dcdae16257a494e2b38f34232bfb670",
+          "92436ac202dbe1e670e5836c18abac7edced6ed8",
+          "0e33298dbd41ea7ed80718ee7449469773926e8d",
+          "ad8d43bcf6614426a08a0674e801263eff26bcbf",
+          "22a92b2065e719a1e90ac95804ef68162419adcf",
+          "74c3dd04b8e3f0de5c1d145e1288598ef2af0b40",
+          "7055391d10a96073d44ddb5359dd03cfc6668cc6",
+          "9f6f024bbb74aba9644a73d1ac7d558978a1d0a6",
+          "ef65e9a6b6f3d26e1f96057e6addea5333e176e4",
+          "c3eb14414196333138af733f009890af450be1b0",
+          "c33841dfd13517b9646f45bdba2eea0f1d9d19dc",
+          "cfeaadd029d5c282aae961ad6d271879d50077bb",
+          "51f33db09a24c5beb57f217daa5d577b8885396c",
+          "6bbf98dbdb1e8eab8a72e75a85187079bd04795d",
+          "d4350b68e412c05a1a98553097f52de1bc34dd74",
+          "76c02ac9ec458bb228f378168fd9c71e28ea7b3b",
+          "5fdefe5a3088c0b46e5f510d1a79f3019f9b6395",
+          "9714fa91be373134a206ceefc334df3525294390",
+          "402f1ce2c2a741621cba91ad6e67f8bce5270016",
+          "160a53c5044d76cb48452712ec9d2c17746af795",
+          "1e17af8bac9e68db6f2a48ef237950e901369948"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "RepositoryName": "karaf-decanter",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T09:02:32Z",
+    "EndDate": "2019-09-23T10:02:32",
+    "Branches": 2,
+    "Forks": 37,
+    "Files": [
+      {
+        "Sha": "83f3e7fcc13fab92502b8646c7eeff3a41603945",
+        "FileName": "custom-alerter.adoc",
+        "Path": "manual/src/main/asciidoc/dev-guide/custom-alerter.adoc",
+        "DateUpdated": "2019-09-23T09:05:11Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "de55588e858377c93a8de0b99306b948a0a69a3d"
+        ]
+      },
+      {
+        "Sha": "c65994ea9afb6efa20791a4391a14ab6811d0d83",
+        "FileName": "custom-appender.adoc",
+        "Path": "manual/src/main/asciidoc/dev-guide/custom-appender.adoc",
+        "DateUpdated": "2019-09-23T09:05:11Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "de55588e858377c93a8de0b99306b948a0a69a3d"
+        ]
+      },
+      {
+        "Sha": "0236cb398838ddccd7df8b2d386d9a6329bfb876",
+        "FileName": "alerting.adoc",
+        "Path": "manual/src/main/asciidoc/user-guide/alerting.adoc",
+        "DateUpdated": "2019-09-23T09:05:11Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "de55588e858377c93a8de0b99306b948a0a69a3d"
+        ]
+      },
+      {
+        "Sha": "7a59030eccf0514f0fdb3d4be97d23a40ccd7973",
+        "FileName": "appenders.adoc",
+        "Path": "manual/src/main/asciidoc/user-guide/appenders.adoc",
+        "DateUpdated": "2019-09-23T09:05:11Z",
+        "Additions": 21,
+        "Deletions": 21,
+        "Commits": [
+          "de55588e858377c93a8de0b99306b948a0a69a3d"
+        ]
+      },
+      {
+        "Sha": "e30401284ca0178555df3d1922d9b55998c4938c",
+        "FileName": "collectors.adoc",
+        "Path": "manual/src/main/asciidoc/user-guide/collectors.adoc",
+        "DateUpdated": "2019-09-23T09:05:11Z",
+        "Additions": 25,
+        "Deletions": 25,
+        "Commits": [
+          "de55588e858377c93a8de0b99306b948a0a69a3d"
+        ]
+      },
+      {
+        "Sha": "da976a7f16fc05d40a8bb3656d1e20dc97f77b86",
+        "FileName": "introduction.adoc",
+        "Path": "manual/src/main/asciidoc/user-guide/introduction.adoc",
+        "DateUpdated": "2019-09-23T09:05:11Z",
+        "Additions": 5,
+        "Deletions": 6,
+        "Commits": [
+          "de55588e858377c93a8de0b99306b948a0a69a3d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "de55588e858377c93a8de0b99306b948a0a69a3d",
+        "Author": {
+          "name": "\"Jean-Baptiste Onofré\"",
+          "location": "Paris, France"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T09:05:11Z",
+        "additions": 61,
+        "deletions": 62,
+        "files": [
+          "83f3e7fcc13fab92502b8646c7eeff3a41603945",
+          "c65994ea9afb6efa20791a4391a14ab6811d0d83",
+          "0236cb398838ddccd7df8b2d386d9a6329bfb876",
+          "7a59030eccf0514f0fdb3d4be97d23a40ccd7973",
+          "e30401284ca0178555df3d1922d9b55998c4938c",
+          "da976a7f16fc05d40a8bb3656d1e20dc97f77b86"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "karaf-decanter",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T11:02:59Z",
+    "EndDate": "2019-09-23T12:02:59",
+    "Branches": 2,
+    "Forks": 37,
+    "Files": [
+      {
+        "Sha": "5f8c650b9ad25ab2f971a877d732c74ba92a8481",
+        "FileName": "pom.xml",
+        "Path": "collector/log4j-socket/pom.xml",
+        "DateUpdated": "2019-09-23T11:47:44Z",
+        "Additions": 1,
+        "Deletions": 40,
+        "Commits": [
+          "ad4a4524b70c622dfecb6d8d5a75ddbfbe5a7b7b",
+          "ca6eb5c808a37a26af2ede26c05a9b3cca05adc5"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "ad4a4524b70c622dfecb6d8d5a75ddbfbe5a7b7b",
+        "Author": {
+          "name": "\"Jean-Baptiste Onofré\"",
+          "location": "Paris, France"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T11:47:44Z",
+        "additions": 1,
+        "deletions": 20,
+        "files": [
+          "5f8c650b9ad25ab2f971a877d732c74ba92a8481"
+        ]
+      },
+      {
+        "sha": "ca6eb5c808a37a26af2ede26c05a9b3cca05adc5",
+        "Author": {
+          "name": "\"Colm O hEigeartaigh\"",
+          "company": "@Talend "
+        },
+        "Commitor": {
+          "name": "\"Colm O hEigeartaigh\"",
+          "company": "@Talend "
+        },
+        "Date": "2019-09-23T11:41:01Z",
+        "additions": 1,
+        "deletions": 20,
+        "files": [
+          "5f8c650b9ad25ab2f971a877d732c74ba92a8481"
+        ]
+      }
+    ]
+  }
+]

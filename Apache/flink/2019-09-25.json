@@ -1,0 +1,648 @@
+[
+  {
+    "RepositoryName": "flink",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T07:02:51Z",
+    "EndDate": "2019-09-25T08:02:51",
+    "Branches": 93,
+    "Forks": 5591,
+    "Files": [
+      {
+        "Sha": "42e09366de7e44a0b1bad5ad8d1ed63988169f89",
+        "FileName": "AvailabilityProvider.java",
+        "Path": "flink-runtime/src/main/java/org/apache/flink/runtime/io/AvailabilityProvider.java",
+        "DateUpdated": "2019-09-25T07:47:41Z",
+        "Additions": 1,
+        "Deletions": 6,
+        "Commits": [
+          "f41bda61f4dc73f3625ccb7347fa9c2db4d298df"
+        ]
+      },
+      {
+        "Sha": "17109ccebb0d5044d034a31f275004912e966865",
+        "FileName": "PullingAsyncDataInput.java",
+        "Path": "flink-runtime/src/main/java/org/apache/flink/runtime/io/PullingAsyncDataInput.java",
+        "DateUpdated": "2019-09-25T07:47:41Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "f41bda61f4dc73f3625ccb7347fa9c2db4d298df"
+        ]
+      },
+      {
+        "Sha": "3c070e28eff5ee42a2c52bcb82796bbd50dcda10",
+        "FileName": "StreamInputProcessor.java",
+        "Path": "flink-streaming-java/src/main/java/org/apache/flink/streaming/runtime/io/StreamInputProcessor.java",
+        "DateUpdated": "2019-09-25T07:47:41Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "f41bda61f4dc73f3625ccb7347fa9c2db4d298df"
+        ]
+      },
+      {
+        "Sha": "ddeaf7be04abb9ae16570a0b15e7e79396d61bad",
+        "FileName": "StreamOneInputProcessor.java",
+        "Path": "flink-streaming-java/src/main/java/org/apache/flink/streaming/runtime/io/StreamOneInputProcessor.java",
+        "DateUpdated": "2019-09-25T07:47:41Z",
+        "Additions": 2,
+        "Deletions": 7,
+        "Commits": [
+          "f41bda61f4dc73f3625ccb7347fa9c2db4d298df"
+        ]
+      },
+      {
+        "Sha": "ecb26ac061c25aa9a8f9d47b1e2b212396317a72",
+        "FileName": "StreamTaskNetworkInput.java",
+        "Path": "flink-streaming-java/src/main/java/org/apache/flink/streaming/runtime/io/StreamTaskNetworkInput.java",
+        "DateUpdated": "2019-09-25T07:47:41Z",
+        "Additions": 0,
+        "Deletions": 8,
+        "Commits": [
+          "f41bda61f4dc73f3625ccb7347fa9c2db4d298df"
+        ]
+      },
+      {
+        "Sha": "24ddc244a03349a32f32949bc712cc48ea06e4ca",
+        "FileName": "StreamTwoInputProcessor.java",
+        "Path": "flink-streaming-java/src/main/java/org/apache/flink/streaming/runtime/io/StreamTwoInputProcessor.java",
+        "DateUpdated": "2019-09-25T07:47:41Z",
+        "Additions": 58,
+        "Deletions": 35,
+        "Commits": [
+          "f41bda61f4dc73f3625ccb7347fa9c2db4d298df"
+        ]
+      },
+      {
+        "Sha": "148a43d3c87fcfc5a62cc5cefb233345a78397b3",
+        "FileName": "StreamTask.java",
+        "Path": "flink-streaming-java/src/main/java/org/apache/flink/streaming/runtime/tasks/StreamTask.java",
+        "DateUpdated": "2019-09-25T07:47:41Z",
+        "Additions": 8,
+        "Deletions": 8,
+        "Commits": [
+          "f41bda61f4dc73f3625ccb7347fa9c2db4d298df"
+        ]
+      },
+      {
+        "Sha": "23b1a462586c4a38a29f8007940b5e96b092f3eb",
+        "FileName": "StreamTaskTest.java",
+        "Path": "flink-streaming-java/src/test/java/org/apache/flink/streaming/runtime/tasks/StreamTaskTest.java",
+        "DateUpdated": "2019-09-25T07:47:41Z",
+        "Additions": 3,
+        "Deletions": 7,
+        "Commits": [
+          "f41bda61f4dc73f3625ccb7347fa9c2db4d298df"
+        ]
+      },
+      {
+        "Sha": "f3b19e7d779e066177bbbe7db16a50a6382dafff",
+        "FileName": "StreamTwoInputProcessor.java",
+        "Path": "flink-streaming-java/src/main/java/org/apache/flink/streaming/runtime/io/StreamTwoInputProcessor.java",
+        "DateUpdated": "2019-09-25T07:47:41Z",
+        "Additions": 9,
+        "Deletions": 9,
+        "Commits": [
+          "9a8344e2562cffb606338101746bc3eafc40875e"
+        ]
+      },
+      {
+        "Sha": "e0b101d7b0d24d0e26dd6dc580c368c4724e48fe",
+        "FileName": "StreamTwoInputProcessor.java",
+        "Path": "flink-streaming-java/src/main/java/org/apache/flink/streaming/runtime/io/StreamTwoInputProcessor.java",
+        "DateUpdated": "2019-09-25T07:47:41Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "ba07cefdf9e5ce6cc823b34c9dd1b00a65b107d8"
+        ]
+      },
+      {
+        "Sha": "4956cfbef393ad16ad3cd85b56817c0685359042",
+        "FileName": "AvailabilityProvider.java",
+        "Path": "flink-runtime/src/main/java/org/apache/flink/runtime/io/AvailabilityProvider.java",
+        "DateUpdated": "2019-09-25T07:47:41Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "da7484a4c2c4b659cd01a18f62032aa85f709d69"
+        ]
+      },
+      {
+        "Sha": "4b0095547968136c881a8b6ba287544253e2f4eb",
+        "FileName": "NullableAsyncDataInput.java",
+        "Path": "flink-runtime/src/main/java/org/apache/flink/runtime/io/NullableAsyncDataInput.java",
+        "DateUpdated": "2019-09-25T07:47:41Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "da7484a4c2c4b659cd01a18f62032aa85f709d69"
+        ]
+      },
+      {
+        "Sha": "e27388e20567cd451248e33a846a3b9f5ae58277",
+        "FileName": "PullingAsyncDataInput.java",
+        "Path": "flink-runtime/src/main/java/org/apache/flink/runtime/io/PullingAsyncDataInput.java",
+        "DateUpdated": "2019-09-25T07:47:41Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "da7484a4c2c4b659cd01a18f62032aa85f709d69"
+        ]
+      },
+      {
+        "Sha": "7fcd047e0aedc17e74e16325ff739ec166816b47",
+        "FileName": "PushingAsyncDataInput.java",
+        "Path": "flink-streaming-java/src/main/java/org/apache/flink/streaming/runtime/io/PushingAsyncDataInput.java",
+        "DateUpdated": "2019-09-25T07:47:41Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "da7484a4c2c4b659cd01a18f62032aa85f709d69"
+        ]
+      },
+      {
+        "Sha": "4fef008234ac43c77a115076ea65c36856671a36",
+        "FileName": "StreamInputProcessor.java",
+        "Path": "flink-streaming-java/src/main/java/org/apache/flink/streaming/runtime/io/StreamInputProcessor.java",
+        "DateUpdated": "2019-09-25T07:47:41Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "da7484a4c2c4b659cd01a18f62032aa85f709d69"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "f41bda61f4dc73f3625ccb7347fa9c2db4d298df",
+        "Author": {
+          "name": "\"zhijiang\"",
+          "location": "Beijing",
+          "company": "Alibaba"
+        },
+        "Commitor": {
+          "name": "\"Piotr Nowojski\"",
+          "location": "Berlin",
+          "company": "dataArtisans"
+        },
+        "Date": "2019-09-25T07:47:41Z",
+        "additions": 81,
+        "deletions": 75,
+        "files": [
+          "42e09366de7e44a0b1bad5ad8d1ed63988169f89",
+          "17109ccebb0d5044d034a31f275004912e966865",
+          "3c070e28eff5ee42a2c52bcb82796bbd50dcda10",
+          "ddeaf7be04abb9ae16570a0b15e7e79396d61bad",
+          "ecb26ac061c25aa9a8f9d47b1e2b212396317a72",
+          "24ddc244a03349a32f32949bc712cc48ea06e4ca",
+          "148a43d3c87fcfc5a62cc5cefb233345a78397b3",
+          "23b1a462586c4a38a29f8007940b5e96b092f3eb"
+        ]
+      },
+      {
+        "sha": "9a8344e2562cffb606338101746bc3eafc40875e",
+        "Author": {
+          "name": "\"zhijiang\"",
+          "location": "Beijing",
+          "company": "Alibaba"
+        },
+        "Commitor": {
+          "name": "\"Piotr Nowojski\"",
+          "location": "Berlin",
+          "company": "dataArtisans"
+        },
+        "Date": "2019-09-25T07:47:41Z",
+        "additions": 9,
+        "deletions": 9,
+        "files": [
+          "f3b19e7d779e066177bbbe7db16a50a6382dafff"
+        ]
+      },
+      {
+        "sha": "ba07cefdf9e5ce6cc823b34c9dd1b00a65b107d8",
+        "Author": {
+          "name": "\"zhijiang\"",
+          "location": "Beijing",
+          "company": "Alibaba"
+        },
+        "Commitor": {
+          "name": "\"Piotr Nowojski\"",
+          "location": "Berlin",
+          "company": "dataArtisans"
+        },
+        "Date": "2019-09-25T07:47:41Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "e0b101d7b0d24d0e26dd6dc580c368c4724e48fe"
+        ]
+      },
+      {
+        "sha": "da7484a4c2c4b659cd01a18f62032aa85f709d69",
+        "Author": {
+          "name": "\"zhijiang\"",
+          "location": "Beijing",
+          "company": "Alibaba"
+        },
+        "Commitor": {
+          "name": "\"Piotr Nowojski\"",
+          "location": "Berlin",
+          "company": "dataArtisans"
+        },
+        "Date": "2019-09-25T07:47:41Z",
+        "additions": 9,
+        "deletions": 9,
+        "files": [
+          "4956cfbef393ad16ad3cd85b56817c0685359042",
+          "4b0095547968136c881a8b6ba287544253e2f4eb",
+          "e27388e20567cd451248e33a846a3b9f5ae58277",
+          "7fcd047e0aedc17e74e16325ff739ec166816b47",
+          "4fef008234ac43c77a115076ea65c36856671a36"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "flink",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T08:02:59Z",
+    "EndDate": "2019-09-25T09:02:59",
+    "Branches": 93,
+    "Forks": 5591,
+    "Files": [
+      {
+        "Sha": "0a60f282adb0968a1818544f71bccab9e7d7251c",
+        "FileName": "job_manager_configuration.html",
+        "Path": "docs/_includes/generated/job_manager_configuration.html",
+        "DateUpdated": "2019-09-25T08:57:20Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "26b31565404637dd451e04cb4f22cb777b0b8c10"
+        ]
+      },
+      {
+        "Sha": "a6d6f05daa234e9ade4319245fc5b335342f83e1",
+        "FileName": "JobManagerOptions.java",
+        "Path": "flink-core/src/main/java/org/apache/flink/configuration/JobManagerOptions.java",
+        "DateUpdated": "2019-09-25T08:57:20Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "26b31565404637dd451e04cb4f22cb777b0b8c10"
+        ]
+      },
+      {
+        "Sha": "bd607e3fee83a871cb9e20e448c324763c3982d5",
+        "FileName": "FileArchivedExecutionGraphStore.java",
+        "Path": "flink-runtime/src/main/java/org/apache/flink/runtime/dispatcher/FileArchivedExecutionGraphStore.java",
+        "DateUpdated": "2019-09-25T08:57:20Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "26b31565404637dd451e04cb4f22cb777b0b8c10"
+        ]
+      },
+      {
+        "Sha": "42daeae0138a75a89469c60d7fc2e72b158b721b",
+        "FileName": "SessionClusterEntrypoint.java",
+        "Path": "flink-runtime/src/main/java/org/apache/flink/runtime/entrypoint/SessionClusterEntrypoint.java",
+        "DateUpdated": "2019-09-25T08:57:20Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "26b31565404637dd451e04cb4f22cb777b0b8c10"
+        ]
+      },
+      {
+        "Sha": "b3b31ac7572e95c1fdfc199c66586199e4054a77",
+        "FileName": "FileArchivedExecutionGraphStoreTest.java",
+        "Path": "flink-runtime/src/test/java/org/apache/flink/runtime/dispatcher/FileArchivedExecutionGraphStoreTest.java",
+        "DateUpdated": "2019-09-25T08:57:20Z",
+        "Additions": 51,
+        "Deletions": 1,
+        "Commits": [
+          "26b31565404637dd451e04cb4f22cb777b0b8c10"
+        ]
+      },
+      {
+        "Sha": "41e265f02d68a010d560ff62f0b1e72d72afb955",
+        "FileName": "MiniCluster.java",
+        "Path": "flink-runtime/src/main/java/org/apache/flink/runtime/minicluster/MiniCluster.java",
+        "DateUpdated": "2019-09-25T08:35:29Z",
+        "Additions": 5,
+        "Deletions": 6,
+        "Commits": [
+          "8b85715cfb9d9927c7d2fb82593be0bcaf084502"
+        ]
+      },
+      {
+        "Sha": "7070df46e7f8e908475f73fe98ce45e8ad166d41",
+        "FileName": "AkkaUtils.scala",
+        "Path": "flink-runtime/src/main/scala/org/apache/flink/runtime/akka/AkkaUtils.scala",
+        "DateUpdated": "2019-09-25T08:22:43Z",
+        "Additions": 20,
+        "Deletions": 13,
+        "Commits": [
+          "8d29cd4ee782f857be56f89cffb4a24a34cce45b"
+        ]
+      },
+      {
+        "Sha": "c4d5fa9b3e507dea0d1db9f2ab5a40938b99ab7e",
+        "FileName": "CliFrontend.java",
+        "Path": "flink-clients/src/main/java/org/apache/flink/client/cli/CliFrontend.java",
+        "DateUpdated": "2019-09-25T08:22:37Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "949776bb8a8c326368bf7773becb8200610d5379"
+        ]
+      },
+      {
+        "Sha": "a61bae220ae3284a4715f46d12d370e7cc9690d4",
+        "FileName": "ClusterClient.java",
+        "Path": "flink-clients/src/main/java/org/apache/flink/client/program/ClusterClient.java",
+        "DateUpdated": "2019-09-25T08:22:37Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "949776bb8a8c326368bf7773becb8200610d5379"
+        ]
+      },
+      {
+        "Sha": "1682ea896ff172a8a8aa24a2fb7d8e5c9b8d6b25",
+        "FileName": "TimeUtils.java",
+        "Path": "flink-core/src/main/java/org/apache/flink/util/TimeUtils.java",
+        "DateUpdated": "2019-09-25T08:22:37Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "949776bb8a8c326368bf7773becb8200610d5379"
+        ]
+      },
+      {
+        "Sha": "6953c18a00de1ef88537f4875d8f5dbdb0a660dc",
+        "FileName": "TimeUtilsTest.java",
+        "Path": "flink-core/src/test/java/org/apache/flink/util/TimeUtilsTest.java",
+        "DateUpdated": "2019-09-25T08:22:37Z",
+        "Additions": 10,
+        "Deletions": 0,
+        "Commits": [
+          "949776bb8a8c326368bf7773becb8200610d5379"
+        ]
+      },
+      {
+        "Sha": "72e870cfea38f43b8935dc32297ef03065dfacf5",
+        "FileName": "JobManagerSharedServices.java",
+        "Path": "flink-runtime/src/main/java/org/apache/flink/runtime/jobmaster/JobManagerSharedServices.java",
+        "DateUpdated": "2019-09-25T08:22:37Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "949776bb8a8c326368bf7773becb8200610d5379"
+        ]
+      },
+      {
+        "Sha": "6518aa0fb24187827b0e0382799d3eab66edf6f7",
+        "FileName": "MiniClusterConfiguration.java",
+        "Path": "flink-runtime/src/main/java/org/apache/flink/runtime/minicluster/MiniClusterConfiguration.java",
+        "DateUpdated": "2019-09-25T08:22:37Z",
+        "Additions": 1,
+        "Deletions": 4,
+        "Commits": [
+          "949776bb8a8c326368bf7773becb8200610d5379"
+        ]
+      },
+      {
+        "Sha": "8331b61266bddc6754c1776eeb1510067d56a2cf",
+        "FileName": "ResourceManagerRuntimeServicesConfiguration.java",
+        "Path": "flink-runtime/src/main/java/org/apache/flink/runtime/resourcemanager/ResourceManagerRuntimeServicesConfiguration.java",
+        "DateUpdated": "2019-09-25T08:22:37Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "949776bb8a8c326368bf7773becb8200610d5379"
+        ]
+      },
+      {
+        "Sha": "c50a9a2882163a0b21c436efe3308473e7f00561",
+        "FileName": "SlotManagerConfiguration.java",
+        "Path": "flink-runtime/src/main/java/org/apache/flink/runtime/resourcemanager/slotmanager/SlotManagerConfiguration.java",
+        "DateUpdated": "2019-09-25T08:22:37Z",
+        "Additions": 3,
+        "Deletions": 6,
+        "Commits": [
+          "949776bb8a8c326368bf7773becb8200610d5379"
+        ]
+      },
+      {
+        "Sha": "0c478a9cbc5c21d26bd8eff74b536a9961f03798",
+        "FileName": "AkkaRpcServiceConfiguration.java",
+        "Path": "flink-runtime/src/main/java/org/apache/flink/runtime/rpc/akka/AkkaRpcServiceConfiguration.java",
+        "DateUpdated": "2019-09-25T08:22:37Z",
+        "Additions": 1,
+        "Deletions": 4,
+        "Commits": [
+          "949776bb8a8c326368bf7773becb8200610d5379"
+        ]
+      },
+      {
+        "Sha": "af71bbdee4146c2b349a4b9f9229714a4ad9526b",
+        "FileName": "TaskManagerConfiguration.java",
+        "Path": "flink-runtime/src/main/java/org/apache/flink/runtime/taskexecutor/TaskManagerConfiguration.java",
+        "DateUpdated": "2019-09-25T08:22:37Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "949776bb8a8c326368bf7773becb8200610d5379"
+        ]
+      },
+      {
+        "Sha": "4b4d634b7d0b52214d1ff8bd9eb203030da075dc",
+        "FileName": "AkkaUtils.scala",
+        "Path": "flink-runtime/src/main/scala/org/apache/flink/runtime/akka/AkkaUtils.scala",
+        "DateUpdated": "2019-09-25T08:22:37Z",
+        "Additions": 15,
+        "Deletions": 38,
+        "Commits": [
+          "949776bb8a8c326368bf7773becb8200610d5379"
+        ]
+      },
+      {
+        "Sha": "bc7b709655a186496dcb3c21d5dca62b2f69b2b0",
+        "FileName": "AkkaUtilsTest.scala",
+        "Path": "flink-runtime/src/test/scala/org/apache/flink/runtime/akka/AkkaUtilsTest.scala",
+        "DateUpdated": "2019-09-25T08:22:37Z",
+        "Additions": 10,
+        "Deletions": 0,
+        "Commits": [
+          "949776bb8a8c326368bf7773becb8200610d5379"
+        ]
+      },
+      {
+        "Sha": "589dce9855dc62cb943418910d1e0ad65395fa34",
+        "FileName": "failure_rate_restart_strategy_configuration.html",
+        "Path": "docs/_includes/generated/failure_rate_restart_strategy_configuration.html",
+        "DateUpdated": "2019-09-25T08:22:30Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "9d9d9e88a84ea45e205d3101991e13cca49f5bc6"
+        ]
+      },
+      {
+        "Sha": "9e11b7fa20f6387d672c65eb9932f6a8e5e2308b",
+        "FileName": "fixed_delay_restart_strategy_configuration.html",
+        "Path": "docs/_includes/generated/fixed_delay_restart_strategy_configuration.html",
+        "DateUpdated": "2019-09-25T08:22:30Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9d9d9e88a84ea45e205d3101991e13cca49f5bc6"
+        ]
+      },
+      {
+        "Sha": "a037fd66aa242926e6ae814d74eebd2c35df0171",
+        "FileName": "RestartStrategyOptions.java",
+        "Path": "flink-core/src/main/java/org/apache/flink/configuration/RestartStrategyOptions.java",
+        "DateUpdated": "2019-09-25T08:22:30Z",
+        "Additions": 6,
+        "Deletions": 9,
+        "Commits": [
+          "9d9d9e88a84ea45e205d3101991e13cca49f5bc6"
+        ]
+      },
+      {
+        "Sha": "69c6350baf1203ca70fb42ca47c2a61e621055be",
+        "FileName": "FailureRateRestartStrategy.java",
+        "Path": "flink-runtime/src/main/java/org/apache/flink/runtime/executiongraph/restart/FailureRateRestartStrategy.java",
+        "DateUpdated": "2019-09-25T08:22:30Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "9d9d9e88a84ea45e205d3101991e13cca49f5bc6"
+        ]
+      },
+      {
+        "Sha": "95b84cb49f08524f28528c1d9d085d51737f4cfb",
+        "FileName": "FixedDelayRestartStrategy.java",
+        "Path": "flink-runtime/src/main/java/org/apache/flink/runtime/executiongraph/restart/FixedDelayRestartStrategy.java",
+        "DateUpdated": "2019-09-25T08:22:30Z",
+        "Additions": 4,
+        "Deletions": 5,
+        "Commits": [
+          "9d9d9e88a84ea45e205d3101991e13cca49f5bc6"
+        ]
+      },
+      {
+        "Sha": "67d7870b713ace9944dded72f522ee5a3aa07db9",
+        "FileName": "TaskManagerConfiguration.java",
+        "Path": "flink-runtime/src/main/java/org/apache/flink/runtime/taskexecutor/TaskManagerConfiguration.java",
+        "DateUpdated": "2019-09-25T08:22:30Z",
+        "Additions": 18,
+        "Deletions": 34,
+        "Commits": [
+          "9d9d9e88a84ea45e205d3101991e13cca49f5bc6"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "26b31565404637dd451e04cb4f22cb777b0b8c10",
+        "Commitor": {
+          "name": "\"Till Rohrmann\"",
+          "location": "Berlin",
+          "company": "@ververica (formerly @dataArtisans)"
+        },
+        "Date": "2019-09-25T08:57:20Z",
+        "additions": 68,
+        "deletions": 1,
+        "files": [
+          "0a60f282adb0968a1818544f71bccab9e7d7251c",
+          "a6d6f05daa234e9ade4319245fc5b335342f83e1",
+          "bd607e3fee83a871cb9e20e448c324763c3982d5",
+          "42daeae0138a75a89469c60d7fc2e72b158b721b",
+          "b3b31ac7572e95c1fdfc199c66586199e4054a77"
+        ]
+      },
+      {
+        "sha": "8b85715cfb9d9927c7d2fb82593be0bcaf084502",
+        "Author": {
+          "name": "\"tison\"",
+          "location": "Shenzhen, Guangdong",
+          "company": "Peking University"
+        },
+        "Commitor": {
+          "name": "\"Till Rohrmann\"",
+          "location": "Berlin",
+          "company": "@ververica (formerly @dataArtisans)"
+        },
+        "Date": "2019-09-25T08:35:29Z",
+        "additions": 5,
+        "deletions": 6,
+        "files": [
+          "41e265f02d68a010d560ff62f0b1e72d72afb955"
+        ]
+      },
+      {
+        "sha": "8d29cd4ee782f857be56f89cffb4a24a34cce45b",
+        "Commitor": {
+          "name": "\"Till Rohrmann\"",
+          "location": "Berlin",
+          "company": "@ververica (formerly @dataArtisans)"
+        },
+        "Date": "2019-09-25T08:22:43Z",
+        "additions": 20,
+        "deletions": 13,
+        "files": [
+          "7070df46e7f8e908475f73fe98ce45e8ad166d41"
+        ]
+      },
+      {
+        "sha": "949776bb8a8c326368bf7773becb8200610d5379",
+        "Commitor": {
+          "name": "\"Till Rohrmann\"",
+          "location": "Berlin",
+          "company": "@ververica (formerly @dataArtisans)"
+        },
+        "Date": "2019-09-25T08:22:37Z",
+        "additions": 59,
+        "deletions": 67,
+        "files": [
+          "c4d5fa9b3e507dea0d1db9f2ab5a40938b99ab7e",
+          "a61bae220ae3284a4715f46d12d370e7cc9690d4",
+          "1682ea896ff172a8a8aa24a2fb7d8e5c9b8d6b25",
+          "6953c18a00de1ef88537f4875d8f5dbdb0a660dc",
+          "72e870cfea38f43b8935dc32297ef03065dfacf5",
+          "6518aa0fb24187827b0e0382799d3eab66edf6f7",
+          "8331b61266bddc6754c1776eeb1510067d56a2cf",
+          "c50a9a2882163a0b21c436efe3308473e7f00561",
+          "0c478a9cbc5c21d26bd8eff74b536a9961f03798",
+          "af71bbdee4146c2b349a4b9f9229714a4ad9526b",
+          "4b4d634b7d0b52214d1ff8bd9eb203030da075dc",
+          "bc7b709655a186496dcb3c21d5dca62b2f69b2b0"
+        ]
+      },
+      {
+        "sha": "9d9d9e88a84ea45e205d3101991e13cca49f5bc6",
+        "Commitor": {
+          "name": "\"Till Rohrmann\"",
+          "location": "Berlin",
+          "company": "@ververica (formerly @dataArtisans)"
+        },
+        "Date": "2019-09-25T08:22:30Z",
+        "additions": 35,
+        "deletions": 55,
+        "files": [
+          "589dce9855dc62cb943418910d1e0ad65395fa34",
+          "9e11b7fa20f6387d672c65eb9932f6a8e5e2308b",
+          "a037fd66aa242926e6ae814d74eebd2c35df0171",
+          "69c6350baf1203ca70fb42ca47c2a61e621055be",
+          "95b84cb49f08524f28528c1d9d085d51737f4cfb",
+          "67d7870b713ace9944dded72f522ee5a3aa07db9"
+        ]
+      }
+    ]
+  }
+]

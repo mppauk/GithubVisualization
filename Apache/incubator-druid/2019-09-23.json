@@ -1,0 +1,140 @@
+[
+  {
+    "RepositoryName": "incubator-druid",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T00:07:51Z",
+    "EndDate": "2019-09-23T01:07:51",
+    "Branches": 35,
+    "Forks": 2175,
+    "Files": [
+      {
+        "Sha": "f95be2a407f0b24e580346d9f8617c83970e8b72",
+        "FileName": "pull-deps.md",
+        "Path": "docs/operations/pull-deps.md",
+        "DateUpdated": "2019-09-23T00:38:55Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "52f3f2c2291df631e4895c382b599bd17ea0ab8f"
+        ]
+      },
+      {
+        "Sha": "a093706e1f1b2dec9a44397609c4a11d76f502d4",
+        "FileName": "query-context.md",
+        "Path": "docs/querying/query-context.md",
+        "DateUpdated": "2019-09-23T00:38:55Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "52f3f2c2291df631e4895c382b599bd17ea0ab8f"
+        ]
+      },
+      {
+        "Sha": "26a5d27a4bac12f8499a7dc2debb65723e480506",
+        "FileName": "cluster.md",
+        "Path": "docs/tutorials/cluster.md",
+        "DateUpdated": "2019-09-23T00:38:55Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "52f3f2c2291df631e4895c382b599bd17ea0ab8f"
+        ]
+      },
+      {
+        "Sha": "6eb7bef9b90f2395f00ce9afae85e4189a63c0f6",
+        "FileName": "index.md",
+        "Path": "docs/tutorials/index.md",
+        "DateUpdated": "2019-09-23T00:38:55Z",
+        "Additions": 13,
+        "Deletions": 13,
+        "Commits": [
+          "52f3f2c2291df631e4895c382b599bd17ea0ab8f"
+        ]
+      },
+      {
+        "Sha": "492c55b9103b09a8ac9cc702e7f880dcd3fdbd9c",
+        "FileName": "tutorial-batch-hadoop.md",
+        "Path": "docs/tutorials/tutorial-batch-hadoop.md",
+        "DateUpdated": "2019-09-23T00:38:55Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "52f3f2c2291df631e4895c382b599bd17ea0ab8f"
+        ]
+      },
+      {
+        "Sha": "e85613667af67d5b571909b0e7d512751e8b6eb6",
+        "FileName": "tutorial-batch.md",
+        "Path": "docs/tutorials/tutorial-batch.md",
+        "DateUpdated": "2019-09-23T00:38:55Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "52f3f2c2291df631e4895c382b599bd17ea0ab8f"
+        ]
+      },
+      {
+        "Sha": "a39424529242351630851fa0605445e22e6cc054",
+        "FileName": "tutorial-ingestion-spec.md",
+        "Path": "docs/tutorials/tutorial-ingestion-spec.md",
+        "DateUpdated": "2019-09-23T00:38:55Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "52f3f2c2291df631e4895c382b599bd17ea0ab8f"
+        ]
+      },
+      {
+        "Sha": "19931bb2dd0e2b8b719e6f0478f1185e4ed44260",
+        "FileName": "tutorial-rollup.md",
+        "Path": "docs/tutorials/tutorial-rollup.md",
+        "DateUpdated": "2019-09-23T00:38:55Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "52f3f2c2291df631e4895c382b599bd17ea0ab8f"
+        ]
+      },
+      {
+        "Sha": "0ae98c28e85ff5eb888232db03a382de78f6bb68",
+        "FileName": "fix-path.js",
+        "Path": "website/script/fix-path.js",
+        "DateUpdated": "2019-09-23T00:38:55Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "52f3f2c2291df631e4895c382b599bd17ea0ab8f"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "52f3f2c2291df631e4895c382b599bd17ea0ab8f",
+        "Author": {
+          "name": "\"Vadim Ogievetsky\"",
+          "location": "San Francisco, CA",
+          "company": "Imply Data"
+        },
+        "Commitor": {
+          "name": "\"Fangjin Yang\"",
+          "location": "San Francisco",
+          "company": "Imply"
+        },
+        "Date": "2019-09-23T00:38:55Z",
+        "additions": 38,
+        "deletions": 30,
+        "files": [
+          "f95be2a407f0b24e580346d9f8617c83970e8b72",
+          "a093706e1f1b2dec9a44397609c4a11d76f502d4",
+          "26a5d27a4bac12f8499a7dc2debb65723e480506",
+          "6eb7bef9b90f2395f00ce9afae85e4189a63c0f6",
+          "492c55b9103b09a8ac9cc702e7f880dcd3fdbd9c",
+          "e85613667af67d5b571909b0e7d512751e8b6eb6",
+          "a39424529242351630851fa0605445e22e6cc054",
+          "19931bb2dd0e2b8b719e6f0478f1185e4ed44260",
+          "0ae98c28e85ff5eb888232db03a382de78f6bb68"
+        ]
+      }
+    ]
+  }
+]

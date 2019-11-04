@@ -1,0 +1,44 @@
+[
+  {
+    "RepositoryName": "cxf",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T10:02:36Z",
+    "EndDate": "2019-09-25T11:02:36",
+    "Branches": 19,
+    "Forks": 1071,
+    "Files": [
+      {
+        "Sha": "cf1ed675ed871fe30f067ccfb9640aad25ef48aa",
+        "FileName": "STSRESTTest.java",
+        "Path": "services/sts/systests/basic/src/test/java/org/apache/cxf/systest/sts/rest/STSRESTTest.java",
+        "DateUpdated": "2019-09-25T10:22:00Z",
+        "Additions": 65,
+        "Deletions": 161,
+        "Commits": [
+          "11de1e0dfff9a8f9b157e23983c8e25f8503f868"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "11de1e0dfff9a8f9b157e23983c8e25f8503f868",
+        "Author": {
+          "name": "\"Alexey Markevich\"",
+          "location": "Minsk",
+          "company": "wedextim"
+        },
+        "Commitor": {
+          "name": "\"Alexey Markevich\"",
+          "location": "Minsk",
+          "company": "wedextim"
+        },
+        "Date": "2019-09-25T10:22:00Z",
+        "additions": 65,
+        "deletions": 161,
+        "files": [
+          "cf1ed675ed871fe30f067ccfb9640aad25ef48aa"
+        ]
+      }
+    ]
+  }
+]

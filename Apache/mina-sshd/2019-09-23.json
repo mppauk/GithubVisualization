@@ -1,0 +1,230 @@
+[
+  {
+    "RepositoryName": "mina-sshd",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T04:02:17Z",
+    "EndDate": "2019-09-23T05:02:17",
+    "Branches": 4,
+    "Forks": 159,
+    "Files": [
+      {
+        "Sha": "1de10645ddc39400977551f18614b937171ffb35",
+        "FileName": "CHANGES.md",
+        "Path": "CHANGES.md",
+        "DateUpdated": "2019-09-23T04:51:13Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "11b33dee37b5b9c71a40a8a98a42007e3687131e"
+        ]
+      },
+      {
+        "Sha": "49a4a838053c17a4a25a2d7c34fc4976c800fae5",
+        "FileName": "event-listeners.md",
+        "Path": "docs/event-listeners.md",
+        "DateUpdated": "2019-09-23T04:51:13Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "11b33dee37b5b9c71a40a8a98a42007e3687131e"
+        ]
+      },
+      {
+        "Sha": "bb6498bc17813c6f0c8ad98399643bcab66bf47b",
+        "FileName": "ChannelIdTrackingUnknownChannelReferenceHandler.java",
+        "Path": "sshd-contrib/src/main/java/org/apache/sshd/common/session/helpers/ChannelIdTrackingUnknownChannelReferenceHandler.java",
+        "DateUpdated": "2019-09-23T04:51:13Z",
+        "Additions": 83,
+        "Deletions": 0,
+        "Commits": [
+          "11b33dee37b5b9c71a40a8a98a42007e3687131e"
+        ]
+      },
+      {
+        "Sha": "8438ca7a4bc23f44dd88c74547daa210b0caebd9",
+        "FileName": "DefaultUnknownChannelReferenceHandler.java",
+        "Path": "sshd-core/src/main/java/org/apache/sshd/common/session/helpers/DefaultUnknownChannelReferenceHandler.java",
+        "DateUpdated": "2019-09-23T04:51:13Z",
+        "Additions": 10,
+        "Deletions": 6,
+        "Commits": [
+          "11b33dee37b5b9c71a40a8a98a42007e3687131e"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "11b33dee37b5b9c71a40a8a98a42007e3687131e",
+        "Date": "2019-09-23T04:51:13Z",
+        "additions": 101,
+        "deletions": 6,
+        "files": [
+          "1de10645ddc39400977551f18614b937171ffb35",
+          "49a4a838053c17a4a25a2d7c34fc4976c800fae5",
+          "bb6498bc17813c6f0c8ad98399643bcab66bf47b",
+          "8438ca7a4bc23f44dd88c74547daa210b0caebd9"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "mina-sshd",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T17:02:34Z",
+    "EndDate": "2019-09-23T18:02:34",
+    "Branches": 4,
+    "Forks": 159,
+    "Files": [
+      {
+        "Sha": "2ec72a5928396dfbb760416a8f3c02b77a43865f",
+        "FileName": "CHANGES.md",
+        "Path": "CHANGES.md",
+        "DateUpdated": "2019-09-23T17:30:32Z",
+        "Additions": 9,
+        "Deletions": 1,
+        "Commits": [
+          "6eb232f3a0b92749fad3c314d47d78a61a85b401"
+        ]
+      },
+      {
+        "Sha": "bed61f3bd3f07f1c710e6d4c544ecb4337ff97dc",
+        "FileName": "DHGClient.java",
+        "Path": "sshd-core/src/main/java/org/apache/sshd/client/kex/DHGClient.java",
+        "DateUpdated": "2019-09-23T17:30:32Z",
+        "Additions": 8,
+        "Deletions": 3,
+        "Commits": [
+          "6eb232f3a0b92749fad3c314d47d78a61a85b401"
+        ]
+      },
+      {
+        "Sha": "2e23683939752681555309cfdb01f9d21c7a8732",
+        "FileName": "DHGEXClient.java",
+        "Path": "sshd-core/src/main/java/org/apache/sshd/client/kex/DHGEXClient.java",
+        "DateUpdated": "2019-09-23T17:30:32Z",
+        "Additions": 13,
+        "Deletions": 0,
+        "Commits": [
+          "6eb232f3a0b92749fad3c314d47d78a61a85b401"
+        ]
+      },
+      {
+        "Sha": "7a4b8f251f5b941ffb2b0e35ec9d4a1a67fedb52",
+        "FileName": "DHGEXServer.java",
+        "Path": "sshd-core/src/main/java/org/apache/sshd/server/kex/DHGEXServer.java",
+        "DateUpdated": "2019-09-23T17:30:32Z",
+        "Additions": 10,
+        "Deletions": 5,
+        "Commits": [
+          "6eb232f3a0b92749fad3c314d47d78a61a85b401"
+        ]
+      },
+      {
+        "Sha": "d74353b96f2eaa64c1d0c18d2232e427c1ee461b",
+        "FileName": "DHGServer.java",
+        "Path": "sshd-core/src/main/java/org/apache/sshd/server/kex/DHGServer.java",
+        "DateUpdated": "2019-09-23T17:30:32Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "6eb232f3a0b92749fad3c314d47d78a61a85b401"
+        ]
+      },
+      {
+        "Sha": "70c4c907f67f4f16afb03139d50146a853dae007",
+        "FileName": "CHANGES.md",
+        "Path": "CHANGES.md",
+        "DateUpdated": "2019-09-23T17:30:32Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "6e63c9d0d42a33fb98a82d4b5dac66da08398db3"
+        ]
+      },
+      {
+        "Sha": "ac35e7b230b1530d57246ce6c9f7b291f82fc27d",
+        "FileName": "README.md",
+        "Path": "README.md",
+        "DateUpdated": "2019-09-23T17:30:32Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "6e63c9d0d42a33fb98a82d4b5dac66da08398db3"
+        ]
+      },
+      {
+        "Sha": "ced212548b5e21fd11223337429feaf095b01cb8",
+        "FileName": "DHGEXClient.java",
+        "Path": "sshd-core/src/main/java/org/apache/sshd/client/kex/DHGEXClient.java",
+        "DateUpdated": "2019-09-23T17:30:32Z",
+        "Additions": 14,
+        "Deletions": 4,
+        "Commits": [
+          "6e63c9d0d42a33fb98a82d4b5dac66da08398db3"
+        ]
+      },
+      {
+        "Sha": "55d791fac32e06d5d6aa4c309f2171996a9bd376",
+        "FileName": "DHGEXServer.java",
+        "Path": "sshd-core/src/main/java/org/apache/sshd/server/kex/DHGEXServer.java",
+        "DateUpdated": "2019-09-23T17:30:32Z",
+        "Additions": 55,
+        "Deletions": 32,
+        "Commits": [
+          "6e63c9d0d42a33fb98a82d4b5dac66da08398db3"
+        ]
+      },
+      {
+        "Sha": "481b6975d656871461e7a54ee47d89d4c8399f46",
+        "FileName": "Moduli.java",
+        "Path": "sshd-core/src/main/java/org/apache/sshd/server/kex/Moduli.java",
+        "DateUpdated": "2019-09-23T17:30:32Z",
+        "Additions": 49,
+        "Deletions": 2,
+        "Commits": [
+          "6e63c9d0d42a33fb98a82d4b5dac66da08398db3"
+        ]
+      },
+      {
+        "Sha": "ef37662478a16cda717be2c8aeb2b923f080ddce",
+        "FileName": "ModuliTest.java",
+        "Path": "sshd-core/src/test/java/org/apache/sshd/server/kex/ModuliTest.java",
+        "DateUpdated": "2019-09-23T17:30:32Z",
+        "Additions": 70,
+        "Deletions": 0,
+        "Commits": [
+          "6e63c9d0d42a33fb98a82d4b5dac66da08398db3"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "6eb232f3a0b92749fad3c314d47d78a61a85b401",
+        "Date": "2019-09-23T17:30:32Z",
+        "additions": 42,
+        "deletions": 10,
+        "files": [
+          "2ec72a5928396dfbb760416a8f3c02b77a43865f",
+          "bed61f3bd3f07f1c710e6d4c544ecb4337ff97dc",
+          "2e23683939752681555309cfdb01f9d21c7a8732",
+          "7a4b8f251f5b941ffb2b0e35ec9d4a1a67fedb52",
+          "d74353b96f2eaa64c1d0c18d2232e427c1ee461b"
+        ]
+      },
+      {
+        "sha": "6e63c9d0d42a33fb98a82d4b5dac66da08398db3",
+        "Date": "2019-09-23T17:30:32Z",
+        "additions": 192,
+        "deletions": 38,
+        "files": [
+          "70c4c907f67f4f16afb03139d50146a853dae007",
+          "ac35e7b230b1530d57246ce6c9f7b291f82fc27d",
+          "ced212548b5e21fd11223337429feaf095b01cb8",
+          "55d791fac32e06d5d6aa4c309f2171996a9bd376",
+          "481b6975d656871461e7a54ee47d89d4c8399f46",
+          "ef37662478a16cda717be2c8aeb2b923f080ddce"
+        ]
+      }
+    ]
+  }
+]

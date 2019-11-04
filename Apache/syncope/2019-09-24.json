@@ -1,0 +1,300 @@
+[
+  {
+    "RepositoryName": "syncope",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T05:46:42Z",
+    "EndDate": "2019-09-24T06:46:42",
+    "Branches": 12,
+    "Forks": 93,
+    "Files": [
+      {
+        "Sha": "ca41cbcefad273ee5cf7f412683abc3d9389d47e",
+        "FileName": ".travis.yml",
+        "Path": ".travis.yml",
+        "DateUpdated": "2019-09-24T06:39:30Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "b65f4487401fa7d7456d3857d460064c5d6eb7aa"
+        ]
+      },
+      {
+        "Sha": "2732ff6477de79395eaa56fee06e5994395f6b59",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-24T06:05:53Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "1fee32d7daf90089f1880720f6463e2ddec0f469"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "b65f4487401fa7d7456d3857d460064c5d6eb7aa",
+        "Author": {
+          "name": "\"Francesco Chicchiriccò\"",
+          "location": "Pescara, Italy",
+          "company": "Tirasa"
+        },
+        "Commitor": {
+          "name": "\"Francesco Chicchiriccò\"",
+          "location": "Pescara, Italy",
+          "company": "Tirasa"
+        },
+        "Date": "2019-09-24T06:39:30Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "ca41cbcefad273ee5cf7f412683abc3d9389d47e"
+        ]
+      },
+      {
+        "sha": "1fee32d7daf90089f1880720f6463e2ddec0f469",
+        "Author": {
+          "name": "\"Francesco Chicchiriccò\"",
+          "location": "Pescara, Italy",
+          "company": "Tirasa"
+        },
+        "Commitor": {
+          "name": "\"Francesco Chicchiriccò\"",
+          "location": "Pescara, Italy",
+          "company": "Tirasa"
+        },
+        "Date": "2019-09-24T06:05:53Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "2732ff6477de79395eaa56fee06e5994395f6b59"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "syncope",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T06:47:05Z",
+    "EndDate": "2019-09-24T07:47:05",
+    "Branches": 12,
+    "Forks": 93,
+    "Files": [
+      {
+        "Sha": "3f863da550254b5a5a59391d63d0d27fe3e5ea1b",
+        "FileName": ".travis.yml",
+        "Path": ".travis.yml",
+        "DateUpdated": "2019-09-24T07:43:12Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "8b693ee0d9326c08354e48aa8e26b41e12e86f5e"
+        ]
+      },
+      {
+        "Sha": "4f6f22c4592dea34cbd4557d88a2d0a98b916950",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-24T07:43:12Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "8b693ee0d9326c08354e48aa8e26b41e12e86f5e"
+        ]
+      },
+      {
+        "Sha": "f64e484438b5666cfa2f65d3ebac6ae855f542c3",
+        "FileName": ".travis.yml",
+        "Path": ".travis.yml",
+        "DateUpdated": "2019-09-24T06:58:30Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "a49f63ae4b26cea1abaa51df34e800bc85fc6a5b"
+        ]
+      },
+      {
+        "Sha": "126a38287f2530389f7b828e72825c9ae125c927",
+        "FileName": ".travis.yml",
+        "Path": ".travis.yml",
+        "DateUpdated": "2019-09-24T06:47:23Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "40309e1ca70b58da616dba0c0f70328e2fb045df"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "8b693ee0d9326c08354e48aa8e26b41e12e86f5e",
+        "Author": {
+          "name": "\"Francesco Chicchiriccò\"",
+          "location": "Pescara, Italy",
+          "company": "Tirasa"
+        },
+        "Commitor": {
+          "name": "\"Francesco Chicchiriccò\"",
+          "location": "Pescara, Italy",
+          "company": "Tirasa"
+        },
+        "Date": "2019-09-24T07:43:12Z",
+        "additions": 4,
+        "deletions": 4,
+        "files": [
+          "3f863da550254b5a5a59391d63d0d27fe3e5ea1b",
+          "4f6f22c4592dea34cbd4557d88a2d0a98b916950"
+        ]
+      },
+      {
+        "sha": "a49f63ae4b26cea1abaa51df34e800bc85fc6a5b",
+        "Author": {
+          "name": "\"Francesco Chicchiriccò\"",
+          "location": "Pescara, Italy",
+          "company": "Tirasa"
+        },
+        "Commitor": {
+          "name": "\"Francesco Chicchiriccò\"",
+          "location": "Pescara, Italy",
+          "company": "Tirasa"
+        },
+        "Date": "2019-09-24T06:58:30Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "f64e484438b5666cfa2f65d3ebac6ae855f542c3"
+        ]
+      },
+      {
+        "sha": "40309e1ca70b58da616dba0c0f70328e2fb045df",
+        "Author": {
+          "name": "\"Francesco Chicchiriccò\"",
+          "location": "Pescara, Italy",
+          "company": "Tirasa"
+        },
+        "Commitor": {
+          "name": "\"Francesco Chicchiriccò\"",
+          "location": "Pescara, Italy",
+          "company": "Tirasa"
+        },
+        "Date": "2019-09-24T06:47:23Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "126a38287f2530389f7b828e72825c9ae125c927"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "syncope",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T10:47:13Z",
+    "EndDate": "2019-09-24T11:47:13",
+    "Branches": 12,
+    "Forks": 93,
+    "Files": [
+      {
+        "Sha": "5087c055a050d6cf797ff6b445a634c6399236a3",
+        "FileName": "SyncopeConsoleApplication.java",
+        "Path": "client/idrepo/console/src/main/java/org/apache/syncope/client/console/SyncopeConsoleApplication.java",
+        "DateUpdated": "2019-09-24T10:50:12Z",
+        "Additions": 4,
+        "Deletions": 3,
+        "Commits": [
+          "1d3ff505db0b65e0dc6c7eebc7da748c774710e7"
+        ]
+      },
+      {
+        "Sha": "e85251a944ac176a032d7b828c2670136524e6c6",
+        "FileName": "SyncopeEnduserApplication.java",
+        "Path": "client/idrepo/enduser/src/main/java/org/apache/syncope/client/enduser/SyncopeEnduserApplication.java",
+        "DateUpdated": "2019-09-24T10:50:12Z",
+        "Additions": 4,
+        "Deletions": 3,
+        "Commits": [
+          "1d3ff505db0b65e0dc6c7eebc7da748c774710e7"
+        ]
+      },
+      {
+        "Sha": "aeb8c7b1def4c4f7eec2cd59f0f821c16eebe60e",
+        "FileName": "MasterDomain.java",
+        "Path": "core/persistence-jpa/src/main/java/org/apache/syncope/core/persistence/jpa/MasterDomain.java",
+        "DateUpdated": "2019-09-24T10:50:12Z",
+        "Additions": 32,
+        "Deletions": 26,
+        "Commits": [
+          "1d3ff505db0b65e0dc6c7eebc7da748c774710e7"
+        ]
+      },
+      {
+        "Sha": "a26084fa55b300b8e7fabd134a07c91c6902e55e",
+        "FileName": "PersistenceContext.java",
+        "Path": "core/persistence-jpa/src/main/java/org/apache/syncope/core/persistence/jpa/PersistenceContext.java",
+        "DateUpdated": "2019-09-24T10:50:12Z",
+        "Additions": 27,
+        "Deletions": 18,
+        "Commits": [
+          "1d3ff505db0b65e0dc6c7eebc7da748c774710e7"
+        ]
+      },
+      {
+        "Sha": "9c9aaf4045874a6a6f0f3a9286e6980054c4f5a2",
+        "FileName": "SyncopeCoreApplication.java",
+        "Path": "core/starter/src/main/java/org/apache/syncope/core/starter/SyncopeCoreApplication.java",
+        "DateUpdated": "2019-09-24T10:50:12Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "1d3ff505db0b65e0dc6c7eebc7da748c774710e7"
+        ]
+      },
+      {
+        "Sha": "6590302596d69ec73ba52b84611a38de33a3c5b5",
+        "FileName": "SelfKeymasterClientContext.java",
+        "Path": "ext/self-keymaster/client/src/main/java/org/apache/syncope/common/keymaster/client/self/SelfKeymasterClientContext.java",
+        "DateUpdated": "2019-09-24T10:50:12Z",
+        "Additions": 7,
+        "Deletions": 1,
+        "Commits": [
+          "1d3ff505db0b65e0dc6c7eebc7da748c774710e7"
+        ]
+      },
+      {
+        "Sha": "fc319f25abec944b9b002863103e47522b70fc51",
+        "FileName": "SyncopeBuildToolsApplication.java",
+        "Path": "fit/build-tools/src/main/java/org/apache/syncope/fit/buildtools/SyncopeBuildToolsApplication.java",
+        "DateUpdated": "2019-09-24T10:50:12Z",
+        "Additions": 5,
+        "Deletions": 8,
+        "Commits": [
+          "1d3ff505db0b65e0dc6c7eebc7da748c774710e7"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "1d3ff505db0b65e0dc6c7eebc7da748c774710e7",
+        "Author": {
+          "name": "\"Misagh Moayyed\""
+        },
+        "Commitor": {
+          "name": "\"Francesco Chicchiriccò\"",
+          "location": "Pescara, Italy",
+          "company": "Tirasa"
+        },
+        "Date": "2019-09-24T10:50:12Z",
+        "additions": 83,
+        "deletions": 63,
+        "files": [
+          "5087c055a050d6cf797ff6b445a634c6399236a3",
+          "e85251a944ac176a032d7b828c2670136524e6c6",
+          "aeb8c7b1def4c4f7eec2cd59f0f821c16eebe60e",
+          "a26084fa55b300b8e7fabd134a07c91c6902e55e",
+          "9c9aaf4045874a6a6f0f3a9286e6980054c4f5a2",
+          "6590302596d69ec73ba52b84611a38de33a3c5b5",
+          "fc319f25abec944b9b002863103e47522b70fc51"
+        ]
+      }
+    ]
+  }
+]

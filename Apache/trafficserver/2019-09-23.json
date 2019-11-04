@@ -1,0 +1,258 @@
+[
+  {
+    "RepositoryName": "trafficserver",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T15:02:10Z",
+    "EndDate": "2019-09-23T16:02:10",
+    "Branches": 37,
+    "Forks": 599,
+    "Files": [
+      {
+        "Sha": "8984463e7b52241d55ec3959358844a8148a6825",
+        "FileName": "Makefile.inc",
+        "Path": "plugins/experimental/ssl_session_reuse/Makefile.inc",
+        "DateUpdated": "2019-09-23T15:21:17Z",
+        "Additions": 13,
+        "Deletions": 13,
+        "Commits": [
+          "af2988b468f26d76fde118c6fb6d7b1e38b27ae4"
+        ]
+      },
+      {
+        "Sha": "55d96a50716f37475f52bfe682b5173fb9c4d918",
+        "FileName": "example_config.config",
+        "Path": "plugins/experimental/ssl_session_reuse/example_config.config",
+        "DateUpdated": "2019-09-23T15:21:17Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "af2988b468f26d76fde118c6fb6d7b1e38b27ae4"
+        ]
+      },
+      {
+        "Sha": "64b03dfbdf30f0367898dd29435310d75a47f6c8",
+        "FileName": "ats_ssl_plugin.cc",
+        "Path": "plugins/experimental/ssl_session_reuse/src/ats_ssl_plugin.cc",
+        "DateUpdated": "2019-09-23T15:21:17Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "af2988b468f26d76fde118c6fb6d7b1e38b27ae4"
+        ]
+      },
+      {
+        "Sha": "e552c5a2b0d4485154900be295e2ba4ed0e0db64",
+        "FileName": "common.cc",
+        "Path": "plugins/experimental/ssl_session_reuse/src/common.cc",
+        "DateUpdated": "2019-09-23T15:21:17Z",
+        "Additions": 182,
+        "Deletions": 0,
+        "Commits": [
+          "af2988b468f26d76fde118c6fb6d7b1e38b27ae4"
+        ]
+      },
+      {
+        "Sha": "bcec00b06693f414df98f913ce2fad39ec465dc6",
+        "FileName": "common.h",
+        "Path": "plugins/experimental/ssl_session_reuse/src/common.h",
+        "DateUpdated": "2019-09-23T15:21:17Z",
+        "Additions": 55,
+        "Deletions": 0,
+        "Commits": [
+          "af2988b468f26d76fde118c6fb6d7b1e38b27ae4"
+        ]
+      },
+      {
+        "Sha": "65f81a5604c315dca99f05fd9deeca5967df8424",
+        "FileName": "config.cc",
+        "Path": "plugins/experimental/ssl_session_reuse/src/config.cc",
+        "DateUpdated": "2019-09-23T15:21:17Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "af2988b468f26d76fde118c6fb6d7b1e38b27ae4"
+        ]
+      },
+      {
+        "Sha": "9196085b5abecb9ee6bcb8363471a9bee81b71e7",
+        "FileName": "message.h",
+        "Path": "plugins/experimental/ssl_session_reuse/src/message.h",
+        "DateUpdated": "2019-09-23T15:21:17Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "af2988b468f26d76fde118c6fb6d7b1e38b27ae4"
+        ]
+      },
+      {
+        "Sha": "0cff9cab0a53dc5667d158339c2a6ba70e15f0e9",
+        "FileName": "openssl_utils.cc",
+        "Path": "plugins/experimental/ssl_session_reuse/src/openssl_utils.cc",
+        "DateUpdated": "2019-09-23T15:21:17Z",
+        "Additions": 11,
+        "Deletions": 11,
+        "Commits": [
+          "af2988b468f26d76fde118c6fb6d7b1e38b27ae4"
+        ]
+      },
+      {
+        "Sha": "0877155be252c1b8ae1b44f470982c1fca802452",
+        "FileName": "publish.cc",
+        "Path": "plugins/experimental/ssl_session_reuse/src/publish.cc",
+        "DateUpdated": "2019-09-23T15:21:17Z",
+        "Additions": 43,
+        "Deletions": 46,
+        "Commits": [
+          "af2988b468f26d76fde118c6fb6d7b1e38b27ae4"
+        ]
+      },
+      {
+        "Sha": "a76880c9cbbd356cbc0f8dfa85bf928f9f13af45",
+        "FileName": "publisher.h",
+        "Path": "plugins/experimental/ssl_session_reuse/src/publisher.h",
+        "DateUpdated": "2019-09-23T15:21:17Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "af2988b468f26d76fde118c6fb6d7b1e38b27ae4"
+        ]
+      },
+      {
+        "Sha": "55ff737745a16b105260666c66540de05eb67152",
+        "FileName": "redis_endpoint.h",
+        "Path": "plugins/experimental/ssl_session_reuse/src/redis_endpoint.h",
+        "DateUpdated": "2019-09-23T15:21:17Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "af2988b468f26d76fde118c6fb6d7b1e38b27ae4"
+        ]
+      },
+      {
+        "Sha": "3125c11f5959b3fbcd10854c5c057d61a1db6e1b",
+        "FileName": "session_process.cc",
+        "Path": "plugins/experimental/ssl_session_reuse/src/session_process.cc",
+        "DateUpdated": "2019-09-23T15:21:17Z",
+        "Additions": 80,
+        "Deletions": 138,
+        "Commits": [
+          "af2988b468f26d76fde118c6fb6d7b1e38b27ae4"
+        ]
+      },
+      {
+        "Sha": "f987787f94d782dcc3f08bdd36af8b23cdb00829",
+        "FileName": "session_process.h",
+        "Path": "plugins/experimental/ssl_session_reuse/src/session_process.h",
+        "DateUpdated": "2019-09-23T15:21:17Z",
+        "Additions": 1,
+        "Deletions": 8,
+        "Commits": [
+          "af2988b468f26d76fde118c6fb6d7b1e38b27ae4"
+        ]
+      },
+      {
+        "Sha": "2977e356a38b9be3f0f745d258852484b32a717f",
+        "FileName": "simple_pool.h",
+        "Path": "plugins/experimental/ssl_session_reuse/src/simple_pool.h",
+        "DateUpdated": "2019-09-23T15:21:17Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "af2988b468f26d76fde118c6fb6d7b1e38b27ae4"
+        ]
+      },
+      {
+        "Sha": "afc88fffeb0058fa0bea89e9451cbc9b8b9846bf",
+        "FileName": "ssl_init.cc",
+        "Path": "plugins/experimental/ssl_session_reuse/src/ssl_init.cc",
+        "DateUpdated": "2019-09-23T15:21:17Z",
+        "Additions": 21,
+        "Deletions": 17,
+        "Commits": [
+          "af2988b468f26d76fde118c6fb6d7b1e38b27ae4"
+        ]
+      },
+      {
+        "Sha": "77ba41717244412fe65bec0e4c65a3704212b01c",
+        "FileName": "ssl_key_utils.cc",
+        "Path": "plugins/experimental/ssl_session_reuse/src/ssl_key_utils.cc",
+        "DateUpdated": "2019-09-23T15:21:17Z",
+        "Additions": 49,
+        "Deletions": 92,
+        "Commits": [
+          "af2988b468f26d76fde118c6fb6d7b1e38b27ae4"
+        ]
+      },
+      {
+        "Sha": "adfc39c80d77585fcb640442f33600f05b43317a",
+        "FileName": "ssl_utils.h",
+        "Path": "plugins/experimental/ssl_session_reuse/src/ssl_utils.h",
+        "DateUpdated": "2019-09-23T15:21:17Z",
+        "Additions": 4,
+        "Deletions": 35,
+        "Commits": [
+          "af2988b468f26d76fde118c6fb6d7b1e38b27ae4"
+        ]
+      },
+      {
+        "Sha": "9d01f220a80fca60b22fbfb56503b797e2b1f067",
+        "FileName": "subscriber.cc",
+        "Path": "plugins/experimental/ssl_session_reuse/src/subscriber.cc",
+        "DateUpdated": "2019-09-23T15:21:17Z",
+        "Additions": 27,
+        "Deletions": 26,
+        "Commits": [
+          "af2988b468f26d76fde118c6fb6d7b1e38b27ae4"
+        ]
+      },
+      {
+        "Sha": "9e0ae854dfe628feb19f7435a4917db78819e574",
+        "FileName": "subscriber.h",
+        "Path": "plugins/experimental/ssl_session_reuse/src/subscriber.h",
+        "DateUpdated": "2019-09-23T15:21:17Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "af2988b468f26d76fde118c6fb6d7b1e38b27ae4"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "af2988b468f26d76fde118c6fb6d7b1e38b27ae4",
+        "Author": {
+          "name": "\"Fei Deng\"",
+          "company": "@Verizon Media"
+        },
+        "Commitor": {
+          "name": "\"Fei Deng\"",
+          "company": "@Verizon Media"
+        },
+        "Date": "2019-09-23T15:21:17Z",
+        "additions": 501,
+        "deletions": 396,
+        "files": [
+          "8984463e7b52241d55ec3959358844a8148a6825",
+          "55d96a50716f37475f52bfe682b5173fb9c4d918",
+          "64b03dfbdf30f0367898dd29435310d75a47f6c8",
+          "e552c5a2b0d4485154900be295e2ba4ed0e0db64",
+          "bcec00b06693f414df98f913ce2fad39ec465dc6",
+          "65f81a5604c315dca99f05fd9deeca5967df8424",
+          "9196085b5abecb9ee6bcb8363471a9bee81b71e7",
+          "0cff9cab0a53dc5667d158339c2a6ba70e15f0e9",
+          "0877155be252c1b8ae1b44f470982c1fca802452",
+          "a76880c9cbbd356cbc0f8dfa85bf928f9f13af45",
+          "55ff737745a16b105260666c66540de05eb67152",
+          "3125c11f5959b3fbcd10854c5c057d61a1db6e1b",
+          "f987787f94d782dcc3f08bdd36af8b23cdb00829",
+          "2977e356a38b9be3f0f745d258852484b32a717f",
+          "afc88fffeb0058fa0bea89e9451cbc9b8b9846bf",
+          "77ba41717244412fe65bec0e4c65a3704212b01c",
+          "adfc39c80d77585fcb640442f33600f05b43317a",
+          "9d01f220a80fca60b22fbfb56503b797e2b1f067",
+          "9e0ae854dfe628feb19f7435a4917db78819e574"
+        ]
+      }
+    ]
+  }
+]

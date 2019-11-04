@@ -1,0 +1,320 @@
+[
+  {
+    "RepositoryName": "royale-asjs",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T08:02:20Z",
+    "EndDate": "2019-09-23T09:02:20",
+    "Branches": 77,
+    "Forks": 73,
+    "Files": [
+      {
+        "Sha": "bf26e5478f898f7bdb7fb297966df555ff88dd04",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/Jewel-Dark-NoFlat-Primary-Amethyst-Theme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-23T08:27:56Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "e062fc933662e80c47e4e0b750c07862d4df863c"
+        ]
+      },
+      {
+        "Sha": "5b1acc5c17ce8fe1d176148bfbd9b4aabd6c596a",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/Jewel-Dark-NoFlat-Primary-Blue-Theme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-23T08:27:56Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "e062fc933662e80c47e4e0b750c07862d4df863c"
+        ]
+      },
+      {
+        "Sha": "64feacd077168beba0f8a2d8a5ce7eb7e8c59767",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/Jewel-Dark-NoFlat-Primary-Emerald-Theme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-23T08:27:56Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "e062fc933662e80c47e4e0b750c07862d4df863c"
+        ]
+      },
+      {
+        "Sha": "4161c48371b9841ff2a82eea9bc3d21d09aee08a",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/Jewel-Dark-NoFlat-Primary-Green-Theme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-23T08:27:56Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "e062fc933662e80c47e4e0b750c07862d4df863c"
+        ]
+      },
+      {
+        "Sha": "e21471ea8b828dc50be8647c270e5dda3e4b9e23",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/Jewel-Dark-NoFlat-Primary-Orange-Theme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-23T08:27:56Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "e062fc933662e80c47e4e0b750c07862d4df863c"
+        ]
+      },
+      {
+        "Sha": "6780cd052719a10eb7c4fa85622365ff505b4304",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/Jewel-Dark-NoFlat-Primary-Red-Theme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-23T08:27:56Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "e062fc933662e80c47e4e0b750c07862d4df863c"
+        ]
+      },
+      {
+        "Sha": "87519d097cc970a7a8c44ffd35e8e32797c1bb71",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/Jewel-Dark-NoFlat-Primary-Sapphire-Theme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-23T08:27:56Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "e062fc933662e80c47e4e0b750c07862d4df863c"
+        ]
+      },
+      {
+        "Sha": "ac8ff6834f37c243532fbd174cffbd3d6f23fe70",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/Jewel-Dark-NoFlat-Primary-Sunflower-Theme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-23T08:27:56Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "e062fc933662e80c47e4e0b750c07862d4df863c"
+        ]
+      },
+      {
+        "Sha": "5740cea51d29ad173a929abfbb9eea84999fa456",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/Jewel-Dark-NoFlat-Primary-Topaz-Theme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-23T08:27:56Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "e062fc933662e80c47e4e0b750c07862d4df863c"
+        ]
+      },
+      {
+        "Sha": "8f13a491d4808ff3414ef94aeb64f9c2245c7eb5",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/Jewel-Dark-NoFlat-Primary-Turquoise-Theme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-23T08:27:56Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "e062fc933662e80c47e4e0b750c07862d4df863c"
+        ]
+      },
+      {
+        "Sha": "8cff352b46c7f068afee0fcc8ebca6c37f7dd79f",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/Jewel-Dark-NoFlat-Primary-Violet-Theme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-23T08:27:56Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "e062fc933662e80c47e4e0b750c07862d4df863c"
+        ]
+      },
+      {
+        "Sha": "1d54d4c65cc12894df962eab62b4d3a37498683d",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/Jewel-Dark-NoFlat-Primary-Yellow-Theme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-23T08:27:56Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "e062fc933662e80c47e4e0b750c07862d4df863c"
+        ]
+      },
+      {
+        "Sha": "37db02b2d86f49cdc3c0632496416efaf0ea92a9",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/Jewel-Light-NoFlat-Primary-Amethyst-Theme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-23T08:27:56Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "e062fc933662e80c47e4e0b750c07862d4df863c"
+        ]
+      },
+      {
+        "Sha": "a223e670be68cd67a1b5f619947eed3742c98035",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/Jewel-Light-NoFlat-Primary-Blue-Theme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-23T08:27:56Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "e062fc933662e80c47e4e0b750c07862d4df863c"
+        ]
+      },
+      {
+        "Sha": "35ce3f4a438306a2aae8abf033158aca273c9193",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/Jewel-Light-NoFlat-Primary-Emerald-Theme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-23T08:27:56Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "e062fc933662e80c47e4e0b750c07862d4df863c"
+        ]
+      },
+      {
+        "Sha": "db6d2e4de1bf0b3a5c9ba9747d632074d3bbca3c",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/Jewel-Light-NoFlat-Primary-Green-Theme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-23T08:27:56Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "e062fc933662e80c47e4e0b750c07862d4df863c"
+        ]
+      },
+      {
+        "Sha": "2dfa5f04d7439a689441093ceaa4319197a0c9fb",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/Jewel-Light-NoFlat-Primary-Orange-Theme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-23T08:27:56Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "e062fc933662e80c47e4e0b750c07862d4df863c"
+        ]
+      },
+      {
+        "Sha": "fb320fb591cb6cc494afc49f0fa800270e3d6874",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/Jewel-Light-NoFlat-Primary-Red-Theme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-23T08:27:56Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "e062fc933662e80c47e4e0b750c07862d4df863c"
+        ]
+      },
+      {
+        "Sha": "ab83e3c8d26735ebccc501c8cc736044bb6b76f4",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/Jewel-Light-NoFlat-Primary-Sapphire-Theme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-23T08:27:56Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "e062fc933662e80c47e4e0b750c07862d4df863c"
+        ]
+      },
+      {
+        "Sha": "0edbc030d1dd585dc895442233e3bc2427680ee6",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/Jewel-Light-NoFlat-Primary-Sunflower-Theme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-23T08:27:56Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "e062fc933662e80c47e4e0b750c07862d4df863c"
+        ]
+      },
+      {
+        "Sha": "812675e266f2569b95ccc234e8617fbaba36e5ac",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/Jewel-Light-NoFlat-Primary-Topaz-Theme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-23T08:27:56Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "e062fc933662e80c47e4e0b750c07862d4df863c"
+        ]
+      },
+      {
+        "Sha": "6a47b6bae94d913b501bf50b537e8a5caa7bed7a",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/Jewel-Light-NoFlat-Primary-Turquoise-Theme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-23T08:27:56Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "e062fc933662e80c47e4e0b750c07862d4df863c"
+        ]
+      },
+      {
+        "Sha": "f3272b05040b89e2fd8143e9ea6ca37c503033e4",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/Jewel-Light-NoFlat-Primary-Violet-Theme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-23T08:27:56Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "e062fc933662e80c47e4e0b750c07862d4df863c"
+        ]
+      },
+      {
+        "Sha": "8d41c25bbd7e4870013d6a0b14634034fd57fb0c",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/Jewel-Light-NoFlat-Primary-Yellow-Theme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-23T08:27:56Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "e062fc933662e80c47e4e0b750c07862d4df863c"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "e062fc933662e80c47e4e0b750c07862d4df863c",
+        "Author": {
+          "name": "\"Carlos Rovira\"",
+          "location": "Spain",
+          "company": "Codeoscopic S.A."
+        },
+        "Commitor": {
+          "name": "\"Carlos Rovira\"",
+          "location": "Spain",
+          "company": "Codeoscopic S.A."
+        },
+        "Date": "2019-09-23T08:27:56Z",
+        "additions": 336,
+        "deletions": 0,
+        "files": [
+          "bf26e5478f898f7bdb7fb297966df555ff88dd04",
+          "5b1acc5c17ce8fe1d176148bfbd9b4aabd6c596a",
+          "64feacd077168beba0f8a2d8a5ce7eb7e8c59767",
+          "4161c48371b9841ff2a82eea9bc3d21d09aee08a",
+          "e21471ea8b828dc50be8647c270e5dda3e4b9e23",
+          "6780cd052719a10eb7c4fa85622365ff505b4304",
+          "87519d097cc970a7a8c44ffd35e8e32797c1bb71",
+          "ac8ff6834f37c243532fbd174cffbd3d6f23fe70",
+          "5740cea51d29ad173a929abfbb9eea84999fa456",
+          "8f13a491d4808ff3414ef94aeb64f9c2245c7eb5",
+          "8cff352b46c7f068afee0fcc8ebca6c37f7dd79f",
+          "1d54d4c65cc12894df962eab62b4d3a37498683d",
+          "37db02b2d86f49cdc3c0632496416efaf0ea92a9",
+          "a223e670be68cd67a1b5f619947eed3742c98035",
+          "35ce3f4a438306a2aae8abf033158aca273c9193",
+          "db6d2e4de1bf0b3a5c9ba9747d632074d3bbca3c",
+          "2dfa5f04d7439a689441093ceaa4319197a0c9fb",
+          "fb320fb591cb6cc494afc49f0fa800270e3d6874",
+          "ab83e3c8d26735ebccc501c8cc736044bb6b76f4",
+          "0edbc030d1dd585dc895442233e3bc2427680ee6",
+          "812675e266f2569b95ccc234e8617fbaba36e5ac",
+          "6a47b6bae94d913b501bf50b537e8a5caa7bed7a",
+          "f3272b05040b89e2fd8143e9ea6ca37c503033e4",
+          "8d41c25bbd7e4870013d6a0b14634034fd57fb0c"
+        ]
+      }
+    ]
+  }
+]

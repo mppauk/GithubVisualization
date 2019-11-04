@@ -1,0 +1,43 @@
+[
+  {
+    "RepositoryName": "cordova-electron",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T22:03:39Z",
+    "EndDate": "2019-09-25T23:03:39",
+    "Branches": 4,
+    "Forks": 22,
+    "Files": [
+      {
+        "Sha": "95071bb1245056ab1c5a65f8c4255658447f0cdc",
+        "FileName": "DOCUMENTATION.md",
+        "Path": "DOCUMENTATION.md",
+        "DateUpdated": "2019-09-25T22:04:20Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d758a46e123cef6e65b3fe4a7214654e79ea31db"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d758a46e123cef6e65b3fe4a7214654e79ea31db",
+        "Author": {
+          "name": "\"Florian Bernard\"",
+          "location": "Toulouse, FRANCE"
+        },
+        "Commitor": {
+          "name": "\"Tim Brust\"",
+          "location": "Hamburg, Germany",
+          "company": "@sinnerschrader @Dustplanet "
+        },
+        "Date": "2019-09-25T22:04:20Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "95071bb1245056ab1c5a65f8c4255658447f0cdc"
+        ]
+      }
+    ]
+  }
+]

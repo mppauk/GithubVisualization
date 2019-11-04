@@ -1,0 +1,223 @@
+[
+  {
+    "RepositoryName": "beam",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T23:47:20Z",
+    "EndDate": "2019-09-25T00:47:20",
+    "Branches": 47,
+    "Forks": 2049,
+    "Files": [
+      {
+        "Sha": "6004ca1a026eb294bb0142dbccac1d77cfd0f716",
+        "FileName": "mongodbio.py",
+        "Path": "sdks/python/apache_beam/io/mongodbio.py",
+        "DateUpdated": "2019-09-25T00:35:49Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "4ea54ca71ecdd9d92e64937ee814db653ebac8ce"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "4ea54ca71ecdd9d92e64937ee814db653ebac8ce",
+        "Author": {
+          "name": "\"Pablo\"",
+          "location": "Seattle, WA",
+          "company": "@google "
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T00:35:49Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "6004ca1a026eb294bb0142dbccac1d77cfd0f716"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "beam",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T00:03:31Z",
+    "EndDate": "2019-09-25T01:03:31",
+    "Branches": 47,
+    "Forks": 2049,
+    "Files": [
+      {
+        "Sha": "6004ca1a026eb294bb0142dbccac1d77cfd0f716",
+        "FileName": "mongodbio.py",
+        "Path": "sdks/python/apache_beam/io/mongodbio.py",
+        "DateUpdated": "2019-09-25T00:35:49Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "4ea54ca71ecdd9d92e64937ee814db653ebac8ce"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "4ea54ca71ecdd9d92e64937ee814db653ebac8ce",
+        "Author": {
+          "name": "\"Pablo\"",
+          "location": "Seattle, WA",
+          "company": "@google "
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T00:35:49Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "6004ca1a026eb294bb0142dbccac1d77cfd0f716"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "beam",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T04:46:55Z",
+    "EndDate": "2019-09-25T05:46:55",
+    "Branches": 47,
+    "Forks": 2049,
+    "Files": [
+      {
+        "Sha": "eb313e612835896990c8020d00f2fcd82cef423f",
+        "FileName": "DataflowPipelineWorkerPoolOptions.java",
+        "Path": "runners/google-cloud-dataflow-java/src/main/java/org/apache/beam/runners/dataflow/options/DataflowPipelineWorkerPoolOptions.java",
+        "DateUpdated": "2019-09-25T05:12:12Z",
+        "Additions": 2,
+        "Deletions": 15,
+        "Commits": [
+          "a40d643679b35ad7657925450ea0c7629be0b001"
+        ]
+      },
+      {
+        "Sha": "37cf6bc519a54701931253847a82314ca65093bd",
+        "FileName": "GcpOptions.java",
+        "Path": "sdks/java/extensions/google-cloud-platform-core/src/main/java/org/apache/beam/sdk/extensions/gcp/options/GcpOptions.java",
+        "DateUpdated": "2019-09-25T05:12:12Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "a40d643679b35ad7657925450ea0c7629be0b001"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a40d643679b35ad7657925450ea0c7629be0b001",
+        "Author": {
+          "name": "\"Dante\"",
+          "location": "Zapopan, Jalisco, Mexico",
+          "company": "Personal"
+        },
+        "Commitor": {
+          "name": "\"Kenn Knowles\"",
+          "company": "@GoogleCloudPlatform "
+        },
+        "Date": "2019-09-25T05:12:12Z",
+        "additions": 3,
+        "deletions": 15,
+        "files": [
+          "eb313e612835896990c8020d00f2fcd82cef423f",
+          "37cf6bc519a54701931253847a82314ca65093bd"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "beam",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T09:03:47Z",
+    "EndDate": "2019-09-25T10:03:47",
+    "Branches": 47,
+    "Forks": 2050,
+    "Files": [
+      {
+        "Sha": "9e606b39c5a9dc1e3b229b6576b15d7c330e3f76",
+        "FileName": "FlatMapElementsTest.java",
+        "Path": "sdks/java/core/src/test/java/org/apache/beam/sdk/transforms/FlatMapElementsTest.java",
+        "DateUpdated": "2019-09-25T09:09:56Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7f3cdedd6b4ec4a54a25c2df78624e9501bde920"
+        ]
+      },
+      {
+        "Sha": "390a6135807126fc013613a12a9bbc173fa52e80",
+        "FileName": "MapElementsTest.java",
+        "Path": "sdks/java/core/src/test/java/org/apache/beam/sdk/transforms/MapElementsTest.java",
+        "DateUpdated": "2019-09-25T09:09:56Z",
+        "Additions": 1,
+        "Deletions": 4,
+        "Commits": [
+          "7f3cdedd6b4ec4a54a25c2df78624e9501bde920"
+        ]
+      },
+      {
+        "Sha": "9f1a199d5488b17fe46e3a0b3249c892f6134b9b",
+        "FileName": "AsJsons.java",
+        "Path": "sdks/java/extensions/jackson/src/main/java/org/apache/beam/sdk/extensions/jackson/AsJsons.java",
+        "DateUpdated": "2019-09-25T09:09:56Z",
+        "Additions": 186,
+        "Deletions": 7,
+        "Commits": [
+          "7f3cdedd6b4ec4a54a25c2df78624e9501bde920"
+        ]
+      },
+      {
+        "Sha": "a92041bf879373f1b41df80075a91dc1656e3fa1",
+        "FileName": "ParseJsons.java",
+        "Path": "sdks/java/extensions/jackson/src/main/java/org/apache/beam/sdk/extensions/jackson/ParseJsons.java",
+        "DateUpdated": "2019-09-25T09:09:56Z",
+        "Additions": 179,
+        "Deletions": 3,
+        "Commits": [
+          "7f3cdedd6b4ec4a54a25c2df78624e9501bde920"
+        ]
+      },
+      {
+        "Sha": "4414465689c9b8f037daef95ad941dfe99a98f87",
+        "FileName": "JacksonTransformsTest.java",
+        "Path": "sdks/java/extensions/jackson/src/test/java/org/apache/beam/sdk/extensions/jackson/JacksonTransformsTest.java",
+        "DateUpdated": "2019-09-25T09:09:56Z",
+        "Additions": 267,
+        "Deletions": 1,
+        "Commits": [
+          "7f3cdedd6b4ec4a54a25c2df78624e9501bde920"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "7f3cdedd6b4ec4a54a25c2df78624e9501bde920",
+        "Author": {
+          "name": "\"Alexey Romanenko\"",
+          "location": "France",
+          "company": "Talend"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T09:09:56Z",
+        "additions": 634,
+        "deletions": 16,
+        "files": [
+          "9e606b39c5a9dc1e3b229b6576b15d7c330e3f76",
+          "390a6135807126fc013613a12a9bbc173fa52e80",
+          "9f1a199d5488b17fe46e3a0b3249c892f6134b9b",
+          "a92041bf879373f1b41df80075a91dc1656e3fa1",
+          "4414465689c9b8f037daef95ad941dfe99a98f87"
+        ]
+      }
+    ]
+  }
+]

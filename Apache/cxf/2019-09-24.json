@@ -1,0 +1,182 @@
+[
+  {
+    "RepositoryName": "cxf",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T06:46:41Z",
+    "EndDate": "2019-09-24T07:46:41",
+    "Branches": 19,
+    "Forks": 1071,
+    "Files": [
+      {
+        "Sha": "ed19fb063713971a901606c38766c325169b130b",
+        "FileName": "SSLUtils.java",
+        "Path": "core/src/main/java/org/apache/cxf/configuration/jsse/SSLUtils.java",
+        "DateUpdated": "2019-09-24T07:34:01Z",
+        "Additions": 2,
+        "Deletions": 3,
+        "Commits": [
+          "4d46618c17cb5c1386d493c75faf0f89dbece267"
+        ]
+      },
+      {
+        "Sha": "d383bb28267cd8e800b77348ab6db401df3efada",
+        "FileName": "KeyManagementUtils.java",
+        "Path": "rt/rs/security/jose-parent/jose/src/main/java/org/apache/cxf/rs/security/jose/common/KeyManagementUtils.java",
+        "DateUpdated": "2019-09-24T07:27:52Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "f3320dc1aa543431afc8da48ddcde53b7d9b0b78"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "4d46618c17cb5c1386d493c75faf0f89dbece267",
+        "Author": {
+          "name": "\"Alexey Markevich\"",
+          "location": "Minsk",
+          "company": "wedextim"
+        },
+        "Commitor": {
+          "name": "\"Alexey Markevich\"",
+          "location": "Minsk",
+          "company": "wedextim"
+        },
+        "Date": "2019-09-24T07:34:01Z",
+        "additions": 2,
+        "deletions": 3,
+        "files": [
+          "ed19fb063713971a901606c38766c325169b130b"
+        ]
+      },
+      {
+        "sha": "f3320dc1aa543431afc8da48ddcde53b7d9b0b78",
+        "Author": {
+          "name": "\"Alexey Markevich\"",
+          "location": "Minsk",
+          "company": "wedextim"
+        },
+        "Commitor": {
+          "name": "\"Alexey Markevich\"",
+          "location": "Minsk",
+          "company": "wedextim"
+        },
+        "Date": "2019-09-24T07:27:52Z",
+        "additions": 1,
+        "deletions": 2,
+        "files": [
+          "d383bb28267cd8e800b77348ab6db401df3efada"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "cxf",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T07:47:03Z",
+    "EndDate": "2019-09-24T08:47:03",
+    "Branches": 19,
+    "Forks": 1071,
+    "Files": [
+      {
+        "Sha": "55e0cd0e1f81af5e1699fccd07d3a5d3a9adde8b",
+        "FileName": "ClientNonSpring.java",
+        "Path": "distribution/src/main/release/samples/wsdl_first_https/src/main/java/demo/hw_https/client/ClientNonSpring.java",
+        "DateUpdated": "2019-09-24T08:39:26Z",
+        "Additions": 17,
+        "Deletions": 40,
+        "Commits": [
+          "39e26e3b2d3059664cc9aca6c8a4ea7f60bab3f1"
+        ]
+      },
+      {
+        "Sha": "4c04597798875189908b691dff8db977be926724",
+        "FileName": "STSRESTServer.java",
+        "Path": "services/sts/systests/basic/src/test/java/org/apache/cxf/systest/sts/rest/STSRESTServer.java",
+        "DateUpdated": "2019-09-24T08:15:05Z",
+        "Additions": 2,
+        "Deletions": 18,
+        "Commits": [
+          "a69f0444081047e2bbae9e9b8f180d490d417f8a"
+        ]
+      },
+      {
+        "Sha": "dc68013571c5a3e20680ff7158b736b8075e0e75",
+        "FileName": "STSRESTTest.java",
+        "Path": "services/sts/systests/basic/src/test/java/org/apache/cxf/systest/sts/rest/STSRESTTest.java",
+        "DateUpdated": "2019-09-24T08:15:05Z",
+        "Additions": 282,
+        "Deletions": 563,
+        "Commits": [
+          "a69f0444081047e2bbae9e9b8f180d490d417f8a"
+        ]
+      },
+      {
+        "Sha": "7f11ae645103afe1724a020bd72f8c6654a7acb2",
+        "FileName": "cxf-client.xml",
+        "Path": "services/sts/systests/basic/src/test/resources/org/apache/cxf/systest/sts/rest/cxf-client.xml",
+        "DateUpdated": "2019-09-24T08:15:05Z",
+        "Additions": 0,
+        "Deletions": 42,
+        "Commits": [
+          "a69f0444081047e2bbae9e9b8f180d490d417f8a"
+        ]
+      },
+      {
+        "Sha": "01bbf568f6e8b57af19c18e00cce87b42ff3f5d1",
+        "FileName": "cxf-rest-sts.xml",
+        "Path": "services/sts/systests/basic/src/test/resources/org/apache/cxf/systest/sts/rest/cxf-rest-sts.xml",
+        "DateUpdated": "2019-09-24T08:15:05Z",
+        "Additions": 19,
+        "Deletions": 17,
+        "Commits": [
+          "a69f0444081047e2bbae9e9b8f180d490d417f8a"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "39e26e3b2d3059664cc9aca6c8a4ea7f60bab3f1",
+        "Author": {
+          "name": "\"Alexey Markevich\"",
+          "location": "Minsk",
+          "company": "wedextim"
+        },
+        "Commitor": {
+          "name": "\"Alexey Markevich\"",
+          "location": "Minsk",
+          "company": "wedextim"
+        },
+        "Date": "2019-09-24T08:39:26Z",
+        "additions": 17,
+        "deletions": 40,
+        "files": [
+          "55e0cd0e1f81af5e1699fccd07d3a5d3a9adde8b"
+        ]
+      },
+      {
+        "sha": "a69f0444081047e2bbae9e9b8f180d490d417f8a",
+        "Author": {
+          "name": "\"Alexey Markevich\"",
+          "location": "Minsk",
+          "company": "wedextim"
+        },
+        "Commitor": {
+          "name": "\"Alexey Markevich\"",
+          "location": "Minsk",
+          "company": "wedextim"
+        },
+        "Date": "2019-09-24T08:15:05Z",
+        "additions": 303,
+        "deletions": 640,
+        "files": [
+          "4c04597798875189908b691dff8db977be926724",
+          "dc68013571c5a3e20680ff7158b736b8075e0e75",
+          "7f11ae645103afe1724a020bd72f8c6654a7acb2",
+          "01bbf568f6e8b57af19c18e00cce87b42ff3f5d1"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "RepositoryName": "mynewt-nimble",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T07:04:32Z",
+    "EndDate": "2019-09-26T08:04:32",
+    "Branches": 6,
+    "Forks": 110,
+    "Files": [
+      {
+        "Sha": "36de954bf85289e2b387feabc48e04add902242d",
+        "FileName": "ble_ll_scan.c",
+        "Path": "nimble/controller/src/ble_ll_scan.c",
+        "DateUpdated": "2019-09-26T07:13:38Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "8f33b429d51a834ab21a3b1afc4a871bf80dea8d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "8f33b429d51a834ab21a3b1afc4a871bf80dea8d",
+        "Author": {
+          "name": "\"Å?ukasz Rymanowski\"",
+          "location": "Poland",
+          "company": "Codecoup"
+        },
+        "Commitor": {
+          "name": "\"Å?ukasz Rymanowski\"",
+          "location": "Poland",
+          "company": "Codecoup"
+        },
+        "Date": "2019-09-26T07:13:38Z",
+        "additions": 4,
+        "deletions": 0,
+        "files": [
+          "36de954bf85289e2b387feabc48e04add902242d"
+        ]
+      }
+    ]
+  }
+]

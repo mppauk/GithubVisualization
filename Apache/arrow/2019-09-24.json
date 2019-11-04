@@ -1,0 +1,399 @@
+[
+  {
+    "RepositoryName": "arrow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T01:47:38Z",
+    "EndDate": "2019-09-24T02:47:38",
+    "Branches": 6,
+    "Forks": 1122,
+    "Files": [
+      {
+        "Sha": "fe1a7de6d8ff2902ccf389b713a95c5ac4ba4a67",
+        "FileName": "expressions.rs",
+        "Path": "rust/datafusion/src/execution/physical_plan/expressions.rs",
+        "DateUpdated": "2019-09-24T02:12:03Z",
+        "Additions": 107,
+        "Deletions": 0,
+        "Commits": [
+          "cde09f7963588cece60c674772f8a878c780237d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "cde09f7963588cece60c674772f8a878c780237d",
+        "Author": {
+          "name": "\"Andy Grove\"",
+          "location": "Broomfield, CO",
+          "company": "@RMS "
+        },
+        "Commitor": {
+          "name": "\"Paddy Horan\"",
+          "location": "Poland, OH",
+          "company": "MetLife"
+        },
+        "Date": "2019-09-24T02:12:03Z",
+        "additions": 107,
+        "deletions": 0,
+        "files": [
+          "fe1a7de6d8ff2902ccf389b713a95c5ac4ba4a67"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "arrow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T05:47:19Z",
+    "EndDate": "2019-09-24T06:47:19",
+    "Branches": 6,
+    "Forks": 1122,
+    "Files": [
+      {
+        "Sha": "866ac2a94e13df8172541402e70dd91780397ec2",
+        "FileName": "ArrowVectorIterator.java",
+        "Path": "java/adapter/jdbc/src/main/java/org/apache/arrow/adapter/jdbc/ArrowVectorIterator.java",
+        "DateUpdated": "2019-09-24T06:16:43Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "35b6d0789598a5c6943e6dc3e4e017282e5b2c45"
+        ]
+      },
+      {
+        "Sha": "c965d9fec3342c47953ff9397348c4cd2e77c026",
+        "FileName": "JdbcToArrowUtils.java",
+        "Path": "java/adapter/jdbc/src/main/java/org/apache/arrow/adapter/jdbc/JdbcToArrowUtils.java",
+        "DateUpdated": "2019-09-24T06:16:43Z",
+        "Additions": 0,
+        "Deletions": 16,
+        "Commits": [
+          "35b6d0789598a5c6943e6dc3e4e017282e5b2c45"
+        ]
+      },
+      {
+        "Sha": "af530bc44c12fc5e083b95be92a779f35833097d",
+        "FileName": "BinaryConsumer.java",
+        "Path": "java/adapter/jdbc/src/main/java/org/apache/arrow/adapter/jdbc/consumer/BinaryConsumer.java",
+        "DateUpdated": "2019-09-24T06:16:43Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "35b6d0789598a5c6943e6dc3e4e017282e5b2c45"
+        ]
+      },
+      {
+        "Sha": "3f2dd670acd8dfb6c09c4cfb7ef91e0b21450953",
+        "FileName": "ClobConsumer.java",
+        "Path": "java/adapter/jdbc/src/main/java/org/apache/arrow/adapter/jdbc/consumer/ClobConsumer.java",
+        "DateUpdated": "2019-09-24T06:16:43Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "35b6d0789598a5c6943e6dc3e4e017282e5b2c45"
+        ]
+      },
+      {
+        "Sha": "4ac83823d9e312a969da747dc3523321c5dbff58",
+        "FileName": "pom.xml",
+        "Path": "java/performance/pom.xml",
+        "DateUpdated": "2019-09-24T06:16:43Z",
+        "Additions": 11,
+        "Deletions": 0,
+        "Commits": [
+          "35b6d0789598a5c6943e6dc3e4e017282e5b2c45"
+        ]
+      },
+      {
+        "Sha": "ef3df3fb67b77cc5fd0b535539bdedd3c8a2f953",
+        "FileName": "JdbcAdapterBenchmarks.java",
+        "Path": "java/performance/src/test/java/org/apache/arrow/adapter/JdbcAdapterBenchmarks.java",
+        "DateUpdated": "2019-09-24T06:16:43Z",
+        "Additions": 144,
+        "Deletions": 0,
+        "Commits": [
+          "35b6d0789598a5c6943e6dc3e4e017282e5b2c45"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "35b6d0789598a5c6943e6dc3e4e017282e5b2c45",
+        "Author": {
+          "name": "null",
+          "location": "Beijing, China"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-24T06:16:43Z",
+        "additions": 163,
+        "deletions": 17,
+        "files": [
+          "866ac2a94e13df8172541402e70dd91780397ec2",
+          "c965d9fec3342c47953ff9397348c4cd2e77c026",
+          "af530bc44c12fc5e083b95be92a779f35833097d",
+          "3f2dd670acd8dfb6c09c4cfb7ef91e0b21450953",
+          "4ac83823d9e312a969da747dc3523321c5dbff58",
+          "ef3df3fb67b77cc5fd0b535539bdedd3c8a2f953"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "arrow",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T19:47:52Z",
+    "EndDate": "2019-09-24T20:47:52",
+    "Branches": 6,
+    "Forks": 1127,
+    "Files": [
+      {
+        "Sha": "6b095b878e591157833405ba22d492bb0b907fb4",
+        "FileName": "travis_script_python.sh",
+        "Path": "ci/travis_script_python.sh",
+        "DateUpdated": "2019-09-24T20:44:06Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2c7fb24956d6a21698d22eaa1d539d0f41174ca8"
+        ]
+      },
+      {
+        "Sha": "b4e38a3c2e20da76d928c0002faa3d7234a86f55",
+        "FileName": "filesystem.h",
+        "Path": "cpp/src/arrow/filesystem/filesystem.h",
+        "DateUpdated": "2019-09-24T20:44:06Z",
+        "Additions": 17,
+        "Deletions": 12,
+        "Commits": [
+          "2c7fb24956d6a21698d22eaa1d539d0f41174ca8"
+        ]
+      },
+      {
+        "Sha": "57da283b036ac7f8b5e849dace4a77045a8574fa",
+        "FileName": "localfs.h",
+        "Path": "cpp/src/arrow/filesystem/localfs.h",
+        "DateUpdated": "2019-09-24T20:44:06Z",
+        "Additions": 6,
+        "Deletions": 2,
+        "Commits": [
+          "2c7fb24956d6a21698d22eaa1d539d0f41174ca8"
+        ]
+      },
+      {
+        "Sha": "8dd3d87f8ff8ea43cdb791744ba7b0c7e20405ee",
+        "FileName": "s3fs.h",
+        "Path": "cpp/src/arrow/filesystem/s3fs.h",
+        "DateUpdated": "2019-09-24T20:44:06Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "2c7fb24956d6a21698d22eaa1d539d0f41174ca8"
+        ]
+      },
+      {
+        "Sha": "596539477428f0990ab0abffff46c4bb38918ad9",
+        "FileName": "file.h",
+        "Path": "cpp/src/arrow/io/file.h",
+        "DateUpdated": "2019-09-24T20:44:06Z",
+        "Additions": 15,
+        "Deletions": 8,
+        "Commits": [
+          "2c7fb24956d6a21698d22eaa1d539d0f41174ca8"
+        ]
+      },
+      {
+        "Sha": "2346e1514f0f3fd24c5d1cd6fe2014081d10d019",
+        "FileName": "memory.h",
+        "Path": "cpp/src/arrow/io/memory.h",
+        "DateUpdated": "2019-09-24T20:44:06Z",
+        "Additions": 9,
+        "Deletions": 3,
+        "Commits": [
+          "2c7fb24956d6a21698d22eaa1d539d0f41174ca8"
+        ]
+      },
+      {
+        "Sha": "02650a6d35e3e9343efa14cc3a8275205614e7d2",
+        "FileName": "sparse_tensor.h",
+        "Path": "cpp/src/arrow/sparse_tensor.h",
+        "DateUpdated": "2019-09-24T20:44:06Z",
+        "Additions": 19,
+        "Deletions": 6,
+        "Commits": [
+          "2c7fb24956d6a21698d22eaa1d539d0f41174ca8"
+        ]
+      },
+      {
+        "Sha": "9ffd79b27f46f1585d4aac2737cd7b6de448a6fd",
+        "FileName": "compression.h",
+        "Path": "cpp/src/arrow/util/compression.h",
+        "DateUpdated": "2019-09-24T20:44:06Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "2c7fb24956d6a21698d22eaa1d539d0f41174ca8"
+        ]
+      },
+      {
+        "Sha": "f62fe52b6196a1af5609c9b827463fd2335000d4",
+        "FileName": "api.rst",
+        "Path": "docs/source/cpp/api.rst",
+        "DateUpdated": "2019-09-24T20:44:06Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "2c7fb24956d6a21698d22eaa1d539d0f41174ca8"
+        ]
+      },
+      {
+        "Sha": "293dd080963a3a6c85ee8244ffd5f2ea165af0ba",
+        "FileName": "filesystem.rst",
+        "Path": "docs/source/cpp/api/filesystem.rst",
+        "DateUpdated": "2019-09-24T20:44:06Z",
+        "Additions": 46,
+        "Deletions": 0,
+        "Commits": [
+          "2c7fb24956d6a21698d22eaa1d539d0f41174ca8"
+        ]
+      },
+      {
+        "Sha": "d226a1e5673df7e9fe047cac00a7cd61cbf3e6ca",
+        "FileName": "flight.rst",
+        "Path": "docs/source/cpp/api/flight.rst",
+        "DateUpdated": "2019-09-24T20:44:06Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "2c7fb24956d6a21698d22eaa1d539d0f41174ca8"
+        ]
+      },
+      {
+        "Sha": "735136a0d47a474c7bd512972e6828c5cc6d63e2",
+        "FileName": "io.rst",
+        "Path": "docs/source/cpp/api/io.rst",
+        "DateUpdated": "2019-09-24T20:44:06Z",
+        "Additions": 95,
+        "Deletions": 0,
+        "Commits": [
+          "2c7fb24956d6a21698d22eaa1d539d0f41174ca8"
+        ]
+      },
+      {
+        "Sha": "93d8444b916f74b73e1a5aac92f584a2fc606cae",
+        "FileName": "memory.rst",
+        "Path": "docs/source/cpp/api/memory.rst",
+        "DateUpdated": "2019-09-24T20:44:06Z",
+        "Additions": 9,
+        "Deletions": 0,
+        "Commits": [
+          "2c7fb24956d6a21698d22eaa1d539d0f41174ca8"
+        ]
+      },
+      {
+        "Sha": "eb783f296b9edadea4e95913d9890dc004613e83",
+        "FileName": "tensor.rst",
+        "Path": "docs/source/cpp/api/tensor.rst",
+        "DateUpdated": "2019-09-24T20:44:06Z",
+        "Additions": 53,
+        "Deletions": 0,
+        "Commits": [
+          "2c7fb24956d6a21698d22eaa1d539d0f41174ca8"
+        ]
+      },
+      {
+        "Sha": "87c5a3bbe0458a59fde8ca4b2b099084bc730e49",
+        "FileName": "utilities.rst",
+        "Path": "docs/source/cpp/api/utilities.rst",
+        "DateUpdated": "2019-09-24T20:44:06Z",
+        "Additions": 13,
+        "Deletions": 0,
+        "Commits": [
+          "2c7fb24956d6a21698d22eaa1d539d0f41174ca8"
+        ]
+      },
+      {
+        "Sha": "0f43a61c5c8f932a16ae7fbfe570b0261a1e119e",
+        "FileName": "getting_started.rst",
+        "Path": "docs/source/cpp/getting_started.rst",
+        "DateUpdated": "2019-09-24T20:44:06Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "2c7fb24956d6a21698d22eaa1d539d0f41174ca8"
+        ]
+      },
+      {
+        "Sha": "898bc9a5592347e0640861ea8a99dc43c41fe399",
+        "FileName": "io.rst",
+        "Path": "docs/source/cpp/io.rst",
+        "DateUpdated": "2019-09-24T20:44:06Z",
+        "Additions": 86,
+        "Deletions": 0,
+        "Commits": [
+          "2c7fb24956d6a21698d22eaa1d539d0f41174ca8"
+        ]
+      },
+      {
+        "Sha": "ccebdba45dde1928769debccdf7347a838e67b1f",
+        "FileName": "overview.rst",
+        "Path": "docs/source/cpp/overview.rst",
+        "DateUpdated": "2019-09-24T20:44:06Z",
+        "Additions": 6,
+        "Deletions": 0,
+        "Commits": [
+          "2c7fb24956d6a21698d22eaa1d539d0f41174ca8"
+        ]
+      },
+      {
+        "Sha": "d5dbb3f73b7fa526e2318308325fbab57b244c72",
+        "FileName": "tables.rst",
+        "Path": "docs/source/cpp/tables.rst",
+        "DateUpdated": "2019-09-24T20:44:06Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "2c7fb24956d6a21698d22eaa1d539d0f41174ca8"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "2c7fb24956d6a21698d22eaa1d539d0f41174ca8",
+        "Author": {
+          "name": "\"Antoine Pitrou\""
+        },
+        "Commitor": {
+          "name": "\"Neal Richardson\"",
+          "location": "San Francisco, CA",
+          "company": "Ursa Labs/RStudio"
+        },
+        "Date": "2019-09-24T20:44:06Z",
+        "additions": 395,
+        "deletions": 40,
+        "files": [
+          "6b095b878e591157833405ba22d492bb0b907fb4",
+          "b4e38a3c2e20da76d928c0002faa3d7234a86f55",
+          "57da283b036ac7f8b5e849dace4a77045a8574fa",
+          "8dd3d87f8ff8ea43cdb791744ba7b0c7e20405ee",
+          "596539477428f0990ab0abffff46c4bb38918ad9",
+          "2346e1514f0f3fd24c5d1cd6fe2014081d10d019",
+          "02650a6d35e3e9343efa14cc3a8275205614e7d2",
+          "9ffd79b27f46f1585d4aac2737cd7b6de448a6fd",
+          "f62fe52b6196a1af5609c9b827463fd2335000d4",
+          "293dd080963a3a6c85ee8244ffd5f2ea165af0ba",
+          "d226a1e5673df7e9fe047cac00a7cd61cbf3e6ca",
+          "735136a0d47a474c7bd512972e6828c5cc6d63e2",
+          "93d8444b916f74b73e1a5aac92f584a2fc606cae",
+          "eb783f296b9edadea4e95913d9890dc004613e83",
+          "87c5a3bbe0458a59fde8ca4b2b099084bc730e49",
+          "0f43a61c5c8f932a16ae7fbfe570b0261a1e119e",
+          "898bc9a5592347e0640861ea8a99dc43c41fe399",
+          "ccebdba45dde1928769debccdf7347a838e67b1f",
+          "d5dbb3f73b7fa526e2318308325fbab57b244c72"
+        ]
+      }
+    ]
+  }
+]

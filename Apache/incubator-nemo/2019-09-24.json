@@ -1,0 +1,251 @@
+[
+  {
+    "RepositoryName": "incubator-nemo",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T07:48:41Z",
+    "EndDate": "2019-09-24T08:48:41",
+    "Branches": 3,
+    "Forks": 28,
+    "Files": [
+      {
+        "Sha": "a58354f67ca45051592ddc8ace08c121e6871f6a",
+        "FileName": "BlockFetchFailureProperty.java",
+        "Path": "common/src/main/java/org/apache/nemo/common/ir/edge/executionproperty/BlockFetchFailureProperty.java",
+        "DateUpdated": "2019-09-24T08:27:33Z",
+        "Additions": 66,
+        "Deletions": 0,
+        "Commits": [
+          "7f11840dd6492efb71892db9760ca426993f34aa"
+        ]
+      },
+      {
+        "Sha": "0dca02cd491fe88cfceea10c798087c795df92de",
+        "FileName": "TransientResourceDataFlowPass.java",
+        "Path": "compiler/optimizer/src/main/java/org/apache/nemo/compiler/optimizer/pass/compiletime/annotating/TransientResourceDataFlowPass.java",
+        "DateUpdated": "2019-09-24T08:27:33Z",
+        "Additions": 0,
+        "Deletions": 58,
+        "Commits": [
+          "7f11840dd6492efb71892db9760ca426993f34aa"
+        ]
+      },
+      {
+        "Sha": "becb92d65b897080ff38973a26f9718f2aadf7ec",
+        "FileName": "TransientResourceDataTransferPass.java",
+        "Path": "compiler/optimizer/src/main/java/org/apache/nemo/compiler/optimizer/pass/compiletime/annotating/TransientResourceDataTransferPass.java",
+        "DateUpdated": "2019-09-24T08:27:33Z",
+        "Additions": 25,
+        "Deletions": 23,
+        "Commits": [
+          "7f11840dd6492efb71892db9760ca426993f34aa"
+        ]
+      },
+      {
+        "Sha": "6c11c98e579033029e53a81c704e40b63e838717",
+        "FileName": "TransientResourceCompositePass.java",
+        "Path": "compiler/optimizer/src/main/java/org/apache/nemo/compiler/optimizer/pass/compiletime/composite/TransientResourceCompositePass.java",
+        "DateUpdated": "2019-09-24T08:27:33Z",
+        "Additions": 2,
+        "Deletions": 4,
+        "Commits": [
+          "7f11840dd6492efb71892db9760ca426993f34aa"
+        ]
+      },
+      {
+        "Sha": "606b9851a574b52ffa8a25d015943afa74a74436",
+        "FileName": "PolicyBuilderTest.java",
+        "Path": "compiler/optimizer/src/test/java/org/apache/nemo/compiler/optimizer/policy/PolicyBuilderTest.java",
+        "DateUpdated": "2019-09-24T08:27:33Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "7f11840dd6492efb71892db9760ca426993f34aa"
+        ]
+      },
+      {
+        "Sha": "dbbd13407efcd83345362d617c57ef347913bdc0",
+        "FileName": "PolicyImplTest.java",
+        "Path": "compiler/optimizer/src/test/java/org/apache/nemo/compiler/optimizer/policy/PolicyImplTest.java",
+        "DateUpdated": "2019-09-24T08:27:33Z",
+        "Additions": 0,
+        "Deletions": 17,
+        "Commits": [
+          "7f11840dd6492efb71892db9760ca426993f34aa"
+        ]
+      },
+      {
+        "Sha": "ae8d30bd67829381f6e59ef532eea1b5f9287a71",
+        "FileName": "TransientResourceCompositePassTest.java",
+        "Path": "compiler/test/src/test/java/org/apache/nemo/compiler/optimizer/pass/compiletime/composite/TransientResourceCompositePassTest.java",
+        "DateUpdated": "2019-09-24T08:27:33Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "7f11840dd6492efb71892db9760ca426993f34aa"
+        ]
+      },
+      {
+        "Sha": "8814121be009d34999371e9c76964fe9e35759d1",
+        "FileName": "BlockManagerWorker.java",
+        "Path": "runtime/executor/src/main/java/org/apache/nemo/runtime/executor/data/BlockManagerWorker.java",
+        "DateUpdated": "2019-09-24T08:27:33Z",
+        "Additions": 70,
+        "Deletions": 34,
+        "Commits": [
+          "7f11840dd6492efb71892db9760ca426993f34aa"
+        ]
+      },
+      {
+        "Sha": "b03b3951d71127065e30c1f98774e6df79d218e9",
+        "FileName": "BlockInputReader.java",
+        "Path": "runtime/executor/src/main/java/org/apache/nemo/runtime/executor/datatransfer/BlockInputReader.java",
+        "DateUpdated": "2019-09-24T08:27:33Z",
+        "Additions": 48,
+        "Deletions": 18,
+        "Commits": [
+          "7f11840dd6492efb71892db9760ca426993f34aa"
+        ]
+      },
+      {
+        "Sha": "9cd0195fdf10e58d3d7a2d999c555483a1b35bc0",
+        "FileName": "InputReader.java",
+        "Path": "runtime/executor/src/main/java/org/apache/nemo/runtime/executor/datatransfer/InputReader.java",
+        "DateUpdated": "2019-09-24T08:27:33Z",
+        "Additions": 13,
+        "Deletions": 1,
+        "Commits": [
+          "7f11840dd6492efb71892db9760ca426993f34aa"
+        ]
+      },
+      {
+        "Sha": "9af48d1a5540a0b3158768951971350fedd921be",
+        "FileName": "PipeInputReader.java",
+        "Path": "runtime/executor/src/main/java/org/apache/nemo/runtime/executor/datatransfer/PipeInputReader.java",
+        "DateUpdated": "2019-09-24T08:27:33Z",
+        "Additions": 12,
+        "Deletions": 0,
+        "Commits": [
+          "7f11840dd6492efb71892db9760ca426993f34aa"
+        ]
+      },
+      {
+        "Sha": "a8ae4a9306f4bc7ecb8d98f8d78aea1b0069cab8",
+        "FileName": "ParentTaskDataFetcher.java",
+        "Path": "runtime/executor/src/main/java/org/apache/nemo/runtime/executor/task/ParentTaskDataFetcher.java",
+        "DateUpdated": "2019-09-24T08:27:33Z",
+        "Additions": 40,
+        "Deletions": 11,
+        "Commits": [
+          "7f11840dd6492efb71892db9760ca426993f34aa"
+        ]
+      },
+      {
+        "Sha": "ab774e968a6a92bc2fe13fa067ed3eeb702f9aca",
+        "FileName": "ParentTaskDataFetcherTest.java",
+        "Path": "runtime/executor/src/test/java/org/apache/nemo/runtime/executor/task/ParentTaskDataFetcherTest.java",
+        "DateUpdated": "2019-09-24T08:27:33Z",
+        "Additions": 40,
+        "Deletions": 12,
+        "Commits": [
+          "7f11840dd6492efb71892db9760ca426993f34aa"
+        ]
+      },
+      {
+        "Sha": "9aaf4556761e27ec46c0c6fde39fe01df86a37a2",
+        "FileName": "TaskExecutorTest.java",
+        "Path": "runtime/executor/src/test/java/org/apache/nemo/runtime/executor/task/TaskExecutorTest.java",
+        "DateUpdated": "2019-09-24T08:27:33Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "7f11840dd6492efb71892db9760ca426993f34aa"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "7f11840dd6492efb71892db9760ca426993f34aa",
+        "Author": {
+          "name": "\"John Yang\""
+        },
+        "Commitor": {
+          "name": "\"Won Wook SONG\"",
+          "location": "Seoul, Korea",
+          "company": "SNU Software Platform Lab @snuspl"
+        },
+        "Date": "2019-09-24T08:27:33Z",
+        "additions": 321,
+        "deletions": 182,
+        "files": [
+          "a58354f67ca45051592ddc8ace08c121e6871f6a",
+          "0dca02cd491fe88cfceea10c798087c795df92de",
+          "becb92d65b897080ff38973a26f9718f2aadf7ec",
+          "6c11c98e579033029e53a81c704e40b63e838717",
+          "606b9851a574b52ffa8a25d015943afa74a74436",
+          "dbbd13407efcd83345362d617c57ef347913bdc0",
+          "ae8d30bd67829381f6e59ef532eea1b5f9287a71",
+          "8814121be009d34999371e9c76964fe9e35759d1",
+          "b03b3951d71127065e30c1f98774e6df79d218e9",
+          "9cd0195fdf10e58d3d7a2d999c555483a1b35bc0",
+          "9af48d1a5540a0b3158768951971350fedd921be",
+          "a8ae4a9306f4bc7ecb8d98f8d78aea1b0069cab8",
+          "ab774e968a6a92bc2fe13fa067ed3eeb702f9aca",
+          "9aaf4556761e27ec46c0c6fde39fe01df86a37a2"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-nemo",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T11:48:39Z",
+    "EndDate": "2019-09-24T12:48:39",
+    "Branches": 3,
+    "Forks": 28,
+    "Files": [
+      {
+        "Sha": "49bdd9f2efd9c38c350ee89bf760edc5889fa4e3",
+        "FileName": "MetricUtils.java",
+        "Path": "runtime/common/src/main/java/org/apache/nemo/runtime/common/metric/MetricUtils.java",
+        "DateUpdated": "2019-09-24T12:29:03Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "dd0cfe20ffdc49cde380e7afe0d20625f3638a05"
+        ]
+      },
+      {
+        "Sha": "3d3db4f7fd91b00c329bbe399ef736d4569cccc5",
+        "FileName": "MetricStore.java",
+        "Path": "runtime/master/src/main/java/org/apache/nemo/runtime/master/metric/MetricStore.java",
+        "DateUpdated": "2019-09-24T12:29:03Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "dd0cfe20ffdc49cde380e7afe0d20625f3638a05"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "dd0cfe20ffdc49cde380e7afe0d20625f3638a05",
+        "Author": {
+          "name": "\"Won Wook SONG\"",
+          "location": "Seoul, Korea",
+          "company": "SNU Software Platform Lab @snuspl"
+        },
+        "Commitor": {
+          "name": "\"WooYeon Lee\"",
+          "company": "SNU Software Platform Lab"
+        },
+        "Date": "2019-09-24T12:29:03Z",
+        "additions": 4,
+        "deletions": 4,
+        "files": [
+          "49bdd9f2efd9c38c350ee89bf760edc5889fa4e3",
+          "3d3db4f7fd91b00c329bbe399ef736d4569cccc5"
+        ]
+      }
+    ]
+  }
+]

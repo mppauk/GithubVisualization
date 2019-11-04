@@ -1,0 +1,198 @@
+[
+  {
+    "RepositoryName": "cxf",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T00:03:34Z",
+    "EndDate": "2019-09-26T01:03:34",
+    "Branches": 19,
+    "Forks": 1071,
+    "Files": [
+      {
+        "Sha": "a8c607a721a64b7b8e9d94036cad5ce10d741776",
+        "FileName": "ExceptionUtils.java",
+        "Path": "rt/frontend/jaxrs/src/main/java/org/apache/cxf/jaxrs/utils/ExceptionUtils.java",
+        "DateUpdated": "2019-09-26T00:25:19Z",
+        "Additions": 12,
+        "Deletions": 0,
+        "Commits": [
+          "88e3eb24de7ee6498240aac557ccf3d75a1be9af"
+        ]
+      },
+      {
+        "Sha": "80eb2cce582675813855ebb12618b98c7fc3ddff",
+        "FileName": "AbstractClient.java",
+        "Path": "rt/rs/client/src/main/java/org/apache/cxf/jaxrs/client/AbstractClient.java",
+        "DateUpdated": "2019-09-26T00:25:19Z",
+        "Additions": 1,
+        "Deletions": 9,
+        "Commits": [
+          "88e3eb24de7ee6498240aac557ccf3d75a1be9af"
+        ]
+      },
+      {
+        "Sha": "f0c2acf7efa1c521c29f0c82d14edcd3b45dc6f9",
+        "FileName": "SseEventSourceImpl.java",
+        "Path": "rt/rs/sse/src/main/java/org/apache/cxf/jaxrs/sse/client/SseEventSourceImpl.java",
+        "DateUpdated": "2019-09-26T00:25:19Z",
+        "Additions": 9,
+        "Deletions": 1,
+        "Commits": [
+          "88e3eb24de7ee6498240aac557ccf3d75a1be9af"
+        ]
+      },
+      {
+        "Sha": "787b5d5e37592a29d314ee3b87263d7c05545b9c",
+        "FileName": "SseEventSourceImplTest.java",
+        "Path": "rt/rs/sse/src/test/java/org/apache/cxf/jaxrs/sse/client/SseEventSourceImplTest.java",
+        "DateUpdated": "2019-09-26T00:25:19Z",
+        "Additions": 58,
+        "Deletions": 6,
+        "Commits": [
+          "88e3eb24de7ee6498240aac557ccf3d75a1be9af"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "88e3eb24de7ee6498240aac557ccf3d75a1be9af",
+        "Author": {
+          "name": "\"Andriy Redko\""
+        },
+        "Commitor": {
+          "name": "\"Andriy Redko\""
+        },
+        "Date": "2019-09-26T00:25:19Z",
+        "additions": 80,
+        "deletions": 16,
+        "files": [
+          "a8c607a721a64b7b8e9d94036cad5ce10d741776",
+          "80eb2cce582675813855ebb12618b98c7fc3ddff",
+          "f0c2acf7efa1c521c29f0c82d14edcd3b45dc6f9",
+          "787b5d5e37592a29d314ee3b87263d7c05545b9c"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "cxf",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T11:03:03Z",
+    "EndDate": "2019-09-26T12:03:03",
+    "Branches": 19,
+    "Forks": 1072,
+    "Files": [
+      {
+        "Sha": "d45e9b5dd269b01690dbe72510c3927d6315a33b",
+        "FileName": "PrimitiveSearchCondition.java",
+        "Path": "rt/rs/extensions/search/src/main/java/org/apache/cxf/jaxrs/ext/search/PrimitiveSearchCondition.java",
+        "DateUpdated": "2019-09-26T11:38:59Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "d6eafa6e6dbd47f220c6fc7835e025a11a67080d"
+        ]
+      },
+      {
+        "Sha": "c3b88ef9be223f7e230b666cddef35d3f6f04e34",
+        "FileName": "FiqlParserTest.java",
+        "Path": "rt/rs/extensions/search/src/test/java/org/apache/cxf/jaxrs/ext/search/fiql/FiqlParserTest.java",
+        "DateUpdated": "2019-09-26T11:38:59Z",
+        "Additions": 12,
+        "Deletions": 0,
+        "Commits": [
+          "d6eafa6e6dbd47f220c6fc7835e025a11a67080d"
+        ]
+      },
+      {
+        "Sha": "2e1d8261a162c0d900527ffca88fbbc9489f526b",
+        "FileName": "pom.xml",
+        "Path": "parent/pom.xml",
+        "DateUpdated": "2019-09-26T11:36:15Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "08164e1f0e07c222ae45d320973401833df6ab9c"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d6eafa6e6dbd47f220c6fc7835e025a11a67080d",
+        "Author": {
+          "name": "\"Colm O hEigeartaigh\"",
+          "company": "@Talend "
+        },
+        "Commitor": {
+          "name": "\"Colm O hEigeartaigh\"",
+          "company": "@Talend "
+        },
+        "Date": "2019-09-26T11:38:59Z",
+        "additions": 15,
+        "deletions": 0,
+        "files": [
+          "d45e9b5dd269b01690dbe72510c3927d6315a33b",
+          "c3b88ef9be223f7e230b666cddef35d3f6f04e34"
+        ]
+      },
+      {
+        "sha": "08164e1f0e07c222ae45d320973401833df6ab9c",
+        "Author": {
+          "name": "\"Freeman(Yue) Fang\"",
+          "location": "Beijing, China",
+          "company": "https://www.redhat.com/"
+        },
+        "Commitor": {
+          "name": "\"Freeman(Yue) Fang\"",
+          "location": "Beijing, China",
+          "company": "https://www.redhat.com/"
+        },
+        "Date": "2019-09-26T11:36:15Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "2e1d8261a162c0d900527ffca88fbbc9489f526b"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "cxf",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T13:03:29Z",
+    "EndDate": "2019-09-26T14:03:29",
+    "Branches": 19,
+    "Forks": 1072,
+    "Files": [
+      {
+        "Sha": "b5efb138f54c59b03c22a8748d01c5f3a7a956b4",
+        "FileName": "pom.xml",
+        "Path": "maven-plugins/pom.xml",
+        "DateUpdated": "2019-09-26T13:09:54Z",
+        "Additions": 0,
+        "Deletions": 3,
+        "Commits": [
+          "160f50ed9bd9391b61417716b3a67653c9e81a98"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "160f50ed9bd9391b61417716b3a67653c9e81a98",
+        "Author": {
+          "name": "\"Colm O hEigeartaigh\"",
+          "company": "@Talend "
+        },
+        "Commitor": {
+          "name": "\"Colm O hEigeartaigh\"",
+          "company": "@Talend "
+        },
+        "Date": "2019-09-26T13:09:54Z",
+        "additions": 0,
+        "deletions": 3,
+        "files": [
+          "b5efb138f54c59b03c22a8748d01c5f3a7a956b4"
+        ]
+      }
+    ]
+  }
+]

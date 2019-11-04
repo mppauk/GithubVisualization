@@ -1,0 +1,54 @@
+[
+  {
+    "RepositoryName": "nutch",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T08:01:57Z",
+    "EndDate": "2019-09-23T09:01:57",
+    "Branches": 28,
+    "Forks": 1157,
+    "Files": [
+      {
+        "Sha": "5462dbf5b30079eb0231491365ff45b5bff06d4b",
+        "FileName": ".gitignore",
+        "Path": ".gitignore",
+        "DateUpdated": "2019-09-23T08:44:48Z",
+        "Additions": 10,
+        "Deletions": 3,
+        "Commits": [
+          "f1c352e1064ef4e6bcc2e5f1407858073b86d48e"
+        ]
+      },
+      {
+        "Sha": "ad091f181b1f0a65b6d1bb356c0158076f95246f",
+        "FileName": "README.md",
+        "Path": "README.md",
+        "DateUpdated": "2019-09-23T08:44:48Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "f1c352e1064ef4e6bcc2e5f1407858073b86d48e"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "f1c352e1064ef4e6bcc2e5f1407858073b86d48e",
+        "Author": {
+          "name": "\"Sebastian Nagel\"",
+          "location": "Konstanz, Germany",
+          "company": "@commoncrawl "
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T08:44:48Z",
+        "additions": 24,
+        "deletions": 3,
+        "files": [
+          "5462dbf5b30079eb0231491365ff45b5bff06d4b",
+          "ad091f181b1f0a65b6d1bb356c0158076f95246f"
+        ]
+      }
+    ]
+  }
+]

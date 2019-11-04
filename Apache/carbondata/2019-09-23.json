@@ -1,0 +1,54 @@
+[
+  {
+    "RepositoryName": "carbondata",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T14:03:38Z",
+    "EndDate": "2019-09-23T15:03:38",
+    "Branches": 17,
+    "Forks": 563,
+    "Files": [
+      {
+        "Sha": "8e4d8fa04f342f11b5f9f4878d63afe18c02f9b1",
+        "FileName": "TestCreateTableAsSelect.scala",
+        "Path": "integration/spark-common-test/src/test/scala/org/apache/carbondata/spark/testsuite/createTable/TestCreateTableAsSelect.scala",
+        "DateUpdated": "2019-09-23T14:17:34Z",
+        "Additions": 37,
+        "Deletions": 0,
+        "Commits": [
+          "07f8f7942b143ddf9c20a6df337fdce5f681a8a2"
+        ]
+      },
+      {
+        "Sha": "4d85e883c647808d5f94c2acac397592e3b42af7",
+        "FileName": "CarbonSparkSqlParserUtil.scala",
+        "Path": "integration/spark2/src/main/scala/org/apache/spark/sql/parser/CarbonSparkSqlParserUtil.scala",
+        "DateUpdated": "2019-09-23T14:17:34Z",
+        "Additions": 19,
+        "Deletions": 4,
+        "Commits": [
+          "07f8f7942b143ddf9c20a6df337fdce5f681a8a2"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "07f8f7942b143ddf9c20a6df337fdce5f681a8a2",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Kunal Kapoor\"",
+          "location": "Bangalore",
+          "company": "Huawei Technologies"
+        },
+        "Date": "2019-09-23T14:17:34Z",
+        "additions": 56,
+        "deletions": 4,
+        "files": [
+          "8e4d8fa04f342f11b5f9f4878d63afe18c02f9b1",
+          "4d85e883c647808d5f94c2acac397592e3b42af7"
+        ]
+      }
+    ]
+  }
+]

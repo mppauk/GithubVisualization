@@ -1,0 +1,68 @@
+[
+  {
+    "RepositoryName": "incubator-druid-website",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T00:11:00Z",
+    "EndDate": "2019-09-23T01:11:00",
+    "Branches": 3,
+    "Forks": 4,
+    "Files": [
+      {
+        "Sha": "c809951d9b894badc697fb45448daf7a600242b3",
+        "FileName": ".asf.yaml",
+        "Path": ".asf.yaml",
+        "DateUpdated": "2019-09-23T00:26:07Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "deee848c8f9c01f2d59f4d1fab643bfb3df13f18"
+        ]
+      },
+      {
+        "Sha": "57740748880af17ccdfddd8954eaa9b3edca06eb",
+        "FileName": "main.css",
+        "Path": "css/main.css",
+        "DateUpdated": "2019-09-23T00:26:07Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "deee848c8f9c01f2d59f4d1fab643bfb3df13f18"
+        ]
+      },
+      {
+        "Sha": "d783edb5e2812509ab2054ef3b53388fb4ec770e",
+        "FileName": "prism.css",
+        "Path": "css/prism.css",
+        "DateUpdated": "2019-09-23T00:26:07Z",
+        "Additions": 115,
+        "Deletions": 0,
+        "Commits": [
+          "deee848c8f9c01f2d59f4d1fab643bfb3df13f18"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "deee848c8f9c01f2d59f4d1fab643bfb3df13f18",
+        "Author": {
+          "name": "\"Clint Wylie\"",
+          "location": "San Francisco, CA",
+          "company": "@implydata "
+        },
+        "Commitor": {
+          "name": "\"Clint Wylie\"",
+          "location": "San Francisco, CA",
+          "company": "@implydata "
+        },
+        "Date": "2019-09-23T00:26:07Z",
+        "additions": 117,
+        "deletions": 1,
+        "files": [
+          "c809951d9b894badc697fb45448daf7a600242b3",
+          "57740748880af17ccdfddd8954eaa9b3edca06eb",
+          "d783edb5e2812509ab2054ef3b53388fb4ec770e"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,834 @@
+[
+  {
+    "RepositoryName": "james-project",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T00:47:18Z",
+    "EndDate": "2019-09-24T01:47:18",
+    "Branches": 17,
+    "Forks": 253,
+    "Files": [
+      {
+        "Sha": "5a23eb780449f3770b169a89d5be04a47156b2ff",
+        "FileName": "pom.xml",
+        "Path": "mailet/standard/pom.xml",
+        "DateUpdated": "2019-09-24T01:44:13Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "f78ad40ad0309a5366e6a6adb9efa31ee3936422"
+        ]
+      },
+      {
+        "Sha": "88bbca4455a8803a2c7b477393046fe10ce20f0a",
+        "FileName": "SerialiseToHTTP.java",
+        "Path": "mailet/standard/src/main/java/org/apache/james/transport/mailets/SerialiseToHTTP.java",
+        "DateUpdated": "2019-09-24T01:44:13Z",
+        "Additions": 25,
+        "Deletions": 23,
+        "Commits": [
+          "f78ad40ad0309a5366e6a6adb9efa31ee3936422"
+        ]
+      },
+      {
+        "Sha": "c6e6f166f255ef27a58397e83cc3b7361e7e49f3",
+        "FileName": "HeadersToHTTPTest.java",
+        "Path": "mailet/standard/src/test/java/org/apache/james/transport/mailets/HeadersToHTTPTest.java",
+        "DateUpdated": "2019-09-24T01:44:13Z",
+        "Additions": 241,
+        "Deletions": 0,
+        "Commits": [
+          "f78ad40ad0309a5366e6a6adb9efa31ee3936422"
+        ]
+      },
+      {
+        "Sha": "51fdf3a962abdead6e9471b6b1708ffdbf751e46",
+        "FileName": "SerialiseToHTTPTest.java",
+        "Path": "mailet/standard/src/test/java/org/apache/james/transport/mailets/SerialiseToHTTPTest.java",
+        "DateUpdated": "2019-09-24T01:44:13Z",
+        "Additions": 262,
+        "Deletions": 0,
+        "Commits": [
+          "f78ad40ad0309a5366e6a6adb9efa31ee3936422"
+        ]
+      },
+      {
+        "Sha": "9ef251f1be74699a0392414abdd98bf938863a95",
+        "FileName": "sendToRemoteHttp.mime",
+        "Path": "mailet/standard/src/test/resources/mime/sendToRemoteHttp.mime",
+        "DateUpdated": "2019-09-24T01:44:13Z",
+        "Additions": 153,
+        "Deletions": 0,
+        "Commits": [
+          "f78ad40ad0309a5366e6a6adb9efa31ee3936422"
+        ]
+      },
+      {
+        "Sha": "b916db042099001dc737bc4fcb94b8fcdb6ef258",
+        "FileName": "DSNBounce.java",
+        "Path": "server/mailet/mailets/src/main/java/org/apache/james/transport/mailets/DSNBounce.java",
+        "DateUpdated": "2019-09-24T01:44:13Z",
+        "Additions": 4,
+        "Deletions": 3,
+        "Commits": [
+          "c17b2ad4fef46600601878d5ed7866c674872616"
+        ]
+      },
+      {
+        "Sha": "e0ded93977cfce34f538275a4109b7436218c013",
+        "FileName": "AddressExtractor.java",
+        "Path": "server/mailet/mailets/src/main/java/org/apache/james/transport/mailets/redirect/AddressExtractor.java",
+        "DateUpdated": "2019-09-24T01:44:13Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c17b2ad4fef46600601878d5ed7866c674872616"
+        ]
+      },
+      {
+        "Sha": "424b52b57863c00968814865a263ccb6bf64078e",
+        "FileName": "SenderUtils.java",
+        "Path": "server/mailet/mailets/src/main/java/org/apache/james/transport/util/SenderUtils.java",
+        "DateUpdated": "2019-09-24T01:44:13Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c17b2ad4fef46600601878d5ed7866c674872616"
+        ]
+      },
+      {
+        "Sha": "e3dcd6865d225bc53cd79212204e9764d5c0e3b9",
+        "FileName": "DSNBounceTest.java",
+        "Path": "server/mailet/mailets/src/test/java/org/apache/james/transport/mailets/DSNBounceTest.java",
+        "DateUpdated": "2019-09-24T01:44:13Z",
+        "Additions": 117,
+        "Deletions": 2,
+        "Commits": [
+          "c17b2ad4fef46600601878d5ed7866c674872616"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "f78ad40ad0309a5366e6a6adb9efa31ee3936422",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-24T01:44:13Z",
+        "additions": 685,
+        "deletions": 23,
+        "files": [
+          "5a23eb780449f3770b169a89d5be04a47156b2ff",
+          "88bbca4455a8803a2c7b477393046fe10ce20f0a",
+          "c6e6f166f255ef27a58397e83cc3b7361e7e49f3",
+          "51fdf3a962abdead6e9471b6b1708ffdbf751e46",
+          "9ef251f1be74699a0392414abdd98bf938863a95"
+        ]
+      },
+      {
+        "sha": "c17b2ad4fef46600601878d5ed7866c674872616",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-24T01:44:13Z",
+        "additions": 123,
+        "deletions": 7,
+        "files": [
+          "b916db042099001dc737bc4fcb94b8fcdb6ef258",
+          "e0ded93977cfce34f538275a4109b7436218c013",
+          "424b52b57863c00968814865a263ccb6bf64078e",
+          "e3dcd6865d225bc53cd79212204e9764d5c0e3b9"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "james-project",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T01:03:16Z",
+    "EndDate": "2019-09-24T02:03:16",
+    "Branches": 17,
+    "Forks": 253,
+    "Files": [
+      {
+        "Sha": "5a23eb780449f3770b169a89d5be04a47156b2ff",
+        "FileName": "pom.xml",
+        "Path": "mailet/standard/pom.xml",
+        "DateUpdated": "2019-09-24T01:44:13Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "f78ad40ad0309a5366e6a6adb9efa31ee3936422"
+        ]
+      },
+      {
+        "Sha": "88bbca4455a8803a2c7b477393046fe10ce20f0a",
+        "FileName": "SerialiseToHTTP.java",
+        "Path": "mailet/standard/src/main/java/org/apache/james/transport/mailets/SerialiseToHTTP.java",
+        "DateUpdated": "2019-09-24T01:44:13Z",
+        "Additions": 25,
+        "Deletions": 23,
+        "Commits": [
+          "f78ad40ad0309a5366e6a6adb9efa31ee3936422"
+        ]
+      },
+      {
+        "Sha": "c6e6f166f255ef27a58397e83cc3b7361e7e49f3",
+        "FileName": "HeadersToHTTPTest.java",
+        "Path": "mailet/standard/src/test/java/org/apache/james/transport/mailets/HeadersToHTTPTest.java",
+        "DateUpdated": "2019-09-24T01:44:13Z",
+        "Additions": 241,
+        "Deletions": 0,
+        "Commits": [
+          "f78ad40ad0309a5366e6a6adb9efa31ee3936422"
+        ]
+      },
+      {
+        "Sha": "51fdf3a962abdead6e9471b6b1708ffdbf751e46",
+        "FileName": "SerialiseToHTTPTest.java",
+        "Path": "mailet/standard/src/test/java/org/apache/james/transport/mailets/SerialiseToHTTPTest.java",
+        "DateUpdated": "2019-09-24T01:44:13Z",
+        "Additions": 262,
+        "Deletions": 0,
+        "Commits": [
+          "f78ad40ad0309a5366e6a6adb9efa31ee3936422"
+        ]
+      },
+      {
+        "Sha": "9ef251f1be74699a0392414abdd98bf938863a95",
+        "FileName": "sendToRemoteHttp.mime",
+        "Path": "mailet/standard/src/test/resources/mime/sendToRemoteHttp.mime",
+        "DateUpdated": "2019-09-24T01:44:13Z",
+        "Additions": 153,
+        "Deletions": 0,
+        "Commits": [
+          "f78ad40ad0309a5366e6a6adb9efa31ee3936422"
+        ]
+      },
+      {
+        "Sha": "b916db042099001dc737bc4fcb94b8fcdb6ef258",
+        "FileName": "DSNBounce.java",
+        "Path": "server/mailet/mailets/src/main/java/org/apache/james/transport/mailets/DSNBounce.java",
+        "DateUpdated": "2019-09-24T01:44:13Z",
+        "Additions": 4,
+        "Deletions": 3,
+        "Commits": [
+          "c17b2ad4fef46600601878d5ed7866c674872616"
+        ]
+      },
+      {
+        "Sha": "e0ded93977cfce34f538275a4109b7436218c013",
+        "FileName": "AddressExtractor.java",
+        "Path": "server/mailet/mailets/src/main/java/org/apache/james/transport/mailets/redirect/AddressExtractor.java",
+        "DateUpdated": "2019-09-24T01:44:13Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c17b2ad4fef46600601878d5ed7866c674872616"
+        ]
+      },
+      {
+        "Sha": "424b52b57863c00968814865a263ccb6bf64078e",
+        "FileName": "SenderUtils.java",
+        "Path": "server/mailet/mailets/src/main/java/org/apache/james/transport/util/SenderUtils.java",
+        "DateUpdated": "2019-09-24T01:44:13Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "c17b2ad4fef46600601878d5ed7866c674872616"
+        ]
+      },
+      {
+        "Sha": "e3dcd6865d225bc53cd79212204e9764d5c0e3b9",
+        "FileName": "DSNBounceTest.java",
+        "Path": "server/mailet/mailets/src/test/java/org/apache/james/transport/mailets/DSNBounceTest.java",
+        "DateUpdated": "2019-09-24T01:44:13Z",
+        "Additions": 117,
+        "Deletions": 2,
+        "Commits": [
+          "c17b2ad4fef46600601878d5ed7866c674872616"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "f78ad40ad0309a5366e6a6adb9efa31ee3936422",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-24T01:44:13Z",
+        "additions": 685,
+        "deletions": 23,
+        "files": [
+          "5a23eb780449f3770b169a89d5be04a47156b2ff",
+          "88bbca4455a8803a2c7b477393046fe10ce20f0a",
+          "c6e6f166f255ef27a58397e83cc3b7361e7e49f3",
+          "51fdf3a962abdead6e9471b6b1708ffdbf751e46",
+          "9ef251f1be74699a0392414abdd98bf938863a95"
+        ]
+      },
+      {
+        "sha": "c17b2ad4fef46600601878d5ed7866c674872616",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-24T01:44:13Z",
+        "additions": 123,
+        "deletions": 7,
+        "files": [
+          "b916db042099001dc737bc4fcb94b8fcdb6ef258",
+          "e0ded93977cfce34f538275a4109b7436218c013",
+          "424b52b57863c00968814865a263ccb6bf64078e",
+          "e3dcd6865d225bc53cd79212204e9764d5c0e3b9"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "james-project",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T08:47:43Z",
+    "EndDate": "2019-09-24T09:47:43",
+    "Branches": 17,
+    "Forks": 253,
+    "Files": [
+      {
+        "Sha": "eefcea29e76d66d431a97cc24e8b0eebcfa783c6",
+        "FileName": ".gitignore",
+        "Path": ".gitignore",
+        "DateUpdated": "2019-09-24T09:17:43Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "81e6cdf99741252821e0c0c511b69deaa6e9237a"
+        ]
+      },
+      {
+        "Sha": "d80f4ffb5a06ebcbe3e737aa003820f9ed760480",
+        "FileName": "JpaTestCluster.java",
+        "Path": "backends-common/jpa/src/test/java/org/apache/james/backends/jpa/JpaTestCluster.java",
+        "DateUpdated": "2019-09-24T09:17:25Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "f1b0307d36a28e2b1d796f3669e9151d774ed0a1"
+        ]
+      },
+      {
+        "Sha": "a81d3d2802fcd81422fcb83c0af2769bd1155626",
+        "FileName": "CassandraACLMapper.java",
+        "Path": "mailbox/cassandra/src/main/java/org/apache/james/mailbox/cassandra/mail/CassandraACLMapper.java",
+        "DateUpdated": "2019-09-24T09:17:06Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "ae218e593bf7c615b6774f60ba91af3a7b7356d0"
+        ]
+      },
+      {
+        "Sha": "8c31e8d9aa3462b4670f5006f11cca12b527ff91",
+        "FileName": "CassandraMessageIdToImapUidDAO.java",
+        "Path": "mailbox/cassandra/src/main/java/org/apache/james/mailbox/cassandra/mail/CassandraMessageIdToImapUidDAO.java",
+        "DateUpdated": "2019-09-24T09:17:06Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "ae218e593bf7c615b6774f60ba91af3a7b7356d0"
+        ]
+      },
+      {
+        "Sha": "efaf09fd62e4146845382cc3dd13fec325a55a33",
+        "FileName": "CassandraModSeqProvider.java",
+        "Path": "mailbox/cassandra/src/main/java/org/apache/james/mailbox/cassandra/mail/CassandraModSeqProvider.java",
+        "DateUpdated": "2019-09-24T09:17:06Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "ae218e593bf7c615b6774f60ba91af3a7b7356d0"
+        ]
+      },
+      {
+        "Sha": "73f628f81cfef5af79cc4e4fd57f8a18c762efa3",
+        "FileName": "CassandraUidProvider.java",
+        "Path": "mailbox/cassandra/src/main/java/org/apache/james/mailbox/cassandra/mail/CassandraUidProvider.java",
+        "DateUpdated": "2019-09-24T09:17:06Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "ae218e593bf7c615b6774f60ba91af3a7b7356d0"
+        ]
+      },
+      {
+        "Sha": "aaae23bbf80c8063bda4548a19fb4e1b78541786",
+        "FileName": "CassandraMessageIdToImapUidDAO.java",
+        "Path": "mailbox/cassandra/src/main/java/org/apache/james/mailbox/cassandra/mail/CassandraMessageIdToImapUidDAO.java",
+        "DateUpdated": "2019-09-24T09:17:06Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "dbcc50879f2c3187f8045e21032130147de93fbf"
+        ]
+      },
+      {
+        "Sha": "1b0353adea9d3e7910e05ed28a26d8dadeb0c06f",
+        "FileName": "CassandraMessageIdToImapUidDAO.java",
+        "Path": "mailbox/cassandra/src/main/java/org/apache/james/mailbox/cassandra/mail/CassandraMessageIdToImapUidDAO.java",
+        "DateUpdated": "2019-09-24T09:17:06Z",
+        "Additions": 7,
+        "Deletions": 8,
+        "Commits": [
+          "5facf235da8cd7a23773545d66a2d03e11a36000"
+        ]
+      },
+      {
+        "Sha": "1b6464c0e853a163699e201edefe590cb2890ea2",
+        "FileName": "CassandraAsyncExecutor.java",
+        "Path": "backends-common/cassandra/src/main/java/org/apache/james/backends/cassandra/utils/CassandraAsyncExecutor.java",
+        "DateUpdated": "2019-09-24T09:17:06Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7dbbd3d86f686d7dfa0dd7dbc503d5a9f9448ae9"
+        ]
+      },
+      {
+        "Sha": "38ee95d161f4165d8ffc26bce0744ba80b0f46e3",
+        "FileName": "CassandraConstants.java",
+        "Path": "backends-common/cassandra/src/main/java/org/apache/james/backends/cassandra/utils/CassandraConstants.java",
+        "DateUpdated": "2019-09-24T09:17:06Z",
+        "Additions": 0,
+        "Deletions": 3,
+        "Commits": [
+          "7dbbd3d86f686d7dfa0dd7dbc503d5a9f9448ae9"
+        ]
+      },
+      {
+        "Sha": "919c2c7e02708095a9b3d22c361965bc3bb0b66c",
+        "FileName": "QuotaMailingListenerConfigurationTest.java",
+        "Path": "mailbox/plugin/quota-mailing/src/test/java/org/apache/james/mailbox/quota/mailing/QuotaMailingListenerConfigurationTest.java",
+        "DateUpdated": "2019-09-24T09:12:03Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "de092eab6774da5bae1e731875a91bd0866f16dc"
+        ]
+      },
+      {
+        "Sha": "a0d61a65fc6cb0faf1aa474e777b12e03777f7b0",
+        "FileName": "DurationParser.java",
+        "Path": "server/container/util/src/main/java/org/apache/james/util/DurationParser.java",
+        "DateUpdated": "2019-09-24T09:12:03Z",
+        "Additions": 14,
+        "Deletions": 5,
+        "Commits": [
+          "de092eab6774da5bae1e731875a91bd0866f16dc"
+        ]
+      },
+      {
+        "Sha": "37a555006cc3ac1f6aa93f64cfe57e221c362a9c",
+        "FileName": "DurationParserTest.java",
+        "Path": "server/container/util/src/test/java/org/apache/james/util/DurationParserTest.java",
+        "DateUpdated": "2019-09-24T09:12:03Z",
+        "Additions": 7,
+        "Deletions": 6,
+        "Commits": [
+          "de092eab6774da5bae1e731875a91bd0866f16dc"
+        ]
+      },
+      {
+        "Sha": "dafaf838286a0aa298b7aad81e66fdab2e5d69d5",
+        "FileName": "DelayTest.java",
+        "Path": "server/mailet/mailets/src/test/java/org/apache/james/transport/mailets/remote/delivery/DelayTest.java",
+        "DateUpdated": "2019-09-24T09:12:03Z",
+        "Additions": 5,
+        "Deletions": 3,
+        "Commits": [
+          "de092eab6774da5bae1e731875a91bd0866f16dc"
+        ]
+      },
+      {
+        "Sha": "a01fc9978e23ad3fa0e5c9a6d0f87dff767cd754",
+        "FileName": "TasksRoutes.java",
+        "Path": "server/protocols/webadmin/webadmin-core/src/main/java/org/apache/james/webadmin/routes/TasksRoutes.java",
+        "DateUpdated": "2019-09-24T09:12:03Z",
+        "Additions": 9,
+        "Deletions": 10,
+        "Commits": [
+          "de092eab6774da5bae1e731875a91bd0866f16dc"
+        ]
+      },
+      {
+        "Sha": "ad77c9678cb2b18cbebcd597a6a92a2edb9ba592",
+        "FileName": "TasksRoutesTest.java",
+        "Path": "server/protocols/webadmin/webadmin-core/src/test/java/org/apache/james/webadmin/routes/TasksRoutesTest.java",
+        "DateUpdated": "2019-09-24T09:12:03Z",
+        "Additions": 4,
+        "Deletions": 3,
+        "Commits": [
+          "de092eab6774da5bae1e731875a91bd0866f16dc"
+        ]
+      },
+      {
+        "Sha": "6696d54b1ca316285f8709ed51f6525302008154",
+        "FileName": "ReIndexerManagement.java",
+        "Path": "server/container/mailbox-jmx/src/main/java/org/apache/james/adapter/mailbox/ReIndexerManagement.java",
+        "DateUpdated": "2019-09-24T09:12:03Z",
+        "Additions": 5,
+        "Deletions": 4,
+        "Commits": [
+          "b847270a3f319d9d60df0e242bda7de9c6f8fe47"
+        ]
+      },
+      {
+        "Sha": "e0b573cf91ae6d20eb8a295d4fa969f0ea117be9",
+        "FileName": "DurationParserTest.java",
+        "Path": "server/container/util/src/test/java/org/apache/james/util/DurationParserTest.java",
+        "DateUpdated": "2019-09-24T09:12:03Z",
+        "Additions": 8,
+        "Deletions": 8,
+        "Commits": [
+          "b847270a3f319d9d60df0e242bda7de9c6f8fe47"
+        ]
+      },
+      {
+        "Sha": "35db8b8376106eda084bc11d61eda939ddc6d508",
+        "FileName": "TasksRoutes.java",
+        "Path": "server/protocols/webadmin/webadmin-core/src/main/java/org/apache/james/webadmin/routes/TasksRoutes.java",
+        "DateUpdated": "2019-09-24T09:12:03Z",
+        "Additions": 54,
+        "Deletions": 4,
+        "Commits": [
+          "b847270a3f319d9d60df0e242bda7de9c6f8fe47"
+        ]
+      },
+      {
+        "Sha": "f31ec43665f08e62ebf40bd753779b770796b54e",
+        "FileName": "TasksRoutesTest.java",
+        "Path": "server/protocols/webadmin/webadmin-core/src/test/java/org/apache/james/webadmin/routes/TasksRoutesTest.java",
+        "DateUpdated": "2019-09-24T09:12:03Z",
+        "Additions": 79,
+        "Deletions": 1,
+        "Commits": [
+          "b847270a3f319d9d60df0e242bda7de9c6f8fe47"
+        ]
+      },
+      {
+        "Sha": "a8e43c56f6eade2d7c821e8001d713e5b692c47b",
+        "FileName": "DistributedTaskManagerTest.java",
+        "Path": "server/task-distributed/src/test/java/org/apache/james/task/eventsourcing/distributed/DistributedTaskManagerTest.java",
+        "DateUpdated": "2019-09-24T09:12:03Z",
+        "Additions": 22,
+        "Deletions": 3,
+        "Commits": [
+          "b847270a3f319d9d60df0e242bda7de9c6f8fe47"
+        ]
+      },
+      {
+        "Sha": "611cbdedc7aee9c11d0d47024ed8491238143867",
+        "FileName": "MemoryTaskManager.java",
+        "Path": "server/task/src/main/java/org/apache/james/task/MemoryTaskManager.java",
+        "DateUpdated": "2019-09-24T09:12:03Z",
+        "Additions": 7,
+        "Deletions": 10,
+        "Commits": [
+          "b847270a3f319d9d60df0e242bda7de9c6f8fe47"
+        ]
+      },
+      {
+        "Sha": "5aca2670f83b53515523cdcba393fa5f951c66ed",
+        "FileName": "TaskManager.java",
+        "Path": "server/task/src/main/java/org/apache/james/task/TaskManager.java",
+        "DateUpdated": "2019-09-24T09:12:03Z",
+        "Additions": 5,
+        "Deletions": 1,
+        "Commits": [
+          "b847270a3f319d9d60df0e242bda7de9c6f8fe47"
+        ]
+      },
+      {
+        "Sha": "4e281de4bb05f51bca1f043447b4dd8dd472b12e",
+        "FileName": "EventSourcingTaskManager.scala",
+        "Path": "server/task/src/main/scala/org/apache/james/task/eventsourcing/EventSourcingTaskManager.scala",
+        "DateUpdated": "2019-09-24T09:12:03Z",
+        "Additions": 25,
+        "Deletions": 15,
+        "Commits": [
+          "b847270a3f319d9d60df0e242bda7de9c6f8fe47"
+        ]
+      },
+      {
+        "Sha": "6078752fa47bcbf17f643271bc63e8d44148d575",
+        "FileName": "TaskManagerContract.java",
+        "Path": "server/task/src/test/java/org/apache/james/task/TaskManagerContract.java",
+        "DateUpdated": "2019-09-24T09:12:03Z",
+        "Additions": 27,
+        "Deletions": 9,
+        "Commits": [
+          "b847270a3f319d9d60df0e242bda7de9c6f8fe47"
+        ]
+      },
+      {
+        "Sha": "628ac7f8fe7bca661ea2713a8c43daf29bb8647e",
+        "FileName": "manage-webadmin.md",
+        "Path": "src/site/markdown/server/manage-webadmin.md",
+        "DateUpdated": "2019-09-24T09:12:03Z",
+        "Additions": 15,
+        "Deletions": 2,
+        "Commits": [
+          "b847270a3f319d9d60df0e242bda7de9c6f8fe47"
+        ]
+      },
+      {
+        "Sha": "14b2f2a6792fc054c248067e24a755e5b89171e0",
+        "FileName": "EventSourcingTaskManager.scala",
+        "Path": "server/task/src/main/scala/org/apache/james/task/eventsourcing/EventSourcingTaskManager.scala",
+        "DateUpdated": "2019-09-24T09:11:05Z",
+        "Additions": 10,
+        "Deletions": 6,
+        "Commits": [
+          "fffd183d26b0e3700e9fee68a8074592f0dce6ce"
+        ]
+      },
+      {
+        "Sha": "f61cbc13354ffdc16ae9c3c4be22c7ce30458c93",
+        "FileName": "DistributedTaskManagerTest.java",
+        "Path": "server/task-distributed/src/test/java/org/apache/james/task/eventsourcing/distributed/DistributedTaskManagerTest.java",
+        "DateUpdated": "2019-09-24T09:11:05Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "6bc8c08351c9543c9210c50ca3d11acb2ecbe96f"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "81e6cdf99741252821e0c0c511b69deaa6e9237a",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-24T09:17:43Z",
+        "additions": 1,
+        "deletions": 0,
+        "files": [
+          "eefcea29e76d66d431a97cc24e8b0eebcfa783c6"
+        ]
+      },
+      {
+        "sha": "f1b0307d36a28e2b1d796f3669e9151d774ed0a1",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-24T09:17:25Z",
+        "additions": 0,
+        "deletions": 1,
+        "files": [
+          "d80f4ffb5a06ebcbe3e737aa003820f9ed760480"
+        ]
+      },
+      {
+        "sha": "ae218e593bf7c615b6774f60ba91af3a7b7356d0",
+        "Author": {
+          "name": "\"Matthieu Baechler\"",
+          "location": "Privas, France",
+          "company": "Baechler Craftsmanship"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-24T09:17:06Z",
+        "additions": 11,
+        "deletions": 4,
+        "files": [
+          "a81d3d2802fcd81422fcb83c0af2769bd1155626",
+          "8c31e8d9aa3462b4670f5006f11cca12b527ff91",
+          "efaf09fd62e4146845382cc3dd13fec325a55a33",
+          "73f628f81cfef5af79cc4e4fd57f8a18c762efa3"
+        ]
+      },
+      {
+        "sha": "dbcc50879f2c3187f8045e21032130147de93fbf",
+        "Author": {
+          "name": "\"Matthieu Baechler\"",
+          "location": "Privas, France",
+          "company": "Baechler Craftsmanship"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-24T09:17:06Z",
+        "additions": 2,
+        "deletions": 1,
+        "files": [
+          "aaae23bbf80c8063bda4548a19fb4e1b78541786"
+        ]
+      },
+      {
+        "sha": "5facf235da8cd7a23773545d66a2d03e11a36000",
+        "Author": {
+          "name": "\"Matthieu Baechler\"",
+          "location": "Privas, France",
+          "company": "Baechler Craftsmanship"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-24T09:17:06Z",
+        "additions": 7,
+        "deletions": 8,
+        "files": [
+          "1b0353adea9d3e7910e05ed28a26d8dadeb0c06f"
+        ]
+      },
+      {
+        "sha": "7dbbd3d86f686d7dfa0dd7dbc503d5a9f9448ae9",
+        "Author": {
+          "name": "\"Matthieu Baechler\"",
+          "location": "Privas, France",
+          "company": "Baechler Craftsmanship"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-24T09:17:06Z",
+        "additions": 2,
+        "deletions": 5,
+        "files": [
+          "1b6464c0e853a163699e201edefe590cb2890ea2",
+          "38ee95d161f4165d8ffc26bce0744ba80b0f46e3"
+        ]
+      },
+      {
+        "sha": "de092eab6774da5bae1e731875a91bd0866f16dc",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-24T09:12:03Z",
+        "additions": 41,
+        "deletions": 28,
+        "files": [
+          "919c2c7e02708095a9b3d22c361965bc3bb0b66c",
+          "a0d61a65fc6cb0faf1aa474e777b12e03777f7b0",
+          "37a555006cc3ac1f6aa93f64cfe57e221c362a9c",
+          "dafaf838286a0aa298b7aad81e66fdab2e5d69d5",
+          "a01fc9978e23ad3fa0e5c9a6d0f87dff767cd754",
+          "ad77c9678cb2b18cbebcd597a6a92a2edb9ba592"
+        ]
+      },
+      {
+        "sha": "b847270a3f319d9d60df0e242bda7de9c6f8fe47",
+        "Author": {
+          "name": "\"Gautier DI FOLCO\"",
+          "location": "Lyon, France",
+          "company": "@linagora "
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-24T09:12:03Z",
+        "additions": 247,
+        "deletions": 57,
+        "files": [
+          "6696d54b1ca316285f8709ed51f6525302008154",
+          "e0b573cf91ae6d20eb8a295d4fa969f0ea117be9",
+          "35db8b8376106eda084bc11d61eda939ddc6d508",
+          "f31ec43665f08e62ebf40bd753779b770796b54e",
+          "a8e43c56f6eade2d7c821e8001d713e5b692c47b",
+          "611cbdedc7aee9c11d0d47024ed8491238143867",
+          "5aca2670f83b53515523cdcba393fa5f951c66ed",
+          "4e281de4bb05f51bca1f043447b4dd8dd472b12e",
+          "6078752fa47bcbf17f643271bc63e8d44148d575",
+          "628ac7f8fe7bca661ea2713a8c43daf29bb8647e"
+        ]
+      },
+      {
+        "sha": "fffd183d26b0e3700e9fee68a8074592f0dce6ce",
+        "Author": {
+          "name": "\"Gautier DI FOLCO\"",
+          "location": "Lyon, France",
+          "company": "@linagora "
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-24T09:11:05Z",
+        "additions": 10,
+        "deletions": 6,
+        "files": [
+          "14b2f2a6792fc054c248067e24a755e5b89171e0"
+        ]
+      },
+      {
+        "sha": "6bc8c08351c9543c9210c50ca3d11acb2ecbe96f",
+        "Author": {
+          "name": "\"Gautier DI FOLCO\"",
+          "location": "Lyon, France",
+          "company": "@linagora "
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-24T09:11:05Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "f61cbc13354ffdc16ae9c3c4be22c7ce30458c93"
+        ]
+      }
+    ]
+  }
+]

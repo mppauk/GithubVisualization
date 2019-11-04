@@ -1,0 +1,42 @@
+[
+  {
+    "RepositoryName": "dubbo-go",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T08:03:46Z",
+    "EndDate": "2019-09-23T09:03:46",
+    "Branches": 5,
+    "Forks": 170,
+    "Files": [
+      {
+        "Sha": "7ffc702248bfe26f82105be6a7220b86d3c3ae51",
+        "FileName": "directory.go",
+        "Path": "registry/directory/directory.go",
+        "DateUpdated": "2019-09-23T08:18:16Z",
+        "Additions": 13,
+        "Deletions": 13,
+        "Commits": [
+          "ac51fc14019cb376e5b0feedc3e4ee80af029b17"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "ac51fc14019cb376e5b0feedc3e4ee80af029b17",
+        "Author": {
+          "name": "\"vito.he\"",
+          "location": "ShangHai, China",
+          "company": "@Apache"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T08:18:16Z",
+        "additions": 13,
+        "deletions": 13,
+        "files": [
+          "7ffc702248bfe26f82105be6a7220b86d3c3ae51"
+        ]
+      }
+    ]
+  }
+]

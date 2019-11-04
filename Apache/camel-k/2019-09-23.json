@@ -1,0 +1,630 @@
+[
+  {
+    "RepositoryName": "camel-k",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T16:04:26Z",
+    "EndDate": "2019-09-23T17:04:26",
+    "Branches": 2,
+    "Forks": 88,
+    "Files": [
+      {
+        "Sha": "7ac67e0496ee10c992d24fd588e9e7f27d116337",
+        "FileName": "util.go",
+        "Path": "pkg/util/kubernetes/util.go",
+        "DateUpdated": "2019-09-23T16:35:14Z",
+        "Additions": 8,
+        "Deletions": 9,
+        "Commits": [
+          "e3a95a65277e1d9002cdffddc1c9a3cf62ecc477"
+        ]
+      },
+      {
+        "Sha": "3ba6bf736edcd706a69e0b2ee9e0c2316ced0185",
+        "FileName": "util.go",
+        "Path": "pkg/util/kubernetes/util.go",
+        "DateUpdated": "2019-09-23T16:35:14Z",
+        "Additions": 5,
+        "Deletions": 1,
+        "Commits": [
+          "15c20e482d567aaf8dd54a2b029ce7e70fd0f248"
+        ]
+      },
+      {
+        "Sha": "04a26a6de0acee1a925761103454fadc6d3274e1",
+        "FileName": "csv-config.yaml",
+        "Path": "deploy/olm-catalog/csv-config.yaml",
+        "DateUpdated": "2019-09-23T16:33:59Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "dcecad2e67960a3c6e8a4f43ae1bd9a65d8a450f"
+        ]
+      },
+      {
+        "Sha": "6a5970534cf565f470639e514d12813b64cbef6d",
+        "FileName": "go.mod",
+        "Path": "go.mod",
+        "DateUpdated": "2019-09-23T16:33:59Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "45db4a7431d8b59525fee818956352d745c1f556"
+        ]
+      },
+      {
+        "Sha": "4523b7969df7010991e06f5ea191b496df762094",
+        "FileName": "go.sum",
+        "Path": "go.sum",
+        "DateUpdated": "2019-09-23T16:33:59Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "45db4a7431d8b59525fee818956352d745c1f556"
+        ]
+      },
+      {
+        "Sha": "b1a3bd811263291d2981b0ba3f401d6a87c6c253",
+        "FileName": "s2i.go",
+        "Path": "pkg/builder/s2i/s2i.go",
+        "DateUpdated": "2019-09-23T16:32:55Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "c76132d6e56a0e369bd73c9bd9b5f569fb520527"
+        ]
+      },
+      {
+        "Sha": "7b167ff6dca9930da4f18b320f08b4e1847ecd9d",
+        "FileName": "builder.go",
+        "Path": "pkg/trait/builder.go",
+        "DateUpdated": "2019-09-23T16:32:55Z",
+        "Additions": 0,
+        "Deletions": 3,
+        "Commits": [
+          "c76132d6e56a0e369bd73c9bd9b5f569fb520527"
+        ]
+      },
+      {
+        "Sha": "215613e12b7c2949848894867ea8a710902c238d",
+        "FileName": "travis_build.sh",
+        "Path": "script/travis_build.sh",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "01340f0b05228e9948719ff41da631c95c10a9f0"
+        ]
+      },
+      {
+        "Sha": "4e31497f1fd874c2606ea5db15192106bc475ec2",
+        "FileName": "tekton.adoc",
+        "Path": "docs/modules/ROOT/pages/tutorials/tekton/tekton.adoc",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "6e3a658e1caf28e59501ddf36e161f6063bb42cc"
+        ]
+      },
+      {
+        "Sha": "dd4d7dc53947f6521a79c09eb28b9875721f817d",
+        "FileName": "tekton_test.go",
+        "Path": "e2e/tekton_test.go",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 45,
+        "Deletions": 0,
+        "Commits": [
+          "a89e54c467c4ed4761b0ec5705afe29527ee9548"
+        ]
+      },
+      {
+        "Sha": "a44108477d21b081a892d56942dc4291a52b4ed4",
+        "FileName": "test_staging_hooks.go",
+        "Path": "e2e/test_staging_hooks.go",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 11,
+        "Deletions": 7,
+        "Commits": [
+          "a89e54c467c4ed4761b0ec5705afe29527ee9548"
+        ]
+      },
+      {
+        "Sha": "38e92bfd7b9c792f2f1462c1708324b850b48b77",
+        "FileName": "test_support.go",
+        "Path": "e2e/test_support.go",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 57,
+        "Deletions": 9,
+        "Commits": [
+          "a89e54c467c4ed4761b0ec5705afe29527ee9548"
+        ]
+      },
+      {
+        "Sha": "19accc00d2e6ead09edf160289c99778ba1cacc5",
+        "FileName": "README.adoc",
+        "Path": "docs/README.adoc",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 9,
+        "Deletions": 7,
+        "Commits": [
+          "599f2e6e11edf44ed2690b280be274d38d81a937"
+        ]
+      },
+      {
+        "Sha": "bf80376dbcdaebcd42c32f30e58cf2024c9db24c",
+        "FileName": "camel-k-pipeline-permissions.yaml",
+        "Path": "docs/modules/ROOT/assets/attachments/tekton/camel-k-pipeline-permissions.yaml",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 176,
+        "Deletions": 0,
+        "Commits": [
+          "599f2e6e11edf44ed2690b280be274d38d81a937",
+          "3460363f251deb10988e367c3505dbf6275da9a8"
+        ]
+      },
+      {
+        "Sha": "9d66e22194085fa27a0261f8b947d58fb658c6d6",
+        "FileName": "camel-k-pipeline-task-definition.yaml",
+        "Path": "docs/modules/ROOT/assets/attachments/tekton/camel-k-pipeline-task-definition.yaml",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 2,
+        "Deletions": 4,
+        "Commits": [
+          "599f2e6e11edf44ed2690b280be274d38d81a937"
+        ]
+      },
+      {
+        "Sha": "db9f2caebc42988dfb5a51fe81171484cc92d3d4",
+        "FileName": "camel-k-pipeline-task-run.yaml",
+        "Path": "docs/modules/ROOT/assets/attachments/tekton/camel-k-pipeline-task-run.yaml",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "599f2e6e11edf44ed2690b280be274d38d81a937"
+        ]
+      },
+      {
+        "Sha": "0d5b282349137288f9c1b1e7502feec3ba4e6724",
+        "FileName": "tekton-pipeline-definition.png",
+        "Path": "docs/modules/ROOT/assets/images/tekton/tekton-pipeline-definition.png",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "599f2e6e11edf44ed2690b280be274d38d81a937"
+        ]
+      },
+      {
+        "Sha": "ef70759687882cddce1d04a3639c99047a6d89cf",
+        "FileName": "tekton-pipeline-result.png",
+        "Path": "docs/modules/ROOT/assets/images/tekton/tekton-pipeline-result.png",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "599f2e6e11edf44ed2690b280be274d38d81a937"
+        ]
+      },
+      {
+        "Sha": "f8be6b83b3a22ec7fe40cdae67e8c3c868c3b56f",
+        "FileName": "tekton-pipeline-run.png",
+        "Path": "docs/modules/ROOT/assets/images/tekton/tekton-pipeline-run.png",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "599f2e6e11edf44ed2690b280be274d38d81a937"
+        ]
+      },
+      {
+        "Sha": "42da5eff9959d7520c03c832c15c5153df163aab",
+        "FileName": "nav.adoc",
+        "Path": "docs/modules/ROOT/nav.adoc",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "599f2e6e11edf44ed2690b280be274d38d81a937"
+        ]
+      },
+      {
+        "Sha": "7865d86b713e0b0beebf4dbde069704bca31df11",
+        "FileName": "tekton.adoc",
+        "Path": "docs/modules/ROOT/pages/tutorials/tekton/tekton.adoc",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 237,
+        "Deletions": 0,
+        "Commits": [
+          "599f2e6e11edf44ed2690b280be274d38d81a937"
+        ]
+      },
+      {
+        "Sha": "3d1b4d945e60a0eaa5e6cc666cc80c3a3440bfa1",
+        "FileName": "tutorials.adoc",
+        "Path": "docs/modules/ROOT/pages/tutorials/tutorials.adoc",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 6,
+        "Deletions": 0,
+        "Commits": [
+          "599f2e6e11edf44ed2690b280be274d38d81a937"
+        ]
+      },
+      {
+        "Sha": "d02e6abc30ea3e9f037ac346c2d075e9f7fdd529",
+        "FileName": "package.json",
+        "Path": "docs/package.json",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "599f2e6e11edf44ed2690b280be274d38d81a937"
+        ]
+      },
+      {
+        "Sha": "96004a6d06b09aa756e591d06285db22298c706d",
+        "FileName": "site-dev.yml",
+        "Path": "docs/site-dev.yml",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 15,
+        "Deletions": 0,
+        "Commits": [
+          "599f2e6e11edf44ed2690b280be274d38d81a937"
+        ]
+      },
+      {
+        "Sha": "86d1e87cd99f6752d57bc84ca38b6f8ccc86bf76",
+        "FileName": "README.md",
+        "Path": "examples/tekton/README.md",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "599f2e6e11edf44ed2690b280be274d38d81a937"
+        ]
+      },
+      {
+        "Sha": "bd57dbe8a33ae6b994546be9f05ee98785e4a412",
+        "FileName": "camel-k-pipeline-run.yaml",
+        "Path": "examples/tekton/camel-k-pipeline-run.yaml",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 3,
+        "Deletions": 55,
+        "Commits": [
+          "3460363f251deb10988e367c3505dbf6275da9a8",
+          "21c7412b22a750b2caa55e6a6dcd7bde50c7fcd3"
+        ]
+      },
+      {
+        "Sha": "0c0ceb2c46b33470df58c7c8787ca5449d0070e4",
+        "FileName": "camel-k-pipeline-task-definition.yaml",
+        "Path": "examples/tekton/camel-k-pipeline-task-definition.yaml",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 92,
+        "Deletions": 0,
+        "Commits": [
+          "3460363f251deb10988e367c3505dbf6275da9a8"
+        ]
+      },
+      {
+        "Sha": "263a99a49106ebc26beda11d7597832572722966",
+        "FileName": "camel-k-pipeline-task-run.yaml",
+        "Path": "examples/tekton/camel-k-pipeline-task-run.yaml",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 30,
+        "Deletions": 0,
+        "Commits": [
+          "3460363f251deb10988e367c3505dbf6275da9a8"
+        ]
+      },
+      {
+        "Sha": "dd0f06d9fc51dbc28a5e2229f671459f42dc2910",
+        "FileName": "client.go",
+        "Path": "pkg/client/client.go",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 36,
+        "Deletions": 0,
+        "Commits": [
+          "3460363f251deb10988e367c3505dbf6275da9a8"
+        ]
+      },
+      {
+        "Sha": "c09462c89e19814d2eeb39a4686a925f682f7502",
+        "FileName": "Makefile",
+        "Path": "script/Makefile",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "21c7412b22a750b2caa55e6a6dcd7bde50c7fcd3"
+        ]
+      },
+      {
+        "Sha": "6ded51595e999dd5a6af3a3de04ba6c3d16ca18a",
+        "FileName": "Dockerfile",
+        "Path": "build/Dockerfile",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "93a85ef45cc6f85a980ecde9ec57a68f56cbae8b"
+        ]
+      },
+      {
+        "Sha": "f50df3694de0eec77bbe30a16499c6e3039c7862",
+        "FileName": "camel-k-pipeline-run.yaml",
+        "Path": "examples/tekton/camel-k-pipeline-run.yaml",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 52,
+        "Deletions": 0,
+        "Commits": [
+          "93a85ef45cc6f85a980ecde9ec57a68f56cbae8b"
+        ]
+      },
+      {
+        "Sha": "39d23f647039ff6a46996d2d7795e87049fcd083",
+        "FileName": "hello.groovy",
+        "Path": "examples/tekton/hello.groovy",
+        "DateUpdated": "2019-09-23T16:32:20Z",
+        "Additions": 19,
+        "Deletions": 0,
+        "Commits": [
+          "93a85ef45cc6f85a980ecde9ec57a68f56cbae8b"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "e3a95a65277e1d9002cdffddc1c9a3cf62ecc477",
+        "Author": {
+          "name": "\"Antonin Stefanutti\"",
+          "location": "Paris, France",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Nicola Ferraro\"",
+          "location": "Rome",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T16:35:14Z",
+        "additions": 8,
+        "deletions": 9,
+        "files": [
+          "7ac67e0496ee10c992d24fd588e9e7f27d116337"
+        ]
+      },
+      {
+        "sha": "15c20e482d567aaf8dd54a2b029ce7e70fd0f248",
+        "Author": {
+          "name": "\"Antonin Stefanutti\"",
+          "location": "Paris, France",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Nicola Ferraro\"",
+          "location": "Rome",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T16:35:14Z",
+        "additions": 5,
+        "deletions": 1,
+        "files": [
+          "3ba6bf736edcd706a69e0b2ee9e0c2316ced0185"
+        ]
+      },
+      {
+        "sha": "dcecad2e67960a3c6e8a4f43ae1bd9a65d8a450f",
+        "Author": {
+          "name": "\"Antonin Stefanutti\"",
+          "location": "Paris, France",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Nicola Ferraro\"",
+          "location": "Rome",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T16:33:59Z",
+        "additions": 2,
+        "deletions": 1,
+        "files": [
+          "04a26a6de0acee1a925761103454fadc6d3274e1"
+        ]
+      },
+      {
+        "sha": "45db4a7431d8b59525fee818956352d745c1f556",
+        "Author": {
+          "name": "\"Antonin Stefanutti\"",
+          "location": "Paris, France",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Nicola Ferraro\"",
+          "location": "Rome",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T16:33:59Z",
+        "additions": 4,
+        "deletions": 4,
+        "files": [
+          "6a5970534cf565f470639e514d12813b64cbef6d",
+          "4523b7969df7010991e06f5ea191b496df762094"
+        ]
+      },
+      {
+        "sha": "c76132d6e56a0e369bd73c9bd9b5f569fb520527",
+        "Author": {
+          "name": "\"Antonin Stefanutti\"",
+          "location": "Paris, France",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Nicola Ferraro\"",
+          "location": "Rome",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T16:32:55Z",
+        "additions": 1,
+        "deletions": 5,
+        "files": [
+          "b1a3bd811263291d2981b0ba3f401d6a87c6c253",
+          "7b167ff6dca9930da4f18b320f08b4e1847ecd9d"
+        ]
+      },
+      {
+        "sha": "01340f0b05228e9948719ff41da631c95c10a9f0",
+        "Author": {
+          "name": "\"Nicola Ferraro\"",
+          "location": "Rome",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Nicola Ferraro\"",
+          "location": "Rome",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T16:32:20Z",
+        "additions": 1,
+        "deletions": 0,
+        "files": [
+          "215613e12b7c2949848894867ea8a710902c238d"
+        ]
+      },
+      {
+        "sha": "6e3a658e1caf28e59501ddf36e161f6063bb42cc",
+        "Author": {
+          "name": "\"Nicola Ferraro\"",
+          "location": "Rome",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Nicola Ferraro\"",
+          "location": "Rome",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T16:32:20Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "4e31497f1fd874c2606ea5db15192106bc475ec2"
+        ]
+      },
+      {
+        "sha": "a89e54c467c4ed4761b0ec5705afe29527ee9548",
+        "Author": {
+          "name": "\"Nicola Ferraro\"",
+          "location": "Rome",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Nicola Ferraro\"",
+          "location": "Rome",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T16:32:20Z",
+        "additions": 113,
+        "deletions": 16,
+        "files": [
+          "dd4d7dc53947f6521a79c09eb28b9875721f817d",
+          "a44108477d21b081a892d56942dc4291a52b4ed4",
+          "38e92bfd7b9c792f2f1462c1708324b850b48b77"
+        ]
+      },
+      {
+        "sha": "599f2e6e11edf44ed2690b280be274d38d81a937",
+        "Author": {
+          "name": "\"Nicola Ferraro\"",
+          "location": "Rome",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Nicola Ferraro\"",
+          "location": "Rome",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T16:32:20Z",
+        "additions": 279,
+        "deletions": 14,
+        "files": [
+          "19accc00d2e6ead09edf160289c99778ba1cacc5",
+          "bf80376dbcdaebcd42c32f30e58cf2024c9db24c",
+          "9d66e22194085fa27a0261f8b947d58fb658c6d6",
+          "db9f2caebc42988dfb5a51fe81171484cc92d3d4",
+          "0d5b282349137288f9c1b1e7502feec3ba4e6724",
+          "ef70759687882cddce1d04a3639c99047a6d89cf",
+          "f8be6b83b3a22ec7fe40cdae67e8c3c868c3b56f",
+          "42da5eff9959d7520c03c832c15c5153df163aab",
+          "7865d86b713e0b0beebf4dbde069704bca31df11",
+          "3d1b4d945e60a0eaa5e6cc666cc80c3a3440bfa1",
+          "d02e6abc30ea3e9f037ac346c2d075e9f7fdd529",
+          "96004a6d06b09aa756e591d06285db22298c706d",
+          "86d1e87cd99f6752d57bc84ca38b6f8ccc86bf76"
+        ]
+      },
+      {
+        "sha": "3460363f251deb10988e367c3505dbf6275da9a8",
+        "Author": {
+          "name": "\"Nicola Ferraro\"",
+          "location": "Rome",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Nicola Ferraro\"",
+          "location": "Rome",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T16:32:20Z",
+        "additions": 334,
+        "deletions": 54,
+        "files": [
+          "bf80376dbcdaebcd42c32f30e58cf2024c9db24c",
+          "bd57dbe8a33ae6b994546be9f05ee98785e4a412",
+          "0c0ceb2c46b33470df58c7c8787ca5449d0070e4",
+          "263a99a49106ebc26beda11d7597832572722966",
+          "dd0f06d9fc51dbc28a5e2229f671459f42dc2910"
+        ]
+      },
+      {
+        "sha": "21c7412b22a750b2caa55e6a6dcd7bde50c7fcd3",
+        "Author": {
+          "name": "\"Nicola Ferraro\"",
+          "location": "Rome",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Nicola Ferraro\"",
+          "location": "Rome",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T16:32:20Z",
+        "additions": 5,
+        "deletions": 1,
+        "files": [
+          "bd57dbe8a33ae6b994546be9f05ee98785e4a412",
+          "c09462c89e19814d2eeb39a4686a925f682f7502"
+        ]
+      },
+      {
+        "sha": "93a85ef45cc6f85a980ecde9ec57a68f56cbae8b",
+        "Author": {
+          "name": "\"Nicola Ferraro\"",
+          "location": "Rome",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Nicola Ferraro\"",
+          "location": "Rome",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T16:32:20Z",
+        "additions": 72,
+        "deletions": 0,
+        "files": [
+          "6ded51595e999dd5a6af3a3de04ba6c3d16ca18a",
+          "f50df3694de0eec77bbe30a16499c6e3039c7862",
+          "39d23f647039ff6a46996d2d7795e87049fcd083"
+        ]
+      }
+    ]
+  }
+]

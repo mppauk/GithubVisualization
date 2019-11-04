@@ -1,0 +1,671 @@
+[
+  {
+    "RepositoryName": "incubator-pinot",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T23:02:46Z",
+    "EndDate": "2019-09-25T00:02:46",
+    "Branches": 173,
+    "Forks": 447,
+    "Files": [
+      {
+        "Sha": "aa7248680772dcefe6a279291ac9a0b1863fe416",
+        "FileName": "admin_guide.rst",
+        "Path": "docs/admin_guide.rst",
+        "DateUpdated": "2019-09-24T23:59:02Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "f30d83b288842732735fe9ce17f0efa4da418a6b"
+        ]
+      },
+      {
+        "Sha": "8cdb98d3283ed635cfae687ec44c5a33b9591523",
+        "FileName": "schema.rst",
+        "Path": "docs/schema.rst",
+        "DateUpdated": "2019-09-24T23:59:02Z",
+        "Additions": 124,
+        "Deletions": 0,
+        "Commits": [
+          "f30d83b288842732735fe9ce17f0efa4da418a6b"
+        ]
+      },
+      {
+        "Sha": "e07f384ab9eef57152c3730732c28799cc6ecfb6",
+        "FileName": "LeadControllerUtils.java",
+        "Path": "pinot-common/src/main/java/org/apache/pinot/common/utils/helix/LeadControllerUtils.java",
+        "DateUpdated": "2019-09-24T23:11:56Z",
+        "Additions": 21,
+        "Deletions": 16,
+        "Commits": [
+          "ffa66bf3b5101278a475052878a722c53231ad3e"
+        ]
+      },
+      {
+        "Sha": "29d6a0955ab67b50770c06c6f13f3d19b38bd040",
+        "FileName": "LeadControllerManager.java",
+        "Path": "pinot-controller/src/main/java/org/apache/pinot/controller/LeadControllerManager.java",
+        "DateUpdated": "2019-09-24T23:11:56Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "ffa66bf3b5101278a475052878a722c53231ad3e"
+        ]
+      },
+      {
+        "Sha": "f790759eaa2a9cf3c0e6976938231ca8403d5162",
+        "FileName": "LeadControllerManagerTest.java",
+        "Path": "pinot-controller/src/test/java/org/apache/pinot/controller/LeadControllerManagerTest.java",
+        "DateUpdated": "2019-09-24T23:11:56Z",
+        "Additions": 1,
+        "Deletions": 10,
+        "Commits": [
+          "ffa66bf3b5101278a475052878a722c53231ad3e"
+        ]
+      },
+      {
+        "Sha": "e4d754feb1b464614d80de640b0dc541a2bad955",
+        "FileName": "RetentionManagerTest.java",
+        "Path": "pinot-controller/src/test/java/org/apache/pinot/controller/helix/core/retention/RetentionManagerTest.java",
+        "DateUpdated": "2019-09-24T23:11:56Z",
+        "Additions": 4,
+        "Deletions": 3,
+        "Commits": [
+          "ffa66bf3b5101278a475052878a722c53231ad3e"
+        ]
+      },
+      {
+        "Sha": "caa80340f771fea7ed5a2d96704ad5a2310c71d1",
+        "FileName": "ControllerLeaderLocator.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/server/realtime/ControllerLeaderLocator.java",
+        "DateUpdated": "2019-09-24T23:11:56Z",
+        "Additions": 103,
+        "Deletions": 102,
+        "Commits": [
+          "ffa66bf3b5101278a475052878a722c53231ad3e"
+        ]
+      },
+      {
+        "Sha": "2b5097ecdedb6f1243e66e17a2317bea750f1ddf",
+        "FileName": "ControllerLeaderLocatorTest.java",
+        "Path": "pinot-core/src/test/java/org/apache/pinot/server/realtime/ControllerLeaderLocatorTest.java",
+        "DateUpdated": "2019-09-24T23:11:56Z",
+        "Additions": 91,
+        "Deletions": 64,
+        "Commits": [
+          "ffa66bf3b5101278a475052878a722c53231ad3e"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "f30d83b288842732735fe9ce17f0efa4da418a6b",
+        "Author": {
+          "name": "\"Mayank Shrivastava\"",
+          "company": "LinkedIn"
+        },
+        "Commitor": {
+          "name": "\"Seunghyun Lee\"",
+          "location": "Sunnyvale",
+          "company": "LinkedIn"
+        },
+        "Date": "2019-09-24T23:59:02Z",
+        "additions": 125,
+        "deletions": 0,
+        "files": [
+          "aa7248680772dcefe6a279291ac9a0b1863fe416",
+          "8cdb98d3283ed635cfae687ec44c5a33b9591523"
+        ]
+      },
+      {
+        "sha": "ffa66bf3b5101278a475052878a722c53231ad3e",
+        "Author": {
+          "name": "\"Jialiang Li\"",
+          "location": "Mountain View",
+          "company": "LinkedIn"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T23:11:56Z",
+        "additions": 220,
+        "deletions": 199,
+        "files": [
+          "e07f384ab9eef57152c3730732c28799cc6ecfb6",
+          "29d6a0955ab67b50770c06c6f13f3d19b38bd040",
+          "f790759eaa2a9cf3c0e6976938231ca8403d5162",
+          "e4d754feb1b464614d80de640b0dc541a2bad955",
+          "caa80340f771fea7ed5a2d96704ad5a2310c71d1",
+          "2b5097ecdedb6f1243e66e17a2317bea750f1ddf"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-pinot",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T23:46:35Z",
+    "EndDate": "2019-09-25T00:46:35",
+    "Branches": 173,
+    "Forks": 447,
+    "Files": [
+      {
+        "Sha": "305588561daa555171ae398e6ad1924d2a8189da",
+        "FileName": "star-tree.rst",
+        "Path": "docs/star-tree/star-tree.rst",
+        "DateUpdated": "2019-09-25T00:41:49Z",
+        "Additions": 19,
+        "Deletions": 0,
+        "Commits": [
+          "c563b82f21517f4336f4a2f33f8bfa4aa61d857b"
+        ]
+      },
+      {
+        "Sha": "e2d8b82679f57e4aab2717524bb5647414742a13",
+        "FileName": "index.rst",
+        "Path": "docs/index.rst",
+        "DateUpdated": "2019-09-25T00:18:46Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "07c74b1e8a7d3dacffa9e41c649fa7bae450c49a"
+        ]
+      },
+      {
+        "Sha": "2ab957d990aa3166abc520d49876365e09ffed16",
+        "FileName": "example.png",
+        "Path": "docs/star-tree/example.png",
+        "DateUpdated": "2019-09-25T00:18:46Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "07c74b1e8a7d3dacffa9e41c649fa7bae450c49a"
+        ]
+      },
+      {
+        "Sha": "c684a800a8efb8b696cfa8eb8a37a1d99fa5ed28",
+        "FileName": "space-time.png",
+        "Path": "docs/star-tree/space-time.png",
+        "DateUpdated": "2019-09-25T00:18:46Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "07c74b1e8a7d3dacffa9e41c649fa7bae450c49a"
+        ]
+      },
+      {
+        "Sha": "7d8b12657372231b27d78f856a7ccea749e45b50",
+        "FileName": "star-tree.rst",
+        "Path": "docs/star-tree/star-tree.rst",
+        "DateUpdated": "2019-09-25T00:18:46Z",
+        "Additions": 330,
+        "Deletions": 0,
+        "Commits": [
+          "07c74b1e8a7d3dacffa9e41c649fa7bae450c49a"
+        ]
+      },
+      {
+        "Sha": "98009a8b4575da7e6b0d1cdbfbcfb50650357d76",
+        "FileName": "structure.png",
+        "Path": "docs/star-tree/structure.png",
+        "DateUpdated": "2019-09-25T00:18:46Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "07c74b1e8a7d3dacffa9e41c649fa7bae450c49a"
+        ]
+      },
+      {
+        "Sha": "4a35601ed390577317dee8040a3493420dde17a5",
+        "FileName": "tuning_pinot.rst",
+        "Path": "docs/tuning_pinot.rst",
+        "DateUpdated": "2019-09-25T00:18:46Z",
+        "Additions": 7,
+        "Deletions": 6,
+        "Commits": [
+          "07c74b1e8a7d3dacffa9e41c649fa7bae450c49a"
+        ]
+      },
+      {
+        "Sha": "aa7248680772dcefe6a279291ac9a0b1863fe416",
+        "FileName": "admin_guide.rst",
+        "Path": "docs/admin_guide.rst",
+        "DateUpdated": "2019-09-24T23:59:02Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "f30d83b288842732735fe9ce17f0efa4da418a6b"
+        ]
+      },
+      {
+        "Sha": "8cdb98d3283ed635cfae687ec44c5a33b9591523",
+        "FileName": "schema.rst",
+        "Path": "docs/schema.rst",
+        "DateUpdated": "2019-09-24T23:59:02Z",
+        "Additions": 124,
+        "Deletions": 0,
+        "Commits": [
+          "f30d83b288842732735fe9ce17f0efa4da418a6b"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c563b82f21517f4336f4a2f33f8bfa4aa61d857b",
+        "Author": {
+          "name": "\"Seunghyun Lee\"",
+          "location": "Sunnyvale",
+          "company": "LinkedIn"
+        },
+        "Commitor": {
+          "name": "\"Xiaotian (Jackie) Jiang\"",
+          "location": "Sunnyvale, California",
+          "company": "LinkedIn Corporation"
+        },
+        "Date": "2019-09-25T00:41:49Z",
+        "additions": 19,
+        "deletions": 0,
+        "files": [
+          "305588561daa555171ae398e6ad1924d2a8189da"
+        ]
+      },
+      {
+        "sha": "07c74b1e8a7d3dacffa9e41c649fa7bae450c49a",
+        "Author": {
+          "name": "\"Xiaotian (Jackie) Jiang\"",
+          "location": "Sunnyvale, California",
+          "company": "LinkedIn Corporation"
+        },
+        "Commitor": {
+          "name": "\"Seunghyun Lee\"",
+          "location": "Sunnyvale",
+          "company": "LinkedIn"
+        },
+        "Date": "2019-09-25T00:18:46Z",
+        "additions": 338,
+        "deletions": 7,
+        "files": [
+          "e2d8b82679f57e4aab2717524bb5647414742a13",
+          "2ab957d990aa3166abc520d49876365e09ffed16",
+          "c684a800a8efb8b696cfa8eb8a37a1d99fa5ed28",
+          "7d8b12657372231b27d78f856a7ccea749e45b50",
+          "98009a8b4575da7e6b0d1cdbfbcfb50650357d76",
+          "4a35601ed390577317dee8040a3493420dde17a5"
+        ]
+      },
+      {
+        "sha": "f30d83b288842732735fe9ce17f0efa4da418a6b",
+        "Author": {
+          "name": "\"Mayank Shrivastava\"",
+          "company": "LinkedIn"
+        },
+        "Commitor": {
+          "name": "\"Seunghyun Lee\"",
+          "location": "Sunnyvale",
+          "company": "LinkedIn"
+        },
+        "Date": "2019-09-24T23:59:02Z",
+        "additions": 125,
+        "deletions": 0,
+        "files": [
+          "aa7248680772dcefe6a279291ac9a0b1863fe416",
+          "8cdb98d3283ed635cfae687ec44c5a33b9591523"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-pinot",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T00:02:47Z",
+    "EndDate": "2019-09-25T01:02:47",
+    "Branches": 173,
+    "Forks": 447,
+    "Files": [
+      {
+        "Sha": "305588561daa555171ae398e6ad1924d2a8189da",
+        "FileName": "star-tree.rst",
+        "Path": "docs/star-tree/star-tree.rst",
+        "DateUpdated": "2019-09-25T00:41:49Z",
+        "Additions": 19,
+        "Deletions": 0,
+        "Commits": [
+          "c563b82f21517f4336f4a2f33f8bfa4aa61d857b"
+        ]
+      },
+      {
+        "Sha": "e2d8b82679f57e4aab2717524bb5647414742a13",
+        "FileName": "index.rst",
+        "Path": "docs/index.rst",
+        "DateUpdated": "2019-09-25T00:18:46Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "07c74b1e8a7d3dacffa9e41c649fa7bae450c49a"
+        ]
+      },
+      {
+        "Sha": "2ab957d990aa3166abc520d49876365e09ffed16",
+        "FileName": "example.png",
+        "Path": "docs/star-tree/example.png",
+        "DateUpdated": "2019-09-25T00:18:46Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "07c74b1e8a7d3dacffa9e41c649fa7bae450c49a"
+        ]
+      },
+      {
+        "Sha": "c684a800a8efb8b696cfa8eb8a37a1d99fa5ed28",
+        "FileName": "space-time.png",
+        "Path": "docs/star-tree/space-time.png",
+        "DateUpdated": "2019-09-25T00:18:46Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "07c74b1e8a7d3dacffa9e41c649fa7bae450c49a"
+        ]
+      },
+      {
+        "Sha": "7d8b12657372231b27d78f856a7ccea749e45b50",
+        "FileName": "star-tree.rst",
+        "Path": "docs/star-tree/star-tree.rst",
+        "DateUpdated": "2019-09-25T00:18:46Z",
+        "Additions": 330,
+        "Deletions": 0,
+        "Commits": [
+          "07c74b1e8a7d3dacffa9e41c649fa7bae450c49a"
+        ]
+      },
+      {
+        "Sha": "98009a8b4575da7e6b0d1cdbfbcfb50650357d76",
+        "FileName": "structure.png",
+        "Path": "docs/star-tree/structure.png",
+        "DateUpdated": "2019-09-25T00:18:46Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "07c74b1e8a7d3dacffa9e41c649fa7bae450c49a"
+        ]
+      },
+      {
+        "Sha": "4a35601ed390577317dee8040a3493420dde17a5",
+        "FileName": "tuning_pinot.rst",
+        "Path": "docs/tuning_pinot.rst",
+        "DateUpdated": "2019-09-25T00:18:46Z",
+        "Additions": 7,
+        "Deletions": 6,
+        "Commits": [
+          "07c74b1e8a7d3dacffa9e41c649fa7bae450c49a"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c563b82f21517f4336f4a2f33f8bfa4aa61d857b",
+        "Author": {
+          "name": "\"Seunghyun Lee\"",
+          "location": "Sunnyvale",
+          "company": "LinkedIn"
+        },
+        "Commitor": {
+          "name": "\"Xiaotian (Jackie) Jiang\"",
+          "location": "Sunnyvale, California",
+          "company": "LinkedIn Corporation"
+        },
+        "Date": "2019-09-25T00:41:49Z",
+        "additions": 19,
+        "deletions": 0,
+        "files": [
+          "305588561daa555171ae398e6ad1924d2a8189da"
+        ]
+      },
+      {
+        "sha": "07c74b1e8a7d3dacffa9e41c649fa7bae450c49a",
+        "Author": {
+          "name": "\"Xiaotian (Jackie) Jiang\"",
+          "location": "Sunnyvale, California",
+          "company": "LinkedIn Corporation"
+        },
+        "Commitor": {
+          "name": "\"Seunghyun Lee\"",
+          "location": "Sunnyvale",
+          "company": "LinkedIn"
+        },
+        "Date": "2019-09-25T00:18:46Z",
+        "additions": 338,
+        "deletions": 7,
+        "files": [
+          "e2d8b82679f57e4aab2717524bb5647414742a13",
+          "2ab957d990aa3166abc520d49876365e09ffed16",
+          "c684a800a8efb8b696cfa8eb8a37a1d99fa5ed28",
+          "7d8b12657372231b27d78f856a7ccea749e45b50",
+          "98009a8b4575da7e6b0d1cdbfbcfb50650357d76",
+          "4a35601ed390577317dee8040a3493420dde17a5"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-pinot",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T00:46:31Z",
+    "EndDate": "2019-09-25T01:46:31",
+    "Branches": 173,
+    "Forks": 447,
+    "Files": [
+      {
+        "Sha": "e65c2a30df77b244668857dafeb2475c85773f9a",
+        "FileName": "schema.rst",
+        "Path": "docs/schema.rst",
+        "DateUpdated": "2019-09-25T01:29:18Z",
+        "Additions": 16,
+        "Deletions": 2,
+        "Commits": [
+          "bd1af57f0458c9dc64a2e9017e3890582547ab68"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "bd1af57f0458c9dc64a2e9017e3890582547ab68",
+        "Author": {
+          "name": "\"Mayank Shrivastava\"",
+          "company": "LinkedIn"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T01:29:18Z",
+        "additions": 16,
+        "deletions": 2,
+        "files": [
+          "e65c2a30df77b244668857dafeb2475c85773f9a"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-pinot",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T01:03:09Z",
+    "EndDate": "2019-09-25T02:03:09",
+    "Branches": 173,
+    "Forks": 447,
+    "Files": [
+      {
+        "Sha": "e65c2a30df77b244668857dafeb2475c85773f9a",
+        "FileName": "schema.rst",
+        "Path": "docs/schema.rst",
+        "DateUpdated": "2019-09-25T01:29:18Z",
+        "Additions": 16,
+        "Deletions": 2,
+        "Commits": [
+          "bd1af57f0458c9dc64a2e9017e3890582547ab68"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "bd1af57f0458c9dc64a2e9017e3890582547ab68",
+        "Author": {
+          "name": "\"Mayank Shrivastava\"",
+          "company": "LinkedIn"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T01:29:18Z",
+        "additions": 16,
+        "deletions": 2,
+        "files": [
+          "e65c2a30df77b244668857dafeb2475c85773f9a"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-pinot",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T06:02:53Z",
+    "EndDate": "2019-09-25T07:02:53",
+    "Branches": 173,
+    "Forks": 447,
+    "Files": [
+      {
+        "Sha": "8f3c22122848ffbdb18d42fdd69ead8a4521912c",
+        "FileName": "PinotSchemaRestletResource.java",
+        "Path": "pinot-controller/src/main/java/org/apache/pinot/controller/api/resources/PinotSchemaRestletResource.java",
+        "DateUpdated": "2019-09-25T06:50:02Z",
+        "Additions": 49,
+        "Deletions": 2,
+        "Commits": [
+          "4c4800bf65413105ecf0fde7c189f3378dfa0d3a"
+        ]
+      },
+      {
+        "Sha": "5f1979b7f518b2371f6c1659bd8d66a0ece77bae",
+        "FileName": "PinotSchemaRestletResourceTest.java",
+        "Path": "pinot-controller/src/test/java/org/apache/pinot/controller/api/PinotSchemaRestletResourceTest.java",
+        "DateUpdated": "2019-09-25T06:50:02Z",
+        "Additions": 30,
+        "Deletions": 0,
+        "Commits": [
+          "4c4800bf65413105ecf0fde7c189f3378dfa0d3a"
+        ]
+      },
+      {
+        "Sha": "4ce7ce1b7ba4bf75a5bf63e13fb750723adaabd2",
+        "FileName": "ControllerTest.java",
+        "Path": "pinot-controller/src/test/java/org/apache/pinot/controller/helix/ControllerTest.java",
+        "DateUpdated": "2019-09-25T06:50:02Z",
+        "Additions": 11,
+        "Deletions": 0,
+        "Commits": [
+          "4c4800bf65413105ecf0fde7c189f3378dfa0d3a"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "4c4800bf65413105ecf0fde7c189f3378dfa0d3a",
+        "Author": {
+          "name": "\"Xiang Fu\"",
+          "location": "San Francisco",
+          "company": "Stealth Mode Startup"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T06:50:02Z",
+        "additions": 90,
+        "deletions": 2,
+        "files": [
+          "8f3c22122848ffbdb18d42fdd69ead8a4521912c",
+          "5f1979b7f518b2371f6c1659bd8d66a0ece77bae",
+          "4ce7ce1b7ba4bf75a5bf63e13fb750723adaabd2"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-pinot",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T07:02:47Z",
+    "EndDate": "2019-09-25T08:02:47",
+    "Branches": 172,
+    "Forks": 447,
+    "Files": [
+      {
+        "Sha": "21a51adc797b6eb7ce907ba82a68185f8bf15c38",
+        "FileName": "PinotByteBuffer.java",
+        "Path": "pinot-core/src/main/java/org/apache/pinot/core/segment/memory/PinotByteBuffer.java",
+        "DateUpdated": "2019-09-25T07:29:14Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "09d373513c39791a1352704ee724eafd731bf288"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "09d373513c39791a1352704ee724eafd731bf288",
+        "Author": {
+          "name": "\"Xiang Fu\"",
+          "location": "San Francisco",
+          "company": "Stealth Mode Startup"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T07:29:14Z",
+        "additions": 0,
+        "deletions": 1,
+        "files": [
+          "21a51adc797b6eb7ce907ba82a68185f8bf15c38"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-pinot",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T22:02:50Z",
+    "EndDate": "2019-09-25T23:02:50",
+    "Branches": 172,
+    "Forks": 449,
+    "Files": [
+      {
+        "Sha": "bf8834a216ef8e4ffe19110c8f4084f519583651",
+        "FileName": "dimensions-table.scss",
+        "Path": "thirdeye/thirdeye-frontend/app/styles/pods/custom/dimensions-table.scss",
+        "DateUpdated": "2019-09-25T22:12:32Z",
+        "Additions": 7,
+        "Deletions": 6,
+        "Commits": [
+          "ca01c86aa1658028c5b6e7bbbd0a33526d61d167"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "ca01c86aa1658028c5b6e7bbbd0a33526d61d167",
+        "Author": {
+          "name": "\"Harley Jackson\"",
+          "location": "Mountain View, CA",
+          "company": "LinkedIn"
+        },
+        "Commitor": {
+          "name": "\"Jihao Zhang\"",
+          "company": "@Linkedin"
+        },
+        "Date": "2019-09-25T22:12:32Z",
+        "additions": 7,
+        "deletions": 6,
+        "files": [
+          "bf8834a216ef8e4ffe19110c8f4084f519583651"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,349 @@
+[
+  {
+    "RepositoryName": "spark",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T04:46:02Z",
+    "EndDate": "2019-09-25T05:46:02",
+    "Branches": 19,
+    "Forks": 20112,
+    "Files": [
+      {
+        "Sha": "21d78b405b313bf52b10398fa8b8932bb0d1f956",
+        "FileName": "spark-deps-hadoop-2.7",
+        "Path": "dev/deps/spark-deps-hadoop-2.7",
+        "DateUpdated": "2019-09-25T05:05:13Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "eef3abbb903f95178f225ae0f6e3db2d9cf64175"
+        ]
+      },
+      {
+        "Sha": "7fa10f704c2dca014d2402996247f24cc3874ad6",
+        "FileName": "spark-deps-hadoop-3.2",
+        "Path": "dev/deps/spark-deps-hadoop-3.2",
+        "DateUpdated": "2019-09-25T05:05:13Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "eef3abbb903f95178f225ae0f6e3db2d9cf64175"
+        ]
+      },
+      {
+        "Sha": "2ea699371b44f795f98781a45cd31d184c27e3fa",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-25T05:05:13Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "eef3abbb903f95178f225ae0f6e3db2d9cf64175"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "eef3abbb903f95178f225ae0f6e3db2d9cf64175",
+        "Author": {
+          "name": "\"Jiaan Geng\""
+        },
+        "Commitor": {
+          "name": "\"Dongjoon Hyun\"",
+          "location": "Sunnyvale",
+          "company": "@apple @apache "
+        },
+        "Date": "2019-09-25T05:05:13Z",
+        "additions": 16,
+        "deletions": 16,
+        "files": [
+          "21d78b405b313bf52b10398fa8b8932bb0d1f956",
+          "7fa10f704c2dca014d2402996247f24cc3874ad6",
+          "2ea699371b44f795f98781a45cd31d184c27e3fa"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "spark",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T07:02:41Z",
+    "EndDate": "2019-09-25T08:02:41",
+    "Branches": 19,
+    "Forks": 20117,
+    "Files": [
+      {
+        "Sha": "689b45a840a5c67c9c17e9752a8feeac86b2eefc",
+        "FileName": "SparkHadoopUtil.scala",
+        "Path": "core/src/main/scala/org/apache/spark/deploy/SparkHadoopUtil.scala",
+        "DateUpdated": "2019-09-25T07:54:44Z",
+        "Additions": 23,
+        "Deletions": 4,
+        "Commits": [
+          "d8b0914c2e0fdee72a3b9abb2d65283e22b6e8ee"
+        ]
+      },
+      {
+        "Sha": "729b1ba7ed2ca76c0eba75153c4cf68b1411b78b",
+        "FileName": "configuration.md",
+        "Path": "docs/configuration.md",
+        "DateUpdated": "2019-09-25T07:54:44Z",
+        "Additions": 7,
+        "Deletions": 3,
+        "Commits": [
+          "d8b0914c2e0fdee72a3b9abb2d65283e22b6e8ee"
+        ]
+      },
+      {
+        "Sha": "bc607b5722f3226aadae93067e64b5d32801911b",
+        "FileName": "MimaExcludes.scala",
+        "Path": "project/MimaExcludes.scala",
+        "DateUpdated": "2019-09-25T07:54:44Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "d8b0914c2e0fdee72a3b9abb2d65283e22b6e8ee"
+        ]
+      },
+      {
+        "Sha": "9c4b8a5819a3342a46bb143112abf4b6d78fe1ed",
+        "FileName": "HiveUtils.scala",
+        "Path": "sql/hive/src/main/scala/org/apache/spark/sql/hive/HiveUtils.scala",
+        "DateUpdated": "2019-09-25T07:54:44Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "d8b0914c2e0fdee72a3b9abb2d65283e22b6e8ee"
+        ]
+      },
+      {
+        "Sha": "78c6ff714f70f07a083f1c173b5907c1be1b28f4",
+        "FileName": "TableReader.scala",
+        "Path": "sql/hive/src/main/scala/org/apache/spark/sql/hive/TableReader.scala",
+        "DateUpdated": "2019-09-25T07:54:44Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "d8b0914c2e0fdee72a3b9abb2d65283e22b6e8ee"
+        ]
+      },
+      {
+        "Sha": "4ad97eaa2b1c89eabcae936bae4869619a0426f9",
+        "FileName": "HiveUtilsSuite.scala",
+        "Path": "sql/hive/src/test/scala/org/apache/spark/sql/hive/HiveUtilsSuite.scala",
+        "DateUpdated": "2019-09-25T07:54:44Z",
+        "Additions": 9,
+        "Deletions": 0,
+        "Commits": [
+          "d8b0914c2e0fdee72a3b9abb2d65283e22b6e8ee"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d8b0914c2e0fdee72a3b9abb2d65283e22b6e8ee",
+        "Author": {
+          "name": "\"WeichenXu\"",
+          "location": "San Francisco",
+          "company": "@databricks"
+        },
+        "Commitor": {
+          "name": "\"Wenchen Fan\"",
+          "location": "Hangzhou, China",
+          "company": "Databricks"
+        },
+        "Date": "2019-09-25T07:54:44Z",
+        "additions": 45,
+        "deletions": 9,
+        "files": [
+          "689b45a840a5c67c9c17e9752a8feeac86b2eefc",
+          "729b1ba7ed2ca76c0eba75153c4cf68b1411b78b",
+          "bc607b5722f3226aadae93067e64b5d32801911b",
+          "9c4b8a5819a3342a46bb143112abf4b6d78fe1ed",
+          "78c6ff714f70f07a083f1c173b5907c1be1b28f4",
+          "4ad97eaa2b1c89eabcae936bae4869619a0426f9"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "spark",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T08:02:51Z",
+    "EndDate": "2019-09-25T09:02:51",
+    "Branches": 19,
+    "Forks": 20117,
+    "Files": [
+      {
+        "Sha": "72a65004e4a1750413105023fa70d2aaba8eb6e5",
+        "FileName": "Analyzer.scala",
+        "Path": "sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/analysis/Analyzer.scala",
+        "DateUpdated": "2019-09-25T09:01:36Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "a36a7235dbb38845e89cc4a1513b0030d6df31bf"
+        ]
+      },
+      {
+        "Sha": "ebb947febb6cab8d51890949452c1c97f3119832",
+        "FileName": "CatalogManager.scala",
+        "Path": "sql/catalyst/src/main/scala/org/apache/spark/sql/connector/catalog/CatalogManager.scala",
+        "DateUpdated": "2019-09-25T09:01:36Z",
+        "Additions": 45,
+        "Deletions": 15,
+        "Commits": [
+          "a36a7235dbb38845e89cc4a1513b0030d6df31bf"
+        ]
+      },
+      {
+        "Sha": "fcbf139fd97c1ebdbc526969828a797ab23280af",
+        "FileName": "CatalogManagerSuite.scala",
+        "Path": "sql/catalyst/src/test/scala/org/apache/spark/sql/connector/catalog/CatalogManagerSuite.scala",
+        "DateUpdated": "2019-09-25T09:01:36Z",
+        "Additions": 62,
+        "Deletions": 14,
+        "Commits": [
+          "a36a7235dbb38845e89cc4a1513b0030d6df31bf"
+        ]
+      },
+      {
+        "Sha": "ca27dcebb0a7778bd180210acd228eb3e2f0ec9c",
+        "FileName": "DataFrameWriterV2.scala",
+        "Path": "sql/core/src/main/scala/org/apache/spark/sql/DataFrameWriterV2.scala",
+        "DateUpdated": "2019-09-25T09:01:36Z",
+        "Additions": 1,
+        "Deletions": 5,
+        "Commits": [
+          "a36a7235dbb38845e89cc4a1513b0030d6df31bf"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a36a7235dbb38845e89cc4a1513b0030d6df31bf",
+        "Author": {
+          "name": "\"Wenchen Fan\"",
+          "location": "Hangzhou, China",
+          "company": "Databricks"
+        },
+        "Commitor": {
+          "name": "\"Gengliang Wang\""
+        },
+        "Date": "2019-09-25T09:01:36Z",
+        "additions": 110,
+        "deletions": 36,
+        "files": [
+          "72a65004e4a1750413105023fa70d2aaba8eb6e5",
+          "ebb947febb6cab8d51890949452c1c97f3119832",
+          "fcbf139fd97c1ebdbc526969828a797ab23280af",
+          "ca27dcebb0a7778bd180210acd228eb3e2f0ec9c"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "spark",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T12:03:01Z",
+    "EndDate": "2019-09-25T13:03:01",
+    "Branches": 19,
+    "Forks": 20120,
+    "Files": [
+      {
+        "Sha": "3f31403eaeef35bcde2dd8abd497ea00750b8881",
+        "FileName": "timeline-view.css",
+        "Path": "core/src/main/resources/org/apache/spark/ui/static/timeline-view.css",
+        "DateUpdated": "2019-09-25T12:15:29Z",
+        "Additions": 12,
+        "Deletions": 6,
+        "Commits": [
+          "58989cd1b009aa37b442691e3d05a98d502c635d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "58989cd1b009aa37b442691e3d05a98d502c635d",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"Dongjoon Hyun\"",
+          "location": "Sunnyvale",
+          "company": "@apple @apache "
+        },
+        "Date": "2019-09-25T12:15:29Z",
+        "additions": 12,
+        "deletions": 6,
+        "files": [
+          "3f31403eaeef35bcde2dd8abd497ea00750b8881"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "spark",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T22:02:44Z",
+    "EndDate": "2019-09-25T23:02:44",
+    "Branches": 19,
+    "Forks": 20121,
+    "Files": [
+      {
+        "Sha": "8ee90ed6f4c3b4574a9f8989a91473e43b607206",
+        "FileName": "ExpressionInfo.java",
+        "Path": "sql/catalyst/src/main/java/org/apache/spark/sql/catalyst/expressions/ExpressionInfo.java",
+        "DateUpdated": "2019-09-25T22:16:00Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "21db2f86f7c196c535e8f0b5675ae48cb2c372f7"
+        ]
+      },
+      {
+        "Sha": "2543828b6315f07a40b75cd158d7d3755be21788",
+        "FileName": "datetimeExpressions.scala",
+        "Path": "sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/datetimeExpressions.scala",
+        "DateUpdated": "2019-09-25T22:16:00Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "21db2f86f7c196c535e8f0b5675ae48cb2c372f7"
+        ]
+      },
+      {
+        "Sha": "2ec668cd5d5de45890386ad00039b77fbb633e75",
+        "FileName": "SQLQuerySuite.scala",
+        "Path": "sql/core/src/test/scala/org/apache/spark/sql/SQLQuerySuite.scala",
+        "DateUpdated": "2019-09-25T22:16:00Z",
+        "Additions": 24,
+        "Deletions": 0,
+        "Commits": [
+          "21db2f86f7c196c535e8f0b5675ae48cb2c372f7"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "21db2f86f7c196c535e8f0b5675ae48cb2c372f7",
+        "Author": {
+          "name": "\"Maxim Gekk\"",
+          "location": "Moscow, Russia"
+        },
+        "Commitor": {
+          "name": "\"Dongjoon Hyun\"",
+          "location": "Sunnyvale",
+          "company": "@apple @apache "
+        },
+        "Date": "2019-09-25T22:16:00Z",
+        "additions": 32,
+        "deletions": 1,
+        "files": [
+          "8ee90ed6f4c3b4574a9f8989a91473e43b607206",
+          "2543828b6315f07a40b75cd158d7d3755be21788",
+          "2ec668cd5d5de45890386ad00039b77fbb633e75"
+        ]
+      }
+    ]
+  }
+]

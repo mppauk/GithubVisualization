@@ -1,0 +1,106 @@
+[
+  {
+    "RepositoryName": "fineract-cn-docker-compose",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T14:04:50Z",
+    "EndDate": "2019-09-23T15:04:50",
+    "Branches": 2,
+    "Forks": 5,
+    "Files": [
+      {
+        "Sha": "29e6d5f61a78bc38705a608813ba5fd89464cdd7",
+        "FileName": "README.md",
+        "Path": "README.md",
+        "DateUpdated": "2019-09-23T14:21:01Z",
+        "Additions": 9,
+        "Deletions": 20,
+        "Commits": [
+          "f0e75eec38116a06193f14ac0ff45c4993cada0d",
+          "96753fbec198eb632f38a81d9057857c7b51862a"
+        ]
+      },
+      {
+        "Sha": "a1e4bb5d7ab1078d6d42399c402df8bf07d2e335",
+        "FileName": "docker-compose.yml",
+        "Path": "docker-compose.yml",
+        "DateUpdated": "2019-09-23T14:21:01Z",
+        "Additions": 7,
+        "Deletions": 4,
+        "Commits": [
+          "f0e75eec38116a06193f14ac0ff45c4993cada0d",
+          "96753fbec198eb632f38a81d9057857c7b51862a"
+        ]
+      },
+      {
+        "Sha": "ef7e4af69e4f17022202ceda0f5a8ace3c4a6d0d",
+        "FileName": "Fineract-Cn-Initial-Requests.postman_collection.json",
+        "Path": "postman_scripts/Fineract-Cn-Initial-Requests.postman_collection.json",
+        "DateUpdated": "2019-09-23T14:21:01Z",
+        "Additions": 2933,
+        "Deletions": 118,
+        "Commits": [
+          "f0e75eec38116a06193f14ac0ff45c4993cada0d",
+          "96753fbec198eb632f38a81d9057857c7b51862a"
+        ]
+      },
+      {
+        "Sha": "6428a726c570c2109fcd55f170c4266ea8015d39",
+        "FileName": "Fineract-Cn-Initial-Setup-Environment.postman_environment.json",
+        "Path": "postman_scripts/Fineract-Cn-Initial-Setup-Environment.postman_environment.json",
+        "DateUpdated": "2019-09-23T14:21:01Z",
+        "Additions": 35,
+        "Deletions": 10,
+        "Commits": [
+          "f0e75eec38116a06193f14ac0ff45c4993cada0d",
+          "96753fbec198eb632f38a81d9057857c7b51862a"
+        ]
+      },
+      {
+        "Sha": "1f2924bc6f483b4120bbbfc44188caf235ca6f21",
+        "FileName": "accounts_with_type.csv",
+        "Path": "postman_scripts/accounts_with_type.csv",
+        "DateUpdated": "2019-09-23T14:21:01Z",
+        "Additions": 85,
+        "Deletions": 0,
+        "Commits": [
+          "f0e75eec38116a06193f14ac0ff45c4993cada0d",
+          "96753fbec198eb632f38a81d9057857c7b51862a"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "f0e75eec38116a06193f14ac0ff45c4993cada0d",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T14:21:01Z",
+        "additions": 3069,
+        "deletions": 76,
+        "files": [
+          "29e6d5f61a78bc38705a608813ba5fd89464cdd7",
+          "a1e4bb5d7ab1078d6d42399c402df8bf07d2e335",
+          "ef7e4af69e4f17022202ceda0f5a8ace3c4a6d0d",
+          "6428a726c570c2109fcd55f170c4266ea8015d39",
+          "1f2924bc6f483b4120bbbfc44188caf235ca6f21"
+        ]
+      },
+      {
+        "sha": "96753fbec198eb632f38a81d9057857c7b51862a",
+        "Date": "2019-09-23T14:15:37Z",
+        "additions": 3069,
+        "deletions": 76,
+        "files": [
+          "29e6d5f61a78bc38705a608813ba5fd89464cdd7",
+          "a1e4bb5d7ab1078d6d42399c402df8bf07d2e335",
+          "ef7e4af69e4f17022202ceda0f5a8ace3c4a6d0d",
+          "6428a726c570c2109fcd55f170c4266ea8015d39",
+          "1f2924bc6f483b4120bbbfc44188caf235ca6f21"
+        ]
+      }
+    ]
+  }
+]

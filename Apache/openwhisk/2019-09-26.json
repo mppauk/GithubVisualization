@@ -1,0 +1,79 @@
+[
+  {
+    "RepositoryName": "openwhisk",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T12:04:21Z",
+    "EndDate": "2019-09-26T13:04:21",
+    "Branches": 2,
+    "Forks": 827,
+    "Files": [
+      {
+        "Sha": "deab30bb6d89a352adc2eb18ee416181b49b8ccf",
+        "FileName": "DockerToActivationFileLogStore.scala",
+        "Path": "common/scala/src/main/scala/org/apache/openwhisk/core/containerpool/logging/DockerToActivationFileLogStore.scala",
+        "DateUpdated": "2019-09-26T12:21:24Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "a581bea7c64677fb5a22d453f1e8c7dbcee0232d"
+        ]
+      },
+      {
+        "Sha": "93d3dcf934e97a9056077aa65d3f28294626b305",
+        "FileName": "ArtifactWithFileStorageActivationStore.scala",
+        "Path": "common/scala/src/main/scala/org/apache/openwhisk/core/database/ArtifactWithFileStorageActivationStore.scala",
+        "DateUpdated": "2019-09-26T12:21:24Z",
+        "Additions": 8,
+        "Deletions": 2,
+        "Commits": [
+          "a581bea7c64677fb5a22d453f1e8c7dbcee0232d"
+        ]
+      },
+      {
+        "Sha": "38d5f8357cb74ce32b28069a68372bb1ad2e8e91",
+        "FileName": "DockerToActivationFileLogStoreTests.scala",
+        "Path": "tests/src/test/scala/org/apache/openwhisk/core/containerpool/logging/test/DockerToActivationFileLogStoreTests.scala",
+        "DateUpdated": "2019-09-26T12:21:24Z",
+        "Additions": 4,
+        "Deletions": 8,
+        "Commits": [
+          "a581bea7c64677fb5a22d453f1e8c7dbcee0232d"
+        ]
+      },
+      {
+        "Sha": "24252905700db983a9d1e3c80533cb0bffeda987",
+        "FileName": "ArtifactWithFileStorageActivationStoreTests.scala",
+        "Path": "tests/src/test/scala/org/apache/openwhisk/core/database/ArtifactWithFileStorageActivationStoreTests.scala",
+        "DateUpdated": "2019-09-26T12:21:24Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "a581bea7c64677fb5a22d453f1e8c7dbcee0232d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a581bea7c64677fb5a22d453f1e8c7dbcee0232d",
+        "Author": {
+          "name": "\"jiangpch\"",
+          "location": "china",
+          "company": "Naver"
+        },
+        "Commitor": {
+          "name": "\"Sven Lange-Last\"",
+          "company": "IBM"
+        },
+        "Date": "2019-09-26T12:21:24Z",
+        "additions": 17,
+        "deletions": 14,
+        "files": [
+          "deab30bb6d89a352adc2eb18ee416181b49b8ccf",
+          "93d3dcf934e97a9056077aa65d3f28294626b305",
+          "38d5f8357cb74ce32b28069a68372bb1ad2e8e91",
+          "24252905700db983a9d1e3c80533cb0bffeda987"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "ProjectName": "activemq",
+    "Forks": 1087,
+    "Branches": 15
+  },
+  {
+    "ProjectName": "oozie",
+    "Forks": 398,
+    "Branches": 15
+  },
+  {
+    "ProjectName": "logging-log4j2",
+    "Forks": 493,
+    "Branches": 37
+  },
+  {
+    "ProjectName": "commons-bcel",
+    "Forks": 67,
+    "Branches": 5
+  },
+  {
+    "ProjectName": "hadoop",
+    "Forks": 5988,
+    "Branches": 269
+  },
+  {
+    "ProjectName": "tinkerpop",
+    "Forks": 497,
+    "Branches": 29
+  },
+  {
+    "ProjectName": "arrow",
+    "Forks": 1128,
+    "Branches": 6
+  },
+  {
+    "ProjectName": "commons-rng",
+    "Forks": 31,
+    "Branches": 4
+  },
+  {
+    "ProjectName": "geode-native",
+    "Forks": 42,
+    "Branches": 14
+  },
+  {
+    "ProjectName": "griffin",
+    "Forks": 312,
+    "Branches": 13
+  },
+  {
+    "ProjectName": "plc4x",
+    "Forks": 63,
+    "Branches": 20
+  },
+  {
+    "ProjectName": "plc4x-website",
+    "Forks": 3,
+    "Branches": 1
+  },
+  {
+    "ProjectName": "hbase-site",
+    "Forks": 6,
+    "Branches": 2
+  }
+]

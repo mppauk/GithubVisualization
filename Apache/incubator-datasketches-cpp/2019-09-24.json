@@ -1,0 +1,42 @@
+[
+  {
+    "RepositoryName": "incubator-datasketches-cpp",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T07:48:43Z",
+    "EndDate": "2019-09-24T08:48:43",
+    "Branches": 3,
+    "Forks": 12,
+    "Files": [
+      {
+        "Sha": "3eec4e8def50726ff2e4099b603d36b3ca671d1f",
+        "FileName": "CMakeLists.txt",
+        "Path": "cpc/CMakeLists.txt",
+        "DateUpdated": "2019-09-24T07:55:15Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b50e2dea2157cd5113d1bb22e271410a1dedec0f"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "b50e2dea2157cd5113d1bb22e271410a1dedec0f",
+        "Author": {
+          "name": "\"Jon Malkin\"",
+          "location": "Millbrae, CA",
+          "company": "@VerizonMedia"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T07:55:15Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "3eec4e8def50726ff2e4099b603d36b3ca671d1f"
+        ]
+      }
+    ]
+  }
+]

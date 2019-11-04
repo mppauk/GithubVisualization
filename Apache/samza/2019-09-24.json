@@ -1,0 +1,40 @@
+[
+  {
+    "RepositoryName": "samza",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T00:04:54Z",
+    "EndDate": "2019-09-24T01:04:54",
+    "Branches": 22,
+    "Forks": 245,
+    "Files": [
+      {
+        "Sha": "528acc66f2cc481bd40bc08c0035c736c8bfcefe",
+        "FileName": "OperatorImpl.java",
+        "Path": "samza-core/src/main/java/org/apache/samza/operators/impl/OperatorImpl.java",
+        "DateUpdated": "2019-09-24T00:35:17Z",
+        "Additions": 8,
+        "Deletions": 8,
+        "Commits": [
+          "96097a44fe9df38d04e2fc96a50c27f5e17def79"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "96097a44fe9df38d04e2fc96a50c27f5e17def79",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T00:35:17Z",
+        "additions": 8,
+        "deletions": 8,
+        "files": [
+          "528acc66f2cc481bd40bc08c0035c736c8bfcefe"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "RepositoryName": "logging-log4j2",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T14:03:28Z",
+    "EndDate": "2019-09-26T15:03:28",
+    "Branches": 37,
+    "Forks": 493,
+    "Files": [
+      {
+        "Sha": "0a466c1eaf1eb2cd6f9468588b9242afe4df4cc3",
+        "FileName": "configuration.adoc",
+        "Path": "src/site/asciidoc/manual/configuration.adoc",
+        "DateUpdated": "2019-09-26T14:14:13Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "ed3814f3dd84f864dd5bd7910af7441c201cad6e"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "ed3814f3dd84f864dd5bd7910af7441c201cad6e",
+        "Date": "2019-09-26T14:14:13Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "0a466c1eaf1eb2cd6f9468588b9242afe4df4cc3"
+        ]
+      }
+    ]
+  }
+]

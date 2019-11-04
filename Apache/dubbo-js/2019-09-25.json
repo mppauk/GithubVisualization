@@ -1,0 +1,94 @@
+[
+  {
+    "RepositoryName": "dubbo-js",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T06:03:04Z",
+    "EndDate": "2019-09-25T07:03:04",
+    "Branches": 6,
+    "Forks": 76,
+    "Files": [
+      {
+        "Sha": "77b12c3c9a3b303695b12ce3f5306b90daba23e5",
+        "FileName": "dubbo-url.ts",
+        "Path": "packages/dubbo/src/dubbo-url.ts",
+        "DateUpdated": "2019-09-25T06:56:11Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "e0839f827f83d27c89b823d0ee1f0d6db53c2c0f"
+        ]
+      },
+      {
+        "Sha": "4ffbb32f45d8f162d6dbee96eacc16d0e3195fa7",
+        "FileName": "socket-worker-test.ts",
+        "Path": "packages/dubbo/src/__tests__/socket-worker-test.ts",
+        "DateUpdated": "2019-09-25T06:55:28Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "f1ca8a41ef52d605f949fb6836230ee08a264123"
+        ]
+      },
+      {
+        "Sha": "1df3e462ba16edf69d342662d25a72fb492f60d9",
+        "FileName": "decode-buffer.ts",
+        "Path": "packages/dubbo/src/decode-buffer.ts",
+        "DateUpdated": "2019-09-25T06:55:28Z",
+        "Additions": 12,
+        "Deletions": 6,
+        "Commits": [
+          "f1ca8a41ef52d605f949fb6836230ee08a264123"
+        ]
+      },
+      {
+        "Sha": "66ba5b7c937ff249c1dc8833809bef26383718df",
+        "FileName": "socket-worker.ts",
+        "Path": "packages/dubbo/src/socket-worker.ts",
+        "DateUpdated": "2019-09-25T06:55:28Z",
+        "Additions": 29,
+        "Deletions": 7,
+        "Commits": [
+          "f1ca8a41ef52d605f949fb6836230ee08a264123"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "e0839f827f83d27c89b823d0ee1f0d6db53c2c0f",
+        "Author": {
+          "name": "\"胡锋\"",
+          "location": "中国�?�京",
+          "company": "vivo"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T06:56:11Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "77b12c3c9a3b303695b12ce3f5306b90daba23e5"
+        ]
+      },
+      {
+        "sha": "f1ca8a41ef52d605f949fb6836230ee08a264123",
+        "Author": {
+          "name": "\"胡锋\"",
+          "location": "中国�?�京",
+          "company": "vivo"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T06:55:28Z",
+        "additions": 46,
+        "deletions": 13,
+        "files": [
+          "4ffbb32f45d8f162d6dbee96eacc16d0e3195fa7",
+          "1df3e462ba16edf69d342662d25a72fb492f60d9",
+          "66ba5b7c937ff249c1dc8833809bef26383718df"
+        ]
+      }
+    ]
+  }
+]

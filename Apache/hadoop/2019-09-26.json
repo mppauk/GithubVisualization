@@ -1,0 +1,367 @@
+[
+  {
+    "RepositoryName": "hadoop",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T00:03:50Z",
+    "EndDate": "2019-09-26T01:03:50",
+    "Branches": 269,
+    "Forks": 5985,
+    "Files": [
+      {
+        "Sha": "a10f44898b08bfb4f73de89a427beeb285b3a5eb",
+        "FileName": "RMContextImpl.java",
+        "Path": "hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/RMContextImpl.java",
+        "DateUpdated": "2019-09-26T00:54:53Z",
+        "Additions": 6,
+        "Deletions": 2,
+        "Commits": [
+          "606e341c1a33393e6935d31ab05eae87742c865b"
+        ]
+      },
+      {
+        "Sha": "b9d7bceb48f9552dd8b2b68dd975ce46f260fc8f",
+        "FileName": "FunctionWithServiceException.java",
+        "Path": "hadoop-hdds/common/src/main/java/org/apache/hadoop/hdds/function/FunctionWithServiceException.java",
+        "DateUpdated": "2019-09-26T00:19:22Z",
+        "Additions": 36,
+        "Deletions": 0,
+        "Commits": [
+          "f647185905f6047fc9734b8aa37d6ef59b6082c2"
+        ]
+      },
+      {
+        "Sha": "915fe3557e2ce473144bc216808d259b04de433c",
+        "FileName": "package-info.java",
+        "Path": "hadoop-hdds/common/src/main/java/org/apache/hadoop/hdds/function/package-info.java",
+        "DateUpdated": "2019-09-26T00:19:22Z",
+        "Additions": 22,
+        "Deletions": 0,
+        "Commits": [
+          "f647185905f6047fc9734b8aa37d6ef59b6082c2"
+        ]
+      },
+      {
+        "Sha": "d67a759f8d8de85b6a9c02f28304c408848e77ea",
+        "FileName": "OzoneProtocolMessageDispatcher.java",
+        "Path": "hadoop-hdds/framework/src/main/java/org/apache/hadoop/hdds/server/OzoneProtocolMessageDispatcher.java",
+        "DateUpdated": "2019-09-26T00:19:22Z",
+        "Additions": 88,
+        "Deletions": 0,
+        "Commits": [
+          "f647185905f6047fc9734b8aa37d6ef59b6082c2"
+        ]
+      },
+      {
+        "Sha": "b6ce067c00cc5aade146137519fc113a622e299b",
+        "FileName": "ScmBlockLocationProtocolServerSideTranslatorPB.java",
+        "Path": "hadoop-hdds/server-scm/src/main/java/org/apache/hadoop/hdds/scm/protocol/ScmBlockLocationProtocolServerSideTranslatorPB.java",
+        "DateUpdated": "2019-09-26T00:19:22Z",
+        "Additions": 16,
+        "Deletions": 40,
+        "Commits": [
+          "f647185905f6047fc9734b8aa37d6ef59b6082c2"
+        ]
+      },
+      {
+        "Sha": "9d53dbf7d3b0c79b6318e99185fa1267a65b7d73",
+        "FileName": "StorageContainerLocationProtocolServerSideTranslatorPB.java",
+        "Path": "hadoop-hdds/server-scm/src/main/java/org/apache/hadoop/hdds/scm/protocol/StorageContainerLocationProtocolServerSideTranslatorPB.java",
+        "DateUpdated": "2019-09-26T00:19:22Z",
+        "Additions": 35,
+        "Deletions": 61,
+        "Commits": [
+          "f647185905f6047fc9734b8aa37d6ef59b6082c2"
+        ]
+      },
+      {
+        "Sha": "411f22e61880f32e7c04f24945906311e742e22c",
+        "FileName": "package-info.java",
+        "Path": "hadoop-hdds/server-scm/src/main/java/org/apache/hadoop/hdds/scm/protocol/package-info.java",
+        "DateUpdated": "2019-09-26T00:19:22Z",
+        "Additions": 21,
+        "Deletions": 0,
+        "Commits": [
+          "f647185905f6047fc9734b8aa37d6ef59b6082c2"
+        ]
+      },
+      {
+        "Sha": "5500891d98e9569b9a8add32bcae7c8357f3c568",
+        "FileName": "SCMBlockProtocolServer.java",
+        "Path": "hadoop-hdds/server-scm/src/main/java/org/apache/hadoop/hdds/scm/server/SCMBlockProtocolServer.java",
+        "DateUpdated": "2019-09-26T00:19:22Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "f647185905f6047fc9734b8aa37d6ef59b6082c2"
+        ]
+      },
+      {
+        "Sha": "e0136e81e59124ece59b83b09ec5550626008d33",
+        "FileName": "SCMClientProtocolServer.java",
+        "Path": "hadoop-hdds/server-scm/src/main/java/org/apache/hadoop/hdds/scm/server/SCMClientProtocolServer.java",
+        "DateUpdated": "2019-09-26T00:19:22Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "f647185905f6047fc9734b8aa37d6ef59b6082c2"
+        ]
+      },
+      {
+        "Sha": "d2044f59369b7f257f3236c0a056ca58d7c551fc",
+        "FileName": "TestSCMBlockProtocolServer.java",
+        "Path": "hadoop-hdds/server-scm/src/test/java/org/apache/hadoop/hdds/scm/server/TestSCMBlockProtocolServer.java",
+        "DateUpdated": "2019-09-26T00:19:22Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "f647185905f6047fc9734b8aa37d6ef59b6082c2"
+        ]
+      },
+      {
+        "Sha": "5ca0945238be88bd0c3dac76acf840b81bcf0c7c",
+        "FileName": "ScmProtocolBlockLocationInsight.java",
+        "Path": "hadoop-ozone/insight/src/main/java/org/apache/hadoop/ozone/insight/scm/ScmProtocolBlockLocationInsight.java",
+        "DateUpdated": "2019-09-26T00:19:22Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "f647185905f6047fc9734b8aa37d6ef59b6082c2"
+        ]
+      },
+      {
+        "Sha": "d4c029b8b3b99839ce0869b903c106cb71120b2b",
+        "FileName": "OzoneManagerProtocolServerSideTranslatorPB.java",
+        "Path": "hadoop-ozone/ozone-manager/src/main/java/org/apache/hadoop/ozone/protocolPB/OzoneManagerProtocolServerSideTranslatorPB.java",
+        "DateUpdated": "2019-09-26T00:19:22Z",
+        "Additions": 9,
+        "Deletions": 32,
+        "Commits": [
+          "f647185905f6047fc9734b8aa37d6ef59b6082c2"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "606e341c1a33393e6935d31ab05eae87742c865b",
+        "Author": {
+          "name": "\"Jonathan Hung\""
+        },
+        "Commitor": {
+          "name": "\"Jonathan Hung\""
+        },
+        "Date": "2019-09-26T00:54:53Z",
+        "additions": 6,
+        "deletions": 2,
+        "files": [
+          "a10f44898b08bfb4f73de89a427beeb285b3a5eb"
+        ]
+      },
+      {
+        "sha": "f647185905f6047fc9734b8aa37d6ef59b6082c2",
+        "Author": {
+          "name": "\"Elek, Márton\""
+        },
+        "Commitor": {
+          "name": "\"Anu Engineer\""
+        },
+        "Date": "2019-09-26T00:19:22Z",
+        "additions": 231,
+        "deletions": 139,
+        "files": [
+          "b9d7bceb48f9552dd8b2b68dd975ce46f260fc8f",
+          "915fe3557e2ce473144bc216808d259b04de433c",
+          "d67a759f8d8de85b6a9c02f28304c408848e77ea",
+          "b6ce067c00cc5aade146137519fc113a622e299b",
+          "9d53dbf7d3b0c79b6318e99185fa1267a65b7d73",
+          "411f22e61880f32e7c04f24945906311e742e22c",
+          "5500891d98e9569b9a8add32bcae7c8357f3c568",
+          "e0136e81e59124ece59b83b09ec5550626008d33",
+          "d2044f59369b7f257f3236c0a056ca58d7c551fc",
+          "5ca0945238be88bd0c3dac76acf840b81bcf0c7c",
+          "d4c029b8b3b99839ce0869b903c106cb71120b2b"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "hadoop",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T04:02:52Z",
+    "EndDate": "2019-09-26T05:02:52",
+    "Branches": 269,
+    "Forks": 5985,
+    "Files": [
+      {
+        "Sha": "6380d0ca788cd2ba1c750d90e1909e410254cfb2",
+        "FileName": "Mkdir.java",
+        "Path": "hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/shell/Mkdir.java",
+        "DateUpdated": "2019-09-26T04:45:13Z",
+        "Additions": 1,
+        "Deletions": 3,
+        "Commits": [
+          "587a8eeec8145a8831a36e66b3c45fbff1e3c4c9"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "587a8eeec8145a8831a36e66b3c45fbff1e3c4c9",
+        "Author": {
+          "name": "\"Gabor Bota\"",
+          "location": "Budapest",
+          "company": "Cloudera"
+        },
+        "Commitor": {
+          "name": "\"Ayush Saxena\"",
+          "location": "India"
+        },
+        "Date": "2019-09-26T04:45:13Z",
+        "additions": 1,
+        "deletions": 3,
+        "files": [
+          "6380d0ca788cd2ba1c750d90e1909e410254cfb2"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "hadoop",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T10:03:04Z",
+    "EndDate": "2019-09-26T11:03:04",
+    "Branches": 269,
+    "Forks": 5986,
+    "Files": [
+      {
+        "Sha": "0e0b3982bbfb4130ca1e886b9e814a7746503276",
+        "FileName": "OMBucketDeleteResponse.java",
+        "Path": "hadoop-ozone/ozone-manager/src/main/java/org/apache/hadoop/ozone/om/response/bucket/OMBucketDeleteResponse.java",
+        "DateUpdated": "2019-09-26T10:09:28Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "7b6219a8d12d82e90f9b0246092333721813e948"
+        ]
+      },
+      {
+        "Sha": "0eb97f326a25e662bdcfe7cd0ae0f5395a2c5f2e",
+        "FileName": "OMKeyCommitResponse.java",
+        "Path": "hadoop-ozone/ozone-manager/src/main/java/org/apache/hadoop/ozone/om/response/key/OMKeyCommitResponse.java",
+        "DateUpdated": "2019-09-26T10:09:28Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7b6219a8d12d82e90f9b0246092333721813e948"
+        ]
+      },
+      {
+        "Sha": "1a8ce1b3a8353e3c49b6ee86acf598b045650852",
+        "FileName": "OMKeyDeleteResponse.java",
+        "Path": "hadoop-ozone/ozone-manager/src/main/java/org/apache/hadoop/ozone/om/response/key/OMKeyDeleteResponse.java",
+        "DateUpdated": "2019-09-26T10:09:28Z",
+        "Additions": 7,
+        "Deletions": 3,
+        "Commits": [
+          "7b6219a8d12d82e90f9b0246092333721813e948"
+        ]
+      },
+      {
+        "Sha": "513b94d29ac5b5c298c57c47b3da564a5c42bcad",
+        "FileName": "OMKeyPurgeResponse.java",
+        "Path": "hadoop-ozone/ozone-manager/src/main/java/org/apache/hadoop/ozone/om/response/key/OMKeyPurgeResponse.java",
+        "DateUpdated": "2019-09-26T10:09:28Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7b6219a8d12d82e90f9b0246092333721813e948"
+        ]
+      },
+      {
+        "Sha": "0e9ae17577ca4dfaf62faad3a02520ae4f357184",
+        "FileName": "OMKeyRenameResponse.java",
+        "Path": "hadoop-ozone/ozone-manager/src/main/java/org/apache/hadoop/ozone/om/response/key/OMKeyRenameResponse.java",
+        "DateUpdated": "2019-09-26T10:09:28Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "7b6219a8d12d82e90f9b0246092333721813e948"
+        ]
+      },
+      {
+        "Sha": "4fd270a8c6d5fd9afb2fd020562da628cdaf4810",
+        "FileName": "S3MultipartUploadAbortResponse.java",
+        "Path": "hadoop-ozone/ozone-manager/src/main/java/org/apache/hadoop/ozone/om/response/s3/multipart/S3MultipartUploadAbortResponse.java",
+        "DateUpdated": "2019-09-26T10:09:28Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "7b6219a8d12d82e90f9b0246092333721813e948"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "7b6219a8d12d82e90f9b0246092333721813e948",
+        "Author": {
+          "name": "\"Vivek Ratnavel Subramanian\"",
+          "location": "Santa Clara",
+          "company": "Hortonworks"
+        },
+        "Commitor": {
+          "name": "\"Elek, Márton\""
+        },
+        "Date": "2019-09-26T10:09:28Z",
+        "additions": 15,
+        "deletions": 9,
+        "files": [
+          "0e0b3982bbfb4130ca1e886b9e814a7746503276",
+          "0eb97f326a25e662bdcfe7cd0ae0f5395a2c5f2e",
+          "1a8ce1b3a8353e3c49b6ee86acf598b045650852",
+          "513b94d29ac5b5c298c57c47b3da564a5c42bcad",
+          "0e9ae17577ca4dfaf62faad3a02520ae4f357184",
+          "4fd270a8c6d5fd9afb2fd020562da628cdaf4810"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "hadoop",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T14:04:06Z",
+    "EndDate": "2019-09-26T15:04:06",
+    "Branches": 269,
+    "Forks": 5988,
+    "Files": [
+      {
+        "Sha": "92e7c4d040112539feed4640de1087345670d824",
+        "FileName": "HDFSCommands.md",
+        "Path": "hadoop-hdfs-project/hadoop-hdfs/src/site/markdown/HDFSCommands.md",
+        "DateUpdated": "2019-09-26T14:24:07Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "a3f68933d720ce981603fcf5dcaa1103837d4be5"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a3f68933d720ce981603fcf5dcaa1103837d4be5",
+        "Author": {
+          "name": "\"Ayush Saxena\"",
+          "location": "India"
+        },
+        "Commitor": {
+          "name": "\"Ayush Saxena\"",
+          "location": "India"
+        },
+        "Date": "2019-09-26T14:24:07Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "92e7c4d040112539feed4640de1087345670d824"
+        ]
+      }
+    ]
+  }
+]

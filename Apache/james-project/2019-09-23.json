@@ -1,0 +1,2582 @@
+[
+  {
+    "RepositoryName": "james-project",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T02:02:53Z",
+    "EndDate": "2019-09-23T03:02:53",
+    "Branches": 17,
+    "Forks": 254,
+    "Files": [
+      {
+        "Sha": "1e7eed78de7dbcf13ae93d9459cc194edb92137f",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-23T02:16:39Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "70f3f277a106b509e99ada5d9af61df603dee21d"
+        ]
+      },
+      {
+        "Sha": "d3cb8729ce5d23fa8da3cdc1cc9191210a271fcf",
+        "FileName": "pom.xml",
+        "Path": "mailbox/cassandra/pom.xml",
+        "DateUpdated": "2019-09-23T02:16:04Z",
+        "Additions": 13,
+        "Deletions": 0,
+        "Commits": [
+          "c89a8b2fc502879e1faf9c270a78541bd49c26a2"
+        ]
+      },
+      {
+        "Sha": "e6cea0fc3b570c20062699539a66d1a2f3022255",
+        "FileName": "Constants.java",
+        "Path": "backends-common/rabbitmq/src/main/java/org/apache/james/backend/rabbitmq/Constants.java",
+        "DateUpdated": "2019-09-23T02:13:59Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "e644a6f591a3fe4423538aa98941d53b048560d0"
+        ]
+      },
+      {
+        "Sha": "3cc93ae643cce9d0aa9882bbb07e3238ce5cde56",
+        "FileName": "InMemoryConsumer.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backend/rabbitmq/InMemoryConsumer.java",
+        "DateUpdated": "2019-09-23T02:13:59Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "e644a6f591a3fe4423538aa98941d53b048560d0"
+        ]
+      },
+      {
+        "Sha": "b4066a18f582c328d301c72b0bbfd79b5472fa9c",
+        "FileName": "RabbitMQClusterTest.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backend/rabbitmq/RabbitMQClusterTest.java",
+        "DateUpdated": "2019-09-23T02:13:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "e644a6f591a3fe4423538aa98941d53b048560d0"
+        ]
+      },
+      {
+        "Sha": "d85825884b8a8ba6af74be92924401e9c3821eaa",
+        "FileName": "RabbitMQTest.java",
+        "Path": "backends-common/rabbitmq/src/test/java/org/apache/james/backend/rabbitmq/RabbitMQTest.java",
+        "DateUpdated": "2019-09-23T02:13:59Z",
+        "Additions": 79,
+        "Deletions": 0,
+        "Commits": [
+          "e644a6f591a3fe4423538aa98941d53b048560d0"
+        ]
+      },
+      {
+        "Sha": "a6637b852e6955ce70600dd56fccb6738bd368ac",
+        "FileName": "CassandraMessageIdMapper.java",
+        "Path": "mailbox/cassandra/src/main/java/org/apache/james/mailbox/cassandra/mail/CassandraMessageIdMapper.java",
+        "DateUpdated": "2019-09-23T02:13:24Z",
+        "Additions": 4,
+        "Deletions": 5,
+        "Commits": [
+          "da13fb2739f8bd8bca7a12f624783e1983592d64"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "70f3f277a106b509e99ada5d9af61df603dee21d",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-23T02:16:39Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "1e7eed78de7dbcf13ae93d9459cc194edb92137f"
+        ]
+      },
+      {
+        "sha": "c89a8b2fc502879e1faf9c270a78541bd49c26a2",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-23T02:16:04Z",
+        "additions": 13,
+        "deletions": 0,
+        "files": [
+          "d3cb8729ce5d23fa8da3cdc1cc9191210a271fcf"
+        ]
+      },
+      {
+        "sha": "e644a6f591a3fe4423538aa98941d53b048560d0",
+        "Author": {
+          "name": "\"Matthieu Baechler\"",
+          "location": "Privas, France",
+          "company": "Baechler Craftsmanship"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-23T02:13:59Z",
+        "additions": 84,
+        "deletions": 4,
+        "files": [
+          "e6cea0fc3b570c20062699539a66d1a2f3022255",
+          "3cc93ae643cce9d0aa9882bbb07e3238ce5cde56",
+          "b4066a18f582c328d301c72b0bbfd79b5472fa9c",
+          "d85825884b8a8ba6af74be92924401e9c3821eaa"
+        ]
+      },
+      {
+        "sha": "da13fb2739f8bd8bca7a12f624783e1983592d64",
+        "Author": {
+          "name": "\"Rémi Kowalski\""
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-23T02:13:24Z",
+        "additions": 4,
+        "deletions": 5,
+        "files": [
+          "a6637b852e6955ce70600dd56fccb6738bd368ac"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "james-project",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T09:02:45Z",
+    "EndDate": "2019-09-23T10:02:45",
+    "Branches": 17,
+    "Forks": 253,
+    "Files": [
+      {
+        "Sha": "19ebfff5496fb716acece64d34baf90034e07ffc",
+        "FileName": "logback-test.xml",
+        "Path": "testing/base/src/main/resources/logback-test.xml",
+        "DateUpdated": "2019-09-23T09:15:57Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "68f26e9add99e63e684db8bba6d5a799e85abfba"
+        ]
+      },
+      {
+        "Sha": "32f454f6a0cbdfcf61513aa8865ac65e92774321",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-23T09:15:35Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "9c475d3f0d95acd8c51add8a847ba7ca80be34fd"
+        ]
+      },
+      {
+        "Sha": "38d8717749753a0eb10ed261739d7b64b35d39a9",
+        "FileName": "BayesianAnalysisFeeder.java",
+        "Path": "server/mailet/mailets/src/main/java/org/apache/james/transport/mailets/BayesianAnalysisFeeder.java",
+        "DateUpdated": "2019-09-23T09:14:32Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "5ce80350bbb13399938a112ddb94db29635febeb"
+        ]
+      },
+      {
+        "Sha": "890108553cc360b44df2c489962b2369120473c3",
+        "FileName": "DSNBounce.java",
+        "Path": "server/mailet/mailets/src/main/java/org/apache/james/transport/mailets/DSNBounce.java",
+        "DateUpdated": "2019-09-23T09:14:32Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "5ce80350bbb13399938a112ddb94db29635febeb"
+        ]
+      },
+      {
+        "Sha": "ecb3abcc4c7e0640bc1209b3722f092214443c1a",
+        "FileName": "FromRepository.java",
+        "Path": "server/mailet/mailets/src/main/java/org/apache/james/transport/mailets/FromRepository.java",
+        "DateUpdated": "2019-09-23T09:14:32Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "5ce80350bbb13399938a112ddb94db29635febeb"
+        ]
+      },
+      {
+        "Sha": "3e7fd72de4f574bded587a4d4f78eb59de3972c4",
+        "FileName": "Redirect.java",
+        "Path": "server/mailet/mailets/src/main/java/org/apache/james/transport/mailets/Redirect.java",
+        "DateUpdated": "2019-09-23T09:14:32Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "5ce80350bbb13399938a112ddb94db29635febeb"
+        ]
+      },
+      {
+        "Sha": "29740672fd9227634c01aff5611a379df272c243",
+        "FileName": "SPF.java",
+        "Path": "server/mailet/mailets/src/main/java/org/apache/james/transport/mailets/SPF.java",
+        "DateUpdated": "2019-09-23T09:14:32Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "5ce80350bbb13399938a112ddb94db29635febeb"
+        ]
+      },
+      {
+        "Sha": "572bec1eff63777ff828afca5f9e51861102cf67",
+        "FileName": "WhiteListManager.java",
+        "Path": "server/mailet/mailets/src/main/java/org/apache/james/transport/mailets/WhiteListManager.java",
+        "DateUpdated": "2019-09-23T09:14:32Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "5ce80350bbb13399938a112ddb94db29635febeb"
+        ]
+      },
+      {
+        "Sha": "347e79ff7ab6eebfe247ba1e8a72e9d8bc407b6a",
+        "FileName": "InstrumentationMailet.java",
+        "Path": "server/mailet/mailets/src/test/java/org/apache/james/samples/mailets/InstrumentationMailet.java",
+        "DateUpdated": "2019-09-23T09:14:32Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "5ce80350bbb13399938a112ddb94db29635febeb"
+        ]
+      },
+      {
+        "Sha": "963941769c6d855e5f120d9fe0b3d62316ea77fa",
+        "FileName": "site.xml",
+        "Path": "src/site/site.xml",
+        "DateUpdated": "2019-09-23T09:14:03Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "e1072a24e42b19765c6bb76003c793b2f02eec08"
+        ]
+      },
+      {
+        "Sha": "aa35f7106673292083cd0b89bf379a40d78b4802",
+        "FileName": "config-listeners.xml",
+        "Path": "src/site/xdoc/server/config-listeners.xml",
+        "DateUpdated": "2019-09-23T09:13:38Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "1ffc03f900288fd1851fce8fb0e8b31f3daccf6a"
+        ]
+      },
+      {
+        "Sha": "8b9fe24ee26ffc34d4071184895f80704dd02141",
+        "FileName": "dev-extend-mailet.xml",
+        "Path": "src/site/xdoc/server/dev-extend-mailet.xml",
+        "DateUpdated": "2019-09-23T09:13:38Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "1ffc03f900288fd1851fce8fb0e8b31f3daccf6a"
+        ]
+      },
+      {
+        "Sha": "274d90df3a0581f689ecd55ace393f03dcf8e0d4",
+        "FileName": "dev-extend-matcher.xml",
+        "Path": "src/site/xdoc/server/dev-extend-matcher.xml",
+        "DateUpdated": "2019-09-23T09:13:38Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "1ffc03f900288fd1851fce8fb0e8b31f3daccf6a"
+        ]
+      },
+      {
+        "Sha": "c68a4d9f10b0e9f6b78576290bb0c4b711b3cb36",
+        "FileName": "extensions.properties",
+        "Path": "dockerfiles/run/guice/cassandra-ldap/destination/conf/extensions.properties",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 10,
+        "Deletions": 0,
+        "Commits": [
+          "13176731d4d8c6d41f67308c8904100ccd930dfc",
+          "13176731d4d8c6d41f67308c8904100ccd930dfc",
+          "13176731d4d8c6d41f67308c8904100ccd930dfc",
+          "13176731d4d8c6d41f67308c8904100ccd930dfc",
+          "13176731d4d8c6d41f67308c8904100ccd930dfc",
+          "13176731d4d8c6d41f67308c8904100ccd930dfc",
+          "13176731d4d8c6d41f67308c8904100ccd930dfc"
+        ]
+      },
+      {
+        "Sha": "7bdec59af9a184ae1f405b711c2ba49f2d1f5c5e",
+        "FileName": "GuiceGenericLoader.java",
+        "Path": "server/container/guice/guice-utils/src/main/java/org/apache/james/utils/GuiceGenericLoader.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 16,
+        "Deletions": 3,
+        "Commits": [
+          "07aa858a35e50e5bc141e8031fbf8aa7f3b0db9d"
+        ]
+      },
+      {
+        "Sha": "205229aef322b55e811afd1ae8e382178e02b540",
+        "FileName": "ExtensionConfiguration.java",
+        "Path": "server/container/guice/guice-utils/src/main/java/org/apache/james/utils/ExtensionConfiguration.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "35ca6d84613fa8657f14491465da564c64b822b4"
+        ]
+      },
+      {
+        "Sha": "71fd9668b9abcc47d214db9d81af20fd2b22db76",
+        "FileName": "GuiceGenericLoader.java",
+        "Path": "server/container/guice/guice-utils/src/main/java/org/apache/james/utils/GuiceGenericLoader.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "35ca6d84613fa8657f14491465da564c64b822b4"
+        ]
+      },
+      {
+        "Sha": "b5333d6bf48a53bde7569dfac9e83dacc76e506b",
+        "FileName": "GuiceMailetLoaderTest.java",
+        "Path": "server/container/guice/mailet/src/test/java/org/apache/james/utils/GuiceMailetLoaderTest.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 28,
+        "Deletions": 15,
+        "Commits": [
+          "35ca6d84613fa8657f14491465da564c64b822b4"
+        ]
+      },
+      {
+        "Sha": "f3e110f6210f1539d5d305d470f5adba53c20f88",
+        "FileName": "GuiceMatcherLoaderTest.java",
+        "Path": "server/container/guice/mailet/src/test/java/org/apache/james/utils/GuiceMatcherLoaderTest.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 7,
+        "Deletions": 11,
+        "Commits": [
+          "35ca6d84613fa8657f14491465da564c64b822b4"
+        ]
+      },
+      {
+        "Sha": "bd866d94d2a5cfed750b8372e4fe8b7b4b53473f",
+        "FileName": "custom-mailets-implementation-3.5.0-SNAPSHOT.jar",
+        "Path": "server/container/guice/mailet/src/test/resources/recursive/extensions-jars/custom-mailets-implementation-3.5.0-SNAPSHOT.jar",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "35ca6d84613fa8657f14491465da564c64b822b4"
+        ]
+      },
+      {
+        "Sha": "2f73d5b7f7f862c6a4e7e0748ff42dc4e0e97226",
+        "FileName": "james-server-guice-custom-mailets-3.5.0-SNAPSHOT-jar-with-dependencies.jar",
+        "Path": "server/container/guice/mailet/src/test/resources/recursive/extensions-jars/james-server-guice-custom-mailets-3.5.0-SNAPSHOT-jar-with-dependencies.jar",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "35ca6d84613fa8657f14491465da564c64b822b4"
+        ]
+      },
+      {
+        "Sha": "6132e7f2fa0b4104e9ae31ffe3673b4bb9fa6b83",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/testing/custom-mailets-implementation/pom.xml",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 43,
+        "Deletions": 0,
+        "Commits": [
+          "35ca6d84613fa8657f14491465da564c64b822b4"
+        ]
+      },
+      {
+        "Sha": "cd6b70fce64febe1638d450e6f6493b993acea7f",
+        "FileName": "MyExtensionModule.java",
+        "Path": "server/container/guice/testing/custom-mailets-implementation/src/main/java/org/apache/james/transport/mailets/MyExtensionModule.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 30,
+        "Deletions": 0,
+        "Commits": [
+          "35ca6d84613fa8657f14491465da564c64b822b4"
+        ]
+      },
+      {
+        "Sha": "49dd7c8409a3c311f1685e35733d3c3ae3900397",
+        "FileName": "MyInterfaceImplementation.java",
+        "Path": "server/container/guice/testing/custom-mailets-implementation/src/main/java/org/apache/james/transport/mailets/MyInterfaceImplementation.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 27,
+        "Deletions": 0,
+        "Commits": [
+          "35ca6d84613fa8657f14491465da564c64b822b4"
+        ]
+      },
+      {
+        "Sha": "a0e28d4ae62866d0f6d5e303897d6201c6b66461",
+        "FileName": "MyGenericMailet.java",
+        "Path": "server/container/guice/testing/custom-mailets/src/main/java/org/apache/james/transport/mailets/MyGenericMailet.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 40,
+        "Deletions": 0,
+        "Commits": [
+          "35ca6d84613fa8657f14491465da564c64b822b4"
+        ]
+      },
+      {
+        "Sha": "f1748ceb9489c1beaf12d8f4fcbdc1a8408544e3",
+        "FileName": "MyInterface.java",
+        "Path": "server/container/guice/testing/custom-mailets/src/main/java/org/apache/james/transport/mailets/MyInterface.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 24,
+        "Deletions": 0,
+        "Commits": [
+          "35ca6d84613fa8657f14491465da564c64b822b4"
+        ]
+      },
+      {
+        "Sha": "6b561ce4e036d22b22ff5fdafa48a7b5abb56620",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/testing/pom.xml",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "35ca6d84613fa8657f14491465da564c64b822b4"
+        ]
+      },
+      {
+        "Sha": "28a1da6a79dcab836fad1bed0553ae08d472681d",
+        "FileName": "CommonServicesModule.java",
+        "Path": "server/container/guice/guice-common/src/main/java/org/apache/james/modules/CommonServicesModule.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "581594857a43e11d7c1c10f88c19cef773672e83"
+        ]
+      },
+      {
+        "Sha": "adc8f23319712db1167e8244ecdbed9ef9164735",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/guice-utils/pom.xml",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "581594857a43e11d7c1c10f88c19cef773672e83"
+        ]
+      },
+      {
+        "Sha": "88069b0322c094af3d82f1143b60d2250afbf6b9",
+        "FileName": "ExtensionConfiguration.java",
+        "Path": "server/container/guice/guice-utils/src/main/java/org/apache/james/utils/ExtensionConfiguration.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 50,
+        "Deletions": 0,
+        "Commits": [
+          "581594857a43e11d7c1c10f88c19cef773672e83"
+        ]
+      },
+      {
+        "Sha": "1407151a3129a3c10d2e8ba6746de8cdc50c4a7f",
+        "FileName": "ExtensionModule.java",
+        "Path": "server/container/guice/guice-utils/src/main/java/org/apache/james/utils/ExtensionModule.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 50,
+        "Deletions": 0,
+        "Commits": [
+          "581594857a43e11d7c1c10f88c19cef773672e83"
+        ]
+      },
+      {
+        "Sha": "871c52b0d592ff1d3a3eab222a02c5715246fbaa",
+        "FileName": "GuiceGenericLoader.java",
+        "Path": "server/container/guice/guice-utils/src/main/java/org/apache/james/utils/GuiceGenericLoader.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 23,
+        "Deletions": 13,
+        "Commits": [
+          "581594857a43e11d7c1c10f88c19cef773672e83"
+        ]
+      },
+      {
+        "Sha": "515380de4cc801886c8e4b718a9facea41532625",
+        "FileName": "ExtensionConfigurationTest.java",
+        "Path": "server/container/guice/guice-utils/src/test/java/org/apache/james/utils/ExtensionConfigurationTest.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 24,
+        "Deletions": 0,
+        "Commits": [
+          "581594857a43e11d7c1c10f88c19cef773672e83"
+        ]
+      },
+      {
+        "Sha": "bc921fb89f73101fc431123861e0840b3aeb8f04",
+        "FileName": "MailboxListenersLoaderImplTest.java",
+        "Path": "server/container/guice/mailbox/src/test/java/org/apache/james/modules/mailbox/MailboxListenersLoaderImplTest.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "581594857a43e11d7c1c10f88c19cef773672e83"
+        ]
+      },
+      {
+        "Sha": "d8adc15e808a0c86794163ec518fb90e0b9ca887",
+        "FileName": "PreDeletionHookLoaderImplTest.java",
+        "Path": "server/container/guice/mailbox/src/test/java/org/apache/james/modules/mailbox/PreDeletionHookLoaderImplTest.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "581594857a43e11d7c1c10f88c19cef773672e83"
+        ]
+      },
+      {
+        "Sha": "b9a4b5cf42b5dba8d805463627ef9569fd97ce29",
+        "FileName": "GuiceProtocolHandlerLoader.java",
+        "Path": "server/container/guice/guice-common/src/main/java/org/apache/james/utils/GuiceProtocolHandlerLoader.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 7,
+        "Deletions": 11,
+        "Commits": [
+          "2eef538bd30cd9f2a07ad5a44829e6b569fb898c"
+        ]
+      },
+      {
+        "Sha": "74d36573472b0df382455cedbf62cf737e07bada",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/guice-utils/pom.xml",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "2eef538bd30cd9f2a07ad5a44829e6b569fb898c"
+        ]
+      },
+      {
+        "Sha": "d9c69439c5ab85add8d72f689be46f09ebbf1060",
+        "FileName": "GuiceGenericLoader.java",
+        "Path": "server/container/guice/guice-utils/src/main/java/org/apache/james/utils/GuiceGenericLoader.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 91,
+        "Deletions": 0,
+        "Commits": [
+          "2eef538bd30cd9f2a07ad5a44829e6b569fb898c"
+        ]
+      },
+      {
+        "Sha": "d85d4f128506f1554cd435f0660282ef4c81a53f",
+        "FileName": "MailboxListenerFactory.java",
+        "Path": "server/container/guice/mailbox/src/main/java/org/apache/james/modules/mailbox/MailboxListenerFactory.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 19,
+        "Deletions": 14,
+        "Commits": [
+          "2eef538bd30cd9f2a07ad5a44829e6b569fb898c"
+        ]
+      },
+      {
+        "Sha": "883acc88a69509890c4af1e5c158294d753035f6",
+        "FileName": "MailboxListenersLoaderImpl.java",
+        "Path": "server/container/guice/mailbox/src/main/java/org/apache/james/modules/mailbox/MailboxListenersLoaderImpl.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 4,
+        "Deletions": 6,
+        "Commits": [
+          "2eef538bd30cd9f2a07ad5a44829e6b569fb898c"
+        ]
+      },
+      {
+        "Sha": "5b67a1b377a2a04ccd34162a99f704ec3496e60c",
+        "FileName": "PreDeletionHookLoaderImpl.java",
+        "Path": "server/container/guice/mailbox/src/main/java/org/apache/james/modules/mailbox/PreDeletionHookLoaderImpl.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 8,
+        "Deletions": 11,
+        "Commits": [
+          "2eef538bd30cd9f2a07ad5a44829e6b569fb898c"
+        ]
+      },
+      {
+        "Sha": "a538053537cc5480e87f0160385f36397fc6f523",
+        "FileName": "MailboxListenersLoaderImplTest.java",
+        "Path": "server/container/guice/mailbox/src/test/java/org/apache/james/modules/mailbox/MailboxListenersLoaderImplTest.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 4,
+        "Deletions": 2,
+        "Commits": [
+          "2eef538bd30cd9f2a07ad5a44829e6b569fb898c"
+        ]
+      },
+      {
+        "Sha": "0a898e57b0ed8a223d4e115ef0e872d1605d0534",
+        "FileName": "PreDeletionHookLoaderImplTest.java",
+        "Path": "server/container/guice/mailbox/src/test/java/org/apache/james/modules/mailbox/PreDeletionHookLoaderImplTest.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 5,
+        "Deletions": 1,
+        "Commits": [
+          "2eef538bd30cd9f2a07ad5a44829e6b569fb898c"
+        ]
+      },
+      {
+        "Sha": "d8c618816c8bdd22929f132fbdf711a16b3fb4e9",
+        "FileName": "GuiceGenericLoader.java",
+        "Path": "server/container/guice/mailet/src/main/java/org/apache/james/utils/GuiceGenericLoader.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 13,
+        "Deletions": 74,
+        "Commits": [
+          "2eef538bd30cd9f2a07ad5a44829e6b569fb898c",
+          "897debed28864e03088a7ec4f6bd78b0c2cbb08c"
+        ]
+      },
+      {
+        "Sha": "3bcfd4a53351fc9b3d21af590010b801a9cc5654",
+        "FileName": "GuiceMailetLoader.java",
+        "Path": "server/container/guice/mailet/src/main/java/org/apache/james/utils/GuiceMailetLoader.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "2eef538bd30cd9f2a07ad5a44829e6b569fb898c"
+        ]
+      },
+      {
+        "Sha": "5e55622f3af076a9a25ab1940917f5a67ff0d047",
+        "FileName": "GuiceMatcherLoader.java",
+        "Path": "server/container/guice/mailet/src/main/java/org/apache/james/utils/GuiceMatcherLoader.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "2eef538bd30cd9f2a07ad5a44829e6b569fb898c"
+        ]
+      },
+      {
+        "Sha": "635685bc10a85822748d626f62af1fe305fb7728",
+        "FileName": "GuiceMailetLoaderTest.java",
+        "Path": "server/container/guice/mailet/src/test/java/org/apache/james/utils/GuiceMailetLoaderTest.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 14,
+        "Deletions": 21,
+        "Commits": [
+          "2eef538bd30cd9f2a07ad5a44829e6b569fb898c"
+        ]
+      },
+      {
+        "Sha": "7f77af8182412bf11336fe7b336c7df857be9a60",
+        "FileName": "GuiceMatcherLoaderTest.java",
+        "Path": "server/container/guice/mailet/src/test/java/org/apache/james/utils/GuiceMatcherLoaderTest.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 14,
+        "Deletions": 14,
+        "Commits": [
+          "2eef538bd30cd9f2a07ad5a44829e6b569fb898c"
+        ]
+      },
+      {
+        "Sha": "4b8b922fee0037583a5653cc8b4d2651b94d2963",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/guice-utils/pom.xml",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 20,
+        "Deletions": 0,
+        "Commits": [
+          "897debed28864e03088a7ec4f6bd78b0c2cbb08c"
+        ]
+      },
+      {
+        "Sha": "83217e8593ba22e3cb9828b41ba1adac5bb6c6af",
+        "FileName": "ClassName.java",
+        "Path": "server/container/guice/guice-utils/src/main/java/org/apache/james/utils/ClassName.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 68,
+        "Deletions": 0,
+        "Commits": [
+          "897debed28864e03088a7ec4f6bd78b0c2cbb08c"
+        ]
+      },
+      {
+        "Sha": "5602a68b6fad733fc51c318cb45b2f286633fb9b",
+        "FileName": "ExtendedClassLoader.java",
+        "Path": "server/container/guice/guice-utils/src/main/java/org/apache/james/utils/ExtendedClassLoader.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "897debed28864e03088a7ec4f6bd78b0c2cbb08c"
+        ]
+      },
+      {
+        "Sha": "64c421d530da9f6598b4847d7c70445f0ca8ba36",
+        "FileName": "FullyQualifiedClassName.java",
+        "Path": "server/container/guice/guice-utils/src/main/java/org/apache/james/utils/FullyQualifiedClassName.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 54,
+        "Deletions": 0,
+        "Commits": [
+          "897debed28864e03088a7ec4f6bd78b0c2cbb08c"
+        ]
+      },
+      {
+        "Sha": "4042a2e406b98563241e93cef5b791a7b58f1051",
+        "FileName": "NamingScheme.java",
+        "Path": "server/container/guice/guice-utils/src/main/java/org/apache/james/utils/NamingScheme.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 43,
+        "Deletions": 0,
+        "Commits": [
+          "897debed28864e03088a7ec4f6bd78b0c2cbb08c"
+        ]
+      },
+      {
+        "Sha": "188fcd89a1b8b7f093e37a2ca591fd38a9000466",
+        "FileName": "PackageName.java",
+        "Path": "server/container/guice/guice-utils/src/main/java/org/apache/james/utils/PackageName.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 80,
+        "Deletions": 0,
+        "Commits": [
+          "897debed28864e03088a7ec4f6bd78b0c2cbb08c"
+        ]
+      },
+      {
+        "Sha": "111a8e9c519ffa114a232b3f3dff0e05b6951ce7",
+        "FileName": "ClassNameTest.java",
+        "Path": "server/container/guice/guice-utils/src/test/java/org/apache/james/utils/ClassNameTest.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 102,
+        "Deletions": 0,
+        "Commits": [
+          "897debed28864e03088a7ec4f6bd78b0c2cbb08c"
+        ]
+      },
+      {
+        "Sha": "6dff3dd62a49548d7d489ae3e613987ec734a562",
+        "FileName": "FullyQualifiedClassNameTest.java",
+        "Path": "server/container/guice/guice-utils/src/test/java/org/apache/james/utils/FullyQualifiedClassNameTest.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 61,
+        "Deletions": 0,
+        "Commits": [
+          "897debed28864e03088a7ec4f6bd78b0c2cbb08c"
+        ]
+      },
+      {
+        "Sha": "22a3dc6ff553296b8e9bf487dea66eb31d18bda2",
+        "FileName": "NamingSchemeTest.java",
+        "Path": "server/container/guice/guice-utils/src/test/java/org/apache/james/utils/NamingSchemeTest.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 78,
+        "Deletions": 0,
+        "Commits": [
+          "897debed28864e03088a7ec4f6bd78b0c2cbb08c"
+        ]
+      },
+      {
+        "Sha": "cce1a01528df524b166a20e9f6ad52794a07ea84",
+        "FileName": "PackageNameTest.java",
+        "Path": "server/container/guice/guice-utils/src/test/java/org/apache/james/utils/PackageNameTest.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 72,
+        "Deletions": 0,
+        "Commits": [
+          "897debed28864e03088a7ec4f6bd78b0c2cbb08c"
+        ]
+      },
+      {
+        "Sha": "ac6296d7346bbe837b83953e1e7ae512f7e05cfd",
+        "FileName": "GuiceMailetLoader.java",
+        "Path": "server/container/guice/mailet/src/main/java/org/apache/james/utils/GuiceMailetLoader.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "897debed28864e03088a7ec4f6bd78b0c2cbb08c"
+        ]
+      },
+      {
+        "Sha": "6d2f8748bd4d2aba69d420cb8d9792ed6a62b4e1",
+        "FileName": "GuiceMatcherLoader.java",
+        "Path": "server/container/guice/mailet/src/main/java/org/apache/james/utils/GuiceMatcherLoader.java",
+        "DateUpdated": "2019-09-23T09:13:37Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "897debed28864e03088a7ec4f6bd78b0c2cbb08c"
+        ]
+      },
+      {
+        "Sha": "f07ea9e3902fe358d0fcc78477e8aa85e21e13ee",
+        "FileName": "pom.xml",
+        "Path": "mailet/standard/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 5,
+        "Commits": [
+          "bdc688142a3da7c9b716ef58f82a801095714d50"
+        ]
+      },
+      {
+        "Sha": "8606143b7d8397f4ae7f4493b86e1560b9e1c14e",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 5,
+        "Commits": [
+          "bdc688142a3da7c9b716ef58f82a801095714d50"
+        ]
+      },
+      {
+        "Sha": "dc31de1a0fb8e710ef1ea6957e650ad64ccfe69a",
+        "FileName": "FileModule.java",
+        "Path": "mpt/impl/managesieve/file/src/test/java/org/apache/james/mpt/managesieve/file/FileModule.java",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 33,
+        "Commits": [
+          "39502dcdac50f6fd98422e1cc92b021b3b26517e"
+        ]
+      },
+      {
+        "Sha": "8879b46147552b4d2cd04517075ee8e66cfae1d9",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/cassandra-guice/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "39502dcdac50f6fd98422e1cc92b021b3b26517e"
+        ]
+      },
+      {
+        "Sha": "8447c9737f4f241ad052bb3aa6f0f1bbf2ff10dd",
+        "FileName": "pom.xml",
+        "Path": "backends-common/cassandra/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 9,
+        "Deletions": 10,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "e8035f461afb324d197939d51853d132e6aa350d",
+        "FileName": "pom.xml",
+        "Path": "core/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 5,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "9740849b3be2e7db5bfe2afde923796cbe0aaaa6",
+        "FileName": "pom.xml",
+        "Path": "event-sourcing/event-sourcing-pojo/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 2,
+        "Deletions": 7,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "96329bf7102d7f7a9acb204340ea328d76d8f6ac",
+        "FileName": "pom.xml",
+        "Path": "event-sourcing/event-store-api/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "fe13eeceb4776b3e5cdf764e2d5a6ac77584f079",
+        "FileName": "pom.xml",
+        "Path": "examples/custom-listeners/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "e5c912c6945b97e82a50accff7daf013a3693ee9",
+        "FileName": "pom.xml",
+        "Path": "mailbox/api/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 5,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "1446d40d2925e0ef577a6fa527940ddc25c2d324",
+        "FileName": "pom.xml",
+        "Path": "mailbox/cassandra/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 17,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "6e0d0f69e68b72b86ee672d91cc30c48669d132e",
+        "FileName": "pom.xml",
+        "Path": "mailbox/event/event-cassandra/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "282845c45aceee32094f1242845b8f552b77428a",
+        "FileName": "pom.xml",
+        "Path": "mailbox/maildir/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 6,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "86f67d9346b8413670d7760e30d4f45f745dc2b3",
+        "FileName": "pom.xml",
+        "Path": "mailbox/plugin/quota-mailing-cassandra/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 6,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "432fc5586b7a0c6f858e976f4e9e4db47c14b710",
+        "FileName": "pom.xml",
+        "Path": "mailbox/plugin/quota-mailing/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "0eba5952cf584d0a144db143e988147e4588ffa5",
+        "FileName": "pom.xml",
+        "Path": "mailbox/store/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 9,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "cb8ac1b5658f8f3c737ac436f0fd9c1f4d9d899e",
+        "FileName": "pom.xml",
+        "Path": "mailbox/tika/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 1,
+        "Deletions": 9,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "4f453f11b0b22e57f32b349c0a4876f3b54594b6",
+        "FileName": "pom.xml",
+        "Path": "mailbox/tools/copier/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 15,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "1551ef37b3a9f3058d1b63cb774a944df5a34151",
+        "FileName": "pom.xml",
+        "Path": "mailbox/tools/indexer/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 6,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "ef689c3a0150bcf6a3b6bcc7de104fb1f4ab47c3",
+        "FileName": "pom.xml",
+        "Path": "mailet/api/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 8,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "6d03fb2578b84f898c4f77044d6af03947266a68",
+        "FileName": "pom.xml",
+        "Path": "mailet/base/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 19,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "611667282f59e6d0b5f7f5311cff1f0a0b9027a9",
+        "FileName": "pom.xml",
+        "Path": "mailet/icalendar/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 6,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "8a2f911df5bc543de759c16b0d5aa8c950d7f088",
+        "FileName": "pom.xml",
+        "Path": "mailet/standard/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 6,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "f1967d27ab7d3c5998aed5f91a23419da9c62c8a",
+        "FileName": "pom.xml",
+        "Path": "mailet/test/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 26,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "20e24234156b9c4ed2460ea586ca21b6e61c4c0e",
+        "FileName": "pom.xml",
+        "Path": "metrics/metrics-dropwizard/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "5408ba9c46fe1b1b79926a53679097a9bdad92d6",
+        "FileName": "pom.xml",
+        "Path": "metrics/metrics-tests/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "9aa888674c08ddf0d6bbdcb73393b19e4b632bc9",
+        "FileName": "pom.xml",
+        "Path": "mpt/all/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 5,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "f50abb3914390a7434211e98923e21779681c071",
+        "FileName": "pom.xml",
+        "Path": "mpt/app/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 10,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "82d04037a3c02d136774188cb80555849c3fc3da",
+        "FileName": "pom.xml",
+        "Path": "mpt/core/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 21,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "c88c88383a76aaa98a8b10d17acc2af73a2a03f8",
+        "FileName": "pom.xml",
+        "Path": "mpt/impl/imap-mailbox/cassandra/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "6b6bd0f4742717609a85529675decd8594961ae5",
+        "FileName": "pom.xml",
+        "Path": "mpt/impl/imap-mailbox/core/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 17,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "b41d420206f237e2f286614e867b9e9b021ce13f",
+        "FileName": "pom.xml",
+        "Path": "mpt/impl/imap-mailbox/cyrus/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "ffdf24a07bfc165943a29edc80d0cee7d4a6ae1e",
+        "FileName": "pom.xml",
+        "Path": "mpt/impl/imap-mailbox/external-james/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 12,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "f2008ce5a14278a2f74eb9b997c6a2e358e14b04",
+        "FileName": "pom.xml",
+        "Path": "mpt/impl/managesieve/core/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "da52df06f400f9099e4737d1c28b37e78ae1bca5",
+        "FileName": "pom.xml",
+        "Path": "mpt/impl/smtp/cassandra-rabbitmq-object-storage/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 18,
+        "Deletions": 0,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "df09731573143849a505bcf9c1c16ce632f8b259",
+        "FileName": "pom.xml",
+        "Path": "mpt/impl/smtp/cassandra/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "7bdb785b66bc9f3a951bc4f293e1670588bc92d8",
+        "FileName": "pom.xml",
+        "Path": "mpt/impl/smtp/core/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 17,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "67f472d75b2bbf9758ff4f6e0d06ee78abaec9d9",
+        "FileName": "pom.xml",
+        "Path": "mpt/mavenplugin/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 11,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "b4292e08c61648598fd7e87b71212bc9189a7009",
+        "FileName": "pom.xml",
+        "Path": "mpt/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "fa4fa1d31044bcf0f9d1e51fafe0b6c310412471",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 10,
+        "Deletions": 10,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "000e30b25f885bb8b315c51609641ee31f6bb5c7",
+        "FileName": "pom.xml",
+        "Path": "protocols/imap/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 5,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "c45fb1e39e7ad43f44bb769f0c7cb3f518d8cfb3",
+        "FileName": "pom.xml",
+        "Path": "protocols/managesieve/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 5,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "f4ebeccf6f5ca8ab5b7a678b86ace593f1f47310",
+        "FileName": "pom.xml",
+        "Path": "server/blob/blob-api/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "335540d2bcf0aa4e1c85ec7e462e7d82b26e12bc",
+        "FileName": "pom.xml",
+        "Path": "server/blob/blob-export-api/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "5fdaaed7727f54aa891300ed15ecf9427e6d8654",
+        "FileName": "pom.xml",
+        "Path": "server/container/cli-integration/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "fdcb2902a6966a30a5e3258d65ef2dc47a22320d",
+        "FileName": "pom.xml",
+        "Path": "server/container/core/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 4,
+        "Deletions": 10,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "4a978c45039838b463c49bc71122f6ed25b97e8d",
+        "FileName": "pom.xml",
+        "Path": "server/container/filesystem-api/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "d3f7df5d6e10c63627498b8a93c6089475cf1618",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/activemq/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "9efbdfb527b7aa1d9cea998c7ce5fffd7504410a",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/blob-api-guice/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "2077277b3aa82536f37364ee8a71b2e5bcf63acd",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/blob-export-guice/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "b250197928f1dd03acc0f9c9dad074b2441f3aa1",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/blob-memory-guice/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "cc031dc2ea51dd26eabfa80a8d2a1e0c4a7adf5a",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/blob-objectstorage-guice/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "62797693ca1583d97e858ca524f1af79133586f7",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/cassandra-guice/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 4,
+        "Deletions": 22,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "c35cc7424c7bbd2dc599badd5cdef08f909f546b",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/cassandra-rabbitmq-guice/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 21,
+        "Deletions": 0,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "955d20a965f91d732114c8e141c04e0032b96047",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/cassandra-rabbitmq-ldap-guice/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "96a75e6d54dccd17b2473bbed2c993362b5e5bd3",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/es-metric-reporter/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "8b8a84cb662c2c7e9b3fce18edbb540319cddacc",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/guice-common/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 49,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "02cdd6971a92c43327dd6f5739e52c80c2d874c5",
+        "FileName": "MailetProcessingModule.java",
+        "Path": "server/container/guice/guice-common/src/main/java/org/apache/james/modules/MailetProcessingModule.java",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 2,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "84d47f7dbcc45132834793e47f89676c4c3ede3a",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/jpa-guice/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 8,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "1bc50cd0945c391aa4039b0a7c9fffcaa3973ca1",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/jpa-smtp-mariadb/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "a2cd4a435c3e9ce630215d4f74c2c1827f1bafbc",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/jpa-smtp/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "0ae9efc54b72b4b87448aa5b766f289b34b2528c",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/mailbox-plugin-deleted-messages-vault-guice/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "38d33cc0d74e574e65c58da440b80acf7b9815f1",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/mailet/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "133a0fd014fc5d8aee20162f3a427db4eecfc287",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/memory-guice/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 12,
+        "Deletions": 6,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "b495c3e72abf01d3d913b150cea159bd9d4e135f",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/protocols/imap/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "dc5156fb55ce3b0b739e4dab04168b08f9eab2ea",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/protocols/jmap-draft/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "3d7ead06c65841efff14c51e0e55987b73e2fcf1",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/protocols/managedsieve/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "313f6bf614f1a764bff12429460f3603cc09000f",
+        "FileName": "ManageSieveServerModule.java",
+        "Path": "server/container/guice/protocols/managedsieve/src/main/java/org/apache/james/modules/protocols/ManageSieveServerModule.java",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "6badb99089eab4a22204b00ef2e0cead0021b040",
+        "FileName": "SieveModule.java",
+        "Path": "server/container/guice/protocols/managedsieve/src/main/java/org/apache/james/modules/protocols/SieveModule.java",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 36,
+        "Deletions": 0,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "5902f0db5b1a82586f583c876f60406af303593f",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/protocols/netty/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "164eebe962793db039745853c53bba5a81e89649",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/protocols/webadmin-cassandra-data/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "55d0760a4f6e783cb4f659bd15100022ff308398",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/protocols/webadmin-cassandra/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "bb802b2971d511e9200c77b04f7bafb0150cd665",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/protocols/webadmin-data/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "ec479d465d8653d7fda85a1210b1ecf0f53ab225",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/protocols/webadmin-mailbox/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "36db02e960c4975b74e822e02515c8869ee2188a",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/protocols/webadmin-mailqueue/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "88fa446675acc4f2e08967a01fcce83a53472a1e",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/protocols/webadmin-mailrepository/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "69c254f192cd0fd716972cebb32162e1291adae1",
+        "FileName": "pom.xml",
+        "Path": "server/container/guice/protocols/webadmin-swagger/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "5c80c030387e0c4885957f678d55023dd04a56c4",
+        "FileName": "pom.xml",
+        "Path": "server/container/jetty/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 12,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "9f020e4e214ebd5fd16e47701664a1629bd58c07",
+        "FileName": "pom.xml",
+        "Path": "server/container/lifecycle-api/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "bacc97d82cdf0de3306fc62e1b126298ef420e60",
+        "FileName": "pom.xml",
+        "Path": "server/container/mailbox-adapter/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 12,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "fb1024cdb1cff6f7351da413d3a500f933e0f12e",
+        "FileName": "pom.xml",
+        "Path": "server/container/util/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 6,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "6a8d9479d89917bdc142c1f36d1cd6d42fcfa699",
+        "FileName": "pom.xml",
+        "Path": "server/data/data-api/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 5,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "6dbafcb0edf4249ee9b837ee0348d5de7c6c62f7",
+        "FileName": "pom.xml",
+        "Path": "server/data/data-cassandra/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "249ae81aad64918727e266c74a8377d3ed8bc9de",
+        "FileName": "pom.xml",
+        "Path": "server/data/data-jmap/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "bf78bb33b0a6019a4f106814853df7a67c508c02",
+        "FileName": "pom.xml",
+        "Path": "server/data/data-jpa/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 5,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "eba8fc6d4e212ecb25d3fa2a58d8d2306cea33b5",
+        "FileName": "pom.xml",
+        "Path": "server/data/data-library/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 10,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "f4805f5096f4fe3b395f50bf103d9b91360ddd64",
+        "FileName": "pom.xml",
+        "Path": "server/data/data-memory/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "9b0820add0e164be76bb99c4ba11576aee86e7eb",
+        "FileName": "pom.xml",
+        "Path": "server/dns-service/dnsservice-api/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 13,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "8549f10b823570280ae13b9c7f11c33c629624d5",
+        "FileName": "pom.xml",
+        "Path": "server/mailet/integration-testing/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 20,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "6fd3b237d42ef9a4a04b12afae54b75443a10d4a",
+        "FileName": "pom.xml",
+        "Path": "server/mailet/mailetcontainer-camel/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 15,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "8ac7d062933f6bfc518b069cf2ec524365688dc4",
+        "FileName": "pom.xml",
+        "Path": "server/mailet/mailets/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 28,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "4876cde58917b774cf9d87f44789c63e78443d73",
+        "FileName": "pom.xml",
+        "Path": "server/mailrepository/mailrepository-api/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 6,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "fa09f08d5ae8136effe6488ecfb57060a7e01276",
+        "FileName": "pom.xml",
+        "Path": "server/mailrepository/mailrepository-memory/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 9,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "ee1a5493588bf08fb5b73a1bd9a983959f9b9936",
+        "FileName": "pom.xml",
+        "Path": "server/protocols/jmap-draft-integration-testing/cassandra-jmap-draft-integration-testing/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "e96d99598be75bab1d49717fd2ec03d5ed7fdd58",
+        "FileName": "pom.xml",
+        "Path": "server/protocols/jmap-draft-integration-testing/jmap-draft-integration-testing-common/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 7,
+        "Deletions": 15,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "edf56b309624c050ccbbd33f26c8ed3d718328c0",
+        "FileName": "pom.xml",
+        "Path": "server/protocols/jmap-draft-integration-testing/rabbitmq-jmap-draft-integration-testing/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "c5734e8155b17b4951b858aa81f083f681155766",
+        "FileName": "pom.xml",
+        "Path": "server/protocols/jmap-draft/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 45,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "521e0d9ed5b31734a07bf67dbc3f866be91bc6cf",
+        "FileName": "pom.xml",
+        "Path": "server/protocols/protocols-imap4/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 9,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "68fbe032cf5ed3976f4d2f320ac1376e3c6d7d97",
+        "FileName": "pom.xml",
+        "Path": "server/protocols/protocols-lmtp/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 16,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "dfab5b95d8fc36120fc6ba19728ec11870f41d6f",
+        "FileName": "pom.xml",
+        "Path": "server/protocols/protocols-managesieve/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "c0a384b45ae5efdd470c37c4024cc6474a7bbe06",
+        "FileName": "pom.xml",
+        "Path": "server/protocols/protocols-pop3/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 19,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "88eae800cc469a44eed688de078dbd5a6a600abd",
+        "FileName": "pom.xml",
+        "Path": "server/protocols/protocols-smtp/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 33,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "8b3de92257b63816631ce2c0b805d100065d7624",
+        "FileName": "pom.xml",
+        "Path": "server/protocols/webadmin/webadmin-cassandra-data/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 5,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "40350ac032fcc42c31c50df470cba8de02d23e6e",
+        "FileName": "pom.xml",
+        "Path": "server/protocols/webadmin/webadmin-cassandra/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 5,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "c85dcf684bfb5b95925d8e9088132c00c8497960",
+        "FileName": "pom.xml",
+        "Path": "server/protocols/webadmin/webadmin-core/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 9,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "30b0527e8dd9fc8698ce36e0e3c9efce6e644321",
+        "FileName": "pom.xml",
+        "Path": "server/protocols/webadmin/webadmin-data/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 9,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "7a032a33f5359d55fc71596c7d1b307868425de8",
+        "FileName": "pom.xml",
+        "Path": "server/protocols/webadmin/webadmin-mailbox-deleted-message-vault/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 16,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "e763c7b2cec546df086d8c5be60593f97a6b4443",
+        "FileName": "pom.xml",
+        "Path": "server/protocols/webadmin/webadmin-mailbox/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 11,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "599d199953cb12a7e9809db4436d9ab3dab3f723",
+        "FileName": "pom.xml",
+        "Path": "server/protocols/webadmin/webadmin-mailrepository/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 6,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "8f977eda44637e396241f441a58c2032e50e9fd1",
+        "FileName": "pom.xml",
+        "Path": "server/queue/queue-activemq/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 21,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "81c1abc2f6d925bef5de6f9ea2e08b5dec52e665",
+        "FileName": "pom.xml",
+        "Path": "server/queue/queue-api/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 21,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "07ee0a0ccbf0b58332d05a94d216e227c7413759",
+        "FileName": "pom.xml",
+        "Path": "server/queue/queue-file/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 12,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "80f638d082647be85444f2ff43fb818e043846f8",
+        "FileName": "pom.xml",
+        "Path": "server/queue/queue-jms/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 19,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "0b4b89613ba4660a6879705284159cb9af39ae5a",
+        "FileName": "pom.xml",
+        "Path": "server/queue/queue-memory/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 3,
+        "Deletions": 10,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "9719c9cbd1629ce290312abdc473ee0f6d131a47",
+        "FileName": "pom.xml",
+        "Path": "server/task-distributed/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 4,
+        "Deletions": 11,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "7159106c3b3d4918396126168816a316c8962053",
+        "FileName": "pom.xml",
+        "Path": "server/task-json/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 11,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "b0d3e9a8564ed0e9734e87b9cb13c7f04ef1aad4",
+        "FileName": "pom.xml",
+        "Path": "server/testing/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 23,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      },
+      {
+        "Sha": "4268cabb6a2fce7262e1bcb7f953b9cdd7e3437e",
+        "FileName": "pom.xml",
+        "Path": "third-party/spamassassin/pom.xml",
+        "DateUpdated": "2019-09-23T09:11:59Z",
+        "Additions": 0,
+        "Deletions": 6,
+        "Commits": [
+          "369e6c1a047323663228124b4b78b316df30a394"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "68f26e9add99e63e684db8bba6d5a799e85abfba",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-23T09:15:57Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "19ebfff5496fb716acece64d34baf90034e07ffc"
+        ]
+      },
+      {
+        "sha": "9c475d3f0d95acd8c51add8a847ba7ca80be34fd",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-23T09:15:35Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "32f454f6a0cbdfcf61513aa8865ac65e92774321"
+        ]
+      },
+      {
+        "sha": "5ce80350bbb13399938a112ddb94db29635febeb",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-23T09:14:32Z",
+        "additions": 7,
+        "deletions": 14,
+        "files": [
+          "38d8717749753a0eb10ed261739d7b64b35d39a9",
+          "890108553cc360b44df2c489962b2369120473c3",
+          "ecb3abcc4c7e0640bc1209b3722f092214443c1a",
+          "3e7fd72de4f574bded587a4d4f78eb59de3972c4",
+          "29740672fd9227634c01aff5611a379df272c243",
+          "572bec1eff63777ff828afca5f9e51861102cf67",
+          "347e79ff7ab6eebfe247ba1e8a72e9d8bc407b6a"
+        ]
+      },
+      {
+        "sha": "e1072a24e42b19765c6bb76003c793b2f02eec08",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-23T09:14:03Z",
+        "additions": 0,
+        "deletions": 1,
+        "files": [
+          "963941769c6d855e5f120d9fe0b3d62316ea77fa"
+        ]
+      },
+      {
+        "sha": "1ffc03f900288fd1851fce8fb0e8b31f3daccf6a",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-23T09:13:38Z",
+        "additions": 24,
+        "deletions": 0,
+        "files": [
+          "aa35f7106673292083cd0b89bf379a40d78b4802",
+          "8b9fe24ee26ffc34d4071184895f80704dd02141",
+          "274d90df3a0581f689ecd55ace393f03dcf8e0d4"
+        ]
+      },
+      {
+        "sha": "13176731d4d8c6d41f67308c8904100ccd930dfc",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-23T09:13:37Z",
+        "additions": 70,
+        "deletions": 0,
+        "files": [
+          "c68a4d9f10b0e9f6b78576290bb0c4b711b3cb36",
+          "c68a4d9f10b0e9f6b78576290bb0c4b711b3cb36",
+          "c68a4d9f10b0e9f6b78576290bb0c4b711b3cb36",
+          "c68a4d9f10b0e9f6b78576290bb0c4b711b3cb36",
+          "c68a4d9f10b0e9f6b78576290bb0c4b711b3cb36",
+          "c68a4d9f10b0e9f6b78576290bb0c4b711b3cb36",
+          "c68a4d9f10b0e9f6b78576290bb0c4b711b3cb36"
+        ]
+      },
+      {
+        "sha": "07aa858a35e50e5bc141e8031fbf8aa7f3b0db9d",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-23T09:13:37Z",
+        "additions": 16,
+        "deletions": 3,
+        "files": [
+          "7bdec59af9a184ae1f405b711c2ba49f2d1f5c5e"
+        ]
+      },
+      {
+        "sha": "35ca6d84613fa8657f14491465da564c64b822b4",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-23T09:13:37Z",
+        "additions": 208,
+        "deletions": 27,
+        "files": [
+          "205229aef322b55e811afd1ae8e382178e02b540",
+          "71fd9668b9abcc47d214db9d81af20fd2b22db76",
+          "b5333d6bf48a53bde7569dfac9e83dacc76e506b",
+          "f3e110f6210f1539d5d305d470f5adba53c20f88",
+          "bd866d94d2a5cfed750b8372e4fe8b7b4b53473f",
+          "2f73d5b7f7f862c6a4e7e0748ff42dc4e0e97226",
+          "6132e7f2fa0b4104e9ae31ffe3673b4bb9fa6b83",
+          "cd6b70fce64febe1638d450e6f6493b993acea7f",
+          "49dd7c8409a3c311f1685e35733d3c3ae3900397",
+          "a0e28d4ae62866d0f6d5e303897d6201c6b66461",
+          "f1748ceb9489c1beaf12d8f4fcbdc1a8408544e3",
+          "6b561ce4e036d22b22ff5fdafa48a7b5abb56620"
+        ]
+      },
+      {
+        "sha": "581594857a43e11d7c1c10f88c19cef773672e83",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-23T09:13:37Z",
+        "additions": 155,
+        "deletions": 16,
+        "files": [
+          "28a1da6a79dcab836fad1bed0553ae08d472681d",
+          "adc8f23319712db1167e8244ecdbed9ef9164735",
+          "88069b0322c094af3d82f1143b60d2250afbf6b9",
+          "1407151a3129a3c10d2e8ba6746de8cdc50c4a7f",
+          "871c52b0d592ff1d3a3eab222a02c5715246fbaa",
+          "515380de4cc801886c8e4b718a9facea41532625",
+          "bc921fb89f73101fc431123861e0840b3aeb8f04",
+          "d8adc15e808a0c86794163ec518fb90e0b9ca887"
+        ]
+      },
+      {
+        "sha": "2eef538bd30cd9f2a07ad5a44829e6b569fb898c",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-23T09:13:37Z",
+        "additions": 180,
+        "deletions": 147,
+        "files": [
+          "b9a4b5cf42b5dba8d805463627ef9569fd97ce29",
+          "74d36573472b0df382455cedbf62cf737e07bada",
+          "d9c69439c5ab85add8d72f689be46f09ebbf1060",
+          "d85d4f128506f1554cd435f0660282ef4c81a53f",
+          "883acc88a69509890c4af1e5c158294d753035f6",
+          "5b67a1b377a2a04ccd34162a99f704ec3496e60c",
+          "a538053537cc5480e87f0160385f36397fc6f523",
+          "0a898e57b0ed8a223d4e115ef0e872d1605d0534",
+          "d8c618816c8bdd22929f132fbdf711a16b3fb4e9",
+          "3bcfd4a53351fc9b3d21af590010b801a9cc5654",
+          "5e55622f3af076a9a25ab1940917f5a67ff0d047",
+          "635685bc10a85822748d626f62af1fe305fb7728",
+          "7f77af8182412bf11336fe7b336c7df857be9a60"
+        ]
+      },
+      {
+        "sha": "897debed28864e03088a7ec4f6bd78b0c2cbb08c",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-23T09:13:37Z",
+        "additions": 603,
+        "deletions": 29,
+        "files": [
+          "4b8b922fee0037583a5653cc8b4d2651b94d2963",
+          "83217e8593ba22e3cb9828b41ba1adac5bb6c6af",
+          "5602a68b6fad733fc51c318cb45b2f286633fb9b",
+          "64c421d530da9f6598b4847d7c70445f0ca8ba36",
+          "4042a2e406b98563241e93cef5b791a7b58f1051",
+          "188fcd89a1b8b7f093e37a2ca591fd38a9000466",
+          "111a8e9c519ffa114a232b3f3dff0e05b6951ce7",
+          "6dff3dd62a49548d7d489ae3e613987ec734a562",
+          "22a3dc6ff553296b8e9bf487dea66eb31d18bda2",
+          "cce1a01528df524b166a20e9f6ad52794a07ea84",
+          "d8c618816c8bdd22929f132fbdf711a16b3fb4e9",
+          "ac6296d7346bbe837b83953e1e7ae512f7e05cfd",
+          "6d2f8748bd4d2aba69d420cb8d9792ed6a62b4e1"
+        ]
+      },
+      {
+        "sha": "bdc688142a3da7c9b716ef58f82a801095714d50",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-23T09:11:59Z",
+        "additions": 0,
+        "deletions": 10,
+        "files": [
+          "f07ea9e3902fe358d0fcc78477e8aa85e21e13ee",
+          "8606143b7d8397f4ae7f4493b86e1560b9e1c14e"
+        ]
+      },
+      {
+        "sha": "39502dcdac50f6fd98422e1cc92b021b3b26517e",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-23T09:11:59Z",
+        "additions": 8,
+        "deletions": 33,
+        "files": [
+          "dc31de1a0fb8e710ef1ea6957e650ad64ccfe69a",
+          "8879b46147552b4d2cd04517075ee8e66cfae1d9"
+        ]
+      },
+      {
+        "sha": "369e6c1a047323663228124b4b78b316df30a394",
+        "Author": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Commitor": {
+          "name": "\"Tellier Benoit\"",
+          "location": "Hanoï",
+          "company": "Linagora"
+        },
+        "Date": "2019-09-23T09:11:59Z",
+        "additions": 221,
+        "deletions": 955,
+        "files": [
+          "8447c9737f4f241ad052bb3aa6f0f1bbf2ff10dd",
+          "e8035f461afb324d197939d51853d132e6aa350d",
+          "9740849b3be2e7db5bfe2afde923796cbe0aaaa6",
+          "96329bf7102d7f7a9acb204340ea328d76d8f6ac",
+          "fe13eeceb4776b3e5cdf764e2d5a6ac77584f079",
+          "e5c912c6945b97e82a50accff7daf013a3693ee9",
+          "1446d40d2925e0ef577a6fa527940ddc25c2d324",
+          "6e0d0f69e68b72b86ee672d91cc30c48669d132e",
+          "282845c45aceee32094f1242845b8f552b77428a",
+          "86f67d9346b8413670d7760e30d4f45f745dc2b3",
+          "432fc5586b7a0c6f858e976f4e9e4db47c14b710",
+          "0eba5952cf584d0a144db143e988147e4588ffa5",
+          "cb8ac1b5658f8f3c737ac436f0fd9c1f4d9d899e",
+          "4f453f11b0b22e57f32b349c0a4876f3b54594b6",
+          "1551ef37b3a9f3058d1b63cb774a944df5a34151",
+          "ef689c3a0150bcf6a3b6bcc7de104fb1f4ab47c3",
+          "6d03fb2578b84f898c4f77044d6af03947266a68",
+          "611667282f59e6d0b5f7f5311cff1f0a0b9027a9",
+          "8a2f911df5bc543de759c16b0d5aa8c950d7f088",
+          "f1967d27ab7d3c5998aed5f91a23419da9c62c8a",
+          "20e24234156b9c4ed2460ea586ca21b6e61c4c0e",
+          "5408ba9c46fe1b1b79926a53679097a9bdad92d6",
+          "9aa888674c08ddf0d6bbdcb73393b19e4b632bc9",
+          "f50abb3914390a7434211e98923e21779681c071",
+          "82d04037a3c02d136774188cb80555849c3fc3da",
+          "c88c88383a76aaa98a8b10d17acc2af73a2a03f8",
+          "6b6bd0f4742717609a85529675decd8594961ae5",
+          "b41d420206f237e2f286614e867b9e9b021ce13f",
+          "ffdf24a07bfc165943a29edc80d0cee7d4a6ae1e",
+          "f2008ce5a14278a2f74eb9b997c6a2e358e14b04",
+          "da52df06f400f9099e4737d1c28b37e78ae1bca5",
+          "df09731573143849a505bcf9c1c16ce632f8b259",
+          "7bdb785b66bc9f3a951bc4f293e1670588bc92d8",
+          "67f472d75b2bbf9758ff4f6e0d06ee78abaec9d9",
+          "b4292e08c61648598fd7e87b71212bc9189a7009",
+          "fa4fa1d31044bcf0f9d1e51fafe0b6c310412471",
+          "000e30b25f885bb8b315c51609641ee31f6bb5c7",
+          "c45fb1e39e7ad43f44bb769f0c7cb3f518d8cfb3",
+          "f4ebeccf6f5ca8ab5b7a678b86ace593f1f47310",
+          "335540d2bcf0aa4e1c85ec7e462e7d82b26e12bc",
+          "5fdaaed7727f54aa891300ed15ecf9427e6d8654",
+          "fdcb2902a6966a30a5e3258d65ef2dc47a22320d",
+          "4a978c45039838b463c49bc71122f6ed25b97e8d",
+          "d3f7df5d6e10c63627498b8a93c6089475cf1618",
+          "9efbdfb527b7aa1d9cea998c7ce5fffd7504410a",
+          "2077277b3aa82536f37364ee8a71b2e5bcf63acd",
+          "b250197928f1dd03acc0f9c9dad074b2441f3aa1",
+          "cc031dc2ea51dd26eabfa80a8d2a1e0c4a7adf5a",
+          "62797693ca1583d97e858ca524f1af79133586f7",
+          "c35cc7424c7bbd2dc599badd5cdef08f909f546b",
+          "955d20a965f91d732114c8e141c04e0032b96047",
+          "96a75e6d54dccd17b2473bbed2c993362b5e5bd3",
+          "8b8a84cb662c2c7e9b3fce18edbb540319cddacc",
+          "02cdd6971a92c43327dd6f5739e52c80c2d874c5",
+          "84d47f7dbcc45132834793e47f89676c4c3ede3a",
+          "1bc50cd0945c391aa4039b0a7c9fffcaa3973ca1",
+          "a2cd4a435c3e9ce630215d4f74c2c1827f1bafbc",
+          "0ae9efc54b72b4b87448aa5b766f289b34b2528c",
+          "38d33cc0d74e574e65c58da440b80acf7b9815f1",
+          "133a0fd014fc5d8aee20162f3a427db4eecfc287",
+          "b495c3e72abf01d3d913b150cea159bd9d4e135f",
+          "dc5156fb55ce3b0b739e4dab04168b08f9eab2ea",
+          "3d7ead06c65841efff14c51e0e55987b73e2fcf1",
+          "313f6bf614f1a764bff12429460f3603cc09000f",
+          "6badb99089eab4a22204b00ef2e0cead0021b040",
+          "5902f0db5b1a82586f583c876f60406af303593f",
+          "164eebe962793db039745853c53bba5a81e89649",
+          "55d0760a4f6e783cb4f659bd15100022ff308398",
+          "bb802b2971d511e9200c77b04f7bafb0150cd665",
+          "ec479d465d8653d7fda85a1210b1ecf0f53ab225",
+          "36db02e960c4975b74e822e02515c8869ee2188a",
+          "88fa446675acc4f2e08967a01fcce83a53472a1e",
+          "69c254f192cd0fd716972cebb32162e1291adae1",
+          "5c80c030387e0c4885957f678d55023dd04a56c4",
+          "9f020e4e214ebd5fd16e47701664a1629bd58c07",
+          "bacc97d82cdf0de3306fc62e1b126298ef420e60",
+          "fb1024cdb1cff6f7351da413d3a500f933e0f12e",
+          "6a8d9479d89917bdc142c1f36d1cd6d42fcfa699",
+          "6dbafcb0edf4249ee9b837ee0348d5de7c6c62f7",
+          "249ae81aad64918727e266c74a8377d3ed8bc9de",
+          "bf78bb33b0a6019a4f106814853df7a67c508c02",
+          "eba8fc6d4e212ecb25d3fa2a58d8d2306cea33b5",
+          "f4805f5096f4fe3b395f50bf103d9b91360ddd64",
+          "9b0820add0e164be76bb99c4ba11576aee86e7eb",
+          "8549f10b823570280ae13b9c7f11c33c629624d5",
+          "6fd3b237d42ef9a4a04b12afae54b75443a10d4a",
+          "8ac7d062933f6bfc518b069cf2ec524365688dc4",
+          "4876cde58917b774cf9d87f44789c63e78443d73",
+          "fa09f08d5ae8136effe6488ecfb57060a7e01276",
+          "ee1a5493588bf08fb5b73a1bd9a983959f9b9936",
+          "e96d99598be75bab1d49717fd2ec03d5ed7fdd58",
+          "edf56b309624c050ccbbd33f26c8ed3d718328c0",
+          "c5734e8155b17b4951b858aa81f083f681155766",
+          "521e0d9ed5b31734a07bf67dbc3f866be91bc6cf",
+          "68fbe032cf5ed3976f4d2f320ac1376e3c6d7d97",
+          "dfab5b95d8fc36120fc6ba19728ec11870f41d6f",
+          "c0a384b45ae5efdd470c37c4024cc6474a7bbe06",
+          "88eae800cc469a44eed688de078dbd5a6a600abd",
+          "8b3de92257b63816631ce2c0b805d100065d7624",
+          "40350ac032fcc42c31c50df470cba8de02d23e6e",
+          "c85dcf684bfb5b95925d8e9088132c00c8497960",
+          "30b0527e8dd9fc8698ce36e0e3c9efce6e644321",
+          "7a032a33f5359d55fc71596c7d1b307868425de8",
+          "e763c7b2cec546df086d8c5be60593f97a6b4443",
+          "599d199953cb12a7e9809db4436d9ab3dab3f723",
+          "8f977eda44637e396241f441a58c2032e50e9fd1",
+          "81c1abc2f6d925bef5de6f9ea2e08b5dec52e665",
+          "07ee0a0ccbf0b58332d05a94d216e227c7413759",
+          "80f638d082647be85444f2ff43fb818e043846f8",
+          "0b4b89613ba4660a6879705284159cb9af39ae5a",
+          "9719c9cbd1629ce290312abdc473ee0f6d131a47",
+          "7159106c3b3d4918396126168816a316c8962053",
+          "b0d3e9a8564ed0e9734e87b9cb13c7f04ef1aad4",
+          "4268cabb6a2fce7262e1bcb7f953b9cdd7e3437e"
+        ]
+      }
+    ]
+  }
+]

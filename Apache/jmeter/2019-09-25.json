@@ -1,0 +1,362 @@
+[
+  {
+    "RepositoryName": "jmeter",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T06:02:21Z",
+    "EndDate": "2019-09-25T07:02:21",
+    "Branches": 1,
+    "Forks": 1124,
+    "Files": [
+      {
+        "Sha": "2d51b10d12d7ffa77ac9520d2d7255acca016069",
+        "FileName": "JMESPathAssertion.java",
+        "Path": "src/components/src/main/java/org/apache/jmeter/assertions/jmespath/JMESPathAssertion.java",
+        "DateUpdated": "2019-09-25T06:58:22Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "65ef4e29480eafe41a282aa5cc53e03d26a15d7f"
+        ]
+      },
+      {
+        "Sha": "7d22b1bfde2771a791622ed8b8fe791cfc87f436",
+        "FileName": "JMESPathAssertionGui.java",
+        "Path": "src/components/src/main/java/org/apache/jmeter/assertions/jmespath/gui/JMESPathAssertionGui.java",
+        "DateUpdated": "2019-09-25T06:58:22Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "65ef4e29480eafe41a282aa5cc53e03d26a15d7f"
+        ]
+      },
+      {
+        "Sha": "e8938e2de5ea2da158680718173ccb666b911250",
+        "FileName": "package.html",
+        "Path": "src/functions/src/main/resources/org/apache/jmeter/functions/package.html",
+        "DateUpdated": "2019-09-25T06:58:22Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "65ef4e29480eafe41a282aa5cc53e03d26a15d7f"
+        ]
+      },
+      {
+        "Sha": "bb34061d042e2678d5c83c080fd6eae0ebd86fd6",
+        "FileName": "package.html",
+        "Path": "src/jorphan/src/main/resources/org/apache/commons/cli/avalon/package.html",
+        "DateUpdated": "2019-09-25T06:58:22Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "65ef4e29480eafe41a282aa5cc53e03d26a15d7f"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "65ef4e29480eafe41a282aa5cc53e03d26a15d7f",
+        "Author": {
+          "name": "\"Vladimir Sitnikov\"",
+          "location": "Moscow",
+          "company": "Netcracker"
+        },
+        "Commitor": {
+          "name": "\"Vladimir Sitnikov\"",
+          "location": "Moscow",
+          "company": "Netcracker"
+        },
+        "Date": "2019-09-25T06:58:22Z",
+        "additions": 9,
+        "deletions": 9,
+        "files": [
+          "2d51b10d12d7ffa77ac9520d2d7255acca016069",
+          "7d22b1bfde2771a791622ed8b8fe791cfc87f436",
+          "e8938e2de5ea2da158680718173ccb666b911250",
+          "bb34061d042e2678d5c83c080fd6eae0ebd86fd6"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "jmeter",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T07:02:12Z",
+    "EndDate": "2019-09-25T08:02:12",
+    "Branches": 1,
+    "Forks": 1124,
+    "Files": [
+      {
+        "Sha": "d1f5fd3f6ce723905e6b0430738c5702b2e1ec3f",
+        "FileName": "ResponseDecompression.csv",
+        "Path": "bin/testfiles/ResponseDecompression.csv",
+        "DateUpdated": "2019-09-25T07:26:38Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "e7d6245c2b96643312848900e80890a85f725fa8"
+        ]
+      },
+      {
+        "Sha": "9350526d16526ac71c5137829cc04e12e72137fb",
+        "FileName": "ResponseDecompression.jmx",
+        "Path": "bin/testfiles/ResponseDecompression.jmx",
+        "DateUpdated": "2019-09-25T07:26:38Z",
+        "Additions": 1,
+        "Deletions": 184,
+        "Commits": [
+          "e7d6245c2b96643312848900e80890a85f725fa8"
+        ]
+      },
+      {
+        "Sha": "8637ee9c55427958c0effe1612f96d02c8984add",
+        "FileName": "ResponseDecompression.xml",
+        "Path": "bin/testfiles/ResponseDecompression.xml",
+        "DateUpdated": "2019-09-25T07:26:38Z",
+        "Additions": 0,
+        "Deletions": 48,
+        "Commits": [
+          "e7d6245c2b96643312848900e80890a85f725fa8"
+        ]
+      },
+      {
+        "Sha": "2f6c3bcb94f080c277bf75d0779c65cb64bfe13c",
+        "FileName": "checksum.xml",
+        "Path": "checksum.xml",
+        "DateUpdated": "2019-09-25T07:26:38Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "e7d6245c2b96643312848900e80890a85f725fa8"
+        ]
+      },
+      {
+        "Sha": "6fb19735f4f2c0ad7a8e48af0b654b140a33bb6c",
+        "FileName": "gradle.properties",
+        "Path": "gradle.properties",
+        "DateUpdated": "2019-09-25T07:26:38Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "e7d6245c2b96643312848900e80890a85f725fa8"
+        ]
+      },
+      {
+        "Sha": "6702fe2efa68efeadb7053c7f73e0d19ee00ae66",
+        "FileName": "build.gradle.kts",
+        "Path": "src/bom/build.gradle.kts",
+        "DateUpdated": "2019-09-25T07:26:38Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "e7d6245c2b96643312848900e80890a85f725fa8"
+        ]
+      },
+      {
+        "Sha": "860b7329683ec3cd643caaed88053fd640c7f094",
+        "FileName": "build.gradle.kts",
+        "Path": "src/protocol/build.gradle.kts",
+        "DateUpdated": "2019-09-25T07:26:38Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "e7d6245c2b96643312848900e80890a85f725fa8"
+        ]
+      },
+      {
+        "Sha": "cff4ae5fc13459fd0ae7cee3e793e64ec3c37075",
+        "FileName": "TestDecompression.java",
+        "Path": "src/protocol/http/src/test/java/org/apache/jmeter/protocol/http/sampler/TestDecompression.java",
+        "DateUpdated": "2019-09-25T07:26:38Z",
+        "Additions": 120,
+        "Deletions": 0,
+        "Commits": [
+          "e7d6245c2b96643312848900e80890a85f725fa8"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "e7d6245c2b96643312848900e80890a85f725fa8",
+        "Author": {
+          "name": "\"Vladimir Sitnikov\"",
+          "location": "Moscow",
+          "company": "Netcracker"
+        },
+        "Commitor": {
+          "name": "\"Vladimir Sitnikov\"",
+          "location": "Moscow",
+          "company": "Netcracker"
+        },
+        "Date": "2019-09-25T07:26:38Z",
+        "additions": 131,
+        "deletions": 236,
+        "files": [
+          "d1f5fd3f6ce723905e6b0430738c5702b2e1ec3f",
+          "9350526d16526ac71c5137829cc04e12e72137fb",
+          "8637ee9c55427958c0effe1612f96d02c8984add",
+          "2f6c3bcb94f080c277bf75d0779c65cb64bfe13c",
+          "6fb19735f4f2c0ad7a8e48af0b654b140a33bb6c",
+          "6702fe2efa68efeadb7053c7f73e0d19ee00ae66",
+          "860b7329683ec3cd643caaed88053fd640c7f094",
+          "cff4ae5fc13459fd0ae7cee3e793e64ec3c37075"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "jmeter",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T12:02:31Z",
+    "EndDate": "2019-09-25T13:02:31",
+    "Branches": 1,
+    "Forks": 1125,
+    "Files": [
+      {
+        "Sha": "5f1a651dbce2db8216678cacb297d8ed99fb7a86",
+        "FileName": "build.gradle.kts",
+        "Path": "build.gradle.kts",
+        "DateUpdated": "2019-09-25T12:31:31Z",
+        "Additions": 6,
+        "Deletions": 0,
+        "Commits": [
+          "2ba899bb6e431614a8ade260426e3db0474fdbdf"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "2ba899bb6e431614a8ade260426e3db0474fdbdf",
+        "Author": {
+          "name": "\"Vladimir Sitnikov\"",
+          "location": "Moscow",
+          "company": "Netcracker"
+        },
+        "Commitor": {
+          "name": "\"Vladimir Sitnikov\"",
+          "location": "Moscow",
+          "company": "Netcracker"
+        },
+        "Date": "2019-09-25T12:31:31Z",
+        "additions": 6,
+        "deletions": 0,
+        "files": [
+          "5f1a651dbce2db8216678cacb297d8ed99fb7a86"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "jmeter",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T21:02:16Z",
+    "EndDate": "2019-09-25T22:02:16",
+    "Branches": 1,
+    "Forks": 1126,
+    "Files": [
+      {
+        "Sha": "9046750d21c2163ee95819d6dd93db12ae6ae19f",
+        "FileName": "build.gradle.kts",
+        "Path": "build.gradle.kts",
+        "DateUpdated": "2019-09-25T21:18:50Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "fb66808dfa8bd6c8763249cd8ec385b1e49c0ce4"
+        ]
+      },
+      {
+        "Sha": "174db4f3ccb21ef3626274ed9f9d39c784d99330",
+        "FileName": "TestCacheManagerBase.java",
+        "Path": "src/protocol/http/src/test/java/org/apache/jmeter/protocol/http/control/TestCacheManagerBase.java",
+        "DateUpdated": "2019-09-25T21:18:50Z",
+        "Additions": 92,
+        "Deletions": 97,
+        "Commits": [
+          "fb66808dfa8bd6c8763249cd8ec385b1e49c0ce4"
+        ]
+      },
+      {
+        "Sha": "e582efae817ba815fdffe81e3a859deb6958cc4c",
+        "FileName": "TestCacheManagerHC4.java",
+        "Path": "src/protocol/http/src/test/java/org/apache/jmeter/protocol/http/control/TestCacheManagerHC4.java",
+        "DateUpdated": "2019-09-25T21:18:50Z",
+        "Additions": 26,
+        "Deletions": 21,
+        "Commits": [
+          "fb66808dfa8bd6c8763249cd8ec385b1e49c0ce4"
+        ]
+      },
+      {
+        "Sha": "2e502211c0c76ec5147b748958da20e79912962d",
+        "FileName": "TestCacheManagerUrlConnection.java",
+        "Path": "src/protocol/http/src/test/java/org/apache/jmeter/protocol/http/control/TestCacheManagerUrlConnection.java",
+        "DateUpdated": "2019-09-25T21:18:50Z",
+        "Additions": 7,
+        "Deletions": 7,
+        "Commits": [
+          "fb66808dfa8bd6c8763249cd8ec385b1e49c0ce4"
+        ]
+      },
+      {
+        "Sha": "1fa55500d65d5c363df1c1e8ae0c96d7676ea082",
+        "FileName": "TestCacheManagerUrlConnectionBase.java",
+        "Path": "src/protocol/http/src/test/java/org/apache/jmeter/protocol/http/control/TestCacheManagerUrlConnectionBase.java",
+        "DateUpdated": "2019-09-25T21:18:50Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "fb66808dfa8bd6c8763249cd8ec385b1e49c0ce4"
+        ]
+      },
+      {
+        "Sha": "9dd64c540c086196ee3912dea3ebd2fbc9efde19",
+        "FileName": "TestHttpRequestHdr.java",
+        "Path": "src/protocol/http/src/test/java/org/apache/jmeter/protocol/http/proxy/TestHttpRequestHdr.java",
+        "DateUpdated": "2019-09-25T21:18:50Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "fb66808dfa8bd6c8763249cd8ec385b1e49c0ce4"
+        ]
+      },
+      {
+        "Sha": "b51f93353ab45ff61486ccc9991b096eb7d4f4ca",
+        "FileName": "TestHTTPHC4Impl.java",
+        "Path": "src/protocol/http/src/test/java/org/apache/jmeter/protocol/http/sampler/TestHTTPHC4Impl.java",
+        "DateUpdated": "2019-09-25T21:18:50Z",
+        "Additions": 6,
+        "Deletions": 3,
+        "Commits": [
+          "fb66808dfa8bd6c8763249cd8ec385b1e49c0ce4"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "fb66808dfa8bd6c8763249cd8ec385b1e49c0ce4",
+        "Author": {
+          "name": "\"Vladimir Sitnikov\"",
+          "location": "Moscow",
+          "company": "Netcracker"
+        },
+        "Commitor": {
+          "name": "\"Vladimir Sitnikov\"",
+          "location": "Moscow",
+          "company": "Netcracker"
+        },
+        "Date": "2019-09-25T21:18:50Z",
+        "additions": 140,
+        "deletions": 129,
+        "files": [
+          "9046750d21c2163ee95819d6dd93db12ae6ae19f",
+          "174db4f3ccb21ef3626274ed9f9d39c784d99330",
+          "e582efae817ba815fdffe81e3a859deb6958cc4c",
+          "2e502211c0c76ec5147b748958da20e79912962d",
+          "1fa55500d65d5c363df1c1e8ae0c96d7676ea082",
+          "9dd64c540c086196ee3912dea3ebd2fbc9efde19",
+          "b51f93353ab45ff61486ccc9991b096eb7d4f4ca"
+        ]
+      }
+    ]
+  }
+]

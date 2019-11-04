@@ -1,0 +1,86 @@
+[
+  {
+    "RepositoryName": "incubator-superset",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T23:47:08Z",
+    "EndDate": "2019-09-25T00:47:08",
+    "Branches": 100,
+    "Forks": 5133,
+    "Files": [
+      {
+        "Sha": "42de4241c08f4572c9c7193b99322ab30190a303",
+        "FileName": "models.py",
+        "Path": "superset/connectors/druid/models.py",
+        "DateUpdated": "2019-09-25T00:46:34Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "0a8f3eb43ff068a8612338015f605f1951ce57b6"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "0a8f3eb43ff068a8612338015f605f1951ce57b6",
+        "Author": {
+          "name": "\"Kartik Khare\"",
+          "location": "Bangalore, India",
+          "company": "Walmart Labs"
+        },
+        "Commitor": {
+          "name": "\"Maxime Beauchemin\"",
+          "location": "Belmont, CA",
+          "company": "Stealth Co"
+        },
+        "Date": "2019-09-25T00:46:34Z",
+        "additions": 3,
+        "deletions": 0,
+        "files": [
+          "42de4241c08f4572c9c7193b99322ab30190a303"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-superset",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T00:03:19Z",
+    "EndDate": "2019-09-25T01:03:19",
+    "Branches": 100,
+    "Forks": 5133,
+    "Files": [
+      {
+        "Sha": "42de4241c08f4572c9c7193b99322ab30190a303",
+        "FileName": "models.py",
+        "Path": "superset/connectors/druid/models.py",
+        "DateUpdated": "2019-09-25T00:46:34Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "0a8f3eb43ff068a8612338015f605f1951ce57b6"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "0a8f3eb43ff068a8612338015f605f1951ce57b6",
+        "Author": {
+          "name": "\"Kartik Khare\"",
+          "location": "Bangalore, India",
+          "company": "Walmart Labs"
+        },
+        "Commitor": {
+          "name": "\"Maxime Beauchemin\"",
+          "location": "Belmont, CA",
+          "company": "Stealth Co"
+        },
+        "Date": "2019-09-25T00:46:34Z",
+        "additions": 3,
+        "deletions": 0,
+        "files": [
+          "42de4241c08f4572c9c7193b99322ab30190a303"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "RepositoryName": "incubator-gobblin",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T12:03:24Z",
+    "EndDate": "2019-09-25T13:03:24",
+    "Branches": 14,
+    "Forks": 615,
+    "Files": [
+      {
+        "Sha": "9085d3ad841c19beff05103f07613c76406c3938",
+        "FileName": "SimpleKafkaSpecProducer.java",
+        "Path": "gobblin-modules/gobblin-service-kafka/src/main/java/org/apache/gobblin/service/SimpleKafkaSpecProducer.java",
+        "DateUpdated": "2019-09-25T12:28:41Z",
+        "Additions": 21,
+        "Deletions": 4,
+        "Commits": [
+          "117503833eceaf4bb3a7ac2fa0c5457982d7b8ad"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "117503833eceaf4bb3a7ac2fa0c5457982d7b8ad",
+        "Author": {
+          "name": "\"Arjun Singh Bora\"",
+          "location": "Sunnyvale, CA",
+          "company": "LinkedIn"
+        },
+        "Date": "2019-09-25T12:28:41Z",
+        "additions": 21,
+        "deletions": 4,
+        "files": [
+          "9085d3ad841c19beff05103f07613c76406c3938"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-gobblin",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T20:03:17Z",
+    "EndDate": "2019-09-25T21:03:17",
+    "Branches": 14,
+    "Forks": 615,
+    "Files": [
+      {
+        "Sha": "810c6fbdd62def5a0da912b2d212e41e76194966",
+        "FileName": "application.conf",
+        "Path": "conf/service/application.conf",
+        "DateUpdated": "2019-09-25T20:21:22Z",
+        "Additions": 9,
+        "Deletions": 0,
+        "Commits": [
+          "483d42c365ff727d5e6c08a2095ef570f9e22482"
+        ]
+      },
+      {
+        "Sha": "7157a844916c77d2c4081afe195130dc39234a48",
+        "FileName": ".dockerignore",
+        "Path": ".dockerignore",
+        "DateUpdated": "2019-09-25T20:19:32Z",
+        "Additions": 25,
+        "Deletions": 0,
+        "Commits": [
+          "df2be85e446fb26dc27682f88fffebead80e946b"
+        ]
+      },
+      {
+        "Sha": "be81ebb34e725dca07d071b45592d15a16a8bf80",
+        "FileName": "Dockerfile",
+        "Path": "gobblin-docker/gobblin-service/alpine-gaas-latest/Dockerfile",
+        "DateUpdated": "2019-09-25T20:19:32Z",
+        "Additions": 18,
+        "Deletions": 0,
+        "Commits": [
+          "df2be85e446fb26dc27682f88fffebead80e946b"
+        ]
+      },
+      {
+        "Sha": "82607f7a5ec83d1a0b885a07666b21bff5959f7f",
+        "FileName": "docker-compose.yml",
+        "Path": "gobblin-docker/gobblin-service/alpine-gaas-latest/docker-compose.yml",
+        "DateUpdated": "2019-09-25T20:19:32Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "df2be85e446fb26dc27682f88fffebead80e946b"
+        ]
+      },
+      {
+        "Sha": "75a54260d78c8ad5043b800cc702648346595d72",
+        "FileName": "entrypoint.sh",
+        "Path": "gobblin-docker/gobblin-service/alpine-gaas-latest/entrypoint.sh",
+        "DateUpdated": "2019-09-25T20:19:32Z",
+        "Additions": 122,
+        "Deletions": 0,
+        "Commits": [
+          "df2be85e446fb26dc27682f88fffebead80e946b"
+        ]
+      },
+      {
+        "Sha": "857680d25b9361535d1fcdcd84e263595b684312",
+        "FileName": "Building-Gobblin-as-a-Service.md",
+        "Path": "gobblin-docs/user-guide/Building-Gobblin-as-a-Service.md",
+        "DateUpdated": "2019-09-25T20:19:32Z",
+        "Additions": 28,
+        "Deletions": 0,
+        "Commits": [
+          "df2be85e446fb26dc27682f88fffebead80e946b"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "483d42c365ff727d5e6c08a2095ef570f9e22482",
+        "Date": "2019-09-25T20:21:22Z",
+        "additions": 9,
+        "deletions": 0,
+        "files": [
+          "810c6fbdd62def5a0da912b2d212e41e76194966"
+        ]
+      },
+      {
+        "sha": "df2be85e446fb26dc27682f88fffebead80e946b",
+        "Date": "2019-09-25T20:19:32Z",
+        "additions": 201,
+        "deletions": 0,
+        "files": [
+          "7157a844916c77d2c4081afe195130dc39234a48",
+          "be81ebb34e725dca07d071b45592d15a16a8bf80",
+          "82607f7a5ec83d1a0b885a07666b21bff5959f7f",
+          "75a54260d78c8ad5043b800cc702648346595d72",
+          "857680d25b9361535d1fcdcd84e263595b684312"
+        ]
+      }
+    ]
+  }
+]

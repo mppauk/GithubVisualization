@@ -1,0 +1,80 @@
+[
+  {
+    "RepositoryName": "openoffice",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T22:02:50Z",
+    "EndDate": "2019-09-24T23:02:50",
+    "Branches": 28,
+    "Forks": 175,
+    "Files": [
+      {
+        "Sha": "316dcf7b729ece37ccab64f50a6e7fc214f165c0",
+        "FileName": "Nsis.ulf",
+        "Path": "main/instsetoo_native/inc_openoffice/windows/msi_languages/Nsis.ulf",
+        "DateUpdated": "2019-09-24T23:01:06Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "4abbe55cc6dcbc4f56acfd283450e1741be3766a"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "4abbe55cc6dcbc4f56acfd283450e1741be3766a",
+        "Author": {
+          "name": "\"Matthias\"",
+          "location": "Hamburg, Germany"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T23:01:06Z",
+        "additions": 5,
+        "deletions": 5,
+        "files": [
+          "316dcf7b729ece37ccab64f50a6e7fc214f165c0"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "openoffice",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T22:46:33Z",
+    "EndDate": "2019-09-24T23:46:33",
+    "Branches": 28,
+    "Forks": 175,
+    "Files": [
+      {
+        "Sha": "316dcf7b729ece37ccab64f50a6e7fc214f165c0",
+        "FileName": "Nsis.ulf",
+        "Path": "main/instsetoo_native/inc_openoffice/windows/msi_languages/Nsis.ulf",
+        "DateUpdated": "2019-09-24T23:01:06Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "4abbe55cc6dcbc4f56acfd283450e1741be3766a"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "4abbe55cc6dcbc4f56acfd283450e1741be3766a",
+        "Author": {
+          "name": "\"Matthias\"",
+          "location": "Hamburg, Germany"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-24T23:01:06Z",
+        "additions": 5,
+        "deletions": 5,
+        "files": [
+          "316dcf7b729ece37ccab64f50a6e7fc214f165c0"
+        ]
+      }
+    ]
+  }
+]

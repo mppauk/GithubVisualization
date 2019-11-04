@@ -1,0 +1,78 @@
+[
+  {
+    "RepositoryName": "mynewt-core",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T05:46:54Z",
+    "EndDate": "2019-09-25T06:46:54",
+    "Branches": 24,
+    "Forks": 241,
+    "Files": [
+      {
+        "Sha": "6ea098fd69a85bd9028bf3fdf6a9fcbb06234d8f",
+        "FileName": "bma253.c",
+        "Path": "hw/drivers/sensors/bma253/src/bma253.c",
+        "DateUpdated": "2019-09-25T06:01:49Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b6efe5fef1aea43377c164856484317e016de664"
+        ]
+      },
+      {
+        "Sha": "7d8e8cc8231e8e277ff398ca106f656611b98851",
+        "FileName": "bma2xx.c",
+        "Path": "hw/drivers/sensors/bma2xx/src/bma2xx.c",
+        "DateUpdated": "2019-09-25T06:01:49Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b6efe5fef1aea43377c164856484317e016de664"
+        ]
+      },
+      {
+        "Sha": "58cc229feb450912615871ac0bf019e29c0ae2c9",
+        "FileName": "sensor.h",
+        "Path": "hw/sensor/include/sensor/sensor.h",
+        "DateUpdated": "2019-09-25T06:01:49Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "dbec34cb2774320087560a6ef233bdcba965d0e1"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "b6efe5fef1aea43377c164856484317e016de664",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-25T06:01:49Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "6ea098fd69a85bd9028bf3fdf6a9fcbb06234d8f",
+          "7d8e8cc8231e8e277ff398ca106f656611b98851"
+        ]
+      },
+      {
+        "sha": "dbec34cb2774320087560a6ef233bdcba965d0e1",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-25T06:01:49Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "58cc229feb450912615871ac0bf019e29c0ae2c9"
+        ]
+      }
+    ]
+  }
+]

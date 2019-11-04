@@ -1,0 +1,77 @@
+[
+  {
+    "RepositoryName": "servicecomb-service-center",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T06:02:58Z",
+    "EndDate": "2019-09-23T07:02:58",
+    "Branches": 2,
+    "Forks": 224,
+    "Files": [
+      {
+        "Sha": "4701bf37dafbe6e8b1f053dbb7be0708366bac05",
+        "FileName": "AccountController.java",
+        "Path": "syncer/samples/multi-servicecenters/eureka/account-server/src/main/java/org/apache/servicecomb/servicecenter/account/AccountController.java",
+        "DateUpdated": "2019-09-23T06:06:39Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "79cd6fe81a2d02b883a84ed2f79b18952355005a"
+        ]
+      },
+      {
+        "Sha": "ecb81b728e807722ba05fd29c888844084570079",
+        "FileName": "microservice.yaml",
+        "Path": "syncer/samples/multi-servicecenters/servicecenter/hello-server/conf/microservice.yaml",
+        "DateUpdated": "2019-09-23T06:06:39Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "79cd6fe81a2d02b883a84ed2f79b18952355005a"
+        ]
+      },
+      {
+        "Sha": "5031d4cd358ec516b684867ddea160df9f618c52",
+        "FileName": "main.go",
+        "Path": "syncer/samples/multi-servicecenters/servicecenter/hello-server/main.go",
+        "DateUpdated": "2019-09-23T06:06:39Z",
+        "Additions": 8,
+        "Deletions": 4,
+        "Commits": [
+          "79cd6fe81a2d02b883a84ed2f79b18952355005a"
+        ]
+      },
+      {
+        "Sha": "1d5641a70e0b901d858f069aa462a5809efa2927",
+        "FileName": "servicecenter.go",
+        "Path": "syncer/samples/multi-servicecenters/servicecenter/hello-server/servicecenter/servicecenter.go",
+        "DateUpdated": "2019-09-23T06:06:39Z",
+        "Additions": 26,
+        "Deletions": 12,
+        "Commits": [
+          "79cd6fe81a2d02b883a84ed2f79b18952355005a"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "79cd6fe81a2d02b883a84ed2f79b18952355005a",
+        "Author": {
+          "name": "\"Chenzhu1008\""
+        },
+        "Commitor": {
+          "name": "\"Shawn\"",
+          "location": "Beijing"
+        },
+        "Date": "2019-09-23T06:06:39Z",
+        "additions": 37,
+        "deletions": 18,
+        "files": [
+          "4701bf37dafbe6e8b1f053dbb7be0708366bac05",
+          "ecb81b728e807722ba05fd29c888844084570079",
+          "5031d4cd358ec516b684867ddea160df9f618c52",
+          "1d5641a70e0b901d858f069aa462a5809efa2927"
+        ]
+      }
+    ]
+  }
+]

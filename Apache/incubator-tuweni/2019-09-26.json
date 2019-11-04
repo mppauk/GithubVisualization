@@ -1,0 +1,70 @@
+[
+  {
+    "RepositoryName": "incubator-tuweni",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T00:05:39Z",
+    "EndDate": "2019-09-26T01:05:39",
+    "Branches": 4,
+    "Forks": 24,
+    "Files": [
+      {
+        "Sha": "adf364722cb609d53b6a10c083ae353fbed77490",
+        "FileName": "Identity.java",
+        "Path": "scuttlebutt/src/main/java/org/apache/tuweni/scuttlebutt/Identity.java",
+        "DateUpdated": "2019-09-26T00:20:46Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "f6c3e5ba86b108f73111926f21b1db2ae5835ebd"
+        ]
+      },
+      {
+        "Sha": "b1e2385fb68d2ba1311e00d0e5faac9bc4b40c88",
+        "FileName": "build.gradle",
+        "Path": "build.gradle",
+        "DateUpdated": "2019-09-26T00:20:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0330d134f579034b9d943870ea31316899632a11"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "f6c3e5ba86b108f73111926f21b1db2ae5835ebd",
+        "Author": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Commitor": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Date": "2019-09-26T00:20:46Z",
+        "additions": 4,
+        "deletions": 4,
+        "files": [
+          "adf364722cb609d53b6a10c083ae353fbed77490"
+        ]
+      },
+      {
+        "sha": "0330d134f579034b9d943870ea31316899632a11",
+        "Author": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Commitor": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Date": "2019-09-26T00:20:29Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "b1e2385fb68d2ba1311e00d0e5faac9bc4b40c88"
+        ]
+      }
+    ]
+  }
+]

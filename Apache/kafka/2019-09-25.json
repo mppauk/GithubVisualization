@@ -1,0 +1,82 @@
+[
+  {
+    "RepositoryName": "kafka",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T01:46:16Z",
+    "EndDate": "2019-09-25T02:46:16",
+    "Branches": 20,
+    "Forks": 7246,
+    "Files": [
+      {
+        "Sha": "0c69336127ca523e00c4a8aedd29cf9aaa7ce9bb",
+        "FileName": "upgrade.html",
+        "Path": "docs/upgrade.html",
+        "DateUpdated": "2019-09-25T02:32:14Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "d112ffd8d85de2441a8ea32d080e584d7d16a9a5"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d112ffd8d85de2441a8ea32d080e584d7d16a9a5",
+        "Author": {
+          "name": "\"Guozhang Wang\"",
+          "location": "San Franscisco",
+          "company": "@confluentinc "
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T02:32:14Z",
+        "additions": 5,
+        "deletions": 0,
+        "files": [
+          "0c69336127ca523e00c4a8aedd29cf9aaa7ce9bb"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "kafka",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T02:02:25Z",
+    "EndDate": "2019-09-25T03:02:25",
+    "Branches": 20,
+    "Forks": 7246,
+    "Files": [
+      {
+        "Sha": "0c69336127ca523e00c4a8aedd29cf9aaa7ce9bb",
+        "FileName": "upgrade.html",
+        "Path": "docs/upgrade.html",
+        "DateUpdated": "2019-09-25T02:32:14Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "d112ffd8d85de2441a8ea32d080e584d7d16a9a5"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d112ffd8d85de2441a8ea32d080e584d7d16a9a5",
+        "Author": {
+          "name": "\"Guozhang Wang\"",
+          "location": "San Franscisco",
+          "company": "@confluentinc "
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T02:32:14Z",
+        "additions": 5,
+        "deletions": 0,
+        "files": [
+          "0c69336127ca523e00c4a8aedd29cf9aaa7ce9bb"
+        ]
+      }
+    ]
+  }
+]

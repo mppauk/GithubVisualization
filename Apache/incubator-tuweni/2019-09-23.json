@@ -1,0 +1,4093 @@
+[
+  {
+    "RepositoryName": "incubator-tuweni",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T01:06:36Z",
+    "EndDate": "2019-09-23T02:06:36",
+    "Branches": 3,
+    "Forks": 22,
+    "Files": [
+      {
+        "Sha": "cfc6d329f2302c4e6e41a1d8143de275724c595c",
+        "FileName": "RELEASE.md",
+        "Path": "RELEASE.md",
+        "DateUpdated": "2019-09-23T02:00:14Z",
+        "Additions": 56,
+        "Deletions": 7,
+        "Commits": [
+          "c5b12ca83892680628de13d6a3e8d31767f63056"
+        ]
+      },
+      {
+        "Sha": "054ad03fe3135fd192b79bbec5c9cbb35ca8b36f",
+        "FileName": "FeedMessageDeserializer.java",
+        "Path": "scuttlebutt-client-lib/src/main/java/org/apache/tuweni/scuttlebutt/lib/model/FeedMessageDeserializer.java",
+        "DateUpdated": "2019-09-23T01:33:49Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "5c0ed8a9b6faccaf2a74ebc2896f8a1ca88f1c72"
+        ]
+      },
+      {
+        "Sha": "3f5aab507c4ca5a4f7bb9a6a078c269c129cfbde",
+        "FileName": "stage.gradle",
+        "Path": "gradle/stage.gradle",
+        "DateUpdated": "2019-09-23T01:29:04Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "8e20edebe3ad3817c72a907f59a0bd6d8afc14d7"
+        ]
+      },
+      {
+        "Sha": "1a83ad6406cff2713fa07174f1973f1b9733f532",
+        "FileName": "stage.gradle",
+        "Path": "gradle/stage.gradle",
+        "DateUpdated": "2019-09-23T01:28:56Z",
+        "Additions": 1,
+        "Deletions": 6,
+        "Commits": [
+          "430db9f0d17a74910989986c1edac9b6bf788155"
+        ]
+      },
+      {
+        "Sha": "54513df0f798a1f1030a8e510c0f4bb87938e056",
+        "FileName": "LICENSE",
+        "Path": "LICENSE",
+        "DateUpdated": "2019-09-23T01:28:48Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "e252c134a1e43b2c6baa2973db6cad4c29685f60"
+        ]
+      },
+      {
+        "Sha": "0f5be03039d8fbb6577730bc7ec31fa5833ef11a",
+        "FileName": "build.gradle",
+        "Path": "build.gradle",
+        "DateUpdated": "2019-09-23T01:28:48Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "e252c134a1e43b2c6baa2973db6cad4c29685f60"
+        ]
+      },
+      {
+        "Sha": "b0cf48f9648b8ebb7e17c6b2f20dd59aff28d971",
+        "FileName": "SECP256K1.java",
+        "Path": "crypto/src/main/java/org/apache/tuweni/crypto/SECP256K1.java",
+        "DateUpdated": "2019-09-23T01:28:48Z",
+        "Additions": 13,
+        "Deletions": 10,
+        "Commits": [
+          "e252c134a1e43b2c6baa2973db6cad4c29685f60"
+        ]
+      },
+      {
+        "Sha": "5e422b1e6d50b82a795e5394d8905d8afc4989fd",
+        "FileName": "build.gradle",
+        "Path": "build.gradle",
+        "DateUpdated": "2019-09-23T01:28:41Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "7f2f174761a5325ebbdd19b1e4fb922513598b89"
+        ]
+      },
+      {
+        "Sha": "c98bdaf2381d7498791c84d9e3d5622579687335",
+        "FileName": ".gitmodules",
+        "Path": ".gitmodules",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 3,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "4d83dd814e62313951cb774d0059a48faef7a3b5",
+        "FileName": "build.gradle",
+        "Path": "build.gradle",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 4,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "ebb2dc8c6a4c5bebce6479cebc9a9c9f77200e92",
+        "FileName": "tests",
+        "Path": "eth-reference-tests/src/test/resources/tests",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "e51792ddcc3177c78fc9cac8fc3b7e7865f3f937",
+        "FileName": "basic_abi_tests.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/ABITests/basic_abi_tests.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 40,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "2c5eedb035f1e3287b9880392b34633d2379dcd1",
+        "FileName": "README.md",
+        "Path": "eth-reference-tests/src/test/resources/tests/BasicTests/README.md",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 15,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "8ad5590f11a42d619f80939643a50590cc42a04e",
+        "FileName": "blockgenesistest.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BasicTests/blockgenesistest.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 20,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "64a4f8842f7272dbc0515372e498c67980f89d29",
+        "FileName": "crypto.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BasicTests/crypto.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 16,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "b1c664e4478c2d3b2fbd15e4105a06528ef54063",
+        "FileName": "difficulty.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BasicTests/difficulty.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 114,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "c7d6931c9590b3a1c5d83a6ddf3283195bd71a54",
+        "FileName": "difficultyByzantium.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BasicTests/difficultyByzantium.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 20289,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "259d2760680c9d0a9c7c468398a43caf45c4a15e",
+        "FileName": "difficultyConstantinople.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BasicTests/difficultyConstantinople.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 20289,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "609b6498a855bd5628d106d7cb5463dc312b5c0f",
+        "FileName": "difficultyCustomHomestead.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BasicTests/difficultyCustomHomestead.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 962,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "0bced602f39f1d51c4a2cc9ef18b02f95ee5839d",
+        "FileName": "difficultyCustomMainNetwork.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BasicTests/difficultyCustomMainNetwork.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 3243,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "ede7e2d3091ad21f0a6583cec7519703bc7db5f3",
+        "FileName": "difficultyFrontier.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BasicTests/difficultyFrontier.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 20289,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "a8989eeba2125292b405034c4b49c7741b13b668",
+        "FileName": "difficultyHomestead.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BasicTests/difficultyHomestead.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 20289,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "c26b7a7b4ad54759404e0dbb2a4fe84a79600a69",
+        "FileName": "difficultyMainNetwork.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BasicTests/difficultyMainNetwork.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 20289,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "bf878bf0dc51a093de51a0363cee7a18762b87a4",
+        "FileName": "difficultyMorden.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BasicTests/difficultyMorden.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 11042,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "3c327fd8b219e67a157fe8cf5b7342acb92a2e30",
+        "FileName": "difficultyOlimpic.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BasicTests/difficultyOlimpic.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 11042,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "ab169ff8800b9b19406be38a6ac3900af15efdd8",
+        "FileName": "difficultyRopsten.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BasicTests/difficultyRopsten.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 20289,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "ff17b1539818b1bf700b7e2b4c3e596837d66983",
+        "FileName": "genesishashestest.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BasicTests/genesishashestest.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "26c5bc7ed37fbc5b591b511366525be2e373b37b",
+        "FileName": "hexencodetest.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BasicTests/hexencodetest.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 62,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "c65b2ae33bd24cca7d2dc60c57b3d03bbe01d989",
+        "FileName": "keyaddrtest.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BasicTests/keyaddrtest.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 22,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "1261d07660203830c7766ca9573605fcff331728",
+        "FileName": "txtest.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BasicTests/txtest.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 24,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "a747fbf5c64e5513fbe6c9915542a87eecb643a1",
+        "FileName": "addNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/addNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 326,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "cd66ce28da427c55355377a65eeb8875a5b2e8ed",
+        "FileName": "addNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/addNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 329,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "b9f2ca3a9d19064af26341fa6127d2d68acaec9e",
+        "FileName": "addmodNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/addmodNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 326,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "109fac0c78584bac9fbb9fd05b76dfa475f6745b",
+        "FileName": "addmodNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/addmodNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 326,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "81542caf355b1905e5175428ec076e80e4861590",
+        "FileName": "andNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/andNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 326,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "5f4f423cb1a97f75cf335f5ebf1c74478a136e07",
+        "FileName": "andNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/andNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 329,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "e4dd07e7d679a900333db661151ec5e474c84fb4",
+        "FileName": "balanceNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/balanceNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 326,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "787192122cf5531529d110474abbe0350724aeb8",
+        "FileName": "balanceNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/balanceNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 326,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "c299d3da36358ba120d7a3765fee2c0bf11bc3f7",
+        "FileName": "byteNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/byteNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 326,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "6f8d9d7c752d9b7e7dc5fe8d601dc320bddf2401",
+        "FileName": "byteNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/byteNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 326,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "e02ee0c8f64426efe44f502eecf7a67f9f089b62",
+        "FileName": "callNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/callNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 329,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "4d6c842381b4e16f057a9b4fa90a284e3071d724",
+        "FileName": "callNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/callNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 326,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "851c17aa67b957ee7ee247af7b4bc77196c5d88e",
+        "FileName": "callcodeNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/callcodeNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 329,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "fe5457d8ccd5521edfffda6f53c403b0af4a9c38",
+        "FileName": "callcodeNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/callcodeNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 326,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "984cde3e008f73494f16b446ce111e4058238937",
+        "FileName": "calldatacopyNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/calldatacopyNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 326,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "00ef9f0f6069be7908f3499dafc78c5db81efb63",
+        "FileName": "calldatacopyNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/calldatacopyNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 326,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "858296050bccb92a29ab6f5fa41155b1fa488002",
+        "FileName": "calldatacopyNonConst_d1g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/calldatacopyNonConst_d1g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 326,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "8b142dc631739c5aaf2afe7808dd54f78ea0be8b",
+        "FileName": "calldatacopyNonConst_d1g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/calldatacopyNonConst_d1g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 326,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "eb8b709f448147b46c68aaff77a786c02061df8c",
+        "FileName": "calldataloadNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/calldataloadNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 326,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "ba9a22abe5c737a83fc9d47d64ddc7afa74e18a7",
+        "FileName": "calldataloadNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/calldataloadNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 326,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "14e39060190a92e45cb836c879a65b5614e3594b",
+        "FileName": "calldataloadNonConst_d1g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/calldataloadNonConst_d1g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 329,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "88dee693b839451c7f0f6560b3866a998ef02f32",
+        "FileName": "calldataloadNonConst_d1g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/calldataloadNonConst_d1g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 329,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "e8e2e47a126aae64bee5c380bd785f8f58265c76",
+        "FileName": "codecopyNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/codecopyNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 326,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "b759d0fca9c3a1968a0582f05b7d12f5cd5814ff",
+        "FileName": "codecopyNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/codecopyNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 326,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "02a56b583b87c52129c9a9198f70acf5ca08d780",
+        "FileName": "createNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/createNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 350,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "73d4b0ae743f6d72f5f9339111c24da622a3692e",
+        "FileName": "createNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/createNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 350,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "a81cd397eca6a8e25c258f957e5e6ec90d1fc2c8",
+        "FileName": "delegatecallNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/delegatecallNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 329,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "97878a06683d8ec221f06cb526fff4f75098f07c",
+        "FileName": "delegatecallNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/delegatecallNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 326,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "278962994e54f76fb1f7aea2869f478a97976bf1",
+        "FileName": "divNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/divNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 326,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "9f2884d9f8e3effe280ca79f1e507c092b85b4b7",
+        "FileName": "divNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/divNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 329,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "f85bdd58f4dbbd06c53bad37d99b90f907e99ced",
+        "FileName": "eqNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/eqNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 329,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "ddf62fd06dffa6dc920fb59f4e82ec1649157d5a",
+        "FileName": "eqNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/eqNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 329,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "ea607c402a1eee3dd698b65b6fb66f3f57032105",
+        "FileName": "expNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/expNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 329,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "085ebc80133fc488af5cfcf7525ad25868ee28d7",
+        "FileName": "expNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/expNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 329,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "7962177e1078ae59011203a7ca18acbee8ea3849",
+        "FileName": "extcodecopyNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/extcodecopyNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 326,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "86aa211b222fd307e4291ca01073716ed1799103",
+        "FileName": "extcodecopyNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/extcodecopyNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 326,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "6a7ab3a2c593bd2cab3a28fd375884ee50265d00",
+        "FileName": "extcodesizeNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/extcodesizeNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 326,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "42bce9cb31c1b09d9b3f4e1ecc9fda8ea6afa0bb",
+        "FileName": "extcodesizeNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/extcodesizeNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 326,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "4f724f50c55691419b7064f6140330346ee93682",
+        "FileName": "gtNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/gtNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "24bbb90db55c0457bce4eba9f41da9423e4a9ec5",
+        "FileName": "gtNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/gtNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "8a575c9ddd0e6dbfdfd0a7f29cb3952790d6dff2",
+        "FileName": "iszeroNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/iszeroNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "18e21eb4ef542bb9d6364d327e61049a77e294af",
+        "FileName": "iszeroNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/iszeroNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "75fa4c49dc24bd2543da2b628f72de9b057c1949",
+        "FileName": "jumpNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/jumpNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "d370fb5160ee934abcf65033841d20d862e13b3f",
+        "FileName": "jumpNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/jumpNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "6492685fa5ee8cd81a77c7fe952a7bfb519bcd41",
+        "FileName": "jumpiNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/jumpiNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "6a00d0ff5691b95b13385999c5051f590cd09cb6",
+        "FileName": "jumpiNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/jumpiNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "1127bf10df3e83625b52ea450fc09502199d3de7",
+        "FileName": "log0NonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/log0NonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "c0fc899a5eb7c1f215f2b575c06d19519d66657e",
+        "FileName": "log0NonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/log0NonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "aeb64bfd787f112fc962d0d0ef0011b5015d960e",
+        "FileName": "log1NonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/log1NonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "8100e206531be215fb4bc7991b0814bb51cad96d",
+        "FileName": "log1NonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/log1NonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "a781f7d655bab04a2f6855f2eb47965d8005a138",
+        "FileName": "log2NonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/log2NonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "cb158ead52dca02bf2f8401e5c1257ff118fe4ef",
+        "FileName": "log2NonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/log2NonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "3dc2542708c6bf4f15965026269ff8e45bd9bccc",
+        "FileName": "log3NonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/log3NonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "0944ad6a88abd7f52b16a0f685097c72e8ce13dc",
+        "FileName": "log3NonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/log3NonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "f33a0e5eb32af345f5cd723e946a07faa6891501",
+        "FileName": "ltNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/ltNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "885e93bb9be0348a9318685a0d45966dfebaaf09",
+        "FileName": "ltNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/ltNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "6e068885c30b91cc28bfe95e79f83d6bfbf1e8f9",
+        "FileName": "mloadNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/mloadNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "ffa75bb33baebd0651f26ae966eaa21f5c7ca839",
+        "FileName": "mloadNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/mloadNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "67fa54f1f5a50879e88fe5d48788f3bc74d375aa",
+        "FileName": "modNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/modNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "b08a0104e3f8fab1439039d3c54b6e09ac41df88",
+        "FileName": "modNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/modNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "1c2354aa7b3abc6748dd5a7103c5eb07d87f2901",
+        "FileName": "mstore8NonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/mstore8NonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "7bbc65a26fd611d4a9a2baa20d09705575e3043f",
+        "FileName": "mstore8NonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/mstore8NonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "bde04bd736ff384803fb9ddcc0a070ee39b8afff",
+        "FileName": "mstoreNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/mstoreNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "a11bdfcbfa3001067e2fcc942435864c8d4f9022",
+        "FileName": "mstoreNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/mstoreNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "e6f3f73819ceb3112ad9f553d09e51fab45d1c6a",
+        "FileName": "mulNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/mulNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "cf24e2aa0eecf14a9460f499f9304d920251f528",
+        "FileName": "mulNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/mulNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "5bcba4336bea48b1499dc032aad9df6e5fe789c0",
+        "FileName": "mulmodNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/mulmodNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "d975d4c5b81defa853dc791b8d20275a1e598e33",
+        "FileName": "mulmodNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/mulmodNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "1f4a27df0e66c5c0bb59f8f7c21724083a93142f",
+        "FileName": "notNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/notNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "84c53c10da0e2d6ff60cef40b7c926562cd99bae",
+        "FileName": "notNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/notNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "1c247013a117633eb8f6e0375106a829e8127e42",
+        "FileName": "orNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/orNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "fa670e9493f3f7bf31b4c66cf53d31cbbe9b0e4b",
+        "FileName": "orNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/orNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "faad92d64736a44d49c378734cff7415a9c882f8",
+        "FileName": "returnNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/returnNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "095b6288212855d767b6dea40fe015579a7f21f3",
+        "FileName": "returnNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/returnNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "85b493c27886f340b14af3a31221c4cd6bac5e45",
+        "FileName": "sdivNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/sdivNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "2c9a4007326966bdbcf2cd057e82b10d5868ac87",
+        "FileName": "sdivNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/sdivNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "d5b1baf89c5bb26ea5e91327d59cf8cd23315ae3",
+        "FileName": "sgtNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/sgtNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "1bdf2c258398c3c2deeac082330549a10caa4dcb",
+        "FileName": "sgtNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/sgtNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "1d71fde9a8b7dc21bd7b00f9e26ee1104b65ac13",
+        "FileName": "sha3NonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/sha3NonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "8bdba4653b3c4acac01e04c020c2838f3559c653",
+        "FileName": "sha3NonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/sha3NonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "b87d6c133c48602408c41d67ee9b7dcc230b46f5",
+        "FileName": "signextNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/signextNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "feb88857df9e80b76c6a12e7b938ac3c020a3cbb",
+        "FileName": "signextNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/signextNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "d44712c281dd2e4dc3bc20b6b826b9f4b2a84b79",
+        "FileName": "sloadNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/sloadNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "6014839c7a85c7e44169a330b7373b8200b817c2",
+        "FileName": "sloadNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/sloadNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "4b3009ea786a2ccb96eb88672ec72d46813185ac",
+        "FileName": "sltNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/sltNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "2e58dec022f3152582acdfefd29bea452bb0232d",
+        "FileName": "sltNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/sltNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "6eea5e2ce06e1fe44895bb9e1051a9c6b707182e",
+        "FileName": "smodNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/smodNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "490d839b038d99ad6d44f2110fcf2f7ad9c4feb1",
+        "FileName": "smodNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/smodNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "88eaccb96fe7e290161b0dd091fb80dbd2be8cc6",
+        "FileName": "sstoreNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/sstoreNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "b6747a54020f18a2e1569f6672c9a2aeb0b366f8",
+        "FileName": "sstoreNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/sstoreNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "f20515b1c0d1fceeceaf3d341284687749eb1745",
+        "FileName": "subNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/subNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "45842d85eca509060cc23f55ab8ed3d7cef04b66",
+        "FileName": "subNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/subNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "19a3ca5fc213cc1139dd519432748e7ea36392f6",
+        "FileName": "suicideNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/suicideNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "583c32d5dd43704d5aff0a6fcb2eac5e65cd2363",
+        "FileName": "suicideNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/suicideNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "4234da4a923ed026278158291bbc3f8a8903f01b",
+        "FileName": "xorNonConst_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/xorNonConst_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "dc7390902fc86e3ed647f0828606061e142b9c76",
+        "FileName": "xorNonConst_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stArgsZeroOneBalance/xorNonConst_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "f9c96166ea8546e2162e25a4954367be155784b8",
+        "FileName": "ContractCreationSpam_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stAttackTest/ContractCreationSpam_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "e0b5f840e867f4d45512a95072f4d0db51e0d696",
+        "FileName": "CrashingTransaction_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stAttackTest/CrashingTransaction_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "25e4b297525918d9e47d3d3cb5d31e38d9356e89",
+        "FileName": "badOpcodes_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "8be2dfbcb61ec3e09eede4a0e5fee9b23b7a58fc",
+        "FileName": "badOpcodes_d100g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d100g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "f9f10134f972a9ce186c83803e992f1b3a1d0b9b",
+        "FileName": "badOpcodes_d101g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d101g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "94786e3806cf15cf46d32be95e8992599d4b0294",
+        "FileName": "badOpcodes_d102g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d102g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "9fe586ee61f72bdbaa47cd2eb926c9acbd01afed",
+        "FileName": "badOpcodes_d103g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d103g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "6008e922eea8598a06b6addb5c19adab6df2d340",
+        "FileName": "badOpcodes_d104g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d104g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "a5256d4411f0644ad24a7680bf1eb5ce6384f02a",
+        "FileName": "badOpcodes_d105g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d105g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "4cc233aa44369d26794974cd905750a26362a617",
+        "FileName": "badOpcodes_d106g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d106g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "3d55c3eb057a65f9a8d88bf4faaf569b8d8e367b",
+        "FileName": "badOpcodes_d107g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d107g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "9f375a826244793ce4e6a01143a05947f9264c65",
+        "FileName": "badOpcodes_d108g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d108g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "2b5470135c3f0ec620fa31d06288cd1364f4603e",
+        "FileName": "badOpcodes_d109g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d109g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "aaf2637ce06ef33d41e50c7893b0f1ac37c0df5d",
+        "FileName": "badOpcodes_d10g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d10g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "a37ab44fad3e14da5ff288335a7ecf3fa1aa2ea2",
+        "FileName": "badOpcodes_d110g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d110g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "8fb625ddffd54829b917c57428af1058eb372b63",
+        "FileName": "badOpcodes_d111g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d111g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "e2d6b46bd48c8e18ec9f9989a05533ec1be6d6dd",
+        "FileName": "badOpcodes_d112g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d112g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "f3f5dfa4bf14a44c34a09a6259a0d98d463a05cd",
+        "FileName": "badOpcodes_d113g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d113g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "65258a5ba13a887d7fa54642a9a6981bc4434ce2",
+        "FileName": "badOpcodes_d114g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d114g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "83e10c04e004ce602219cbebdfb3ce4ee842a804",
+        "FileName": "badOpcodes_d115g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d115g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "89d084f8befda5a3721451cca61a9472d38642cb",
+        "FileName": "badOpcodes_d116g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d116g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "e258c1d827003c0dd19d88305ba111834e1fc699",
+        "FileName": "badOpcodes_d117g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d117g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "7fab43a2bd13d5c42cff81c2ee1152a25e713316",
+        "FileName": "badOpcodes_d118g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d118g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "4a4715eedb775f9a6e1d62b4f3fb98282b728c42",
+        "FileName": "badOpcodes_d119g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d119g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "ab928da9f602e168b362fdc25e29963d3b2254d7",
+        "FileName": "badOpcodes_d11g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d11g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "a3fcd428554ceb2cadcf8e66cf44c37c92e2e8c5",
+        "FileName": "badOpcodes_d120g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d120g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "29dc47e3c66f0f4d28c293afe0690ced66d21454",
+        "FileName": "badOpcodes_d121g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d121g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "ed8c74d8ae488d50edd663dab6bbfb28a8e23c69",
+        "FileName": "badOpcodes_d12g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d12g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "68ba37c4e3f916e13dc7133e321db1721757552c",
+        "FileName": "badOpcodes_d13g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d13g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "65db37bc43ec46841299bff58bcdc12f1271a840",
+        "FileName": "badOpcodes_d14g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d14g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "cb97682d0e65b14c38db562323442dd355f189da",
+        "FileName": "badOpcodes_d15g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d15g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "5af569d765a45af65927d5ff6d5fce7f07d0d2e3",
+        "FileName": "badOpcodes_d16g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d16g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "a66f99e2cd221e7adb148c483301da5960774f38",
+        "FileName": "badOpcodes_d17g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d17g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "86155624ee02d22878e9779ea54b83ab8a1844d3",
+        "FileName": "badOpcodes_d18g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d18g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "1b99da3482fb7071e6a7028f39b5c5d7deeb2890",
+        "FileName": "badOpcodes_d19g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d19g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "14f52ab27cb76c23345cdef4aab5106b9d5961e1",
+        "FileName": "badOpcodes_d1g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d1g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "396ef090dd3252766e8fc4216e7743e28a6ff5c1",
+        "FileName": "badOpcodes_d20g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d20g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "f669322dd8bc9f8e3611c0c727faf69399056e9c",
+        "FileName": "badOpcodes_d21g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d21g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "ef7fcd07644d5a5d566f9489b9b18a3875c0dc55",
+        "FileName": "badOpcodes_d22g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d22g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "0a832860af0ff100c0fbea3f53a508fa98c2d011",
+        "FileName": "badOpcodes_d23g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d23g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "7baf8362205afa11047d877696de02b115bc5af0",
+        "FileName": "badOpcodes_d24g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d24g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "1d6013afbffae9490bf058762e6f227f129b1d70",
+        "FileName": "badOpcodes_d25g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d25g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "0f091dd538f330767479aac1d8150ed5d327369a",
+        "FileName": "badOpcodes_d26g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d26g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "9be9a1677b4328dee76ed765f77f3c0f78c4f96c",
+        "FileName": "badOpcodes_d27g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d27g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "25469bed7dc2a85d4e98f4e324d88bfd69f70136",
+        "FileName": "badOpcodes_d28g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d28g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "7b7ec08aeb15817a53724228c7012c5e5c132050",
+        "FileName": "badOpcodes_d29g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d29g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "35806f0b432e60cc8f6982f3eca88e816e116118",
+        "FileName": "badOpcodes_d2g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d2g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "13907327b5ebb3a7e17871cfd17d1aab92d2b5c1",
+        "FileName": "badOpcodes_d30g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d30g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "e32b2f8876a5f3d8d7abcaeb9e31cf5a1ce6e8fe",
+        "FileName": "badOpcodes_d31g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d31g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "2f437d4e3d662f87e8652518c141134de697f957",
+        "FileName": "badOpcodes_d32g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d32g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "685000fa9f3b5b304be7f0855a3257ef21dccc93",
+        "FileName": "badOpcodes_d33g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d33g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "b122aba589d3f70479d3ef3a3bc41ef3635be5fd",
+        "FileName": "badOpcodes_d34g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d34g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "fb5c7f212a18df1120b109515485eee25177b5ba",
+        "FileName": "badOpcodes_d35g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d35g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "7bb003690be11e64c40f9a79b5963324741c54c1",
+        "FileName": "badOpcodes_d36g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d36g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "72eba249769e68afeb67fff7f0e608f0c291589d",
+        "FileName": "badOpcodes_d37g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d37g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "dd80512dd1f2a76a93fd66306309db5b14e7cef3",
+        "FileName": "badOpcodes_d38g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d38g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "5089c1b47a43a30f477b4580675b9182e1f1a5d9",
+        "FileName": "badOpcodes_d39g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d39g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "277aa5d8570f6850b33f234ad24e2228709fdf0a",
+        "FileName": "badOpcodes_d3g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d3g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "f2dad72f1942251e292870efe16b8e00ddfbc630",
+        "FileName": "badOpcodes_d40g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d40g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "f33464b289dbc13d7c92375f088c6374ce6b94b2",
+        "FileName": "badOpcodes_d41g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d41g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "b930243933a89fc5400d06f298943fc877a50f9f",
+        "FileName": "badOpcodes_d42g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d42g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "9fb986baef80b36af3b0f4ee2e3d1cc5b9a0b48b",
+        "FileName": "badOpcodes_d43g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d43g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "49de70262a88d9824db1075beb04742775da3079",
+        "FileName": "badOpcodes_d44g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d44g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "3ea8e63cc3ae9489812187b3ad74fd361b21c2f6",
+        "FileName": "badOpcodes_d45g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d45g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "8d3aa378938899f81aae88259f5417f92c9a5ed5",
+        "FileName": "badOpcodes_d46g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d46g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "181fc87ce2a0cc98179e9a74c2406a104a4a9a58",
+        "FileName": "badOpcodes_d47g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d47g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "61779c00ced796542301647e4c7ffde53fbb5daa",
+        "FileName": "badOpcodes_d48g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d48g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "c3881c7f54988985ef694d5022b9ec2f54742427",
+        "FileName": "badOpcodes_d49g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d49g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "a582e0141652609a9742655d8e57b8fbb0f90fa3",
+        "FileName": "badOpcodes_d4g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d4g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "beb1dfd61b240fad59774ae2b9f6c4b3ea00476e",
+        "FileName": "badOpcodes_d50g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d50g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "c28a212330db4c41eb29227c2e1f119f487657f1",
+        "FileName": "badOpcodes_d51g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d51g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "6c3ae6645593a0ee24ce35560bdc45a7743ef85a",
+        "FileName": "badOpcodes_d52g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d52g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "4ab30e291c2c737dbac44261a472b80acc707a88",
+        "FileName": "badOpcodes_d53g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d53g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "f1d93b5680541f2cada614a1abdbe54f0bb83ad5",
+        "FileName": "badOpcodes_d54g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d54g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "a911158e208deba22e292ec7ebd8deec3cb5371f",
+        "FileName": "badOpcodes_d55g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d55g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "3d6c4b50a8adf5ac9ef89fd57b9bf8c91fc59678",
+        "FileName": "badOpcodes_d56g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d56g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "b45d380da54d13d4c307e8649e4b960a993cc8f2",
+        "FileName": "badOpcodes_d57g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d57g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "4fa0c97f731daf975bbbd2c452460cf8b9c08c8a",
+        "FileName": "badOpcodes_d58g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d58g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "f28b4420d77e460212bd817293be063abb86aeb0",
+        "FileName": "badOpcodes_d59g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d59g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "fe814c879832c895accc926e8f50f9e4d0cb082b",
+        "FileName": "badOpcodes_d5g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d5g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "5e37f35c62f2aa282df27eb31d7c623f5cf0782e",
+        "FileName": "badOpcodes_d60g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d60g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "b25a65fbb00d03954792155e4f69f15c8f553657",
+        "FileName": "badOpcodes_d61g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d61g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "f125eb0c20dbb99ec6a547d4166b39e45474237d",
+        "FileName": "badOpcodes_d62g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d62g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "cc376d79f850c2cf3be333b28c7123e698995d8c",
+        "FileName": "badOpcodes_d63g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d63g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "58f73f26184f425caa12c7b49be1fb8ad0874aa4",
+        "FileName": "badOpcodes_d64g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d64g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "5daece00bec6c2e6577b2046599a1a91d707c0ff",
+        "FileName": "badOpcodes_d65g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d65g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "5de50080d96fd8a91715d23306ab5343dff61052",
+        "FileName": "badOpcodes_d66g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d66g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "78a9ce3638a295031f1c15ca9f444a8f97a9818b",
+        "FileName": "badOpcodes_d67g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d67g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "1648438ed323c10df5eb7bcf23d175bfb6954551",
+        "FileName": "badOpcodes_d68g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d68g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "b2cf14877a0fc634441fe101ffbc31bedb6a0428",
+        "FileName": "badOpcodes_d69g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d69g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "c570c9fb0d63c67686ca6a592aecc4cf43fa5c87",
+        "FileName": "badOpcodes_d6g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d6g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "6d3a9d6c23bb7f146b2010eff8bb467527714ff6",
+        "FileName": "badOpcodes_d70g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d70g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "7c734b22a9ad6091e1d14fc37013cf5c8448d81c",
+        "FileName": "badOpcodes_d71g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d71g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "1f57a52fb1af9466ff91f37f4db7c1dc5b40f4a9",
+        "FileName": "badOpcodes_d72g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d72g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "0a413f62e148c0ec5970377caaf76eae3cd3ee64",
+        "FileName": "badOpcodes_d73g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d73g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "bb7481692344b0b909dcef356fe8101b37198afc",
+        "FileName": "badOpcodes_d74g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d74g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "51c2824247bd47cbadf49d673ccecfa45317ed19",
+        "FileName": "badOpcodes_d75g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d75g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "87afd997a50d5ec050ce7e3174b0121510ea4878",
+        "FileName": "badOpcodes_d76g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d76g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "92c78eb0bc530bf07194f95750d37ba9e64c8308",
+        "FileName": "badOpcodes_d77g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d77g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "bbb3bf47ce2b1b3587a5d877fa97716b14ab8784",
+        "FileName": "badOpcodes_d78g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d78g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "32f09901ea4d1dceacc63b6f71e3c7e9f768089a",
+        "FileName": "badOpcodes_d79g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d79g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "b16a2af4de9ae7c69e1d0963246cb835122f7e88",
+        "FileName": "badOpcodes_d7g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d7g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "e961d094ad47f8a8f4ad679fc92780f64880b788",
+        "FileName": "badOpcodes_d80g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d80g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "eebb44e5bb003dd1f7909c52a7c5ced7bfcc470f",
+        "FileName": "badOpcodes_d81g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d81g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "c2a919ab7e5cd1eec7fcd4137f9d39071b992e89",
+        "FileName": "badOpcodes_d82g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d82g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "45f65d03fe7bd8f66cd84d29325fd7b393e119a9",
+        "FileName": "badOpcodes_d83g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d83g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "aa63aee2c4bf356f3c5fef78519c1a2ec4528d8c",
+        "FileName": "badOpcodes_d84g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d84g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "141081ad7e4eea97c90b9384a4dc8a99eb0b57aa",
+        "FileName": "badOpcodes_d85g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d85g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "b4e972927d8e3ce0a799a7111ea4d71e7d5b3d95",
+        "FileName": "badOpcodes_d86g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d86g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "24d54c8aaf5f4db0c371b0ceb49ba958777e6401",
+        "FileName": "badOpcodes_d87g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d87g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "7084849b98fb8624b1721aeb9f998087587f7fc2",
+        "FileName": "badOpcodes_d88g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d88g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "529c6de31a98a6779f2161f324cfbc3a0f6b8235",
+        "FileName": "badOpcodes_d89g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d89g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "981d4335d128c488dcc2250febfa59ee6159fdc2",
+        "FileName": "badOpcodes_d8g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d8g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "38c4c3eccd1b6084cbbc21ec1ed2814f71a176fb",
+        "FileName": "badOpcodes_d90g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d90g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "ee66761fcdba781d8b027b0a28cc731fec5bc850",
+        "FileName": "badOpcodes_d91g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d91g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "233eecbca698331ecff687c83641d4f20b48a5d0",
+        "FileName": "badOpcodes_d92g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d92g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "41d144d189b2a0f5304dccb09e318e76967da227",
+        "FileName": "badOpcodes_d93g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d93g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "89bb1a38e6e747ca1aeb19d79cbeec85e7e2ca8f",
+        "FileName": "badOpcodes_d94g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d94g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "ab1341151c905120a0cab8a9dd087aba04a71d1d",
+        "FileName": "badOpcodes_d95g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d95g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "033ff6d54a4298adf81c4df9927100bb51864624",
+        "FileName": "badOpcodes_d96g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d96g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "0c5e45a8018c913c9f535841343411010a7864e5",
+        "FileName": "badOpcodes_d97g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d97g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "57a5542aa3687f2e1066feed926592aa953384e5",
+        "FileName": "badOpcodes_d98g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d98g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "5593d171f3b633c4d1b1cc481e606b9a65652876",
+        "FileName": "badOpcodes_d99g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d99g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "2eee2538207be9c93d5a3052fa149710a9522dd0",
+        "FileName": "badOpcodes_d9g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBadOpcode/badOpcodes_d9g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "878ca72abd5d704979b57ecef7c8dac82870fd30",
+        "FileName": "evmBytecode_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBugs/evmBytecode_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "ddb3ebcfd02a9a5b728a08fa4adf0131d2926b9f",
+        "FileName": "randomStatetestDEFAULT-Tue_07_58_41-15153-575192_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBugs/randomStatetestDEFAULT-Tue_07_58_41-15153-575192_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "e3bf0c41e319a03b58aaa7db40e795ecea503558",
+        "FileName": "returndatacopyPythonBug_Tue_03_48_41-1432_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBugs/returndatacopyPythonBug_Tue_03_48_41-1432_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "c06aa9440634df0578762dca5ea87e504aa933d0",
+        "FileName": "returndatacopyPythonBug_Tue_03_48_41-1432_d0g0v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBugs/returndatacopyPythonBug_Tue_03_48_41-1432_d0g0v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "39773fb89911e28547ad3ddf28a4ae52fe3cdd93",
+        "FileName": "returndatacopyPythonBug_Tue_03_48_41-1432_d0g1v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBugs/returndatacopyPythonBug_Tue_03_48_41-1432_d0g1v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "7294d171124e9198e1b70088d8a526df9f061399",
+        "FileName": "returndatacopyPythonBug_Tue_03_48_41-1432_d0g1v1.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBugs/returndatacopyPythonBug_Tue_03_48_41-1432_d0g1v1.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "5552dccc0eff3ed4d399b2c9c29550390f77626b",
+        "FileName": "staticcall_createfails_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBugs/staticcall_createfails_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "9df124ea84edcffcc062eedda85b9d70e836533f",
+        "FileName": "staticcall_createfails_d1g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stBugs/staticcall_createfails_d1g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "fd0ccfa08e1f50ff524d84df73f2ae731ae8e57e",
+        "FileName": "call_OOG_additionalGasCosts1_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/call_OOG_additionalGasCosts1_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "3bcaf3d36d9d4cac3269df1e29bfbc1b825d8da6",
+        "FileName": "call_OOG_additionalGasCosts2_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/call_OOG_additionalGasCosts2_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "2144f02fe3ef5640310ff0bf294d2404caf14ccd",
+        "FileName": "callcall_00_OOGE_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcall_00_OOGE_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "c2a17d02aa6e6f3eeddda32c0b6472bbed32875e",
+        "FileName": "callcall_00_OOGE_valueTransfer_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcall_00_OOGE_valueTransfer_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "084991369483dc5b86a92ba4eb7a822a910dfe48",
+        "FileName": "callcall_00_OOGE_valueTransfer_d1g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcall_00_OOGE_valueTransfer_d1g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "953c729223a12e465fa5f2f59fff6ca576167349",
+        "FileName": "callcall_00_SuicideEnd_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcall_00_SuicideEnd_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "8d804254e5dab9ae0feb123079e2e172d1505f82",
+        "FileName": "callcall_00_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcall_00_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "63bcbb5fdac24b0b76ca76d35a248fe5a3ef8078",
+        "FileName": "callcallcall_000_OOGE_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcall_000_OOGE_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "ae4d4bd9aefcfe35d6bf1700cce600a8669a246c",
+        "FileName": "callcallcall_000_OOGMAfter_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcall_000_OOGMAfter_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "8d9c1854e924b2eb86d9b511192ef4aae26fcc2a",
+        "FileName": "callcallcall_000_OOGMBefore_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcall_000_OOGMBefore_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "9dca703a0ec7e205043a3dee34f5f26793ca922d",
+        "FileName": "callcallcall_000_SuicideEnd_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcall_000_SuicideEnd_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "039621141445cee6cf274030e5aac9f3906c6942",
+        "FileName": "callcallcall_000_SuicideMiddle_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcall_000_SuicideMiddle_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "f7f1c8b06a76a662e862ab82115eadaef12c820e",
+        "FileName": "callcallcall_000_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcall_000_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "ab1f5ccde728b61d93cabb922a772e73944526cf",
+        "FileName": "callcallcall_ABCB_RECURSIVE_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcall_ABCB_RECURSIVE_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "d0cddba1c47682cf7cfe72447ea0e8c851414d55",
+        "FileName": "callcallcallcode_001_OOGE_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcallcode_001_OOGE_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "8e2f750aace845767db7b0dc55b754e613e5bd68",
+        "FileName": "callcallcallcode_001_OOGMAfter_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcallcode_001_OOGMAfter_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "95c9574801ef8706003b469fc3b7a3458041481e",
+        "FileName": "callcallcallcode_001_OOGMBefore_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcallcode_001_OOGMBefore_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "27fbf096625815939a081f2ae07ce651294cc41d",
+        "FileName": "callcallcallcode_001_SuicideEnd_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcallcode_001_SuicideEnd_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "0a2f8d880c68581b165f969a01702b26f38dacbb",
+        "FileName": "callcallcallcode_001_SuicideMiddle_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcallcode_001_SuicideMiddle_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "1c36772d0ee118283766a876f75fd8ee9dbf9436",
+        "FileName": "callcallcallcode_001_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcallcode_001_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "b25d942ef0ea492cbc3f72fb96793e54efdabb06",
+        "FileName": "callcallcallcode_ABCB_RECURSIVE_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcallcode_ABCB_RECURSIVE_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "a52ca3be1b62d0ffcbdbbb8c2c4c9eb191499a9c",
+        "FileName": "callcallcode_01_OOGE_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcode_01_OOGE_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "496786ffd5a43fd7a20dc0b6d224230f29790df5",
+        "FileName": "callcallcode_01_SuicideEnd_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcode_01_SuicideEnd_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "328bcba84bf98d769e3121a2af893f01a7bdf352",
+        "FileName": "callcallcode_01_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcode_01_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "ff02a8c5859bc3c62d42c85f2e4ebdfa1c014176",
+        "FileName": "callcallcodecall_010_OOGE_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcodecall_010_OOGE_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "33310660723d4eabb1aa5e2d693eab0a87c91acb",
+        "FileName": "callcallcodecall_010_OOGMAfter_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcodecall_010_OOGMAfter_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "c1843347597487c5d830d93d8b33f0b12823415a",
+        "FileName": "callcallcodecall_010_OOGMBefore_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcodecall_010_OOGMBefore_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "2aee3da2b019ae13adb21a8dcfa21474cddfc129",
+        "FileName": "callcallcodecall_010_SuicideEnd_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcodecall_010_SuicideEnd_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "56da51d6fb8035fab372c5a942477caa07e1f63d",
+        "FileName": "callcallcodecall_010_SuicideMiddle_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcodecall_010_SuicideMiddle_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "bff0e6052c4e031815fda7165f1e93be2f16e085",
+        "FileName": "callcallcodecall_010_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcodecall_010_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "7f20260997298fb61d929c2f4aacd38090a2bf55",
+        "FileName": "callcallcodecall_ABCB_RECURSIVE_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcodecall_ABCB_RECURSIVE_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "0969fec78a1eceb13ae7e4b3aba84197a55da346",
+        "FileName": "callcallcodecallcode_011_OOGE_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcodecallcode_011_OOGE_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "80122ff1b8c7577ef635e8bda2456a7ef4c77244",
+        "FileName": "callcallcodecallcode_011_OOGMAfter_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcodecallcode_011_OOGMAfter_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "f322188d285ddb0001915a503396a13c82f51a9d",
+        "FileName": "callcallcodecallcode_011_OOGMBefore_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcodecallcode_011_OOGMBefore_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "c9f6f25f0f50f4bf58889b03f153a7e001001430",
+        "FileName": "callcallcodecallcode_011_SuicideEnd_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcodecallcode_011_SuicideEnd_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "003213073132413b10ee28468015e4d7c2f30166",
+        "FileName": "callcallcodecallcode_011_SuicideMiddle_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcodecallcode_011_SuicideMiddle_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "ba1fb4bf852ee8359e568a626d62588df48f9fe8",
+        "FileName": "callcallcodecallcode_011_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcodecallcode_011_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "269f8a69d0a10976e6d8baad5823af1aa35b6fa2",
+        "FileName": "callcallcodecallcode_ABCB_RECURSIVE_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcallcodecallcode_ABCB_RECURSIVE_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "1d3f829568911fa35e10f384ba276ecfdd132077",
+        "FileName": "callcodeDynamicCode2SelfCall_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcodeDynamicCode2SelfCall_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "b1eb827ca211d1406a45dab4ea1baf8e3154b310",
+        "FileName": "callcodeDynamicCode_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcodeDynamicCode_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "daac8337096efbed95b60e735ffb49a3014b2fa8",
+        "FileName": "callcodeEmptycontract_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcodeEmptycontract_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "5ee6816a24b8e159367943ea45cf43c816cded19",
+        "FileName": "callcodeInInitcodeToEmptyContract_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcodeInInitcodeToEmptyContract_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "3208b2d9794fa3d3e6fb5d4fd4dbab220efb00b9",
+        "FileName": "callcodeInInitcodeToExisContractWithVTransferNEMoney_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcodeInInitcodeToExisContractWithVTransferNEMoney_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "c402a31002e6da1434739860de5b15a52130d8de",
+        "FileName": "callcodeInInitcodeToExistingContractWithValueTransfer_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcodeInInitcodeToExistingContractWithValueTransfer_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "bdfb6dcb0affe0cf07dce1224022cfe90423380e",
+        "FileName": "callcodeInInitcodeToExistingContract_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcodeInInitcodeToExistingContract_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "c567b82eafcef653a65f4706d4a3ef8bd208fb45",
+        "FileName": "callcode_checkPC_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcode_checkPC_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "708d8559ca5b93e09b6339cb1fb9aad0124e16f8",
+        "FileName": "callcodecall_10_OOGE_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcodecall_10_OOGE_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "0c5e650303ecd9e36088cc19c29c792aa7be5302",
+        "FileName": "callcodecall_10_SuicideEnd_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcodecall_10_SuicideEnd_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "b1d2b807aab6a85d0f1cb6cc1375ee613c9b5268",
+        "FileName": "callcodecall_10_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcodecall_10_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "1f6adb595e5efc44b793a1031537c22993f832f9",
+        "FileName": "callcodecallcall_100_OOGE_d0g0v0.json",
+        "Path": "eth-reference-tests/src/test/resources/tests/BlockchainTests/GeneralStateTests/stCallCodes/callcodecallcall_100_OOGE_d0g0v0.json",
+        "DateUpdated": "2019-09-23T01:28:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0"
+        ]
+      },
+      {
+        "Sha": "99532932112b3acfca49779e3266939ffb28df6a",
+        "FileName": "ProgPoW.java",
+        "Path": "progpow/src/main/java/org/apache/tuweni/progpow/ProgPoW.java",
+        "DateUpdated": "2019-09-23T01:28:18Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "1e99429a9d55a90e215b651dbd7efb6ab42b7133"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c5b12ca83892680628de13d6a3e8d31767f63056",
+        "Author": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Commitor": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Date": "2019-09-23T02:00:14Z",
+        "additions": 56,
+        "deletions": 7,
+        "files": [
+          "cfc6d329f2302c4e6e41a1d8143de275724c595c"
+        ]
+      },
+      {
+        "sha": "5c0ed8a9b6faccaf2a74ebc2896f8a1ca88f1c72",
+        "Author": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Commitor": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Date": "2019-09-23T01:33:49Z",
+        "additions": 2,
+        "deletions": 1,
+        "files": [
+          "054ad03fe3135fd192b79bbec5c9cbb35ca8b36f"
+        ]
+      },
+      {
+        "sha": "8e20edebe3ad3817c72a907f59a0bd6d8afc14d7",
+        "Author": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Commitor": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Date": "2019-09-23T01:29:04Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "3f5aab507c4ca5a4f7bb9a6a078c269c129cfbde"
+        ]
+      },
+      {
+        "sha": "430db9f0d17a74910989986c1edac9b6bf788155",
+        "Author": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Commitor": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Date": "2019-09-23T01:28:56Z",
+        "additions": 1,
+        "deletions": 6,
+        "files": [
+          "1a83ad6406cff2713fa07174f1973f1b9733f532"
+        ]
+      },
+      {
+        "sha": "e252c134a1e43b2c6baa2973db6cad4c29685f60",
+        "Author": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Commitor": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Date": "2019-09-23T01:28:48Z",
+        "additions": 14,
+        "deletions": 14,
+        "files": [
+          "54513df0f798a1f1030a8e510c0f4bb87938e056",
+          "0f5be03039d8fbb6577730bc7ec31fa5833ef11a",
+          "b0cf48f9648b8ebb7e17c6b2f20dd59aff28d971"
+        ]
+      },
+      {
+        "sha": "7f2f174761a5325ebbdd19b1e4fb922513598b89",
+        "Author": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Commitor": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Date": "2019-09-23T01:28:41Z",
+        "additions": 5,
+        "deletions": 0,
+        "files": [
+          "5e422b1e6d50b82a795e5394d8905d8afc4989fd"
+        ]
+      },
+      {
+        "sha": "0504e7dc8ab3fc4bea6d3839476fb196cdcae5e0",
+        "Author": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Commitor": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Date": "2019-09-23T01:28:32Z",
+        "additions": 7677636,
+        "deletions": 8,
+        "files": [
+          "c98bdaf2381d7498791c84d9e3d5622579687335",
+          "4d83dd814e62313951cb774d0059a48faef7a3b5",
+          "ebb2dc8c6a4c5bebce6479cebc9a9c9f77200e92",
+          "e51792ddcc3177c78fc9cac8fc3b7e7865f3f937",
+          "2c5eedb035f1e3287b9880392b34633d2379dcd1",
+          "8ad5590f11a42d619f80939643a50590cc42a04e",
+          "64a4f8842f7272dbc0515372e498c67980f89d29",
+          "b1c664e4478c2d3b2fbd15e4105a06528ef54063",
+          "c7d6931c9590b3a1c5d83a6ddf3283195bd71a54",
+          "259d2760680c9d0a9c7c468398a43caf45c4a15e",
+          "609b6498a855bd5628d106d7cb5463dc312b5c0f",
+          "0bced602f39f1d51c4a2cc9ef18b02f95ee5839d",
+          "ede7e2d3091ad21f0a6583cec7519703bc7db5f3",
+          "a8989eeba2125292b405034c4b49c7741b13b668",
+          "c26b7a7b4ad54759404e0dbb2a4fe84a79600a69",
+          "bf878bf0dc51a093de51a0363cee7a18762b87a4",
+          "3c327fd8b219e67a157fe8cf5b7342acb92a2e30",
+          "ab169ff8800b9b19406be38a6ac3900af15efdd8",
+          "ff17b1539818b1bf700b7e2b4c3e596837d66983",
+          "26c5bc7ed37fbc5b591b511366525be2e373b37b",
+          "c65b2ae33bd24cca7d2dc60c57b3d03bbe01d989",
+          "1261d07660203830c7766ca9573605fcff331728",
+          "a747fbf5c64e5513fbe6c9915542a87eecb643a1",
+          "cd66ce28da427c55355377a65eeb8875a5b2e8ed",
+          "b9f2ca3a9d19064af26341fa6127d2d68acaec9e",
+          "109fac0c78584bac9fbb9fd05b76dfa475f6745b",
+          "81542caf355b1905e5175428ec076e80e4861590",
+          "5f4f423cb1a97f75cf335f5ebf1c74478a136e07",
+          "e4dd07e7d679a900333db661151ec5e474c84fb4",
+          "787192122cf5531529d110474abbe0350724aeb8",
+          "c299d3da36358ba120d7a3765fee2c0bf11bc3f7",
+          "6f8d9d7c752d9b7e7dc5fe8d601dc320bddf2401",
+          "e02ee0c8f64426efe44f502eecf7a67f9f089b62",
+          "4d6c842381b4e16f057a9b4fa90a284e3071d724",
+          "851c17aa67b957ee7ee247af7b4bc77196c5d88e",
+          "fe5457d8ccd5521edfffda6f53c403b0af4a9c38",
+          "984cde3e008f73494f16b446ce111e4058238937",
+          "00ef9f0f6069be7908f3499dafc78c5db81efb63",
+          "858296050bccb92a29ab6f5fa41155b1fa488002",
+          "8b142dc631739c5aaf2afe7808dd54f78ea0be8b",
+          "eb8b709f448147b46c68aaff77a786c02061df8c",
+          "ba9a22abe5c737a83fc9d47d64ddc7afa74e18a7",
+          "14e39060190a92e45cb836c879a65b5614e3594b",
+          "88dee693b839451c7f0f6560b3866a998ef02f32",
+          "e8e2e47a126aae64bee5c380bd785f8f58265c76",
+          "b759d0fca9c3a1968a0582f05b7d12f5cd5814ff",
+          "02a56b583b87c52129c9a9198f70acf5ca08d780",
+          "73d4b0ae743f6d72f5f9339111c24da622a3692e",
+          "a81cd397eca6a8e25c258f957e5e6ec90d1fc2c8",
+          "97878a06683d8ec221f06cb526fff4f75098f07c",
+          "278962994e54f76fb1f7aea2869f478a97976bf1",
+          "9f2884d9f8e3effe280ca79f1e507c092b85b4b7",
+          "f85bdd58f4dbbd06c53bad37d99b90f907e99ced",
+          "ddf62fd06dffa6dc920fb59f4e82ec1649157d5a",
+          "ea607c402a1eee3dd698b65b6fb66f3f57032105",
+          "085ebc80133fc488af5cfcf7525ad25868ee28d7",
+          "7962177e1078ae59011203a7ca18acbee8ea3849",
+          "86aa211b222fd307e4291ca01073716ed1799103",
+          "6a7ab3a2c593bd2cab3a28fd375884ee50265d00",
+          "42bce9cb31c1b09d9b3f4e1ecc9fda8ea6afa0bb",
+          "4f724f50c55691419b7064f6140330346ee93682",
+          "24bbb90db55c0457bce4eba9f41da9423e4a9ec5",
+          "8a575c9ddd0e6dbfdfd0a7f29cb3952790d6dff2",
+          "18e21eb4ef542bb9d6364d327e61049a77e294af",
+          "75fa4c49dc24bd2543da2b628f72de9b057c1949",
+          "d370fb5160ee934abcf65033841d20d862e13b3f",
+          "6492685fa5ee8cd81a77c7fe952a7bfb519bcd41",
+          "6a00d0ff5691b95b13385999c5051f590cd09cb6",
+          "1127bf10df3e83625b52ea450fc09502199d3de7",
+          "c0fc899a5eb7c1f215f2b575c06d19519d66657e",
+          "aeb64bfd787f112fc962d0d0ef0011b5015d960e",
+          "8100e206531be215fb4bc7991b0814bb51cad96d",
+          "a781f7d655bab04a2f6855f2eb47965d8005a138",
+          "cb158ead52dca02bf2f8401e5c1257ff118fe4ef",
+          "3dc2542708c6bf4f15965026269ff8e45bd9bccc",
+          "0944ad6a88abd7f52b16a0f685097c72e8ce13dc",
+          "f33a0e5eb32af345f5cd723e946a07faa6891501",
+          "885e93bb9be0348a9318685a0d45966dfebaaf09",
+          "6e068885c30b91cc28bfe95e79f83d6bfbf1e8f9",
+          "ffa75bb33baebd0651f26ae966eaa21f5c7ca839",
+          "67fa54f1f5a50879e88fe5d48788f3bc74d375aa",
+          "b08a0104e3f8fab1439039d3c54b6e09ac41df88",
+          "1c2354aa7b3abc6748dd5a7103c5eb07d87f2901",
+          "7bbc65a26fd611d4a9a2baa20d09705575e3043f",
+          "bde04bd736ff384803fb9ddcc0a070ee39b8afff",
+          "a11bdfcbfa3001067e2fcc942435864c8d4f9022",
+          "e6f3f73819ceb3112ad9f553d09e51fab45d1c6a",
+          "cf24e2aa0eecf14a9460f499f9304d920251f528",
+          "5bcba4336bea48b1499dc032aad9df6e5fe789c0",
+          "d975d4c5b81defa853dc791b8d20275a1e598e33",
+          "1f4a27df0e66c5c0bb59f8f7c21724083a93142f",
+          "84c53c10da0e2d6ff60cef40b7c926562cd99bae",
+          "1c247013a117633eb8f6e0375106a829e8127e42",
+          "fa670e9493f3f7bf31b4c66cf53d31cbbe9b0e4b",
+          "faad92d64736a44d49c378734cff7415a9c882f8",
+          "095b6288212855d767b6dea40fe015579a7f21f3",
+          "85b493c27886f340b14af3a31221c4cd6bac5e45",
+          "2c9a4007326966bdbcf2cd057e82b10d5868ac87",
+          "d5b1baf89c5bb26ea5e91327d59cf8cd23315ae3",
+          "1bdf2c258398c3c2deeac082330549a10caa4dcb",
+          "1d71fde9a8b7dc21bd7b00f9e26ee1104b65ac13",
+          "8bdba4653b3c4acac01e04c020c2838f3559c653",
+          "b87d6c133c48602408c41d67ee9b7dcc230b46f5",
+          "feb88857df9e80b76c6a12e7b938ac3c020a3cbb",
+          "d44712c281dd2e4dc3bc20b6b826b9f4b2a84b79",
+          "6014839c7a85c7e44169a330b7373b8200b817c2",
+          "4b3009ea786a2ccb96eb88672ec72d46813185ac",
+          "2e58dec022f3152582acdfefd29bea452bb0232d",
+          "6eea5e2ce06e1fe44895bb9e1051a9c6b707182e",
+          "490d839b038d99ad6d44f2110fcf2f7ad9c4feb1",
+          "88eaccb96fe7e290161b0dd091fb80dbd2be8cc6",
+          "b6747a54020f18a2e1569f6672c9a2aeb0b366f8",
+          "f20515b1c0d1fceeceaf3d341284687749eb1745",
+          "45842d85eca509060cc23f55ab8ed3d7cef04b66",
+          "19a3ca5fc213cc1139dd519432748e7ea36392f6",
+          "583c32d5dd43704d5aff0a6fcb2eac5e65cd2363",
+          "4234da4a923ed026278158291bbc3f8a8903f01b",
+          "dc7390902fc86e3ed647f0828606061e142b9c76",
+          "f9c96166ea8546e2162e25a4954367be155784b8",
+          "e0b5f840e867f4d45512a95072f4d0db51e0d696",
+          "25e4b297525918d9e47d3d3cb5d31e38d9356e89",
+          "8be2dfbcb61ec3e09eede4a0e5fee9b23b7a58fc",
+          "f9f10134f972a9ce186c83803e992f1b3a1d0b9b",
+          "94786e3806cf15cf46d32be95e8992599d4b0294",
+          "9fe586ee61f72bdbaa47cd2eb926c9acbd01afed",
+          "6008e922eea8598a06b6addb5c19adab6df2d340",
+          "a5256d4411f0644ad24a7680bf1eb5ce6384f02a",
+          "4cc233aa44369d26794974cd905750a26362a617",
+          "3d55c3eb057a65f9a8d88bf4faaf569b8d8e367b",
+          "9f375a826244793ce4e6a01143a05947f9264c65",
+          "2b5470135c3f0ec620fa31d06288cd1364f4603e",
+          "aaf2637ce06ef33d41e50c7893b0f1ac37c0df5d",
+          "a37ab44fad3e14da5ff288335a7ecf3fa1aa2ea2",
+          "8fb625ddffd54829b917c57428af1058eb372b63",
+          "e2d6b46bd48c8e18ec9f9989a05533ec1be6d6dd",
+          "f3f5dfa4bf14a44c34a09a6259a0d98d463a05cd",
+          "65258a5ba13a887d7fa54642a9a6981bc4434ce2",
+          "83e10c04e004ce602219cbebdfb3ce4ee842a804",
+          "89d084f8befda5a3721451cca61a9472d38642cb",
+          "e258c1d827003c0dd19d88305ba111834e1fc699",
+          "7fab43a2bd13d5c42cff81c2ee1152a25e713316",
+          "4a4715eedb775f9a6e1d62b4f3fb98282b728c42",
+          "ab928da9f602e168b362fdc25e29963d3b2254d7",
+          "a3fcd428554ceb2cadcf8e66cf44c37c92e2e8c5",
+          "29dc47e3c66f0f4d28c293afe0690ced66d21454",
+          "ed8c74d8ae488d50edd663dab6bbfb28a8e23c69",
+          "68ba37c4e3f916e13dc7133e321db1721757552c",
+          "65db37bc43ec46841299bff58bcdc12f1271a840",
+          "cb97682d0e65b14c38db562323442dd355f189da",
+          "5af569d765a45af65927d5ff6d5fce7f07d0d2e3",
+          "a66f99e2cd221e7adb148c483301da5960774f38",
+          "86155624ee02d22878e9779ea54b83ab8a1844d3",
+          "1b99da3482fb7071e6a7028f39b5c5d7deeb2890",
+          "14f52ab27cb76c23345cdef4aab5106b9d5961e1",
+          "396ef090dd3252766e8fc4216e7743e28a6ff5c1",
+          "f669322dd8bc9f8e3611c0c727faf69399056e9c",
+          "ef7fcd07644d5a5d566f9489b9b18a3875c0dc55",
+          "0a832860af0ff100c0fbea3f53a508fa98c2d011",
+          "7baf8362205afa11047d877696de02b115bc5af0",
+          "1d6013afbffae9490bf058762e6f227f129b1d70",
+          "0f091dd538f330767479aac1d8150ed5d327369a",
+          "9be9a1677b4328dee76ed765f77f3c0f78c4f96c",
+          "25469bed7dc2a85d4e98f4e324d88bfd69f70136",
+          "7b7ec08aeb15817a53724228c7012c5e5c132050",
+          "35806f0b432e60cc8f6982f3eca88e816e116118",
+          "13907327b5ebb3a7e17871cfd17d1aab92d2b5c1",
+          "e32b2f8876a5f3d8d7abcaeb9e31cf5a1ce6e8fe",
+          "2f437d4e3d662f87e8652518c141134de697f957",
+          "685000fa9f3b5b304be7f0855a3257ef21dccc93",
+          "b122aba589d3f70479d3ef3a3bc41ef3635be5fd",
+          "fb5c7f212a18df1120b109515485eee25177b5ba",
+          "7bb003690be11e64c40f9a79b5963324741c54c1",
+          "72eba249769e68afeb67fff7f0e608f0c291589d",
+          "dd80512dd1f2a76a93fd66306309db5b14e7cef3",
+          "5089c1b47a43a30f477b4580675b9182e1f1a5d9",
+          "277aa5d8570f6850b33f234ad24e2228709fdf0a",
+          "f2dad72f1942251e292870efe16b8e00ddfbc630",
+          "f33464b289dbc13d7c92375f088c6374ce6b94b2",
+          "b930243933a89fc5400d06f298943fc877a50f9f",
+          "9fb986baef80b36af3b0f4ee2e3d1cc5b9a0b48b",
+          "49de70262a88d9824db1075beb04742775da3079",
+          "3ea8e63cc3ae9489812187b3ad74fd361b21c2f6",
+          "8d3aa378938899f81aae88259f5417f92c9a5ed5",
+          "181fc87ce2a0cc98179e9a74c2406a104a4a9a58",
+          "61779c00ced796542301647e4c7ffde53fbb5daa",
+          "c3881c7f54988985ef694d5022b9ec2f54742427",
+          "a582e0141652609a9742655d8e57b8fbb0f90fa3",
+          "beb1dfd61b240fad59774ae2b9f6c4b3ea00476e",
+          "c28a212330db4c41eb29227c2e1f119f487657f1",
+          "6c3ae6645593a0ee24ce35560bdc45a7743ef85a",
+          "4ab30e291c2c737dbac44261a472b80acc707a88",
+          "f1d93b5680541f2cada614a1abdbe54f0bb83ad5",
+          "a911158e208deba22e292ec7ebd8deec3cb5371f",
+          "3d6c4b50a8adf5ac9ef89fd57b9bf8c91fc59678",
+          "b45d380da54d13d4c307e8649e4b960a993cc8f2",
+          "4fa0c97f731daf975bbbd2c452460cf8b9c08c8a",
+          "f28b4420d77e460212bd817293be063abb86aeb0",
+          "fe814c879832c895accc926e8f50f9e4d0cb082b",
+          "5e37f35c62f2aa282df27eb31d7c623f5cf0782e",
+          "b25a65fbb00d03954792155e4f69f15c8f553657",
+          "f125eb0c20dbb99ec6a547d4166b39e45474237d",
+          "cc376d79f850c2cf3be333b28c7123e698995d8c",
+          "58f73f26184f425caa12c7b49be1fb8ad0874aa4",
+          "5daece00bec6c2e6577b2046599a1a91d707c0ff",
+          "5de50080d96fd8a91715d23306ab5343dff61052",
+          "78a9ce3638a295031f1c15ca9f444a8f97a9818b",
+          "1648438ed323c10df5eb7bcf23d175bfb6954551",
+          "b2cf14877a0fc634441fe101ffbc31bedb6a0428",
+          "c570c9fb0d63c67686ca6a592aecc4cf43fa5c87",
+          "6d3a9d6c23bb7f146b2010eff8bb467527714ff6",
+          "7c734b22a9ad6091e1d14fc37013cf5c8448d81c",
+          "1f57a52fb1af9466ff91f37f4db7c1dc5b40f4a9",
+          "0a413f62e148c0ec5970377caaf76eae3cd3ee64",
+          "bb7481692344b0b909dcef356fe8101b37198afc",
+          "51c2824247bd47cbadf49d673ccecfa45317ed19",
+          "87afd997a50d5ec050ce7e3174b0121510ea4878",
+          "92c78eb0bc530bf07194f95750d37ba9e64c8308",
+          "bbb3bf47ce2b1b3587a5d877fa97716b14ab8784",
+          "32f09901ea4d1dceacc63b6f71e3c7e9f768089a",
+          "b16a2af4de9ae7c69e1d0963246cb835122f7e88",
+          "e961d094ad47f8a8f4ad679fc92780f64880b788",
+          "eebb44e5bb003dd1f7909c52a7c5ced7bfcc470f",
+          "c2a919ab7e5cd1eec7fcd4137f9d39071b992e89",
+          "45f65d03fe7bd8f66cd84d29325fd7b393e119a9",
+          "aa63aee2c4bf356f3c5fef78519c1a2ec4528d8c",
+          "141081ad7e4eea97c90b9384a4dc8a99eb0b57aa",
+          "b4e972927d8e3ce0a799a7111ea4d71e7d5b3d95",
+          "24d54c8aaf5f4db0c371b0ceb49ba958777e6401",
+          "7084849b98fb8624b1721aeb9f998087587f7fc2",
+          "529c6de31a98a6779f2161f324cfbc3a0f6b8235",
+          "981d4335d128c488dcc2250febfa59ee6159fdc2",
+          "38c4c3eccd1b6084cbbc21ec1ed2814f71a176fb",
+          "ee66761fcdba781d8b027b0a28cc731fec5bc850",
+          "233eecbca698331ecff687c83641d4f20b48a5d0",
+          "41d144d189b2a0f5304dccb09e318e76967da227",
+          "89bb1a38e6e747ca1aeb19d79cbeec85e7e2ca8f",
+          "ab1341151c905120a0cab8a9dd087aba04a71d1d",
+          "033ff6d54a4298adf81c4df9927100bb51864624",
+          "0c5e45a8018c913c9f535841343411010a7864e5",
+          "57a5542aa3687f2e1066feed926592aa953384e5",
+          "5593d171f3b633c4d1b1cc481e606b9a65652876",
+          "2eee2538207be9c93d5a3052fa149710a9522dd0",
+          "878ca72abd5d704979b57ecef7c8dac82870fd30",
+          "ddb3ebcfd02a9a5b728a08fa4adf0131d2926b9f",
+          "e3bf0c41e319a03b58aaa7db40e795ecea503558",
+          "c06aa9440634df0578762dca5ea87e504aa933d0",
+          "39773fb89911e28547ad3ddf28a4ae52fe3cdd93",
+          "7294d171124e9198e1b70088d8a526df9f061399",
+          "5552dccc0eff3ed4d399b2c9c29550390f77626b",
+          "9df124ea84edcffcc062eedda85b9d70e836533f",
+          "fd0ccfa08e1f50ff524d84df73f2ae731ae8e57e",
+          "3bcaf3d36d9d4cac3269df1e29bfbc1b825d8da6",
+          "2144f02fe3ef5640310ff0bf294d2404caf14ccd",
+          "c2a17d02aa6e6f3eeddda32c0b6472bbed32875e",
+          "084991369483dc5b86a92ba4eb7a822a910dfe48",
+          "953c729223a12e465fa5f2f59fff6ca576167349",
+          "8d804254e5dab9ae0feb123079e2e172d1505f82",
+          "63bcbb5fdac24b0b76ca76d35a248fe5a3ef8078",
+          "ae4d4bd9aefcfe35d6bf1700cce600a8669a246c",
+          "8d9c1854e924b2eb86d9b511192ef4aae26fcc2a",
+          "9dca703a0ec7e205043a3dee34f5f26793ca922d",
+          "039621141445cee6cf274030e5aac9f3906c6942",
+          "f7f1c8b06a76a662e862ab82115eadaef12c820e",
+          "ab1f5ccde728b61d93cabb922a772e73944526cf",
+          "d0cddba1c47682cf7cfe72447ea0e8c851414d55",
+          "8e2f750aace845767db7b0dc55b754e613e5bd68",
+          "95c9574801ef8706003b469fc3b7a3458041481e",
+          "27fbf096625815939a081f2ae07ce651294cc41d",
+          "0a2f8d880c68581b165f969a01702b26f38dacbb",
+          "1c36772d0ee118283766a876f75fd8ee9dbf9436",
+          "b25d942ef0ea492cbc3f72fb96793e54efdabb06",
+          "a52ca3be1b62d0ffcbdbbb8c2c4c9eb191499a9c",
+          "496786ffd5a43fd7a20dc0b6d224230f29790df5",
+          "328bcba84bf98d769e3121a2af893f01a7bdf352",
+          "ff02a8c5859bc3c62d42c85f2e4ebdfa1c014176",
+          "33310660723d4eabb1aa5e2d693eab0a87c91acb",
+          "c1843347597487c5d830d93d8b33f0b12823415a",
+          "2aee3da2b019ae13adb21a8dcfa21474cddfc129",
+          "56da51d6fb8035fab372c5a942477caa07e1f63d",
+          "bff0e6052c4e031815fda7165f1e93be2f16e085",
+          "7f20260997298fb61d929c2f4aacd38090a2bf55",
+          "0969fec78a1eceb13ae7e4b3aba84197a55da346",
+          "80122ff1b8c7577ef635e8bda2456a7ef4c77244",
+          "f322188d285ddb0001915a503396a13c82f51a9d",
+          "c9f6f25f0f50f4bf58889b03f153a7e001001430",
+          "003213073132413b10ee28468015e4d7c2f30166",
+          "ba1fb4bf852ee8359e568a626d62588df48f9fe8",
+          "269f8a69d0a10976e6d8baad5823af1aa35b6fa2",
+          "1d3f829568911fa35e10f384ba276ecfdd132077",
+          "b1eb827ca211d1406a45dab4ea1baf8e3154b310",
+          "daac8337096efbed95b60e735ffb49a3014b2fa8",
+          "5ee6816a24b8e159367943ea45cf43c816cded19",
+          "3208b2d9794fa3d3e6fb5d4fd4dbab220efb00b9",
+          "c402a31002e6da1434739860de5b15a52130d8de",
+          "bdfb6dcb0affe0cf07dce1224022cfe90423380e",
+          "c567b82eafcef653a65f4706d4a3ef8bd208fb45",
+          "708d8559ca5b93e09b6339cb1fb9aad0124e16f8",
+          "0c5e650303ecd9e36088cc19c29c792aa7be5302",
+          "b1d2b807aab6a85d0f1cb6cc1375ee613c9b5268",
+          "1f6adb595e5efc44b793a1031537c22993f832f9"
+        ]
+      },
+      {
+        "sha": "1e99429a9d55a90e215b651dbd7efb6ab42b7133",
+        "Author": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Commitor": {
+          "name": "\"Antoine Toulme\"",
+          "location": "San Jose, CA"
+        },
+        "Date": "2019-09-23T01:28:18Z",
+        "additions": 3,
+        "deletions": 0,
+        "files": [
+          "99532932112b3acfca49779e3266939ffb28df6a"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-tuweni",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T15:04:20Z",
+    "EndDate": "2019-09-23T16:04:20",
+    "Branches": 3,
+    "Forks": 23,
+    "Files": [
+      {
+        "Sha": "1e93420f071311fd5c76695ef9b6c7b07c1313b2",
+        "FileName": "FeedService.java",
+        "Path": "scuttlebutt-client-lib/src/main/java/org/apache/tuweni/scuttlebutt/lib/FeedService.java",
+        "DateUpdated": "2019-09-23T15:37:29Z",
+        "Additions": 8,
+        "Deletions": 2,
+        "Commits": [
+          "980a7ac61f2c8e9f37e4f4a7bd75f97caf00ad4a"
+        ]
+      },
+      {
+        "Sha": "007ba7d87d2035c962b5d3c0620c50298319a4fa",
+        "FileName": "NetworkService.java",
+        "Path": "scuttlebutt-client-lib/src/main/java/org/apache/tuweni/scuttlebutt/lib/NetworkService.java",
+        "DateUpdated": "2019-09-23T15:37:29Z",
+        "Additions": 100,
+        "Deletions": 2,
+        "Commits": [
+          "980a7ac61f2c8e9f37e4f4a7bd75f97caf00ad4a"
+        ]
+      },
+      {
+        "Sha": "9c694aa1fca2f314eb00814c09bf5f99aeb2ec6c",
+        "FileName": "ScuttlebuttClient.java",
+        "Path": "scuttlebutt-client-lib/src/main/java/org/apache/tuweni/scuttlebutt/lib/ScuttlebuttClient.java",
+        "DateUpdated": "2019-09-23T15:37:29Z",
+        "Additions": 14,
+        "Deletions": 3,
+        "Commits": [
+          "980a7ac61f2c8e9f37e4f4a7bd75f97caf00ad4a"
+        ]
+      },
+      {
+        "Sha": "b996f68b9a8382a88a684a3feade7b62aa2ae1ee",
+        "FileName": "SocialService.java",
+        "Path": "scuttlebutt-client-lib/src/main/java/org/apache/tuweni/scuttlebutt/lib/SocialService.java",
+        "DateUpdated": "2019-09-23T15:37:29Z",
+        "Additions": 269,
+        "Deletions": 0,
+        "Commits": [
+          "980a7ac61f2c8e9f37e4f4a7bd75f97caf00ad4a"
+        ]
+      },
+      {
+        "Sha": "78e8535242fad596e585ef2c55522a6d4dfa5cc6",
+        "FileName": "Peer.java",
+        "Path": "scuttlebutt-client-lib/src/main/java/org/apache/tuweni/scuttlebutt/lib/model/Peer.java",
+        "DateUpdated": "2019-09-23T15:37:29Z",
+        "Additions": 57,
+        "Deletions": 0,
+        "Commits": [
+          "980a7ac61f2c8e9f37e4f4a7bd75f97caf00ad4a"
+        ]
+      },
+      {
+        "Sha": "3aeca8c8dbd05f088dd9abd4795a2b57164b9d7b",
+        "FileName": "PeerStateChange.java",
+        "Path": "scuttlebutt-client-lib/src/main/java/org/apache/tuweni/scuttlebutt/lib/model/PeerStateChange.java",
+        "DateUpdated": "2019-09-23T15:37:29Z",
+        "Additions": 51,
+        "Deletions": 0,
+        "Commits": [
+          "980a7ac61f2c8e9f37e4f4a7bd75f97caf00ad4a"
+        ]
+      },
+      {
+        "Sha": "dad41e4b57b3b80aa6cf3ed36f9fcf5f1da54331",
+        "FileName": "Profile.java",
+        "Path": "scuttlebutt-client-lib/src/main/java/org/apache/tuweni/scuttlebutt/lib/model/Profile.java",
+        "DateUpdated": "2019-09-23T15:37:29Z",
+        "Additions": 44,
+        "Deletions": 0,
+        "Commits": [
+          "980a7ac61f2c8e9f37e4f4a7bd75f97caf00ad4a"
+        ]
+      },
+      {
+        "Sha": "da874a7d62ef0411a3b66b217f86130684491037",
+        "FileName": "StreamHandler.java",
+        "Path": "scuttlebutt-client-lib/src/main/java/org/apache/tuweni/scuttlebutt/lib/model/StreamHandler.java",
+        "DateUpdated": "2019-09-23T15:37:29Z",
+        "Additions": 0,
+        "Deletions": 3,
+        "Commits": [
+          "980a7ac61f2c8e9f37e4f4a7bd75f97caf00ad4a"
+        ]
+      },
+      {
+        "Sha": "46b3760add9573039e6c43253ef77fa167bb7f10",
+        "FileName": "UpdateNameMessage.java",
+        "Path": "scuttlebutt-client-lib/src/main/java/org/apache/tuweni/scuttlebutt/lib/model/UpdateNameMessage.java",
+        "DateUpdated": "2019-09-23T15:37:29Z",
+        "Additions": 48,
+        "Deletions": 0,
+        "Commits": [
+          "980a7ac61f2c8e9f37e4f4a7bd75f97caf00ad4a"
+        ]
+      },
+      {
+        "Sha": "798894a49e854f5eed530d71796b58502a6773e8",
+        "FileName": "AboutQuery.java",
+        "Path": "scuttlebutt-client-lib/src/main/java/org/apache/tuweni/scuttlebutt/lib/model/query/AboutQuery.java",
+        "DateUpdated": "2019-09-23T15:37:29Z",
+        "Additions": 40,
+        "Deletions": 0,
+        "Commits": [
+          "980a7ac61f2c8e9f37e4f4a7bd75f97caf00ad4a"
+        ]
+      },
+      {
+        "Sha": "4827cf2d4e270861f2368b4e362f0f559d32a4a8",
+        "FileName": "AboutQueryResponse.java",
+        "Path": "scuttlebutt-client-lib/src/main/java/org/apache/tuweni/scuttlebutt/lib/model/query/AboutQueryResponse.java",
+        "DateUpdated": "2019-09-23T15:37:29Z",
+        "Additions": 35,
+        "Deletions": 0,
+        "Commits": [
+          "980a7ac61f2c8e9f37e4f4a7bd75f97caf00ad4a"
+        ]
+      },
+      {
+        "Sha": "96e793e2be78289e2534d386696ba4cd73b6cf50",
+        "FileName": "IsFollowingQuery.java",
+        "Path": "scuttlebutt-client-lib/src/main/java/org/apache/tuweni/scuttlebutt/lib/model/query/IsFollowingQuery.java",
+        "DateUpdated": "2019-09-23T15:37:29Z",
+        "Additions": 40,
+        "Deletions": 0,
+        "Commits": [
+          "980a7ac61f2c8e9f37e4f4a7bd75f97caf00ad4a"
+        ]
+      },
+      {
+        "Sha": "95f2c0bbbf2ece2e5e128909ad48957ce5e048b3",
+        "FileName": "IsFollowingResponse.java",
+        "Path": "scuttlebutt-client-lib/src/main/java/org/apache/tuweni/scuttlebutt/lib/model/query/IsFollowingResponse.java",
+        "DateUpdated": "2019-09-23T15:37:29Z",
+        "Additions": 47,
+        "Deletions": 0,
+        "Commits": [
+          "980a7ac61f2c8e9f37e4f4a7bd75f97caf00ad4a"
+        ]
+      },
+      {
+        "Sha": "407cb34ebdc4be082c22a6f94e9bf8e35e4db13f",
+        "FileName": "WhoAmIResponse.java",
+        "Path": "scuttlebutt-client-lib/src/main/java/org/apache/tuweni/scuttlebutt/lib/model/query/WhoAmIResponse.java",
+        "DateUpdated": "2019-09-23T15:37:29Z",
+        "Additions": 34,
+        "Deletions": 0,
+        "Commits": [
+          "980a7ac61f2c8e9f37e4f4a7bd75f97caf00ad4a"
+        ]
+      },
+      {
+        "Sha": "a66edde914656e345b6f09d1ab089de7e1a50623",
+        "FileName": "FeedStreamTest.java",
+        "Path": "scuttlebutt-client-lib/src/test/java/org/apache/tuweni/scuttlebutt/lib/FeedStreamTest.java",
+        "DateUpdated": "2019-09-23T15:37:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "980a7ac61f2c8e9f37e4f4a7bd75f97caf00ad4a"
+        ]
+      },
+      {
+        "Sha": "8550ad6bf7f8b51640cbd3ca536cb6f7a3336d4f",
+        "FileName": "PeerInfoTest.java",
+        "Path": "scuttlebutt-client-lib/src/test/java/org/apache/tuweni/scuttlebutt/lib/PeerInfoTest.java",
+        "DateUpdated": "2019-09-23T15:37:29Z",
+        "Additions": 131,
+        "Deletions": 0,
+        "Commits": [
+          "980a7ac61f2c8e9f37e4f4a7bd75f97caf00ad4a"
+        ]
+      },
+      {
+        "Sha": "a850d4d5ef9e94343c89a0b93676fea67a8bf88f",
+        "FileName": "SocialServiceTest.java",
+        "Path": "scuttlebutt-client-lib/src/test/java/org/apache/tuweni/scuttlebutt/lib/SocialServiceTest.java",
+        "DateUpdated": "2019-09-23T15:37:29Z",
+        "Additions": 120,
+        "Deletions": 0,
+        "Commits": [
+          "980a7ac61f2c8e9f37e4f4a7bd75f97caf00ad4a"
+        ]
+      },
+      {
+        "Sha": "a5bb4947bf6b1269fa7765fd88ea6ae2db28fe21",
+        "FileName": "RPCResponse.java",
+        "Path": "scuttlebutt-rpc/src/main/java/org/apache/tuweni/scuttlebutt/rpc/RPCResponse.java",
+        "DateUpdated": "2019-09-23T15:37:29Z",
+        "Additions": 6,
+        "Deletions": 0,
+        "Commits": [
+          "980a7ac61f2c8e9f37e4f4a7bd75f97caf00ad4a"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "980a7ac61f2c8e9f37e4f4a7bd75f97caf00ad4a",
+        "Author": {
+          "name": "\"Gordon Martin\"",
+          "location": "Glasgow, Scotland"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T15:37:29Z",
+        "additions": 1045,
+        "deletions": 11,
+        "files": [
+          "1e93420f071311fd5c76695ef9b6c7b07c1313b2",
+          "007ba7d87d2035c962b5d3c0620c50298319a4fa",
+          "9c694aa1fca2f314eb00814c09bf5f99aeb2ec6c",
+          "b996f68b9a8382a88a684a3feade7b62aa2ae1ee",
+          "78e8535242fad596e585ef2c55522a6d4dfa5cc6",
+          "3aeca8c8dbd05f088dd9abd4795a2b57164b9d7b",
+          "dad41e4b57b3b80aa6cf3ed36f9fcf5f1da54331",
+          "da874a7d62ef0411a3b66b217f86130684491037",
+          "46b3760add9573039e6c43253ef77fa167bb7f10",
+          "798894a49e854f5eed530d71796b58502a6773e8",
+          "4827cf2d4e270861f2368b4e362f0f559d32a4a8",
+          "96e793e2be78289e2534d386696ba4cd73b6cf50",
+          "95f2c0bbbf2ece2e5e128909ad48957ce5e048b3",
+          "407cb34ebdc4be082c22a6f94e9bf8e35e4db13f",
+          "a66edde914656e345b6f09d1ab089de7e1a50623",
+          "8550ad6bf7f8b51640cbd3ca536cb6f7a3336d4f",
+          "a850d4d5ef9e94343c89a0b93676fea67a8bf88f",
+          "a5bb4947bf6b1269fa7765fd88ea6ae2db28fe21"
+        ]
+      }
+    ]
+  }
+]

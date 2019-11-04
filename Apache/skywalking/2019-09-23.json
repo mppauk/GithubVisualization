@@ -1,0 +1,200 @@
+[
+  {
+    "RepositoryName": "skywalking",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T01:05:47Z",
+    "EndDate": "2019-09-23T02:05:47",
+    "Branches": 9,
+    "Forks": 2999,
+    "Files": [
+      {
+        "Sha": "8aa38f47a36f90a9688c49873e45ab94435a36da",
+        "FileName": "accesslog.proto",
+        "Path": "oap-server/server-receiver-plugin/receiver-proto/src/main/proto/envoy/data/accesslog/v2/accesslog.proto",
+        "DateUpdated": "2019-09-23T02:02:33Z",
+        "Additions": 38,
+        "Deletions": 15,
+        "Commits": [
+          "c05e63353d092723e47373ba485238de2e859d56"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c05e63353d092723e47373ba485238de2e859d56",
+        "Author": {
+          "name": "\"å?´æ™Ÿ Wu Sheng\"",
+          "location": "Beijing(China), SF(US)",
+          "company": "@apache  @tetrateio "
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T02:02:33Z",
+        "additions": 38,
+        "deletions": 15,
+        "files": [
+          "8aa38f47a36f90a9688c49873e45ab94435a36da"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "skywalking",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T08:02:53Z",
+    "EndDate": "2019-09-23T09:02:53",
+    "Branches": 9,
+    "Forks": 3002,
+    "Files": [
+      {
+        "Sha": "1f57cadfa79da610d8fd89320ea019408636bdd0",
+        "FileName": "README.md",
+        "Path": "docs/en/guides/README.md",
+        "DateUpdated": "2019-09-23T08:11:19Z",
+        "Additions": 5,
+        "Deletions": 1,
+        "Commits": [
+          "6e02d34aa26123f8886ee2eaf0cc54f0cc2eb796"
+        ]
+      },
+      {
+        "Sha": "27654a474af2d25c0cb9e9ac6a0b0b8fe3e23634",
+        "FileName": "committer.md",
+        "Path": "docs/en/guides/asf/committer.md",
+        "DateUpdated": "2019-09-23T08:11:19Z",
+        "Additions": 166,
+        "Deletions": 0,
+        "Commits": [
+          "6e02d34aa26123f8886ee2eaf0cc54f0cc2eb796"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "6e02d34aa26123f8886ee2eaf0cc54f0cc2eb796",
+        "Author": {
+          "name": "\"å?´æ™Ÿ Wu Sheng\"",
+          "location": "Beijing(China), SF(US)",
+          "company": "@apache  @tetrateio "
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T08:11:19Z",
+        "additions": 171,
+        "deletions": 1,
+        "files": [
+          "1f57cadfa79da610d8fd89320ea019408636bdd0",
+          "27654a474af2d25c0cb9e9ac6a0b0b8fe3e23634"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "skywalking",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T09:02:55Z",
+    "EndDate": "2019-09-23T10:02:55",
+    "Branches": 8,
+    "Forks": 3002,
+    "Files": [
+      {
+        "Sha": "a4dc8b4b93c7726c212ef0f62799d72bc75edb94",
+        "FileName": "LICENSE",
+        "Path": "LICENSE",
+        "DateUpdated": "2019-09-23T09:49:07Z",
+        "Additions": 0,
+        "Deletions": 9,
+        "Commits": [
+          "1663e000cafe8a03dd0952f5c046f86b963f03a0"
+        ]
+      },
+      {
+        "Sha": "12189b627d22f500f6a54a1303878cbecefc7560",
+        "FileName": "LICENSE-antd.txt",
+        "Path": "licenses/LICENSE-antd.txt",
+        "DateUpdated": "2019-09-23T09:49:07Z",
+        "Additions": 0,
+        "Deletions": 22,
+        "Commits": [
+          "1663e000cafe8a03dd0952f5c046f86b963f03a0"
+        ]
+      },
+      {
+        "Sha": "7ddd94574d15bf9efb4852214f67bed92b655635",
+        "FileName": "create_source_release.sh",
+        "Path": "tools/releasing/create_source_release.sh",
+        "DateUpdated": "2019-09-23T09:49:07Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "1663e000cafe8a03dd0952f5c046f86b963f03a0"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "1663e000cafe8a03dd0952f5c046f86b963f03a0",
+        "Author": {
+          "name": "\"å?´æ™Ÿ Wu Sheng\"",
+          "location": "Beijing(China), SF(US)",
+          "company": "@apache  @tetrateio "
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T09:49:07Z",
+        "additions": 3,
+        "deletions": 32,
+        "files": [
+          "a4dc8b4b93c7726c212ef0f62799d72bc75edb94",
+          "12189b627d22f500f6a54a1303878cbecefc7560",
+          "7ddd94574d15bf9efb4852214f67bed92b655635"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "skywalking",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T14:03:24Z",
+    "EndDate": "2019-09-23T15:03:24",
+    "Branches": 8,
+    "Forks": 3003,
+    "Files": [
+      {
+        "Sha": "497e8152c28aee79b1543ab2823aa9294abd1dec",
+        "FileName": "StringFormatGroup.java",
+        "Path": "apm-commons/apm-util/src/main/java/org/apache/skywalking/apm/util/StringFormatGroup.java",
+        "DateUpdated": "2019-09-23T14:32:28Z",
+        "Additions": 6,
+        "Deletions": 4,
+        "Commits": [
+          "321a88f57559ab4fdd6c800ef697938e6b9d2215"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "321a88f57559ab4fdd6c800ef697938e6b9d2215",
+        "Author": {
+          "name": "\"kezhenxu94\"",
+          "location": "Hangzhou China",
+          "company": "@apache @alibaba"
+        },
+        "Commitor": {
+          "name": "\"å?´æ™Ÿ Wu Sheng\"",
+          "location": "Beijing(China), SF(US)",
+          "company": "@apache  @tetrateio "
+        },
+        "Date": "2019-09-23T14:32:28Z",
+        "additions": 6,
+        "deletions": 4,
+        "files": [
+          "497e8152c28aee79b1543ab2823aa9294abd1dec"
+        ]
+      }
+    ]
+  }
+]

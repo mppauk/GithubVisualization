@@ -1,0 +1,94 @@
+[
+  {
+    "RepositoryName": "openwhisk-release",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T02:03:26Z",
+    "EndDate": "2019-09-23T03:03:26",
+    "Branches": 4,
+    "Forks": 18,
+    "Files": [
+      {
+        "Sha": "20484309f7f84f554998d98425ee233dec0736c3",
+        "FileName": "rcverify.sh",
+        "Path": "tools/rcverify.sh",
+        "DateUpdated": "2019-09-23T02:17:04Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "846303fde9c24c7ec7b63cbcd5c11c3b1e5d1519"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "846303fde9c24c7ec7b63cbcd5c11c3b1e5d1519",
+        "Author": {
+          "name": "\"Dominic Kim\"",
+          "company": "Naver"
+        },
+        "Commitor": {
+          "name": "\"rodric rabbah\"",
+          "location": "New York"
+        },
+        "Date": "2019-09-23T02:17:04Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "20484309f7f84f554998d98425ee233dec0736c3"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "openwhisk-release",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T14:04:04Z",
+    "EndDate": "2019-09-23T15:04:04",
+    "Branches": 4,
+    "Forks": 18,
+    "Files": [
+      {
+        "Sha": "505849b1d8cf4112d508ed6f8dcdc7509f97fb29",
+        "FileName": "cli-1.0.0.json",
+        "Path": "release-configs/cli-1.0.0.json",
+        "DateUpdated": "2019-09-23T14:24:52Z",
+        "Additions": 29,
+        "Deletions": 0,
+        "Commits": [
+          "2a188603d8083041a6ff86bee0f41daa342ecc6d"
+        ]
+      },
+      {
+        "Sha": "508c05651b27135688ef7ac90eda0da56b7e6cf2",
+        "FileName": "package_source_code.sh",
+        "Path": "tools/package_source_code.sh",
+        "DateUpdated": "2019-09-23T14:24:52Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "2a188603d8083041a6ff86bee0f41daa342ecc6d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "2a188603d8083041a6ff86bee0f41daa342ecc6d",
+        "Author": {
+          "name": "\"David Grove\"",
+          "company": "IBM Research"
+        },
+        "Commitor": {
+          "name": "\"rodric rabbah\"",
+          "location": "New York"
+        },
+        "Date": "2019-09-23T14:24:52Z",
+        "additions": 30,
+        "deletions": 1,
+        "files": [
+          "505849b1d8cf4112d508ed6f8dcdc7509f97fb29",
+          "508c05651b27135688ef7ac90eda0da56b7e6cf2"
+        ]
+      }
+    ]
+  }
+]

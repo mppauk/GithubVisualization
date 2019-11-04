@@ -1,0 +1,52 @@
+[
+  {
+    "RepositoryName": "incubator-rya-site",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T02:47:48Z",
+    "EndDate": "2019-09-24T03:47:48",
+    "Branches": 2,
+    "Forks": 4,
+    "Files": [
+      {
+        "Sha": "92e6e0c1582023e5f85c735e6fb5bd6490e4cb08",
+        "FileName": "_navigation.html",
+        "Path": "content/_includes/themes/apache/_navigation.html",
+        "DateUpdated": "2019-09-24T03:04:32Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "63b4cd63e1680b5180fc1d8777da78e01a2a6fc9"
+        ]
+      },
+      {
+        "Sha": "073009e15dd9381a5ff181826420eafbb2804b67",
+        "FileName": "logo.png",
+        "Path": "content/assets/themes/apache/img/logo.png",
+        "DateUpdated": "2019-09-24T03:04:32Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "63b4cd63e1680b5180fc1d8777da78e01a2a6fc9"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "63b4cd63e1680b5180fc1d8777da78e01a2a6fc9",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-24T03:04:32Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "92e6e0c1582023e5f85c735e6fb5bd6490e4cb08",
+          "073009e15dd9381a5ff181826420eafbb2804b67"
+        ]
+      }
+    ]
+  }
+]

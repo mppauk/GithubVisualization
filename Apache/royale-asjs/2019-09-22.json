@@ -1,0 +1,52 @@
+[
+  {
+    "RepositoryName": "royale-asjs",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-22T22:02:35Z",
+    "EndDate": "2019-09-22T23:02:35",
+    "Branches": 77,
+    "Forks": 73,
+    "Files": [
+      {
+        "Sha": "f8dc6e84f0174676e1f242c4b0278c2f69882800",
+        "FileName": "defaults.css",
+        "Path": "frameworks/themes/JewelTheme/src/main/resources/defaults.css",
+        "DateUpdated": "2019-09-22T22:12:13Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "63589cac528441048813c7d6dc297711c4d64632"
+        ]
+      },
+      {
+        "Sha": "48e4187f9e60bb4773d8b82dc19d40f225946858",
+        "FileName": "_navigation.sass",
+        "Path": "frameworks/themes/JewelTheme/src/main/sass/components-primary/_navigation.sass",
+        "DateUpdated": "2019-09-22T22:12:13Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "63589cac528441048813c7d6dc297711c4d64632"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "63589cac528441048813c7d6dc297711c4d64632",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-22T22:12:13Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "f8dc6e84f0174676e1f242c4b0278c2f69882800",
+          "48e4187f9e60bb4773d8b82dc19d40f225946858"
+        ]
+      }
+    ]
+  }
+]

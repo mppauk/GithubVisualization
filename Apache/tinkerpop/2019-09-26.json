@@ -1,0 +1,1444 @@
+[
+  {
+    "RepositoryName": "tinkerpop",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T13:03:53Z",
+    "EndDate": "2019-09-26T14:03:53",
+    "Branches": 31,
+    "Forks": 497,
+    "Files": [
+      {
+        "Sha": "ff8bd8db4f4be39863476752444342ead72bc12c",
+        "FileName": "development-environment.asciidoc",
+        "Path": "docs/src/dev/developer/development-environment.asciidoc",
+        "DateUpdated": "2019-09-26T13:32:43Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "4d2142d70f0884e38e1a3492401797bc19bd9075",
+          "8a236d304752d0e1f4610d80eba703f93d8c9ad6"
+        ]
+      },
+      {
+        "Sha": "a84caed001d48d85d0e4f858ef594b455f362eb3",
+        "FileName": "development-environment.asciidoc",
+        "Path": "docs/src/dev/developer/development-environment.asciidoc",
+        "DateUpdated": "2019-09-26T13:32:07Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "1969c60aa12d696ce2722a438208273f33271ba1"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "4d2142d70f0884e38e1a3492401797bc19bd9075",
+        "Author": {
+          "name": "\"stephen mallette\""
+        },
+        "Commitor": {
+          "name": "\"stephen mallette\""
+        },
+        "Date": "2019-09-26T13:32:43Z",
+        "additions": 2,
+        "deletions": 1,
+        "files": [
+          "ff8bd8db4f4be39863476752444342ead72bc12c"
+        ]
+      },
+      {
+        "sha": "8a236d304752d0e1f4610d80eba703f93d8c9ad6",
+        "Author": {
+          "name": "\"stephen mallette\""
+        },
+        "Commitor": {
+          "name": "\"stephen mallette\""
+        },
+        "Date": "2019-09-26T13:32:31Z",
+        "additions": 2,
+        "deletions": 1,
+        "files": [
+          "ff8bd8db4f4be39863476752444342ead72bc12c"
+        ]
+      },
+      {
+        "sha": "1969c60aa12d696ce2722a438208273f33271ba1",
+        "Author": {
+          "name": "\"stephen mallette\""
+        },
+        "Commitor": {
+          "name": "\"stephen mallette\""
+        },
+        "Date": "2019-09-26T13:32:07Z",
+        "additions": 2,
+        "deletions": 1,
+        "files": [
+          "a84caed001d48d85d0e4f858ef594b455f362eb3"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "tinkerpop",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T14:04:16Z",
+    "EndDate": "2019-09-26T15:04:16",
+    "Branches": 29,
+    "Forks": 497,
+    "Files": [
+      {
+        "Sha": "3307eb7ea1b32c7eb8d52d4a3dbe0997a4826fdf",
+        "FileName": "CHANGELOG.asciidoc",
+        "Path": "CHANGELOG.asciidoc",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b"
+        ]
+      },
+      {
+        "Sha": "40d0ac02eb686b5b208c3479e66887fb05d08322",
+        "FileName": "graphbinary.asciidoc",
+        "Path": "docs/src/dev/io/graphbinary.asciidoc",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 4,
+        "Deletions": 8,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "0eae28976f733614fc44b7fc92347f2859509f14",
+        "FileName": "release-3.4.x.asciidoc",
+        "Path": "docs/src/upgrade/release-3.4.x.asciidoc",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b"
+        ]
+      },
+      {
+        "Sha": "be399f0edb8e266ee0445b772b16a7d91a773961",
+        "FileName": "PSerializer.java",
+        "Path": "gremlin-driver/src/main/java/org/apache/tinkerpop/gremlin/driver/ser/binary/types/PSerializer.java",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 12,
+        "Deletions": 12,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "8f7874ee56b625b8ccfa5a3360bc77825b280bb1",
+        "FileName": "GraphBinaryReaderWriterRoundTripTest.java",
+        "Path": "gremlin-driver/src/test/java/org/apache/tinkerpop/gremlin/driver/ser/binary/GraphBinaryReaderWriterRoundTripTest.java",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "7a223b9e706c57ea6d6a80bc63aafcaa86bc8e76",
+        "FileName": "TraversalSource.template",
+        "Path": "gremlin-python/glv/TraversalSource.template",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b"
+        ]
+      },
+      {
+        "Sha": "0b7f3772a6fad91c24b63a7979504225b7fd92e5",
+        "FileName": "pom.xml",
+        "Path": "gremlin-python/pom.xml",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b"
+        ]
+      },
+      {
+        "Sha": "bb3ab2447ce118fecb087fd08b46925cff46e2e5",
+        "FileName": "protocol.py",
+        "Path": "gremlin-python/src/main/jython/gremlin_python/driver/protocol.py",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 3,
+        "Deletions": 4,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "1e56e47c4f40f65295452dca2950f3924f1b5976",
+        "FileName": "serializer.py",
+        "Path": "gremlin-python/src/main/jython/gremlin_python/driver/serializer.py",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 125,
+        "Deletions": 14,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "0f8e87672be20cb2ecd53a4d1b37830ff68ac0b4",
+        "FileName": "strategies.py",
+        "Path": "gremlin-python/src/main/jython/gremlin_python/process/strategies.py",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 27,
+        "Deletions": 48,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "df2439dbab0f1c9d1abd7434081dcfde8193bc99",
+        "FileName": "traversal.py",
+        "Path": "gremlin-python/src/main/jython/gremlin_python/process/traversal.py",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b"
+        ]
+      },
+      {
+        "Sha": "012f52f236fbb453f19096a8d1465e16034951a6",
+        "FileName": "statics.py",
+        "Path": "gremlin-python/src/main/jython/gremlin_python/statics.py",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 12,
+        "Deletions": 6,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "c06ee128e578f9bd4aefdac18d0d937ebf4e57ef",
+        "FileName": "graphbinaryV1.py",
+        "Path": "gremlin-python/src/main/jython/gremlin_python/structure/io/graphbinaryV1.py",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 1083,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "5a54fb9bb1326af38a1a263cd6ae3ad8f1a7e681",
+        "FileName": "graphsonV3d0.py",
+        "Path": "gremlin-python/src/main/jython/gremlin_python/structure/io/graphsonV3d0.py",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "245fd9b7593e69eef1ec21230aa7761d227d2e7f",
+        "FileName": "terrain.py",
+        "Path": "gremlin-python/src/main/jython/radish/terrain.py",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "7d101095c828ba0e389e01290e36e929c15a5e27",
+        "FileName": "conftest.py",
+        "Path": "gremlin-python/src/main/jython/tests/conftest.py",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 27,
+        "Deletions": 20,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "e95a267db15be5e56455749b65d78cf2151da698",
+        "FileName": "test_driver_remote_connection.py",
+        "Path": "gremlin-python/src/main/jython/tests/driver/test_driver_remote_connection.py",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 10,
+        "Deletions": 9,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b"
+        ]
+      },
+      {
+        "Sha": "80c5966f81eac87ba38d39907da8413d88cf1843",
+        "FileName": "test_serializer.py",
+        "Path": "gremlin-python/src/main/jython/tests/driver/test_serializer.py",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 14,
+        "Deletions": 12,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "26a62a28091b1ed08ebfbb9b9ca6c3d1bf0eb420",
+        "FileName": "test_functionalityio.py",
+        "Path": "gremlin-python/src/main/jython/tests/structure/io/test_functionalityio.py",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 97,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "a2320bc93144a30b3e376bc7d07e7fb86cdb146b",
+        "FileName": "test_graphbinaryV1.py",
+        "Path": "gremlin-python/src/main/jython/tests/structure/io/test_graphbinaryV1.py",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 215,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "17bb177e5ee95f5cbe359249f893d43f9b75d1fa",
+        "FileName": "test_graphsonV3d0.py",
+        "Path": "gremlin-python/src/main/jython/tests/structure/io/test_graphsonV3d0.py",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 2,
+        "Deletions": 86,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "d7606f4b09428e56c7980fda9408faaed1113242",
+        "FileName": "pom.xml",
+        "Path": "gremlin-tools/gremlin-io-test/pom.xml",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 26,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b"
+        ]
+      },
+      {
+        "Sha": "43eeb0d8c22a7fbf51fd4b6c2391a1d366bcac1c",
+        "FileName": "generate-graphbinary-resources.groovy",
+        "Path": "gremlin-tools/gremlin-io-test/scripts/generate-graphbinary-resources.groovy",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 81,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "1d285fe345e8b803c07594a5d28e982af5ce2433",
+        "FileName": "Model.java",
+        "Path": "gremlin-tools/gremlin-io-test/src/main/java/org/apache/tinkerpop/gremlin/structure/io/Model.java",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 15,
+        "Deletions": 1,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b"
+        ]
+      },
+      {
+        "Sha": "8c7f4280d952f9c6abfa550f8938af689bde0e6f",
+        "FileName": "GraphBinaryCompatibility.java",
+        "Path": "gremlin-tools/gremlin-io-test/src/main/java/org/apache/tinkerpop/gremlin/structure/io/graphbinary/GraphBinaryCompatibility.java",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 86,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "b3c22662b5321d160f47860999de49d8106e04f0",
+        "FileName": "AbstractCompatibilityTest.java",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/java/org/apache/tinkerpop/gremlin/structure/io/AbstractCompatibilityTest.java",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 30,
+        "Deletions": 42,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "aa2ad0b5b90939e0c63cc20a301196b05721af60",
+        "FileName": "GraphBinaryCompatibilityTest.java",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/java/org/apache/tinkerpop/gremlin/structure/io/graphbinary/GraphBinaryCompatibilityTest.java",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 90,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "f9058615eebf91f746a467ed081beb74219d5af4",
+        "FileName": "barrier-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/barrier-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "921d95788d3f25ec568f6d493d85e8ae1523fc76",
+        "FileName": "bigdecimal-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/bigdecimal-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "d841fbe39c4595392347f769508d5253c6f0dfd8",
+        "FileName": "biginteger-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/biginteger-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "79620eb866157f652779546d549ee13659c6ceae",
+        "FileName": "binding-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/binding-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "454290662670d8195696d691af69553992280444",
+        "FileName": "bulkset-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/bulkset-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "af9544f3359f31c75baf9880abc545fd0fc74a43",
+        "FileName": "byte-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/byte-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "39793d23605e8c7086606b431dba34e475828f56",
+        "FileName": "bytebuffer-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/bytebuffer-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "bc76c2ef83a12cdb9920a38d61e0aef2dc3ac069",
+        "FileName": "bytecode-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/bytecode-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "3c875a5e6896e7cbdfd8b133e6ad57325c27f5f4",
+        "FileName": "cardinality-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/cardinality-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "b9d97e6bba1f6900a810ba01652c020b83fe9ae5",
+        "FileName": "char-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/char-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "6be272dc423b0ea0cfe877254f98ecd178838139",
+        "FileName": "class-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/class-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "c6805c8324e1a10292be3f1c3ba890946c3b6633",
+        "FileName": "column-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/column-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "e68e17afd3fad0c9c8b28c91dad830e110a74a87",
+        "FileName": "date-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/date-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "3caaba3c972021f7fc87ce0e231c1a4a3f78a225",
+        "FileName": "direction-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/direction-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "e538a627d7a6bf48b10b3529b6e706c8344123cc",
+        "FileName": "double-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/double-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "7ffa3add5964712af43b71bf5687659f3e1500ee",
+        "FileName": "duration-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/duration-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "086e85d65209c8f3088996f2aedcbdb7e5219b09",
+        "FileName": "edge-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/edge-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "322772c34aefeb6e93fefb23ad416a4c18f4b77d",
+        "FileName": "float-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/float-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "b613ddb0ac856e4352d5d0744421e26537ae37b4",
+        "FileName": "inetaddress-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/inetaddress-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "3335532b991b9ee0280819d8642343cbb77157c8",
+        "FileName": "instant-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/instant-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "7dc246a75de674864a8690c990c814b7c6368ab7",
+        "FileName": "integer-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/integer-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "b0e98f9afa06876d8394eccf1ca2190982e42cd4",
+        "FileName": "lambda-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/lambda-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "1aa405dac789c7ae514a3223486fc9eb9d9abff4",
+        "FileName": "list-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/list-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "2c9e2111c72e311f035186445046cc2e01b2f88a",
+        "FileName": "localdate-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/localdate-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "2e0c83c6ea99266593263ebbcd1c55db6282d97a",
+        "FileName": "localdatetime-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/localdatetime-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "05785c6924665782b002e9cc7b08016eac596d9f",
+        "FileName": "localtime-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/localtime-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "cee008327077f68bc247e843f7525d4f607d8403",
+        "FileName": "long-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/long-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "46cd9e23f7873abc55ec9205615320189c516de8",
+        "FileName": "map-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/map-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "dea77a591fc1374b799c32d0f310e26e89dc382f",
+        "FileName": "metrics-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/metrics-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "c12826342bf1f34188b589286c456158b4d09900",
+        "FileName": "monthday-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/monthday-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "4b2aabbbe5b6d91840d380708aa687f98322a84c",
+        "FileName": "offsetdatetime-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/offsetdatetime-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "a4c8c5bd1ad8faf5779b570ae4c88e9781fe3938",
+        "FileName": "offsettime-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/offsettime-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "84717cc0f8a4c56270d04f7abe3e8458b70c6b10",
+        "FileName": "operator-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/operator-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "311b6ad18ad706a3dca5810ff929706d67e5fff4",
+        "FileName": "order-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/order-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "ac60799c52aed66ee2726dd5d6dea670221883a7",
+        "FileName": "p-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/p-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "3237c9480808a48b73b1b3c667ba5beb4a615d4d",
+        "FileName": "pand-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/pand-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "ba075acea484a79348f706a3bba3ed4ebf101061",
+        "FileName": "path-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/path-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "f7dab350279d297dcb3109958618fef8be547a77",
+        "FileName": "period-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/period-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "77aca2fcd5e3c1e182db3b0001980baa2f1d2e22",
+        "FileName": "pick-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/pick-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "f698c948b6df453543d36e8171ce78f17db564c3",
+        "FileName": "pop-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/pop-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "7c0b3ab0630443b9377ff6c1259e02a8b14e2dbf",
+        "FileName": "por-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/por-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "ddc34e5ae60c5366e4b0b171952e8c5fab5b5c9e",
+        "FileName": "property-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/property-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "5ad30a9b431ecab681909d4baa8220740fdcd5cc",
+        "FileName": "pwithin-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/pwithin-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "5b195db95d5fcedaffd1f2cc7e44b99010155290",
+        "FileName": "pwithout-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/pwithout-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "534b956e2dd045eda8a3c91731a2eb1a422cc54e",
+        "FileName": "scope-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/scope-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "02df059101538ae9b4697f4655a1513a5488bc21",
+        "FileName": "set-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/set-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "e1d2d7d2fe19b2d1e24a8f344d94a504dbeea982",
+        "FileName": "short-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/short-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "a6376db338b62051232da3387fb25637dfc42558",
+        "FileName": "t-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/t-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "c796468ad5961d049b81e06c51f3d05c28e29430",
+        "FileName": "textp-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/textp-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "4fc4e5e1afdb5c2640085e24f948cb93cf2e4b3e",
+        "FileName": "timestamp-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/timestamp-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "a0a76d1396de9f0c9473a19d7bb8fb2c48cc18ec",
+        "FileName": "tinkergraph-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/tinkergraph-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "c947e620b570377ee81cad4c37b344671d049740",
+        "FileName": "traversalmetrics-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/traversalmetrics-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "8e47cc0eb8f63d75be676948d2ccc0e2eeb354e7",
+        "FileName": "traverser-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/traverser-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "7f1775d99656c7eaf760a0ecb334903587a278c7",
+        "FileName": "uuid-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/uuid-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "7fb9d65dbb737e5375dcedd0d552e8a9b1231cb0",
+        "FileName": "vertex-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/vertex-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "89f03294fa35b1abd5340563603a0f709f15dd19",
+        "FileName": "vertexproperty-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/vertexproperty-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "1fe0c7498d23e666ff543c34f6aaca82779cf2d7",
+        "FileName": "year-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/year-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "481a1219f10990d45cf6d7bbb88d7dbb5ae21ab6",
+        "FileName": "yearmonth-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/yearmonth-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "32e2e8b6d194ee147a7fb080d1e4949dc93f1f04",
+        "FileName": "zoneddatetime-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/zoneddatetime-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "2867c97ab94f1d5f1dc402260f84bfe60753dc7f",
+        "FileName": "zoneoffset-v1.gbin",
+        "Path": "gremlin-tools/gremlin-io-test/src/test/resources/org/apache/tinkerpop/gremlin/structure/io/graphbinary/_3_4_3/zoneoffset-v1.gbin",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 0,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b",
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "064a74edf9b3bdfaa9168f4621af02ac2caf5b28",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-26T15:03:08Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "928541febf66644122b16bc8e71143aec76d7b3b"
+        ]
+      },
+      {
+        "Sha": "ae0b2dc665e678bd34e5e6da2bc5dacea9b89bc0",
+        "FileName": "CHANGELOG.asciidoc",
+        "Path": "CHANGELOG.asciidoc",
+        "DateUpdated": "2019-09-26T15:02:11Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "37e5bde21107c04503c3cf255cb828d758d6d02d",
+        "FileName": "release-3.4.x.asciidoc",
+        "Path": "docs/src/upgrade/release-3.4.x.asciidoc",
+        "DateUpdated": "2019-09-26T15:02:11Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "2b021acf61960378b3b8672c1158f7512b6a33a9",
+        "FileName": "TraversalSource.template",
+        "Path": "gremlin-python/glv/TraversalSource.template",
+        "DateUpdated": "2019-09-26T15:02:11Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "4fd9c471a174ba1081c7593107f6df8f530b9937",
+        "FileName": "pom.xml",
+        "Path": "gremlin-python/pom.xml",
+        "DateUpdated": "2019-09-26T15:02:11Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "7253df6973860be1dc696274d8d473f80f0d7ed3",
+        "FileName": "traversal.py",
+        "Path": "gremlin-python/src/main/jython/gremlin_python/process/traversal.py",
+        "DateUpdated": "2019-09-26T15:02:11Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "52c272b6545b305843eb4478dc2f71448f5b641a",
+        "FileName": "test_driver_remote_connection.py",
+        "Path": "gremlin-python/src/main/jython/tests/driver/test_driver_remote_connection.py",
+        "DateUpdated": "2019-09-26T15:02:11Z",
+        "Additions": 10,
+        "Deletions": 11,
+        "Commits": [
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "dcef57ccb97afb2cd2cd903282465a3a501fc76c",
+        "FileName": "pom.xml",
+        "Path": "gremlin-tools/gremlin-io-test/pom.xml",
+        "DateUpdated": "2019-09-26T15:02:11Z",
+        "Additions": 26,
+        "Deletions": 0,
+        "Commits": [
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "ef939c431c1827ccc2f4a259e67909201dacc6fc",
+        "FileName": "Model.java",
+        "Path": "gremlin-tools/gremlin-io-test/src/main/java/org/apache/tinkerpop/gremlin/structure/io/Model.java",
+        "DateUpdated": "2019-09-26T15:02:11Z",
+        "Additions": 15,
+        "Deletions": 1,
+        "Commits": [
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      },
+      {
+        "Sha": "00f8c27e63f6d22edb7c7291c3bc3c044fab35f7",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-26T15:02:11Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "5803c265a79470684c56a4a01bdda22c8a99e756"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "928541febf66644122b16bc8e71143aec76d7b3b",
+        "Author": {
+          "name": "\"stephen mallette\""
+        },
+        "Commitor": {
+          "name": "\"stephen mallette\""
+        },
+        "Date": "2019-09-26T15:03:08Z",
+        "additions": 1998,
+        "deletions": 140,
+        "files": [
+          "3307eb7ea1b32c7eb8d52d4a3dbe0997a4826fdf",
+          "40d0ac02eb686b5b208c3479e66887fb05d08322",
+          "0eae28976f733614fc44b7fc92347f2859509f14",
+          "be399f0edb8e266ee0445b772b16a7d91a773961",
+          "8f7874ee56b625b8ccfa5a3360bc77825b280bb1",
+          "7a223b9e706c57ea6d6a80bc63aafcaa86bc8e76",
+          "0b7f3772a6fad91c24b63a7979504225b7fd92e5",
+          "bb3ab2447ce118fecb087fd08b46925cff46e2e5",
+          "1e56e47c4f40f65295452dca2950f3924f1b5976",
+          "0f8e87672be20cb2ecd53a4d1b37830ff68ac0b4",
+          "df2439dbab0f1c9d1abd7434081dcfde8193bc99",
+          "012f52f236fbb453f19096a8d1465e16034951a6",
+          "c06ee128e578f9bd4aefdac18d0d937ebf4e57ef",
+          "5a54fb9bb1326af38a1a263cd6ae3ad8f1a7e681",
+          "245fd9b7593e69eef1ec21230aa7761d227d2e7f",
+          "7d101095c828ba0e389e01290e36e929c15a5e27",
+          "e95a267db15be5e56455749b65d78cf2151da698",
+          "80c5966f81eac87ba38d39907da8413d88cf1843",
+          "26a62a28091b1ed08ebfbb9b9ca6c3d1bf0eb420",
+          "a2320bc93144a30b3e376bc7d07e7fb86cdb146b",
+          "17bb177e5ee95f5cbe359249f893d43f9b75d1fa",
+          "d7606f4b09428e56c7980fda9408faaed1113242",
+          "43eeb0d8c22a7fbf51fd4b6c2391a1d366bcac1c",
+          "1d285fe345e8b803c07594a5d28e982af5ce2433",
+          "8c7f4280d952f9c6abfa550f8938af689bde0e6f",
+          "b3c22662b5321d160f47860999de49d8106e04f0",
+          "aa2ad0b5b90939e0c63cc20a301196b05721af60",
+          "f9058615eebf91f746a467ed081beb74219d5af4",
+          "921d95788d3f25ec568f6d493d85e8ae1523fc76",
+          "d841fbe39c4595392347f769508d5253c6f0dfd8",
+          "79620eb866157f652779546d549ee13659c6ceae",
+          "454290662670d8195696d691af69553992280444",
+          "af9544f3359f31c75baf9880abc545fd0fc74a43",
+          "39793d23605e8c7086606b431dba34e475828f56",
+          "bc76c2ef83a12cdb9920a38d61e0aef2dc3ac069",
+          "3c875a5e6896e7cbdfd8b133e6ad57325c27f5f4",
+          "b9d97e6bba1f6900a810ba01652c020b83fe9ae5",
+          "6be272dc423b0ea0cfe877254f98ecd178838139",
+          "c6805c8324e1a10292be3f1c3ba890946c3b6633",
+          "e68e17afd3fad0c9c8b28c91dad830e110a74a87",
+          "3caaba3c972021f7fc87ce0e231c1a4a3f78a225",
+          "e538a627d7a6bf48b10b3529b6e706c8344123cc",
+          "7ffa3add5964712af43b71bf5687659f3e1500ee",
+          "086e85d65209c8f3088996f2aedcbdb7e5219b09",
+          "322772c34aefeb6e93fefb23ad416a4c18f4b77d",
+          "b613ddb0ac856e4352d5d0744421e26537ae37b4",
+          "3335532b991b9ee0280819d8642343cbb77157c8",
+          "7dc246a75de674864a8690c990c814b7c6368ab7",
+          "b0e98f9afa06876d8394eccf1ca2190982e42cd4",
+          "1aa405dac789c7ae514a3223486fc9eb9d9abff4",
+          "2c9e2111c72e311f035186445046cc2e01b2f88a",
+          "2e0c83c6ea99266593263ebbcd1c55db6282d97a",
+          "05785c6924665782b002e9cc7b08016eac596d9f",
+          "cee008327077f68bc247e843f7525d4f607d8403",
+          "46cd9e23f7873abc55ec9205615320189c516de8",
+          "dea77a591fc1374b799c32d0f310e26e89dc382f",
+          "c12826342bf1f34188b589286c456158b4d09900",
+          "4b2aabbbe5b6d91840d380708aa687f98322a84c",
+          "a4c8c5bd1ad8faf5779b570ae4c88e9781fe3938",
+          "84717cc0f8a4c56270d04f7abe3e8458b70c6b10",
+          "311b6ad18ad706a3dca5810ff929706d67e5fff4",
+          "ac60799c52aed66ee2726dd5d6dea670221883a7",
+          "3237c9480808a48b73b1b3c667ba5beb4a615d4d",
+          "ba075acea484a79348f706a3bba3ed4ebf101061",
+          "f7dab350279d297dcb3109958618fef8be547a77",
+          "77aca2fcd5e3c1e182db3b0001980baa2f1d2e22",
+          "f698c948b6df453543d36e8171ce78f17db564c3",
+          "7c0b3ab0630443b9377ff6c1259e02a8b14e2dbf",
+          "ddc34e5ae60c5366e4b0b171952e8c5fab5b5c9e",
+          "5ad30a9b431ecab681909d4baa8220740fdcd5cc",
+          "5b195db95d5fcedaffd1f2cc7e44b99010155290",
+          "534b956e2dd045eda8a3c91731a2eb1a422cc54e",
+          "02df059101538ae9b4697f4655a1513a5488bc21",
+          "e1d2d7d2fe19b2d1e24a8f344d94a504dbeea982",
+          "a6376db338b62051232da3387fb25637dfc42558",
+          "c796468ad5961d049b81e06c51f3d05c28e29430",
+          "4fc4e5e1afdb5c2640085e24f948cb93cf2e4b3e",
+          "a0a76d1396de9f0c9473a19d7bb8fb2c48cc18ec",
+          "c947e620b570377ee81cad4c37b344671d049740",
+          "8e47cc0eb8f63d75be676948d2ccc0e2eeb354e7",
+          "7f1775d99656c7eaf760a0ecb334903587a278c7",
+          "7fb9d65dbb737e5375dcedd0d552e8a9b1231cb0",
+          "89f03294fa35b1abd5340563603a0f709f15dd19",
+          "1fe0c7498d23e666ff543c34f6aaca82779cf2d7",
+          "481a1219f10990d45cf6d7bbb88d7dbb5ae21ab6",
+          "32e2e8b6d194ee147a7fb080d1e4949dc93f1f04",
+          "2867c97ab94f1d5f1dc402260f84bfe60753dc7f",
+          "064a74edf9b3bdfaa9168f4621af02ac2caf5b28"
+        ]
+      },
+      {
+        "sha": "5803c265a79470684c56a4a01bdda22c8a99e756",
+        "Author": {
+          "name": "\"stephen mallette\""
+        },
+        "Commitor": {
+          "name": "\"stephen mallette\""
+        },
+        "Date": "2019-09-26T15:02:11Z",
+        "additions": 1998,
+        "deletions": 142,
+        "files": [
+          "ae0b2dc665e678bd34e5e6da2bc5dacea9b89bc0",
+          "40d0ac02eb686b5b208c3479e66887fb05d08322",
+          "37e5bde21107c04503c3cf255cb828d758d6d02d",
+          "be399f0edb8e266ee0445b772b16a7d91a773961",
+          "8f7874ee56b625b8ccfa5a3360bc77825b280bb1",
+          "2b021acf61960378b3b8672c1158f7512b6a33a9",
+          "4fd9c471a174ba1081c7593107f6df8f530b9937",
+          "bb3ab2447ce118fecb087fd08b46925cff46e2e5",
+          "1e56e47c4f40f65295452dca2950f3924f1b5976",
+          "0f8e87672be20cb2ecd53a4d1b37830ff68ac0b4",
+          "7253df6973860be1dc696274d8d473f80f0d7ed3",
+          "012f52f236fbb453f19096a8d1465e16034951a6",
+          "c06ee128e578f9bd4aefdac18d0d937ebf4e57ef",
+          "5a54fb9bb1326af38a1a263cd6ae3ad8f1a7e681",
+          "245fd9b7593e69eef1ec21230aa7761d227d2e7f",
+          "7d101095c828ba0e389e01290e36e929c15a5e27",
+          "52c272b6545b305843eb4478dc2f71448f5b641a",
+          "80c5966f81eac87ba38d39907da8413d88cf1843",
+          "26a62a28091b1ed08ebfbb9b9ca6c3d1bf0eb420",
+          "a2320bc93144a30b3e376bc7d07e7fb86cdb146b",
+          "17bb177e5ee95f5cbe359249f893d43f9b75d1fa",
+          "dcef57ccb97afb2cd2cd903282465a3a501fc76c",
+          "43eeb0d8c22a7fbf51fd4b6c2391a1d366bcac1c",
+          "ef939c431c1827ccc2f4a259e67909201dacc6fc",
+          "8c7f4280d952f9c6abfa550f8938af689bde0e6f",
+          "b3c22662b5321d160f47860999de49d8106e04f0",
+          "aa2ad0b5b90939e0c63cc20a301196b05721af60",
+          "f9058615eebf91f746a467ed081beb74219d5af4",
+          "921d95788d3f25ec568f6d493d85e8ae1523fc76",
+          "d841fbe39c4595392347f769508d5253c6f0dfd8",
+          "79620eb866157f652779546d549ee13659c6ceae",
+          "454290662670d8195696d691af69553992280444",
+          "af9544f3359f31c75baf9880abc545fd0fc74a43",
+          "39793d23605e8c7086606b431dba34e475828f56",
+          "bc76c2ef83a12cdb9920a38d61e0aef2dc3ac069",
+          "3c875a5e6896e7cbdfd8b133e6ad57325c27f5f4",
+          "b9d97e6bba1f6900a810ba01652c020b83fe9ae5",
+          "6be272dc423b0ea0cfe877254f98ecd178838139",
+          "c6805c8324e1a10292be3f1c3ba890946c3b6633",
+          "e68e17afd3fad0c9c8b28c91dad830e110a74a87",
+          "3caaba3c972021f7fc87ce0e231c1a4a3f78a225",
+          "e538a627d7a6bf48b10b3529b6e706c8344123cc",
+          "7ffa3add5964712af43b71bf5687659f3e1500ee",
+          "086e85d65209c8f3088996f2aedcbdb7e5219b09",
+          "322772c34aefeb6e93fefb23ad416a4c18f4b77d",
+          "b613ddb0ac856e4352d5d0744421e26537ae37b4",
+          "3335532b991b9ee0280819d8642343cbb77157c8",
+          "7dc246a75de674864a8690c990c814b7c6368ab7",
+          "b0e98f9afa06876d8394eccf1ca2190982e42cd4",
+          "1aa405dac789c7ae514a3223486fc9eb9d9abff4",
+          "2c9e2111c72e311f035186445046cc2e01b2f88a",
+          "2e0c83c6ea99266593263ebbcd1c55db6282d97a",
+          "05785c6924665782b002e9cc7b08016eac596d9f",
+          "cee008327077f68bc247e843f7525d4f607d8403",
+          "46cd9e23f7873abc55ec9205615320189c516de8",
+          "dea77a591fc1374b799c32d0f310e26e89dc382f",
+          "c12826342bf1f34188b589286c456158b4d09900",
+          "4b2aabbbe5b6d91840d380708aa687f98322a84c",
+          "a4c8c5bd1ad8faf5779b570ae4c88e9781fe3938",
+          "84717cc0f8a4c56270d04f7abe3e8458b70c6b10",
+          "311b6ad18ad706a3dca5810ff929706d67e5fff4",
+          "ac60799c52aed66ee2726dd5d6dea670221883a7",
+          "3237c9480808a48b73b1b3c667ba5beb4a615d4d",
+          "ba075acea484a79348f706a3bba3ed4ebf101061",
+          "f7dab350279d297dcb3109958618fef8be547a77",
+          "77aca2fcd5e3c1e182db3b0001980baa2f1d2e22",
+          "f698c948b6df453543d36e8171ce78f17db564c3",
+          "7c0b3ab0630443b9377ff6c1259e02a8b14e2dbf",
+          "ddc34e5ae60c5366e4b0b171952e8c5fab5b5c9e",
+          "5ad30a9b431ecab681909d4baa8220740fdcd5cc",
+          "5b195db95d5fcedaffd1f2cc7e44b99010155290",
+          "534b956e2dd045eda8a3c91731a2eb1a422cc54e",
+          "02df059101538ae9b4697f4655a1513a5488bc21",
+          "e1d2d7d2fe19b2d1e24a8f344d94a504dbeea982",
+          "a6376db338b62051232da3387fb25637dfc42558",
+          "c796468ad5961d049b81e06c51f3d05c28e29430",
+          "4fc4e5e1afdb5c2640085e24f948cb93cf2e4b3e",
+          "a0a76d1396de9f0c9473a19d7bb8fb2c48cc18ec",
+          "c947e620b570377ee81cad4c37b344671d049740",
+          "8e47cc0eb8f63d75be676948d2ccc0e2eeb354e7",
+          "7f1775d99656c7eaf760a0ecb334903587a278c7",
+          "7fb9d65dbb737e5375dcedd0d552e8a9b1231cb0",
+          "89f03294fa35b1abd5340563603a0f709f15dd19",
+          "1fe0c7498d23e666ff543c34f6aaca82779cf2d7",
+          "481a1219f10990d45cf6d7bbb88d7dbb5ae21ab6",
+          "32e2e8b6d194ee147a7fb080d1e4949dc93f1f04",
+          "2867c97ab94f1d5f1dc402260f84bfe60753dc7f",
+          "00f8c27e63f6d22edb7c7291c3bc3c044fab35f7"
+        ]
+      }
+    ]
+  }
+]

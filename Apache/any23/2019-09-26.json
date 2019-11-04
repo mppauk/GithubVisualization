@@ -1,0 +1,442 @@
+[
+  {
+    "RepositoryName": "any23",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T01:02:36Z",
+    "EndDate": "2019-09-26T02:02:36",
+    "Branches": 7,
+    "Forks": 46,
+    "Files": [
+      {
+        "Sha": "096316ab613f1358579a56e42761f930483dead2",
+        "FileName": "BaseRDFExtractor.java",
+        "Path": "core/src/main/java/org/apache/any23/extractor/rdf/BaseRDFExtractor.java",
+        "DateUpdated": "2019-09-26T01:43:14Z",
+        "Additions": 1,
+        "Deletions": 28,
+        "Commits": [
+          "106fd6bb2409f0e6872bd61048437c1dc9b55e62",
+          "062c0853488977c9811a54520af13ff9307e71ad"
+        ]
+      },
+      {
+        "Sha": "93f8ce1a2c8fd6f37f8c3478b9f24d6cfbadc75b",
+        "FileName": "JSONLDExtractor.java",
+        "Path": "core/src/main/java/org/apache/any23/extractor/rdf/JSONLDExtractor.java",
+        "DateUpdated": "2019-09-26T01:43:14Z",
+        "Additions": 78,
+        "Deletions": 23,
+        "Commits": [
+          "106fd6bb2409f0e6872bd61048437c1dc9b55e62"
+        ]
+      },
+      {
+        "Sha": "f458debd0d240f7f08c5464f609b1eee02ddcacb",
+        "FileName": "JSONLDJavaSink.java",
+        "Path": "core/src/main/java/org/apache/any23/extractor/rdf/JSONLDJavaSink.java",
+        "DateUpdated": "2019-09-26T01:43:14Z",
+        "Additions": 114,
+        "Deletions": 0,
+        "Commits": [
+          "106fd6bb2409f0e6872bd61048437c1dc9b55e62"
+        ]
+      },
+      {
+        "Sha": "05483c8aad76d75158d1520ca7b193e89e3ce4e7",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-26T01:43:14Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "106fd6bb2409f0e6872bd61048437c1dc9b55e62"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "106fd6bb2409f0e6872bd61048437c1dc9b55e62",
+        "Author": {
+          "name": "\"Hans Brende\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T01:43:14Z",
+        "additions": 197,
+        "deletions": 52,
+        "files": [
+          "096316ab613f1358579a56e42761f930483dead2",
+          "93f8ce1a2c8fd6f37f8c3478b9f24d6cfbadc75b",
+          "f458debd0d240f7f08c5464f609b1eee02ddcacb",
+          "05483c8aad76d75158d1520ca7b193e89e3ce4e7"
+        ]
+      },
+      {
+        "sha": "062c0853488977c9811a54520af13ff9307e71ad",
+        "Author": {
+          "name": "\"Hans Brende\""
+        },
+        "Commitor": {
+          "name": "\"Hans Brende\""
+        },
+        "Date": "2019-09-26T01:42:04Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "096316ab613f1358579a56e42761f930483dead2"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "any23",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T05:02:20Z",
+    "EndDate": "2019-09-26T06:02:20",
+    "Branches": 7,
+    "Forks": 46,
+    "Files": [
+      {
+        "Sha": "a2b01a6a6aa28ea055188cbffa702261cbc09271",
+        "FileName": "pom.xml",
+        "Path": "cli/pom.xml",
+        "DateUpdated": "2019-09-26T05:50:59Z",
+        "Additions": 2,
+        "Deletions": 4,
+        "Commits": [
+          "0b88b0da514cb08e56bc3f1fe35b66927f0733e6",
+          "098f121ffa9b64ee9d91ca3b9f54407cd7453ecb"
+        ]
+      },
+      {
+        "Sha": "c975aa42fc17227f097a92fc1d9303d6ab912a82",
+        "FileName": "pom.xml",
+        "Path": "core/pom.xml",
+        "DateUpdated": "2019-09-26T05:50:59Z",
+        "Additions": 2,
+        "Deletions": 4,
+        "Commits": [
+          "0b88b0da514cb08e56bc3f1fe35b66927f0733e6",
+          "098f121ffa9b64ee9d91ca3b9f54407cd7453ecb"
+        ]
+      },
+      {
+        "Sha": "792ef07a9a0e21fc9ca763d920cf4e8ca38fa72a",
+        "FileName": "BaseCalendarExtractor.java",
+        "Path": "core/src/main/java/org/apache/any23/extractor/calendar/BaseCalendarExtractor.java",
+        "DateUpdated": "2019-09-26T05:50:59Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "0b88b0da514cb08e56bc3f1fe35b66927f0733e6",
+          "098f121ffa9b64ee9d91ca3b9f54407cd7453ecb"
+        ]
+      },
+      {
+        "Sha": "e45e7e465d4164804d60d0c8787fc36a8108b5d0",
+        "FileName": "HCardExtractor.java",
+        "Path": "core/src/main/java/org/apache/any23/extractor/html/HCardExtractor.java",
+        "DateUpdated": "2019-09-26T05:50:59Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "0b88b0da514cb08e56bc3f1fe35b66927f0733e6",
+          "098f121ffa9b64ee9d91ca3b9f54407cd7453ecb"
+        ]
+      },
+      {
+        "Sha": "599611c8ac0571ef331646e849d48f9a634a5c39",
+        "FileName": "ItemScope.java",
+        "Path": "core/src/main/java/org/apache/any23/extractor/microdata/ItemScope.java",
+        "DateUpdated": "2019-09-26T05:50:59Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "0b88b0da514cb08e56bc3f1fe35b66927f0733e6",
+          "098f121ffa9b64ee9d91ca3b9f54407cd7453ecb"
+        ]
+      },
+      {
+        "Sha": "4d4b0db6dfb02eccc19f6f6d260965d85384d8db",
+        "FileName": "MicrodataParser.java",
+        "Path": "core/src/main/java/org/apache/any23/extractor/microdata/MicrodataParser.java",
+        "DateUpdated": "2019-09-26T05:50:59Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "0b88b0da514cb08e56bc3f1fe35b66927f0733e6",
+          "098f121ffa9b64ee9d91ca3b9f54407cd7453ecb"
+        ]
+      },
+      {
+        "Sha": "afa1e62d139a3559dba108a14a212bdb8bbc1be2",
+        "FileName": "Any23ValueFactoryWrapper.java",
+        "Path": "core/src/main/java/org/apache/any23/rdf/Any23ValueFactoryWrapper.java",
+        "DateUpdated": "2019-09-26T05:50:59Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "0b88b0da514cb08e56bc3f1fe35b66927f0733e6",
+          "098f121ffa9b64ee9d91ca3b9f54407cd7453ecb"
+        ]
+      },
+      {
+        "Sha": "b050641eae614ac0afc25b17ecc3e50b313135e7",
+        "FileName": "StringUtils.java",
+        "Path": "core/src/main/java/org/apache/any23/util/StringUtils.java",
+        "DateUpdated": "2019-09-26T05:50:59Z",
+        "Additions": 8,
+        "Deletions": 22,
+        "Commits": [
+          "0b88b0da514cb08e56bc3f1fe35b66927f0733e6",
+          "098f121ffa9b64ee9d91ca3b9f54407cd7453ecb"
+        ]
+      },
+      {
+        "Sha": "3a63d2422ae0a8d4b729deecd5375f5e201a827d",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-26T05:50:59Z",
+        "Additions": 3,
+        "Deletions": 6,
+        "Commits": [
+          "0b88b0da514cb08e56bc3f1fe35b66927f0733e6",
+          "098f121ffa9b64ee9d91ca3b9f54407cd7453ecb"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "0b88b0da514cb08e56bc3f1fe35b66927f0733e6",
+        "Author": {
+          "name": "\"Hans Brende\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T05:50:59Z",
+        "additions": 20,
+        "deletions": 23,
+        "files": [
+          "a2b01a6a6aa28ea055188cbffa702261cbc09271",
+          "c975aa42fc17227f097a92fc1d9303d6ab912a82",
+          "792ef07a9a0e21fc9ca763d920cf4e8ca38fa72a",
+          "e45e7e465d4164804d60d0c8787fc36a8108b5d0",
+          "599611c8ac0571ef331646e849d48f9a634a5c39",
+          "4d4b0db6dfb02eccc19f6f6d260965d85384d8db",
+          "afa1e62d139a3559dba108a14a212bdb8bbc1be2",
+          "b050641eae614ac0afc25b17ecc3e50b313135e7",
+          "3a63d2422ae0a8d4b729deecd5375f5e201a827d"
+        ]
+      },
+      {
+        "sha": "098f121ffa9b64ee9d91ca3b9f54407cd7453ecb",
+        "Author": {
+          "name": "\"Hans Brende\""
+        },
+        "Commitor": {
+          "name": "\"Hans Brende\""
+        },
+        "Date": "2019-09-26T05:48:10Z",
+        "additions": 20,
+        "deletions": 23,
+        "files": [
+          "a2b01a6a6aa28ea055188cbffa702261cbc09271",
+          "c975aa42fc17227f097a92fc1d9303d6ab912a82",
+          "792ef07a9a0e21fc9ca763d920cf4e8ca38fa72a",
+          "e45e7e465d4164804d60d0c8787fc36a8108b5d0",
+          "599611c8ac0571ef331646e849d48f9a634a5c39",
+          "4d4b0db6dfb02eccc19f6f6d260965d85384d8db",
+          "afa1e62d139a3559dba108a14a212bdb8bbc1be2",
+          "b050641eae614ac0afc25b17ecc3e50b313135e7",
+          "3a63d2422ae0a8d4b729deecd5375f5e201a827d"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "any23",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T13:02:58Z",
+    "EndDate": "2019-09-26T14:02:58",
+    "Branches": 7,
+    "Forks": 46,
+    "Files": [
+      {
+        "Sha": "0e17209741d7dfd6987af4a1fc83153309b1eb84",
+        "FileName": "Setting.java",
+        "Path": "api/src/main/java/org/apache/any23/configuration/Setting.java",
+        "DateUpdated": "2019-09-26T13:36:51Z",
+        "Additions": 8,
+        "Deletions": 6,
+        "Commits": [
+          "9a794f7701add75b175df6204dfff4021fb637b2"
+        ]
+      },
+      {
+        "Sha": "2be73fa3fa08d696726c9419918b7c5cf315b46f",
+        "FileName": "Settings.java",
+        "Path": "api/src/main/java/org/apache/any23/configuration/Settings.java",
+        "DateUpdated": "2019-09-26T13:36:51Z",
+        "Additions": 15,
+        "Deletions": 9,
+        "Commits": [
+          "9a794f7701add75b175df6204dfff4021fb637b2"
+        ]
+      },
+      {
+        "Sha": "353ba11d869c74e4960150c80c66e4dc83dd4fd9",
+        "FileName": "WriterFactory.java",
+        "Path": "api/src/main/java/org/apache/any23/writer/WriterFactory.java",
+        "DateUpdated": "2019-09-26T13:36:51Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "9a794f7701add75b175df6204dfff4021fb637b2"
+        ]
+      },
+      {
+        "Sha": "5b361283e2068198ddafd4b9c4ebdfac4f1ebeac",
+        "FileName": "ElementsProcessor.java",
+        "Path": "core/src/main/java/org/apache/any23/extractor/yaml/ElementsProcessor.java",
+        "DateUpdated": "2019-09-26T13:36:51Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "9a794f7701add75b175df6204dfff4021fb637b2"
+        ]
+      },
+      {
+        "Sha": "cf0f1e77901d5a6edab50e704f4b2f43c64c08c5",
+        "FileName": "HTTPClient.java",
+        "Path": "core/src/main/java/org/apache/any23/http/HTTPClient.java",
+        "DateUpdated": "2019-09-26T13:36:51Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "9a794f7701add75b175df6204dfff4021fb637b2"
+        ]
+      },
+      {
+        "Sha": "14aeab39cab8f2647581da9da998bbf6fa86eb92",
+        "FileName": "RDFUtils.java",
+        "Path": "core/src/main/java/org/apache/any23/rdf/RDFUtils.java",
+        "DateUpdated": "2019-09-26T13:36:51Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "9a794f7701add75b175df6204dfff4021fb637b2"
+        ]
+      },
+      {
+        "Sha": "f2b227a727c6b99cedadcf52e77c6940fc36a7f1",
+        "FileName": "StreamUtils.java",
+        "Path": "core/src/main/java/org/apache/any23/util/StreamUtils.java",
+        "DateUpdated": "2019-09-26T13:36:51Z",
+        "Additions": 8,
+        "Deletions": 4,
+        "Commits": [
+          "9a794f7701add75b175df6204dfff4021fb637b2"
+        ]
+      },
+      {
+        "Sha": "9ecb6b92b01630a7c0366118f11bd1ffdd3d708d",
+        "FileName": "CSVReaderBuilder.java",
+        "Path": "csvutils/src/main/java/org/apache/any23/extractor/csv/CSVReaderBuilder.java",
+        "DateUpdated": "2019-09-26T13:36:51Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "9a794f7701add75b175df6204dfff4021fb637b2"
+        ]
+      },
+      {
+        "Sha": "7fd0d489e3afedf55fef73953fcde54ee0efce8a",
+        "FileName": "SiteCrawler.java",
+        "Path": "plugins/basic-crawler/src/main/java/org/apache/any23/plugin/crawler/SiteCrawler.java",
+        "DateUpdated": "2019-09-26T13:36:51Z",
+        "Additions": 6,
+        "Deletions": 4,
+        "Commits": [
+          "9a794f7701add75b175df6204dfff4021fb637b2"
+        ]
+      },
+      {
+        "Sha": "7fc5bbc830ebba8ca860701d97d7d1b1c1da3612",
+        "FileName": "Excel.java",
+        "Path": "plugins/office-scraper/src/main/java/org/apache/any23/vocab/Excel.java",
+        "DateUpdated": "2019-09-26T13:36:51Z",
+        "Additions": 6,
+        "Deletions": 1,
+        "Commits": [
+          "9a794f7701add75b175df6204dfff4021fb637b2"
+        ]
+      },
+      {
+        "Sha": "c8f5fb6185a1ae10891da395e138e3664f5a3b5e",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-26T13:36:51Z",
+        "Additions": 20,
+        "Deletions": 0,
+        "Commits": [
+          "9a794f7701add75b175df6204dfff4021fb637b2"
+        ]
+      },
+      {
+        "Sha": "8546f966662bedc95ef7aa71426178b9b993ef22",
+        "FileName": "ContentTypeNegotiator.java",
+        "Path": "service/src/main/java/org/apache/any23/servlet/conneg/ContentTypeNegotiator.java",
+        "DateUpdated": "2019-09-26T13:36:51Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "9a794f7701add75b175df6204dfff4021fb637b2"
+        ]
+      },
+      {
+        "Sha": "f4923fc5869b908c59710b3141ab7ab68b320e64",
+        "FileName": "MediaRangeSpec.java",
+        "Path": "service/src/main/java/org/apache/any23/servlet/conneg/MediaRangeSpec.java",
+        "DateUpdated": "2019-09-26T13:36:51Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "9a794f7701add75b175df6204dfff4021fb637b2"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "9a794f7701add75b175df6204dfff4021fb637b2",
+        "Author": {
+          "name": "\"Lewis John McGibbney\"",
+          "location": "Glendora, California, U.S.",
+          "company": "NASA Jet Propulsion Laboratory"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T13:36:51Z",
+        "additions": 84,
+        "deletions": 41,
+        "files": [
+          "0e17209741d7dfd6987af4a1fc83153309b1eb84",
+          "2be73fa3fa08d696726c9419918b7c5cf315b46f",
+          "353ba11d869c74e4960150c80c66e4dc83dd4fd9",
+          "5b361283e2068198ddafd4b9c4ebdfac4f1ebeac",
+          "cf0f1e77901d5a6edab50e704f4b2f43c64c08c5",
+          "14aeab39cab8f2647581da9da998bbf6fa86eb92",
+          "f2b227a727c6b99cedadcf52e77c6940fc36a7f1",
+          "9ecb6b92b01630a7c0366118f11bd1ffdd3d708d",
+          "7fd0d489e3afedf55fef73953fcde54ee0efce8a",
+          "7fc5bbc830ebba8ca860701d97d7d1b1c1da3612",
+          "c8f5fb6185a1ae10891da395e138e3664f5a3b5e",
+          "8546f966662bedc95ef7aa71426178b9b993ef22",
+          "f4923fc5869b908c59710b3141ab7ab68b320e64"
+        ]
+      }
+    ]
+  }
+]

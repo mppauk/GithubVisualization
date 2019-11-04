@@ -1,0 +1,152 @@
+[
+  {
+    "RepositoryName": "zeppelin",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T00:46:57Z",
+    "EndDate": "2019-09-25T01:46:57",
+    "Branches": 13,
+    "Forks": 2156,
+    "Files": [
+      {
+        "Sha": "1dc13572c8d58818ddb9d6707e0118f8cdbab18d",
+        "FileName": "interpreter.html",
+        "Path": "zeppelin-web/src/app/interpreter/interpreter.html",
+        "DateUpdated": "2019-09-25T01:31:13Z",
+        "Additions": 6,
+        "Deletions": 4,
+        "Commits": [
+          "c778a9dc1bd7253537de54f3c2f6660f8acc9231"
+        ]
+      },
+      {
+        "Sha": "e1bcc94813ce3003ff87f608620a8877456f9182",
+        "FileName": "note-name-filter.html",
+        "Path": "zeppelin-web/src/components/note-name-filter/note-name-filter.html",
+        "DateUpdated": "2019-09-25T01:31:13Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "c778a9dc1bd7253537de54f3c2f6660f8acc9231"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c778a9dc1bd7253537de54f3c2f6660f8acc9231",
+        "Author": {
+          "name": "\"Jaehoon Jeong\"",
+          "location": "Seoul",
+          "company": "Woowa Brothers Corp."
+        },
+        "Commitor": {
+          "name": "\"Jeff Zhang\"",
+          "location": "Shanghai, China",
+          "company": "Hortonworks"
+        },
+        "Date": "2019-09-25T01:31:13Z",
+        "additions": 8,
+        "deletions": 4,
+        "files": [
+          "1dc13572c8d58818ddb9d6707e0118f8cdbab18d",
+          "e1bcc94813ce3003ff87f608620a8877456f9182"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "zeppelin",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T01:03:36Z",
+    "EndDate": "2019-09-25T02:03:36",
+    "Branches": 13,
+    "Forks": 2156,
+    "Files": [
+      {
+        "Sha": "1dc13572c8d58818ddb9d6707e0118f8cdbab18d",
+        "FileName": "interpreter.html",
+        "Path": "zeppelin-web/src/app/interpreter/interpreter.html",
+        "DateUpdated": "2019-09-25T01:31:13Z",
+        "Additions": 6,
+        "Deletions": 4,
+        "Commits": [
+          "c778a9dc1bd7253537de54f3c2f6660f8acc9231"
+        ]
+      },
+      {
+        "Sha": "e1bcc94813ce3003ff87f608620a8877456f9182",
+        "FileName": "note-name-filter.html",
+        "Path": "zeppelin-web/src/components/note-name-filter/note-name-filter.html",
+        "DateUpdated": "2019-09-25T01:31:13Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "c778a9dc1bd7253537de54f3c2f6660f8acc9231"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c778a9dc1bd7253537de54f3c2f6660f8acc9231",
+        "Author": {
+          "name": "\"Jaehoon Jeong\"",
+          "location": "Seoul",
+          "company": "Woowa Brothers Corp."
+        },
+        "Commitor": {
+          "name": "\"Jeff Zhang\"",
+          "location": "Shanghai, China",
+          "company": "Hortonworks"
+        },
+        "Date": "2019-09-25T01:31:13Z",
+        "additions": 8,
+        "deletions": 4,
+        "files": [
+          "1dc13572c8d58818ddb9d6707e0118f8cdbab18d",
+          "e1bcc94813ce3003ff87f608620a8877456f9182"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "zeppelin",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T05:46:42Z",
+    "EndDate": "2019-09-25T06:46:42",
+    "Branches": 13,
+    "Forks": 2156,
+    "Files": [
+      {
+        "Sha": "4745de99eb54ede41a854558aadb562ea939f831",
+        "FileName": "publish_release.sh",
+        "Path": "dev/publish_release.sh",
+        "DateUpdated": "2019-09-25T05:57:06Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "1eb77b519b7f79d2924c51584623ae68211d284a"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "1eb77b519b7f79d2924c51584623ae68211d284a",
+        "Author": {
+          "name": "\"Jeff Zhang\"",
+          "location": "Shanghai, China",
+          "company": "Hortonworks"
+        },
+        "Commitor": {
+          "name": "\"Jeff Zhang\"",
+          "location": "Shanghai, China",
+          "company": "Hortonworks"
+        },
+        "Date": "2019-09-25T05:57:06Z",
+        "additions": 1,
+        "deletions": 0,
+        "files": [
+          "4745de99eb54ede41a854558aadb562ea939f831"
+        ]
+      }
+    ]
+  }
+]

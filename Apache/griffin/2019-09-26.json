@@ -1,0 +1,55 @@
+[
+  {
+    "RepositoryName": "griffin",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T14:05:23Z",
+    "EndDate": "2019-09-26T15:05:23",
+    "Branches": 13,
+    "Forks": 312,
+    "Files": [
+      {
+        "Sha": "b46ea8b817023dd367aec909613cb57703d1b8f0",
+        "FileName": "BatchJobOperatorImpl.java",
+        "Path": "service/src/main/java/org/apache/griffin/core/job/BatchJobOperatorImpl.java",
+        "DateUpdated": "2019-09-26T14:53:27Z",
+        "Additions": 4,
+        "Deletions": 5,
+        "Commits": [
+          "4f3caa57b9dc8470f631aa62bc2994fb61bf089c"
+        ]
+      },
+      {
+        "Sha": "14f8a52c411554cf69194317c2bb0cfc9a026628",
+        "FileName": "batch.component.html",
+        "Path": "ui/angular/src/app/job/create-job/batch/batch.component.html",
+        "DateUpdated": "2019-09-26T14:53:27Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "4f3caa57b9dc8470f631aa62bc2994fb61bf089c"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "4f3caa57b9dc8470f631aa62bc2994fb61bf089c",
+        "Author": {
+          "name": "\"Jason\"",
+          "location": "SH",
+          "company": "pingan"
+        },
+        "Commitor": {
+          "name": "\"William Guo\"",
+          "company": "@apache "
+        },
+        "Date": "2019-09-26T14:53:27Z",
+        "additions": 6,
+        "deletions": 6,
+        "files": [
+          "b46ea8b817023dd367aec909613cb57703d1b8f0",
+          "14f8a52c411554cf69194317c2bb0cfc9a026628"
+        ]
+      }
+    ]
+  }
+]

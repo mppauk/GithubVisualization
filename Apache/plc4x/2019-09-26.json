@@ -1,0 +1,194 @@
+[
+  {
+    "RepositoryName": "plc4x",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T13:05:04Z",
+    "EndDate": "2019-09-26T14:05:04",
+    "Branches": 20,
+    "Forks": 63,
+    "Files": [
+      {
+        "Sha": "2d99014eda89460ea54d4745ce54700fb351b35b",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-26T13:29:49Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "24ff45cadd9dcf12d357449cfe0a5375b7e59176"
+        ]
+      },
+      {
+        "Sha": "fe6a6d69ec1ce2770afb3ff9bf31e7c9ab06d57c",
+        "FileName": "release-build-tools.adoc",
+        "Path": "src/site/asciidoc/developers/release-build-tools.adoc",
+        "DateUpdated": "2019-09-26T13:28:57Z",
+        "Additions": 461,
+        "Deletions": 0,
+        "Commits": [
+          "0552d1e6c5bcc8ae99f21167c4e820b4805dd0a3"
+        ]
+      },
+      {
+        "Sha": "c6972044cfcba406d458c55384ba0512a05c5f87",
+        "FileName": "release.adoc",
+        "Path": "src/site/asciidoc/developers/release.adoc",
+        "DateUpdated": "2019-09-26T13:28:57Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0552d1e6c5bcc8ae99f21167c4e820b4805dd0a3"
+        ]
+      },
+      {
+        "Sha": "d79a08c025b612944752fb0330d1781999b748ac",
+        "FileName": "site.xml",
+        "Path": "src/site/site.xml",
+        "DateUpdated": "2019-09-26T13:28:57Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "0552d1e6c5bcc8ae99f21167c4e820b4805dd0a3"
+        ]
+      },
+      {
+        "Sha": "21043a5d393f2af3b67d542bc47dbef46038aea5",
+        "FileName": "pom.xml",
+        "Path": "build-utils/protocol-test/pom.xml",
+        "DateUpdated": "2019-09-26T13:27:51Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "574eaa9161d7d5148a619a35fceeab8b751bef93"
+        ]
+      },
+      {
+        "Sha": "60d155fe99bfaabc0ab5bd3314bd66108432d505",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-26T13:27:51Z",
+        "Additions": 5,
+        "Deletions": 1,
+        "Commits": [
+          "574eaa9161d7d5148a619a35fceeab8b751bef93"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "24ff45cadd9dcf12d357449cfe0a5375b7e59176",
+        "Author": {
+          "name": "\"Christofer Dutz\"",
+          "location": "Frankfurt, Germany",
+          "company": "codecentric AG"
+        },
+        "Commitor": {
+          "name": "\"Christofer Dutz\"",
+          "location": "Frankfurt, Germany",
+          "company": "codecentric AG"
+        },
+        "Date": "2019-09-26T13:29:49Z",
+        "additions": 2,
+        "deletions": 1,
+        "files": [
+          "2d99014eda89460ea54d4745ce54700fb351b35b"
+        ]
+      },
+      {
+        "sha": "0552d1e6c5bcc8ae99f21167c4e820b4805dd0a3",
+        "Author": {
+          "name": "\"Christofer Dutz\"",
+          "location": "Frankfurt, Germany",
+          "company": "codecentric AG"
+        },
+        "Commitor": {
+          "name": "\"Christofer Dutz\"",
+          "location": "Frankfurt, Germany",
+          "company": "codecentric AG"
+        },
+        "Date": "2019-09-26T13:28:57Z",
+        "additions": 463,
+        "deletions": 1,
+        "files": [
+          "fe6a6d69ec1ce2770afb3ff9bf31e7c9ab06d57c",
+          "c6972044cfcba406d458c55384ba0512a05c5f87",
+          "d79a08c025b612944752fb0330d1781999b748ac"
+        ]
+      },
+      {
+        "sha": "574eaa9161d7d5148a619a35fceeab8b751bef93",
+        "Author": {
+          "name": "\"Christofer Dutz\"",
+          "location": "Frankfurt, Germany",
+          "company": "codecentric AG"
+        },
+        "Commitor": {
+          "name": "\"Christofer Dutz\"",
+          "location": "Frankfurt, Germany",
+          "company": "codecentric AG"
+        },
+        "Date": "2019-09-26T13:27:51Z",
+        "additions": 13,
+        "deletions": 1,
+        "files": [
+          "21043a5d393f2af3b67d542bc47dbef46038aea5",
+          "60d155fe99bfaabc0ab5bd3314bd66108432d505"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "plc4x",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T14:05:43Z",
+    "EndDate": "2019-09-26T15:05:43",
+    "Branches": 20,
+    "Forks": 63,
+    "Files": [
+      {
+        "Sha": "0691b987481af2f92da45149503db88835652f3a",
+        "FileName": "pom.xml",
+        "Path": "plc4j/integrations/logstash-plugin/pom.xml",
+        "DateUpdated": "2019-09-26T14:51:14Z",
+        "Additions": 6,
+        "Deletions": 25,
+        "Commits": [
+          "d2128c1a104c1cdbb6c73c3e9e3c89e7b6e44825"
+        ]
+      },
+      {
+        "Sha": "d18b085cec57e5e551795a5e1aa2fabb5ec55219",
+        "FileName": "assembly.xml",
+        "Path": "plc4j/integrations/logstash-plugin/src/assembly/assembly.xml",
+        "DateUpdated": "2019-09-26T14:51:14Z",
+        "Additions": 0,
+        "Deletions": 38,
+        "Commits": [
+          "d2128c1a104c1cdbb6c73c3e9e3c89e7b6e44825"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d2128c1a104c1cdbb6c73c3e9e3c89e7b6e44825",
+        "Author": {
+          "name": "\"Christofer Dutz\"",
+          "location": "Frankfurt, Germany",
+          "company": "codecentric AG"
+        },
+        "Commitor": {
+          "name": "\"Christofer Dutz\"",
+          "location": "Frankfurt, Germany",
+          "company": "codecentric AG"
+        },
+        "Date": "2019-09-26T14:51:14Z",
+        "additions": 6,
+        "deletions": 63,
+        "files": [
+          "0691b987481af2f92da45149503db88835652f3a",
+          "d18b085cec57e5e551795a5e1aa2fabb5ec55219"
+        ]
+      }
+    ]
+  }
+]

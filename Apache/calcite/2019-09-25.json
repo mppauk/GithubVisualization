@@ -1,0 +1,67 @@
+[
+  {
+    "RepositoryName": "calcite",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T20:03:03Z",
+    "EndDate": "2019-09-25T21:03:03",
+    "Branches": 31,
+    "Forks": 935,
+    "Files": [
+      {
+        "Sha": "fbf76519b362aedff7fb209e38d8876de8d7719a",
+        "FileName": "JoinUnionTransposeRule.java",
+        "Path": "core/src/main/java/org/apache/calcite/rel/rules/JoinUnionTransposeRule.java",
+        "DateUpdated": "2019-09-25T20:23:53Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "c9adf94b0e07f2e9108ef4d1f2ee28c3e42063b3"
+        ]
+      },
+      {
+        "Sha": "de557287c6f56e211bf1e7cf7ec28b072116b18d",
+        "FileName": "RelOptRulesTest.java",
+        "Path": "core/src/test/java/org/apache/calcite/test/RelOptRulesTest.java",
+        "DateUpdated": "2019-09-25T20:23:53Z",
+        "Additions": 94,
+        "Deletions": 0,
+        "Commits": [
+          "c9adf94b0e07f2e9108ef4d1f2ee28c3e42063b3"
+        ]
+      },
+      {
+        "Sha": "4389093f89ad62e857788f36e775a20d573f63b1",
+        "FileName": "RelOptRulesTest.xml",
+        "Path": "core/src/test/resources/org/apache/calcite/test/RelOptRulesTest.xml",
+        "DateUpdated": "2019-09-25T20:23:53Z",
+        "Additions": 66,
+        "Deletions": 0,
+        "Commits": [
+          "c9adf94b0e07f2e9108ef4d1f2ee28c3e42063b3"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c9adf94b0e07f2e9108ef4d1f2ee28c3e42063b3",
+        "Author": {
+          "name": "\"Jin Xing\"",
+          "location": "Alibaba, Ant Financial, Beijing"
+        },
+        "Commitor": {
+          "name": "\"Haisheng Yuan\"",
+          "location": "Bellevue, WA",
+          "company": "Alibaba Group, Inc."
+        },
+        "Date": "2019-09-25T20:23:53Z",
+        "additions": 162,
+        "deletions": 1,
+        "files": [
+          "fbf76519b362aedff7fb209e38d8876de8d7719a",
+          "de557287c6f56e211bf1e7cf7ec28b072116b18d",
+          "4389093f89ad62e857788f36e775a20d573f63b1"
+        ]
+      }
+    ]
+  }
+]

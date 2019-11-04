@@ -1,0 +1,1088 @@
+[
+  {
+    "RepositoryName": "spark",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T08:02:26Z",
+    "EndDate": "2019-09-23T09:02:26",
+    "Branches": 19,
+    "Forks": 20091,
+    "Files": [
+      {
+        "Sha": "490915f6de4b31961a3c426200564dd87fcce2fe",
+        "FileName": "Encoders.java",
+        "Path": "common/network-common/src/main/java/org/apache/spark/network/protocol/Encoders.java",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 23,
+        "Deletions": 0,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "2d7a72315cf23e5644aa74c0ccf225fae0bb515b",
+        "FileName": "ExternalBlockHandler.java",
+        "Path": "common/network-shuffle/src/main/java/org/apache/spark/network/shuffle/ExternalBlockHandler.java",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 44,
+        "Deletions": 16,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "8b0d1e145a813165b7efa749c4a9853dee6ab688",
+        "FileName": "ExternalShuffleBlockResolver.java",
+        "Path": "common/network-shuffle/src/main/java/org/apache/spark/network/shuffle/ExternalShuffleBlockResolver.java",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "52854c86be3e622ee47e00ddd105b0e9de1938af",
+        "FileName": "OneForOneBlockFetcher.java",
+        "Path": "common/network-shuffle/src/main/java/org/apache/spark/network/shuffle/OneForOneBlockFetcher.java",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 14,
+        "Deletions": 13,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "faa960d414bcc438a2ba85c7ddb4e9ade31c7f84",
+        "FileName": "FetchShuffleBlocks.java",
+        "Path": "common/network-shuffle/src/main/java/org/apache/spark/network/shuffle/protocol/FetchShuffleBlocks.java",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "ba40f4a45ac8fed548736a05cfc1946a7ffb1742",
+        "FileName": "BlockTransferMessagesSuite.java",
+        "Path": "common/network-shuffle/src/test/java/org/apache/spark/network/shuffle/BlockTransferMessagesSuite.java",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "6a5d04b6f417b13f349759615aff027ce13c6f58",
+        "FileName": "ExternalBlockHandlerSuite.java",
+        "Path": "common/network-shuffle/src/test/java/org/apache/spark/network/shuffle/ExternalBlockHandlerSuite.java",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "26a11672b80689ad5249121cb471d95fcd5c66b9",
+        "FileName": "OneForOneBlockFetcherSuite.java",
+        "Path": "common/network-shuffle/src/test/java/org/apache/spark/network/shuffle/OneForOneBlockFetcherSuite.java",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "d30f3dad3c9407b5f3449356834cd5e38f57b4b5",
+        "FileName": "ShuffleExecutorComponents.java",
+        "Path": "core/src/main/java/org/apache/spark/shuffle/api/ShuffleExecutorComponents.java",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 4,
+        "Deletions": 12,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "21abe9a57cd25e271df2c8c7960c3b25689d0060",
+        "FileName": "ShuffleMapOutputWriter.java",
+        "Path": "core/src/main/java/org/apache/spark/shuffle/api/ShuffleMapOutputWriter.java",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "dc157eaa3b25331ccec5bdff096a9dc3c9c36466",
+        "FileName": "BypassMergeSortShuffleWriter.java",
+        "Path": "core/src/main/java/org/apache/spark/shuffle/sort/BypassMergeSortShuffleWriter.java",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 7,
+        "Deletions": 8,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "d09282e61a9c759bea176a4bb3c13cafe13477b0",
+        "FileName": "UnsafeShuffleWriter.java",
+        "Path": "core/src/main/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriter.java",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 7,
+        "Deletions": 15,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "a0c7d3c248d48c1afef53daf1488f126747bb1c3",
+        "FileName": "LocalDiskShuffleExecutorComponents.java",
+        "Path": "core/src/main/java/org/apache/spark/shuffle/sort/io/LocalDiskShuffleExecutorComponents.java",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 2,
+        "Deletions": 4,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "a6529fd76188aa50a7ecd2a8fa4f9ea787647c56",
+        "FileName": "LocalDiskShuffleMapOutputWriter.java",
+        "Path": "core/src/main/java/org/apache/spark/shuffle/sort/io/LocalDiskShuffleMapOutputWriter.java",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "c8b41992a891962ee219128b334c7974b4fa68c2",
+        "FileName": "LocalDiskSingleSpillMapOutputWriter.java",
+        "Path": "core/src/main/java/org/apache/spark/shuffle/sort/io/LocalDiskSingleSpillMapOutputWriter.java",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "f0ac9acd901568204a46fe6a46604b30faeec456",
+        "FileName": "Dependency.scala",
+        "Path": "core/src/main/scala/org/apache/spark/Dependency.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "53329f0a937bdaa9920ecf32cb53148201a1b420",
+        "FileName": "MapOutputTracker.scala",
+        "Path": "core/src/main/scala/org/apache/spark/MapOutputTracker.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 57,
+        "Deletions": 34,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "b13028f8680725dd2229246cb5175adfe78375af",
+        "FileName": "TaskEndReason.scala",
+        "Path": "core/src/main/scala/org/apache/spark/TaskEndReason.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 4,
+        "Deletions": 3,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "d142d22929728f91ea03638d203a9bb598deeba5",
+        "FileName": "package.scala",
+        "Path": "core/src/main/scala/org/apache/spark/internal/config/package.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "ee3e9cc03b966353ffd74c8d3481f2d987698653",
+        "FileName": "DAGScheduler.scala",
+        "Path": "core/src/main/scala/org/apache/spark/scheduler/DAGScheduler.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 29,
+        "Deletions": 10,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "c9d37c985d211fefc70a5712ad7eb463be6bad9b",
+        "FileName": "MapStatus.scala",
+        "Path": "core/src/main/scala/org/apache/spark/scheduler/MapStatus.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 37,
+        "Deletions": 12,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "06e5d8ab0302aedb6c2a28bf069c1bda4eb4d05f",
+        "FileName": "ShuffleMapTask.scala",
+        "Path": "core/src/main/scala/org/apache/spark/scheduler/ShuffleMapTask.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "a9f72eae713680a4d8f73fdd5bd2fe7840975a1c",
+        "FileName": "Stage.scala",
+        "Path": "core/src/main/scala/org/apache/spark/scheduler/Stage.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 5,
+        "Deletions": 1,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "6fe183c0780894803a2c124037e3b481ec0905e1",
+        "FileName": "BaseShuffleHandle.scala",
+        "Path": "core/src/main/scala/org/apache/spark/shuffle/BaseShuffleHandle.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "8a0e84d901c2fa1995a983563abc159dfb36cec6",
+        "FileName": "BlockStoreShuffleReader.scala",
+        "Path": "core/src/main/scala/org/apache/spark/shuffle/BlockStoreShuffleReader.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "6509a04dc4893a08fbeb4dc4d7ffbc424432a910",
+        "FileName": "FetchFailedException.scala",
+        "Path": "core/src/main/scala/org/apache/spark/shuffle/FetchFailedException.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 8,
+        "Deletions": 6,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "332164a7be3e79a06bcda0ae1a65bb59fb789181",
+        "FileName": "IndexShuffleBlockResolver.scala",
+        "Path": "core/src/main/scala/org/apache/spark/shuffle/IndexShuffleBlockResolver.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "a717ef242ea7ce168046eac9d8a89edb0b14a616",
+        "FileName": "ShuffleManager.scala",
+        "Path": "core/src/main/scala/org/apache/spark/shuffle/ShuffleManager.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "f222200a7816c85e0ab1816256d8e81eef5ecf0d",
+        "FileName": "ShuffleWriteProcessor.scala",
+        "Path": "core/src/main/scala/org/apache/spark/shuffle/ShuffleWriteProcessor.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "d96bcb3d073df9eb8846ef8219c0f53ee083102d",
+        "FileName": "SortShuffleManager.scala",
+        "Path": "core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleManager.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 15,
+        "Deletions": 17,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "a391bdf2db44e8a1e9d22f6d4367a9e66acd5b60",
+        "FileName": "SortShuffleWriter.scala",
+        "Path": "core/src/main/scala/org/apache/spark/shuffle/sort/SortShuffleWriter.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "9c5b7f64e7abedb1fc543bd7dcdd41eb7820ba24",
+        "FileName": "BlockId.scala",
+        "Path": "core/src/main/scala/org/apache/spark/storage/BlockId.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "5fce358fae37f9eeb64188ac163a7a2330451d51",
+        "FileName": "ShuffleBlockFetcherIterator.scala",
+        "Path": "core/src/main/scala/org/apache/spark/storage/ShuffleBlockFetcherIterator.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 62,
+        "Deletions": 40,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "353590d201bc53c3b5551f923d2a24d6cdd5ebaf",
+        "FileName": "JsonProtocol.scala",
+        "Path": "core/src/main/scala/org/apache/spark/util/JsonProtocol.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 4,
+        "Deletions": 2,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "6fecfbaca84163c2fa805cd6ac1f627694abd99c",
+        "FileName": "ExternalSorter.scala",
+        "Path": "core/src/main/scala/org/apache/spark/util/collection/ExternalSorter.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "10e6936eb3799f9eb9d41ed96ce3e855d8d8cf17",
+        "FileName": "UnsafeShuffleWriterSuite.java",
+        "Path": "core/src/test/java/org/apache/spark/shuffle/sort/UnsafeShuffleWriterSuite.java",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 8,
+        "Deletions": 8,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "8433a6f52ac7aaf87cc0ab81f671e4113bf256ef",
+        "FileName": "InternalAccumulatorSuite.scala",
+        "Path": "core/src/test/scala/org/apache/spark/InternalAccumulatorSuite.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "da2ba2165bb0cdde6381d6e2bc1f25c75e315d62",
+        "FileName": "MapOutputTrackerSuite.scala",
+        "Path": "core/src/test/scala/org/apache/spark/MapOutputTrackerSuite.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 25,
+        "Deletions": 21,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "aa13f1e16203bb001d7362920959a57adf401b02",
+        "FileName": "ShuffleSuite.scala",
+        "Path": "core/src/test/scala/org/apache/spark/ShuffleSuite.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "8df66673b961913402c2c7997d4017c6c192292d",
+        "FileName": "SparkContextSuite.scala",
+        "Path": "core/src/test/scala/org/apache/spark/SparkContextSuite.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "3faab52d6510c1e0c02584f2319d9e6bc5df6cdf",
+        "FileName": "ExecutorSuite.scala",
+        "Path": "core/src/test/scala/org/apache/spark/executor/ExecutorSuite.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "e41d10709b0f4c32d399bfe235f8533ab380e2d6",
+        "FileName": "DAGSchedulerSuite.scala",
+        "Path": "core/src/test/scala/org/apache/spark/scheduler/DAGSchedulerSuite.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 175,
+        "Deletions": 66,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "700d9ebd76c0c71be6803bc9355d318e39640a41",
+        "FileName": "MapStatusSuite.scala",
+        "Path": "core/src/test/scala/org/apache/spark/scheduler/MapStatusSuite.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 7,
+        "Deletions": 5,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "6f80c7c0fe817b66773ceecd2c35ba63383a547a",
+        "FileName": "OutputCommitCoordinatorSuite.scala",
+        "Path": "core/src/test/scala/org/apache/spark/scheduler/OutputCommitCoordinatorSuite.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "4f737c9499ad6c009ec5898c67318ca512aa3523",
+        "FileName": "SchedulerIntegrationSuite.scala",
+        "Path": "core/src/test/scala/org/apache/spark/scheduler/SchedulerIntegrationSuite.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "394a2a9fbf7cbf0963e4c32c5d80e86c5a199d6b",
+        "FileName": "TaskContextSuite.scala",
+        "Path": "core/src/test/scala/org/apache/spark/scheduler/TaskContextSuite.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "5b1cb08aa4813214f1bd863c0c6b208e216ebe8b",
+        "FileName": "TaskSetManagerSuite.scala",
+        "Path": "core/src/test/scala/org/apache/spark/scheduler/TaskSetManagerSuite.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "43d7d12a3caed3857a7da672620ea636ffc327b9",
+        "FileName": "KryoSerializerSuite.scala",
+        "Path": "core/src/test/scala/org/apache/spark/serializer/KryoSerializerSuite.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "d0cbb30fe02325d78474103847a8d0bac0e64bc2",
+        "FileName": "BlockStoreShuffleReaderSuite.scala",
+        "Path": "core/src/test/scala/org/apache/spark/shuffle/BlockStoreShuffleReaderSuite.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 4,
+        "Deletions": 3,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "f8474022867f48fc4e6dd1c80c884d6bdbbac6b8",
+        "FileName": "BypassMergeSortShuffleWriterSuite.scala",
+        "Path": "core/src/test/scala/org/apache/spark/shuffle/sort/BypassMergeSortShuffleWriterSuite.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 6,
+        "Deletions": 11,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "4c5694fcf0305590d31acee2b2a256f3fc120a65",
+        "FileName": "SortShuffleWriterSuite.scala",
+        "Path": "core/src/test/scala/org/apache/spark/shuffle/sort/SortShuffleWriterSuite.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "f92455912f5104ff6e240e84652810b1ab5119c5",
+        "FileName": "LocalDiskShuffleMapOutputWriterSuite.scala",
+        "Path": "core/src/test/scala/org/apache/spark/shuffle/sort/io/LocalDiskShuffleMapOutputWriterSuite.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "e5a615c2c2cbb1ea02539b4c113bc763089e49f2",
+        "FileName": "ShuffleBlockFetcherIteratorSuite.scala",
+        "Path": "core/src/test/scala/org/apache/spark/storage/ShuffleBlockFetcherIteratorSuite.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 28,
+        "Deletions": 26,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "580af086ba9dad944caad91a2fe5289c31c8d092",
+        "FileName": "UISeleniumSuite.scala",
+        "Path": "core/src/test/scala/org/apache/spark/ui/UISeleniumSuite.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 4,
+        "Deletions": 2,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "54625a93679fbef8b946b47f0872d8816f9fb037",
+        "FileName": "JsonProtocolSuite.scala",
+        "Path": "core/src/test/scala/org/apache/spark/util/JsonProtocolSuite.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 5,
+        "Deletions": 4,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      },
+      {
+        "Sha": "78897d2863c22bad0d010425118bb4cdb7b61c05",
+        "FileName": "MimaExcludes.scala",
+        "Path": "project/MimaExcludes.scala",
+        "DateUpdated": "2019-09-23T08:16:52Z",
+        "Additions": 26,
+        "Deletions": 1,
+        "Commits": [
+          "f725d472f51fb80c6ce1882ec283ff69bafb0de4"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "f725d472f51fb80c6ce1882ec283ff69bafb0de4",
+        "Author": {
+          "name": "\"Li Yuanjian\"",
+          "location": "China,Beijing",
+          "company": "Databricks"
+        },
+        "Commitor": {
+          "name": "\"Wenchen Fan\"",
+          "location": "Hangzhou, China",
+          "company": "Databricks"
+        },
+        "Date": "2019-09-23T08:16:52Z",
+        "additions": 672,
+        "deletions": 391,
+        "files": [
+          "490915f6de4b31961a3c426200564dd87fcce2fe",
+          "2d7a72315cf23e5644aa74c0ccf225fae0bb515b",
+          "8b0d1e145a813165b7efa749c4a9853dee6ab688",
+          "52854c86be3e622ee47e00ddd105b0e9de1938af",
+          "faa960d414bcc438a2ba85c7ddb4e9ade31c7f84",
+          "ba40f4a45ac8fed548736a05cfc1946a7ffb1742",
+          "6a5d04b6f417b13f349759615aff027ce13c6f58",
+          "26a11672b80689ad5249121cb471d95fcd5c66b9",
+          "d30f3dad3c9407b5f3449356834cd5e38f57b4b5",
+          "21abe9a57cd25e271df2c8c7960c3b25689d0060",
+          "dc157eaa3b25331ccec5bdff096a9dc3c9c36466",
+          "d09282e61a9c759bea176a4bb3c13cafe13477b0",
+          "a0c7d3c248d48c1afef53daf1488f126747bb1c3",
+          "a6529fd76188aa50a7ecd2a8fa4f9ea787647c56",
+          "c8b41992a891962ee219128b334c7974b4fa68c2",
+          "f0ac9acd901568204a46fe6a46604b30faeec456",
+          "53329f0a937bdaa9920ecf32cb53148201a1b420",
+          "b13028f8680725dd2229246cb5175adfe78375af",
+          "d142d22929728f91ea03638d203a9bb598deeba5",
+          "ee3e9cc03b966353ffd74c8d3481f2d987698653",
+          "c9d37c985d211fefc70a5712ad7eb463be6bad9b",
+          "06e5d8ab0302aedb6c2a28bf069c1bda4eb4d05f",
+          "a9f72eae713680a4d8f73fdd5bd2fe7840975a1c",
+          "6fe183c0780894803a2c124037e3b481ec0905e1",
+          "8a0e84d901c2fa1995a983563abc159dfb36cec6",
+          "6509a04dc4893a08fbeb4dc4d7ffbc424432a910",
+          "332164a7be3e79a06bcda0ae1a65bb59fb789181",
+          "a717ef242ea7ce168046eac9d8a89edb0b14a616",
+          "f222200a7816c85e0ab1816256d8e81eef5ecf0d",
+          "d96bcb3d073df9eb8846ef8219c0f53ee083102d",
+          "a391bdf2db44e8a1e9d22f6d4367a9e66acd5b60",
+          "9c5b7f64e7abedb1fc543bd7dcdd41eb7820ba24",
+          "5fce358fae37f9eeb64188ac163a7a2330451d51",
+          "353590d201bc53c3b5551f923d2a24d6cdd5ebaf",
+          "6fecfbaca84163c2fa805cd6ac1f627694abd99c",
+          "10e6936eb3799f9eb9d41ed96ce3e855d8d8cf17",
+          "8433a6f52ac7aaf87cc0ab81f671e4113bf256ef",
+          "da2ba2165bb0cdde6381d6e2bc1f25c75e315d62",
+          "aa13f1e16203bb001d7362920959a57adf401b02",
+          "8df66673b961913402c2c7997d4017c6c192292d",
+          "3faab52d6510c1e0c02584f2319d9e6bc5df6cdf",
+          "e41d10709b0f4c32d399bfe235f8533ab380e2d6",
+          "700d9ebd76c0c71be6803bc9355d318e39640a41",
+          "6f80c7c0fe817b66773ceecd2c35ba63383a547a",
+          "4f737c9499ad6c009ec5898c67318ca512aa3523",
+          "394a2a9fbf7cbf0963e4c32c5d80e86c5a199d6b",
+          "5b1cb08aa4813214f1bd863c0c6b208e216ebe8b",
+          "43d7d12a3caed3857a7da672620ea636ffc327b9",
+          "d0cbb30fe02325d78474103847a8d0bac0e64bc2",
+          "f8474022867f48fc4e6dd1c80c884d6bdbbac6b8",
+          "4c5694fcf0305590d31acee2b2a256f3fc120a65",
+          "f92455912f5104ff6e240e84652810b1ab5119c5",
+          "e5a615c2c2cbb1ea02539b4c113bc763089e49f2",
+          "580af086ba9dad944caad91a2fe5289c31c8d092",
+          "54625a93679fbef8b946b47f0872d8816f9fb037",
+          "78897d2863c22bad0d010425118bb4cdb7b61c05"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "spark",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T11:02:41Z",
+    "EndDate": "2019-09-23T12:02:41",
+    "Branches": 19,
+    "Forks": 20091,
+    "Files": [
+      {
+        "Sha": "670742c65602e0dd075a1c7e384038badae2b6ad",
+        "FileName": "TaskResultGetter.scala",
+        "Path": "core/src/main/scala/org/apache/spark/scheduler/TaskResultGetter.scala",
+        "DateUpdated": "2019-09-23T11:46:01Z",
+        "Additions": 6,
+        "Deletions": 0,
+        "Commits": [
+          "c08bc3728141db139273dc56039430ecb70e6abb"
+        ]
+      },
+      {
+        "Sha": "0d9f2b2df53dc9d4d115700cce60314654cc6668",
+        "FileName": "TaskResultGetterSuite.scala",
+        "Path": "core/src/test/scala/org/apache/spark/scheduler/TaskResultGetterSuite.scala",
+        "DateUpdated": "2019-09-23T11:46:01Z",
+        "Additions": 36,
+        "Deletions": 0,
+        "Commits": [
+          "c08bc3728141db139273dc56039430ecb70e6abb"
+        ]
+      },
+      {
+        "Sha": "4ea1754618cd4af635e91a08482fea7ab82145c0",
+        "FileName": "sql-keywords.md",
+        "Path": "docs/sql-keywords.md",
+        "DateUpdated": "2019-09-23T11:25:56Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "655356e8257c8d1b551a0b4686a0ef324ddda8a1"
+        ]
+      },
+      {
+        "Sha": "642e140668761d859e6b033253730bbc499dff6a",
+        "FileName": "SqlBase.g4",
+        "Path": "sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4",
+        "DateUpdated": "2019-09-23T11:25:56Z",
+        "Additions": 12,
+        "Deletions": 0,
+        "Commits": [
+          "655356e8257c8d1b551a0b4686a0ef324ddda8a1"
+        ]
+      },
+      {
+        "Sha": "ae036a831e8eec108287bb05275dc07760294e51",
+        "FileName": "AstBuilder.scala",
+        "Path": "sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/parser/AstBuilder.scala",
+        "DateUpdated": "2019-09-23T11:25:56Z",
+        "Additions": 31,
+        "Deletions": 1,
+        "Commits": [
+          "655356e8257c8d1b551a0b4686a0ef324ddda8a1"
+        ]
+      },
+      {
+        "Sha": "954374c15b93222c16a6e2fb8cf0517f7f43dea4",
+        "FileName": "UpdateTableStatement.scala",
+        "Path": "sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/sql/UpdateTableStatement.scala",
+        "DateUpdated": "2019-09-23T11:25:56Z",
+        "Additions": 27,
+        "Deletions": 0,
+        "Commits": [
+          "655356e8257c8d1b551a0b4686a0ef324ddda8a1"
+        ]
+      },
+      {
+        "Sha": "1dfc9b58504a5cdc146e507be8cd7073a08f8aa3",
+        "FileName": "DDLParserSuite.scala",
+        "Path": "sql/catalyst/src/test/scala/org/apache/spark/sql/catalyst/parser/DDLParserSuite.scala",
+        "DateUpdated": "2019-09-23T11:25:56Z",
+        "Additions": 43,
+        "Deletions": 1,
+        "Commits": [
+          "655356e8257c8d1b551a0b4686a0ef324ddda8a1"
+        ]
+      },
+      {
+        "Sha": "dfa5a686612891f509d7f1798df92b6c159060c6",
+        "FileName": "DataSourceResolution.scala",
+        "Path": "sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/DataSourceResolution.scala",
+        "DateUpdated": "2019-09-23T11:25:56Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "655356e8257c8d1b551a0b4686a0ef324ddda8a1"
+        ]
+      },
+      {
+        "Sha": "5e8383e7945794334c080f41c15dbb3fe3522981",
+        "FileName": "comments.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/pgSQL/comments.sql.out",
+        "DateUpdated": "2019-09-23T11:25:56Z",
+        "Additions": 9,
+        "Deletions": 9,
+        "Commits": [
+          "655356e8257c8d1b551a0b4686a0ef324ddda8a1"
+        ]
+      },
+      {
+        "Sha": "7fde00fe9a419a01914dd5c889fc70002132c072",
+        "FileName": "DataSourceV2SQLSuite.scala",
+        "Path": "sql/core/src/test/scala/org/apache/spark/sql/connector/DataSourceV2SQLSuite.scala",
+        "DateUpdated": "2019-09-23T11:25:56Z",
+        "Additions": 25,
+        "Deletions": 0,
+        "Commits": [
+          "655356e8257c8d1b551a0b4686a0ef324ddda8a1"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c08bc3728141db139273dc56039430ecb70e6abb",
+        "Author": {
+          "name": "\"Daoyuan Wang\"",
+          "location": "Shanghai",
+          "company": "Alibaba Inc"
+        },
+        "Commitor": {
+          "name": "\"Wenchen Fan\"",
+          "location": "Hangzhou, China",
+          "company": "Databricks"
+        },
+        "Date": "2019-09-23T11:46:01Z",
+        "additions": 42,
+        "deletions": 0,
+        "files": [
+          "670742c65602e0dd075a1c7e384038badae2b6ad",
+          "0d9f2b2df53dc9d4d115700cce60314654cc6668"
+        ]
+      },
+      {
+        "sha": "655356e8257c8d1b551a0b4686a0ef324ddda8a1",
+        "Author": {
+          "name": "\"Xianyin Xin\"",
+          "location": "Hangzhou, China",
+          "company": "Alibaba-Inc"
+        },
+        "Commitor": {
+          "name": "\"Wenchen Fan\"",
+          "location": "Hangzhou, China",
+          "company": "Databricks"
+        },
+        "Date": "2019-09-23T11:25:56Z",
+        "additions": 152,
+        "deletions": 12,
+        "files": [
+          "4ea1754618cd4af635e91a08482fea7ab82145c0",
+          "642e140668761d859e6b033253730bbc499dff6a",
+          "ae036a831e8eec108287bb05275dc07760294e51",
+          "954374c15b93222c16a6e2fb8cf0517f7f43dea4",
+          "1dfc9b58504a5cdc146e507be8cd7073a08f8aa3",
+          "dfa5a686612891f509d7f1798df92b6c159060c6",
+          "5e8383e7945794334c080f41c15dbb3fe3522981",
+          "7fde00fe9a419a01914dd5c889fc70002132c072"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "spark",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T12:02:59Z",
+    "EndDate": "2019-09-23T13:02:59",
+    "Branches": 19,
+    "Forks": 20091,
+    "Files": [
+      {
+        "Sha": "ce3cbc3a2fc41f71af27acb8f2e390ad5494078b",
+        "FileName": "SparkExecuteStatementOperation.scala",
+        "Path": "sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkExecuteStatementOperation.scala",
+        "DateUpdated": "2019-09-23T12:47:25Z",
+        "Additions": 7,
+        "Deletions": 0,
+        "Commits": [
+          "d22768a6be42bdd8af147112a01ec0910d8d0931"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d22768a6be42bdd8af147112a01ec0910d8d0931",
+        "Author": {
+          "name": "null",
+          "location": "guangzhou",
+          "company": "NetEase"
+        },
+        "Commitor": {
+          "name": "\"Yuming Wang\"",
+          "location": "Shanghai, China",
+          "company": "@eBay @Apache"
+        },
+        "Date": "2019-09-23T12:47:25Z",
+        "additions": 7,
+        "deletions": 0,
+        "files": [
+          "ce3cbc3a2fc41f71af27acb8f2e390ad5494078b"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "spark",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T15:02:32Z",
+    "EndDate": "2019-09-23T16:02:32",
+    "Branches": 19,
+    "Forks": 20094,
+    "Files": [
+      {
+        "Sha": "f06be5fc6aa58fcf0536cbbfeb9958b36e91cc5d",
+        "FileName": "in-joins.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/subquery/in-subquery/in-joins.sql",
+        "DateUpdated": "2019-09-23T15:38:40Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0c40b94ae57b994cfc5c848baa0fc2629ba378c3"
+        ]
+      },
+      {
+        "Sha": "bebc18a61894bf1a7be4763db15eb20c0acef2a5",
+        "FileName": "not-in-joins.sql",
+        "Path": "sql/core/src/test/resources/sql-tests/inputs/subquery/in-subquery/not-in-joins.sql",
+        "DateUpdated": "2019-09-23T15:38:40Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0c40b94ae57b994cfc5c848baa0fc2629ba378c3"
+        ]
+      },
+      {
+        "Sha": "7089fbd25e28ca7c7dc8ec2abcc63a7b183a6861",
+        "FileName": "in-joins.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/subquery/in-subquery/in-joins.sql.out",
+        "DateUpdated": "2019-09-23T15:38:40Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0c40b94ae57b994cfc5c848baa0fc2629ba378c3"
+        ]
+      },
+      {
+        "Sha": "498378bfa5c377ebbb5fb6a4b0905fc82743068f",
+        "FileName": "not-in-joins.sql.out",
+        "Path": "sql/core/src/test/resources/sql-tests/results/subquery/in-subquery/not-in-joins.sql.out",
+        "DateUpdated": "2019-09-23T15:38:40Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0c40b94ae57b994cfc5c848baa0fc2629ba378c3"
+        ]
+      },
+      {
+        "Sha": "71e881a0c6cc7ced233844203750beda5dfbac08",
+        "FileName": "SQLQueryTestSuite.scala",
+        "Path": "sql/core/src/test/scala/org/apache/spark/sql/SQLQueryTestSuite.scala",
+        "DateUpdated": "2019-09-23T15:38:40Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "0c40b94ae57b994cfc5c848baa0fc2629ba378c3"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "0c40b94ae57b994cfc5c848baa0fc2629ba378c3",
+        "Author": {
+          "name": "\"Yuming Wang\"",
+          "location": "Shanghai, China",
+          "company": "@eBay @Apache"
+        },
+        "Commitor": {
+          "name": "\"Yuming Wang\"",
+          "location": "Shanghai, China",
+          "company": "@eBay @Apache"
+        },
+        "Date": "2019-09-23T15:38:40Z",
+        "additions": 9,
+        "deletions": 9,
+        "files": [
+          "f06be5fc6aa58fcf0536cbbfeb9958b36e91cc5d",
+          "bebc18a61894bf1a7be4763db15eb20c0acef2a5",
+          "7089fbd25e28ca7c7dc8ec2abcc63a7b183a6861",
+          "498378bfa5c377ebbb5fb6a4b0905fc82743068f",
+          "71e881a0c6cc7ced233844203750beda5dfbac08"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "spark",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T16:02:30Z",
+    "EndDate": "2019-09-23T17:02:30",
+    "Branches": 19,
+    "Forks": 20094,
+    "Files": [
+      {
+        "Sha": "327c8b13fc3706cce7731f84e80b7be237349c72",
+        "FileName": "LICENSE-binary",
+        "Path": "LICENSE-binary",
+        "DateUpdated": "2019-09-23T16:19:04Z",
+        "Additions": 15,
+        "Deletions": 0,
+        "Commits": [
+          "c38f459059f0b38e2c7f0b5bcb633d96ace42a50"
+        ]
+      },
+      {
+        "Sha": "4dfcca1023f576d222c8b2e95f2afcc7a9adc956",
+        "FileName": "NOTICE-binary",
+        "Path": "NOTICE-binary",
+        "DateUpdated": "2019-09-23T16:19:04Z",
+        "Additions": 230,
+        "Deletions": 1,
+        "Commits": [
+          "c38f459059f0b38e2c7f0b5bcb633d96ace42a50"
+        ]
+      },
+      {
+        "Sha": "4e417679ca66387f693ef368e8b0fbdfdd3c7de9",
+        "FileName": "BarrierCoordinator.scala",
+        "Path": "core/src/main/scala/org/apache/spark/BarrierCoordinator.scala",
+        "DateUpdated": "2019-09-23T16:13:38Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "d50f6e6344f9966c872e7ea9639af752a28ba23e"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "c38f459059f0b38e2c7f0b5bcb633d96ace42a50",
+        "Author": {
+          "name": "\"Yuming Wang\"",
+          "location": "Shanghai, China",
+          "company": "@eBay @Apache"
+        },
+        "Commitor": {
+          "name": "\"Dongjoon Hyun\"",
+          "location": "Sunnyvale",
+          "company": "@apple @apache "
+        },
+        "Date": "2019-09-23T16:19:04Z",
+        "additions": 245,
+        "deletions": 1,
+        "files": [
+          "327c8b13fc3706cce7731f84e80b7be237349c72",
+          "4dfcca1023f576d222c8b2e95f2afcc7a9adc956"
+        ]
+      },
+      {
+        "sha": "d50f6e6344f9966c872e7ea9639af752a28ba23e",
+        "Author": {
+          "name": "\"Liang-Chi Hsieh\"",
+          "location": "Seattle",
+          "company": "Uber"
+        },
+        "Commitor": {
+          "name": "\"Wenchen Fan\"",
+          "location": "Hangzhou, China",
+          "company": "Databricks"
+        },
+        "Date": "2019-09-23T16:13:38Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "4e417679ca66387f693ef368e8b0fbdfdd3c7de9"
+        ]
+      }
+    ]
+  }
+]

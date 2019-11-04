@@ -1,0 +1,266 @@
+[
+  {
+    "RepositoryName": "incubator-brpc",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T06:03:07Z",
+    "EndDate": "2019-09-23T07:03:07",
+    "Branches": 2,
+    "Forks": 2187,
+    "Files": [
+      {
+        "Sha": "971e38bae1c4b4f731c1477683c3475982212468",
+        "FileName": "LICENSE",
+        "Path": "LICENSE",
+        "DateUpdated": "2019-09-23T06:32:56Z",
+        "Additions": 34,
+        "Deletions": 0,
+        "Commits": [
+          "869b27c6bb7b887a394586ea17efe5d6d7dcc4fd"
+        ]
+      },
+      {
+        "Sha": "739278e4d30adfa46d31823aab107f98e9674d83",
+        "FileName": "callback.h",
+        "Path": "src/brpc/callback.h",
+        "DateUpdated": "2019-09-23T06:32:56Z",
+        "Additions": 34,
+        "Deletions": 0,
+        "Commits": [
+          "869b27c6bb7b887a394586ea17efe5d6d7dcc4fd"
+        ]
+      },
+      {
+        "Sha": "53df209935df1aae895b29d3f2ab275fc500b33e",
+        "FileName": "tcmalloc_extension.cpp",
+        "Path": "src/brpc/details/tcmalloc_extension.cpp",
+        "DateUpdated": "2019-09-23T06:32:56Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "869b27c6bb7b887a394586ea17efe5d6d7dcc4fd"
+        ]
+      },
+      {
+        "Sha": "8ea69fe9221d898fde4ce929fb6394aa2cd3c30d",
+        "FileName": "file_util_linux.cc",
+        "Path": "src/butil/file_util_linux.cc",
+        "DateUpdated": "2019-09-23T06:32:56Z",
+        "Additions": 21,
+        "Deletions": 6,
+        "Commits": [
+          "869b27c6bb7b887a394586ea17efe5d6d7dcc4fd"
+        ]
+      },
+      {
+        "Sha": "de585f99c59e9dbc03adb7fd862cf92bb6755254",
+        "FileName": "linux_magic.h",
+        "Path": "src/butil/linux_magic.h",
+        "DateUpdated": "2019-09-23T06:32:56Z",
+        "Additions": 0,
+        "Deletions": 62,
+        "Commits": [
+          "869b27c6bb7b887a394586ea17efe5d6d7dcc4fd"
+        ]
+      },
+      {
+        "Sha": "3362e5c6dfb3d70b42112032287adfd65f44242f",
+        "FileName": "recordio.cc",
+        "Path": "src/butil/recordio.cc",
+        "DateUpdated": "2019-09-23T06:32:56Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "869b27c6bb7b887a394586ea17efe5d6d7dcc4fd"
+        ]
+      },
+      {
+        "Sha": "4fa44b8deffa20202cd2ead4f6b018b0328921e4",
+        "FileName": "unique_ptr.h",
+        "Path": "src/butil/unique_ptr.h",
+        "DateUpdated": "2019-09-23T06:32:56Z",
+        "Additions": 11,
+        "Deletions": 11,
+        "Commits": [
+          "869b27c6bb7b887a394586ea17efe5d6d7dcc4fd"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "869b27c6bb7b887a394586ea17efe5d6d7dcc4fd",
+        "Author": {
+          "name": "\"Ge Jun\"",
+          "location": "Shanghai, China"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T06:32:56Z",
+        "additions": 134,
+        "deletions": 79,
+        "files": [
+          "971e38bae1c4b4f731c1477683c3475982212468",
+          "739278e4d30adfa46d31823aab107f98e9674d83",
+          "53df209935df1aae895b29d3f2ab275fc500b33e",
+          "8ea69fe9221d898fde4ce929fb6394aa2cd3c30d",
+          "de585f99c59e9dbc03adb7fd862cf92bb6755254",
+          "3362e5c6dfb3d70b42112032287adfd65f44242f",
+          "4fa44b8deffa20202cd2ead4f6b018b0328921e4"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-brpc",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T11:03:52Z",
+    "EndDate": "2019-09-23T12:03:52",
+    "Branches": 2,
+    "Forks": 2187,
+    "Files": [
+      {
+        "Sha": "d3c35176ce452b81a4b0fd887935f34350b7f757",
+        "FileName": "mesalink_ssl_helper.cpp",
+        "Path": "src/brpc/details/mesalink_ssl_helper.cpp",
+        "DateUpdated": "2019-09-23T11:35:50Z",
+        "Additions": 6,
+        "Deletions": 8,
+        "Commits": [
+          "3747d4cfbebec8c239c82a0ae715bda006b98cb3"
+        ]
+      },
+      {
+        "Sha": "c959fff6d210d0dbe9d5294ad857b930ab31cebf",
+        "FileName": "logging.h",
+        "Path": "src/butil/logging.h",
+        "DateUpdated": "2019-09-23T11:11:05Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "23bf4b795022375e3df43c6ee66044aaa22f74d6"
+        ]
+      },
+      {
+        "Sha": "f4664e2232dc9d81bcf5dbb135fa083049a3ac29",
+        "FileName": "CMakeLists.txt",
+        "Path": "CMakeLists.txt",
+        "DateUpdated": "2019-09-23T11:06:58Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "ce170f42d825633894392098fae5696dbf2209b7"
+        ]
+      },
+      {
+        "Sha": "9c6d832c4fff86da3accba47974d292cb1e6816f",
+        "FileName": "context.cpp",
+        "Path": "src/bthread/context.cpp",
+        "DateUpdated": "2019-09-23T11:06:58Z",
+        "Additions": 120,
+        "Deletions": 11,
+        "Commits": [
+          "ce170f42d825633894392098fae5696dbf2209b7"
+        ]
+      },
+      {
+        "Sha": "8ff027df6aab3b21b0eb8a20dcf052a88198092f",
+        "FileName": "context.h",
+        "Path": "src/bthread/context.h",
+        "DateUpdated": "2019-09-23T11:06:58Z",
+        "Additions": 18,
+        "Deletions": 9,
+        "Commits": [
+          "ce170f42d825633894392098fae5696dbf2209b7"
+        ]
+      },
+      {
+        "Sha": "4471cec0577bbdfd833a9c258793657b9b84244f",
+        "FileName": "processor.h",
+        "Path": "src/bthread/processor.h",
+        "DateUpdated": "2019-09-23T11:06:58Z",
+        "Additions": 6,
+        "Deletions": 0,
+        "Commits": [
+          "ce170f42d825633894392098fae5696dbf2209b7"
+        ]
+      },
+      {
+        "Sha": "3822a99b7174451f6bcb3aaa71f71662118a81fa",
+        "FileName": "snappy-internal.h",
+        "Path": "src/butil/third_party/snappy/snappy-internal.h",
+        "DateUpdated": "2019-09-23T11:06:58Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "ce170f42d825633894392098fae5696dbf2209b7"
+        ]
+      },
+      {
+        "Sha": "e94a9c73b6d613fb412a8cb81ecdf58fbed010df",
+        "FileName": "snappy-stubs-internal.h",
+        "Path": "src/butil/third_party/snappy/snappy-stubs-internal.h",
+        "DateUpdated": "2019-09-23T11:06:58Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "ce170f42d825633894392098fae5696dbf2209b7"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "3747d4cfbebec8c239c82a0ae715bda006b98cb3",
+        "Author": {
+          "name": "\"Ge Jun\"",
+          "location": "Shanghai, China"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T11:35:50Z",
+        "additions": 6,
+        "deletions": 8,
+        "files": [
+          "d3c35176ce452b81a4b0fd887935f34350b7f757"
+        ]
+      },
+      {
+        "sha": "23bf4b795022375e3df43c6ee66044aaa22f74d6",
+        "Author": {
+          "name": "\"Ge Jun\"",
+          "location": "Shanghai, China"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T11:11:05Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "c959fff6d210d0dbe9d5294ad857b930ab31cebf"
+        ]
+      },
+      {
+        "sha": "ce170f42d825633894392098fae5696dbf2209b7",
+        "Author": {
+          "name": "\"Ge Jun\"",
+          "location": "Shanghai, China"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T11:06:58Z",
+        "additions": 155,
+        "deletions": 28,
+        "files": [
+          "f4664e2232dc9d81bcf5dbb135fa083049a3ac29",
+          "9c6d832c4fff86da3accba47974d292cb1e6816f",
+          "8ff027df6aab3b21b0eb8a20dcf052a88198092f",
+          "4471cec0577bbdfd833a9c258793657b9b84244f",
+          "3822a99b7174451f6bcb3aaa71f71662118a81fa",
+          "e94a9c73b6d613fb412a8cb81ecdf58fbed010df"
+        ]
+      }
+    ]
+  }
+]

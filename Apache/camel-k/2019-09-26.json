@@ -1,0 +1,162 @@
+[
+  {
+    "RepositoryName": "camel-k",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T09:04:44Z",
+    "EndDate": "2019-09-26T10:04:44",
+    "Branches": 2,
+    "Forks": 90,
+    "Files": [
+      {
+        "Sha": "7cfbc9d033fb0388475e855be0446acad69a2ea0",
+        "FileName": "camel.go",
+        "Path": "pkg/trait/camel.go",
+        "DateUpdated": "2019-09-26T09:49:11Z",
+        "Additions": 5,
+        "Deletions": 1,
+        "Commits": [
+          "10d0b8046b7ef2d65835bf69cbe3b074d3cd6c79"
+        ]
+      },
+      {
+        "Sha": "edaab2113ddc017757c1ed727c101740d28f998a",
+        "FileName": "metadata_dependencies_test.go",
+        "Path": "pkg/metadata/metadata_dependencies_test.go",
+        "DateUpdated": "2019-09-26T09:49:03Z",
+        "Additions": 145,
+        "Deletions": 3,
+        "Commits": [
+          "5ceee9f877a82b05429fca0794d764b733cbb885"
+        ]
+      },
+      {
+        "Sha": "da0ee4dce90fd61ad9d72055566a1e576ae66371",
+        "FileName": "camel_runtime_catalog.go",
+        "Path": "pkg/util/camel/camel_runtime_catalog.go",
+        "DateUpdated": "2019-09-26T09:49:03Z",
+        "Additions": 16,
+        "Deletions": 2,
+        "Commits": [
+          "5ceee9f877a82b05429fca0794d764b733cbb885"
+        ]
+      },
+      {
+        "Sha": "942900b5131a3d032e4695ac27e6d0dc846186f2",
+        "FileName": "inspector.go",
+        "Path": "pkg/util/source/inspector.go",
+        "DateUpdated": "2019-09-26T09:49:03Z",
+        "Additions": 22,
+        "Deletions": 5,
+        "Commits": [
+          "5ceee9f877a82b05429fca0794d764b733cbb885"
+        ]
+      },
+      {
+        "Sha": "116ed62fa5f6e6e0a5b319819d3028a8ae20a289",
+        "FileName": "inspector_xml.go",
+        "Path": "pkg/util/source/inspector_xml.go",
+        "DateUpdated": "2019-09-26T09:49:03Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "5ceee9f877a82b05429fca0794d764b733cbb885"
+        ]
+      },
+      {
+        "Sha": "7a16d1afaba674da5faecd3a4ab4f5b0efa06f9b",
+        "FileName": "inspector_yaml.go",
+        "Path": "pkg/util/source/inspector_yaml.go",
+        "DateUpdated": "2019-09-26T09:49:03Z",
+        "Additions": 25,
+        "Deletions": 0,
+        "Commits": [
+          "5ceee9f877a82b05429fca0794d764b733cbb885"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "10d0b8046b7ef2d65835bf69cbe3b074d3cd6c79",
+        "Author": {
+          "name": "\"Luca Burgazzoli\"",
+          "location": "Piacenza, Italy",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Luca Burgazzoli\"",
+          "location": "Piacenza, Italy",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-26T09:49:11Z",
+        "additions": 5,
+        "deletions": 1,
+        "files": [
+          "7cfbc9d033fb0388475e855be0446acad69a2ea0"
+        ]
+      },
+      {
+        "sha": "5ceee9f877a82b05429fca0794d764b733cbb885",
+        "Author": {
+          "name": "\"James Netherton\""
+        },
+        "Commitor": {
+          "name": "\"Luca Burgazzoli\"",
+          "location": "Piacenza, Italy",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-26T09:49:03Z",
+        "additions": 222,
+        "deletions": 10,
+        "files": [
+          "edaab2113ddc017757c1ed727c101740d28f998a",
+          "da0ee4dce90fd61ad9d72055566a1e576ae66371",
+          "942900b5131a3d032e4695ac27e6d0dc846186f2",
+          "116ed62fa5f6e6e0a5b319819d3028a8ae20a289",
+          "7a16d1afaba674da5faecd3a4ab4f5b0efa06f9b"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "camel-k",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T10:04:29Z",
+    "EndDate": "2019-09-26T11:04:29",
+    "Branches": 2,
+    "Forks": 90,
+    "Files": [
+      {
+        "Sha": "4e1cd46226b20c152f9d2ecfe74b34008426f1cc",
+        "FileName": "integration_controller.go",
+        "Path": "pkg/controller/integration/integration_controller.go",
+        "DateUpdated": "2019-09-26T10:29:46Z",
+        "Additions": 2,
+        "Deletions": 28,
+        "Commits": [
+          "d7484ef130c2d15fb153aaaac01de6a8c0b6cfec"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d7484ef130c2d15fb153aaaac01de6a8c0b6cfec",
+        "Author": {
+          "name": "\"Antonin Stefanutti\"",
+          "location": "Paris, France",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Nicola Ferraro\"",
+          "location": "Rome",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-26T10:29:46Z",
+        "additions": 2,
+        "deletions": 28,
+        "files": [
+          "4e1cd46226b20c152f9d2ecfe74b34008426f1cc"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,586 @@
+[
+  {
+    "RepositoryName": "tomee",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T00:46:26Z",
+    "EndDate": "2019-09-24T01:46:26",
+    "Branches": 30,
+    "Forks": 631,
+    "Files": [
+      {
+        "Sha": "196ba80f4a1804fad837f4ac5531008000b11e1a",
+        "FileName": "pom.xml",
+        "Path": "arquillian/arquillian-tomee-tests/arquillian-tomee-webprofile-tests/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "abc81152edf7b0abc703559474d4b5afb00b3acc",
+        "FileName": "pom.xml",
+        "Path": "examples/applet/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "618010a8a5c3a0dea9cddbd81cca45dce93826e3",
+        "FileName": "pom.xml",
+        "Path": "examples/bean-validation-design-by-contract/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "620adf9655e806615c7945f962ce3bcdf1a5203c",
+        "FileName": "pom.xml",
+        "Path": "examples/bval-evaluation-redeployment/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "a4764fe55ef36393112a427b287da413dbd05682",
+        "FileName": "pom.xml",
+        "Path": "examples/cloud-tomee-azure/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "2d6fe88e4d97c43d0b4a5f021c9fa857601cf8f6",
+        "FileName": "pom.xml",
+        "Path": "examples/connector-ear/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "8d8877af489a9b1894654262c83c421d97425813",
+        "FileName": "App.java",
+        "Path": "examples/ejb-remote-call/src/test/java/org/superbiz/remote/App.java",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "4f6706295f5303e69f4d0f255d91189f747cdc98",
+        "FileName": "pom.xml",
+        "Path": "examples/mbean-auto-registration/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "567a834bed22cd4c46037d6620ed677c89c7ab7e",
+        "FileName": "pom.xml",
+        "Path": "examples/mp-jsonb-configuration/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "075b5c56ce3090bb3a94116f8db80e856615b48a",
+        "FileName": "pom.xml",
+        "Path": "examples/mvc-cxf-hibernate/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "3eb7204493d0a69f53c8f4dc76953ce25dd3cf5f",
+        "FileName": "pom.xml",
+        "Path": "examples/mvc-cxf/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "ce4a841043ec4c3a3bc8b27ff74f7acc5205566c",
+        "FileName": "pom.xml",
+        "Path": "examples/pojo-webservice/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "d35914ef91df48a2d272c2451a7c1515ab843667",
+        "FileName": "pom.xml",
+        "Path": "examples/resources-declared-in-webapp/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "212ac9c5d2ccddbce351f1791340258d0c5e3254",
+        "FileName": "pom.xml",
+        "Path": "examples/resources-jmx-example/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "8b4e265a285607b58ae5e6613f737f3fe664b7c1",
+        "FileName": "pom.xml",
+        "Path": "examples/rest-example-with-application/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "32303bdadab92fe615d23a4261994fb6558539b8",
+        "FileName": "pom.xml",
+        "Path": "examples/simple-ear/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "217f8126aa6c26b3c47abb204b6d4b0b585710e6",
+        "FileName": "pom.xml",
+        "Path": "examples/vaadin-lts-v08-simple/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "278902d6e9af70b173f0b34232e59724ee6b8a08",
+        "FileName": "pom.xml",
+        "Path": "examples/vaadin-lts-v10-simple/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "ce1b3d9587612388ee3278e92eabfd4ad068b12d",
+        "FileName": "pom.xml",
+        "Path": "examples/vaadin-vxx-simple/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "47d132976086bf9124b1968260978bbd2770443c",
+        "FileName": "pom.xml",
+        "Path": "itests/startup/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "939b1b33cd814e9ff7b67b7e718431748f084e1f",
+        "FileName": "pom.xml",
+        "Path": "tomee/tomee-deb/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "788ea4ef3129068d0937494d6cd9dbf57b0a906a",
+        "FileName": "pom.xml",
+        "Path": "tomee/tomee-microprofile/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9",
+        "Author": {
+          "name": "\"Jean-Louis Monteiro\"",
+          "location": "France"
+        },
+        "Commitor": {
+          "name": "\"Jean-Louis Monteiro\"",
+          "location": "France"
+        },
+        "Date": "2019-09-24T01:04:29Z",
+        "additions": 27,
+        "deletions": 27,
+        "files": [
+          "196ba80f4a1804fad837f4ac5531008000b11e1a",
+          "abc81152edf7b0abc703559474d4b5afb00b3acc",
+          "618010a8a5c3a0dea9cddbd81cca45dce93826e3",
+          "620adf9655e806615c7945f962ce3bcdf1a5203c",
+          "a4764fe55ef36393112a427b287da413dbd05682",
+          "2d6fe88e4d97c43d0b4a5f021c9fa857601cf8f6",
+          "8d8877af489a9b1894654262c83c421d97425813",
+          "4f6706295f5303e69f4d0f255d91189f747cdc98",
+          "567a834bed22cd4c46037d6620ed677c89c7ab7e",
+          "075b5c56ce3090bb3a94116f8db80e856615b48a",
+          "3eb7204493d0a69f53c8f4dc76953ce25dd3cf5f",
+          "ce4a841043ec4c3a3bc8b27ff74f7acc5205566c",
+          "d35914ef91df48a2d272c2451a7c1515ab843667",
+          "212ac9c5d2ccddbce351f1791340258d0c5e3254",
+          "8b4e265a285607b58ae5e6613f737f3fe664b7c1",
+          "32303bdadab92fe615d23a4261994fb6558539b8",
+          "217f8126aa6c26b3c47abb204b6d4b0b585710e6",
+          "278902d6e9af70b173f0b34232e59724ee6b8a08",
+          "ce1b3d9587612388ee3278e92eabfd4ad068b12d",
+          "47d132976086bf9124b1968260978bbd2770443c",
+          "939b1b33cd814e9ff7b67b7e718431748f084e1f",
+          "788ea4ef3129068d0937494d6cd9dbf57b0a906a"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "tomee",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T01:02:27Z",
+    "EndDate": "2019-09-24T02:02:27",
+    "Branches": 30,
+    "Forks": 631,
+    "Files": [
+      {
+        "Sha": "196ba80f4a1804fad837f4ac5531008000b11e1a",
+        "FileName": "pom.xml",
+        "Path": "arquillian/arquillian-tomee-tests/arquillian-tomee-webprofile-tests/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "abc81152edf7b0abc703559474d4b5afb00b3acc",
+        "FileName": "pom.xml",
+        "Path": "examples/applet/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "618010a8a5c3a0dea9cddbd81cca45dce93826e3",
+        "FileName": "pom.xml",
+        "Path": "examples/bean-validation-design-by-contract/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "620adf9655e806615c7945f962ce3bcdf1a5203c",
+        "FileName": "pom.xml",
+        "Path": "examples/bval-evaluation-redeployment/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "a4764fe55ef36393112a427b287da413dbd05682",
+        "FileName": "pom.xml",
+        "Path": "examples/cloud-tomee-azure/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "2d6fe88e4d97c43d0b4a5f021c9fa857601cf8f6",
+        "FileName": "pom.xml",
+        "Path": "examples/connector-ear/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "8d8877af489a9b1894654262c83c421d97425813",
+        "FileName": "App.java",
+        "Path": "examples/ejb-remote-call/src/test/java/org/superbiz/remote/App.java",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "4f6706295f5303e69f4d0f255d91189f747cdc98",
+        "FileName": "pom.xml",
+        "Path": "examples/mbean-auto-registration/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "567a834bed22cd4c46037d6620ed677c89c7ab7e",
+        "FileName": "pom.xml",
+        "Path": "examples/mp-jsonb-configuration/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "075b5c56ce3090bb3a94116f8db80e856615b48a",
+        "FileName": "pom.xml",
+        "Path": "examples/mvc-cxf-hibernate/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "3eb7204493d0a69f53c8f4dc76953ce25dd3cf5f",
+        "FileName": "pom.xml",
+        "Path": "examples/mvc-cxf/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "ce4a841043ec4c3a3bc8b27ff74f7acc5205566c",
+        "FileName": "pom.xml",
+        "Path": "examples/pojo-webservice/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "d35914ef91df48a2d272c2451a7c1515ab843667",
+        "FileName": "pom.xml",
+        "Path": "examples/resources-declared-in-webapp/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "212ac9c5d2ccddbce351f1791340258d0c5e3254",
+        "FileName": "pom.xml",
+        "Path": "examples/resources-jmx-example/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "8b4e265a285607b58ae5e6613f737f3fe664b7c1",
+        "FileName": "pom.xml",
+        "Path": "examples/rest-example-with-application/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "32303bdadab92fe615d23a4261994fb6558539b8",
+        "FileName": "pom.xml",
+        "Path": "examples/simple-ear/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "217f8126aa6c26b3c47abb204b6d4b0b585710e6",
+        "FileName": "pom.xml",
+        "Path": "examples/vaadin-lts-v08-simple/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "278902d6e9af70b173f0b34232e59724ee6b8a08",
+        "FileName": "pom.xml",
+        "Path": "examples/vaadin-lts-v10-simple/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "ce1b3d9587612388ee3278e92eabfd4ad068b12d",
+        "FileName": "pom.xml",
+        "Path": "examples/vaadin-vxx-simple/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "47d132976086bf9124b1968260978bbd2770443c",
+        "FileName": "pom.xml",
+        "Path": "itests/startup/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "939b1b33cd814e9ff7b67b7e718431748f084e1f",
+        "FileName": "pom.xml",
+        "Path": "tomee/tomee-deb/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      },
+      {
+        "Sha": "788ea4ef3129068d0937494d6cd9dbf57b0a906a",
+        "FileName": "pom.xml",
+        "Path": "tomee/tomee-microprofile/pom.xml",
+        "DateUpdated": "2019-09-24T01:04:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "57d1df95b1b37d5aaf8d6c96b28477e31909e1b9",
+        "Author": {
+          "name": "\"Jean-Louis Monteiro\"",
+          "location": "France"
+        },
+        "Commitor": {
+          "name": "\"Jean-Louis Monteiro\"",
+          "location": "France"
+        },
+        "Date": "2019-09-24T01:04:29Z",
+        "additions": 27,
+        "deletions": 27,
+        "files": [
+          "196ba80f4a1804fad837f4ac5531008000b11e1a",
+          "abc81152edf7b0abc703559474d4b5afb00b3acc",
+          "618010a8a5c3a0dea9cddbd81cca45dce93826e3",
+          "620adf9655e806615c7945f962ce3bcdf1a5203c",
+          "a4764fe55ef36393112a427b287da413dbd05682",
+          "2d6fe88e4d97c43d0b4a5f021c9fa857601cf8f6",
+          "8d8877af489a9b1894654262c83c421d97425813",
+          "4f6706295f5303e69f4d0f255d91189f747cdc98",
+          "567a834bed22cd4c46037d6620ed677c89c7ab7e",
+          "075b5c56ce3090bb3a94116f8db80e856615b48a",
+          "3eb7204493d0a69f53c8f4dc76953ce25dd3cf5f",
+          "ce4a841043ec4c3a3bc8b27ff74f7acc5205566c",
+          "d35914ef91df48a2d272c2451a7c1515ab843667",
+          "212ac9c5d2ccddbce351f1791340258d0c5e3254",
+          "8b4e265a285607b58ae5e6613f737f3fe664b7c1",
+          "32303bdadab92fe615d23a4261994fb6558539b8",
+          "217f8126aa6c26b3c47abb204b6d4b0b585710e6",
+          "278902d6e9af70b173f0b34232e59724ee6b8a08",
+          "ce1b3d9587612388ee3278e92eabfd4ad068b12d",
+          "47d132976086bf9124b1968260978bbd2770443c",
+          "939b1b33cd814e9ff7b67b7e718431748f084e1f",
+          "788ea4ef3129068d0937494d6cd9dbf57b0a906a"
+        ]
+      }
+    ]
+  }
+]

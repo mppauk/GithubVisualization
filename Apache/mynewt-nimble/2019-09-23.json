@@ -1,0 +1,42 @@
+[
+  {
+    "RepositoryName": "mynewt-nimble",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T11:03:58Z",
+    "EndDate": "2019-09-23T12:03:58",
+    "Branches": 6,
+    "Forks": 110,
+    "Files": [
+      {
+        "Sha": "07808b4e654415ae8db06b3b5739b392d979490e",
+        "FileName": "README.md",
+        "Path": "README.md",
+        "DateUpdated": "2019-09-23T11:38:38Z",
+        "Additions": 4,
+        "Deletions": 7,
+        "Commits": [
+          "90168812576b99c9e4315690062bdf46548409a4"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "90168812576b99c9e4315690062bdf46548409a4",
+        "Author": {
+          "name": "\"Andrew Leech\"",
+          "location": "Melbourne, Australia",
+          "company": "alelec"
+        },
+        "Commitor": {
+          "name": "\"Szymon Janc\""
+        },
+        "Date": "2019-09-23T11:38:38Z",
+        "additions": 4,
+        "deletions": 7,
+        "files": [
+          "07808b4e654415ae8db06b3b5739b392d979490e"
+        ]
+      }
+    ]
+  }
+]

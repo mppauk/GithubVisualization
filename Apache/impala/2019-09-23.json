@@ -1,0 +1,40 @@
+[
+  {
+    "RepositoryName": "impala",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T18:03:29Z",
+    "EndDate": "2019-09-23T19:03:29",
+    "Branches": 15,
+    "Forks": 184,
+    "Files": [
+      {
+        "Sha": "f0161efc86cee6945e5f0871d04ca8efcd12280f",
+        "FileName": "impala_string_functions.xml",
+        "Path": "docs/topics/impala_string_functions.xml",
+        "DateUpdated": "2019-09-23T18:36:17Z",
+        "Additions": 276,
+        "Deletions": 95,
+        "Commits": [
+          "eb5368f9bbbf6a5907652cb0295aa23f819c187d"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "eb5368f9bbbf6a5907652cb0295aa23f819c187d",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-23T18:36:17Z",
+        "additions": 276,
+        "deletions": 95,
+        "files": [
+          "f0161efc86cee6945e5f0871d04ca8efcd12280f"
+        ]
+      }
+    ]
+  }
+]

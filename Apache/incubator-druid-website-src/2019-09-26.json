@@ -1,0 +1,3630 @@
+[
+  {
+    "RepositoryName": "incubator-druid-website-src",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T00:05:26Z",
+    "EndDate": "2019-09-26T01:05:26",
+    "Branches": 3,
+    "Forks": 15,
+    "Files": [
+      {
+        "Sha": "1122d9bdd7783bf0a3bb2b020423f6be5d36aa0b",
+        "FileName": "druid-vs-elasticsearch.html",
+        "Path": "docs/0.16.0-incubating/comparisons/druid-vs-elasticsearch.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "b67da599d016070731f8b0f7dae8f5b46f4e9b9d",
+        "FileName": "druid-vs-key-value.html",
+        "Path": "docs/0.16.0-incubating/comparisons/druid-vs-key-value.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "03792a98d3a255cff38718e0723632048bec4d80",
+        "FileName": "druid-vs-kudu.html",
+        "Path": "docs/0.16.0-incubating/comparisons/druid-vs-kudu.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "560e075dee6527671002915a1ad95559d7b8bbc9",
+        "FileName": "druid-vs-redshift.html",
+        "Path": "docs/0.16.0-incubating/comparisons/druid-vs-redshift.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "9c0ede4697828539cc7abc6379871da216aea7a4",
+        "FileName": "druid-vs-spark.html",
+        "Path": "docs/0.16.0-incubating/comparisons/druid-vs-spark.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "701c41110b1f44b3207b4444bd66ca8aea8e973a",
+        "FileName": "druid-vs-sql-on-hadoop.html",
+        "Path": "docs/0.16.0-incubating/comparisons/druid-vs-sql-on-hadoop.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "a4b019c576929bf4233a87e1e4a26eaf47db7457",
+        "FileName": "index.html",
+        "Path": "docs/0.16.0-incubating/configuration/index.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "9927cb8aac754400e48c79dc861f214000cfce41",
+        "FileName": "logging.html",
+        "Path": "docs/0.16.0-incubating/configuration/logging.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "02bef452cb9fe274478ec5abe4b641376e1e3432",
+        "FileName": "deep-storage.html",
+        "Path": "docs/0.16.0-incubating/dependencies/deep-storage.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "14046ec9a4a48169a85e22de6190eb3929d3ec8d",
+        "FileName": "metadata-storage.html",
+        "Path": "docs/0.16.0-incubating/dependencies/metadata-storage.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "7e9f4641fb84781b816c50ba7edf1ca3051f9a25",
+        "FileName": "zookeeper.html",
+        "Path": "docs/0.16.0-incubating/dependencies/zookeeper.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "8589e1940f5699d274ed885597f52a0950908d38",
+        "FileName": "architecture.html",
+        "Path": "docs/0.16.0-incubating/design/architecture.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "9f48b9c8c16c61306587575029d85422f46f29e1",
+        "FileName": "auth.html",
+        "Path": "docs/0.16.0-incubating/design/auth.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "f94b3b5005ab7af60a2e253cacd9f7af01901206",
+        "FileName": "broker.html",
+        "Path": "docs/0.16.0-incubating/design/broker.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "1a371c1734f97261ab8a08bda0ad5340fcdbbd26",
+        "FileName": "coordinator.html",
+        "Path": "docs/0.16.0-incubating/design/coordinator.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "bf18cbb0a4ac78b5cbc6d1a6688fb0b3191a09f7",
+        "FileName": "historical.html",
+        "Path": "docs/0.16.0-incubating/design/historical.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "8559c20c9b393ca29292a6d4d465ff770c9f9a78",
+        "FileName": "index.html",
+        "Path": "docs/0.16.0-incubating/design/index.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "61ea8b6d92c2e2c993c6b34075fb112d5236f9bd",
+        "FileName": "indexer.html",
+        "Path": "docs/0.16.0-incubating/design/indexer.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "b5f09d6e8cdb41ebcb217e0cf8427fa7106fb967",
+        "FileName": "indexing-service.html",
+        "Path": "docs/0.16.0-incubating/design/indexing-service.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "7e9693af920522f3cdaaa02ed4829bfdd2faadf9",
+        "FileName": "middlemanager.html",
+        "Path": "docs/0.16.0-incubating/design/middlemanager.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "0520a91789743b73b23ed02eeff5ddda89bf9139",
+        "FileName": "overlord.html",
+        "Path": "docs/0.16.0-incubating/design/overlord.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "6f26b09c6764a454ee9018cffb0a69ae6e1cc9bf",
+        "FileName": "peons.html",
+        "Path": "docs/0.16.0-incubating/design/peons.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "7d21780795b81ca2b6368aa81365f818e1686a1a",
+        "FileName": "processes.html",
+        "Path": "docs/0.16.0-incubating/design/processes.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "8b7bff0283692d8c3f56feaf80637ff5dff598d4",
+        "FileName": "router.html",
+        "Path": "docs/0.16.0-incubating/design/router.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "3a29bd32975f337db44690e6d799e3f635cd1bd4",
+        "FileName": "segments.html",
+        "Path": "docs/0.16.0-incubating/design/segments.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "5d3d7c988fdc3d861741c40301bec03be236938e",
+        "FileName": "build.html",
+        "Path": "docs/0.16.0-incubating/development/build.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "1aa0fc6a4a758720a77e5b260135d442f3812af6",
+        "FileName": "experimental.html",
+        "Path": "docs/0.16.0-incubating/development/experimental.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "072309c8a324a7652d563f108af1bac4f2d9df34",
+        "FileName": "ambari-metrics-emitter.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-contrib/ambari-metrics-emitter.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "6fadaf133c5ca80911b5fbaa5defb4c07ac9db78",
+        "FileName": "azure.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-contrib/azure.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "33d7223d1e28a6e66c5fcf4666b7ccbdf39e6997",
+        "FileName": "cassandra.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-contrib/cassandra.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "cd2b52a930080b2f60c0d2f834946c45f59c7426",
+        "FileName": "cloudfiles.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-contrib/cloudfiles.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "ea7b3a2b622f9167f83dae64d78490bf69f809e8",
+        "FileName": "distinctcount.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-contrib/distinctcount.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "0d191cdfc09c3a2f11dcbd4d1b95adb5d78be7b3",
+        "FileName": "graphite.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-contrib/graphite.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "74190d6a5d05b4276b8c6f7123b7ee4ac005cb1b",
+        "FileName": "influx.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-contrib/influx.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "c428b52d82763a1b497d5f4907bcfe97300d1c12",
+        "FileName": "influxdb-emitter.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-contrib/influxdb-emitter.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "934b4f86ee632e8e86ebbb98ea5bc959752b4bd0",
+        "FileName": "kafka-emitter.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-contrib/kafka-emitter.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "532186a56671ccbea625791f72115394c269ea93",
+        "FileName": "materialized-view.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-contrib/materialized-view.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "29f2bf507f2aa129a19b1ada27fbee1703ea5efa",
+        "FileName": "momentsketch-quantiles.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-contrib/momentsketch-quantiles.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "4ca3d725d01ff5876cbc102e2480f517430581c3",
+        "FileName": "moving-average-query.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-contrib/moving-average-query.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "567b0bf0e7f3f51f4c2b903a91fe27ab915cbd7a",
+        "FileName": "opentsdb-emitter.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-contrib/opentsdb-emitter.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "9189e9dbd9bc03a00514b52216a9e29753819e63",
+        "FileName": "redis-cache.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-contrib/redis-cache.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "c204ecf3f07d12528743cec3e0cc29205412ed9d",
+        "FileName": "sqlserver.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-contrib/sqlserver.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "72dcbabd9122e6c4bb2d6b34384cf2ffb0a1260c",
+        "FileName": "statsd.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-contrib/statsd.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "b8696048497b1e85f45f129701b26bfc65519405",
+        "FileName": "tdigestsketch-quantiles.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-contrib/tdigestsketch-quantiles.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "ebe4240ea2833da5417a643ba80bf4fdadd157e1",
+        "FileName": "thrift.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-contrib/thrift.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "1a38ecc0624054108b15c79b163f5647ba929618",
+        "FileName": "time-min-max.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-contrib/time-min-max.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "657b07cc947cc9f876c4edb6482731a7b1a5be7a",
+        "FileName": "approximate-histograms.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/approximate-histograms.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "c6ccd49b4ec189d8d0664c30839c7a8f85245ded",
+        "FileName": "avro.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/avro.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "eda06a0a2b8cdd8d7d758e5ec75f23ff97bbbb6f",
+        "FileName": "bloom-filter.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/bloom-filter.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "f0661c502b056202f452afc7b7fbe5c319104416",
+        "FileName": "datasketches-extension.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/datasketches-extension.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "2dadaf18725b61bd1a830f11f98baa660ff3f0cd",
+        "FileName": "datasketches-hll.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/datasketches-hll.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "ce930c568c17e8a9f1e52fbe8522d2985cc0f3c9",
+        "FileName": "datasketches-quantiles.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/datasketches-quantiles.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "f765d5e984ee700c02a7ae6c77052363aa446e31",
+        "FileName": "datasketches-theta.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/datasketches-theta.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "68dc15f65cd066df8a9db8400ad18e1cce377ac6",
+        "FileName": "datasketches-tuple.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/datasketches-tuple.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "e90db641894a43bae5fa57a64cee6878c91f6462",
+        "FileName": "druid-basic-security.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/druid-basic-security.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "667c5a6245d4275e5874a198530a09523d8fd837",
+        "FileName": "druid-kerberos.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/druid-kerberos.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "d91c89cbeee5e42d053d7e0a12c76fdb44e2cca6",
+        "FileName": "druid-lookups.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/druid-lookups.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "a6d719c8f21d38245fa387c360f6c757aa670a51",
+        "FileName": "examples.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/examples.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "4d4112cafae6d49ab04c46aae1c5b04045a91dfe",
+        "FileName": "google.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/google.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "2d0fe71f6e8c8fe21638d3fc88dcda8fb9370e95",
+        "FileName": "hdfs.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/hdfs.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "5e95c46a873723cdcc7856a0796ab0116a05b000",
+        "FileName": "kafka-extraction-namespace.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/kafka-extraction-namespace.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "e82cdfd168d8cd8da62d25942b8ec99174dd8d31",
+        "FileName": "kafka-ingestion.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/kafka-ingestion.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "6c61e53adca5639a0fa772289126aed55005bf2e",
+        "FileName": "kinesis-ingestion.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/kinesis-ingestion.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "95d2c8d2f6077011b50c2ea5be013fddc06df381",
+        "FileName": "lookups-cached-global.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/lookups-cached-global.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "4f97aeeee409b5dcf74d6a9f8ab0ffb40552198a",
+        "FileName": "mysql.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/mysql.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "d526c819f9cec7786a2cacd7e05e3ad3f99c0ac3",
+        "FileName": "orc.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/orc.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "f128a5d21cb11c0f728e2c68670033e96fce5697",
+        "FileName": "parquet.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/parquet.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "ca906a0cbd66d2a505eee269337e89b221f4428e",
+        "FileName": "postgresql.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/postgresql.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "18399ed6d48cad5f8922233d20f60be3c0df8644",
+        "FileName": "protobuf.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/protobuf.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "2e34db0a2abe626fd4987d70d4ce5bfafbdf6bae",
+        "FileName": "s3.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/s3.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "a33458e9435b9059c5d242efcb6cd5e0e7860aa1",
+        "FileName": "simple-client-sslcontext.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/simple-client-sslcontext.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "2dbb778fc6b0b256aa1b132865ab7815db47ce12",
+        "FileName": "stats.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/stats.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "51fc3a6e1cc680aab5a10520fd8f39afbb6e4d50",
+        "FileName": "test-stats.html",
+        "Path": "docs/0.16.0-incubating/development/extensions-core/test-stats.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "0a79d6f5da10cef17c09106af3c68d6ef1a82a69",
+        "FileName": "extensions.html",
+        "Path": "docs/0.16.0-incubating/development/extensions.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "23943685f314848aed09c7e52c98bbc28b4850df",
+        "FileName": "geo.html",
+        "Path": "docs/0.16.0-incubating/development/geo.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "b8d09db496e3927d42fc7f879fccdd8f0bfb6c94",
+        "FileName": "javascript.html",
+        "Path": "docs/0.16.0-incubating/development/javascript.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "85a282b0c12409cd4df447d2895de6ef73bba243",
+        "FileName": "modules.html",
+        "Path": "docs/0.16.0-incubating/development/modules.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "cda0f71c80ab542b1d2ae6a3254c47126c8dd6e5",
+        "FileName": "overview.html",
+        "Path": "docs/0.16.0-incubating/development/overview.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "bf560ef3d4c635f8a983fbd74a77b888d6e6a5cd",
+        "FileName": "versioning.html",
+        "Path": "docs/0.16.0-incubating/development/versioning.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "f71a728a8d1fef47b6a4704ba0f6afe2265b5898",
+        "FileName": "data-formats.html",
+        "Path": "docs/0.16.0-incubating/ingestion/data-formats.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "f76e4a5b5323dc49ad5ffc11ad6ccc88375c448d",
+        "FileName": "data-management.html",
+        "Path": "docs/0.16.0-incubating/ingestion/data-management.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "dc5c5368607a2e71f7073d57ba3072532b020a25",
+        "FileName": "faq.html",
+        "Path": "docs/0.16.0-incubating/ingestion/faq.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "3ddb4de48c0874edefcaf43f7457b4468344127c",
+        "FileName": "hadoop.html",
+        "Path": "docs/0.16.0-incubating/ingestion/hadoop.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "1618a4269c580625b92ee2398fda14693cf38030",
+        "FileName": "index.html",
+        "Path": "docs/0.16.0-incubating/ingestion/index.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "e33b9aed51714762d553b6a269c5a579bab1f086",
+        "FileName": "native-batch.html",
+        "Path": "docs/0.16.0-incubating/ingestion/native-batch.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "c098ee9e9d2f32801c74a8e3b4d5a6e3da224b2e",
+        "FileName": "schema-design.html",
+        "Path": "docs/0.16.0-incubating/ingestion/schema-design.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "637898c65bb5acf35e5f7054446b5f8b5d1d39a0",
+        "FileName": "standalone-realtime.html",
+        "Path": "docs/0.16.0-incubating/ingestion/standalone-realtime.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "b4b62092420a7d7537ea829c6c41b39a2b249402",
+        "FileName": "tasks.html",
+        "Path": "docs/0.16.0-incubating/ingestion/tasks.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "9762c72bfde7e6d69059f3d299278e00517f586b",
+        "FileName": "tranquility.html",
+        "Path": "docs/0.16.0-incubating/ingestion/tranquility.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "ddb439c879cbabc26c9332cf9dbc1cf6a3d56457",
+        "FileName": "math-expr.html",
+        "Path": "docs/0.16.0-incubating/misc/math-expr.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "e0beb2d313b6db480a40c96756ad6f11c1d1c432",
+        "FileName": "papers-and-talks.html",
+        "Path": "docs/0.16.0-incubating/misc/papers-and-talks.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "dd74a7a9ce379c9a01659964cfe742abc62adc49",
+        "FileName": "alerts.html",
+        "Path": "docs/0.16.0-incubating/operations/alerts.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "7d40d56f242e79b170ddaa276154aff2c63556df",
+        "FileName": "api-reference.html",
+        "Path": "docs/0.16.0-incubating/operations/api-reference.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "cecdb37035958988c7099ada5eeedd05097a6d69",
+        "FileName": "basic-cluster-tuning.html",
+        "Path": "docs/0.16.0-incubating/operations/basic-cluster-tuning.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "423b52e3c52ea2c44f70ef9627a7f82909037136",
+        "FileName": "deep-storage-migration.html",
+        "Path": "docs/0.16.0-incubating/operations/deep-storage-migration.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "1cfa0610f601eec1c09d47ed07fbcb86cab76e11",
+        "FileName": "druid-console.html",
+        "Path": "docs/0.16.0-incubating/operations/druid-console.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "030370149139bbfc9e38cd61ad710667a1cc402b",
+        "FileName": "dump-segment.html",
+        "Path": "docs/0.16.0-incubating/operations/dump-segment.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "31760d5aab275f553afc8215de97fa308a17dae0",
+        "FileName": "export-metadata.html",
+        "Path": "docs/0.16.0-incubating/operations/export-metadata.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "d1f74f9017283be9c236ee207c0deb25c312141f",
+        "FileName": "getting-started.html",
+        "Path": "docs/0.16.0-incubating/operations/getting-started.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "efc38014c5c5d88d56c82dadca37a8032eba26cb",
+        "FileName": "high-availability.html",
+        "Path": "docs/0.16.0-incubating/operations/high-availability.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "5f5abe281dfae8bfd45737ff4fca3a9ab554b1ab",
+        "FileName": "http-compression.html",
+        "Path": "docs/0.16.0-incubating/operations/http-compression.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "8243a22e3a31d927918c9934428dae805abc4504",
+        "FileName": "insert-segment-to-db.html",
+        "Path": "docs/0.16.0-incubating/operations/insert-segment-to-db.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "59fa68feb181ce2f8b40989aa44610c261a9757a",
+        "FileName": "management-uis.html",
+        "Path": "docs/0.16.0-incubating/operations/management-uis.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "8035ba989ef43be584b06b5e9bf0711e346073a5",
+        "FileName": "metadata-migration.html",
+        "Path": "docs/0.16.0-incubating/operations/metadata-migration.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "8c01ba9073e85a58d2b546df096b559fda0cdac9",
+        "FileName": "metrics.html",
+        "Path": "docs/0.16.0-incubating/operations/metrics.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "bfc49494abdb73cf263af63e58cd6cd68a7ca3c9",
+        "FileName": "other-hadoop.html",
+        "Path": "docs/0.16.0-incubating/operations/other-hadoop.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "525aaab753572bf362c932c7485a675e43d4869f",
+        "FileName": "password-provider.html",
+        "Path": "docs/0.16.0-incubating/operations/password-provider.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "e2f09eb32390dc77747bb934bf8e693889661ae7",
+        "FileName": "pull-deps.html",
+        "Path": "docs/0.16.0-incubating/operations/pull-deps.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "216c2705caa1ca20d876480842b8194b0d32d68a",
+        "FileName": "recommendations.html",
+        "Path": "docs/0.16.0-incubating/operations/recommendations.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "8c79765f95aff8903b7ce8d1daa19ac5b7781bcd",
+        "FileName": "reset-cluster.html",
+        "Path": "docs/0.16.0-incubating/operations/reset-cluster.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "724911d62862a1940c2fa6852e7491e0de272c44",
+        "FileName": "rolling-updates.html",
+        "Path": "docs/0.16.0-incubating/operations/rolling-updates.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "0da295b885c27c6aa3dd9b5910d74d51f1a9c22e",
+        "FileName": "rule-configuration.html",
+        "Path": "docs/0.16.0-incubating/operations/rule-configuration.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "6826ae1d1fb6208d3f352c80e13ac2ef19f8c6bb",
+        "FileName": "segment-optimization.html",
+        "Path": "docs/0.16.0-incubating/operations/segment-optimization.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "329aa5c1261e0ab0e788595236232764bbebdb6c",
+        "FileName": "single-server.html",
+        "Path": "docs/0.16.0-incubating/operations/single-server.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "62f77b3fc6392458ab663bae6c3d2403b5d50c91",
+        "FileName": "tls-support.html",
+        "Path": "docs/0.16.0-incubating/operations/tls-support.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "cbe8f91ac79d90d5d4ca74da4d64131fcfdb463d",
+        "FileName": "use_sbt_to_build_fat_jar.html",
+        "Path": "docs/0.16.0-incubating/operations/use_sbt_to_build_fat_jar.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "9362b435016dd178edb235e7ab6f1d7d16cda9f3",
+        "FileName": "aggregations.html",
+        "Path": "docs/0.16.0-incubating/querying/aggregations.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "07997eec7bfac17014eb132bf9d5ff226ab20733",
+        "FileName": "caching.html",
+        "Path": "docs/0.16.0-incubating/querying/caching.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "a2f4f76a4d67cc661f51f4a2fb95e39f6a48925c",
+        "FileName": "datasource.html",
+        "Path": "docs/0.16.0-incubating/querying/datasource.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "4a062217bb7214e1edee70f50ccc861e124847ad",
+        "FileName": "datasourcemetadataquery.html",
+        "Path": "docs/0.16.0-incubating/querying/datasourcemetadataquery.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "d0fdc1fcd11294eadf78ceaaf3767afda079ad3b",
+        "FileName": "dimensionspecs.html",
+        "Path": "docs/0.16.0-incubating/querying/dimensionspecs.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "3b9d604a16f44b23350910e32d973235cb7e28e3",
+        "FileName": "filters.html",
+        "Path": "docs/0.16.0-incubating/querying/filters.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "0d1f54475523904698bec580b30d241c541bffb3",
+        "FileName": "granularities.html",
+        "Path": "docs/0.16.0-incubating/querying/granularities.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "ffb237712d439ba3a664e4cccf9163112077a9c7",
+        "FileName": "groupbyquery.html",
+        "Path": "docs/0.16.0-incubating/querying/groupbyquery.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "8ff728f51e74de6656e1de995a8b8d19ed6a6834",
+        "FileName": "having.html",
+        "Path": "docs/0.16.0-incubating/querying/having.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "69a834add5238d46bddbad0158ba7c9cf15e2152",
+        "FileName": "hll-old.html",
+        "Path": "docs/0.16.0-incubating/querying/hll-old.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "abf6dcb3023d229968e4d9dee486b044dc9ce8d0",
+        "FileName": "joins.html",
+        "Path": "docs/0.16.0-incubating/querying/joins.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "591daf8e5b7597526a370429ebd313d8e1800b46",
+        "FileName": "limitspec.html",
+        "Path": "docs/0.16.0-incubating/querying/limitspec.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "f44fa8032f23ac07d401c8d45769f89507dc3d4c",
+        "FileName": "lookups.html",
+        "Path": "docs/0.16.0-incubating/querying/lookups.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "4f11db01fd06327359746c9e35706348fda0ff37",
+        "FileName": "multi-value-dimensions.html",
+        "Path": "docs/0.16.0-incubating/querying/multi-value-dimensions.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "2ba4a8bfc5f9686cc09b7f6eadf1f4762c823b3c",
+        "FileName": "multitenancy.html",
+        "Path": "docs/0.16.0-incubating/querying/multitenancy.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "53e8fccba3447199e13723abc0cf9d273606860d",
+        "FileName": "post-aggregations.html",
+        "Path": "docs/0.16.0-incubating/querying/post-aggregations.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "c36fd94d16500e9e43efb967c3e4ed2667360667",
+        "FileName": "query-context.html",
+        "Path": "docs/0.16.0-incubating/querying/query-context.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "c64a365bdaea551b3eaa9baa3bfbc1dd8cf322c1",
+        "FileName": "querying.html",
+        "Path": "docs/0.16.0-incubating/querying/querying.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "418619bf0c3768b00d68c96a745cb84b144f128c",
+        "FileName": "scan-query.html",
+        "Path": "docs/0.16.0-incubating/querying/scan-query.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "f28813a5b0c6e124149bba0e3bb31056ad72ba11",
+        "FileName": "searchquery.html",
+        "Path": "docs/0.16.0-incubating/querying/searchquery.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "36b6b0d90bedbf7fd2eda9cc9aa40e3f5961f3c7",
+        "FileName": "searchqueryspec.html",
+        "Path": "docs/0.16.0-incubating/querying/searchqueryspec.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "4a93742a2b51b0b3936dcb59d9a77e6a9fa7540c",
+        "FileName": "segmentmetadataquery.html",
+        "Path": "docs/0.16.0-incubating/querying/segmentmetadataquery.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "9258acd6e0c0e87eeb25223200bf48da8bafda3a",
+        "FileName": "select-query.html",
+        "Path": "docs/0.16.0-incubating/querying/select-query.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "1c8af57f6bb2699de3c9b9d16b664cff643f506e",
+        "FileName": "sorting-orders.html",
+        "Path": "docs/0.16.0-incubating/querying/sorting-orders.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "213112a83e4f44632a7f7fdc5be03a6fe01b2270",
+        "FileName": "sql.html",
+        "Path": "docs/0.16.0-incubating/querying/sql.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "f9fb9d6ce1eede78e2c2dbe358323bfad1d848cf",
+        "FileName": "timeboundaryquery.html",
+        "Path": "docs/0.16.0-incubating/querying/timeboundaryquery.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "7687dd6fe4a303380a8777f8ec6193f8bdf4b039",
+        "FileName": "timeseriesquery.html",
+        "Path": "docs/0.16.0-incubating/querying/timeseriesquery.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "1bf32d6a36d4c23fd8ce7b7716360300f44019d3",
+        "FileName": "topnmetricspec.html",
+        "Path": "docs/0.16.0-incubating/querying/topnmetricspec.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "4b185f197562e1aee30559ac5715ecdf5a22772c",
+        "FileName": "topnquery.html",
+        "Path": "docs/0.16.0-incubating/querying/topnquery.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "21422c31c9e54506d0fed1f9c4fd179c921f14e8",
+        "FileName": "virtual-columns.html",
+        "Path": "docs/0.16.0-incubating/querying/virtual-columns.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "3a596bca706f8412091a07ad412bce6aca24f3fb",
+        "FileName": "cluster.html",
+        "Path": "docs/0.16.0-incubating/tutorials/cluster.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "f79408710cde2a926a73e88f6fb5f1c5e0fcb575",
+        "FileName": "index.html",
+        "Path": "docs/0.16.0-incubating/tutorials/index.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "489d229dcc6f6b2933d3abd5873fe6019550ace9",
+        "FileName": "tutorial-batch-hadoop.html",
+        "Path": "docs/0.16.0-incubating/tutorials/tutorial-batch-hadoop.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "33ca8c263c1b9b9208edcf9b12c41c7271edaeb2",
+        "FileName": "tutorial-batch.html",
+        "Path": "docs/0.16.0-incubating/tutorials/tutorial-batch.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "56f91aeb47b7ce230b5b5d9e015d68bd39740800",
+        "FileName": "tutorial-compaction.html",
+        "Path": "docs/0.16.0-incubating/tutorials/tutorial-compaction.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "2a5f697aac3b687c603253053898a1d3580a676a",
+        "FileName": "tutorial-delete-data.html",
+        "Path": "docs/0.16.0-incubating/tutorials/tutorial-delete-data.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "f1ded705fed0113bdc27dcf0c2be18174b544a84",
+        "FileName": "tutorial-ingestion-spec.html",
+        "Path": "docs/0.16.0-incubating/tutorials/tutorial-ingestion-spec.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "4853da3829d6b9cab6defd383e6390e0af3ab8ff",
+        "FileName": "tutorial-kafka.html",
+        "Path": "docs/0.16.0-incubating/tutorials/tutorial-kafka.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "827890c8f999aac631cd5a1ba442748728e9c89c",
+        "FileName": "tutorial-kerberos-hadoop.html",
+        "Path": "docs/0.16.0-incubating/tutorials/tutorial-kerberos-hadoop.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "297d4122756a57f2889e4641cb5c5d7caeda733f",
+        "FileName": "tutorial-query.html",
+        "Path": "docs/0.16.0-incubating/tutorials/tutorial-query.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "8c724e478312c3ccc3364ed312993c4da209724f",
+        "FileName": "tutorial-retention.html",
+        "Path": "docs/0.16.0-incubating/tutorials/tutorial-retention.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "df5bbd19e09c2c8bd9825c7d1cc664e9a7fe876c",
+        "FileName": "tutorial-rollup.html",
+        "Path": "docs/0.16.0-incubating/tutorials/tutorial-rollup.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "5e250e1ccf4bed709fbcc382c842406c88ef5522",
+        "FileName": "tutorial-transform-spec.html",
+        "Path": "docs/0.16.0-incubating/tutorials/tutorial-transform-spec.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "a924c6afb24f73a4aa47817881ee70afcf7f2260",
+        "FileName": "tutorial-update-data.html",
+        "Path": "docs/0.16.0-incubating/tutorials/tutorial-update-data.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "93323b1f26cc17398875690048eb1423862596f8",
+        "FileName": "druid-vs-elasticsearch.html",
+        "Path": "docs/latest/comparisons/druid-vs-elasticsearch.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "fba15157e933f2f93cdea24b08fa17c98745f336",
+        "FileName": "druid-vs-key-value.html",
+        "Path": "docs/latest/comparisons/druid-vs-key-value.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "433cf25bd53f46a44529e55feae753646fb624e8",
+        "FileName": "druid-vs-kudu.html",
+        "Path": "docs/latest/comparisons/druid-vs-kudu.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "b53194c563a33b6a3d7e806589789f6c43aceec6",
+        "FileName": "druid-vs-redshift.html",
+        "Path": "docs/latest/comparisons/druid-vs-redshift.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "c3b5c1246550cae2ab62eb2ae654623a54be674a",
+        "FileName": "druid-vs-spark.html",
+        "Path": "docs/latest/comparisons/druid-vs-spark.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "1668ef11b856c82d4763f2e2f2869466ec8651fc",
+        "FileName": "druid-vs-sql-on-hadoop.html",
+        "Path": "docs/latest/comparisons/druid-vs-sql-on-hadoop.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "67fa327b13c3f10a5c1d8dfe266491cde900b23f",
+        "FileName": "index.html",
+        "Path": "docs/latest/configuration/index.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "e7ab8846f59f18a1c85491790537d6671bcbe0a5",
+        "FileName": "logging.html",
+        "Path": "docs/latest/configuration/logging.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "f6b771d0c964c9fa96bd01967e490e8b355078cd",
+        "FileName": "deep-storage.html",
+        "Path": "docs/latest/dependencies/deep-storage.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "8a95f567e3a6c4963b7b85d313ec3aeb710e2cae",
+        "FileName": "metadata-storage.html",
+        "Path": "docs/latest/dependencies/metadata-storage.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "bcd4b3113cf8fc290b38cc31e222352671f583a2",
+        "FileName": "zookeeper.html",
+        "Path": "docs/latest/dependencies/zookeeper.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "6bafab21696eacfad04ecd5c647a1b057a2f7ce8",
+        "FileName": "architecture.html",
+        "Path": "docs/latest/design/architecture.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "8b3986336669a634689300d37e5b8e461e607e38",
+        "FileName": "auth.html",
+        "Path": "docs/latest/design/auth.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "d0969e5e7bd60b77ce13fff0c96f5f78799aabaf",
+        "FileName": "broker.html",
+        "Path": "docs/latest/design/broker.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "3c524c937d3f0163e181f822e422155a329d12ad",
+        "FileName": "coordinator.html",
+        "Path": "docs/latest/design/coordinator.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "76348190a1bb53b929de5409421742ea18400767",
+        "FileName": "historical.html",
+        "Path": "docs/latest/design/historical.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "beee73bbff9889b88c2d389698b12b73a48395d8",
+        "FileName": "index.html",
+        "Path": "docs/latest/design/index.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "a31e075393269da30e460b7ef9a80e4f90ce4f69",
+        "FileName": "indexer.html",
+        "Path": "docs/latest/design/indexer.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "11082c774beae7746297384ea79b53b0012df5d4",
+        "FileName": "indexing-service.html",
+        "Path": "docs/latest/design/indexing-service.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "460c462751d89d44c4d8e2aa67f5b3a3a34de3ab",
+        "FileName": "middlemanager.html",
+        "Path": "docs/latest/design/middlemanager.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "6dcb184e76630dd66f55ff40d8f65a086e497822",
+        "FileName": "overlord.html",
+        "Path": "docs/latest/design/overlord.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "873f9df4445ed663277fbf2e0c1688a801dea143",
+        "FileName": "peons.html",
+        "Path": "docs/latest/design/peons.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "7a0a6b639e435e8d64d8c49493132638822f7409",
+        "FileName": "processes.html",
+        "Path": "docs/latest/design/processes.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "e2605a6266476c566cccb771a3b887d8daec00e4",
+        "FileName": "router.html",
+        "Path": "docs/latest/design/router.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "638be325cd9bd4ad15b51ed8e6adf5137abd0527",
+        "FileName": "segments.html",
+        "Path": "docs/latest/design/segments.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "39b7dc641e904401ca8b1844a68d30da6c20796d",
+        "FileName": "build.html",
+        "Path": "docs/latest/development/build.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "27935101e0d08bf30e6bd90a3f64005f6440cb49",
+        "FileName": "experimental.html",
+        "Path": "docs/latest/development/experimental.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "a6faee5186f7da98e97391a99c8e2ae75995cf1b",
+        "FileName": "ambari-metrics-emitter.html",
+        "Path": "docs/latest/development/extensions-contrib/ambari-metrics-emitter.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "2a6985cff9f5ebe715d8c2015ebbfcdfca0ede5d",
+        "FileName": "azure.html",
+        "Path": "docs/latest/development/extensions-contrib/azure.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "d32d9403a5e06cf3997745d3241555234c8636fe",
+        "FileName": "cassandra.html",
+        "Path": "docs/latest/development/extensions-contrib/cassandra.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "d5230bdd9d7a55575fbfb5db83f1c1de35295cf1",
+        "FileName": "cloudfiles.html",
+        "Path": "docs/latest/development/extensions-contrib/cloudfiles.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "4065c4f6e792fa5a989340c67872e6b69d32b39c",
+        "FileName": "distinctcount.html",
+        "Path": "docs/latest/development/extensions-contrib/distinctcount.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "b86fefbcf12982081d5b950ad3a9ae8961c9572b",
+        "FileName": "graphite.html",
+        "Path": "docs/latest/development/extensions-contrib/graphite.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "e5bc3ce5946cef439948c8619d5f8f832e8bc2cf",
+        "FileName": "influx.html",
+        "Path": "docs/latest/development/extensions-contrib/influx.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "129c425d46264fc3fed720fdea971cb93c657844",
+        "FileName": "influxdb-emitter.html",
+        "Path": "docs/latest/development/extensions-contrib/influxdb-emitter.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "e2c944b84b4ca785a3d6b3ad72b5321238668fbd",
+        "FileName": "kafka-emitter.html",
+        "Path": "docs/latest/development/extensions-contrib/kafka-emitter.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "397cb4f553933bc13ce4da14dac356f6886c1561",
+        "FileName": "materialized-view.html",
+        "Path": "docs/latest/development/extensions-contrib/materialized-view.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "521b1b99facebc753d6674ae950a4f8d0afa7e96",
+        "FileName": "momentsketch-quantiles.html",
+        "Path": "docs/latest/development/extensions-contrib/momentsketch-quantiles.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "224b59477ccbbca891531702a199db64b4d2efbc",
+        "FileName": "moving-average-query.html",
+        "Path": "docs/latest/development/extensions-contrib/moving-average-query.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "ca5308724938e5552ae791e3da4e4db34a944870",
+        "FileName": "opentsdb-emitter.html",
+        "Path": "docs/latest/development/extensions-contrib/opentsdb-emitter.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "39f7578b991ba97e3302af938657b1012e285119",
+        "FileName": "redis-cache.html",
+        "Path": "docs/latest/development/extensions-contrib/redis-cache.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "23976970de00a5dcf1db34247b2b259647764cf9",
+        "FileName": "sqlserver.html",
+        "Path": "docs/latest/development/extensions-contrib/sqlserver.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "4251e24319c62dbffde16c6c7e5176d1160275be",
+        "FileName": "statsd.html",
+        "Path": "docs/latest/development/extensions-contrib/statsd.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "c30a74841d96dafb62ed6dea290e01ebb603edd8",
+        "FileName": "tdigestsketch-quantiles.html",
+        "Path": "docs/latest/development/extensions-contrib/tdigestsketch-quantiles.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "339f6cf0c67cf88953d96a5c2f7d0650752ddcdf",
+        "FileName": "thrift.html",
+        "Path": "docs/latest/development/extensions-contrib/thrift.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "715de7fb1b550480ad592a7bb969d4045a17dded",
+        "FileName": "time-min-max.html",
+        "Path": "docs/latest/development/extensions-contrib/time-min-max.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "ab85629e933ec6f88e31ad245d4d026c50f0e7a5",
+        "FileName": "approximate-histograms.html",
+        "Path": "docs/latest/development/extensions-core/approximate-histograms.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "6cee3501038555de2c23328e0f439d458bd75fb1",
+        "FileName": "avro.html",
+        "Path": "docs/latest/development/extensions-core/avro.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "ef6fbb98a7815617b7a802adc158b25e4bf4bcac",
+        "FileName": "bloom-filter.html",
+        "Path": "docs/latest/development/extensions-core/bloom-filter.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "ffc2aecb37f08fa4499bbca4ddfd3e364109b214",
+        "FileName": "datasketches-extension.html",
+        "Path": "docs/latest/development/extensions-core/datasketches-extension.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "db449caa0cec2c2ad97d530b8a83d8c3b0350dd8",
+        "FileName": "datasketches-hll.html",
+        "Path": "docs/latest/development/extensions-core/datasketches-hll.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "b2537758929f7fa03dd14470bde7b94d3946e3ce",
+        "FileName": "datasketches-quantiles.html",
+        "Path": "docs/latest/development/extensions-core/datasketches-quantiles.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "1ab51daee69af225f47462f25cde657472b0c732",
+        "FileName": "datasketches-theta.html",
+        "Path": "docs/latest/development/extensions-core/datasketches-theta.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "b31e2f438571988c4e51b8641a3e406fbd5371e7",
+        "FileName": "datasketches-tuple.html",
+        "Path": "docs/latest/development/extensions-core/datasketches-tuple.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "49dcc18f7e02601fe06482e7b5b93a1742808a8f",
+        "FileName": "druid-basic-security.html",
+        "Path": "docs/latest/development/extensions-core/druid-basic-security.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "ddef8a36a5929aa0b4442d9cb9282a647fadfce2",
+        "FileName": "druid-kerberos.html",
+        "Path": "docs/latest/development/extensions-core/druid-kerberos.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "3187523c0dd9111782e45861da4cb0df1f472394",
+        "FileName": "druid-lookups.html",
+        "Path": "docs/latest/development/extensions-core/druid-lookups.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "0cbf41b55601858569d1e0d36d76d3b623ffe565",
+        "FileName": "examples.html",
+        "Path": "docs/latest/development/extensions-core/examples.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "34ad924714179ac6e7ab61759bded71bebb9a1d0",
+        "FileName": "google.html",
+        "Path": "docs/latest/development/extensions-core/google.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "dd65a249485a50b1e227e90fe755cb1b60706d1f",
+        "FileName": "hdfs.html",
+        "Path": "docs/latest/development/extensions-core/hdfs.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "fd712f6ac9f5d7e936965ee9e72f734e5aafc59d",
+        "FileName": "kafka-extraction-namespace.html",
+        "Path": "docs/latest/development/extensions-core/kafka-extraction-namespace.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "573e874ba7c90fe6ebcb2b03ddeb8d9340186cea",
+        "FileName": "kafka-ingestion.html",
+        "Path": "docs/latest/development/extensions-core/kafka-ingestion.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "30ea2d3669984389779dc35ae7515512efe4b2a5",
+        "FileName": "kinesis-ingestion.html",
+        "Path": "docs/latest/development/extensions-core/kinesis-ingestion.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "b01d4842edb338d89556fed85aab11b8e39a2b8f",
+        "FileName": "lookups-cached-global.html",
+        "Path": "docs/latest/development/extensions-core/lookups-cached-global.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "2ca0947c2a9a625ab41b67451265f9887be30702",
+        "FileName": "mysql.html",
+        "Path": "docs/latest/development/extensions-core/mysql.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "6bf8acbba27bd18ea84345c09204f4250bcf556c",
+        "FileName": "orc.html",
+        "Path": "docs/latest/development/extensions-core/orc.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "5fbe7e358ed30381cc66c84b27572f87c19c3683",
+        "FileName": "parquet.html",
+        "Path": "docs/latest/development/extensions-core/parquet.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "afa546351ae85bdc241c9fee39921dad84e8a12c",
+        "FileName": "postgresql.html",
+        "Path": "docs/latest/development/extensions-core/postgresql.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "d83273097a3b0c1b4438323edbf9ba0bea81f728",
+        "FileName": "protobuf.html",
+        "Path": "docs/latest/development/extensions-core/protobuf.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "f29d850de6a31f01b5dd79cffcaf959bc7bff19a",
+        "FileName": "s3.html",
+        "Path": "docs/latest/development/extensions-core/s3.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "c4c53b56295b2583ad2b0645f1cb0de5717c5ffc",
+        "FileName": "simple-client-sslcontext.html",
+        "Path": "docs/latest/development/extensions-core/simple-client-sslcontext.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "f821e32ce8db0dd876718786d3d579ff0085949c",
+        "FileName": "stats.html",
+        "Path": "docs/latest/development/extensions-core/stats.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "6f94733312c3078fcfaf61eafdcaf46382ac2bdf",
+        "FileName": "test-stats.html",
+        "Path": "docs/latest/development/extensions-core/test-stats.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "1d6b4623a4fbd9642c0dc7cf1c4d5a103c48f04f",
+        "FileName": "extensions.html",
+        "Path": "docs/latest/development/extensions.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "864c5b8b1ec899b865e1b91efc301c86e9077cba",
+        "FileName": "geo.html",
+        "Path": "docs/latest/development/geo.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "f4a1f9e6b0aa4c9dc07990d3660c86687ac5cf3a",
+        "FileName": "javascript.html",
+        "Path": "docs/latest/development/javascript.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "59c4e88cfcd76b22f887af3e3c7ad0ca70b82568",
+        "FileName": "modules.html",
+        "Path": "docs/latest/development/modules.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "56046acf589de95059ae697b88a060b5f41293b4",
+        "FileName": "overview.html",
+        "Path": "docs/latest/development/overview.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "ff5d68ed321d729b8c8a1b198049a358d9bd87ce",
+        "FileName": "versioning.html",
+        "Path": "docs/latest/development/versioning.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "6623557b1121c74138486b0898be8e082a925bbe",
+        "FileName": "data-formats.html",
+        "Path": "docs/latest/ingestion/data-formats.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "cf2f2f3ceda87717015838136f91e62a7ac724b0",
+        "FileName": "data-management.html",
+        "Path": "docs/latest/ingestion/data-management.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "5cf2c822cda9055fcb74197317ebf3da4d4819b5",
+        "FileName": "faq.html",
+        "Path": "docs/latest/ingestion/faq.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "1befac5ea300400c3d6325f93ee623c071116615",
+        "FileName": "hadoop.html",
+        "Path": "docs/latest/ingestion/hadoop.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "985ef0919c9a87f09694dd68d48305f44c83cca2",
+        "FileName": "index.html",
+        "Path": "docs/latest/ingestion/index.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "96fef085956386a9bce49ad2b91559a03f56a5de",
+        "FileName": "native-batch.html",
+        "Path": "docs/latest/ingestion/native-batch.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "1bc4b0669659be5f36c629be2eca65685837c70b",
+        "FileName": "schema-design.html",
+        "Path": "docs/latest/ingestion/schema-design.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "cb5e954674c390521953a980f9c595ead33b63a2",
+        "FileName": "standalone-realtime.html",
+        "Path": "docs/latest/ingestion/standalone-realtime.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "281a9d4a5a22d820bfff299d0a435592760a8861",
+        "FileName": "tasks.html",
+        "Path": "docs/latest/ingestion/tasks.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "2fc455e60c3af6a3a7fa50b92dda070c09de1199",
+        "FileName": "tranquility.html",
+        "Path": "docs/latest/ingestion/tranquility.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "73b479a1a66f76299bef6a60bd1f3584f34c8936",
+        "FileName": "math-expr.html",
+        "Path": "docs/latest/misc/math-expr.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "84b537358791179c0ef344615e8828aa2694ed58",
+        "FileName": "papers-and-talks.html",
+        "Path": "docs/latest/misc/papers-and-talks.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "3a966f261d10dd125599810aca958f70cf668436",
+        "FileName": "alerts.html",
+        "Path": "docs/latest/operations/alerts.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "c5a676ec0bb5a10b58fd4afa8feb8bcba91eed2e",
+        "FileName": "api-reference.html",
+        "Path": "docs/latest/operations/api-reference.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "5eaf150f44090adce1e1a281360f0c1ec2048208",
+        "FileName": "basic-cluster-tuning.html",
+        "Path": "docs/latest/operations/basic-cluster-tuning.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "e2ed18ca167856fb844cce5d9ec76ee647f536d7",
+        "FileName": "deep-storage-migration.html",
+        "Path": "docs/latest/operations/deep-storage-migration.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "1d575b7e0e72215912964e1cd183df101c44d4b3",
+        "FileName": "druid-console.html",
+        "Path": "docs/latest/operations/druid-console.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "3a40d19c2fd7d3e41fcbee1772c405003128c255",
+        "FileName": "dump-segment.html",
+        "Path": "docs/latest/operations/dump-segment.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "aeb42ee17c0566200b6783cdd5d4f7ef035d4661",
+        "FileName": "export-metadata.html",
+        "Path": "docs/latest/operations/export-metadata.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "9bc1fa40d6810e56d08841ef6cc92758c07a8c76",
+        "FileName": "getting-started.html",
+        "Path": "docs/latest/operations/getting-started.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "a21999b81d7c08f38c35b419e07a59015902521d",
+        "FileName": "high-availability.html",
+        "Path": "docs/latest/operations/high-availability.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "a0dfdb10a996c5a2b267fb7817a183e9fba38444",
+        "FileName": "http-compression.html",
+        "Path": "docs/latest/operations/http-compression.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "f01e6eef0db8f4df85c9d9c3aa6abac94f67e913",
+        "FileName": "insert-segment-to-db.html",
+        "Path": "docs/latest/operations/insert-segment-to-db.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "0189e58e2e8ad712846ac41c87d4cd60182c7a45",
+        "FileName": "management-uis.html",
+        "Path": "docs/latest/operations/management-uis.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "0fdcfa2e3678c124a2c81b57b2607efa1ff06d91",
+        "FileName": "metadata-migration.html",
+        "Path": "docs/latest/operations/metadata-migration.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "2677cab0334a3db5200032c2fc5c2a4cd2c6ef3e",
+        "FileName": "metrics.html",
+        "Path": "docs/latest/operations/metrics.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "0ebe85dcab2ea8d88300a7d565893a9ee946140d",
+        "FileName": "other-hadoop.html",
+        "Path": "docs/latest/operations/other-hadoop.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "a7bb92121634c2a08166f8d2421ae62092f9b514",
+        "FileName": "password-provider.html",
+        "Path": "docs/latest/operations/password-provider.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "2d76054c01fb936057195b106d1d76f1adae0ae3",
+        "FileName": "pull-deps.html",
+        "Path": "docs/latest/operations/pull-deps.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "5db2464bfbdb018e9c58251d563a2243e015d466",
+        "FileName": "recommendations.html",
+        "Path": "docs/latest/operations/recommendations.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "67659a22b7b808a72f7b098ab40bcc0836cbb797",
+        "FileName": "reset-cluster.html",
+        "Path": "docs/latest/operations/reset-cluster.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "0af16cfcbb609145acf2d49f5b4beeb40e56b175",
+        "FileName": "rolling-updates.html",
+        "Path": "docs/latest/operations/rolling-updates.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "fce16ec9de9527ce8d0b1132899bd5b25505709e",
+        "FileName": "rule-configuration.html",
+        "Path": "docs/latest/operations/rule-configuration.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "eba92073fa5bd23bdd96efe19a8003f7c8c2d121",
+        "FileName": "segment-optimization.html",
+        "Path": "docs/latest/operations/segment-optimization.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "4599037d35370eb6441b246a7e1f1c6a9ddcb17a",
+        "FileName": "single-server.html",
+        "Path": "docs/latest/operations/single-server.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "7f904be7435f381ed9d5367d0d98a88e8fe4b6ec",
+        "FileName": "tls-support.html",
+        "Path": "docs/latest/operations/tls-support.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "bc2b58823ba1487ee4a4354f8842d62fd1cfd474",
+        "FileName": "use_sbt_to_build_fat_jar.html",
+        "Path": "docs/latest/operations/use_sbt_to_build_fat_jar.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "6a0469adf09e9c7c7bdc58bd0a54a8820da9df0b",
+        "FileName": "aggregations.html",
+        "Path": "docs/latest/querying/aggregations.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "1279f2c6e646dc29829d973d98681bd7dec13fe5",
+        "FileName": "caching.html",
+        "Path": "docs/latest/querying/caching.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "3537ae25a8eb80c3120f1de1999af8f2da8311f1",
+        "FileName": "datasource.html",
+        "Path": "docs/latest/querying/datasource.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "23f2e6a94150e685422889dce9cbb9bb36b044f2",
+        "FileName": "datasourcemetadataquery.html",
+        "Path": "docs/latest/querying/datasourcemetadataquery.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "e54b30c4dee53fbd1f75de2c14590b933f19b3c2",
+        "FileName": "dimensionspecs.html",
+        "Path": "docs/latest/querying/dimensionspecs.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "6467d1c78354f373e3a15d67ef21f171cb663d2a",
+        "FileName": "filters.html",
+        "Path": "docs/latest/querying/filters.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "ea52c083f7ae33178678f0a9b4b4e304284cb0bb",
+        "FileName": "granularities.html",
+        "Path": "docs/latest/querying/granularities.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "7dce25c773a46a4a7caf563774fa35edd7c6c584",
+        "FileName": "groupbyquery.html",
+        "Path": "docs/latest/querying/groupbyquery.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "f1b4260836f0e933d6ba65574999f9c6519a6869",
+        "FileName": "having.html",
+        "Path": "docs/latest/querying/having.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "e46a1011cdee8867b112b940c1f4dfdc47827a1c",
+        "FileName": "hll-old.html",
+        "Path": "docs/latest/querying/hll-old.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "f0167b0a93ac99b57980a415f7bc761b46f0ac26",
+        "FileName": "joins.html",
+        "Path": "docs/latest/querying/joins.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "88dfe8664e32712375a6ebd80a355a2bab865c18",
+        "FileName": "limitspec.html",
+        "Path": "docs/latest/querying/limitspec.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "8228f6b60f49c27f52740ef4855cfbb09e603437",
+        "FileName": "lookups.html",
+        "Path": "docs/latest/querying/lookups.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "8d66cafa87824f65074c3ceebb52208137b60171",
+        "FileName": "multi-value-dimensions.html",
+        "Path": "docs/latest/querying/multi-value-dimensions.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "98d17a43aac7e08bbd43361b3f3931f40986e264",
+        "FileName": "multitenancy.html",
+        "Path": "docs/latest/querying/multitenancy.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "c9ec434c441017e4d6f159a3b12f4bdbb5267610",
+        "FileName": "post-aggregations.html",
+        "Path": "docs/latest/querying/post-aggregations.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "6de7e4605cf3dcf7517bdbd2d80d06bc68fc3209",
+        "FileName": "query-context.html",
+        "Path": "docs/latest/querying/query-context.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "9fff0364eb2fdfa5a7503f679edc07c907f1e880",
+        "FileName": "querying.html",
+        "Path": "docs/latest/querying/querying.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "e75ccf66907aa47f1d9fec51d3379096829ed11f",
+        "FileName": "scan-query.html",
+        "Path": "docs/latest/querying/scan-query.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "ed04efe8710bcf3a096d0e94aaa4fb53ddbf2fed",
+        "FileName": "searchquery.html",
+        "Path": "docs/latest/querying/searchquery.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "c83c3c3b08dc5d68f75154a161d5a3df733612ef",
+        "FileName": "searchqueryspec.html",
+        "Path": "docs/latest/querying/searchqueryspec.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "57ab99dc903192689524953dcaac6a118e9b663c",
+        "FileName": "segmentmetadataquery.html",
+        "Path": "docs/latest/querying/segmentmetadataquery.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "59b7cde9760e835b93b479fddb728ee4196de9bb",
+        "FileName": "select-query.html",
+        "Path": "docs/latest/querying/select-query.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      },
+      {
+        "Sha": "f8082a9e1e7a91463187c23690a2aa11d7a26017",
+        "FileName": "sorting-orders.html",
+        "Path": "docs/latest/querying/sorting-orders.html",
+        "DateUpdated": "2019-09-26T00:57:50Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0bc8f7d382678c5befab787274de540b4a9d043b"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "0bc8f7d382678c5befab787274de540b4a9d043b",
+        "Author": {
+          "name": "\"Clint Wylie\"",
+          "location": "San Francisco, CA",
+          "company": "@implydata "
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T00:57:50Z",
+        "additions": 384,
+        "deletions": 384,
+        "files": [
+          "1122d9bdd7783bf0a3bb2b020423f6be5d36aa0b",
+          "b67da599d016070731f8b0f7dae8f5b46f4e9b9d",
+          "03792a98d3a255cff38718e0723632048bec4d80",
+          "560e075dee6527671002915a1ad95559d7b8bbc9",
+          "9c0ede4697828539cc7abc6379871da216aea7a4",
+          "701c41110b1f44b3207b4444bd66ca8aea8e973a",
+          "a4b019c576929bf4233a87e1e4a26eaf47db7457",
+          "9927cb8aac754400e48c79dc861f214000cfce41",
+          "02bef452cb9fe274478ec5abe4b641376e1e3432",
+          "14046ec9a4a48169a85e22de6190eb3929d3ec8d",
+          "7e9f4641fb84781b816c50ba7edf1ca3051f9a25",
+          "8589e1940f5699d274ed885597f52a0950908d38",
+          "9f48b9c8c16c61306587575029d85422f46f29e1",
+          "f94b3b5005ab7af60a2e253cacd9f7af01901206",
+          "1a371c1734f97261ab8a08bda0ad5340fcdbbd26",
+          "bf18cbb0a4ac78b5cbc6d1a6688fb0b3191a09f7",
+          "8559c20c9b393ca29292a6d4d465ff770c9f9a78",
+          "61ea8b6d92c2e2c993c6b34075fb112d5236f9bd",
+          "b5f09d6e8cdb41ebcb217e0cf8427fa7106fb967",
+          "7e9693af920522f3cdaaa02ed4829bfdd2faadf9",
+          "0520a91789743b73b23ed02eeff5ddda89bf9139",
+          "6f26b09c6764a454ee9018cffb0a69ae6e1cc9bf",
+          "7d21780795b81ca2b6368aa81365f818e1686a1a",
+          "8b7bff0283692d8c3f56feaf80637ff5dff598d4",
+          "3a29bd32975f337db44690e6d799e3f635cd1bd4",
+          "5d3d7c988fdc3d861741c40301bec03be236938e",
+          "1aa0fc6a4a758720a77e5b260135d442f3812af6",
+          "072309c8a324a7652d563f108af1bac4f2d9df34",
+          "6fadaf133c5ca80911b5fbaa5defb4c07ac9db78",
+          "33d7223d1e28a6e66c5fcf4666b7ccbdf39e6997",
+          "cd2b52a930080b2f60c0d2f834946c45f59c7426",
+          "ea7b3a2b622f9167f83dae64d78490bf69f809e8",
+          "0d191cdfc09c3a2f11dcbd4d1b95adb5d78be7b3",
+          "74190d6a5d05b4276b8c6f7123b7ee4ac005cb1b",
+          "c428b52d82763a1b497d5f4907bcfe97300d1c12",
+          "934b4f86ee632e8e86ebbb98ea5bc959752b4bd0",
+          "532186a56671ccbea625791f72115394c269ea93",
+          "29f2bf507f2aa129a19b1ada27fbee1703ea5efa",
+          "4ca3d725d01ff5876cbc102e2480f517430581c3",
+          "567b0bf0e7f3f51f4c2b903a91fe27ab915cbd7a",
+          "9189e9dbd9bc03a00514b52216a9e29753819e63",
+          "c204ecf3f07d12528743cec3e0cc29205412ed9d",
+          "72dcbabd9122e6c4bb2d6b34384cf2ffb0a1260c",
+          "b8696048497b1e85f45f129701b26bfc65519405",
+          "ebe4240ea2833da5417a643ba80bf4fdadd157e1",
+          "1a38ecc0624054108b15c79b163f5647ba929618",
+          "657b07cc947cc9f876c4edb6482731a7b1a5be7a",
+          "c6ccd49b4ec189d8d0664c30839c7a8f85245ded",
+          "eda06a0a2b8cdd8d7d758e5ec75f23ff97bbbb6f",
+          "f0661c502b056202f452afc7b7fbe5c319104416",
+          "2dadaf18725b61bd1a830f11f98baa660ff3f0cd",
+          "ce930c568c17e8a9f1e52fbe8522d2985cc0f3c9",
+          "f765d5e984ee700c02a7ae6c77052363aa446e31",
+          "68dc15f65cd066df8a9db8400ad18e1cce377ac6",
+          "e90db641894a43bae5fa57a64cee6878c91f6462",
+          "667c5a6245d4275e5874a198530a09523d8fd837",
+          "d91c89cbeee5e42d053d7e0a12c76fdb44e2cca6",
+          "a6d719c8f21d38245fa387c360f6c757aa670a51",
+          "4d4112cafae6d49ab04c46aae1c5b04045a91dfe",
+          "2d0fe71f6e8c8fe21638d3fc88dcda8fb9370e95",
+          "5e95c46a873723cdcc7856a0796ab0116a05b000",
+          "e82cdfd168d8cd8da62d25942b8ec99174dd8d31",
+          "6c61e53adca5639a0fa772289126aed55005bf2e",
+          "95d2c8d2f6077011b50c2ea5be013fddc06df381",
+          "4f97aeeee409b5dcf74d6a9f8ab0ffb40552198a",
+          "d526c819f9cec7786a2cacd7e05e3ad3f99c0ac3",
+          "f128a5d21cb11c0f728e2c68670033e96fce5697",
+          "ca906a0cbd66d2a505eee269337e89b221f4428e",
+          "18399ed6d48cad5f8922233d20f60be3c0df8644",
+          "2e34db0a2abe626fd4987d70d4ce5bfafbdf6bae",
+          "a33458e9435b9059c5d242efcb6cd5e0e7860aa1",
+          "2dbb778fc6b0b256aa1b132865ab7815db47ce12",
+          "51fc3a6e1cc680aab5a10520fd8f39afbb6e4d50",
+          "0a79d6f5da10cef17c09106af3c68d6ef1a82a69",
+          "23943685f314848aed09c7e52c98bbc28b4850df",
+          "b8d09db496e3927d42fc7f879fccdd8f0bfb6c94",
+          "85a282b0c12409cd4df447d2895de6ef73bba243",
+          "cda0f71c80ab542b1d2ae6a3254c47126c8dd6e5",
+          "bf560ef3d4c635f8a983fbd74a77b888d6e6a5cd",
+          "f71a728a8d1fef47b6a4704ba0f6afe2265b5898",
+          "f76e4a5b5323dc49ad5ffc11ad6ccc88375c448d",
+          "dc5c5368607a2e71f7073d57ba3072532b020a25",
+          "3ddb4de48c0874edefcaf43f7457b4468344127c",
+          "1618a4269c580625b92ee2398fda14693cf38030",
+          "e33b9aed51714762d553b6a269c5a579bab1f086",
+          "c098ee9e9d2f32801c74a8e3b4d5a6e3da224b2e",
+          "637898c65bb5acf35e5f7054446b5f8b5d1d39a0",
+          "b4b62092420a7d7537ea829c6c41b39a2b249402",
+          "9762c72bfde7e6d69059f3d299278e00517f586b",
+          "ddb439c879cbabc26c9332cf9dbc1cf6a3d56457",
+          "e0beb2d313b6db480a40c96756ad6f11c1d1c432",
+          "dd74a7a9ce379c9a01659964cfe742abc62adc49",
+          "7d40d56f242e79b170ddaa276154aff2c63556df",
+          "cecdb37035958988c7099ada5eeedd05097a6d69",
+          "423b52e3c52ea2c44f70ef9627a7f82909037136",
+          "1cfa0610f601eec1c09d47ed07fbcb86cab76e11",
+          "030370149139bbfc9e38cd61ad710667a1cc402b",
+          "31760d5aab275f553afc8215de97fa308a17dae0",
+          "d1f74f9017283be9c236ee207c0deb25c312141f",
+          "efc38014c5c5d88d56c82dadca37a8032eba26cb",
+          "5f5abe281dfae8bfd45737ff4fca3a9ab554b1ab",
+          "8243a22e3a31d927918c9934428dae805abc4504",
+          "59fa68feb181ce2f8b40989aa44610c261a9757a",
+          "8035ba989ef43be584b06b5e9bf0711e346073a5",
+          "8c01ba9073e85a58d2b546df096b559fda0cdac9",
+          "bfc49494abdb73cf263af63e58cd6cd68a7ca3c9",
+          "525aaab753572bf362c932c7485a675e43d4869f",
+          "e2f09eb32390dc77747bb934bf8e693889661ae7",
+          "216c2705caa1ca20d876480842b8194b0d32d68a",
+          "8c79765f95aff8903b7ce8d1daa19ac5b7781bcd",
+          "724911d62862a1940c2fa6852e7491e0de272c44",
+          "0da295b885c27c6aa3dd9b5910d74d51f1a9c22e",
+          "6826ae1d1fb6208d3f352c80e13ac2ef19f8c6bb",
+          "329aa5c1261e0ab0e788595236232764bbebdb6c",
+          "62f77b3fc6392458ab663bae6c3d2403b5d50c91",
+          "cbe8f91ac79d90d5d4ca74da4d64131fcfdb463d",
+          "9362b435016dd178edb235e7ab6f1d7d16cda9f3",
+          "07997eec7bfac17014eb132bf9d5ff226ab20733",
+          "a2f4f76a4d67cc661f51f4a2fb95e39f6a48925c",
+          "4a062217bb7214e1edee70f50ccc861e124847ad",
+          "d0fdc1fcd11294eadf78ceaaf3767afda079ad3b",
+          "3b9d604a16f44b23350910e32d973235cb7e28e3",
+          "0d1f54475523904698bec580b30d241c541bffb3",
+          "ffb237712d439ba3a664e4cccf9163112077a9c7",
+          "8ff728f51e74de6656e1de995a8b8d19ed6a6834",
+          "69a834add5238d46bddbad0158ba7c9cf15e2152",
+          "abf6dcb3023d229968e4d9dee486b044dc9ce8d0",
+          "591daf8e5b7597526a370429ebd313d8e1800b46",
+          "f44fa8032f23ac07d401c8d45769f89507dc3d4c",
+          "4f11db01fd06327359746c9e35706348fda0ff37",
+          "2ba4a8bfc5f9686cc09b7f6eadf1f4762c823b3c",
+          "53e8fccba3447199e13723abc0cf9d273606860d",
+          "c36fd94d16500e9e43efb967c3e4ed2667360667",
+          "c64a365bdaea551b3eaa9baa3bfbc1dd8cf322c1",
+          "418619bf0c3768b00d68c96a745cb84b144f128c",
+          "f28813a5b0c6e124149bba0e3bb31056ad72ba11",
+          "36b6b0d90bedbf7fd2eda9cc9aa40e3f5961f3c7",
+          "4a93742a2b51b0b3936dcb59d9a77e6a9fa7540c",
+          "9258acd6e0c0e87eeb25223200bf48da8bafda3a",
+          "1c8af57f6bb2699de3c9b9d16b664cff643f506e",
+          "213112a83e4f44632a7f7fdc5be03a6fe01b2270",
+          "f9fb9d6ce1eede78e2c2dbe358323bfad1d848cf",
+          "7687dd6fe4a303380a8777f8ec6193f8bdf4b039",
+          "1bf32d6a36d4c23fd8ce7b7716360300f44019d3",
+          "4b185f197562e1aee30559ac5715ecdf5a22772c",
+          "21422c31c9e54506d0fed1f9c4fd179c921f14e8",
+          "3a596bca706f8412091a07ad412bce6aca24f3fb",
+          "f79408710cde2a926a73e88f6fb5f1c5e0fcb575",
+          "489d229dcc6f6b2933d3abd5873fe6019550ace9",
+          "33ca8c263c1b9b9208edcf9b12c41c7271edaeb2",
+          "56f91aeb47b7ce230b5b5d9e015d68bd39740800",
+          "2a5f697aac3b687c603253053898a1d3580a676a",
+          "f1ded705fed0113bdc27dcf0c2be18174b544a84",
+          "4853da3829d6b9cab6defd383e6390e0af3ab8ff",
+          "827890c8f999aac631cd5a1ba442748728e9c89c",
+          "297d4122756a57f2889e4641cb5c5d7caeda733f",
+          "8c724e478312c3ccc3364ed312993c4da209724f",
+          "df5bbd19e09c2c8bd9825c7d1cc664e9a7fe876c",
+          "5e250e1ccf4bed709fbcc382c842406c88ef5522",
+          "a924c6afb24f73a4aa47817881ee70afcf7f2260",
+          "93323b1f26cc17398875690048eb1423862596f8",
+          "fba15157e933f2f93cdea24b08fa17c98745f336",
+          "433cf25bd53f46a44529e55feae753646fb624e8",
+          "b53194c563a33b6a3d7e806589789f6c43aceec6",
+          "c3b5c1246550cae2ab62eb2ae654623a54be674a",
+          "1668ef11b856c82d4763f2e2f2869466ec8651fc",
+          "67fa327b13c3f10a5c1d8dfe266491cde900b23f",
+          "e7ab8846f59f18a1c85491790537d6671bcbe0a5",
+          "f6b771d0c964c9fa96bd01967e490e8b355078cd",
+          "8a95f567e3a6c4963b7b85d313ec3aeb710e2cae",
+          "bcd4b3113cf8fc290b38cc31e222352671f583a2",
+          "6bafab21696eacfad04ecd5c647a1b057a2f7ce8",
+          "8b3986336669a634689300d37e5b8e461e607e38",
+          "d0969e5e7bd60b77ce13fff0c96f5f78799aabaf",
+          "3c524c937d3f0163e181f822e422155a329d12ad",
+          "76348190a1bb53b929de5409421742ea18400767",
+          "beee73bbff9889b88c2d389698b12b73a48395d8",
+          "a31e075393269da30e460b7ef9a80e4f90ce4f69",
+          "11082c774beae7746297384ea79b53b0012df5d4",
+          "460c462751d89d44c4d8e2aa67f5b3a3a34de3ab",
+          "6dcb184e76630dd66f55ff40d8f65a086e497822",
+          "873f9df4445ed663277fbf2e0c1688a801dea143",
+          "7a0a6b639e435e8d64d8c49493132638822f7409",
+          "e2605a6266476c566cccb771a3b887d8daec00e4",
+          "638be325cd9bd4ad15b51ed8e6adf5137abd0527",
+          "39b7dc641e904401ca8b1844a68d30da6c20796d",
+          "27935101e0d08bf30e6bd90a3f64005f6440cb49",
+          "a6faee5186f7da98e97391a99c8e2ae75995cf1b",
+          "2a6985cff9f5ebe715d8c2015ebbfcdfca0ede5d",
+          "d32d9403a5e06cf3997745d3241555234c8636fe",
+          "d5230bdd9d7a55575fbfb5db83f1c1de35295cf1",
+          "4065c4f6e792fa5a989340c67872e6b69d32b39c",
+          "b86fefbcf12982081d5b950ad3a9ae8961c9572b",
+          "e5bc3ce5946cef439948c8619d5f8f832e8bc2cf",
+          "129c425d46264fc3fed720fdea971cb93c657844",
+          "e2c944b84b4ca785a3d6b3ad72b5321238668fbd",
+          "397cb4f553933bc13ce4da14dac356f6886c1561",
+          "521b1b99facebc753d6674ae950a4f8d0afa7e96",
+          "224b59477ccbbca891531702a199db64b4d2efbc",
+          "ca5308724938e5552ae791e3da4e4db34a944870",
+          "39f7578b991ba97e3302af938657b1012e285119",
+          "23976970de00a5dcf1db34247b2b259647764cf9",
+          "4251e24319c62dbffde16c6c7e5176d1160275be",
+          "c30a74841d96dafb62ed6dea290e01ebb603edd8",
+          "339f6cf0c67cf88953d96a5c2f7d0650752ddcdf",
+          "715de7fb1b550480ad592a7bb969d4045a17dded",
+          "ab85629e933ec6f88e31ad245d4d026c50f0e7a5",
+          "6cee3501038555de2c23328e0f439d458bd75fb1",
+          "ef6fbb98a7815617b7a802adc158b25e4bf4bcac",
+          "ffc2aecb37f08fa4499bbca4ddfd3e364109b214",
+          "db449caa0cec2c2ad97d530b8a83d8c3b0350dd8",
+          "b2537758929f7fa03dd14470bde7b94d3946e3ce",
+          "1ab51daee69af225f47462f25cde657472b0c732",
+          "b31e2f438571988c4e51b8641a3e406fbd5371e7",
+          "49dcc18f7e02601fe06482e7b5b93a1742808a8f",
+          "ddef8a36a5929aa0b4442d9cb9282a647fadfce2",
+          "3187523c0dd9111782e45861da4cb0df1f472394",
+          "0cbf41b55601858569d1e0d36d76d3b623ffe565",
+          "34ad924714179ac6e7ab61759bded71bebb9a1d0",
+          "dd65a249485a50b1e227e90fe755cb1b60706d1f",
+          "fd712f6ac9f5d7e936965ee9e72f734e5aafc59d",
+          "573e874ba7c90fe6ebcb2b03ddeb8d9340186cea",
+          "30ea2d3669984389779dc35ae7515512efe4b2a5",
+          "b01d4842edb338d89556fed85aab11b8e39a2b8f",
+          "2ca0947c2a9a625ab41b67451265f9887be30702",
+          "6bf8acbba27bd18ea84345c09204f4250bcf556c",
+          "5fbe7e358ed30381cc66c84b27572f87c19c3683",
+          "afa546351ae85bdc241c9fee39921dad84e8a12c",
+          "d83273097a3b0c1b4438323edbf9ba0bea81f728",
+          "f29d850de6a31f01b5dd79cffcaf959bc7bff19a",
+          "c4c53b56295b2583ad2b0645f1cb0de5717c5ffc",
+          "f821e32ce8db0dd876718786d3d579ff0085949c",
+          "6f94733312c3078fcfaf61eafdcaf46382ac2bdf",
+          "1d6b4623a4fbd9642c0dc7cf1c4d5a103c48f04f",
+          "864c5b8b1ec899b865e1b91efc301c86e9077cba",
+          "f4a1f9e6b0aa4c9dc07990d3660c86687ac5cf3a",
+          "59c4e88cfcd76b22f887af3e3c7ad0ca70b82568",
+          "56046acf589de95059ae697b88a060b5f41293b4",
+          "ff5d68ed321d729b8c8a1b198049a358d9bd87ce",
+          "6623557b1121c74138486b0898be8e082a925bbe",
+          "cf2f2f3ceda87717015838136f91e62a7ac724b0",
+          "5cf2c822cda9055fcb74197317ebf3da4d4819b5",
+          "1befac5ea300400c3d6325f93ee623c071116615",
+          "985ef0919c9a87f09694dd68d48305f44c83cca2",
+          "96fef085956386a9bce49ad2b91559a03f56a5de",
+          "1bc4b0669659be5f36c629be2eca65685837c70b",
+          "cb5e954674c390521953a980f9c595ead33b63a2",
+          "281a9d4a5a22d820bfff299d0a435592760a8861",
+          "2fc455e60c3af6a3a7fa50b92dda070c09de1199",
+          "73b479a1a66f76299bef6a60bd1f3584f34c8936",
+          "84b537358791179c0ef344615e8828aa2694ed58",
+          "3a966f261d10dd125599810aca958f70cf668436",
+          "c5a676ec0bb5a10b58fd4afa8feb8bcba91eed2e",
+          "5eaf150f44090adce1e1a281360f0c1ec2048208",
+          "e2ed18ca167856fb844cce5d9ec76ee647f536d7",
+          "1d575b7e0e72215912964e1cd183df101c44d4b3",
+          "3a40d19c2fd7d3e41fcbee1772c405003128c255",
+          "aeb42ee17c0566200b6783cdd5d4f7ef035d4661",
+          "9bc1fa40d6810e56d08841ef6cc92758c07a8c76",
+          "a21999b81d7c08f38c35b419e07a59015902521d",
+          "a0dfdb10a996c5a2b267fb7817a183e9fba38444",
+          "f01e6eef0db8f4df85c9d9c3aa6abac94f67e913",
+          "0189e58e2e8ad712846ac41c87d4cd60182c7a45",
+          "0fdcfa2e3678c124a2c81b57b2607efa1ff06d91",
+          "2677cab0334a3db5200032c2fc5c2a4cd2c6ef3e",
+          "0ebe85dcab2ea8d88300a7d565893a9ee946140d",
+          "a7bb92121634c2a08166f8d2421ae62092f9b514",
+          "2d76054c01fb936057195b106d1d76f1adae0ae3",
+          "5db2464bfbdb018e9c58251d563a2243e015d466",
+          "67659a22b7b808a72f7b098ab40bcc0836cbb797",
+          "0af16cfcbb609145acf2d49f5b4beeb40e56b175",
+          "fce16ec9de9527ce8d0b1132899bd5b25505709e",
+          "eba92073fa5bd23bdd96efe19a8003f7c8c2d121",
+          "4599037d35370eb6441b246a7e1f1c6a9ddcb17a",
+          "7f904be7435f381ed9d5367d0d98a88e8fe4b6ec",
+          "bc2b58823ba1487ee4a4354f8842d62fd1cfd474",
+          "6a0469adf09e9c7c7bdc58bd0a54a8820da9df0b",
+          "1279f2c6e646dc29829d973d98681bd7dec13fe5",
+          "3537ae25a8eb80c3120f1de1999af8f2da8311f1",
+          "23f2e6a94150e685422889dce9cbb9bb36b044f2",
+          "e54b30c4dee53fbd1f75de2c14590b933f19b3c2",
+          "6467d1c78354f373e3a15d67ef21f171cb663d2a",
+          "ea52c083f7ae33178678f0a9b4b4e304284cb0bb",
+          "7dce25c773a46a4a7caf563774fa35edd7c6c584",
+          "f1b4260836f0e933d6ba65574999f9c6519a6869",
+          "e46a1011cdee8867b112b940c1f4dfdc47827a1c",
+          "f0167b0a93ac99b57980a415f7bc761b46f0ac26",
+          "88dfe8664e32712375a6ebd80a355a2bab865c18",
+          "8228f6b60f49c27f52740ef4855cfbb09e603437",
+          "8d66cafa87824f65074c3ceebb52208137b60171",
+          "98d17a43aac7e08bbd43361b3f3931f40986e264",
+          "c9ec434c441017e4d6f159a3b12f4bdbb5267610",
+          "6de7e4605cf3dcf7517bdbd2d80d06bc68fc3209",
+          "9fff0364eb2fdfa5a7503f679edc07c907f1e880",
+          "e75ccf66907aa47f1d9fec51d3379096829ed11f",
+          "ed04efe8710bcf3a096d0e94aaa4fb53ddbf2fed",
+          "c83c3c3b08dc5d68f75154a161d5a3df733612ef",
+          "57ab99dc903192689524953dcaac6a118e9b663c",
+          "59b7cde9760e835b93b479fddb728ee4196de9bb",
+          "f8082a9e1e7a91463187c23690a2aa11d7a26017"
+        ]
+      }
+    ]
+  }
+]

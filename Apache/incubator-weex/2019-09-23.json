@@ -1,0 +1,254 @@
+[
+  {
+    "RepositoryName": "incubator-weex",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T05:02:53Z",
+    "EndDate": "2019-09-23T06:02:53",
+    "Branches": 14,
+    "Forks": 1730,
+    "Files": [
+      {
+        "Sha": "449ab92d6e74275b6ab954ac5e1d3581b276e530",
+        "FileName": "WXSDKError.h",
+        "Path": "ios/sdk/WeexSDK/Sources/Engine/WXSDKError.h",
+        "DateUpdated": "2019-09-23T06:00:03Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "e8f323a00ad031727074739866200fd337f93529"
+        ]
+      },
+      {
+        "Sha": "8d7bc9d9ba68001247ac3c883c85439241e38ae9",
+        "FileName": "WXSDKError.m",
+        "Path": "ios/sdk/WeexSDK/Sources/Engine/WXSDKError.m",
+        "DateUpdated": "2019-09-23T06:00:03Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "e8f323a00ad031727074739866200fd337f93529"
+        ]
+      },
+      {
+        "Sha": "d0364092ab659aa95ed30333de38c1571e14608f",
+        "FileName": "WXTimerModule.m",
+        "Path": "ios/sdk/WeexSDK/Sources/Module/WXTimerModule.m",
+        "DateUpdated": "2019-09-23T06:00:03Z",
+        "Additions": 0,
+        "Deletions": 9,
+        "Commits": [
+          "e8f323a00ad031727074739866200fd337f93529"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "e8f323a00ad031727074739866200fd337f93529",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-23T06:00:03Z",
+        "additions": 0,
+        "deletions": 11,
+        "files": [
+          "449ab92d6e74275b6ab954ac5e1d3581b276e530",
+          "8d7bc9d9ba68001247ac3c883c85439241e38ae9",
+          "d0364092ab659aa95ed30333de38c1571e14608f"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-weex",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T06:02:51Z",
+    "EndDate": "2019-09-23T07:02:51",
+    "Branches": 14,
+    "Forks": 1730,
+    "Files": [
+      {
+        "Sha": "1c81edead8acbd060525687436b8ec95251ef754",
+        "FileName": "WXBridgeManager.java",
+        "Path": "android/sdk/src/main/java/com/taobao/weex/bridge/WXBridgeManager.java",
+        "DateUpdated": "2019-09-23T06:59:00Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "ec1ec238cf03e538e8d07a383befcb5fa2785518"
+        ]
+      },
+      {
+        "Sha": "e15eb0860a56ab6c437964a84911c66baed686e6",
+        "FileName": "WXErrorCode.java",
+        "Path": "android/sdk/src/main/java/com/taobao/weex/common/WXErrorCode.java",
+        "DateUpdated": "2019-09-23T06:59:00Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "ec1ec238cf03e538e8d07a383befcb5fa2785518"
+        ]
+      },
+      {
+        "Sha": "75608489c911f4804426dd7031981641d0d4dbde",
+        "FileName": "render_page.cpp",
+        "Path": "weex_core/Source/core/render/page/render_page.cpp",
+        "DateUpdated": "2019-09-23T06:59:00Z",
+        "Additions": 10,
+        "Deletions": 0,
+        "Commits": [
+          "ec1ec238cf03e538e8d07a383befcb5fa2785518"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "ec1ec238cf03e538e8d07a383befcb5fa2785518",
+        "Author": {
+          "name": "\"YorkShen\"",
+          "location": "HangZhou, China",
+          "company": "Alibaba Group"
+        },
+        "Commitor": {
+          "name": "\"chen\"",
+          "location": "ChengDu,China",
+          "company": "SiChuan University"
+        },
+        "Date": "2019-09-23T06:59:00Z",
+        "additions": 16,
+        "deletions": 0,
+        "files": [
+          "1c81edead8acbd060525687436b8ec95251ef754",
+          "e15eb0860a56ab6c437964a84911c66baed686e6",
+          "75608489c911f4804426dd7031981641d0d4dbde"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-weex",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T13:03:52Z",
+    "EndDate": "2019-09-23T14:03:52",
+    "Branches": 14,
+    "Forks": 1730,
+    "Files": [
+      {
+        "Sha": "d739d636ff4fba4e7aef973d9ed3775235cf2ca1",
+        "FileName": "WXCoreBridge.mm",
+        "Path": "ios/sdk/WeexSDK/Sources/Bridge/WXCoreBridge.mm",
+        "DateUpdated": "2019-09-23T13:27:07Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "315f88f3da25a99bc8d53a9d8caf01541e714333",
+          "146169900bdc8093cec47817d3dccfc9d763be23"
+        ]
+      },
+      {
+        "Sha": "17fa069270ea1c3e32c2d44a64be0f629f7b313b",
+        "FileName": "WXSDKError.h",
+        "Path": "ios/sdk/WeexSDK/Sources/Engine/WXSDKError.h",
+        "DateUpdated": "2019-09-23T13:27:07Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "315f88f3da25a99bc8d53a9d8caf01541e714333",
+          "146169900bdc8093cec47817d3dccfc9d763be23"
+        ]
+      },
+      {
+        "Sha": "0f06927fe838ee495873156abbd643de33a9175f",
+        "FileName": "WXSDKError.m",
+        "Path": "ios/sdk/WeexSDK/Sources/Engine/WXSDKError.m",
+        "DateUpdated": "2019-09-23T13:27:07Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "315f88f3da25a99bc8d53a9d8caf01541e714333",
+          "146169900bdc8093cec47817d3dccfc9d763be23"
+        ]
+      },
+      {
+        "Sha": "360ad4f9bdb0998d6d8514e1479254709f2bbe60",
+        "FileName": "WXSDKInstance.m",
+        "Path": "ios/sdk/WeexSDK/Sources/Model/WXSDKInstance.m",
+        "DateUpdated": "2019-09-23T13:27:07Z",
+        "Additions": 6,
+        "Deletions": 0,
+        "Commits": [
+          "315f88f3da25a99bc8d53a9d8caf01541e714333",
+          "146169900bdc8093cec47817d3dccfc9d763be23"
+        ]
+      },
+      {
+        "Sha": "2cd8f9bcdfecd0573016b37e1ea70478766d71ea",
+        "FileName": "WXConvertUtility.h",
+        "Path": "ios/sdk/WeexSDK/Sources/Utility/WXConvertUtility.h",
+        "DateUpdated": "2019-09-23T13:27:07Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "315f88f3da25a99bc8d53a9d8caf01541e714333",
+          "146169900bdc8093cec47817d3dccfc9d763be23"
+        ]
+      },
+      {
+        "Sha": "65d035d5dc0e8e2fed8a304a9e06719296d91702",
+        "FileName": "WXConvertUtility.mm",
+        "Path": "ios/sdk/WeexSDK/Sources/Utility/WXConvertUtility.mm",
+        "DateUpdated": "2019-09-23T13:27:07Z",
+        "Additions": 53,
+        "Deletions": 0,
+        "Commits": [
+          "315f88f3da25a99bc8d53a9d8caf01541e714333",
+          "146169900bdc8093cec47817d3dccfc9d763be23"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "315f88f3da25a99bc8d53a9d8caf01541e714333",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T13:27:07Z",
+        "additions": 78,
+        "deletions": 0,
+        "files": [
+          "d739d636ff4fba4e7aef973d9ed3775235cf2ca1",
+          "17fa069270ea1c3e32c2d44a64be0f629f7b313b",
+          "0f06927fe838ee495873156abbd643de33a9175f",
+          "360ad4f9bdb0998d6d8514e1479254709f2bbe60",
+          "2cd8f9bcdfecd0573016b37e1ea70478766d71ea",
+          "65d035d5dc0e8e2fed8a304a9e06719296d91702"
+        ]
+      },
+      {
+        "sha": "146169900bdc8093cec47817d3dccfc9d763be23",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-23T13:08:16Z",
+        "additions": 78,
+        "deletions": 0,
+        "files": [
+          "d739d636ff4fba4e7aef973d9ed3775235cf2ca1",
+          "17fa069270ea1c3e32c2d44a64be0f629f7b313b",
+          "0f06927fe838ee495873156abbd643de33a9175f",
+          "360ad4f9bdb0998d6d8514e1479254709f2bbe60",
+          "2cd8f9bcdfecd0573016b37e1ea70478766d71ea",
+          "65d035d5dc0e8e2fed8a304a9e06719296d91702"
+        ]
+      }
+    ]
+  }
+]

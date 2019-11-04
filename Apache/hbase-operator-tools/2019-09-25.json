@@ -1,0 +1,64 @@
+[
+  {
+    "RepositoryName": "hbase-operator-tools",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T12:04:40Z",
+    "EndDate": "2019-09-25T13:04:40",
+    "Branches": 2,
+    "Forks": 42,
+    "Files": [
+      {
+        "Sha": "625bed016a62efce34244ee02a4768d09c12da0a",
+        "FileName": "pom.xml",
+        "Path": "hbase-hbck2/pom.xml",
+        "DateUpdated": "2019-09-25T12:52:52Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0e1f88c61e87a77fb20da7b18932ff1fdc323693"
+        ]
+      },
+      {
+        "Sha": "1f28eddb01648857e4eed3a65875e47cf17d9f58",
+        "FileName": "pom.xml",
+        "Path": "hbase-operator-tools-assembly/pom.xml",
+        "DateUpdated": "2019-09-25T12:52:52Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0e1f88c61e87a77fb20da7b18932ff1fdc323693"
+        ]
+      },
+      {
+        "Sha": "1ae4f9a8f96b575fc64844369e66d99b24151bb2",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-25T12:52:52Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0e1f88c61e87a77fb20da7b18932ff1fdc323693"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "0e1f88c61e87a77fb20da7b18932ff1fdc323693",
+        "Author": {
+          "name": "\"Peter Somogyi\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T12:52:52Z",
+        "additions": 3,
+        "deletions": 3,
+        "files": [
+          "625bed016a62efce34244ee02a4768d09c12da0a",
+          "1f28eddb01648857e4eed3a65875e47cf17d9f58",
+          "1ae4f9a8f96b575fc64844369e66d99b24151bb2"
+        ]
+      }
+    ]
+  }
+]

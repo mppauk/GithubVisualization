@@ -1,0 +1,2059 @@
+[
+  {
+    "RepositoryName": "camel",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T03:01:58Z",
+    "EndDate": "2019-09-23T04:01:58",
+    "Branches": 33,
+    "Forks": 3686,
+    "Files": [
+      {
+        "Sha": "41ecbd5fbeb8010cbc5d015b578055ff79d679e1",
+        "FileName": "pom.xml",
+        "Path": "platforms/spring-boot/spring-boot-dm/camel-spring-boot-dependencies/pom.xml",
+        "DateUpdated": "2019-09-23T03:55:11Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "fd21288cdee708c301dbb47eb2d2611e2d4915d2"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "fd21288cdee708c301dbb47eb2d2611e2d4915d2",
+        "Author": {
+          "name": "\"Claus Ibsen\"",
+          "location": "Denmark",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Claus Ibsen\"",
+          "location": "Denmark",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T03:55:11Z",
+        "additions": 4,
+        "deletions": 4,
+        "files": [
+          "41ecbd5fbeb8010cbc5d015b578055ff79d679e1"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "camel",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T05:01:48Z",
+    "EndDate": "2019-09-23T06:01:48",
+    "Branches": 33,
+    "Forks": 3686,
+    "Files": [
+      {
+        "Sha": "7a63d0341249f947c491fa038161550b707edadd",
+        "FileName": "CONTRIBUTING.md",
+        "Path": "CONTRIBUTING.md",
+        "DateUpdated": "2019-09-23T05:54:17Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "99c0a691f35868aa43c9c159e9076de0ea5e0c38"
+        ]
+      },
+      {
+        "Sha": "f398fd5c3a17fc0f45cce825594d243e5ec875d7",
+        "FileName": "hystrix-eip.adoc",
+        "Path": "core/camel-core/src/main/docs/eips/hystrix-eip.adoc",
+        "DateUpdated": "2019-09-23T05:54:17Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "99c0a691f35868aa43c9c159e9076de0ea5e0c38"
+        ]
+      },
+      {
+        "Sha": "ddc53aae94f944a069fa53a94c100c8ea690d69c",
+        "FileName": "marshal-eip.adoc",
+        "Path": "core/camel-core/src/main/docs/eips/marshal-eip.adoc",
+        "DateUpdated": "2019-09-23T05:54:17Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "99c0a691f35868aa43c9c159e9076de0ea5e0c38"
+        ]
+      },
+      {
+        "Sha": "839697012112e50ec4064ce21adfa42124d3a42c",
+        "FileName": "pipeline-eip.adoc",
+        "Path": "core/camel-core/src/main/docs/eips/pipeline-eip.adoc",
+        "DateUpdated": "2019-09-23T05:54:17Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "99c0a691f35868aa43c9c159e9076de0ea5e0c38"
+        ]
+      },
+      {
+        "Sha": "c7c1c09e8205e5ad8403fe4d5a5e80e7ef170df6",
+        "FileName": "process-eip.adoc",
+        "Path": "core/camel-core/src/main/docs/eips/process-eip.adoc",
+        "DateUpdated": "2019-09-23T05:54:17Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "99c0a691f35868aa43c9c159e9076de0ea5e0c38"
+        ]
+      },
+      {
+        "Sha": "98d208625b19e9176d5f39e13062771954027a64",
+        "FileName": "rollback-eip.adoc",
+        "Path": "core/camel-core/src/main/docs/eips/rollback-eip.adoc",
+        "DateUpdated": "2019-09-23T05:54:17Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "99c0a691f35868aa43c9c159e9076de0ea5e0c38"
+        ]
+      },
+      {
+        "Sha": "d95fa003589ef6501f2f5c218f998c34eacfd44c",
+        "FileName": "step-eip.adoc",
+        "Path": "core/camel-core/src/main/docs/eips/step-eip.adoc",
+        "DateUpdated": "2019-09-23T05:54:17Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "99c0a691f35868aa43c9c159e9076de0ea5e0c38"
+        ]
+      },
+      {
+        "Sha": "fb1c22caf72680c27eed8e6572962a0929cd3a1a",
+        "FileName": "to-eip.adoc",
+        "Path": "core/camel-core/src/main/docs/eips/to-eip.adoc",
+        "DateUpdated": "2019-09-23T05:54:17Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "99c0a691f35868aa43c9c159e9076de0ea5e0c38"
+        ]
+      },
+      {
+        "Sha": "687d16c05780a32a99100bfbe98808386fc62c50",
+        "FileName": "transform-eip.adoc",
+        "Path": "core/camel-core/src/main/docs/eips/transform-eip.adoc",
+        "DateUpdated": "2019-09-23T05:54:17Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "99c0a691f35868aa43c9c159e9076de0ea5e0c38"
+        ]
+      },
+      {
+        "Sha": "c4e2816bc8074598b45e5c909035d8906d79e58c",
+        "FileName": "unmarshal-eip.adoc",
+        "Path": "core/camel-core/src/main/docs/eips/unmarshal-eip.adoc",
+        "DateUpdated": "2019-09-23T05:54:17Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "99c0a691f35868aa43c9c159e9076de0ea5e0c38"
+        ]
+      },
+      {
+        "Sha": "f034652876062cdef08f8be4b46a920225822539",
+        "FileName": "contributing.adoc",
+        "Path": "docs/user-manual/modules/ROOT/pages/contributing.adoc",
+        "DateUpdated": "2019-09-23T05:54:17Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "99c0a691f35868aa43c9c159e9076de0ea5e0c38"
+        ]
+      },
+      {
+        "Sha": "406024bc9f6321032a785d7039b9078b4a7bf4b3",
+        "FileName": "how-does-camel-compare-to-mule.adoc",
+        "Path": "docs/user-manual/modules/ROOT/pages/faq/how-does-camel-compare-to-mule.adoc",
+        "DateUpdated": "2019-09-23T05:54:17Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "99c0a691f35868aa43c9c159e9076de0ea5e0c38"
+        ]
+      },
+      {
+        "Sha": "92a168ba942de30d1bdcf7eec38cc629b4deb038",
+        "FileName": "hystrix-eip.adoc",
+        "Path": "docs/user-manual/modules/ROOT/pages/hystrix-eip.adoc",
+        "DateUpdated": "2019-09-23T05:54:17Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "99c0a691f35868aa43c9c159e9076de0ea5e0c38"
+        ]
+      },
+      {
+        "Sha": "7572c0298046f27dfea5241b9ea95154822ca664",
+        "FileName": "marshal-eip.adoc",
+        "Path": "docs/user-manual/modules/ROOT/pages/marshal-eip.adoc",
+        "DateUpdated": "2019-09-23T05:54:17Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "99c0a691f35868aa43c9c159e9076de0ea5e0c38"
+        ]
+      },
+      {
+        "Sha": "04c606f526e64bd96bb6df7acf469224691db57f",
+        "FileName": "message-endpoint.adoc",
+        "Path": "docs/user-manual/modules/ROOT/pages/message-endpoint.adoc",
+        "DateUpdated": "2019-09-23T05:54:17Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "99c0a691f35868aa43c9c159e9076de0ea5e0c38"
+        ]
+      },
+      {
+        "Sha": "8b0d05ce7e3086e8451d6bfa24df095066f46335",
+        "FileName": "message.adoc",
+        "Path": "docs/user-manual/modules/ROOT/pages/message.adoc",
+        "DateUpdated": "2019-09-23T05:54:17Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "99c0a691f35868aa43c9c159e9076de0ea5e0c38"
+        ]
+      },
+      {
+        "Sha": "da8af8c4bc91007e93f0b9e3a7846806b2b0efaf",
+        "FileName": "pipeline-eip.adoc",
+        "Path": "docs/user-manual/modules/ROOT/pages/pipeline-eip.adoc",
+        "DateUpdated": "2019-09-23T05:54:17Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "99c0a691f35868aa43c9c159e9076de0ea5e0c38"
+        ]
+      },
+      {
+        "Sha": "24254c840e481e96eeb9bba77d05b3cf6eb8bdff",
+        "FileName": "process-eip.adoc",
+        "Path": "docs/user-manual/modules/ROOT/pages/process-eip.adoc",
+        "DateUpdated": "2019-09-23T05:54:17Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "99c0a691f35868aa43c9c159e9076de0ea5e0c38"
+        ]
+      },
+      {
+        "Sha": "7b90f261a6d90e96d23799f48cf79527e119c519",
+        "FileName": "rollback-eip.adoc",
+        "Path": "docs/user-manual/modules/ROOT/pages/rollback-eip.adoc",
+        "DateUpdated": "2019-09-23T05:54:17Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "99c0a691f35868aa43c9c159e9076de0ea5e0c38"
+        ]
+      },
+      {
+        "Sha": "e823cfda3e7be7546c5f3818d6e5a07b6194d6a3",
+        "FileName": "step-eip.adoc",
+        "Path": "docs/user-manual/modules/ROOT/pages/step-eip.adoc",
+        "DateUpdated": "2019-09-23T05:54:17Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "99c0a691f35868aa43c9c159e9076de0ea5e0c38"
+        ]
+      },
+      {
+        "Sha": "d4bd76197cdd39872528473ea2e9e72eea7c4e29",
+        "FileName": "to-eip.adoc",
+        "Path": "docs/user-manual/modules/ROOT/pages/to-eip.adoc",
+        "DateUpdated": "2019-09-23T05:54:17Z",
+        "Additions": 6,
+        "Deletions": 6,
+        "Commits": [
+          "99c0a691f35868aa43c9c159e9076de0ea5e0c38"
+        ]
+      },
+      {
+        "Sha": "3e7ba8c9e536847a461977912b457e59d7c23f7f",
+        "FileName": "transform-eip.adoc",
+        "Path": "docs/user-manual/modules/ROOT/pages/transform-eip.adoc",
+        "DateUpdated": "2019-09-23T05:54:17Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "99c0a691f35868aa43c9c159e9076de0ea5e0c38"
+        ]
+      },
+      {
+        "Sha": "8204421f2a1d1f712009eeb2ddc7c6642860cfc8",
+        "FileName": "unmarshal-eip.adoc",
+        "Path": "docs/user-manual/modules/ROOT/pages/unmarshal-eip.adoc",
+        "DateUpdated": "2019-09-23T05:54:17Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "99c0a691f35868aa43c9c159e9076de0ea5e0c38"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "99c0a691f35868aa43c9c159e9076de0ea5e0c38",
+        "Author": {
+          "name": "\"Sohrab\"",
+          "location": "Melbourne, Australia"
+        },
+        "Commitor": {
+          "name": "\"Zoran Regvart\"",
+          "location": "Berlin",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T05:54:17Z",
+        "additions": 47,
+        "deletions": 48,
+        "files": [
+          "7a63d0341249f947c491fa038161550b707edadd",
+          "f398fd5c3a17fc0f45cce825594d243e5ec875d7",
+          "ddc53aae94f944a069fa53a94c100c8ea690d69c",
+          "839697012112e50ec4064ce21adfa42124d3a42c",
+          "c7c1c09e8205e5ad8403fe4d5a5e80e7ef170df6",
+          "98d208625b19e9176d5f39e13062771954027a64",
+          "d95fa003589ef6501f2f5c218f998c34eacfd44c",
+          "fb1c22caf72680c27eed8e6572962a0929cd3a1a",
+          "687d16c05780a32a99100bfbe98808386fc62c50",
+          "c4e2816bc8074598b45e5c909035d8906d79e58c",
+          "f034652876062cdef08f8be4b46a920225822539",
+          "406024bc9f6321032a785d7039b9078b4a7bf4b3",
+          "92a168ba942de30d1bdcf7eec38cc629b4deb038",
+          "7572c0298046f27dfea5241b9ea95154822ca664",
+          "04c606f526e64bd96bb6df7acf469224691db57f",
+          "8b0d05ce7e3086e8451d6bfa24df095066f46335",
+          "da8af8c4bc91007e93f0b9e3a7846806b2b0efaf",
+          "24254c840e481e96eeb9bba77d05b3cf6eb8bdff",
+          "7b90f261a6d90e96d23799f48cf79527e119c519",
+          "e823cfda3e7be7546c5f3818d6e5a07b6194d6a3",
+          "d4bd76197cdd39872528473ea2e9e72eea7c4e29",
+          "3e7ba8c9e536847a461977912b457e59d7c23f7f",
+          "8204421f2a1d1f712009eeb2ddc7c6642860cfc8"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "camel",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T07:02:04Z",
+    "EndDate": "2019-09-23T08:02:04",
+    "Branches": 33,
+    "Forks": 3687,
+    "Files": [
+      {
+        "Sha": "24a9801826e0b96ecd0d1c7e1659dc7726722c55",
+        "FileName": "kubernetes-job-component.adoc",
+        "Path": "docs/components/modules/ROOT/pages/kubernetes-job-component.adoc",
+        "DateUpdated": "2019-09-23T07:44:23Z",
+        "Additions": 33,
+        "Deletions": 0,
+        "Commits": [
+          "249d04ab1ec278bf75cfa2c688b7f287842f717f"
+        ]
+      },
+      {
+        "Sha": "1bdc9aa9d1451026ee161ba5589e6a9b85ee0a6a",
+        "FileName": "kubernetes-job-component.adoc",
+        "Path": "components/camel-kubernetes/src/main/docs/kubernetes-job-component.adoc",
+        "DateUpdated": "2019-09-23T07:43:46Z",
+        "Additions": 33,
+        "Deletions": 0,
+        "Commits": [
+          "7f1247b76a045c123718ee01324993d790a3cdf0"
+        ]
+      },
+      {
+        "Sha": "86f3939d6a116d28256bc644e34fb47a84b6fd29",
+        "FileName": "kubernetes-hpa-component.adoc",
+        "Path": "docs/components/modules/ROOT/pages/kubernetes-hpa-component.adoc",
+        "DateUpdated": "2019-09-23T07:34:32Z",
+        "Additions": 51,
+        "Deletions": 0,
+        "Commits": [
+          "e2e0612cbee81871a3139f91e78dfa9f9795bcb7"
+        ]
+      },
+      {
+        "Sha": "5d327e84d736341c41aa75f9e94294f3a79ceeaf",
+        "FileName": "KubernetesConstants.java",
+        "Path": "components/camel-kubernetes/src/main/java/org/apache/camel/component/kubernetes/KubernetesConstants.java",
+        "DateUpdated": "2019-09-23T07:34:32Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "778f6f04707c47c40d467f4af3581335da4cc18c"
+        ]
+      },
+      {
+        "Sha": "abceeac50a228bc6835a7e0a2a878afcf50c1da9",
+        "FileName": "KubernetesHPAProducer.java",
+        "Path": "components/camel-kubernetes/src/main/java/org/apache/camel/component/kubernetes/hpa/KubernetesHPAProducer.java",
+        "DateUpdated": "2019-09-23T07:34:32Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "778f6f04707c47c40d467f4af3581335da4cc18c"
+        ]
+      },
+      {
+        "Sha": "d69fb649dab3b21e88273f4dc84b4259017643da",
+        "FileName": "KubernetesHPAProducerTest.java",
+        "Path": "components/camel-kubernetes/src/test/java/org/apache/camel/component/kubernetes/producer/KubernetesHPAProducerTest.java",
+        "DateUpdated": "2019-09-23T07:34:32Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "778f6f04707c47c40d467f4af3581335da4cc18c"
+        ]
+      },
+      {
+        "Sha": "a8fbed8a0b073d83637a5582e32ecb2b99063597",
+        "FileName": "kubernetes-hpa-component.adoc",
+        "Path": "components/camel-kubernetes/src/main/docs/kubernetes-hpa-component.adoc",
+        "DateUpdated": "2019-09-23T07:34:32Z",
+        "Additions": 51,
+        "Deletions": 0,
+        "Commits": [
+          "663febd0d5741b093dadd9ba60f3c344b199a048"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "249d04ab1ec278bf75cfa2c688b7f287842f717f",
+        "Author": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T07:44:23Z",
+        "additions": 33,
+        "deletions": 0,
+        "files": [
+          "24a9801826e0b96ecd0d1c7e1659dc7726722c55"
+        ]
+      },
+      {
+        "sha": "7f1247b76a045c123718ee01324993d790a3cdf0",
+        "Author": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T07:43:46Z",
+        "additions": 33,
+        "deletions": 0,
+        "files": [
+          "1bdc9aa9d1451026ee161ba5589e6a9b85ee0a6a"
+        ]
+      },
+      {
+        "sha": "e2e0612cbee81871a3139f91e78dfa9f9795bcb7",
+        "Author": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T07:34:32Z",
+        "additions": 51,
+        "deletions": 0,
+        "files": [
+          "86f3939d6a116d28256bc644e34fb47a84b6fd29"
+        ]
+      },
+      {
+        "sha": "778f6f04707c47c40d467f4af3581335da4cc18c",
+        "Author": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T07:34:32Z",
+        "additions": 4,
+        "deletions": 3,
+        "files": [
+          "5d327e84d736341c41aa75f9e94294f3a79ceeaf",
+          "abceeac50a228bc6835a7e0a2a878afcf50c1da9",
+          "d69fb649dab3b21e88273f4dc84b4259017643da"
+        ]
+      },
+      {
+        "sha": "663febd0d5741b093dadd9ba60f3c344b199a048",
+        "Author": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T07:34:32Z",
+        "additions": 51,
+        "deletions": 0,
+        "files": [
+          "a8fbed8a0b073d83637a5582e32ecb2b99063597"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "camel",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T08:01:50Z",
+    "EndDate": "2019-09-23T09:01:50",
+    "Branches": 33,
+    "Forks": 3687,
+    "Files": [
+      {
+        "Sha": "51079c989f541930b486c953bb31017c593b7fa2",
+        "FileName": "kubernetes-nodes-component.adoc",
+        "Path": "docs/components/modules/ROOT/pages/kubernetes-nodes-component.adoc",
+        "DateUpdated": "2019-09-23T08:36:44Z",
+        "Additions": 52,
+        "Deletions": 0,
+        "Commits": [
+          "f5e5415d4b12a5ff13a49012344e58838ad72e49"
+        ]
+      },
+      {
+        "Sha": "6ad9cd4d4b291964e5173229104ef1cbc816960a",
+        "FileName": "kubernetes-nodes-component.adoc",
+        "Path": "components/camel-kubernetes/src/main/docs/kubernetes-nodes-component.adoc",
+        "DateUpdated": "2019-09-23T08:34:41Z",
+        "Additions": 52,
+        "Deletions": 0,
+        "Commits": [
+          "065c822b6819d19b997b52e7262f61e1cd98b886"
+        ]
+      },
+      {
+        "Sha": "8f11531ec9e13ff59f01b619a40c1dfe5babb29f",
+        "FileName": "kubernetes-namespaces-component.adoc",
+        "Path": "docs/components/modules/ROOT/pages/kubernetes-namespaces-component.adoc",
+        "DateUpdated": "2019-09-23T08:24:24Z",
+        "Additions": 52,
+        "Deletions": 0,
+        "Commits": [
+          "4a26e41ea6976ad8476e02beaaada252656a6a0b"
+        ]
+      },
+      {
+        "Sha": "f4c21f3a512143737a49b65b3f959b9e35be552a",
+        "FileName": "kubernetes-namespaces-component.adoc",
+        "Path": "components/camel-kubernetes/src/main/docs/kubernetes-namespaces-component.adoc",
+        "DateUpdated": "2019-09-23T08:24:24Z",
+        "Additions": 52,
+        "Deletions": 0,
+        "Commits": [
+          "e1a6b9ac4d0ff96e2fd1341cf4c740c6d4d869d0"
+        ]
+      },
+      {
+        "Sha": "844cf4c30068fa7dccb7dbbd6d09a45dfa909883",
+        "FileName": "AdviceWithInterceptSendToEndpointWithLoadbalancerTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/issues/AdviceWithInterceptSendToEndpointWithLoadbalancerTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 4,
+        "Deletions": 10,
+        "Commits": [
+          "3e58b1ae602e46537de8fd431bf1197430ea61ca"
+        ]
+      },
+      {
+        "Sha": "1dfa9b21a42c30b5c35afab76a2a2185c7935ef7",
+        "FileName": "AdviceWithOnCompletionTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/issues/AdviceWithOnCompletionTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 4,
+        "Deletions": 10,
+        "Commits": [
+          "3e58b1ae602e46537de8fd431bf1197430ea61ca"
+        ]
+      },
+      {
+        "Sha": "fe21cf30bede00fa3a7008bcbea3d4b445abf800",
+        "FileName": "AdviceWithOnExceptionMultipleIssueTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/issues/AdviceWithOnExceptionMultipleIssueTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 7,
+        "Deletions": 24,
+        "Commits": [
+          "3e58b1ae602e46537de8fd431bf1197430ea61ca"
+        ]
+      },
+      {
+        "Sha": "d699dd7358792a7d86d10523f5fdeabc9c50afd0",
+        "FileName": "AdviceWithOnCompletionTest.xml",
+        "Path": "components/camel-test-spring-junit5/src/test/resources/org/apache/camel/test/issues/AdviceWithOnCompletionTest.xml",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "3e58b1ae602e46537de8fd431bf1197430ea61ca"
+        ]
+      },
+      {
+        "Sha": "4b55220de42b8b6395cdc5a1b3ff3dce338793e1",
+        "FileName": "pom.xml",
+        "Path": "apache-camel/pom.xml",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "09eaa0093074a2e3c4a3be02b5641a1405675e40",
+        "FileName": "common-bin.xml",
+        "Path": "apache-camel/src/main/descriptors/common-bin.xml",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "52b2c0f405f64a8cb051b8e7f9f76e956e550639",
+        "FileName": "pom.xml",
+        "Path": "bom/camel-bom/pom.xml",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "49deb7c5d04fe905f8045e004e27834c44bc0e0f",
+        "FileName": "pom.xml",
+        "Path": "components/camel-test-spring-junit5/pom.xml",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 85,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "58717f0fabb0af4accd2701e5594f7b7aa0510fa",
+        "FileName": "test-spring-junit5.adoc",
+        "Path": "components/camel-test-spring-junit5/src/main/docs/test-spring-junit5.adoc",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 140,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "84052ecb8efed506542991f25bdc0865a71e3a43",
+        "FileName": "CamelAnnotationsHandler.java",
+        "Path": "components/camel-test-spring-junit5/src/main/java/org/apache/camel/test/spring/junit5/CamelAnnotationsHandler.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 367,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "41deaf7db9739b92e321dea39ecb916a4b8cc32b",
+        "FileName": "CamelSpringBootExecutionListener.java",
+        "Path": "components/camel-test-spring-junit5/src/main/java/org/apache/camel/test/spring/junit5/CamelSpringBootExecutionListener.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 95,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "5049a577ac24b2f2d9c1f8fee8c72874c01efe67",
+        "FileName": "CamelSpringTest.java",
+        "Path": "components/camel-test-spring-junit5/src/main/java/org/apache/camel/test/spring/junit5/CamelSpringTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 39,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "50c0be29c12611e0d262ced832022623ac7af385",
+        "FileName": "CamelSpringTestContextLoader.java",
+        "Path": "components/camel-test-spring-junit5/src/main/java/org/apache/camel/test/spring/junit5/CamelSpringTestContextLoader.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 553,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "f22d5b56e52945665e1cb8c6a32a80ab57bb5390",
+        "FileName": "CamelSpringTestContextLoaderTestExecutionListener.java",
+        "Path": "components/camel-test-spring-junit5/src/main/java/org/apache/camel/test/spring/junit5/CamelSpringTestContextLoaderTestExecutionListener.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 50,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "1c8e91a779d601568c50f91903edb207387aee1e",
+        "FileName": "CamelSpringTestHelper.java",
+        "Path": "components/camel-test-spring-junit5/src/main/java/org/apache/camel/test/spring/junit5/CamelSpringTestHelper.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 109,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "2b1c531d1276be2bad656ba8051acdf35c837eb8",
+        "FileName": "CamelSpringTestSupport.java",
+        "Path": "components/camel-test-spring-junit5/src/main/java/org/apache/camel/test/spring/junit5/CamelSpringTestSupport.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 218,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "6120d0246225d5c6ea812170cc371b2f6fd245c0",
+        "FileName": "CamelTestContextBootstrapper.java",
+        "Path": "components/camel-test-spring-junit5/src/main/java/org/apache/camel/test/spring/junit5/CamelTestContextBootstrapper.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 31,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "2289569a749b92486d6bad82804a716060490b7b",
+        "FileName": "DisableJmx.java",
+        "Path": "components/camel-test-spring-junit5/src/main/java/org/apache/camel/test/spring/junit5/DisableJmx.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 43,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "6cc9761a6f671fe2e693e8aa6480fa01563cb99d",
+        "FileName": "DisableJmxTestExecutionListener.java",
+        "Path": "components/camel-test-spring-junit5/src/main/java/org/apache/camel/test/spring/junit5/DisableJmxTestExecutionListener.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 39,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "4b3c7db4f39e161cd9e555868604a5a95fb889a6",
+        "FileName": "EnableRouteCoverage.java",
+        "Path": "components/camel-test-spring-junit5/src/main/java/org/apache/camel/test/spring/junit5/EnableRouteCoverage.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 41,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "c0e0ddb343f7acd1357298cae5bdd1dc1b04c4d6",
+        "FileName": "ExcludeRoutes.java",
+        "Path": "components/camel-test-spring-junit5/src/main/java/org/apache/camel/test/spring/junit5/ExcludeRoutes.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 44,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "0a0da64fae1161b4d7c47e3505bac56292a022af",
+        "FileName": "MockEndpoints.java",
+        "Path": "components/camel-test-spring-junit5/src/main/java/org/apache/camel/test/spring/junit5/MockEndpoints.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 43,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "bad37b7a1854fd47d38be83bd42ad168867c7cdc",
+        "FileName": "MockEndpointsAndSkip.java",
+        "Path": "components/camel-test-spring-junit5/src/main/java/org/apache/camel/test/spring/junit5/MockEndpointsAndSkip.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 43,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "e5620dcf99facc0bfd95b69c453c7eed5847efa3",
+        "FileName": "ProvidesBreakpoint.java",
+        "Path": "components/camel-test-spring-junit5/src/main/java/org/apache/camel/test/spring/junit5/ProvidesBreakpoint.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 36,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "34816ef083bebeb1a56c6d00ffeb8255ad9b1e9c",
+        "FileName": "RouteCoverageDumper.java",
+        "Path": "components/camel-test-spring-junit5/src/main/java/org/apache/camel/test/spring/junit5/RouteCoverageDumper.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 82,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "36423239c01b575f714bbbf0b77074eabade53bb",
+        "FileName": "RouteCoverageEventNotifier.java",
+        "Path": "components/camel-test-spring-junit5/src/main/java/org/apache/camel/test/spring/junit5/RouteCoverageEventNotifier.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 50,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "a8c8efd268c092891cb776ca3031f72dc4ed6621",
+        "FileName": "ShutdownTimeout.java",
+        "Path": "components/camel-test-spring-junit5/src/main/java/org/apache/camel/test/spring/junit5/ShutdownTimeout.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 49,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "8b6627b14e09460a88497ac53f84edc7c2da1d88",
+        "FileName": "StopWatchTestExecutionListener.java",
+        "Path": "components/camel-test-spring-junit5/src/main/java/org/apache/camel/test/spring/junit5/StopWatchTestExecutionListener.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 62,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "a5e0dab092fd877c212665be91c9188193da54a4",
+        "FileName": "UseAdviceWith.java",
+        "Path": "components/camel-test-spring-junit5/src/main/java/org/apache/camel/test/spring/junit5/UseAdviceWith.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 49,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "8dff15022433b3a3cc7e1d156f3d5032d15ce75c",
+        "FileName": "UseOverridePropertiesWithPropertiesComponent.java",
+        "Path": "components/camel-test-spring-junit5/src/main/java/org/apache/camel/test/spring/junit5/UseOverridePropertiesWithPropertiesComponent.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 34,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "37c6772b2928f7c1102235cfcf10ba1eda133e03",
+        "FileName": "AdviceWithInterceptSendToEndpointWithLoadbalancerTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/issues/AdviceWithInterceptSendToEndpointWithLoadbalancerTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 68,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "0c44cb7e179b03aab8084d7cedeba8a05b7e821d",
+        "FileName": "AdviceWithOnCompletionTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/issues/AdviceWithOnCompletionTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 61,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "c2d14374db00e82571e2eb0e89af7c8ca2a7b506",
+        "FileName": "AdviceWithOnExceptionMultipleIssueTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/issues/AdviceWithOnExceptionMultipleIssueTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 114,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "910080c9c0b1d1b0423e142f415796b6f57b1c3b",
+        "FileName": "MockEndpointsAndSkipTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/issues/MockEndpointsAndSkipTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 46,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "3be8b2e76e82fc2022ce24c2b3a5bf347f032901",
+        "FileName": "DebugSpringCamelContextTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/patterns/DebugSpringCamelContextTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 40,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "6dec6be8aa262c9aa8f585d58b3f372dce35d109",
+        "FileName": "DebugSpringTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/patterns/DebugSpringTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 87,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "87cafd88895cac89134551f67cc6714ae52591a4",
+        "FileName": "MyProduceBean.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/patterns/MyProduceBean.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 38,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "6bc19f59a8591e5159bbaf2e96adcf0bf1ce3cda",
+        "FileName": "MySender.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/patterns/MySender.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 22,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "01597ba3011b4f6c9cbc14f75902adb4472d609d",
+        "FileName": "ProduceBeanTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/patterns/ProduceBeanTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 39,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "6460beb534157b5a30b7433008f9f98102be27fe",
+        "FileName": "ProducerBeanInjectTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/patterns/ProducerBeanInjectTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 40,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "b60711d541ab2a836185053544e6ca692dbc78f8",
+        "FileName": "SimpleMockTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/patterns/SimpleMockTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 63,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "10b2d6da8dd9d8fe21b9a43e154efda11a9ead03",
+        "FileName": "CamelSpringActiveProfileTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/spring/CamelSpringActiveProfileTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 57,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "0412eb6529ad3f380f7d5f62c9f0a4f51711ec39",
+        "FileName": "CamelSpringDisableJmxInheritedOverrideTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/spring/CamelSpringDisableJmxInheritedOverrideTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 34,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "43add89ec8fda3f5f5cbc52cb438e259e2706bb5",
+        "FileName": "CamelSpringDisableJmxInheritedTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/spring/CamelSpringDisableJmxInheritedTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 21,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "902168a5eb3aa53187f05dace9004d4bf94f7605",
+        "FileName": "CamelSpringDisableJmxTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/spring/CamelSpringDisableJmxTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 34,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "661ca03d4643a244d9eb174c14b703efd4a72293",
+        "FileName": "CamelSpringExcludeRoutesTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/spring/CamelSpringExcludeRoutesTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 33,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "98aaab5508105df1d6a50c85577baa3645b6833c",
+        "FileName": "CamelSpringOverridePropertiesForPropertyInjectTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/spring/CamelSpringOverridePropertiesForPropertyInjectTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 56,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "aaed05840758780a55bb3148a95fc6481de8cda2",
+        "FileName": "CamelSpringOverridePropertiesTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/spring/CamelSpringOverridePropertiesTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 71,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "bed1c682f98bae0d376b5732032448e986ce0780",
+        "FileName": "CamelSpringPlainTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/spring/CamelSpringPlainTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 111,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "999c5c2656630cc4f3abea462135279191c7c277",
+        "FileName": "CamelSpringPropertiesLocationElementTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/spring/CamelSpringPropertiesLocationElementTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 65,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "72f25163eac213d9222b8beb5cbd702e788e42b5",
+        "FileName": "CamelSpringProvidesBreakpointInherritedTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/spring/CamelSpringProvidesBreakpointInherritedTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 22,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "f4ce3231c43567f06b35bec460e1a5c978a376aa",
+        "FileName": "CamelSpringProvidesBreakpointTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/spring/CamelSpringProvidesBreakpointTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 67,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "e49fa8da8ce077efe32d66b6dd5561346415b84b",
+        "FileName": "CamelSpringRouteProcessorDumpRouteCoverageTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/spring/CamelSpringRouteProcessorDumpRouteCoverageTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 56,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "b4f4d75676002d61ea709dbb4e5c96351513724d",
+        "FileName": "CamelSpringShutdownTimeoutInheritedOverrideTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/spring/CamelSpringShutdownTimeoutInheritedOverrideTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 36,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "9e2aaccd3b47aec5c2f243f62cdf52e4ee93277c",
+        "FileName": "CamelSpringShutdownTimeoutInheritedTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/spring/CamelSpringShutdownTimeoutInheritedTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 22,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "60bc496a3d44ecf0ae00e92fdf89f1f2af1d27ad",
+        "FileName": "CamelSpringShutdownTimeoutTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/spring/CamelSpringShutdownTimeoutTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 36,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "0f61cceed1a8856ab4e0c5744d34fba3ffa7980d",
+        "FileName": "CamelSpringTestPropertySourceTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/spring/CamelSpringTestPropertySourceTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 47,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "b69763277ad3a3ad032aa97de764eba12675793c",
+        "FileName": "CamelSpringTestSupportActiveProfileTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/spring/CamelSpringTestSupportActiveProfileTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 52,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "a8125f2b7cfb8c0585d460bee02524c9833cd632",
+        "FileName": "CamelSpringUseAdviceWithTest.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/spring/CamelSpringUseAdviceWithTest.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 52,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "bf10a0550c7702ea7e8db0a309cc4afb9f9976b5",
+        "FileName": "TestPropertyInjectRouteBuilder.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/spring/TestPropertyInjectRouteBuilder.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 33,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "ef5eb2dba4bc1cbf66dd3918163d6a558cec461b",
+        "FileName": "TestRouteBuilder.java",
+        "Path": "components/camel-test-spring-junit5/src/test/java/org/apache/camel/test/spring/TestRouteBuilder.java",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 29,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "7f9b32b161650a9658116d7b66df9cadcc537ea8",
+        "FileName": "jndi.properties",
+        "Path": "components/camel-test-spring-junit5/src/test/resources/jndi.properties",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 22,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "4e9ce60586e5b51022385cb8c53aaec7a8971f0d",
+        "FileName": "log4j2.properties",
+        "Path": "components/camel-test-spring-junit5/src/test/resources/log4j2.properties",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 30,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "99ad54d0f1d9bfbabb3b31e8285a4a8d7699ecfc",
+        "FileName": "AdviceWithInterceptSendToEndpointWithLoadbalancerTest.xml",
+        "Path": "components/camel-test-spring-junit5/src/test/resources/org/apache/camel/test/issues/AdviceWithInterceptSendToEndpointWithLoadbalancerTest.xml",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 34,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "a75147a5582e712b22b16667aba783d90c8ef7dd",
+        "FileName": "AdviceWithOnCompletionTest.xml",
+        "Path": "components/camel-test-spring-junit5/src/test/resources/org/apache/camel/test/issues/AdviceWithOnCompletionTest.xml",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 40,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "a86f494a5aad599640da524d82928e350ed822dd",
+        "FileName": "AdviceWithOnExceptionMultipleIssueTest.xml",
+        "Path": "components/camel-test-spring-junit5/src/test/resources/org/apache/camel/test/issues/AdviceWithOnExceptionMultipleIssueTest.xml",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 50,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "9e8e4d884748e12ea6f4f8701ae8c2f54a366413",
+        "FileName": "MockEndpointsAndSkipTest.xml",
+        "Path": "components/camel-test-spring-junit5/src/test/resources/org/apache/camel/test/issues/MockEndpointsAndSkipTest.xml",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 38,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "b12f2c1066e9f51dd1114ce3e738e65feb21eb02",
+        "FileName": "ProduceBeanInjectTest.xml",
+        "Path": "components/camel-test-spring-junit5/src/test/resources/org/apache/camel/test/patterns/ProduceBeanInjectTest.xml",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 44,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "25b5d92895fbbd1051f684785defd2ca72c8d022",
+        "FileName": "ProduceBeanTest.xml",
+        "Path": "components/camel-test-spring-junit5/src/test/resources/org/apache/camel/test/patterns/ProduceBeanTest.xml",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 36,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "b735cd5f60d3028b4d1d884c88ab60b5f14118cb",
+        "FileName": "SimpleMockTest.xml",
+        "Path": "components/camel-test-spring-junit5/src/test/resources/org/apache/camel/test/patterns/SimpleMockTest.xml",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 34,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "ee4c88d2c1962d24399a6eaa8f8feb93bed355b1",
+        "FileName": "applicationContext.xml",
+        "Path": "components/camel-test-spring-junit5/src/test/resources/org/apache/camel/test/patterns/applicationContext.xml",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 42,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "d05491a5743c8cf2749380f623bc5148e355496e",
+        "FileName": "CamelSpringActiveProfileTest-context.xml",
+        "Path": "components/camel-test-spring-junit5/src/test/resources/org/apache/camel/test/spring/CamelSpringActiveProfileTest-context.xml",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 46,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "a1ad878d0618127a57907e9cbe087fcbcfa02f42",
+        "FileName": "CamelSpringOverridePropertiesForPropertyInjectTest-context.xml",
+        "Path": "components/camel-test-spring-junit5/src/test/resources/org/apache/camel/test/spring/CamelSpringOverridePropertiesForPropertyInjectTest-context.xml",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 40,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "9faf7d38d40a344b0b0a59ca92d59c86a8177c84",
+        "FileName": "CamelSpringOverridePropertiesTest-context.xml",
+        "Path": "components/camel-test-spring-junit5/src/test/resources/org/apache/camel/test/spring/CamelSpringOverridePropertiesTest-context.xml",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 45,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "44299d8dd9fb979df56203156eda7ef984dab625",
+        "FileName": "CamelSpringPlainTest-context.xml",
+        "Path": "components/camel-test-spring-junit5/src/test/resources/org/apache/camel/test/spring/CamelSpringPlainTest-context.xml",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 48,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "c506b8d8d7df3b2541eb7a9da8b0495f97f087bd",
+        "FileName": "CamelSpringPropertiesLocationElementTest-context.xml",
+        "Path": "components/camel-test-spring-junit5/src/test/resources/org/apache/camel/test/spring/CamelSpringPropertiesLocationElementTest-context.xml",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 56,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "e71b158e747c42c521bef9ea08da7e9b95e547cf",
+        "FileName": "CamelSpringTestPropertySourceTest-context.xml",
+        "Path": "components/camel-test-spring-junit5/src/test/resources/org/apache/camel/test/spring/CamelSpringTestPropertySourceTest-context.xml",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 44,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "81ff2b54c6c49bf9c0ed16cd5f6d3d1869b24b8d",
+        "FileName": "properties-location-element-1.properties",
+        "Path": "components/camel-test-spring-junit5/src/test/resources/org/apache/camel/test/spring/properties-location-element-1.properties",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 18,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "24ebe3fe0012186a6f297750181486e080ee6e52",
+        "FileName": "properties-location-element-2.properties",
+        "Path": "components/camel-test-spring-junit5/src/test/resources/org/apache/camel/test/spring/properties-location-element-2.properties",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 18,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "6c94f7f88b4f9cb0f622489513cbc9f774c6b3f6",
+        "FileName": "properties-location-element-3.properties",
+        "Path": "components/camel-test-spring-junit5/src/test/resources/org/apache/camel/test/spring/properties-location-element-3.properties",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 18,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "4fd73b605593e0218dac7c25bf6aef3d2e5bf273",
+        "FileName": "test.properties",
+        "Path": "components/camel-test-spring-junit5/src/test/resources/org/apache/camel/test/spring/test.properties",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 19,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "1a0d396ae06ad808f4ea72d75b916c398c15203f",
+        "FileName": "pom.xml",
+        "Path": "components/pom.xml",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "0a3ca764962a3e504639bcd7a6603d1b807c9bce",
+        "FileName": "nav.adoc",
+        "Path": "docs/components/modules/ROOT/nav.adoc",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "dcf5242aa395ac72fde23baa5a7dfc59ca657d2a",
+        "FileName": "test-spring-junit5.adoc",
+        "Path": "docs/components/modules/ROOT/pages/test-spring-junit5.adoc",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 141,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "1a94e619b3fbde426f3b9855cc9d50d8a00749c6",
+        "FileName": "pom.xml",
+        "Path": "parent/pom.xml",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      },
+      {
+        "Sha": "bb42363254366993f47e2094fb22ef70a52cbd52",
+        "FileName": "pom.xml",
+        "Path": "platforms/spring-boot/spring-boot-dm/camel-spring-boot-dependencies/pom.xml",
+        "DateUpdated": "2019-09-23T08:11:02Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "564fbe1a341e99c498af7affbc055fd3af61b4a0"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "f5e5415d4b12a5ff13a49012344e58838ad72e49",
+        "Author": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T08:36:44Z",
+        "additions": 52,
+        "deletions": 0,
+        "files": [
+          "51079c989f541930b486c953bb31017c593b7fa2"
+        ]
+      },
+      {
+        "sha": "065c822b6819d19b997b52e7262f61e1cd98b886",
+        "Author": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T08:34:41Z",
+        "additions": 52,
+        "deletions": 0,
+        "files": [
+          "6ad9cd4d4b291964e5173229104ef1cbc816960a"
+        ]
+      },
+      {
+        "sha": "4a26e41ea6976ad8476e02beaaada252656a6a0b",
+        "Author": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T08:24:24Z",
+        "additions": 52,
+        "deletions": 0,
+        "files": [
+          "8f11531ec9e13ff59f01b619a40c1dfe5babb29f"
+        ]
+      },
+      {
+        "sha": "e1a6b9ac4d0ff96e2fd1341cf4c740c6d4d869d0",
+        "Author": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T08:24:24Z",
+        "additions": 52,
+        "deletions": 0,
+        "files": [
+          "f4c21f3a512143737a49b65b3f959b9e35be552a"
+        ]
+      },
+      {
+        "sha": "3e58b1ae602e46537de8fd431bf1197430ea61ca",
+        "Author": {
+          "name": "null",
+          "location": "France",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "null",
+          "location": "France",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T08:11:02Z",
+        "additions": 16,
+        "deletions": 45,
+        "files": [
+          "844cf4c30068fa7dccb7dbbd6d09a45dfa909883",
+          "1dfa9b21a42c30b5c35afab76a2a2185c7935ef7",
+          "fe21cf30bede00fa3a7008bcbea3d4b445abf800",
+          "d699dd7358792a7d86d10523f5fdeabc9c50afd0"
+        ]
+      },
+      {
+        "sha": "564fbe1a341e99c498af7affbc055fd3af61b4a0",
+        "Author": {
+          "name": "null",
+          "location": "France",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "null",
+          "location": "France",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T08:11:02Z",
+        "additions": 4740,
+        "deletions": 0,
+        "files": [
+          "4b55220de42b8b6395cdc5a1b3ff3dce338793e1",
+          "09eaa0093074a2e3c4a3be02b5641a1405675e40",
+          "52b2c0f405f64a8cb051b8e7f9f76e956e550639",
+          "49deb7c5d04fe905f8045e004e27834c44bc0e0f",
+          "58717f0fabb0af4accd2701e5594f7b7aa0510fa",
+          "84052ecb8efed506542991f25bdc0865a71e3a43",
+          "41deaf7db9739b92e321dea39ecb916a4b8cc32b",
+          "5049a577ac24b2f2d9c1f8fee8c72874c01efe67",
+          "50c0be29c12611e0d262ced832022623ac7af385",
+          "f22d5b56e52945665e1cb8c6a32a80ab57bb5390",
+          "1c8e91a779d601568c50f91903edb207387aee1e",
+          "2b1c531d1276be2bad656ba8051acdf35c837eb8",
+          "6120d0246225d5c6ea812170cc371b2f6fd245c0",
+          "2289569a749b92486d6bad82804a716060490b7b",
+          "6cc9761a6f671fe2e693e8aa6480fa01563cb99d",
+          "4b3c7db4f39e161cd9e555868604a5a95fb889a6",
+          "c0e0ddb343f7acd1357298cae5bdd1dc1b04c4d6",
+          "0a0da64fae1161b4d7c47e3505bac56292a022af",
+          "bad37b7a1854fd47d38be83bd42ad168867c7cdc",
+          "e5620dcf99facc0bfd95b69c453c7eed5847efa3",
+          "34816ef083bebeb1a56c6d00ffeb8255ad9b1e9c",
+          "36423239c01b575f714bbbf0b77074eabade53bb",
+          "a8c8efd268c092891cb776ca3031f72dc4ed6621",
+          "8b6627b14e09460a88497ac53f84edc7c2da1d88",
+          "a5e0dab092fd877c212665be91c9188193da54a4",
+          "8dff15022433b3a3cc7e1d156f3d5032d15ce75c",
+          "37c6772b2928f7c1102235cfcf10ba1eda133e03",
+          "0c44cb7e179b03aab8084d7cedeba8a05b7e821d",
+          "c2d14374db00e82571e2eb0e89af7c8ca2a7b506",
+          "910080c9c0b1d1b0423e142f415796b6f57b1c3b",
+          "3be8b2e76e82fc2022ce24c2b3a5bf347f032901",
+          "6dec6be8aa262c9aa8f585d58b3f372dce35d109",
+          "87cafd88895cac89134551f67cc6714ae52591a4",
+          "6bc19f59a8591e5159bbaf2e96adcf0bf1ce3cda",
+          "01597ba3011b4f6c9cbc14f75902adb4472d609d",
+          "6460beb534157b5a30b7433008f9f98102be27fe",
+          "b60711d541ab2a836185053544e6ca692dbc78f8",
+          "10b2d6da8dd9d8fe21b9a43e154efda11a9ead03",
+          "0412eb6529ad3f380f7d5f62c9f0a4f51711ec39",
+          "43add89ec8fda3f5f5cbc52cb438e259e2706bb5",
+          "902168a5eb3aa53187f05dace9004d4bf94f7605",
+          "661ca03d4643a244d9eb174c14b703efd4a72293",
+          "98aaab5508105df1d6a50c85577baa3645b6833c",
+          "aaed05840758780a55bb3148a95fc6481de8cda2",
+          "bed1c682f98bae0d376b5732032448e986ce0780",
+          "999c5c2656630cc4f3abea462135279191c7c277",
+          "72f25163eac213d9222b8beb5cbd702e788e42b5",
+          "f4ce3231c43567f06b35bec460e1a5c978a376aa",
+          "e49fa8da8ce077efe32d66b6dd5561346415b84b",
+          "b4f4d75676002d61ea709dbb4e5c96351513724d",
+          "9e2aaccd3b47aec5c2f243f62cdf52e4ee93277c",
+          "60bc496a3d44ecf0ae00e92fdf89f1f2af1d27ad",
+          "0f61cceed1a8856ab4e0c5744d34fba3ffa7980d",
+          "b69763277ad3a3ad032aa97de764eba12675793c",
+          "a8125f2b7cfb8c0585d460bee02524c9833cd632",
+          "bf10a0550c7702ea7e8db0a309cc4afb9f9976b5",
+          "ef5eb2dba4bc1cbf66dd3918163d6a558cec461b",
+          "7f9b32b161650a9658116d7b66df9cadcc537ea8",
+          "4e9ce60586e5b51022385cb8c53aaec7a8971f0d",
+          "99ad54d0f1d9bfbabb3b31e8285a4a8d7699ecfc",
+          "a75147a5582e712b22b16667aba783d90c8ef7dd",
+          "a86f494a5aad599640da524d82928e350ed822dd",
+          "9e8e4d884748e12ea6f4f8701ae8c2f54a366413",
+          "b12f2c1066e9f51dd1114ce3e738e65feb21eb02",
+          "25b5d92895fbbd1051f684785defd2ca72c8d022",
+          "b735cd5f60d3028b4d1d884c88ab60b5f14118cb",
+          "ee4c88d2c1962d24399a6eaa8f8feb93bed355b1",
+          "d05491a5743c8cf2749380f623bc5148e355496e",
+          "a1ad878d0618127a57907e9cbe087fcbcfa02f42",
+          "9faf7d38d40a344b0b0a59ca92d59c86a8177c84",
+          "44299d8dd9fb979df56203156eda7ef984dab625",
+          "c506b8d8d7df3b2541eb7a9da8b0495f97f087bd",
+          "e71b158e747c42c521bef9ea08da7e9b95e547cf",
+          "81ff2b54c6c49bf9c0ed16cd5f6d3d1869b24b8d",
+          "24ebe3fe0012186a6f297750181486e080ee6e52",
+          "6c94f7f88b4f9cb0f622489513cbc9f774c6b3f6",
+          "4fd73b605593e0218dac7c25bf6aef3d2e5bf273",
+          "1a0d396ae06ad808f4ea72d75b916c398c15203f",
+          "0a3ca764962a3e504639bcd7a6603d1b807c9bce",
+          "dcf5242aa395ac72fde23baa5a7dfc59ca657d2a",
+          "1a94e619b3fbde426f3b9855cc9d50d8a00749c6",
+          "bb42363254366993f47e2094fb22ef70a52cbd52"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "camel",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T09:01:49Z",
+    "EndDate": "2019-09-23T10:01:49",
+    "Branches": 33,
+    "Forks": 3687,
+    "Files": [
+      {
+        "Sha": "a841916550c905d700a44613df812ea936ba18dd",
+        "FileName": "pom.xml",
+        "Path": "parent/pom.xml",
+        "DateUpdated": "2019-09-23T10:01:29Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b50e0d0d70166c6317769baef59110d90a151ac5"
+        ]
+      },
+      {
+        "Sha": "88cda05646553d3911ee2168d245e5d6479b34f8",
+        "FileName": "pom.xml",
+        "Path": "components/camel-univocity-parsers/pom.xml",
+        "DateUpdated": "2019-09-23T09:31:21Z",
+        "Additions": 1,
+        "Deletions": 6,
+        "Commits": [
+          "5d3ac2ac5469adf7f60a98d4ed5a458a733c7eb2"
+        ]
+      },
+      {
+        "Sha": "06748888b5f461ca59265a148beaccc4754c8507",
+        "FileName": "UniVocityCsvDataFormatMarshalSpringTest.java",
+        "Path": "components/camel-univocity-parsers/src/test/java/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatMarshalSpringTest.java",
+        "DateUpdated": "2019-09-23T09:31:21Z",
+        "Additions": 4,
+        "Deletions": 2,
+        "Commits": [
+          "5d3ac2ac5469adf7f60a98d4ed5a458a733c7eb2"
+        ]
+      },
+      {
+        "Sha": "62b219c41ac5a735a2ba5a42dcd58ff1210da979",
+        "FileName": "UniVocityCsvDataFormatMarshalTest.java",
+        "Path": "components/camel-univocity-parsers/src/test/java/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatMarshalTest.java",
+        "DateUpdated": "2019-09-23T09:31:21Z",
+        "Additions": 4,
+        "Deletions": 2,
+        "Commits": [
+          "5d3ac2ac5469adf7f60a98d4ed5a458a733c7eb2"
+        ]
+      },
+      {
+        "Sha": "c8a52d9bbf2ee0c452b968433405de9135d8f821",
+        "FileName": "UniVocityCsvDataFormatTest.java",
+        "Path": "components/camel-univocity-parsers/src/test/java/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatTest.java",
+        "DateUpdated": "2019-09-23T09:31:21Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "5d3ac2ac5469adf7f60a98d4ed5a458a733c7eb2"
+        ]
+      },
+      {
+        "Sha": "10b3105ec7d574dd3288e2595770cc585f829d40",
+        "FileName": "UniVocityCsvDataFormatUnmarshalSpringTest.java",
+        "Path": "components/camel-univocity-parsers/src/test/java/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatUnmarshalSpringTest.java",
+        "DateUpdated": "2019-09-23T09:31:21Z",
+        "Additions": 7,
+        "Deletions": 2,
+        "Commits": [
+          "5d3ac2ac5469adf7f60a98d4ed5a458a733c7eb2"
+        ]
+      },
+      {
+        "Sha": "2147d93e76a7e298783029c14abd4cf1e101f74c",
+        "FileName": "UniVocityCsvDataFormatUnmarshalTest.java",
+        "Path": "components/camel-univocity-parsers/src/test/java/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatUnmarshalTest.java",
+        "DateUpdated": "2019-09-23T09:31:21Z",
+        "Additions": 7,
+        "Deletions": 2,
+        "Commits": [
+          "5d3ac2ac5469adf7f60a98d4ed5a458a733c7eb2"
+        ]
+      },
+      {
+        "Sha": "bbd4815f533abd953a0e55face8f3070beb31bba",
+        "FileName": "UniVocityFixedWidthDataFormatMarshalSpringTest.java",
+        "Path": "components/camel-univocity-parsers/src/test/java/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatMarshalSpringTest.java",
+        "DateUpdated": "2019-09-23T09:31:21Z",
+        "Additions": 4,
+        "Deletions": 2,
+        "Commits": [
+          "5d3ac2ac5469adf7f60a98d4ed5a458a733c7eb2"
+        ]
+      },
+      {
+        "Sha": "c27921df3e948b5fd43f3c15e5fb82fc5cf838de",
+        "FileName": "UniVocityFixedWidthDataFormatMarshalTest.java",
+        "Path": "components/camel-univocity-parsers/src/test/java/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatMarshalTest.java",
+        "DateUpdated": "2019-09-23T09:31:21Z",
+        "Additions": 4,
+        "Deletions": 2,
+        "Commits": [
+          "5d3ac2ac5469adf7f60a98d4ed5a458a733c7eb2"
+        ]
+      },
+      {
+        "Sha": "5c36a40f2360f0435294279ec9fcb76b224b22be",
+        "FileName": "UniVocityFixedWidthDataFormatTest.java",
+        "Path": "components/camel-univocity-parsers/src/test/java/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatTest.java",
+        "DateUpdated": "2019-09-23T09:31:21Z",
+        "Additions": 12,
+        "Deletions": 12,
+        "Commits": [
+          "5d3ac2ac5469adf7f60a98d4ed5a458a733c7eb2"
+        ]
+      },
+      {
+        "Sha": "fefcd2fc2b3606072ca5d729ff428e202c900135",
+        "FileName": "UniVocityFixedWidthDataFormatUnmarshalSpringTest.java",
+        "Path": "components/camel-univocity-parsers/src/test/java/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatUnmarshalSpringTest.java",
+        "DateUpdated": "2019-09-23T09:31:21Z",
+        "Additions": 7,
+        "Deletions": 2,
+        "Commits": [
+          "5d3ac2ac5469adf7f60a98d4ed5a458a733c7eb2"
+        ]
+      },
+      {
+        "Sha": "f54d2429bde291f49df1a23b7d3bc399524c0735",
+        "FileName": "UniVocityFixedWidthDataFormatUnmarshalTest.java",
+        "Path": "components/camel-univocity-parsers/src/test/java/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatUnmarshalTest.java",
+        "DateUpdated": "2019-09-23T09:31:21Z",
+        "Additions": 7,
+        "Deletions": 2,
+        "Commits": [
+          "5d3ac2ac5469adf7f60a98d4ed5a458a733c7eb2"
+        ]
+      },
+      {
+        "Sha": "846e1e9bef5410f9d0293de17d6e8ec8340b721d",
+        "FileName": "UniVocityTsvDataFormatMarshalSpringTest.java",
+        "Path": "components/camel-univocity-parsers/src/test/java/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatMarshalSpringTest.java",
+        "DateUpdated": "2019-09-23T09:31:21Z",
+        "Additions": 4,
+        "Deletions": 2,
+        "Commits": [
+          "5d3ac2ac5469adf7f60a98d4ed5a458a733c7eb2"
+        ]
+      },
+      {
+        "Sha": "1d44cf51f7c5689e11bf93c341d0fadc9360b706",
+        "FileName": "UniVocityTsvDataFormatMarshalTest.java",
+        "Path": "components/camel-univocity-parsers/src/test/java/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatMarshalTest.java",
+        "DateUpdated": "2019-09-23T09:31:21Z",
+        "Additions": 4,
+        "Deletions": 2,
+        "Commits": [
+          "5d3ac2ac5469adf7f60a98d4ed5a458a733c7eb2"
+        ]
+      },
+      {
+        "Sha": "d1b8f3be0d8f8ab500ffa279424368367db6185e",
+        "FileName": "UniVocityTsvDataFormatTest.java",
+        "Path": "components/camel-univocity-parsers/src/test/java/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatTest.java",
+        "DateUpdated": "2019-09-23T09:31:21Z",
+        "Additions": 5,
+        "Deletions": 5,
+        "Commits": [
+          "5d3ac2ac5469adf7f60a98d4ed5a458a733c7eb2"
+        ]
+      },
+      {
+        "Sha": "f0094211be427591582019cb9070e704e6eb8e63",
+        "FileName": "UniVocityTsvDataFormatUnmarshalSpringTest.java",
+        "Path": "components/camel-univocity-parsers/src/test/java/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatUnmarshalSpringTest.java",
+        "DateUpdated": "2019-09-23T09:31:21Z",
+        "Additions": 7,
+        "Deletions": 2,
+        "Commits": [
+          "5d3ac2ac5469adf7f60a98d4ed5a458a733c7eb2"
+        ]
+      },
+      {
+        "Sha": "5d27aa1b0ea04a0325750a6110a6029c2374254d",
+        "FileName": "UniVocityTsvDataFormatUnmarshalTest.java",
+        "Path": "components/camel-univocity-parsers/src/test/java/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatUnmarshalTest.java",
+        "DateUpdated": "2019-09-23T09:31:21Z",
+        "Additions": 7,
+        "Deletions": 2,
+        "Commits": [
+          "5d3ac2ac5469adf7f60a98d4ed5a458a733c7eb2"
+        ]
+      },
+      {
+        "Sha": "520d9d22a044e78c760f6b6cd85de1ab818a6f5d",
+        "FileName": "http-component.adoc",
+        "Path": "docs/components/modules/ROOT/pages/http-component.adoc",
+        "DateUpdated": "2019-09-23T09:19:11Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "9d4a6d626c0244b07aa0b07648e76a633e228639"
+        ]
+      },
+      {
+        "Sha": "ee45e635349f314bff7e84dca6df3f7cac55ebce",
+        "FileName": "http-component.adoc",
+        "Path": "components/camel-http/src/main/docs/http-component.adoc",
+        "DateUpdated": "2019-09-23T09:16:20Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "4edb58387ad77f8abf437da0f57cbf89f318bc39"
+        ]
+      },
+      {
+        "Sha": "d9f612ba67b7aa81a0b8258109c1cd59c5b785ae",
+        "FileName": "HttpComponent.java",
+        "Path": "components/camel-http/src/main/java/org/apache/camel/component/http/HttpComponent.java",
+        "DateUpdated": "2019-09-23T09:16:20Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "4edb58387ad77f8abf437da0f57cbf89f318bc39"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "b50e0d0d70166c6317769baef59110d90a151ac5",
+        "Author": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T10:01:29Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "a841916550c905d700a44613df812ea936ba18dd"
+        ]
+      },
+      {
+        "sha": "5d3ac2ac5469adf7f60a98d4ed5a458a733c7eb2",
+        "Author": {
+          "name": "null",
+          "location": "France",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "null",
+          "location": "France",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T09:31:21Z",
+        "additions": 89,
+        "deletions": 52,
+        "files": [
+          "88cda05646553d3911ee2168d245e5d6479b34f8",
+          "06748888b5f461ca59265a148beaccc4754c8507",
+          "62b219c41ac5a735a2ba5a42dcd58ff1210da979",
+          "c8a52d9bbf2ee0c452b968433405de9135d8f821",
+          "10b3105ec7d574dd3288e2595770cc585f829d40",
+          "2147d93e76a7e298783029c14abd4cf1e101f74c",
+          "bbd4815f533abd953a0e55face8f3070beb31bba",
+          "c27921df3e948b5fd43f3c15e5fb82fc5cf838de",
+          "5c36a40f2360f0435294279ec9fcb76b224b22be",
+          "fefcd2fc2b3606072ca5d729ff428e202c900135",
+          "f54d2429bde291f49df1a23b7d3bc399524c0735",
+          "846e1e9bef5410f9d0293de17d6e8ec8340b721d",
+          "1d44cf51f7c5689e11bf93c341d0fadc9360b706",
+          "d1b8f3be0d8f8ab500ffa279424368367db6185e",
+          "f0094211be427591582019cb9070e704e6eb8e63",
+          "5d27aa1b0ea04a0325750a6110a6029c2374254d"
+        ]
+      },
+      {
+        "sha": "9d4a6d626c0244b07aa0b07648e76a633e228639",
+        "Author": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T09:19:11Z",
+        "additions": 4,
+        "deletions": 4,
+        "files": [
+          "520d9d22a044e78c760f6b6cd85de1ab818a6f5d"
+        ]
+      },
+      {
+        "sha": "4edb58387ad77f8abf437da0f57cbf89f318bc39",
+        "Author": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Commitor": {
+          "name": "\"Andrea Cosentino\"",
+          "location": "Rome, Italy",
+          "company": "Red Hat"
+        },
+        "Date": "2019-09-23T09:16:20Z",
+        "additions": 5,
+        "deletions": 5,
+        "files": [
+          "ee45e635349f314bff7e84dca6df3f7cac55ebce",
+          "d9f612ba67b7aa81a0b8258109c1cd59c5b785ae"
+        ]
+      }
+    ]
+  }
+]

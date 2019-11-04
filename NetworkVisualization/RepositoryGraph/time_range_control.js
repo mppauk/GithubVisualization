@@ -21,7 +21,7 @@ function initializeTimeRange(){
     });
     rangePicker = flatpickr('.range_picker',{
         altInput: true,
-        enableTime: true,
+        enableTime: false,
         altFormat: "F j, Y h:i K",
         defaultDate: [BeginRange, EndRange],
         onClose: rangeChange,  
@@ -64,20 +64,32 @@ function rangeChange(selectedDates, dateStr, instance){
     if(isPlaying){
         document.getElementById('play').click();
     }
-    var snapshotRequest = 'org/'+OrgName+'/repo/'+RepoName +'/snapshots/from/'+ getUTCDate(BeginRange)+'/to/' + getUTCDate(EndRange);
-    var loadSnapshots = loadJson(snapshotRequest);
-    currentDateTime.setTime(selectedDates[0].getTime());
-    currentTimePicker.setDate(currentDateTime);
-    loadSnapshots.then(initializeNetwork).then(initializeStatistics).then(resetNetwork).catch(function(error){
-        console.log(error);
-    });
+    var tempDate = new Date(BeginRange.getTime())
+    while(tempDate.getTime() < EndRange.getTime()){
+        promiseArray.push(loadJson(OrgName+'/'+RepoName +'/'+tempDate.toISOString().substring(0, 10)+ ".json"));
+        tempDate = new Date(tempDate.getDate() + 1);
+    }
+    Promise.allSettled(promiseArray).then(function(results){
+            var responseData = [];
+            results.forEach(function(result){
+                if(result.status == "fulfilled"){
+                    responseData = responseData.concat(result.value);
+                }
+            });
+            initializeCommitNetwork(responseData, dateQueryBeginRange, dateQueryEndRange)
+        })
+        .then(initializeAnimationControls)
+        .then(initializeTimeRange)
+        .then(initializeStatistics)
+        .then(resetNetwork)
+        .catch(function(error){console.log(error)});
 }
 function pickerIncrementNetwork(incrDir){
     if(incrDir >= 0){
         var i;
         animationList = [];
         for(i=SnapshotIndex;i<Snapshots.length;i++){
-            dateStr = RepositoryData.snapshots[i].EndDate.replace("T"," ");
+            dateStr = RepositoryData[i].EndDate.replace("T"," ");
             NextSnapshotBeginDate = new Date(dateStr + " UTC");
             if(NextSnapshotBeginDate > currentDateTime)
                 break;
@@ -98,7 +110,7 @@ function pickerIncrementNetwork(incrDir){
     else{
         var i;
         for(i=SnapshotIndex;i>0;i--){
-            dateStr = RepositoryData.snapshots[i-1].BeginDate.replace("T", " ");
+            dateStr = RepositoryData[i-1].BeginDate.replace("T", " ");
             NextSnapshotBeginDate = new Date(dateStr.replace("Z"," UTC"));
             if(NextSnapshotBeginDate < currentDateTime)
                 break;

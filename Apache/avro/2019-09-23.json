@@ -1,0 +1,42 @@
+[
+  {
+    "RepositoryName": "avro",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T12:02:34Z",
+    "EndDate": "2019-09-23T13:02:34",
+    "Branches": 8,
+    "Forks": 929,
+    "Files": [
+      {
+        "Sha": "fdf9a14ac4dde93901cd01eb5a45505013613e8b",
+        "FileName": "pom.xml",
+        "Path": "lang/java/pom.xml",
+        "DateUpdated": "2019-09-23T12:20:09Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "89b5acfbfcf9a9f0d2e9e91accf8ab880486e795"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "89b5acfbfcf9a9f0d2e9e91accf8ab880486e795",
+        "Author": {
+          "name": "\"Daniel Kulp\"",
+          "location": "Framingham, MA"
+        },
+        "Commitor": {
+          "name": "\"Daniel Kulp\"",
+          "location": "Framingham, MA"
+        },
+        "Date": "2019-09-23T12:20:09Z",
+        "additions": 2,
+        "deletions": 2,
+        "files": [
+          "fdf9a14ac4dde93901cd01eb5a45505013613e8b"
+        ]
+      }
+    ]
+  }
+]

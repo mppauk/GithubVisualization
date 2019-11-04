@@ -1,0 +1,321 @@
+[
+  {
+    "RepositoryName": "hive",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T09:01:58Z",
+    "EndDate": "2019-09-23T10:01:58",
+    "Branches": 62,
+    "Forks": 2692,
+    "Files": [
+      {
+        "Sha": "de28e9213f564de472acf76f424050919e4c2d55",
+        "FileName": "HiveConf.java",
+        "Path": "common/src/java/org/apache/hadoop/hive/conf/HiveConf.java",
+        "DateUpdated": "2019-09-23T09:04:08Z",
+        "Additions": 7,
+        "Deletions": 1,
+        "Commits": [
+          "be508b8d16c465ac17f3b8c09d7cbb27c4eee47a"
+        ]
+      },
+      {
+        "Sha": "5751b8ed9396cc67e0010ac9606e0ae3ef8878fc",
+        "FileName": "ZkRegistryBase.java",
+        "Path": "llap-client/src/java/org/apache/hadoop/hive/registry/impl/ZkRegistryBase.java",
+        "DateUpdated": "2019-09-23T09:04:08Z",
+        "Additions": 8,
+        "Deletions": 5,
+        "Commits": [
+          "be508b8d16c465ac17f3b8c09d7cbb27c4eee47a"
+        ]
+      },
+      {
+        "Sha": "7a4274e1e0cd2d8eb56a6cf6109379e8bef72ada",
+        "FileName": "ZookeeperUtils.java",
+        "Path": "llap-client/src/java/org/apache/hadoop/hive/registry/impl/ZookeeperUtils.java",
+        "DateUpdated": "2019-09-23T09:04:08Z",
+        "Additions": 16,
+        "Deletions": 2,
+        "Commits": [
+          "be508b8d16c465ac17f3b8c09d7cbb27c4eee47a"
+        ]
+      },
+      {
+        "Sha": "c4862747ac20eb9d10818190b6f9fb5459056b90",
+        "FileName": "TestZookeeperUtils.java",
+        "Path": "llap-client/src/test/org/apache/hadoop/hive/registry/impl/TestZookeeperUtils.java",
+        "DateUpdated": "2019-09-23T09:04:08Z",
+        "Additions": 66,
+        "Deletions": 0,
+        "Commits": [
+          "be508b8d16c465ac17f3b8c09d7cbb27c4eee47a"
+        ]
+      },
+      {
+        "Sha": "122742e021bca375b92eb6a79f1d4a21bfe4c52a",
+        "FileName": "HS2ActivePassiveHARegistryClient.java",
+        "Path": "service/src/java/org/apache/hive/service/server/HS2ActivePassiveHARegistryClient.java",
+        "DateUpdated": "2019-09-23T09:04:08Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "be508b8d16c465ac17f3b8c09d7cbb27c4eee47a"
+        ]
+      },
+      {
+        "Sha": "17570f73bc908a41982c38549c61018e81c04318",
+        "FileName": "HiveServer2.java",
+        "Path": "service/src/java/org/apache/hive/service/server/HiveServer2.java",
+        "DateUpdated": "2019-09-23T09:04:08Z",
+        "Additions": 28,
+        "Deletions": 22,
+        "Commits": [
+          "be508b8d16c465ac17f3b8c09d7cbb27c4eee47a"
+        ]
+      },
+      {
+        "Sha": "ba1f1774d3ca6668d5d3031c4a6e5e5c0ae68839",
+        "FileName": "ZooKeeperTokenStore.java",
+        "Path": "standalone-metastore/metastore-server/src/main/java/org/apache/hadoop/hive/metastore/security/ZooKeeperTokenStore.java",
+        "DateUpdated": "2019-09-23T09:04:08Z",
+        "Additions": 3,
+        "Deletions": 1,
+        "Commits": [
+          "be508b8d16c465ac17f3b8c09d7cbb27c4eee47a"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "be508b8d16c465ac17f3b8c09d7cbb27c4eee47a",
+        "Commitor": {
+          "name": "null"
+        },
+        "Date": "2019-09-23T09:04:08Z",
+        "additions": 129,
+        "deletions": 32,
+        "files": [
+          "de28e9213f564de472acf76f424050919e4c2d55",
+          "5751b8ed9396cc67e0010ac9606e0ae3ef8878fc",
+          "7a4274e1e0cd2d8eb56a6cf6109379e8bef72ada",
+          "c4862747ac20eb9d10818190b6f9fb5459056b90",
+          "122742e021bca375b92eb6a79f1d4a21bfe4c52a",
+          "17570f73bc908a41982c38549c61018e81c04318",
+          "ba1f1774d3ca6668d5d3031c4a6e5e5c0ae68839"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "hive",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T12:02:32Z",
+    "EndDate": "2019-09-23T13:02:32",
+    "Branches": 62,
+    "Forks": 2692,
+    "Files": [
+      {
+        "Sha": "445911316403778c047df6151b9f0908782684f8",
+        "FileName": "pom.xml",
+        "Path": "ql/pom.xml",
+        "DateUpdated": "2019-09-23T12:23:19Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "128d444093bc5df928933620465c408c6ff62a3f"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "128d444093bc5df928933620465c408c6ff62a3f",
+        "Author": {
+          "name": "\"Zoltan Haindrich\"",
+          "location": "Budapest",
+          "company": "Hortonworks"
+        },
+        "Commitor": {
+          "name": "\"Zoltan Haindrich\"",
+          "location": "Budapest",
+          "company": "Hortonworks"
+        },
+        "Date": "2019-09-23T12:23:19Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "445911316403778c047df6151b9f0908782684f8"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "hive",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T18:02:07Z",
+    "EndDate": "2019-09-23T19:02:07",
+    "Branches": 62,
+    "Forks": 2694,
+    "Files": [
+      {
+        "Sha": "38bc04eb0c891cd78cad5f84953ca189c36406f8",
+        "FileName": "TaskCompiler.java",
+        "Path": "ql/src/java/org/apache/hadoop/hive/ql/parse/TaskCompiler.java",
+        "DateUpdated": "2019-09-23T18:15:20Z",
+        "Additions": 4,
+        "Deletions": 1,
+        "Commits": [
+          "75b0b0eaa7eba17bb5bb1ee5ba81eb0536ba754e"
+        ]
+      },
+      {
+        "Sha": "e29ef0750309e8a6dc9a44bfe913372ae5232941",
+        "FileName": "stats10.q.out",
+        "Path": "ql/src/test/results/clientpositive/spark/stats10.q.out",
+        "DateUpdated": "2019-09-23T18:15:20Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "75b0b0eaa7eba17bb5bb1ee5ba81eb0536ba754e"
+        ]
+      },
+      {
+        "Sha": "fb537b8e9738cb36041ff122d7b4a56977266813",
+        "FileName": "stats12.q.out",
+        "Path": "ql/src/test/results/clientpositive/spark/stats12.q.out",
+        "DateUpdated": "2019-09-23T18:15:20Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "75b0b0eaa7eba17bb5bb1ee5ba81eb0536ba754e"
+        ]
+      },
+      {
+        "Sha": "14b4d9d2617280049eaae06b63c8e9c07ea72f14",
+        "FileName": "stats13.q.out",
+        "Path": "ql/src/test/results/clientpositive/spark/stats13.q.out",
+        "DateUpdated": "2019-09-23T18:15:20Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "75b0b0eaa7eba17bb5bb1ee5ba81eb0536ba754e"
+        ]
+      },
+      {
+        "Sha": "5816bf62996f3abfc7ae5861d6c4194a5cd02ffb",
+        "FileName": "stats2.q.out",
+        "Path": "ql/src/test/results/clientpositive/spark/stats2.q.out",
+        "DateUpdated": "2019-09-23T18:15:20Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "75b0b0eaa7eba17bb5bb1ee5ba81eb0536ba754e"
+        ]
+      },
+      {
+        "Sha": "09969e48119dc89a02b16ea6fe4e4a5e6fe2fcde",
+        "FileName": "stats5.q.out",
+        "Path": "ql/src/test/results/clientpositive/spark/stats5.q.out",
+        "DateUpdated": "2019-09-23T18:15:20Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "75b0b0eaa7eba17bb5bb1ee5ba81eb0536ba754e"
+        ]
+      },
+      {
+        "Sha": "79bd1874963a3528d54537a2a0c81e6da291f78a",
+        "FileName": "stats7.q.out",
+        "Path": "ql/src/test/results/clientpositive/spark/stats7.q.out",
+        "DateUpdated": "2019-09-23T18:15:20Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "75b0b0eaa7eba17bb5bb1ee5ba81eb0536ba754e"
+        ]
+      },
+      {
+        "Sha": "e48c906de38f54f46257faadbc78f19ab3d0dbd1",
+        "FileName": "stats8.q.out",
+        "Path": "ql/src/test/results/clientpositive/spark/stats8.q.out",
+        "DateUpdated": "2019-09-23T18:15:20Z",
+        "Additions": 0,
+        "Deletions": 5,
+        "Commits": [
+          "75b0b0eaa7eba17bb5bb1ee5ba81eb0536ba754e"
+        ]
+      },
+      {
+        "Sha": "7e1f957400d4af4836b656d841c3b169971e2433",
+        "FileName": "stats9.q.out",
+        "Path": "ql/src/test/results/clientpositive/spark/stats9.q.out",
+        "DateUpdated": "2019-09-23T18:15:20Z",
+        "Additions": 0,
+        "Deletions": 1,
+        "Commits": [
+          "75b0b0eaa7eba17bb5bb1ee5ba81eb0536ba754e"
+        ]
+      },
+      {
+        "Sha": "2ef7b133f8afcdb008bd28fcf90118561d98912c",
+        "FileName": "explainanalyze_3.q.out",
+        "Path": "ql/src/test/results/clientpositive/tez/explainanalyze_3.q.out",
+        "DateUpdated": "2019-09-23T18:15:20Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "75b0b0eaa7eba17bb5bb1ee5ba81eb0536ba754e"
+        ]
+      },
+      {
+        "Sha": "5088a3d155aa5e44b5146699a49060d0bd330610",
+        "FileName": "explainanalyze_5.q.out",
+        "Path": "ql/src/test/results/clientpositive/tez/explainanalyze_5.q.out",
+        "DateUpdated": "2019-09-23T18:15:20Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "75b0b0eaa7eba17bb5bb1ee5ba81eb0536ba754e"
+        ]
+      },
+      {
+        "Sha": "fa85521be4803120f10dd4fae47c139e85ade3c3",
+        "FileName": "explainuser_3.q.out",
+        "Path": "ql/src/test/results/clientpositive/tez/explainuser_3.q.out",
+        "DateUpdated": "2019-09-23T18:15:20Z",
+        "Additions": 1,
+        "Deletions": 2,
+        "Commits": [
+          "75b0b0eaa7eba17bb5bb1ee5ba81eb0536ba754e"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "75b0b0eaa7eba17bb5bb1ee5ba81eb0536ba754e",
+        "Author": {
+          "name": "\"Vineet G\""
+        },
+        "Commitor": {
+          "name": "\"Vineet G\""
+        },
+        "Date": "2019-09-23T18:15:20Z",
+        "additions": 7,
+        "deletions": 19,
+        "files": [
+          "38bc04eb0c891cd78cad5f84953ca189c36406f8",
+          "e29ef0750309e8a6dc9a44bfe913372ae5232941",
+          "fb537b8e9738cb36041ff122d7b4a56977266813",
+          "14b4d9d2617280049eaae06b63c8e9c07ea72f14",
+          "5816bf62996f3abfc7ae5861d6c4194a5cd02ffb",
+          "09969e48119dc89a02b16ea6fe4e4a5e6fe2fcde",
+          "79bd1874963a3528d54537a2a0c81e6da291f78a",
+          "e48c906de38f54f46257faadbc78f19ab3d0dbd1",
+          "7e1f957400d4af4836b656d841c3b169971e2433",
+          "2ef7b133f8afcdb008bd28fcf90118561d98912c",
+          "5088a3d155aa5e44b5146699a49060d0bd330610",
+          "fa85521be4803120f10dd4fae47c139e85ade3c3"
+        ]
+      }
+    ]
+  }
+]

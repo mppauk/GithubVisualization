@@ -1,0 +1,162 @@
+[
+  {
+    "RepositoryName": "incubator-shardingsphere-doc",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T03:47:14Z",
+    "EndDate": "2019-09-25T04:47:14",
+    "Branches": 2,
+    "Forks": 118,
+    "Files": [
+      {
+        "Sha": "d0e634d7d9d16cf6e7134d6f81aed9911ff76e6e",
+        "FileName": "_index.cn.md",
+        "Path": "community/content/team/_index.cn.md",
+        "DateUpdated": "2019-09-25T04:10:52Z",
+        "Additions": 6,
+        "Deletions": 5,
+        "Commits": [
+          "cdb27756155ee54175cb2f1675f7635d0bacdbda"
+        ]
+      },
+      {
+        "Sha": "39c50247f011fa6e7b68bcf8ed18e4eaaa481e21",
+        "FileName": "_index.en.md",
+        "Path": "community/content/team/_index.en.md",
+        "DateUpdated": "2019-09-25T04:10:52Z",
+        "Additions": 6,
+        "Deletions": 5,
+        "Commits": [
+          "cdb27756155ee54175cb2f1675f7635d0bacdbda"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "cdb27756155ee54175cb2f1675f7635d0bacdbda",
+        "Author": {
+          "name": "\"QiWang\"",
+          "location": "京东",
+          "company": "JD"
+        },
+        "Commitor": {
+          "name": "\"Liang Zhang\"",
+          "location": "Beijing China",
+          "company": "@apache @shardingjdbc @elasticjob "
+        },
+        "Date": "2019-09-25T04:10:52Z",
+        "additions": 12,
+        "deletions": 10,
+        "files": [
+          "d0e634d7d9d16cf6e7134d6f81aed9911ff76e6e",
+          "39c50247f011fa6e7b68bcf8ed18e4eaaa481e21"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-shardingsphere-doc",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T04:03:58Z",
+    "EndDate": "2019-09-25T05:03:58",
+    "Branches": 2,
+    "Forks": 118,
+    "Files": [
+      {
+        "Sha": "d0e634d7d9d16cf6e7134d6f81aed9911ff76e6e",
+        "FileName": "_index.cn.md",
+        "Path": "community/content/team/_index.cn.md",
+        "DateUpdated": "2019-09-25T04:10:52Z",
+        "Additions": 6,
+        "Deletions": 5,
+        "Commits": [
+          "cdb27756155ee54175cb2f1675f7635d0bacdbda"
+        ]
+      },
+      {
+        "Sha": "39c50247f011fa6e7b68bcf8ed18e4eaaa481e21",
+        "FileName": "_index.en.md",
+        "Path": "community/content/team/_index.en.md",
+        "DateUpdated": "2019-09-25T04:10:52Z",
+        "Additions": 6,
+        "Deletions": 5,
+        "Commits": [
+          "cdb27756155ee54175cb2f1675f7635d0bacdbda"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "cdb27756155ee54175cb2f1675f7635d0bacdbda",
+        "Author": {
+          "name": "\"QiWang\"",
+          "location": "京东",
+          "company": "JD"
+        },
+        "Commitor": {
+          "name": "\"Liang Zhang\"",
+          "location": "Beijing China",
+          "company": "@apache @shardingjdbc @elasticjob "
+        },
+        "Date": "2019-09-25T04:10:52Z",
+        "additions": 12,
+        "deletions": 10,
+        "files": [
+          "d0e634d7d9d16cf6e7134d6f81aed9911ff76e6e",
+          "39c50247f011fa6e7b68bcf8ed18e4eaaa481e21"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-shardingsphere-doc",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T06:04:02Z",
+    "EndDate": "2019-09-25T07:04:02",
+    "Branches": 2,
+    "Forks": 118,
+    "Files": [
+      {
+        "Sha": "12abbe64191e46c1ac6ea93c63ccc00953b9ed07",
+        "FileName": "_index.cn.md",
+        "Path": "community/content/team/_index.cn.md",
+        "DateUpdated": "2019-09-25T06:55:58Z",
+        "Additions": 28,
+        "Deletions": 20,
+        "Commits": [
+          "d168944d9a70af57b7b2bc10260ba8723ffb6c06"
+        ]
+      },
+      {
+        "Sha": "ebd3f80f0839652ded9a79d29efd9e836633e769",
+        "FileName": "_index.en.md",
+        "Path": "community/content/team/_index.en.md",
+        "DateUpdated": "2019-09-25T06:55:58Z",
+        "Additions": 13,
+        "Deletions": 6,
+        "Commits": [
+          "d168944d9a70af57b7b2bc10260ba8723ffb6c06"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d168944d9a70af57b7b2bc10260ba8723ffb6c06",
+        "Author": {
+          "name": "\"linzesi\""
+        },
+        "Commitor": {
+          "name": "\"Liang Zhang\"",
+          "location": "Beijing China",
+          "company": "@apache @shardingjdbc @elasticjob "
+        },
+        "Date": "2019-09-25T06:55:58Z",
+        "additions": 41,
+        "deletions": 26,
+        "files": [
+          "12abbe64191e46c1ac6ea93c63ccc00953b9ed07",
+          "ebd3f80f0839652ded9a79d29efd9e836633e769"
+        ]
+      }
+    ]
+  }
+]

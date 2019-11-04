@@ -1,0 +1,140 @@
+[
+  {
+    "RepositoryName": "commons-pool",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T23:46:22Z",
+    "EndDate": "2019-09-25T00:46:22",
+    "Branches": 12,
+    "Forks": 194,
+    "Files": [
+      {
+        "Sha": "56d466883d7c8facb717d379921633da41ac98de",
+        "FileName": "GenericObjectPool.java",
+        "Path": "src/main/java/org/apache/commons/pool2/impl/GenericObjectPool.java",
+        "DateUpdated": "2019-09-25T00:28:29Z",
+        "Additions": 5,
+        "Deletions": 9,
+        "Commits": [
+          "0cdff0ade7e6a6ae2a48356e55d7549353535043"
+        ]
+      },
+      {
+        "Sha": "0b4509e312e1686e7980c2d33393abd4a5adaa5a",
+        "FileName": "TestGenericObjectPool.java",
+        "Path": "src/test/java/org/apache/commons/pool2/impl/TestGenericObjectPool.java",
+        "DateUpdated": "2019-09-25T00:28:29Z",
+        "Additions": 21,
+        "Deletions": 0,
+        "Commits": [
+          "0cdff0ade7e6a6ae2a48356e55d7549353535043"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "0cdff0ade7e6a6ae2a48356e55d7549353535043",
+        "Author": {
+          "name": "\"Phil Steitz\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T00:28:29Z",
+        "additions": 26,
+        "deletions": 9,
+        "files": [
+          "56d466883d7c8facb717d379921633da41ac98de",
+          "0b4509e312e1686e7980c2d33393abd4a5adaa5a"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "commons-pool",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T00:02:34Z",
+    "EndDate": "2019-09-25T01:02:34",
+    "Branches": 12,
+    "Forks": 194,
+    "Files": [
+      {
+        "Sha": "56d466883d7c8facb717d379921633da41ac98de",
+        "FileName": "GenericObjectPool.java",
+        "Path": "src/main/java/org/apache/commons/pool2/impl/GenericObjectPool.java",
+        "DateUpdated": "2019-09-25T00:28:29Z",
+        "Additions": 5,
+        "Deletions": 9,
+        "Commits": [
+          "0cdff0ade7e6a6ae2a48356e55d7549353535043"
+        ]
+      },
+      {
+        "Sha": "0b4509e312e1686e7980c2d33393abd4a5adaa5a",
+        "FileName": "TestGenericObjectPool.java",
+        "Path": "src/test/java/org/apache/commons/pool2/impl/TestGenericObjectPool.java",
+        "DateUpdated": "2019-09-25T00:28:29Z",
+        "Additions": 21,
+        "Deletions": 0,
+        "Commits": [
+          "0cdff0ade7e6a6ae2a48356e55d7549353535043"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "0cdff0ade7e6a6ae2a48356e55d7549353535043",
+        "Author": {
+          "name": "\"Phil Steitz\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-25T00:28:29Z",
+        "additions": 26,
+        "deletions": 9,
+        "files": [
+          "56d466883d7c8facb717d379921633da41ac98de",
+          "0b4509e312e1686e7980c2d33393abd4a5adaa5a"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "commons-pool",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-25T21:02:39Z",
+    "EndDate": "2019-09-25T22:02:39",
+    "Branches": 12,
+    "Forks": 194,
+    "Files": [
+      {
+        "Sha": "e492893bd1114598451c568edb5fac40114f3dc3",
+        "FileName": "changes.xml",
+        "Path": "src/changes/changes.xml",
+        "DateUpdated": "2019-09-25T21:08:49Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "597def3f5e20bed50aacd0f60b021284295e1195"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "597def3f5e20bed50aacd0f60b021284295e1195",
+        "Author": {
+          "name": "\"Phil Steitz\""
+        },
+        "Commitor": {
+          "name": "\"Phil Steitz\""
+        },
+        "Date": "2019-09-25T21:08:49Z",
+        "additions": 3,
+        "deletions": 0,
+        "files": [
+          "e492893bd1114598451c568edb5fac40114f3dc3"
+        ]
+      }
+    ]
+  }
+]

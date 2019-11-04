@@ -1,0 +1,318 @@
+[
+  {
+    "RepositoryName": "incubator-milagro-dta",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T08:49:24Z",
+    "EndDate": "2019-09-24T09:49:24",
+    "Branches": 6,
+    "Forks": 2,
+    "Files": [
+      {
+        "Sha": "650741c0c4ae1e9766ee4cd23bc02b603e2954c8",
+        "FileName": ".travis.yml",
+        "Path": ".travis.yml",
+        "DateUpdated": "2019-09-24T09:05:57Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "f8c4f06b3041317c88d05445f8d3b322d28f13ae"
+        ]
+      },
+      {
+        "Sha": "dcb7e0769bb14983424bdefc03953e43c333d38c",
+        "FileName": "Dockerfile",
+        "Path": "Dockerfile",
+        "DateUpdated": "2019-09-24T09:05:57Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "f8c4f06b3041317c88d05445f8d3b322d28f13ae"
+        ]
+      },
+      {
+        "Sha": "8b5a8b39809ceafdbb2a3b9e9b8cef157ae18fe2",
+        "FileName": "Dockerfile-alpine",
+        "Path": "Dockerfile-alpine",
+        "DateUpdated": "2019-09-24T09:05:57Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "f8c4f06b3041317c88d05445f8d3b322d28f13ae"
+        ]
+      },
+      {
+        "Sha": "cd53b823aaea07d0f89918f0987f6187f130a0f9",
+        "FileName": "build-static.sh",
+        "Path": "build-static.sh",
+        "DateUpdated": "2019-09-24T09:05:57Z",
+        "Additions": 18,
+        "Deletions": 0,
+        "Commits": [
+          "f8c4f06b3041317c88d05445f8d3b322d28f13ae"
+        ]
+      },
+      {
+        "Sha": "e0bd79e3113f643fbfdd56bc53d8dce12142c97b",
+        "FileName": "build.sh",
+        "Path": "build.sh",
+        "DateUpdated": "2019-09-24T09:05:57Z",
+        "Additions": 19,
+        "Deletions": 0,
+        "Commits": [
+          "f8c4f06b3041317c88d05445f8d3b322d28f13ae"
+        ]
+      },
+      {
+        "Sha": "8ba42773515b2b759b4896a0876d2c533530a3e6",
+        "FileName": "e2e_test.sh",
+        "Path": "cmd/servicetester/e2e_test.sh",
+        "DateUpdated": "2019-09-24T09:05:57Z",
+        "Additions": 18,
+        "Deletions": 0,
+        "Commits": [
+          "f8c4f06b3041317c88d05445f8d3b322d28f13ae"
+        ]
+      },
+      {
+        "Sha": "6d18557cd33bf31280b186ecc41120d7615bcbf7",
+        "FileName": "fulltest.sh",
+        "Path": "cmd/servicetester/fulltest.sh",
+        "DateUpdated": "2019-09-24T09:05:57Z",
+        "Additions": 18,
+        "Deletions": 0,
+        "Commits": [
+          "f8c4f06b3041317c88d05445f8d3b322d28f13ae"
+        ]
+      },
+      {
+        "Sha": "ab9469071f131f094522edd0ed6d955964e33857",
+        "FileName": "id_test.sh",
+        "Path": "cmd/servicetester/id_test.sh",
+        "DateUpdated": "2019-09-24T09:05:57Z",
+        "Additions": 19,
+        "Deletions": 0,
+        "Commits": [
+          "f8c4f06b3041317c88d05445f8d3b322d28f13ae"
+        ]
+      },
+      {
+        "Sha": "063b4271219afc2ed321eb82d0b05d9513aa7f95",
+        "FileName": "bench_test.go",
+        "Path": "libs/crypto/bench_test.go",
+        "DateUpdated": "2019-09-24T09:05:57Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "f8c4f06b3041317c88d05445f8d3b322d28f13ae"
+        ]
+      },
+      {
+        "Sha": "d56efff9108f9f88a40247e07b6c17c8e739d0dd",
+        "FileName": "CMakeLists.txt",
+        "Path": "libs/crypto/libpqnist/CMakeLists.txt",
+        "DateUpdated": "2019-09-24T09:05:57Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "f8c4f06b3041317c88d05445f8d3b322d28f13ae"
+        ]
+      },
+      {
+        "Sha": "e3df77a7ae981aec657f04c7bb01fbac97a1c9ac",
+        "FileName": "CPackConfig.cmake",
+        "Path": "libs/crypto/libpqnist/CPackConfig.cmake",
+        "DateUpdated": "2019-09-24T09:05:57Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "f8c4f06b3041317c88d05445f8d3b322d28f13ae"
+        ]
+      },
+      {
+        "Sha": "dbc4ed93afd03df4288d7fdb2df70b94419cdd5b",
+        "FileName": "cmake_uninstall.cmake.in",
+        "Path": "libs/crypto/libpqnist/cmake_uninstall.cmake.in",
+        "DateUpdated": "2019-09-24T09:05:57Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "f8c4f06b3041317c88d05445f8d3b322d28f13ae"
+        ]
+      },
+      {
+        "Sha": "449fd2768050c7fc855a28667bdeefe58724b6c7",
+        "FileName": "CMakeLists.txt",
+        "Path": "libs/crypto/libpqnist/examples/CMakeLists.txt",
+        "DateUpdated": "2019-09-24T09:05:57Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "f8c4f06b3041317c88d05445f8d3b322d28f13ae"
+        ]
+      },
+      {
+        "Sha": "c81b1dac3edb39dd027bdb84b6402e612bafaac3",
+        "FileName": "CMakeLists.txt",
+        "Path": "libs/crypto/libpqnist/include/CMakeLists.txt",
+        "DateUpdated": "2019-09-24T09:05:57Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "f8c4f06b3041317c88d05445f8d3b322d28f13ae"
+        ]
+      },
+      {
+        "Sha": "960a2a056f5170762499f31b6eea3fd4b50109cf",
+        "FileName": "CMakeLists.txt",
+        "Path": "libs/crypto/libpqnist/src/CMakeLists.txt",
+        "DateUpdated": "2019-09-24T09:05:57Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "f8c4f06b3041317c88d05445f8d3b322d28f13ae"
+        ]
+      },
+      {
+        "Sha": "925da271e943b634e8d83fc064b2607297782454",
+        "FileName": "CMakeLists.txt",
+        "Path": "libs/crypto/libpqnist/test/smoke/CMakeLists.txt",
+        "DateUpdated": "2019-09-24T09:05:57Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "f8c4f06b3041317c88d05445f8d3b322d28f13ae"
+        ]
+      },
+      {
+        "Sha": "b3cb2a8c8d823060cdcae4787827a3344c4da42d",
+        "FileName": "build",
+        "Path": "libs/documents/build",
+        "DateUpdated": "2019-09-24T09:05:57Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "f8c4f06b3041317c88d05445f8d3b322d28f13ae"
+        ]
+      },
+      {
+        "Sha": "e24c041a4d6f3cac9b89e71668a024c536a19558",
+        "FileName": "docs.proto",
+        "Path": "libs/documents/docs.proto",
+        "DateUpdated": "2019-09-24T09:05:57Z",
+        "Additions": 19,
+        "Deletions": 0,
+        "Commits": [
+          "f8c4f06b3041317c88d05445f8d3b322d28f13ae"
+        ]
+      },
+      {
+        "Sha": "c15bddeb7205117d59b9303a9c8bcfc33a3ead0a",
+        "FileName": "lint.sh",
+        "Path": "lint.sh",
+        "DateUpdated": "2019-09-24T09:05:57Z",
+        "Additions": 19,
+        "Deletions": 0,
+        "Commits": [
+          "f8c4f06b3041317c88d05445f8d3b322d28f13ae"
+        ]
+      },
+      {
+        "Sha": "3d56401a69da7667d726111bc338dabf8593f75b",
+        "FileName": "open-api.yaml",
+        "Path": "open-api.yaml",
+        "DateUpdated": "2019-09-24T09:05:57Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "f8c4f06b3041317c88d05445f8d3b322d28f13ae"
+        ]
+      },
+      {
+        "Sha": "71318850a8ec56f8f2e1269c7b320317312ae188",
+        "FileName": "open-api.yaml",
+        "Path": "pkg/bitcoinplugin/open-api.yaml",
+        "DateUpdated": "2019-09-24T09:05:57Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "f8c4f06b3041317c88d05445f8d3b322d28f13ae"
+        ]
+      },
+      {
+        "Sha": "a39697a53a81477e7e1e7d741b15118ec2771c85",
+        "FileName": "init.go",
+        "Path": "pkg/defaultservice/init.go",
+        "DateUpdated": "2019-09-24T09:05:57Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "f8c4f06b3041317c88d05445f8d3b322d28f13ae"
+        ]
+      },
+      {
+        "Sha": "742868c47eb8e67db62876491dcd19e62268cc48",
+        "FileName": "README.md",
+        "Path": "pkg/safeguardsecret/README.md",
+        "DateUpdated": "2019-09-24T09:05:57Z",
+        "Additions": 19,
+        "Deletions": 0,
+        "Commits": [
+          "f8c4f06b3041317c88d05445f8d3b322d28f13ae"
+        ]
+      },
+      {
+        "Sha": "d8b03210b2f9f001236b3787addcaf121e532401",
+        "FileName": "test.sh",
+        "Path": "test.sh",
+        "DateUpdated": "2019-09-24T09:05:57Z",
+        "Additions": 17,
+        "Deletions": 0,
+        "Commits": [
+          "f8c4f06b3041317c88d05445f8d3b322d28f13ae"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "f8c4f06b3041317c88d05445f8d3b322d28f13ae",
+        "Author": {
+          "name": "\"Stanislav Mihaylov\"",
+          "location": "Sofia, Bulgaria"
+        },
+        "Commitor": {
+          "name": "\"Stanislav Mihaylov\"",
+          "location": "Sofia, Bulgaria"
+        },
+        "Date": "2019-09-24T09:05:57Z",
+        "additions": 421,
+        "deletions": 0,
+        "files": [
+          "650741c0c4ae1e9766ee4cd23bc02b603e2954c8",
+          "dcb7e0769bb14983424bdefc03953e43c333d38c",
+          "8b5a8b39809ceafdbb2a3b9e9b8cef157ae18fe2",
+          "cd53b823aaea07d0f89918f0987f6187f130a0f9",
+          "e0bd79e3113f643fbfdd56bc53d8dce12142c97b",
+          "8ba42773515b2b759b4896a0876d2c533530a3e6",
+          "6d18557cd33bf31280b186ecc41120d7615bcbf7",
+          "ab9469071f131f094522edd0ed6d955964e33857",
+          "063b4271219afc2ed321eb82d0b05d9513aa7f95",
+          "d56efff9108f9f88a40247e07b6c17c8e739d0dd",
+          "e3df77a7ae981aec657f04c7bb01fbac97a1c9ac",
+          "dbc4ed93afd03df4288d7fdb2df70b94419cdd5b",
+          "449fd2768050c7fc855a28667bdeefe58724b6c7",
+          "c81b1dac3edb39dd027bdb84b6402e612bafaac3",
+          "960a2a056f5170762499f31b6eea3fd4b50109cf",
+          "925da271e943b634e8d83fc064b2607297782454",
+          "b3cb2a8c8d823060cdcae4787827a3344c4da42d",
+          "e24c041a4d6f3cac9b89e71668a024c536a19558",
+          "c15bddeb7205117d59b9303a9c8bcfc33a3ead0a",
+          "3d56401a69da7667d726111bc338dabf8593f75b",
+          "71318850a8ec56f8f2e1269c7b320317312ae188",
+          "a39697a53a81477e7e1e7d741b15118ec2771c85",
+          "742868c47eb8e67db62876491dcd19e62268cc48",
+          "d8b03210b2f9f001236b3787addcaf121e532401"
+        ]
+      }
+    ]
+  }
+]

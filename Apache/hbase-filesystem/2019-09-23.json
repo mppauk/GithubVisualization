@@ -1,0 +1,40 @@
+[
+  {
+    "RepositoryName": "hbase-filesystem",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T10:03:47Z",
+    "EndDate": "2019-09-23T11:03:47",
+    "Branches": 1,
+    "Forks": 9,
+    "Files": [
+      {
+        "Sha": "145303852fb928968395fee59f2700f43681ec2d",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-23T10:52:14Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "19e037f377ef05ef075bb1c7438960dbcbbf90d5"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "19e037f377ef05ef075bb1c7438960dbcbbf90d5",
+        "Author": {
+          "name": "\"Balazs Meszaros\""
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-23T10:52:14Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "145303852fb928968395fee59f2700f43681ec2d"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "RepositoryName": "rocketmq-externals",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T05:03:45Z",
+    "EndDate": "2019-09-26T06:03:45",
+    "Branches": 11,
+    "Forks": 1415,
+    "Files": [
+      {
+        "Sha": "429102e3dba8803861e4174520d052eb405b39dd",
+        "FileName": "RmqSourceReplicator.java",
+        "Path": "rocketmq-replicator/src/main/java/org/apache/rocketmq/replicator/RmqSourceReplicator.java",
+        "DateUpdated": "2019-09-26T05:49:28Z",
+        "Additions": 47,
+        "Deletions": 1,
+        "Commits": [
+          "3af07fe686b9d3dd5d0ecd799baaaadd6eb976de"
+        ]
+      },
+      {
+        "Sha": "e6ea7b750aabc2244010aeb77d721480ee02052e",
+        "FileName": "RestHandler.java",
+        "Path": "rocketmq-connect/rocketmq-connect-runtime/src/main/java/org/apache/rocketmq/connect/runtime/rest/RestHandler.java",
+        "DateUpdated": "2019-09-26T05:48:18Z",
+        "Additions": 14,
+        "Deletions": 0,
+        "Commits": [
+          "b040d6e6d21214145414b9da13305e9c003fa8e1"
+        ]
+      },
+      {
+        "Sha": "42dbab887f641b3a4dfcab196541ea25e7373ce2",
+        "FileName": "RmqSourceTask.java",
+        "Path": "rocketmq-replicator/src/main/java/org/apache/rocketmq/replicator/RmqSourceTask.java",
+        "DateUpdated": "2019-09-26T05:47:52Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "ff3bcac278940c2df345a736baf09f17fbe10b19"
+        ]
+      },
+      {
+        "Sha": "3e2962b56adcbb6e7170690e7dbf8b4ae72015f4",
+        "FileName": "TaskTopicInfo.java",
+        "Path": "rocketmq-replicator/src/main/java/org/apache/rocketmq/replicator/config/TaskTopicInfo.java",
+        "DateUpdated": "2019-09-26T05:47:10Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "4dbe5d013674819cdcaccfc12f9dc37e609bf1c0"
+        ]
+      },
+      {
+        "Sha": "d9098733cf06b0b3a00c51abe8725cf71d79c83d",
+        "FileName": "DivideTaskByQueue.java",
+        "Path": "rocketmq-replicator/src/main/java/org/apache/rocketmq/replicator/strategy/DivideTaskByQueue.java",
+        "DateUpdated": "2019-09-26T05:47:10Z",
+        "Additions": 23,
+        "Deletions": 2,
+        "Commits": [
+          "4dbe5d013674819cdcaccfc12f9dc37e609bf1c0"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "3af07fe686b9d3dd5d0ecd799baaaadd6eb976de",
+        "Author": {
+          "name": "\"Heng Du\"",
+          "location": "Shenzhen",
+          "company": "Alibaba"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T05:49:28Z",
+        "additions": 47,
+        "deletions": 1,
+        "files": [
+          "429102e3dba8803861e4174520d052eb405b39dd"
+        ]
+      },
+      {
+        "sha": "b040d6e6d21214145414b9da13305e9c003fa8e1",
+        "Author": {
+          "name": "\"Heng Du\"",
+          "location": "Shenzhen",
+          "company": "Alibaba"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T05:48:18Z",
+        "additions": 14,
+        "deletions": 0,
+        "files": [
+          "e6ea7b750aabc2244010aeb77d721480ee02052e"
+        ]
+      },
+      {
+        "sha": "ff3bcac278940c2df345a736baf09f17fbe10b19",
+        "Author": {
+          "name": "\"Heng Du\"",
+          "location": "Shenzhen",
+          "company": "Alibaba"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T05:47:52Z",
+        "additions": 4,
+        "deletions": 0,
+        "files": [
+          "42dbab887f641b3a4dfcab196541ea25e7373ce2"
+        ]
+      },
+      {
+        "sha": "4dbe5d013674819cdcaccfc12f9dc37e609bf1c0",
+        "Author": {
+          "name": "\"Heng Du\"",
+          "location": "Shenzhen",
+          "company": "Alibaba"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T05:47:10Z",
+        "additions": 24,
+        "deletions": 3,
+        "files": [
+          "3e2962b56adcbb6e7170690e7dbf8b4ae72015f4",
+          "d9098733cf06b0b3a00c51abe8725cf71d79c83d"
+        ]
+      }
+    ]
+  }
+]

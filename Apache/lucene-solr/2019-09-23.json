@@ -1,0 +1,54 @@
+[
+  {
+    "RepositoryName": "lucene-solr",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-23T17:03:55Z",
+    "EndDate": "2019-09-23T18:03:55",
+    "Branches": 94,
+    "Forks": 2041,
+    "Files": [
+      {
+        "Sha": "ceb4a4e0819d15ae0cdf6908d9a8d14a65a06592",
+        "FileName": "SolrExporterIntegrationTest.java",
+        "Path": "solr/contrib/prometheus-exporter/src/test/org/apache/solr/prometheus/exporter/SolrExporterIntegrationTest.java",
+        "DateUpdated": "2019-09-23T17:33:08Z",
+        "Additions": 1,
+        "Deletions": 0,
+        "Commits": [
+          "4ec4061cbcd426774b84184c074c24ecf3a1e81b"
+        ]
+      },
+      {
+        "Sha": "a390be1f62f32022a4acf500ecf0de72b879ee5c",
+        "FileName": "SolrExporterTestBase.java",
+        "Path": "solr/contrib/prometheus-exporter/src/test/org/apache/solr/prometheus/exporter/SolrExporterTestBase.java",
+        "DateUpdated": "2019-09-23T17:33:08Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "4ec4061cbcd426774b84184c074c24ecf3a1e81b"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "4ec4061cbcd426774b84184c074c24ecf3a1e81b",
+        "Author": {
+          "name": "\"Hoss Man\"",
+          "company": "LucidWorks"
+        },
+        "Commitor": {
+          "name": "\"Hoss Man\"",
+          "company": "LucidWorks"
+        },
+        "Date": "2019-09-23T17:33:08Z",
+        "additions": 2,
+        "deletions": 1,
+        "files": [
+          "ceb4a4e0819d15ae0cdf6908d9a8d14a65a06592",
+          "a390be1f62f32022a4acf500ecf0de72b879ee5c"
+        ]
+      }
+    ]
+  }
+]

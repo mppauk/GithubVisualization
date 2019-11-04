@@ -1,0 +1,401 @@
+[
+  {
+    "RepositoryName": "incubator-doris",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T00:47:57Z",
+    "EndDate": "2019-09-24T01:47:57",
+    "Branches": 12,
+    "Forks": 359,
+    "Files": [
+      {
+        "Sha": "50c8ae6d4c57ddf035dd415868db506bc960e933",
+        "FileName": "Analyzer.java",
+        "Path": "fe/src/main/java/org/apache/doris/analysis/Analyzer.java",
+        "DateUpdated": "2019-09-24T01:40:11Z",
+        "Additions": 0,
+        "Deletions": 13,
+        "Commits": [
+          "b756dfd90bc72e0ab4cd56493a9a2dcaf4df35b7"
+        ]
+      },
+      {
+        "Sha": "dd80deb67c16dba39c96fcdffe1e1815166b161e",
+        "FileName": "TupleDescriptor.java",
+        "Path": "fe/src/main/java/org/apache/doris/analysis/TupleDescriptor.java",
+        "DateUpdated": "2019-09-24T01:40:11Z",
+        "Additions": 13,
+        "Deletions": 0,
+        "Commits": [
+          "b756dfd90bc72e0ab4cd56493a9a2dcaf4df35b7"
+        ]
+      },
+      {
+        "Sha": "cc9056a858ed5837ca1bdfe110f9f4843aaf98e4",
+        "FileName": "SingleNodePlanner.java",
+        "Path": "fe/src/main/java/org/apache/doris/planner/SingleNodePlanner.java",
+        "DateUpdated": "2019-09-24T01:40:11Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b756dfd90bc72e0ab4cd56493a9a2dcaf4df35b7"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "b756dfd90bc72e0ab4cd56493a9a2dcaf4df35b7",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"ZHAO Chun\"",
+          "location": "Beijing, China"
+        },
+        "Date": "2019-09-24T01:40:11Z",
+        "additions": 14,
+        "deletions": 14,
+        "files": [
+          "50c8ae6d4c57ddf035dd415868db506bc960e933",
+          "dd80deb67c16dba39c96fcdffe1e1815166b161e",
+          "cc9056a858ed5837ca1bdfe110f9f4843aaf98e4"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-doris",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T01:03:55Z",
+    "EndDate": "2019-09-24T02:03:55",
+    "Branches": 12,
+    "Forks": 359,
+    "Files": [
+      {
+        "Sha": "50c8ae6d4c57ddf035dd415868db506bc960e933",
+        "FileName": "Analyzer.java",
+        "Path": "fe/src/main/java/org/apache/doris/analysis/Analyzer.java",
+        "DateUpdated": "2019-09-24T01:40:11Z",
+        "Additions": 0,
+        "Deletions": 13,
+        "Commits": [
+          "b756dfd90bc72e0ab4cd56493a9a2dcaf4df35b7"
+        ]
+      },
+      {
+        "Sha": "dd80deb67c16dba39c96fcdffe1e1815166b161e",
+        "FileName": "TupleDescriptor.java",
+        "Path": "fe/src/main/java/org/apache/doris/analysis/TupleDescriptor.java",
+        "DateUpdated": "2019-09-24T01:40:11Z",
+        "Additions": 13,
+        "Deletions": 0,
+        "Commits": [
+          "b756dfd90bc72e0ab4cd56493a9a2dcaf4df35b7"
+        ]
+      },
+      {
+        "Sha": "cc9056a858ed5837ca1bdfe110f9f4843aaf98e4",
+        "FileName": "SingleNodePlanner.java",
+        "Path": "fe/src/main/java/org/apache/doris/planner/SingleNodePlanner.java",
+        "DateUpdated": "2019-09-24T01:40:11Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "b756dfd90bc72e0ab4cd56493a9a2dcaf4df35b7"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "b756dfd90bc72e0ab4cd56493a9a2dcaf4df35b7",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"ZHAO Chun\"",
+          "location": "Beijing, China"
+        },
+        "Date": "2019-09-24T01:40:11Z",
+        "additions": 14,
+        "deletions": 14,
+        "files": [
+          "50c8ae6d4c57ddf035dd415868db506bc960e933",
+          "dd80deb67c16dba39c96fcdffe1e1815166b161e",
+          "cc9056a858ed5837ca1bdfe110f9f4843aaf98e4"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-doris",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T05:47:53Z",
+    "EndDate": "2019-09-24T06:47:53",
+    "Branches": 12,
+    "Forks": 359,
+    "Files": [
+      {
+        "Sha": "a34e21d063584e2d90b37a12ec66aa56a754f7af",
+        "FileName": "column_reader.cpp",
+        "Path": "be/src/olap/rowset/segment_v2/column_reader.cpp",
+        "DateUpdated": "2019-09-24T06:39:10Z",
+        "Additions": 30,
+        "Deletions": 0,
+        "Commits": [
+          "8d0fee7e6427aad17d574a7b3b56bb3ec5f26427"
+        ]
+      },
+      {
+        "Sha": "6d425cb9ca21f9b0e7267fac1d5de690ecda9eee",
+        "FileName": "column_reader.h",
+        "Path": "be/src/olap/rowset/segment_v2/column_reader.h",
+        "DateUpdated": "2019-09-24T06:39:10Z",
+        "Additions": 41,
+        "Deletions": 0,
+        "Commits": [
+          "8d0fee7e6427aad17d574a7b3b56bb3ec5f26427"
+        ]
+      },
+      {
+        "Sha": "1d59a708d428442d8b9594eb9122cb947e1dcba6",
+        "FileName": "segment.cpp",
+        "Path": "be/src/olap/rowset/segment_v2/segment.cpp",
+        "DateUpdated": "2019-09-24T06:39:10Z",
+        "Additions": 10,
+        "Deletions": 2,
+        "Commits": [
+          "8d0fee7e6427aad17d574a7b3b56bb3ec5f26427"
+        ]
+      },
+      {
+        "Sha": "80ce4ffdacd48e641ecc4983fc5b4e8947a19a95",
+        "FileName": "segment_test.cpp",
+        "Path": "be/test/olap/rowset/segment_v2/segment_test.cpp",
+        "DateUpdated": "2019-09-24T06:39:10Z",
+        "Additions": 156,
+        "Deletions": 0,
+        "Commits": [
+          "8d0fee7e6427aad17d574a7b3b56bb3ec5f26427"
+        ]
+      },
+      {
+        "Sha": "8e22b33a6b26bfaf3b45e54626beba8349d5871e",
+        "FileName": "tablet_schema_helper.h",
+        "Path": "be/test/olap/tablet_schema_helper.h",
+        "DateUpdated": "2019-09-24T06:39:10Z",
+        "Additions": 5,
+        "Deletions": 1,
+        "Commits": [
+          "8d0fee7e6427aad17d574a7b3b56bb3ec5f26427"
+        ]
+      },
+      {
+        "Sha": "5cd04951add1ef6e8d71cc39695ec6dad36284b0",
+        "FileName": "delete_handler.cpp",
+        "Path": "be/src/olap/delete_handler.cpp",
+        "DateUpdated": "2019-09-24T06:38:19Z",
+        "Additions": 9,
+        "Deletions": 0,
+        "Commits": [
+          "fe279699787b8283511b4ac097465f6bf0755678"
+        ]
+      },
+      {
+        "Sha": "3ba88ab5a09ec48eb6bdf33c7e724f1080e4e1c1",
+        "FileName": "delete_handler.h",
+        "Path": "be/src/olap/delete_handler.h",
+        "DateUpdated": "2019-09-24T06:38:19Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "fe279699787b8283511b4ac097465f6bf0755678"
+        ]
+      },
+      {
+        "Sha": "2a073401996bebe82f41faffb8d51b494d5d861d",
+        "FileName": "generic_iterators.cpp",
+        "Path": "be/src/olap/generic_iterators.cpp",
+        "DateUpdated": "2019-09-24T06:38:19Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "fe279699787b8283511b4ac097465f6bf0755678"
+        ]
+      },
+      {
+        "Sha": "6861f01aa03237066740891bd3275e116c2b0740",
+        "FileName": "iterators.h",
+        "Path": "be/src/olap/iterators.h",
+        "DateUpdated": "2019-09-24T06:38:19Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "fe279699787b8283511b4ac097465f6bf0755678"
+        ]
+      },
+      {
+        "Sha": "0708559dac9162b7103264bae985ac849d7568a9",
+        "FileName": "olap_cond.cpp",
+        "Path": "be/src/olap/olap_cond.cpp",
+        "DateUpdated": "2019-09-24T06:38:19Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "fe279699787b8283511b4ac097465f6bf0755678"
+        ]
+      },
+      {
+        "Sha": "edf28c0cb7f5399e28102b22a0424e1615ca6cba",
+        "FileName": "olap_cond.h",
+        "Path": "be/src/olap/olap_cond.h",
+        "DateUpdated": "2019-09-24T06:38:19Z",
+        "Additions": 2,
+        "Deletions": 0,
+        "Commits": [
+          "fe279699787b8283511b4ac097465f6bf0755678"
+        ]
+      },
+      {
+        "Sha": "3ae382a91ab33a91336e2e7bcfecca72d710c03f",
+        "FileName": "beta_rowset_reader.cpp",
+        "Path": "be/src/olap/rowset/beta_rowset_reader.cpp",
+        "DateUpdated": "2019-09-24T06:38:19Z",
+        "Additions": 4,
+        "Deletions": 0,
+        "Commits": [
+          "fe279699787b8283511b4ac097465f6bf0755678"
+        ]
+      },
+      {
+        "Sha": "40ad287d1d15c80d6d74f2c83d845550e1bda708",
+        "FileName": "column_reader.cpp",
+        "Path": "be/src/olap/rowset/segment_v2/column_reader.cpp",
+        "DateUpdated": "2019-09-24T06:38:19Z",
+        "Additions": 19,
+        "Deletions": 4,
+        "Commits": [
+          "fe279699787b8283511b4ac097465f6bf0755678"
+        ]
+      },
+      {
+        "Sha": "b41e8eb073dc7e907ef9dfcfbd0b34a15dcdb675",
+        "FileName": "column_reader.h",
+        "Path": "be/src/olap/rowset/segment_v2/column_reader.h",
+        "DateUpdated": "2019-09-24T06:38:19Z",
+        "Additions": 8,
+        "Deletions": 2,
+        "Commits": [
+          "fe279699787b8283511b4ac097465f6bf0755678"
+        ]
+      },
+      {
+        "Sha": "866c47157446318fd03b3aa11a384cf5ce23741c",
+        "FileName": "segment_iterator.cpp",
+        "Path": "be/src/olap/rowset/segment_v2/segment_iterator.cpp",
+        "DateUpdated": "2019-09-24T06:38:19Z",
+        "Additions": 15,
+        "Deletions": 3,
+        "Commits": [
+          "fe279699787b8283511b4ac097465f6bf0755678"
+        ]
+      },
+      {
+        "Sha": "730bfbb558222d44898ecad82485781398520694",
+        "FileName": "segment_test.cpp",
+        "Path": "be/test/olap/rowset/segment_v2/segment_test.cpp",
+        "DateUpdated": "2019-09-24T06:38:19Z",
+        "Additions": 65,
+        "Deletions": 1,
+        "Commits": [
+          "fe279699787b8283511b4ac097465f6bf0755678"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "8d0fee7e6427aad17d574a7b3b56bb3ec5f26427",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"ZHAO Chun\"",
+          "location": "Beijing, China"
+        },
+        "Date": "2019-09-24T06:39:10Z",
+        "additions": 242,
+        "deletions": 3,
+        "files": [
+          "a34e21d063584e2d90b37a12ec66aa56a754f7af",
+          "6d425cb9ca21f9b0e7267fac1d5de690ecda9eee",
+          "1d59a708d428442d8b9594eb9122cb947e1dcba6",
+          "80ce4ffdacd48e641ecc4983fc5b4e8947a19a95",
+          "8e22b33a6b26bfaf3b45e54626beba8349d5871e"
+        ]
+      },
+      {
+        "sha": "fe279699787b8283511b4ac097465f6bf0755678",
+        "Author": {
+          "name": "null"
+        },
+        "Commitor": {
+          "name": "\"ZHAO Chun\"",
+          "location": "Beijing, China"
+        },
+        "Date": "2019-09-24T06:38:19Z",
+        "additions": 137,
+        "deletions": 11,
+        "files": [
+          "5cd04951add1ef6e8d71cc39695ec6dad36284b0",
+          "3ba88ab5a09ec48eb6bdf33c7e724f1080e4e1c1",
+          "2a073401996bebe82f41faffb8d51b494d5d861d",
+          "6861f01aa03237066740891bd3275e116c2b0740",
+          "0708559dac9162b7103264bae985ac849d7568a9",
+          "edf28c0cb7f5399e28102b22a0424e1615ca6cba",
+          "3ae382a91ab33a91336e2e7bcfecca72d710c03f",
+          "40ad287d1d15c80d6d74f2c83d845550e1bda708",
+          "b41e8eb073dc7e907ef9dfcfbd0b34a15dcdb675",
+          "866c47157446318fd03b3aa11a384cf5ce23741c",
+          "730bfbb558222d44898ecad82485781398520694"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "incubator-doris",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T11:48:24Z",
+    "EndDate": "2019-09-24T12:48:24",
+    "Branches": 12,
+    "Forks": 359,
+    "Files": [
+      {
+        "Sha": "5a774626358226eb64e1890fd5f12942bde80981",
+        "FileName": "binary_dict_page.cpp",
+        "Path": "be/src/olap/rowset/segment_v2/binary_dict_page.cpp",
+        "DateUpdated": "2019-09-24T12:13:15Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0b15d26b6c7df83f980e400ecc14e0335c9cbac8"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "0b15d26b6c7df83f980e400ecc14e0335c9cbac8",
+        "Author": {
+          "name": "\"wubiao\""
+        },
+        "Commitor": {
+          "name": "\"ZHAO Chun\"",
+          "location": "Beijing, China"
+        },
+        "Date": "2019-09-24T12:13:15Z",
+        "additions": 1,
+        "deletions": 1,
+        "files": [
+          "5a774626358226eb64e1890fd5f12942bde80981"
+        ]
+      }
+    ]
+  }
+]

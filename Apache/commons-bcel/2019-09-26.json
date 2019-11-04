@@ -1,0 +1,102 @@
+[
+  {
+    "RepositoryName": "commons-bcel",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T00:03:28Z",
+    "EndDate": "2019-09-26T01:03:28",
+    "Branches": 5,
+    "Forks": 67,
+    "Files": [
+      {
+        "Sha": "f4d60141bafd454eec7e44c8ac40a88a4236630b",
+        "FileName": "changes.xml",
+        "Path": "src/changes/changes.xml",
+        "DateUpdated": "2019-09-26T00:09:42Z",
+        "Additions": 3,
+        "Deletions": 0,
+        "Commits": [
+          "1d528f6cf7ea74db01a03d724f288dd97b2c3f35"
+        ]
+      },
+      {
+        "Sha": "82236a208af73cb0f45a8603a139746416aac6f6",
+        "FileName": "DescendingVisitor.java",
+        "Path": "src/main/java/org/apache/bcel/classfile/DescendingVisitor.java",
+        "DateUpdated": "2019-09-26T00:09:42Z",
+        "Additions": 656,
+        "Deletions": 658,
+        "Commits": [
+          "1d528f6cf7ea74db01a03d724f288dd97b2c3f35"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "1d528f6cf7ea74db01a03d724f288dd97b2c3f35",
+        "Date": "2019-09-26T00:09:42Z",
+        "additions": 659,
+        "deletions": 658,
+        "files": [
+          "f4d60141bafd454eec7e44c8ac40a88a4236630b",
+          "82236a208af73cb0f45a8603a139746416aac6f6"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "commons-bcel",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T14:03:41Z",
+    "EndDate": "2019-09-26T15:03:41",
+    "Branches": 5,
+    "Forks": 67,
+    "Files": [
+      {
+        "Sha": "429ae95d323fda77f7c413d8d9479315e3652a5b",
+        "FileName": "pom.xml",
+        "Path": "pom.xml",
+        "DateUpdated": "2019-09-26T14:58:19Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "09189d56fdc31a9dfdd7677be34858a11209a74a"
+        ]
+      },
+      {
+        "Sha": "ca5cb293cf0f5d156fcda168d7b4e30c5dcfc01e",
+        "FileName": "changes.xml",
+        "Path": "src/changes/changes.xml",
+        "DateUpdated": "2019-09-26T14:58:19Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "09189d56fdc31a9dfdd7677be34858a11209a74a"
+        ]
+      },
+      {
+        "Sha": "eaeb1e7c5bc7a530909af98e9c10ae7f1150558f",
+        "FileName": "checkstyle.xml",
+        "Path": "src/conf/checkstyle.xml",
+        "DateUpdated": "2019-09-26T14:58:19Z",
+        "Additions": 193,
+        "Deletions": 197,
+        "Commits": [
+          "09189d56fdc31a9dfdd7677be34858a11209a74a"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "09189d56fdc31a9dfdd7677be34858a11209a74a",
+        "Date": "2019-09-26T14:58:19Z",
+        "additions": 199,
+        "deletions": 202,
+        "files": [
+          "429ae95d323fda77f7c413d8d9479315e3652a5b",
+          "ca5cb293cf0f5d156fcda168d7b4e30c5dcfc01e",
+          "eaeb1e7c5bc7a530909af98e9c10ae7f1150558f"
+        ]
+      }
+    ]
+  }
+]

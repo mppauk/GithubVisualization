@@ -1,0 +1,527 @@
+[
+  {
+    "RepositoryName": "kafka",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T02:02:15Z",
+    "EndDate": "2019-09-26T03:02:15",
+    "Branches": 20,
+    "Forks": 7253,
+    "Files": [
+      {
+        "Sha": "a160102db1dd8aae4c52a87eea50e226a330b19c",
+        "FileName": "ClientRequest.java",
+        "Path": "clients/src/main/java/org/apache/kafka/clients/ClientRequest.java",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 9,
+        "Deletions": 1,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "44c9fd3c0724799d19d134b478b9493c2455ccaa",
+        "FileName": "NetworkClient.java",
+        "Path": "clients/src/main/java/org/apache/kafka/clients/NetworkClient.java",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "cd0132723c47b4bb84f2d383e1f7c2192773c9b0",
+        "FileName": "ApiKeys.java",
+        "Path": "clients/src/main/java/org/apache/kafka/common/protocol/ApiKeys.java",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 8,
+        "Deletions": 0,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "0e0975ccb831318d23cbb1d67b13f9e7498c97cb",
+        "FileName": "Protocol.java",
+        "Path": "clients/src/main/java/org/apache/kafka/common/protocol/Protocol.java",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 16,
+        "Deletions": 14,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "9fbce912599461872219f9a9cf1211393225b3c4",
+        "FileName": "AbstractResponse.java",
+        "Path": "clients/src/main/java/org/apache/kafka/common/requests/AbstractResponse.java",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 11,
+        "Deletions": 3,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "83e9444da0ad1f72e18a8237ab12452bfe12ccd8",
+        "FileName": "ControlledShutdownRequest.java",
+        "Path": "clients/src/main/java/org/apache/kafka/common/requests/ControlledShutdownRequest.java",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 2,
+        "Deletions": 12,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "2ad947c5904bea6385f2e391df79b3e6b3870a9a",
+        "FileName": "DeleteGroupsRequest.java",
+        "Path": "clients/src/main/java/org/apache/kafka/common/requests/DeleteGroupsRequest.java",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 11,
+        "Deletions": 19,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "a98a7c881d96ebe78730bebcb867a40928740581",
+        "FileName": "DeleteGroupsResponse.java",
+        "Path": "clients/src/main/java/org/apache/kafka/common/requests/DeleteGroupsResponse.java",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "e5cc6c8860a58b86c8f6f3abb36c8c6a77f4e271",
+        "FileName": "HeartbeatRequest.java",
+        "Path": "clients/src/main/java/org/apache/kafka/common/requests/HeartbeatRequest.java",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 5,
+        "Deletions": 14,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "caa6f47906bfdd9c3f32ec1debd21da46483c93d",
+        "FileName": "ListGroupsRequest.java",
+        "Path": "clients/src/main/java/org/apache/kafka/common/requests/ListGroupsRequest.java",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 7,
+        "Deletions": 18,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "2303f89f91984e868c46d174db39f382fd20bc22",
+        "FileName": "OffsetFetchRequest.java",
+        "Path": "clients/src/main/java/org/apache/kafka/common/requests/OffsetFetchRequest.java",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 5,
+        "Deletions": 15,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "65bc39d230a24e2044ce4ab85b230ca77e576656",
+        "FileName": "RequestHeader.java",
+        "Path": "clients/src/main/java/org/apache/kafka/common/requests/RequestHeader.java",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 49,
+        "Deletions": 94,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "249b5d021081f788e03ee129b349429b70125313",
+        "FileName": "ResponseHeader.java",
+        "Path": "clients/src/main/java/org/apache/kafka/common/requests/ResponseHeader.java",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 25,
+        "Deletions": 19,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "4bf56e80b3f6891a3244f8eff509cf5e5adb39ec",
+        "FileName": "SaslClientAuthenticator.java",
+        "Path": "clients/src/main/java/org/apache/kafka/common/security/authenticator/SaslClientAuthenticator.java",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 9,
+        "Deletions": 1,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "a00658cc866dee4533f235586682367ea7b6e8b9",
+        "FileName": "RequestHeader.json",
+        "Path": "clients/src/main/resources/common/message/RequestHeader.json",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 5,
+        "Deletions": 2,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "bc47b3f05f07cf888228055ec9906137c397ddb0",
+        "FileName": "ResponseHeader.json",
+        "Path": "clients/src/main/resources/common/message/ResponseHeader.json",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 2,
+        "Deletions": 1,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "ab11b95520f98c49eb029053f5dcbd4dd07fe616",
+        "FileName": "NetworkClientTest.java",
+        "Path": "clients/src/test/java/org/apache/kafka/clients/NetworkClientTest.java",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 30,
+        "Deletions": 14,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "f2246d90d74b05869622eac9b000c203c4cb5f12",
+        "FileName": "FetcherTest.java",
+        "Path": "clients/src/test/java/org/apache/kafka/clients/consumer/internals/FetcherTest.java",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 4,
+        "Deletions": 4,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "653faf21aa0a4bf77a52b318f508d04d1d40759b",
+        "FileName": "SenderTest.java",
+        "Path": "clients/src/test/java/org/apache/kafka/clients/producer/internals/SenderTest.java",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 3,
+        "Deletions": 4,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "d9ac2c2d0d77f5bd4de5525233e09e04b7ae643e",
+        "FileName": "RequestContextTest.java",
+        "Path": "clients/src/test/java/org/apache/kafka/common/requests/RequestContextTest.java",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "dd9dc327fc93be76f02c866e1f4431448f36a095",
+        "FileName": "RequestHeaderTest.java",
+        "Path": "clients/src/test/java/org/apache/kafka/common/requests/RequestHeaderTest.java",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 4,
+        "Deletions": 14,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "52d918a991f90c0bde41cc63e5ae26955b7f2e69",
+        "FileName": "RequestResponseTest.java",
+        "Path": "clients/src/test/java/org/apache/kafka/common/requests/RequestResponseTest.java",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 18,
+        "Deletions": 15,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "82a1f97926472b379db3675b36045fda77e2e9d6",
+        "FileName": "SaslAuthenticatorTest.java",
+        "Path": "clients/src/test/java/org/apache/kafka/common/security/authenticator/SaslAuthenticatorTest.java",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 8,
+        "Deletions": 2,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "2062fb762028db2b26e0137550c66374093521bf",
+        "FileName": "BaseRequestTest.scala",
+        "Path": "core/src/test/scala/unit/kafka/server/BaseRequestTest.scala",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 11,
+        "Deletions": 10,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "42409db72c24dc90610f7d569a3f4029842b0a0a",
+        "FileName": "EdgeCaseRequestTest.scala",
+        "Path": "core/src/test/scala/unit/kafka/server/EdgeCaseRequestTest.scala",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "23091c8b08e49e5a2e07a6bc2d0dbbd0bfeac311",
+        "FileName": "FetchRequestTest.scala",
+        "Path": "core/src/test/scala/unit/kafka/server/FetchRequestTest.scala",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      },
+      {
+        "Sha": "3c37bc02b0ea4e38b94df857167c555e0f00694f",
+        "FileName": "KafkaApisTest.scala",
+        "Path": "core/src/test/scala/unit/kafka/server/KafkaApisTest.scala",
+        "DateUpdated": "2019-09-26T02:35:13Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "0566dfd3cedc13e2c0357378cc100c1ec9bd585a"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "0566dfd3cedc13e2c0357378cc100c1ec9bd585a",
+        "Author": {
+          "name": "\"Colin Patrick McCabe\"",
+          "location": "Sunnyvale, CA",
+          "company": "Confluent"
+        },
+        "Commitor": {
+          "name": "\"David Arthur\"",
+          "location": "Raleigh, NC"
+        },
+        "Date": "2019-09-26T02:35:13Z",
+        "additions": 251,
+        "deletions": 285,
+        "files": [
+          "a160102db1dd8aae4c52a87eea50e226a330b19c",
+          "44c9fd3c0724799d19d134b478b9493c2455ccaa",
+          "cd0132723c47b4bb84f2d383e1f7c2192773c9b0",
+          "0e0975ccb831318d23cbb1d67b13f9e7498c97cb",
+          "9fbce912599461872219f9a9cf1211393225b3c4",
+          "83e9444da0ad1f72e18a8237ab12452bfe12ccd8",
+          "2ad947c5904bea6385f2e391df79b3e6b3870a9a",
+          "a98a7c881d96ebe78730bebcb867a40928740581",
+          "e5cc6c8860a58b86c8f6f3abb36c8c6a77f4e271",
+          "caa6f47906bfdd9c3f32ec1debd21da46483c93d",
+          "2303f89f91984e868c46d174db39f382fd20bc22",
+          "65bc39d230a24e2044ce4ab85b230ca77e576656",
+          "249b5d021081f788e03ee129b349429b70125313",
+          "4bf56e80b3f6891a3244f8eff509cf5e5adb39ec",
+          "a00658cc866dee4533f235586682367ea7b6e8b9",
+          "bc47b3f05f07cf888228055ec9906137c397ddb0",
+          "ab11b95520f98c49eb029053f5dcbd4dd07fe616",
+          "f2246d90d74b05869622eac9b000c203c4cb5f12",
+          "653faf21aa0a4bf77a52b318f508d04d1d40759b",
+          "d9ac2c2d0d77f5bd4de5525233e09e04b7ae643e",
+          "dd9dc327fc93be76f02c866e1f4431448f36a095",
+          "52d918a991f90c0bde41cc63e5ae26955b7f2e69",
+          "82a1f97926472b379db3675b36045fda77e2e9d6",
+          "2062fb762028db2b26e0137550c66374093521bf",
+          "42409db72c24dc90610f7d569a3f4029842b0a0a",
+          "23091c8b08e49e5a2e07a6bc2d0dbbd0bfeac311",
+          "3c37bc02b0ea4e38b94df857167c555e0f00694f"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "kafka",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T07:02:37Z",
+    "EndDate": "2019-09-26T08:02:37",
+    "Branches": 20,
+    "Forks": 7254,
+    "Files": [
+      {
+        "Sha": "2353de26ec4dffc58db809733bea4e3017b3eec1",
+        "FileName": "Endpoint.java",
+        "Path": "clients/src/main/java/org/apache/kafka/common/Endpoint.java",
+        "DateUpdated": "2019-09-26T07:28:05Z",
+        "Additions": 12,
+        "Deletions": 9,
+        "Commits": [
+          "666505b72f1baaf5f37fac4f59fa26d93d833f63"
+        ]
+      },
+      {
+        "Sha": "c067444478b035c69ea8618a3fb0964b4f71adec",
+        "FileName": "RequestContext.java",
+        "Path": "clients/src/main/java/org/apache/kafka/common/requests/RequestContext.java",
+        "DateUpdated": "2019-09-26T07:28:05Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "666505b72f1baaf5f37fac4f59fa26d93d833f63"
+        ]
+      },
+      {
+        "Sha": "f68b9381ce1d99c7ff1f6b55f89e4d7f4b330bf6",
+        "FileName": "AuthorizableRequestContext.java",
+        "Path": "clients/src/main/java/org/apache/kafka/server/authorizer/AuthorizableRequestContext.java",
+        "DateUpdated": "2019-09-26T07:28:05Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "666505b72f1baaf5f37fac4f59fa26d93d833f63"
+        ]
+      },
+      {
+        "Sha": "e8e621f03555dedb5f6446e2cb0432a5eb4fed90",
+        "FileName": "Broker.scala",
+        "Path": "core/src/main/scala/kafka/cluster/Broker.scala",
+        "DateUpdated": "2019-09-26T07:28:05Z",
+        "Additions": 10,
+        "Deletions": 10,
+        "Commits": [
+          "666505b72f1baaf5f37fac4f59fa26d93d833f63"
+        ]
+      },
+      {
+        "Sha": "2f8229a38865c7db657ed8c793423afc4c7cfacd",
+        "FileName": "EndPoint.scala",
+        "Path": "core/src/main/scala/kafka/cluster/EndPoint.scala",
+        "DateUpdated": "2019-09-26T07:28:05Z",
+        "Additions": 4,
+        "Deletions": 5,
+        "Commits": [
+          "666505b72f1baaf5f37fac4f59fa26d93d833f63"
+        ]
+      },
+      {
+        "Sha": "e50a6b0397211b7c01e5438dbe9a2056f8fde2cd",
+        "FileName": "SocketServer.scala",
+        "Path": "core/src/main/scala/kafka/network/SocketServer.scala",
+        "DateUpdated": "2019-09-26T07:28:05Z",
+        "Additions": 4,
+        "Deletions": 3,
+        "Commits": [
+          "666505b72f1baaf5f37fac4f59fa26d93d833f63"
+        ]
+      },
+      {
+        "Sha": "56935d9b12e68a3f2b4b79f846c9299e658bf51f",
+        "FileName": "SimpleAclAuthorizer.scala",
+        "Path": "core/src/main/scala/kafka/security/auth/SimpleAclAuthorizer.scala",
+        "DateUpdated": "2019-09-26T07:28:05Z",
+        "Additions": 17,
+        "Deletions": 16,
+        "Commits": [
+          "666505b72f1baaf5f37fac4f59fa26d93d833f63"
+        ]
+      },
+      {
+        "Sha": "8ba060d814921c0a87f96670b8fa116bf8532728",
+        "FileName": "AclAuthorizer.scala",
+        "Path": "core/src/main/scala/kafka/security/authorizer/AclAuthorizer.scala",
+        "DateUpdated": "2019-09-26T07:28:05Z",
+        "Additions": 18,
+        "Deletions": 18,
+        "Commits": [
+          "666505b72f1baaf5f37fac4f59fa26d93d833f63"
+        ]
+      },
+      {
+        "Sha": "909f3a78bbb7e719a8d487cd13a0dcdb5baa9cde",
+        "FileName": "AuthorizerUtils.scala",
+        "Path": "core/src/main/scala/kafka/security/authorizer/AuthorizerUtils.scala",
+        "DateUpdated": "2019-09-26T07:28:05Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "666505b72f1baaf5f37fac4f59fa26d93d833f63"
+        ]
+      },
+      {
+        "Sha": "57cb0b6d20ed1d8a0975ff3f77ce267293b6fe86",
+        "FileName": "KafkaServer.scala",
+        "Path": "core/src/main/scala/kafka/server/KafkaServer.scala",
+        "DateUpdated": "2019-09-26T07:28:05Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "666505b72f1baaf5f37fac4f59fa26d93d833f63"
+        ]
+      },
+      {
+        "Sha": "689cb0aef9f8481fb6e8de580498e970c2368bc4",
+        "FileName": "SslAdminClientIntegrationTest.scala",
+        "Path": "core/src/test/scala/integration/kafka/api/SslAdminClientIntegrationTest.scala",
+        "DateUpdated": "2019-09-26T07:28:05Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "666505b72f1baaf5f37fac4f59fa26d93d833f63"
+        ]
+      },
+      {
+        "Sha": "03135113f836ba33614748fa9797bd027337f662",
+        "FileName": "SocketServerTest.scala",
+        "Path": "core/src/test/scala/unit/kafka/network/SocketServerTest.scala",
+        "DateUpdated": "2019-09-26T07:28:05Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "666505b72f1baaf5f37fac4f59fa26d93d833f63"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "666505b72f1baaf5f37fac4f59fa26d93d833f63",
+        "Author": {
+          "name": "\"Rajini Sivaram\"",
+          "location": "UK",
+          "company": "Confluent"
+        },
+        "Commitor": {
+          "name": "\"GitHub Web Flow\""
+        },
+        "Date": "2019-09-26T07:28:05Z",
+        "additions": 72,
+        "deletions": 68,
+        "files": [
+          "2353de26ec4dffc58db809733bea4e3017b3eec1",
+          "c067444478b035c69ea8618a3fb0964b4f71adec",
+          "f68b9381ce1d99c7ff1f6b55f89e4d7f4b330bf6",
+          "e8e621f03555dedb5f6446e2cb0432a5eb4fed90",
+          "2f8229a38865c7db657ed8c793423afc4c7cfacd",
+          "e50a6b0397211b7c01e5438dbe9a2056f8fde2cd",
+          "56935d9b12e68a3f2b4b79f846c9299e658bf51f",
+          "8ba060d814921c0a87f96670b8fa116bf8532728",
+          "909f3a78bbb7e719a8d487cd13a0dcdb5baa9cde",
+          "57cb0b6d20ed1d8a0975ff3f77ce267293b6fe86",
+          "689cb0aef9f8481fb6e8de580498e970c2368bc4",
+          "03135113f836ba33614748fa9797bd027337f662"
+        ]
+      }
+    ]
+  }
+]

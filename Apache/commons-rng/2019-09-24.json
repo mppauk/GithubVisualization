@@ -1,0 +1,44 @@
+[
+  {
+    "RepositoryName": "commons-rng",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-24T10:47:56Z",
+    "EndDate": "2019-09-24T11:47:56",
+    "Branches": 4,
+    "Forks": 31,
+    "Files": [
+      {
+        "Sha": "787fed1bd2c7f1cd114741f30ae0abc03e17eb7c",
+        "FileName": "RandomSource.java",
+        "Path": "commons-rng-simple/src/main/java/org/apache/commons/rng/simple/RandomSource.java",
+        "DateUpdated": "2019-09-24T11:02:48Z",
+        "Additions": 3,
+        "Deletions": 2,
+        "Commits": [
+          "a76c4b2493f249f83b06d559a352809895431ce1"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a76c4b2493f249f83b06d559a352809895431ce1",
+        "Author": {
+          "name": "\"Alex Herbert\"",
+          "location": "Brighton, UK",
+          "company": "University of Sussex"
+        },
+        "Commitor": {
+          "name": "\"Alex Herbert\"",
+          "location": "Brighton, UK",
+          "company": "University of Sussex"
+        },
+        "Date": "2019-09-24T11:02:48Z",
+        "additions": 3,
+        "deletions": 2,
+        "files": [
+          "787fed1bd2c7f1cd114741f30ae0abc03e17eb7c"
+        ]
+      }
+    ]
+  }
+]

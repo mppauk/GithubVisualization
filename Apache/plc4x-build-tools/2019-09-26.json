@@ -1,0 +1,364 @@
+[
+  {
+    "RepositoryName": "plc4x-build-tools",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T09:05:00Z",
+    "EndDate": "2019-09-26T10:05:00",
+    "Branches": 6,
+    "Forks": 0,
+    "Files": [
+      {
+        "Sha": "c4bcab58e398703141f79b9d613a4becfaa75bca",
+        "FileName": "pom.xml",
+        "Path": "code-generation/language-base/pom.xml",
+        "DateUpdated": "2019-09-26T09:57:08Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "a560d0da5499086b3d68a9b34979b6af9f61fcaa"
+        ]
+      },
+      {
+        "Sha": "6f1d054838787de8f7f120f84f3dfa4b13959059",
+        "FileName": "pom.xml",
+        "Path": "code-generation/plc4x-maven-plugin/pom.xml",
+        "DateUpdated": "2019-09-26T09:57:08Z",
+        "Additions": 3,
+        "Deletions": 3,
+        "Commits": [
+          "a560d0da5499086b3d68a9b34979b6af9f61fcaa"
+        ]
+      },
+      {
+        "Sha": "7239e05c06cdad400d370537b918427303bb474b",
+        "FileName": "pom.xml",
+        "Path": "code-generation/pom.xml",
+        "DateUpdated": "2019-09-26T09:57:08Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "a560d0da5499086b3d68a9b34979b6af9f61fcaa"
+        ]
+      },
+      {
+        "Sha": "5d39eded2bd47ce97d21f5597de8c9572e1ef4f2",
+        "FileName": "pom.xml",
+        "Path": "code-generation/protocol-base/pom.xml",
+        "DateUpdated": "2019-09-26T09:57:08Z",
+        "Additions": 2,
+        "Deletions": 2,
+        "Commits": [
+          "a560d0da5499086b3d68a9b34979b6af9f61fcaa"
+        ]
+      },
+      {
+        "Sha": "156ad1fe6c5efa69766f6cb7e0e2ece6872834ef",
+        "FileName": "pom.xml",
+        "Path": "code-generation/types-base/pom.xml",
+        "DateUpdated": "2019-09-26T09:57:08Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "a560d0da5499086b3d68a9b34979b6af9f61fcaa"
+        ]
+      },
+      {
+        "Sha": "7ebfdbe95f2b702c3febc7a04a0577dd89ba7ae3",
+        "FileName": "pom.xml",
+        "Path": "code-generation/plc4x-maven-plugin/pom.xml",
+        "DateUpdated": "2019-09-26T09:56:59Z",
+        "Additions": 1,
+        "Deletions": 3,
+        "Commits": [
+          "fb2a9ab2859d058fbce3ecc1acdcc2e52f49695e"
+        ]
+      },
+      {
+        "Sha": "4cdf91006b836edc242d5ffcae33b3f9f96be0aa",
+        "FileName": "pom.xml",
+        "Path": "code-generation/pom.xml",
+        "DateUpdated": "2019-09-26T09:56:59Z",
+        "Additions": 3,
+        "Deletions": 5,
+        "Commits": [
+          "fb2a9ab2859d058fbce3ecc1acdcc2e52f49695e"
+        ]
+      },
+      {
+        "Sha": "843cb14cb5ed82d8ba78d44d68e23faa55acd8a4",
+        "FileName": "LICENSE",
+        "Path": "LICENSE",
+        "DateUpdated": "2019-09-26T09:56:17Z",
+        "Additions": 218,
+        "Deletions": 0,
+        "Commits": [
+          "5feca51111b6dc5d3bf338ba2140a485e92a011b",
+          "5feca51111b6dc5d3bf338ba2140a485e92a011b"
+        ]
+      },
+      {
+        "Sha": "93954885ba1fecea300dd0c232c55c04ade37a1c",
+        "FileName": "NOTICE",
+        "Path": "NOTICE",
+        "DateUpdated": "2019-09-26T09:56:17Z",
+        "Additions": 5,
+        "Deletions": 0,
+        "Commits": [
+          "5feca51111b6dc5d3bf338ba2140a485e92a011b",
+          "5feca51111b6dc5d3bf338ba2140a485e92a011b"
+        ]
+      },
+      {
+        "Sha": "aa53bad138a1930ad20926146437d1592ac6ddbe",
+        "FileName": "README",
+        "Path": "README",
+        "DateUpdated": "2019-09-26T09:56:17Z",
+        "Additions": 47,
+        "Deletions": 0,
+        "Commits": [
+          "5feca51111b6dc5d3bf338ba2140a485e92a011b",
+          "5feca51111b6dc5d3bf338ba2140a485e92a011b"
+        ]
+      },
+      {
+        "Sha": "9a6af62253f2914f6f22d8285ee2ee41a2e04105",
+        "FileName": "RELEASE_NOTES",
+        "Path": "RELEASE_NOTES",
+        "DateUpdated": "2019-09-26T09:56:17Z",
+        "Additions": 25,
+        "Deletions": 0,
+        "Commits": [
+          "5feca51111b6dc5d3bf338ba2140a485e92a011b",
+          "5feca51111b6dc5d3bf338ba2140a485e92a011b"
+        ]
+      },
+      {
+        "Sha": "a2fae998bedda6925ed89a5982894ed47eb0f93f",
+        "FileName": "MavenWrapperDownloader.java",
+        "Path": "code-generation/.mvn/wrapper/MavenWrapperDownloader.java",
+        "DateUpdated": "2019-09-26T09:56:17Z",
+        "Additions": 117,
+        "Deletions": 0,
+        "Commits": [
+          "5feca51111b6dc5d3bf338ba2140a485e92a011b"
+        ]
+      },
+      {
+        "Sha": "e8975771b15b779dc9c83881a3a519c96e54fda7",
+        "FileName": "maven-wrapper.properties",
+        "Path": "code-generation/.mvn/wrapper/maven-wrapper.properties",
+        "DateUpdated": "2019-09-26T09:56:17Z",
+        "Additions": 19,
+        "Deletions": 0,
+        "Commits": [
+          "5feca51111b6dc5d3bf338ba2140a485e92a011b"
+        ]
+      },
+      {
+        "Sha": "afe2c11c0be641eb797677c345b537906c65f55f",
+        "FileName": "mvnw",
+        "Path": "code-generation/mvnw",
+        "DateUpdated": "2019-09-26T09:56:17Z",
+        "Additions": 305,
+        "Deletions": 0,
+        "Commits": [
+          "5feca51111b6dc5d3bf338ba2140a485e92a011b"
+        ]
+      },
+      {
+        "Sha": "025217a4006cec2186c044461a1d2c78b91d4643",
+        "FileName": "mvnw.cmd",
+        "Path": "code-generation/mvnw.cmd",
+        "DateUpdated": "2019-09-26T09:56:17Z",
+        "Additions": 172,
+        "Deletions": 0,
+        "Commits": [
+          "5feca51111b6dc5d3bf338ba2140a485e92a011b"
+        ]
+      },
+      {
+        "Sha": "3bc5544eb2d7cb462f990f18021fb522191248d0",
+        "FileName": "pom.xml",
+        "Path": "code-generation/pom.xml",
+        "DateUpdated": "2019-09-26T09:56:17Z",
+        "Additions": 61,
+        "Deletions": 0,
+        "Commits": [
+          "5feca51111b6dc5d3bf338ba2140a485e92a011b"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "a560d0da5499086b3d68a9b34979b6af9f61fcaa",
+        "Author": {
+          "name": "\"Christofer Dutz\"",
+          "location": "Frankfurt, Germany",
+          "company": "codecentric AG"
+        },
+        "Commitor": {
+          "name": "\"Christofer Dutz\"",
+          "location": "Frankfurt, Germany",
+          "company": "codecentric AG"
+        },
+        "Date": "2019-09-26T09:57:08Z",
+        "additions": 10,
+        "deletions": 10,
+        "files": [
+          "c4bcab58e398703141f79b9d613a4becfaa75bca",
+          "6f1d054838787de8f7f120f84f3dfa4b13959059",
+          "7239e05c06cdad400d370537b918427303bb474b",
+          "5d39eded2bd47ce97d21f5597de8c9572e1ef4f2",
+          "156ad1fe6c5efa69766f6cb7e0e2ece6872834ef"
+        ]
+      },
+      {
+        "sha": "fb2a9ab2859d058fbce3ecc1acdcc2e52f49695e",
+        "Author": {
+          "name": "\"Christofer Dutz\"",
+          "location": "Frankfurt, Germany",
+          "company": "codecentric AG"
+        },
+        "Commitor": {
+          "name": "\"Christofer Dutz\"",
+          "location": "Frankfurt, Germany",
+          "company": "codecentric AG"
+        },
+        "Date": "2019-09-26T09:56:59Z",
+        "additions": 4,
+        "deletions": 8,
+        "files": [
+          "7ebfdbe95f2b702c3febc7a04a0577dd89ba7ae3",
+          "4cdf91006b836edc242d5ffcae33b3f9f96be0aa"
+        ]
+      },
+      {
+        "sha": "5feca51111b6dc5d3bf338ba2140a485e92a011b",
+        "Author": {
+          "name": "\"Christofer Dutz\"",
+          "location": "Frankfurt, Germany",
+          "company": "codecentric AG"
+        },
+        "Commitor": {
+          "name": "\"Christofer Dutz\"",
+          "location": "Frankfurt, Germany",
+          "company": "codecentric AG"
+        },
+        "Date": "2019-09-26T09:56:17Z",
+        "additions": 1264,
+        "deletions": 0,
+        "files": [
+          "843cb14cb5ed82d8ba78d44d68e23faa55acd8a4",
+          "93954885ba1fecea300dd0c232c55c04ade37a1c",
+          "aa53bad138a1930ad20926146437d1592ac6ddbe",
+          "9a6af62253f2914f6f22d8285ee2ee41a2e04105",
+          "a2fae998bedda6925ed89a5982894ed47eb0f93f",
+          "e8975771b15b779dc9c83881a3a519c96e54fda7",
+          "843cb14cb5ed82d8ba78d44d68e23faa55acd8a4",
+          "93954885ba1fecea300dd0c232c55c04ade37a1c",
+          "aa53bad138a1930ad20926146437d1592ac6ddbe",
+          "9a6af62253f2914f6f22d8285ee2ee41a2e04105",
+          "afe2c11c0be641eb797677c345b537906c65f55f",
+          "025217a4006cec2186c044461a1d2c78b91d4643",
+          "3bc5544eb2d7cb462f990f18021fb522191248d0"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "plc4x-build-tools",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T10:04:45Z",
+    "EndDate": "2019-09-26T11:04:45",
+    "Branches": 6,
+    "Forks": 0,
+    "Files": [
+      {
+        "Sha": "1d80e28c79acdea0d7c7ab01f7133423f75aa004",
+        "FileName": "README",
+        "Path": "code-generation/README",
+        "DateUpdated": "2019-09-26T10:43:01Z",
+        "Additions": 1,
+        "Deletions": 1,
+        "Commits": [
+          "99c248e2a696be5333d5d41971a565cc20b83359"
+        ]
+      },
+      {
+        "Sha": "2c244fc5a967eab3961ffaa65885e207a96df443",
+        "FileName": "RELEASE_NOTES",
+        "Path": "code-generation/RELEASE_NOTES",
+        "DateUpdated": "2019-09-26T10:43:01Z",
+        "Additions": 15,
+        "Deletions": 6,
+        "Commits": [
+          "99c248e2a696be5333d5d41971a565cc20b83359"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "99c248e2a696be5333d5d41971a565cc20b83359",
+        "Author": {
+          "name": "\"Christofer Dutz\"",
+          "location": "Frankfurt, Germany",
+          "company": "codecentric AG"
+        },
+        "Commitor": {
+          "name": "\"Christofer Dutz\"",
+          "location": "Frankfurt, Germany",
+          "company": "codecentric AG"
+        },
+        "Date": "2019-09-26T10:43:01Z",
+        "additions": 16,
+        "deletions": 7,
+        "files": [
+          "1d80e28c79acdea0d7c7ab01f7133423f75aa004",
+          "2c244fc5a967eab3961ffaa65885e207a96df443"
+        ]
+      }
+    ]
+  },
+  {
+    "RepositoryName": "plc4x-build-tools",
+    "OwnerName": "apache",
+    "BeginDate": "2019-09-26T12:05:32Z",
+    "EndDate": "2019-09-26T13:05:32",
+    "Branches": 6,
+    "Forks": 0,
+    "Files": [
+      {
+        "Sha": "6fee7849acb22559ff7bd11f2acfa439e62902f2",
+        "FileName": "LICENSE",
+        "Path": "code-generation/LICENSE",
+        "DateUpdated": "2019-09-26T12:33:59Z",
+        "Additions": 0,
+        "Deletions": 7,
+        "Commits": [
+          "d54dd15beb7deef4b3016e5523e67275bc33023a"
+        ]
+      }
+    ],
+    "Commits": [
+      {
+        "sha": "d54dd15beb7deef4b3016e5523e67275bc33023a",
+        "Author": {
+          "name": "\"Christofer Dutz\"",
+          "location": "Frankfurt, Germany",
+          "company": "codecentric AG"
+        },
+        "Commitor": {
+          "name": "\"Christofer Dutz\"",
+          "location": "Frankfurt, Germany",
+          "company": "codecentric AG"
+        },
+        "Date": "2019-09-26T12:33:59Z",
+        "additions": 0,
+        "deletions": 7,
+        "files": [
+          "6fee7849acb22559ff7bd11f2acfa439e62902f2"
+        ]
+      }
+    ]
+  }
+]

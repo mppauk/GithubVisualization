@@ -1,4 +1,4 @@
-    var OrgName = "apache"
+    var OrgName = "Apache"
     var RepoName;
     var DefaultViewTime = 7;
     loadJson(OrgName+"/RecentlyUpdatedRepositories.json").then(initializeOrganizationNetwork).catch(function(error){});

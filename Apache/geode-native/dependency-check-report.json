@@ -1,0 +1,891 @@
+{
+  "reportSchema": "1.1",
+  "scanInfo": {
+    "engineVersion": "5.0.0-M2",
+    "dataSource": [
+      {
+        "name": "NVD CVE 2002",
+        "timestamp": "02/11/2019 03:45:26"
+      },
+      {
+        "name": "NVD CVE 2003",
+        "timestamp": "11/10/2019 03:45:37"
+      },
+      {
+        "name": "NVD CVE 2004",
+        "timestamp": "08/10/2019 08:31:14"
+      },
+      {
+        "name": "NVD CVE 2005",
+        "timestamp": "07/11/2019 04:15:21"
+      },
+      {
+        "name": "NVD CVE 2006",
+        "timestamp": "07/11/2019 04:15:21"
+      },
+      {
+        "name": "NVD CVE 2007",
+        "timestamp": "07/11/2019 04:15:21"
+      },
+      {
+        "name": "NVD CVE 2008",
+        "timestamp": "29/10/2019 03:45:27"
+      },
+      {
+        "name": "NVD CVE 2009",
+        "timestamp": "07/11/2019 04:15:20"
+      },
+      {
+        "name": "NVD CVE 2010",
+        "timestamp": "07/11/2019 03:45:24"
+      },
+      {
+        "name": "NVD CVE 2011",
+        "timestamp": "07/11/2019 03:45:24"
+      },
+      {
+        "name": "NVD CVE 2012",
+        "timestamp": "07/11/2019 03:45:24"
+      },
+      {
+        "name": "NVD CVE 2013",
+        "timestamp": "07/11/2019 03:45:24"
+      },
+      {
+        "name": "NVD CVE 2014",
+        "timestamp": "07/11/2019 03:45:24"
+      },
+      {
+        "name": "NVD CVE 2015",
+        "timestamp": "07/11/2019 03:45:24"
+      },
+      {
+        "name": "NVD CVE 2016",
+        "timestamp": "07/11/2019 03:15:18"
+      },
+      {
+        "name": "NVD CVE 2017",
+        "timestamp": "07/11/2019 03:15:18"
+      },
+      {
+        "name": "NVD CVE 2018",
+        "timestamp": "07/11/2019 02:45:18"
+      },
+      {
+        "name": "NVD CVE 2019",
+        "timestamp": "07/11/2019 02:45:18"
+      },
+      {
+        "name": "NVD CVE Checked",
+        "timestamp": "07/11/2019 08:59:53"
+      },
+      {
+        "name": "NVD CVE Modified",
+        "timestamp": "07/11/2019 07:15:18"
+      },
+      {
+        "name": "VersionCheckOn",
+        "timestamp": "1573138793101"
+      }
+    ]
+  },
+  "projectInfo": {
+    "name": "",
+    "reportDate": "2019-11-07T09:08:42.360-0600",
+    "credits": {
+      "NVD": "This report contains data retrieved from the National Vulnerability Database: http://nvd.nist.gov",
+      "NPM": "This report may contain data retrieved from the NPM Public Advisories: https://www.npmjs.com/advisories",
+      "RETIREJS": "This report may contain data retrieved from the RetireJS community: https://retirejs.github.io/retire.js/"
+    }
+  },
+  "dependencies": [
+    {
+      "isVirtual": false,
+      "fileName": "context.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\docs\\geode-native-book-dotnet\\master_middleman\\source\\javascripts\\waypoints\\context.js",
+      "md5": "df343cf90e1ec948127ef51f16051d93",
+      "sha1": "fb75a1f6cecdfe69b27141d615c5f230118c171e",
+      "sha256": "2b8bdffbf72b8dbd58d0625a45a1e2be1e4aab3775fc9159e3ddb1a89a3553fa",
+      "relatedDependencies": [
+        {
+          "isVirtual": false,
+          "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\docs\\geode-native-book-cpp\\master_middleman\\source\\javascripts\\waypoints\\context.js",
+          "sha256": "2b8bdffbf72b8dbd58d0625a45a1e2be1e4aab3775fc9159e3ddb1a89a3553fa",
+          "sha1": "fb75a1f6cecdfe69b27141d615c5f230118c171e",
+          "md5": "df343cf90e1ec948127ef51f16051d93"
+        }
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "noframeworkAdapter.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\docs\\geode-native-book-dotnet\\master_middleman\\source\\javascripts\\waypoints\\noframeworkAdapter.js",
+      "md5": "031f45e7e6486d8b10bf8cd756f50ebd",
+      "sha1": "0317876c4428991db25e9320206a54a4cefb172b",
+      "sha256": "99d0a57033bea179faaa9116cfd9c9c81505feb26034a22bb0df64c1d776f588",
+      "relatedDependencies": [
+        {
+          "isVirtual": false,
+          "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\docs\\geode-native-book-cpp\\master_middleman\\source\\javascripts\\waypoints\\noframeworkAdapter.js",
+          "sha256": "99d0a57033bea179faaa9116cfd9c9c81505feb26034a22bb0df64c1d776f588",
+          "sha1": "0317876c4428991db25e9320206a54a4cefb172b",
+          "md5": "031f45e7e6486d8b10bf8cd756f50ebd"
+        }
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "group.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\docs\\geode-native-book-cpp\\master_middleman\\source\\javascripts\\waypoints\\group.js",
+      "md5": "87a6eb59d29ecaa499a72af6b28731e6",
+      "sha1": "9e2dc8c2597af252f2c954cfbf87d0c1542d324f",
+      "sha256": "0d3d8cd6975f670960d35997980deb7286765d86d016f533942d47e083c737e4",
+      "relatedDependencies": [
+        {
+          "isVirtual": false,
+          "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\docs\\geode-native-book-dotnet\\master_middleman\\source\\javascripts\\waypoints\\group.js",
+          "sha256": "0d3d8cd6975f670960d35997980deb7286765d86d016f533942d47e083c737e4",
+          "sha1": "9e2dc8c2597af252f2c954cfbf87d0c1542d324f",
+          "md5": "87a6eb59d29ecaa499a72af6b28731e6"
+        }
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "Gemfile.lock",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\docs\\geode-native-book-dotnet\\Gemfile.lock",
+      "md5": "63405b3b925e598f4ee6e7b2d2cd52a4",
+      "sha1": "aaaecc951762d4559e5a515d67ac5edcf35199fa",
+      "sha256": "9579e9f33f5733fb7b170014045e7e566f76f5bdd0d3f4488e0e8832f7aacd66",
+      "relatedDependencies": [
+        {
+          "isVirtual": false,
+          "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\docs\\geode-native-book-cpp\\Gemfile.lock",
+          "sha256": "9579e9f33f5733fb7b170014045e7e566f76f5bdd0d3f4488e0e8832f7aacd66",
+          "sha1": "aaaecc951762d4559e5a515d67ac5edcf35199fa",
+          "md5": "63405b3b925e598f4ee6e7b2d2cd52a4"
+        }
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "waypoint.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\docs\\geode-native-book-dotnet\\master_middleman\\source\\javascripts\\waypoints\\waypoint.js",
+      "md5": "20504b2267aaed3a2ba2f11ae53fb066",
+      "sha1": "5b1be4162942d8c5d291b60c23b357b0f3ee0039",
+      "sha256": "ad29a1aeb3a3cc2a21b8fe6e83e7fc6ca603e9ed9478e8279e642de7d44e05a4",
+      "relatedDependencies": [
+        {
+          "isVirtual": false,
+          "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\docs\\geode-native-book-cpp\\master_middleman\\source\\javascripts\\waypoints\\waypoint.js",
+          "sha256": "ad29a1aeb3a3cc2a21b8fe6e83e7fc6ca603e9ed9478e8279e642de7d44e05a4",
+          "sha1": "5b1be4162942d8c5d291b60c23b357b0f3ee0039",
+          "md5": "20504b2267aaed3a2ba2f11ae53fb066"
+        }
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "book.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\docs\\geode-native-book-cpp\\master_middleman\\source\\javascripts\\book.js",
+      "md5": "d1e2bff38626e822507f82fe605f8e96",
+      "sha1": "6925982e50fd3ddce409970ef1101b56ea001ece",
+      "sha256": "3fd76002425feec294c9a7b0043d94ea4e5519e4b611df7710f6ecab11d2e06e",
+      "relatedDependencies": [
+        {
+          "isVirtual": false,
+          "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\docs\\geode-native-book-dotnet\\master_middleman\\source\\javascripts\\book.js",
+          "sha256": "3fd76002425feec294c9a7b0043d94ea4e5519e4b611df7710f6ecab11d2e06e",
+          "sha1": "6925982e50fd3ddce409970ef1101b56ea001ece",
+          "md5": "d1e2bff38626e822507f82fe605f8e96"
+        }
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "sticky.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\docs\\geode-native-book-cpp\\master_middleman\\source\\javascripts\\waypoints\\sticky.js",
+      "md5": "c4bedf604fde536ab322e5d1bdc639cc",
+      "sha1": "df3301fb1533d9a471d997b218c6bdd216a76c79",
+      "sha256": "ff25a4ae282c74a967050ea98969858a6e6d6036101e33963debf868e145bb1b",
+      "relatedDependencies": [
+        {
+          "isVirtual": false,
+          "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\docs\\geode-native-book-dotnet\\master_middleman\\source\\javascripts\\waypoints\\sticky.js",
+          "sha256": "ff25a4ae282c74a967050ea98969858a6e6d6036101e33963debf868e145bb1b",
+          "sha1": "df3301fb1533d9a471d997b218c6bdd216a76c79",
+          "md5": "c4bedf604fde536ab322e5d1bdc639cc"
+        }
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "packages.config",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\clicache\\test2\\packages.config",
+      "md5": "422b12015aa08a1ca39acd19c32e6d04",
+      "sha1": "c6bf41dba1a33e62ce3175494510d2fa4f5c73da",
+      "sha256": "13e5807dec94e90ba2b5daa9416a5aa4239718b749384209a828303e30669382",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "packages.config",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\clicache\\integration-test2\\packages.config",
+      "md5": "2879937b5479b7c6579cc28861266e73",
+      "sha1": "88eb288503438832214df7c289bbd51b9f6f9438",
+      "sha256": "3fc9ec95bbf45608fba8f8968a41ad1b6cf8cc3952d0fe08653be33005af5d80",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": true,
+      "fileName": "Microsoft.VisualStudio.TestPlatform:14.0.0.1",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\clicache\\integration-test2\\packages.config",
+      "relatedDependencies": [
+        {
+          "isVirtual": true,
+          "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\clicache\\test2\\packages.config",
+          "packageIds": [
+            {
+              "id": "pkg:nuget/Microsoft.VisualStudio.TestPlatform@14.0.0.1"
+            }
+          ]
+        }
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "packages.config",
+            "name": "id",
+            "value": "Microsoft"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "packages.config",
+            "name": "id",
+            "value": "Microsoft.VisualStudio.TestPlatform"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "packages.config",
+            "name": "id",
+            "value": "VisualStudio.TestPlatform"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "packages.config",
+            "name": "id",
+            "value": "VisualStudio"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "packages.config",
+            "name": "version",
+            "value": "14.0.0.1"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/Microsoft.VisualStudio.TestPlatform@14.0.0.1",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "xunit:2.4.0",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\clicache\\integration-test2\\packages.config",
+      "relatedDependencies": [
+        {
+          "isVirtual": true,
+          "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\clicache\\test2\\packages.config",
+          "packageIds": [
+            {
+              "id": "pkg:nuget/xunit@2.4.0"
+            }
+          ]
+        }
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "LOW",
+            "source": "packages.config",
+            "name": "id",
+            "value": "xunit"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "packages.config",
+            "name": "id",
+            "value": "xunit"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "packages.config",
+            "name": "version",
+            "value": "2.4.0"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/xunit@2.4.0",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "xunit.abstractions:2.0.2",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\clicache\\integration-test2\\packages.config",
+      "relatedDependencies": [
+        {
+          "isVirtual": true,
+          "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\clicache\\test2\\packages.config",
+          "packageIds": [
+            {
+              "id": "pkg:nuget/xunit.abstractions@2.0.2"
+            }
+          ]
+        }
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "packages.config",
+            "name": "id",
+            "value": "xunit"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "packages.config",
+            "name": "id",
+            "value": "xunit.abstractions"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "packages.config",
+            "name": "id",
+            "value": "abstractions"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "packages.config",
+            "name": "version",
+            "value": "2.0.2"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/xunit.abstractions@2.0.2",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "xunit.analyzers:0.10.0",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\clicache\\integration-test2\\packages.config",
+      "relatedDependencies": [
+        {
+          "isVirtual": true,
+          "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\clicache\\test2\\packages.config",
+          "packageIds": [
+            {
+              "id": "pkg:nuget/xunit.analyzers@0.10.0"
+            }
+          ]
+        }
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "packages.config",
+            "name": "id",
+            "value": "xunit"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "packages.config",
+            "name": "id",
+            "value": "analyzers"
+          },
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "packages.config",
+            "name": "id",
+            "value": "xunit.analyzers"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "packages.config",
+            "name": "version",
+            "value": "0.10.0"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/xunit.analyzers@0.10.0",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "xunit.assert:2.4.0",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\clicache\\integration-test2\\packages.config",
+      "relatedDependencies": [
+        {
+          "isVirtual": true,
+          "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\clicache\\test2\\packages.config",
+          "packageIds": [
+            {
+              "id": "pkg:nuget/xunit.assert@2.4.0"
+            }
+          ]
+        }
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "packages.config",
+            "name": "id",
+            "value": "xunit"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "packages.config",
+            "name": "id",
+            "value": "assert"
+          },
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "packages.config",
+            "name": "id",
+            "value": "xunit.assert"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "packages.config",
+            "name": "version",
+            "value": "2.4.0"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/xunit.assert@2.4.0",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "xunit.core:2.4.0",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\clicache\\integration-test2\\packages.config",
+      "relatedDependencies": [
+        {
+          "isVirtual": true,
+          "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\clicache\\test2\\packages.config",
+          "packageIds": [
+            {
+              "id": "pkg:nuget/xunit.core@2.4.0"
+            }
+          ]
+        }
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "packages.config",
+            "name": "id",
+            "value": "xunit"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "packages.config",
+            "name": "id",
+            "value": "core"
+          },
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "packages.config",
+            "name": "id",
+            "value": "xunit.core"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "packages.config",
+            "name": "version",
+            "value": "2.4.0"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/xunit.core@2.4.0",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "xunit.extensibility.core:2.4.0",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\clicache\\integration-test2\\packages.config",
+      "relatedDependencies": [
+        {
+          "isVirtual": true,
+          "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\clicache\\test2\\packages.config",
+          "packageIds": [
+            {
+              "id": "pkg:nuget/xunit.extensibility.core@2.4.0"
+            }
+          ]
+        }
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "packages.config",
+            "name": "id",
+            "value": "xunit"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "packages.config",
+            "name": "id",
+            "value": "extensibility.core"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "packages.config",
+            "name": "id",
+            "value": "extensibility"
+          },
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "packages.config",
+            "name": "id",
+            "value": "xunit.extensibility.core"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "packages.config",
+            "name": "version",
+            "value": "2.4.0"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/xunit.extensibility.core@2.4.0",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "xunit.extensibility.execution:2.4.0",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\clicache\\integration-test2\\packages.config",
+      "relatedDependencies": [
+        {
+          "isVirtual": true,
+          "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\clicache\\test2\\packages.config",
+          "packageIds": [
+            {
+              "id": "pkg:nuget/xunit.extensibility.execution@2.4.0"
+            }
+          ]
+        }
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "packages.config",
+            "name": "id",
+            "value": "xunit"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "packages.config",
+            "name": "id",
+            "value": "extensibility"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "packages.config",
+            "name": "id",
+            "value": "extensibility.execution"
+          },
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "packages.config",
+            "name": "id",
+            "value": "xunit.extensibility.execution"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "packages.config",
+            "name": "version",
+            "value": "2.4.0"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/xunit.extensibility.execution@2.4.0",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "xunit.runner.console:2.4.0",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\clicache\\integration-test2\\packages.config",
+      "relatedDependencies": [
+        {
+          "isVirtual": true,
+          "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\clicache\\test2\\packages.config",
+          "packageIds": [
+            {
+              "id": "pkg:nuget/xunit.runner.console@2.4.0"
+            }
+          ]
+        }
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "packages.config",
+            "name": "id",
+            "value": "xunit"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "packages.config",
+            "name": "id",
+            "value": "runner"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "packages.config",
+            "name": "id",
+            "value": "runner.console"
+          },
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "packages.config",
+            "name": "id",
+            "value": "xunit.runner.console"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "packages.config",
+            "name": "version",
+            "value": "2.4.0"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/xunit.runner.console@2.4.0",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "xunit.runner.visualstudio:2.4.0",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\clicache\\integration-test2\\packages.config",
+      "relatedDependencies": [
+        {
+          "isVirtual": true,
+          "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\geode-native\\clicache\\test2\\packages.config",
+          "packageIds": [
+            {
+              "id": "pkg:nuget/xunit.runner.visualstudio@2.4.0"
+            }
+          ]
+        }
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "packages.config",
+            "name": "id",
+            "value": "xunit"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "packages.config",
+            "name": "id",
+            "value": "runner"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "packages.config",
+            "name": "id",
+            "value": "runner.visualstudio"
+          },
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "packages.config",
+            "name": "id",
+            "value": "xunit.runner.visualstudio"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "packages.config",
+            "name": "version",
+            "value": "2.4.0"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/xunit.runner.visualstudio@2.4.0",
+          "confidence": "HIGHEST"
+        }
+      ]
+    }
+  ]
+}

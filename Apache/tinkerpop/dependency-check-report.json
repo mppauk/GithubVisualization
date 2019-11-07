@@ -1,0 +1,3751 @@
+{
+  "reportSchema": "1.1",
+  "scanInfo": {
+    "engineVersion": "5.0.0-M2",
+    "dataSource": [
+      {
+        "name": "NVD CVE 2002",
+        "timestamp": "02/11/2019 03:45:26"
+      },
+      {
+        "name": "NVD CVE 2003",
+        "timestamp": "11/10/2019 03:45:37"
+      },
+      {
+        "name": "NVD CVE 2004",
+        "timestamp": "08/10/2019 08:31:14"
+      },
+      {
+        "name": "NVD CVE 2005",
+        "timestamp": "07/11/2019 04:15:21"
+      },
+      {
+        "name": "NVD CVE 2006",
+        "timestamp": "07/11/2019 04:15:21"
+      },
+      {
+        "name": "NVD CVE 2007",
+        "timestamp": "07/11/2019 04:15:21"
+      },
+      {
+        "name": "NVD CVE 2008",
+        "timestamp": "29/10/2019 03:45:27"
+      },
+      {
+        "name": "NVD CVE 2009",
+        "timestamp": "07/11/2019 04:15:20"
+      },
+      {
+        "name": "NVD CVE 2010",
+        "timestamp": "07/11/2019 03:45:24"
+      },
+      {
+        "name": "NVD CVE 2011",
+        "timestamp": "07/11/2019 03:45:24"
+      },
+      {
+        "name": "NVD CVE 2012",
+        "timestamp": "07/11/2019 03:45:24"
+      },
+      {
+        "name": "NVD CVE 2013",
+        "timestamp": "07/11/2019 03:45:24"
+      },
+      {
+        "name": "NVD CVE 2014",
+        "timestamp": "07/11/2019 03:45:24"
+      },
+      {
+        "name": "NVD CVE 2015",
+        "timestamp": "07/11/2019 03:45:24"
+      },
+      {
+        "name": "NVD CVE 2016",
+        "timestamp": "07/11/2019 03:15:18"
+      },
+      {
+        "name": "NVD CVE 2017",
+        "timestamp": "07/11/2019 03:15:18"
+      },
+      {
+        "name": "NVD CVE 2018",
+        "timestamp": "07/11/2019 02:45:18"
+      },
+      {
+        "name": "NVD CVE 2019",
+        "timestamp": "07/11/2019 02:45:18"
+      },
+      {
+        "name": "NVD CVE Checked",
+        "timestamp": "07/11/2019 08:59:53"
+      },
+      {
+        "name": "NVD CVE Modified",
+        "timestamp": "07/11/2019 07:15:18"
+      },
+      {
+        "name": "VersionCheckOn",
+        "timestamp": "1573138793101"
+      }
+    ]
+  },
+  "projectInfo": {
+    "name": "",
+    "reportDate": "2019-11-07T09:39:37.292-0600",
+    "credits": {
+      "NVD": "This report contains data retrieved from the National Vulnerability Database: http://nvd.nist.gov",
+      "NPM": "This report may contain data retrieved from the NPM Public Advisories: https://www.npmjs.com/advisories",
+      "RETIREJS": "This report may contain data retrieved from the RetireJS community: https://retirejs.github.io/retire.js/"
+    }
+  },
+  "dependencies": [
+    {
+      "isVirtual": false,
+      "fileName": "exports-test.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\test\\unit\\exports-test.js",
+      "md5": "eb7898ced213d3b7e24750f89a665845",
+      "sha1": "f38605819a15a23c6319dc50dfd67686390ac7b6",
+      "sha256": "5443a1ea4a7f7a2d1ce224e058c96daae6d61628fd6b541d8c948d0205f7eda1",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "sasl-authentication-tests.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\test\\integration\\sasl-authentication-tests.js",
+      "md5": "4e015a4e42f3f2af7e518f6cf6fbb17f",
+      "sha1": "a3f87ecedd502da93df104c53d4046c02ff6e207",
+      "sha256": "efad5ea0216283fb251935ff98fef254dd52044eff96953917f046d6b1d80d3f",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "Gremlin.Net.UnitTest.csproj",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\test\\Gremlin.Net.UnitTest\\Gremlin.Net.UnitTest.csproj",
+      "md5": "7041c734aafa46be82aea3ffe6ed88e2",
+      "sha1": "8de7acc2f52bfd006b04239461dfb2e400f082a7",
+      "sha256": "a00fc08b8c457464aca94fc2afea9065e361105278f313b09c75114b9be92e1d",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "Gremlin.Net.UnitTest"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "Gremlin.Net.UnitTest"
+          }
+        ],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "traversal-strategy.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\lib\\process\\traversal-strategy.js",
+      "md5": "e7d46fa5652e3e67733a0dcc14931144",
+      "sha1": "5143d9998164b3dd3952e95fca3336afe166cd97",
+      "sha256": "7465583832b93ecad58014cc5b9a3829620505625a4a1e35a20a54ed5f64ca96",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "response-error.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\lib\\driver\\response-error.js",
+      "md5": "be64c5b03e051df7509bcf71a2cf96c3",
+      "sha1": "6906649881b3de30daae3956d4c3fce62b1b6afd",
+      "sha256": "89e10a64268e3c9b0b3ddf2d8931ccaf784d888e89f59b4e90c43d5c9c2550f8",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "bootstrap-3.3.5.min.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\docs\\site\\home\\js\\bootstrap-3.3.5.min.js",
+      "md5": "e7d9a06cf9053c51cd4ad3386da0659a",
+      "sha1": "e45bf1054704a1fdfc4ee2713a16bf9283dea995",
+      "sha256": "9a3724b2051a82064c923cbd68343dcb04014adac3ccb8c4d8ac6a31ba2e12cd",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "bootstrap"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "version",
+            "value": "3.3.5.min"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:javascript/bootstrap@3.3.5.min",
+          "confidence": "HIGHEST"
+        }
+      ],
+      "vulnerabilities": [
+        {
+          "source": "NVD",
+          "name": "CVE-2018-14040",
+          "cvssv2": {
+            "score": 4.3,
+            "accessVector": "NETWORK",
+            "accessComplexity": "MEDIUM",
+            "authenticationr>": "NONE",
+            "confidentialImpact": "NONE",
+            "integrityImpact": "NONE",
+            "availabilityImpact": "NONE",
+            "severity": "MEDIUM"
+          },
+          "cvssv3": {
+            "baseScore": 6.1,
+            "attackVector": "NETWORK",
+            "attackComplexity": "LOW",
+            "privilegesRequired": "NONE",
+            "userInteraction": "REQUIRED",
+            "scope": "CHANGED",
+            "confidentialityImpact": "LOW",
+            "integrityImpact": "LOW",
+            "availabilityImpact": "NONE",
+            "baseSeverity>": "MEDIUM"
+          },
+          "cwes": [
+            "CWE-79"
+          ],
+          "description": "In Bootstrap before 4.1.2, XSS is possible in the collapse data-parent attribute.",
+          "notes": "",
+          "references": [
+            {
+              "source": "MISC",
+              "url": "https://github.com/twbs/bootstrap/pull/26630",
+              "name": "https://github.com/twbs/bootstrap/pull/26630"
+            },
+            {
+              "source": "info",
+              "url": "https://github.com/twbs/bootstrap/issues/20184",
+              "name": "info"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/twbs/bootstrap/issues/26625",
+              "name": "https://github.com/twbs/bootstrap/issues/26625"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/52e0e6b5df827ee7f1e68f7cc3babe61af3b2160f5d74a85469b7b0e@%3Cdev.superset.apache.org%3E",
+              "name": "[superset-dev] 20190926 Re: [VOTE] Release Superset 0.34.1 based on Superset 0.34.1rc1"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/f9bc3e55f4e28d1dcd1a69aae6d53e609a758e34d2869b4d798e13cc@%3Cissues.drill.apache.org%3E",
+              "name": "[drill-issues] 20191021 [jira] [Created] (DRILL-7416) Updates required to dependencies to resolve potential security vulnerabilities"
+            },
+            {
+              "source": "BUGTRAQ",
+              "url": "https://seclists.org/bugtraq/2019/May/18",
+              "name": "20190509 dotCMS v5.1.1 Vulnerabilities"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/b0656d359c7d40ec9f39c8cc61bca66802ef9a2a12ee199f5b0c1442@%3Cdev.drill.apache.org%3E",
+              "name": "[drill-dev] 20191017 Dependencies used by Drill contain known vulnerabilities"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/13",
+              "name": "20190510 Re: dotCMS v5.1.1 HTML Injection & XSS Vulnerability"
+            },
+            {
+              "source": "MISC",
+              "url": "https://blog.getbootstrap.com/2018/07/12/bootstrap-4-1-2/",
+              "name": "https://blog.getbootstrap.com/2018/07/12/bootstrap-4-1-2/"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/11",
+              "name": "20190510 dotCMS v5.1.1 HTML Injection & XSS Vulnerability"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/twbs/bootstrap/issues/26423",
+              "name": "https://github.com/twbs/bootstrap/issues/26423"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/519eb0fd45642dcecd9ff74cb3e71c20a4753f7d82e2f07864b5108f@%3Cdev.drill.apache.org%3E",
+              "name": "[drill-dev] 20191021 [jira] [Created] (DRILL-7416) Updates required to dependencies to resolve potential security vulnerabilities"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.debian.org/debian-lts-announce/2018/08/msg00027.html",
+              "name": "[debian-lts-announce] 20180827 [SECURITY] [DLA 1479-1] twitter-bootstrap3 security update"
+            },
+            {
+              "source": "MISC",
+              "url": "http://packetstormsecurity.com/files/152787/dotCMS-5.1.1-Vulnerable-Dependencies.html",
+              "name": "http://packetstormsecurity.com/files/152787/dotCMS-5.1.1-Vulnerable-Dependencies.html"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/10",
+              "name": "20190510 dotCMS v5.1.1 Vulnerabilities"
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha2:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "4.0.0",
+                "versionEndExcluding": "4.1.2"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:beta3:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha4:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha3:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha6:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:*:*:*:*:*:*:*:*",
+                "versionEndExcluding": "3.4.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:beta:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha5:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:beta2:*:*:*:*:*:*"
+              }
+            }
+          ]
+        },
+        {
+          "source": "NVD",
+          "name": "CVE-2018-14041",
+          "cvssv2": {
+            "score": 4.3,
+            "accessVector": "NETWORK",
+            "accessComplexity": "MEDIUM",
+            "authenticationr>": "NONE",
+            "confidentialImpact": "NONE",
+            "integrityImpact": "NONE",
+            "availabilityImpact": "NONE",
+            "severity": "MEDIUM"
+          },
+          "cvssv3": {
+            "baseScore": 6.1,
+            "attackVector": "NETWORK",
+            "attackComplexity": "LOW",
+            "privilegesRequired": "NONE",
+            "userInteraction": "REQUIRED",
+            "scope": "CHANGED",
+            "confidentialityImpact": "LOW",
+            "integrityImpact": "LOW",
+            "availabilityImpact": "NONE",
+            "baseSeverity>": "MEDIUM"
+          },
+          "cwes": [
+            "CWE-79"
+          ],
+          "description": "In Bootstrap before 4.1.2, XSS is possible in the data-target property of scrollspy.",
+          "notes": "",
+          "references": [
+            {
+              "source": "MISC",
+              "url": "https://github.com/twbs/bootstrap/pull/26630",
+              "name": "https://github.com/twbs/bootstrap/pull/26630"
+            },
+            {
+              "source": "info",
+              "url": "https://github.com/twbs/bootstrap/issues/20184",
+              "name": "info"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/twbs/bootstrap/issues/26627",
+              "name": "https://github.com/twbs/bootstrap/issues/26627"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/52e0e6b5df827ee7f1e68f7cc3babe61af3b2160f5d74a85469b7b0e@%3Cdev.superset.apache.org%3E",
+              "name": "[superset-dev] 20190926 Re: [VOTE] Release Superset 0.34.1 based on Superset 0.34.1rc1"
+            },
+            {
+              "source": "REDHAT",
+              "url": "https://access.redhat.com/errata/RHSA-2019:1456",
+              "name": "RHSA-2019:1456"
+            },
+            {
+              "source": "BUGTRAQ",
+              "url": "https://seclists.org/bugtraq/2019/May/18",
+              "name": "20190509 dotCMS v5.1.1 Vulnerabilities"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/b0656d359c7d40ec9f39c8cc61bca66802ef9a2a12ee199f5b0c1442@%3Cdev.drill.apache.org%3E",
+              "name": "[drill-dev] 20191017 Dependencies used by Drill contain known vulnerabilities"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/13",
+              "name": "20190510 Re: dotCMS v5.1.1 HTML Injection & XSS Vulnerability"
+            },
+            {
+              "source": "MISC",
+              "url": "https://blog.getbootstrap.com/2018/07/12/bootstrap-4-1-2/",
+              "name": "https://blog.getbootstrap.com/2018/07/12/bootstrap-4-1-2/"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/11",
+              "name": "20190510 dotCMS v5.1.1 HTML Injection & XSS Vulnerability"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/twbs/bootstrap/issues/26423",
+              "name": "https://github.com/twbs/bootstrap/issues/26423"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/519eb0fd45642dcecd9ff74cb3e71c20a4753f7d82e2f07864b5108f@%3Cdev.drill.apache.org%3E",
+              "name": "[drill-dev] 20191021 [jira] [Created] (DRILL-7416) Updates required to dependencies to resolve potential security vulnerabilities"
+            },
+            {
+              "source": "MISC",
+              "url": "http://packetstormsecurity.com/files/152787/dotCMS-5.1.1-Vulnerable-Dependencies.html",
+              "name": "http://packetstormsecurity.com/files/152787/dotCMS-5.1.1-Vulnerable-Dependencies.html"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/10",
+              "name": "20190510 dotCMS v5.1.1 Vulnerabilities"
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha2:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "4.0.0",
+                "versionEndExcluding": "4.1.2"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:beta3:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha4:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha3:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha6:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:beta:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha5:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:beta2:*:*:*:*:*:*"
+              }
+            }
+          ]
+        },
+        {
+          "source": "NVD",
+          "name": "CVE-2018-14042",
+          "cvssv2": {
+            "score": 4.3,
+            "accessVector": "NETWORK",
+            "accessComplexity": "MEDIUM",
+            "authenticationr>": "NONE",
+            "confidentialImpact": "NONE",
+            "integrityImpact": "NONE",
+            "availabilityImpact": "NONE",
+            "severity": "MEDIUM"
+          },
+          "cvssv3": {
+            "baseScore": 6.1,
+            "attackVector": "NETWORK",
+            "attackComplexity": "LOW",
+            "privilegesRequired": "NONE",
+            "userInteraction": "REQUIRED",
+            "scope": "CHANGED",
+            "confidentialityImpact": "LOW",
+            "integrityImpact": "LOW",
+            "availabilityImpact": "NONE",
+            "baseSeverity>": "MEDIUM"
+          },
+          "cwes": [
+            "CWE-79"
+          ],
+          "description": "In Bootstrap before 4.1.2, XSS is possible in the data-container property of tooltip.",
+          "notes": "",
+          "references": [
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/13",
+              "name": "20190510 Re: dotCMS v5.1.1 HTML Injection & XSS Vulnerability"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/twbs/bootstrap/pull/26630",
+              "name": "https://github.com/twbs/bootstrap/pull/26630"
+            },
+            {
+              "source": "info",
+              "url": "https://github.com/twbs/bootstrap/issues/20184",
+              "name": "info"
+            },
+            {
+              "source": "MISC",
+              "url": "https://blog.getbootstrap.com/2018/07/12/bootstrap-4-1-2/",
+              "name": "https://blog.getbootstrap.com/2018/07/12/bootstrap-4-1-2/"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/twbs/bootstrap/issues/26628",
+              "name": "https://github.com/twbs/bootstrap/issues/26628"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/11",
+              "name": "20190510 dotCMS v5.1.1 HTML Injection & XSS Vulnerability"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/twbs/bootstrap/issues/26423",
+              "name": "https://github.com/twbs/bootstrap/issues/26423"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/519eb0fd45642dcecd9ff74cb3e71c20a4753f7d82e2f07864b5108f@%3Cdev.drill.apache.org%3E",
+              "name": "[drill-dev] 20191021 [jira] [Created] (DRILL-7416) Updates required to dependencies to resolve potential security vulnerabilities"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/52e0e6b5df827ee7f1e68f7cc3babe61af3b2160f5d74a85469b7b0e@%3Cdev.superset.apache.org%3E",
+              "name": "[superset-dev] 20190926 Re: [VOTE] Release Superset 0.34.1 based on Superset 0.34.1rc1"
+            },
+            {
+              "source": "BUGTRAQ",
+              "url": "https://seclists.org/bugtraq/2019/May/18",
+              "name": "20190509 dotCMS v5.1.1 Vulnerabilities"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/10",
+              "name": "20190510 dotCMS v5.1.1 Vulnerabilities"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/b0656d359c7d40ec9f39c8cc61bca66802ef9a2a12ee199f5b0c1442@%3Cdev.drill.apache.org%3E",
+              "name": "[drill-dev] 20191017 Dependencies used by Drill contain known vulnerabilities"
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha2:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "4.0.0",
+                "versionEndExcluding": "4.1.2"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:beta3:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha4:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha3:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha6:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:*:*:*:*:*:*:*:*",
+                "versionEndExcluding": "3.4.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:beta:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:alpha5:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:4.0.0:beta2:*:*:*:*:*:*"
+              }
+            }
+          ]
+        },
+        {
+          "source": "NVD",
+          "name": "CVE-2019-8331",
+          "cvssv2": {
+            "score": 4.3,
+            "accessVector": "NETWORK",
+            "accessComplexity": "MEDIUM",
+            "authenticationr>": "NONE",
+            "confidentialImpact": "NONE",
+            "integrityImpact": "NONE",
+            "availabilityImpact": "NONE",
+            "severity": "MEDIUM"
+          },
+          "cvssv3": {
+            "baseScore": 6.1,
+            "attackVector": "NETWORK",
+            "attackComplexity": "LOW",
+            "privilegesRequired": "NONE",
+            "userInteraction": "REQUIRED",
+            "scope": "CHANGED",
+            "confidentialityImpact": "LOW",
+            "integrityImpact": "LOW",
+            "availabilityImpact": "NONE",
+            "baseSeverity>": "MEDIUM"
+          },
+          "cwes": [
+            "CWE-79"
+          ],
+          "description": "In Bootstrap before 3.4.1 and 4.3.x before 4.3.1, XSS is possible in the tooltip or popover data-template attribute.",
+          "notes": "",
+          "references": [
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/52bafac05ad174000ea465fe275fd3cc7bd5c25535a7631c0bc9bfb2@%3Cuser.flink.apache.org%3E",
+              "name": "[flink-user] 20190813 Re: Apache flink 1.7.2 security issues"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/52e0e6b5df827ee7f1e68f7cc3babe61af3b2160f5d74a85469b7b0e@%3Cdev.superset.apache.org%3E",
+              "name": "[superset-dev] 20190926 Re: [VOTE] Release Superset 0.34.1 based on Superset 0.34.1rc1"
+            },
+            {
+              "source": "REDHAT",
+              "url": "https://access.redhat.com/errata/RHSA-2019:1456",
+              "name": "RHSA-2019:1456"
+            },
+            {
+              "source": "REDHAT",
+              "url": "https://access.redhat.com/errata/RHSA-2019:3024",
+              "name": "RHSA-2019:3024"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/twbs/bootstrap/pull/28236",
+              "name": "https://github.com/twbs/bootstrap/pull/28236"
+            },
+            {
+              "source": "BUGTRAQ",
+              "url": "https://seclists.org/bugtraq/2019/May/18",
+              "name": "20190509 dotCMS v5.1.1 Vulnerabilities"
+            },
+            {
+              "source": "CONFIRM",
+              "url": "https://support.f5.com/csp/article/K24383845",
+              "name": "https://support.f5.com/csp/article/K24383845"
+            },
+            {
+              "source": "CONFIRM",
+              "url": "https://blog.getbootstrap.com/2019/02/13/bootstrap-4-3-1-and-3-4-1/",
+              "name": "https://blog.getbootstrap.com/2019/02/13/bootstrap-4-3-1-and-3-4-1/"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/twbs/bootstrap/releases/tag/v3.4.1",
+              "name": "https://github.com/twbs/bootstrap/releases/tag/v3.4.1"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/10f0f3aefd51444d1198c65f44ffdf2d78ca3359423dbc1c168c9731@%3Cdev.flink.apache.org%3E",
+              "name": "[flink-dev] 20190811 Apache flink 1.7.2 security issues"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/b0656d359c7d40ec9f39c8cc61bca66802ef9a2a12ee199f5b0c1442@%3Cdev.drill.apache.org%3E",
+              "name": "[drill-dev] 20191017 Dependencies used by Drill contain known vulnerabilities"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/13",
+              "name": "20190510 Re: dotCMS v5.1.1 HTML Injection & XSS Vulnerability"
+            },
+            {
+              "source": "REDHAT",
+              "url": "https://access.redhat.com/errata/RHSA-2019:3023",
+              "name": "RHSA-2019:3023"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/17ff53f7999e74fbe3cc0ceb4e1c3b00b180b7c5afec8e978837bc49@%3Cuser.flink.apache.org%3E",
+              "name": "[flink-user] 20190813 Apache flink 1.7.2 security issues"
+            },
+            {
+              "source": "BID",
+              "url": "http://www.securityfocus.com/bid/107375",
+              "name": "107375"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/twbs/bootstrap/releases/tag/v4.3.1",
+              "name": "https://github.com/twbs/bootstrap/releases/tag/v4.3.1"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/11",
+              "name": "20190510 dotCMS v5.1.1 HTML Injection & XSS Vulnerability"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/519eb0fd45642dcecd9ff74cb3e71c20a4753f7d82e2f07864b5108f@%3Cdev.drill.apache.org%3E",
+              "name": "[drill-dev] 20191021 [jira] [Created] (DRILL-7416) Updates required to dependencies to resolve potential security vulnerabilities"
+            },
+            {
+              "source": "info",
+              "url": "https://github.com/twbs/bootstrap/issues/28236",
+              "name": "info"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/54df3aeb4239b64b50b356f0ca6f986e3c4ca5b84c515dce077c7854@%3Cuser.flink.apache.org%3E",
+              "name": "[flink-user] 20190811 Apache flink 1.7.2 security issues"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/10",
+              "name": "20190510 dotCMS v5.1.1 Vulnerabilities"
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_local_traffic_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_fraud_protection_service:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_access_policy_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_application_acceleration_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_global_traffic_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_link_controller:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_application_security_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_link_controller:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:*:*:*:*:*:*:*:*",
+                "versionEndExcluding": "3.4.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_link_controller:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_access_policy_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_advanced_firewall_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_application_acceleration_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_policy_enforcement_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_policy_enforcement_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_analytics:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_webaccelerator:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_analytics:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_fraud_protection_service:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_webaccelerator:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_access_policy_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_application_security_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_policy_enforcement_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_analytics:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_fraud_protection_service:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_global_traffic_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_advanced_firewall_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_application_acceleration_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:getbootstrap:bootstrap:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "4.3.0",
+                "versionEndExcluding": "4.3.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_advanced_firewall_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_global_traffic_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "14.0.0",
+                "versionEndIncluding": "14.1.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_local_traffic_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_webaccelerator:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_local_traffic_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_application_security_manager:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "12.1.0",
+                "versionEndIncluding": "12.1.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "13.0.0",
+                "versionEndIncluding": "13.1.1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "isVirtual": false,
+      "fileName": "client-tests.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\test\\integration\\client-tests.js",
+      "md5": "5b4a6640d565021d4558a13ca7f94db2",
+      "sha1": "09405de8e54c98b09d85388e64896264515b3f40",
+      "sha256": "e3a62722ec5466976be7f118d14e7c71ad79d102b5938666fb208829d2225d27",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "client-test.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\test\\unit\\client-test.js",
+      "md5": "04ab6fe9017815cfdf4b32da037485bc",
+      "sha1": "e085d24097e7f07eb8a0f06eb3d26fa7f5d62d70",
+      "sha256": "47a8a2373d50934c1a008fb9e3afd73ace47cf76553e95ecd4cd9abb31979337",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "graph-traversal.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\lib\\process\\graph-traversal.js",
+      "md5": "94a5628d3d1b75b3c92a45228a88b095",
+      "sha1": "3e4fa435152793a6fe1c588e7c2ff52cf626d4dd",
+      "sha256": "6ccbf2383345301b12ea87d5b93c5487c3791bc0aeb6cc9a022b18be04b171ed",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "world.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\test\\cucumber\\world.js",
+      "md5": "e7424f094e31dbc4b6d925430b7b54b8",
+      "sha1": "3555ed2c0abc15fe17e253721675128e9c2b8fa0",
+      "sha256": "62707122c770fc351d2da4a7a43d247b1ef7aed918b32a85a7afb7c643e3958c",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "driver-remote-connection.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\lib\\driver\\driver-remote-connection.js",
+      "md5": "4cc08811da64fa588fa9cd2e22c868da",
+      "sha1": "01b4a6e63cb5ba6ce9afcf236c5ac30a151598df",
+      "sha256": "f3a14c95bdd9de0aacb208f8ca81667627d2f605b1dca1f02601a9003cafef6e",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "Gremlin.Net.Template.csproj",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\src\\Gremlin.Net.Template\\Gremlin.Net.Template.csproj",
+      "md5": "a017a9c4ef632e3dbb4ba46f6ff6641e",
+      "sha1": "0e8672345faf3a7d074ed42c391d53099ca2b4a4",
+      "sha256": "697f0b2c8e1a170b17297c7c859fc19ce7593f54d48c817c5521c67c005550a3",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "Gremlin.Net.Template"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "Gremlin.Net.Template"
+          }
+        ],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "prism.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\docs\\site\\home\\js\\prism.js",
+      "md5": "ec03d631fd1aa551418ff4b43e1f8726",
+      "sha1": "df4a269e3c2936ce0f01cf0437bf1c785b0e6ace",
+      "sha256": "0ec3b4853a8d8e60e0bd3179bea256cfe892a2d75e620a427434df392304981a",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "anonymous-traversal.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\lib\\process\\anonymous-traversal.js",
+      "md5": "e1fe69c72bd2565fb1758b1e644e099c",
+      "sha1": "5f8e3f259584398d239bc10a95b615843d9048dd",
+      "sha256": "24fe6c8c94ae8dfd7f0d02c342d39c8e1cf5c2393f1a799d27652995808a9a85",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "traversal-test.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\test\\unit\\traversal-test.js",
+      "md5": "c8115fdf7d4c886307e96f08c0f9f4db",
+      "sha1": "bd48107e66d7a1e49d1107b7c5b20ecbeff1e615",
+      "sha256": "d9cd6e836f401594649f4223767bf4f6b35480e8e3c3ccdbd2299c98f3b376b0",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "remote-connection.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\lib\\driver\\remote-connection.js",
+      "md5": "a11c0f0a3b0e6b8bc32bf5122cf9cd06",
+      "sha1": "8f6cdde7f34caaea7900032602f13ffd5b5ef099",
+      "sha256": "b179e87aa8f541716d0dde986d2d49115d91015a0425c0cf9e4cd710b4b86c0d",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "feature-steps.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\test\\cucumber\\feature-steps.js",
+      "md5": "655bf231515eff0c340d9e3cb39247b8",
+      "sha1": "ee9523a8e0aa5578c0c97f518cc01f9b3d922fbc",
+      "sha256": "b1e9b7bfc306f3e7fd624b7fcfa27712249d1586686827bbfd2f70d327076dfe",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "utils.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\lib\\utils.js",
+      "md5": "24b0933ef30017d61fc039555bbdc9bc",
+      "sha1": "2ddfd83e1d761353bfa2fedef0a49229b696bab6",
+      "sha256": "cb272bb0047e2c8b2ea30cc989aa7af6e27592ad71862ffeac67098cc9c00528",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "graph.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\lib\\structure\\graph.js",
+      "md5": "485a18476051debf62eba876e16d58d9",
+      "sha1": "4135eca2cb64c6a002d0290c670e596add36439f",
+      "sha256": "f5caa9eaa16ab48342ed7ba9d918d20160af0b355e794d16c7aef16a45e699ff",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "translator-test.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\test\\unit\\translator-test.js",
+      "md5": "0f45080c56497e8b96bf72345a4d80d7",
+      "sha1": "0efb18fe14179b2cefafb31afc06f903cfb9680a",
+      "sha256": "94011990a189666a0b7e7c30310d7fdd902d71d239e46f5fd416bfcad674241e",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "Gremlin.Net.IntegrationTest.csproj",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\test\\Gremlin.Net.IntegrationTest\\Gremlin.Net.IntegrationTest.csproj",
+      "md5": "82cc57afe4002e5460b869b741474048",
+      "sha1": "5a1265c5bca369a17f501e95727eb0cfb07ac546",
+      "sha256": "2dc1988fd3eafe1701fb235a7f33f305b08f3ed1d0e20e0ab872d9d2baadaf88",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "Gremlin.Net.IntegrationTest"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "Gremlin.Net.IntegrationTest"
+          }
+        ],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "graphson-test.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\test\\unit\\graphson-test.js",
+      "md5": "aacec409ce3d6757197e940702233ced",
+      "sha1": "513722f63751038e0a0ccd616b577c8c3a2de9cd",
+      "sha256": "2a2715b3fcbc8ca191bec44c0a30bb6d976c99b8a35f01c7bcfd666ad1c96274",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "Gremlin.Net.Template.IntegrationTest.csproj",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\test\\Gremlin.Net.Template.IntegrationTest\\Gremlin.Net.Template.IntegrationTest.csproj",
+      "md5": "37c56106582f4c01c42d35da31da1c63",
+      "sha1": "240c0d2b5b47da8327167c09220d205dbeb46161",
+      "sha256": "7f5493d3cdc78070f52d8a1cbefd6a203af2e7c4e1974e59d32af296d7b391a6",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "Gremlin.Net.Template.IntegrationTest"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "Gremlin.Net.Template.IntegrationTest"
+          }
+        ],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "authenticator.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\lib\\driver\\auth\\authenticator.js",
+      "md5": "89090dc580cf290158a1a598499cb4cb",
+      "sha1": "6152b6cdc429e749fcde58b9255e326941fd5ca0",
+      "sha256": "2d3422a75f39f309b3858887ba2be1d3568fd894b16cd21d130cf00eb180fd95",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "result-set.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\lib\\driver\\result-set.js",
+      "md5": "b0e7e57aadf4f4c35366d102b501b2d8",
+      "sha1": "ee4739e1a72980c647a25949c15ecf4404fabb2e",
+      "sha256": "6a34e49155ec64eff1a7968e4efa10d32ab2a6706cd10d9adc1eb316a32346d5",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "sasl-authenticator.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\lib\\driver\\auth\\sasl-authenticator.js",
+      "md5": "9f5fa73e3ada88a9660437ad89c2016b",
+      "sha1": "0adc8803fe46516397b61f2a8ef5c9ba7c015b6c",
+      "sha256": "d29cf6f9ce72def34266d157fb266c7cb89f075326ef8b9fc9a5c9684bc8c2d1",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "helper.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\test\\helper.js",
+      "md5": "57333fade8ab97529675d0ae7e6f5503",
+      "sha1": "621ad1a31e8ffe315f48536bfabb792711052a78",
+      "sha256": "3a4865ccb5fd6cd70b786ae4467d264e7d896a9c1f583bfef8b43e40e6fbd30d",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "connection.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\lib\\driver\\connection.js",
+      "md5": "96aadbd4873e631360ceadf7f28315ba",
+      "sha1": "95da99acc0c675c5ae07b77a1f9fb7e19783b641",
+      "sha256": "1ff4a37464aaa4fea07c83d78f01981568166339534d2bc8134a0bbf4c14702c",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "Gremlin.Net.csproj",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\src\\Gremlin.Net\\Gremlin.Net.csproj",
+      "md5": "fc5e692f3a8aeb8e70d1a1caa2a427dd",
+      "sha1": "df821fa683cb0dc3323b07cabd8f273894716415",
+      "sha256": "3dd61a75fa69d3e31dba6b89414e0fe29552000983ac975e487547542b82a260",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "Gremlin.Net"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "Gremlin.Net"
+          }
+        ],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "translator.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\lib\\process\\translator.js",
+      "md5": "7ad0b3a7fd8f7bfd177af775514d4de9",
+      "sha1": "24f96a1d22ec10d1186cfa2790d4fc979206d1cf",
+      "sha256": "c31ff9d14a3817c3659f731a3726be70351ad5ed04d188ad4728925ed9da23db",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "type-serializers.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\lib\\structure\\io\\type-serializers.js",
+      "md5": "bedd389882a8e52b0a618f333e6f1b5c",
+      "sha1": "8d9f73cf0303e3c2044e7a1a950884827761b963",
+      "sha256": "255e78e60399c0fbd8a9a6ac40e5ac65496a036aa28b0f1a471d5ac925f83dd1",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "plain-text-sasl-authenticator.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\lib\\driver\\auth\\plain-text-sasl-authenticator.js",
+      "md5": "9066799f59987c60024aeff5f1eed542",
+      "sha1": "cd508795348fa18293dc97757d8ece5c39713ef3",
+      "sha256": "8527b1d469ba3519856e729a938dd92f2fd2b4d2570fc6ea2b3820933ce5bc85",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "traversal.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\lib\\process\\traversal.js",
+      "md5": "2427aead3e0145abab7854d24e63ad80",
+      "sha1": "a34ebc65e10e9aabe84c437ce7ad33cb646c9486",
+      "sha256": "c642ae8f269c983bba7f0fa5935a0f68767ff8f281ba6bed688b4b81d593aed1",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "result-set-test.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\test\\unit\\result-set-test.js",
+      "md5": "b42b4c08314ca6711579116aea364fab",
+      "sha1": "bc423a010acd67493651e428c31870dc8a4e8f2d",
+      "sha256": "5d8b5e4fde4673c60a5f518355a31cf7d7e363c701eb310ad4ca181b5db2472c",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "traversal-test.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\test\\integration\\traversal-test.js",
+      "md5": "b962968680e8ba5c1a3eda16a74c4911",
+      "sha1": "19391568dee669f0d40440ea9ec97afa226cea81",
+      "sha256": "9cc7be9ac3e38f19203d602335e4dc4cb80ec6e494ea0ac80058e74cac84edf5",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "remote-connection-tests.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\test\\integration\\remote-connection-tests.js",
+      "md5": "d0419e219ee69b7e7cdfbb3686ef234b",
+      "sha1": "c502807b9247e6d861ce5e726c62097cdbd4d511",
+      "sha256": "002b1eb40bc16df8b1d2f36da59dd25155c6f4b443a3cf39244f1537ec1a35cd",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "Gruntfile.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\Gruntfile.js",
+      "md5": "f068a7721d0ae0fd6f355d8465c28afa",
+      "sha1": "b7e2819cc7df17f7e63adf74fd0b20ca8042e363",
+      "sha256": "e13ad33bb922045202198960275a803e34129d2b0405eab00cf1e50fa01f4d3f",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "Gremlin.Net.Template:3.5.0-SNAPSHOT",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\src\\Gremlin.Net.Template\\Gremlin.Net.Template.nuspec",
+      "md5": "5ac6725c0fe9cd2af2d8f6e35114f9ff",
+      "sha1": "8a6df725da2f522d60acb4d3f861d6feb15c9e03",
+      "sha256": "06bff1cacb9b4e4a571f59be2090831c547e8403aced5f3c4e7f7d0bba48c838",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "Gremlin.Net.Template"
+          },
+          {
+            "type": "vendor",
+            "confidence": "HIGH",
+            "source": "nuspec",
+            "name": "authors",
+            "value": "Apache TinkerPop"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "Gremlin.Net.Template"
+          },
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "nuspec",
+            "name": "id",
+            "value": "Gremlin.Net.Template"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "nuspec",
+            "name": "title",
+            "value": "Gremlin.Net Template"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "nuspec",
+            "name": "version",
+            "value": "3.5.0-SNAPSHOT"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/Gremlin.Net.Template@3.5.0-SNAPSHOT",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": false,
+      "fileName": "sasl-mechanism-plain.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\lib\\driver\\auth\\mechanisms\\sasl-mechanism-plain.js",
+      "md5": "856192c5c9c772f2bb951f1d8773d4a2",
+      "sha1": "77bfa1f6883fb26e616e168c0f6795daef6ada15",
+      "sha256": "0af3f0b608c8db5bc42427a2492369d15b2fbf7d52264f5c9784246c291eb475",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jquery-1.11.0.min.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\docs\\site\\home\\js\\jquery-1.11.0.min.js",
+      "md5": "a1cd7fc161a5cb1d7102d1e72ee1e67f",
+      "sha1": "295153b52a34427bcaecb4a55c0aabcca825d544",
+      "sha256": "af2419dd15e09ea913cfe94d130f9870486732e57764e0f02ea3846f204146ee",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "jquery"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "version",
+            "value": "1.11.0.min"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:javascript/jquery@1.11.0.min",
+          "confidence": "HIGHEST"
+        }
+      ],
+      "vulnerabilities": [
+        {
+          "source": "NVD",
+          "name": "CVE-2015-9251",
+          "cvssv2": {
+            "score": 4.3,
+            "accessVector": "NETWORK",
+            "accessComplexity": "MEDIUM",
+            "authenticationr>": "NONE",
+            "confidentialImpact": "NONE",
+            "integrityImpact": "NONE",
+            "availabilityImpact": "NONE",
+            "severity": "MEDIUM"
+          },
+          "cvssv3": {
+            "baseScore": 6.1,
+            "attackVector": "NETWORK",
+            "attackComplexity": "LOW",
+            "privilegesRequired": "NONE",
+            "userInteraction": "REQUIRED",
+            "scope": "CHANGED",
+            "confidentialityImpact": "LOW",
+            "integrityImpact": "LOW",
+            "availabilityImpact": "NONE",
+            "baseSeverity>": "MEDIUM"
+          },
+          "cwes": [
+            "CWE-79"
+          ],
+          "description": "jQuery before 3.0.0 is vulnerable to Cross-site Scripting (XSS) attacks when a cross-domain Ajax request is performed without the dataType option, causing text/javascript responses to be executed.",
+          "notes": "",
+          "references": [
+            {
+              "source": "MISC",
+              "url": "http://packetstormsecurity.com/files/153237/RetireJS-CORS-Issue-Script-Execution.html",
+              "name": "http://packetstormsecurity.com/files/153237/RetireJS-CORS-Issue-Script-Execution.html"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/ba79cf1658741e9f146e4c59b50aee56656ea95d841d358d006c18b6@%3Ccommits.roller.apache.org%3E",
+              "name": "[roller-commits] 20190820 [jira] [Created] (ROL-2150) Fix Js security vulnerabilities detected using retire js"
+            },
+            {
+              "source": "info",
+              "url": "http://blog.jquery.com/2016/01/08/jquery-2-2-and-1-12-released/",
+              "name": "info"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/jquery/jquery/pull/2588",
+              "name": "https://github.com/jquery/jquery/pull/2588"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/10f0f3aefd51444d1198c65f44ffdf2d78ca3359423dbc1c168c9731@%3Cdev.flink.apache.org%3E",
+              "name": "[flink-dev] 20190811 Apache flink 1.7.2 security issues"
+            },
+            {
+              "source": "MISC",
+              "url": "https://snyk.io/vuln/npm:jquery:20150627",
+              "name": "https://snyk.io/vuln/npm:jquery:20150627"
+            },
+            {
+              "source": "MISC",
+              "url": "https://www.oracle.com/technetwork/security-advisory/cpuoct2019-5072832.html",
+              "name": "https://www.oracle.com/technetwork/security-advisory/cpuoct2019-5072832.html"
+            },
+            {
+              "source": "MISC",
+              "url": "https://ics-cert.us-cert.gov/advisories/ICSA-18-212-04",
+              "name": "https://ics-cert.us-cert.gov/advisories/ICSA-18-212-04"
+            },
+            {
+              "source": "BID",
+              "url": "http://www.securityfocus.com/bid/105658",
+              "name": "105658"
+            },
+            {
+              "source": "CONFIRM",
+              "url": "https://www.oracle.com/technetwork/security-advisory/cpujan2019-5072801.html",
+              "name": "https://www.oracle.com/technetwork/security-advisory/cpujan2019-5072801.html"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/519eb0fd45642dcecd9ff74cb3e71c20a4753f7d82e2f07864b5108f@%3Cdev.drill.apache.org%3E",
+              "name": "[drill-dev] 20191021 [jira] [Created] (DRILL-7416) Updates required to dependencies to resolve potential security vulnerabilities"
+            },
+            {
+              "source": "MISC",
+              "url": "https://www.oracle.com/technetwork/security-advisory/cpuapr2019-5072813.html",
+              "name": "https://www.oracle.com/technetwork/security-advisory/cpuapr2019-5072813.html"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/54df3aeb4239b64b50b356f0ca6f986e3c4ca5b84c515dce077c7854@%3Cuser.flink.apache.org%3E",
+              "name": "[flink-user] 20190811 Apache flink 1.7.2 security issues"
+            },
+            {
+              "source": "CONFIRM",
+              "url": "http://www.oracle.com/technetwork/security-advisory/cpuoct2018-4428296.html",
+              "name": "http://www.oracle.com/technetwork/security-advisory/cpuoct2018-4428296.html"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/jquery/jquery/issues/2432",
+              "name": "https://github.com/jquery/jquery/issues/2432"
+            },
+            {
+              "source": "info",
+              "url": "https://github.com/jquery/jquery/issues/2432",
+              "name": "info"
+            },
+            {
+              "source": "MISC",
+              "url": "https://www.oracle.com/technetwork/security-advisory/cpujul2019-5072835.html",
+              "name": "https://www.oracle.com/technetwork/security-advisory/cpujul2019-5072835.html"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/jquery/jquery/commit/f60729f3903d17917dc351f3ac87794de379b0cc",
+              "name": "https://github.com/jquery/jquery/commit/f60729f3903d17917dc351f3ac87794de379b0cc"
+            },
+            {
+              "source": "info",
+              "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-9251",
+              "name": "info"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/52bafac05ad174000ea465fe275fd3cc7bd5c25535a7631c0bc9bfb2@%3Cuser.flink.apache.org%3E",
+              "name": "[flink-user] 20190813 Re: Apache flink 1.7.2 security issues"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/jquery/jquery/pull/2588/commits/c254d308a7d3f1eac4d0b42837804cfffcba4bb2",
+              "name": "https://github.com/jquery/jquery/pull/2588/commits/c254d308a7d3f1eac4d0b42837804cfffcba4bb2"
+            },
+            {
+              "source": "BUGTRAQ",
+              "url": "https://seclists.org/bugtraq/2019/May/18",
+              "name": "20190509 dotCMS v5.1.1 Vulnerabilities"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/b0656d359c7d40ec9f39c8cc61bca66802ef9a2a12ee199f5b0c1442@%3Cdev.drill.apache.org%3E",
+              "name": "[drill-dev] 20191017 Dependencies used by Drill contain known vulnerabilities"
+            },
+            {
+              "source": "MISC",
+              "url": "https://sw.aveva.com/hubfs/assets-2018/pdf/security-bulletin/SecurityBulletin_LFSec126.pdf",
+              "name": "https://sw.aveva.com/hubfs/assets-2018/pdf/security-bulletin/SecurityBulletin_LFSec126.pdf"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/13",
+              "name": "20190510 Re: dotCMS v5.1.1 HTML Injection & XSS Vulnerability"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/17ff53f7999e74fbe3cc0ceb4e1c3b00b180b7c5afec8e978837bc49@%3Cuser.flink.apache.org%3E",
+              "name": "[flink-user] 20190813 Apache flink 1.7.2 security issues"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/11",
+              "name": "20190510 dotCMS v5.1.1 HTML Injection & XSS Vulnerability"
+            },
+            {
+              "source": "info",
+              "url": "http://research.insecurelabs.org/jquery/test/",
+              "name": "info"
+            },
+            {
+              "source": "MISC",
+              "url": "http://packetstormsecurity.com/files/152787/dotCMS-5.1.1-Vulnerable-Dependencies.html",
+              "name": "http://packetstormsecurity.com/files/152787/dotCMS-5.1.1-Vulnerable-Dependencies.html"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/10",
+              "name": "20190510 dotCMS v5.1.1 Vulnerabilities"
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:financial_services_loan_loss_forecasting_and_provisioning:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "8.0.2",
+                "versionEndIncluding": "8.0.7"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:webcenter_sites:11.1.1.8.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:healthcare_translational_research:3.1.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:financial_services_funds_transfer_pricing:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "8.0.4",
+                "versionEndIncluding": "8.0.7"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:hospitality_materials_control:18.1:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:utilities_mobile_workforce_management:2.3.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:financial_services_reconciliation_framework:8.0.6:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:insurance_insbridge_rating_and_underwriting:5.4:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:retail_sales_audit:15.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:agile_product_lifecycle_management_for_process:6.2.2.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:hospitality_reporting_and_analytics:9.1.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:agile_product_lifecycle_management_for_process:6.2.0.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:communications_interactive_session_recorder:6.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:hospitality_guest_access:4.2.1:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:jdeveloper:11.1.1.9.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:retail_customer_insights:15.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:siebel_ui_framework:18.10:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:financial_services_profitability_management:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "8.0.4",
+                "versionEndIncluding": "8.0.6"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:peoplesoft_enterprise_peopletools:8.56:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:financial_services_liquidity_risk_management:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "8.0.2",
+                "versionEndIncluding": "8.0.6"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:weblogic_server:12.1.3.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:primavera_unifier:18.8:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:retail_invoice_matching:15.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:enterprise_manager_ops_center:12.2.2:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:peoplesoft_enterprise_peopletools:8.57:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:retail_allocation:15.0.2:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:banking_platform:2.6.2:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:endeca_information_discovery_studio:3.1.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:insurance_insbridge_rating_and_underwriting:5.5:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:retail_workforce_management_software:1.64.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:banking_platform:2.6.1:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:fusion_middleware_mapviewer:12.2.1.3.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:primavera_gateway:15.2:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:primavera_unifier:16.1:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:retail_customer_insights:16.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:service_bus:12.2.1.3.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:financial_services_data_integration_hub:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "8.0.5",
+                "versionEndIncluding": "8.0.7"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:jquery:jquery:*:*:*:*:*:*:*:*",
+                "versionEndExcluding": "3.0.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:jd_edwards_enterpriseone_tools:9.2:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:utilities_framework:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "4.3.0.1",
+                "versionEndIncluding": "4.3.0.4"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:business_process_management_suite:12.1.3.0.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:jdeveloper:12.2.1.3.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:primavera_unifier:16.2:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:real-time_scheduler:2.3.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:financial_services_analytical_applications_infrastructure:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "8.0.0",
+                "versionEndIncluding": "8.0.7"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:hospitality_guest_access:4.2.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:financial_services_market_risk_measurement_and_management:8.0.6:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:agile_product_lifecycle_management_for_process:6.2.3.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:banking_platform:2.6.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:communications_services_gatekeeper:*:*:*:*:*:*:*:*",
+                "versionEndExcluding": "6.1.0.4.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:financial_services_hedge_management_and_ifrs_valuations:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "8.0.4",
+                "versionEndIncluding": "8.0.7"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:peoplesoft_enterprise_peopletools:8.55:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:business_process_management_suite:12.2.1.3.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:agile_product_lifecycle_management_for_process:6.2.1.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:oss_support_tools:19.1:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:primavera_gateway:16.2:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:communications_interactive_session_recorder:6.1:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:weblogic_server:12.2.1.3:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:communications_webrtc_session_controller:*:*:*:*:*:*:*:*",
+                "versionEndExcluding": "7.2"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:hospitality_cruise_fleet_management:9.0.11:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:communications_interactive_session_recorder:6.2:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:primavera_unifier:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "17.1",
+                "versionEndIncluding": "17.12"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:siebel_ui_framework:18.11:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:business_process_management_suite:11.1.1.9.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:financial_services_asset_liability_management:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "8.0.4",
+                "versionEndIncluding": "8.0.7"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:financial_services_analytical_applications_infrastructure:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "7.3.3",
+                "versionEndIncluding": "7.3.5"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:insurance_insbridge_rating_and_underwriting:5.2:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:jdeveloper:12.1.3.0.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:endeca_information_discovery_studio:3.2.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:financial_services_market_risk_measurement_and_management:8.0.5:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:financial_services_reconciliation_framework:8.0.5:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:healthcare_foundation:7.1:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:agile_product_lifecycle_management_for_process:6.2.3.1:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:service_bus:12.1.3.0.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:enterprise_manager_ops_center:12.3.3:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:healthcare_foundation:7.2:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:enterprise_operations_monitor:3.4:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:primavera_gateway:17.12:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:retail_workforce_management_software:1.60.9:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:enterprise_operations_monitor:4.0:*:*:*:*:*:*:*"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:oracle:communications_converged_application_server:*:*:*:*:*:*:*:*",
+                "versionEndExcluding": "7.0.0.1"
+              }
+            }
+          ]
+        },
+        {
+          "source": "NVD",
+          "name": "CVE-2019-11358",
+          "cvssv2": {
+            "score": 4.3,
+            "accessVector": "NETWORK",
+            "accessComplexity": "MEDIUM",
+            "authenticationr>": "NONE",
+            "confidentialImpact": "NONE",
+            "integrityImpact": "NONE",
+            "availabilityImpact": "NONE",
+            "severity": "MEDIUM"
+          },
+          "cvssv3": {
+            "baseScore": 6.1,
+            "attackVector": "NETWORK",
+            "attackComplexity": "LOW",
+            "privilegesRequired": "NONE",
+            "userInteraction": "REQUIRED",
+            "scope": "CHANGED",
+            "confidentialityImpact": "LOW",
+            "integrityImpact": "LOW",
+            "availabilityImpact": "NONE",
+            "baseSeverity>": "MEDIUM"
+          },
+          "cwes": [
+            "CWE-79"
+          ],
+          "description": "jQuery before 3.4.0, as used in Drupal, Backdrop CMS, and other products, mishandles jQuery.extend(true, {}, ...) because of Object.prototype pollution. If an unsanitized source object contained an enumerable __proto__ property, it could extend the native Object.prototype.",
+          "notes": "",
+          "references": [
+            {
+              "source": "MISC",
+              "url": "http://packetstormsecurity.com/files/153237/RetireJS-CORS-Issue-Script-Execution.html",
+              "name": "http://packetstormsecurity.com/files/153237/RetireJS-CORS-Issue-Script-Execution.html"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/ba79cf1658741e9f146e4c59b50aee56656ea95d841d358d006c18b6@%3Ccommits.roller.apache.org%3E",
+              "name": "[roller-commits] 20190820 [jira] [Created] (ROL-2150) Fix Js security vulnerabilities detected using retire js"
+            },
+            {
+              "source": "REDHAT",
+              "url": "https://access.redhat.com/errata/RHBA-2019:1570",
+              "name": "RHBA-2019:1570"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/b736d0784cf02f5a30fbb4c5902762a15ad6d47e17e2c5a17b7d6205@%3Ccommits.airflow.apache.org%3E",
+              "name": "[airflow-commits] 20190428 [GitHub] [airflow] feng-tao opened a new pull request #5197: [AIRFLOW-XXX] Fix CVE-2019-11358"
+            },
+            {
+              "source": "SUSE",
+              "url": "http://lists.opensuse.org/opensuse-security-announce/2019-08/msg00006.html",
+              "name": "openSUSE-SU-2019:1839"
+            },
+            {
+              "source": "BUGTRAQ",
+              "url": "https://seclists.org/bugtraq/2019/Apr/32",
+              "name": "20190421 [SECURITY] [DSA 4434-1] drupal7 security update"
+            },
+            {
+              "source": "MISC",
+              "url": "https://snyk.io/vuln/SNYK-JS-JQUERY-174006",
+              "name": "https://snyk.io/vuln/SNYK-JS-JQUERY-174006"
+            },
+            {
+              "source": "info",
+              "url": "https://nvd.nist.gov/vuln/detail/CVE-2019-11358",
+              "name": "info"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/jquery/jquery/pull/4333",
+              "name": "https://github.com/jquery/jquery/pull/4333"
+            },
+            {
+              "source": "FEDORA",
+              "url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/WZW27UCJ5CYFL4KFFFMYMIBNMIU2ALG5/",
+              "name": "FEDORA-2019-f563e66380"
+            },
+            {
+              "source": "DEBIAN",
+              "url": "https://www.debian.org/security/2019/dsa-4434",
+              "name": "DSA-4434"
+            },
+            {
+              "source": "FEDORA",
+              "url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/RLXRX23725JL366CNZGJZ7AQQB7LHQ6F/",
+              "name": "FEDORA-2019-2a0ce0c58c"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.debian.org/debian-lts-announce/2019/05/msg00006.html",
+              "name": "[debian-lts-announce] 20190506 [SECURITY] [DLA 1777-1] jquery security update"
+            },
+            {
+              "source": "REDHAT",
+              "url": "https://access.redhat.com/errata/RHSA-2019:3024",
+              "name": "RHSA-2019:3024"
+            },
+            {
+              "source": "MLIST",
+              "url": "http://www.openwall.com/lists/oss-security/2019/06/03/2",
+              "name": "[oss-security] 20190603 Django: CVE-2019-12308 AdminURLFieldWidget XSS (plus patched bundled jQuery for CVE-2019-11358)"
+            },
+            {
+              "source": "REDHAT",
+              "url": "https://access.redhat.com/errata/RHSA-2019:3023",
+              "name": "RHSA-2019:3023"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.debian.org/debian-lts-announce/2019/05/msg00029.html",
+              "name": "[debian-lts-announce] 20190520 [SECURITY] [DLA 1797-1] drupal7 security update"
+            },
+            {
+              "source": "FEDORA",
+              "url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/4UOAZIFCSZ3ENEFOR5IXX6NFAD3HV7FA/",
+              "name": "FEDORA-2019-1a3edd7e8a"
+            },
+            {
+              "source": "MISC",
+              "url": "https://www.oracle.com/technetwork/security-advisory/cpuoct2019-5072832.html",
+              "name": "https://www.oracle.com/technetwork/security-advisory/cpuoct2019-5072832.html"
+            },
+            {
+              "source": "info",
+              "url": "https://github.com/jquery/jquery/commit/753d591aea698e57d6db58c9f722cd0808619b1b",
+              "name": "info"
+            },
+            {
+              "source": "FEDORA",
+              "url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/QV3PKZC3PQCO3273HAT76PAQZFBEO4KP/",
+              "name": "FEDORA-2019-a06dffab1c"
+            },
+            {
+              "source": "MISC",
+              "url": "https://blog.jquery.com/2019/04/10/jquery-3-4-0-released/",
+              "name": "https://blog.jquery.com/2019/04/10/jquery-3-4-0-released/"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/519eb0fd45642dcecd9ff74cb3e71c20a4753f7d82e2f07864b5108f@%3Cdev.drill.apache.org%3E",
+              "name": "[drill-dev] 20191021 [jira] [Created] (DRILL-7416) Updates required to dependencies to resolve potential security vulnerabilities"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/88fb0362fd40e5b605ea8149f63241537b8b6fb5bfa315391fc5cbb7@%3Ccommits.airflow.apache.org%3E",
+              "name": "[airflow-commits] 20190428 [GitHub] [airflow] codecov-io commented on issue #5197: [AIRFLOW-XXX] Fix CVE-2019-11358"
+            },
+            {
+              "source": "FEDORA",
+              "url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/KYH3OAGR2RTCHRA5NOKX2TES7SNQMWGO/",
+              "name": "FEDORA-2019-7eaf0bbe7c"
+            },
+            {
+              "source": "CONFIRM",
+              "url": "https://security.netapp.com/advisory/ntap-20190919-0001/",
+              "name": "https://security.netapp.com/advisory/ntap-20190919-0001/"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/5928aa293e39d248266472210c50f176cac1535220f2486e6a7fa844@%3Ccommits.airflow.apache.org%3E",
+              "name": "[airflow-commits] 20190428 [GitHub] [airflow] XD-DENG merged pull request #5197: [AIRFLOW-XXX] Fix CVE-2019-11358"
+            },
+            {
+              "source": "info",
+              "url": "https://blog.jquery.com/2019/04/10/jquery-3-4-0-released/",
+              "name": "info"
+            },
+            {
+              "source": "DEBIAN",
+              "url": "https://www.debian.org/security/2019/dsa-4460",
+              "name": "DSA-4460"
+            },
+            {
+              "source": "MISC",
+              "url": "https://www.oracle.com/technetwork/security-advisory/cpujul2019-5072835.html",
+              "name": "https://www.oracle.com/technetwork/security-advisory/cpujul2019-5072835.html"
+            },
+            {
+              "source": "REDHAT",
+              "url": "https://access.redhat.com/errata/RHSA-2019:2587",
+              "name": "RHSA-2019:2587"
+            },
+            {
+              "source": "FEDORA",
+              "url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/5IABSKTYZ5JUGL735UKGXL5YPRYOPUYI/",
+              "name": "FEDORA-2019-eba8e44ee6"
+            },
+            {
+              "source": "SUSE",
+              "url": "http://lists.opensuse.org/opensuse-security-announce/2019-08/msg00025.html",
+              "name": "openSUSE-SU-2019:1872"
+            },
+            {
+              "source": "MISC",
+              "url": "https://backdropcms.org/security/backdrop-sa-core-2019-009",
+              "name": "https://backdropcms.org/security/backdrop-sa-core-2019-009"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/08720ef215ee7ab3386c05a1a90a7d1c852bf0706f176a7816bf65fc@%3Ccommits.airflow.apache.org%3E",
+              "name": "[airflow-commits] 20190428 [GitHub] [airflow] feng-tao commented on issue #5197: [AIRFLOW-XXX] Fix CVE-2019-11358"
+            },
+            {
+              "source": "MISC",
+              "url": "https://www.drupal.org/sa-core-2019-006",
+              "name": "https://www.drupal.org/sa-core-2019-006"
+            },
+            {
+              "source": "REDHAT",
+              "url": "https://access.redhat.com/errata/RHSA-2019:1456",
+              "name": "RHSA-2019:1456"
+            },
+            {
+              "source": "BUGTRAQ",
+              "url": "https://seclists.org/bugtraq/2019/May/18",
+              "name": "20190509 dotCMS v5.1.1 Vulnerabilities"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/b0656d359c7d40ec9f39c8cc61bca66802ef9a2a12ee199f5b0c1442@%3Cdev.drill.apache.org%3E",
+              "name": "[drill-dev] 20191017 Dependencies used by Drill contain known vulnerabilities"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/13",
+              "name": "20190510 Re: dotCMS v5.1.1 HTML Injection & XSS Vulnerability"
+            },
+            {
+              "source": "MISC",
+              "url": "https://github.com/jquery/jquery/commit/753d591aea698e57d6db58c9f722cd0808619b1b",
+              "name": "https://github.com/jquery/jquery/commit/753d591aea698e57d6db58c9f722cd0808619b1b"
+            },
+            {
+              "source": "BUGTRAQ",
+              "url": "https://seclists.org/bugtraq/2019/Jun/12",
+              "name": "20190612 [SECURITY] [DSA 4460-1] mediawiki security update"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/11",
+              "name": "20190510 dotCMS v5.1.1 HTML Injection & XSS Vulnerability"
+            },
+            {
+              "source": "MLIST",
+              "url": "https://lists.apache.org/thread.html/6097cdbd6f0a337bedd9bb5cc441b2d525ff002a96531de367e4259f@%3Ccommits.airflow.apache.org%3E",
+              "name": "[airflow-commits] 20190428 [GitHub] [airflow] XD-DENG commented on issue #5197: [AIRFLOW-XXX] Fix CVE-2019-11358"
+            },
+            {
+              "source": "MISC",
+              "url": "http://packetstormsecurity.com/files/152787/dotCMS-5.1.1-Vulnerable-Dependencies.html",
+              "name": "http://packetstormsecurity.com/files/152787/dotCMS-5.1.1-Vulnerable-Dependencies.html"
+            },
+            {
+              "source": "MISC",
+              "url": "https://www.privacy-wise.com/mitigating-cve-2019-11358-in-old-versions-of-jquery/",
+              "name": "https://www.privacy-wise.com/mitigating-cve-2019-11358-in-old-versions-of-jquery/"
+            },
+            {
+              "source": "FULLDISC",
+              "url": "http://seclists.org/fulldisclosure/2019/May/10",
+              "name": "20190510 dotCMS v5.1.1 Vulnerabilities"
+            },
+            {
+              "source": "BID",
+              "url": "http://www.securityfocus.com/bid/108023",
+              "name": "108023"
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:drupal:drupal:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "8.5.0",
+                "versionEndExcluding": "8.5.15"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:backdropcms:backdrop:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "1.12.0",
+                "versionEndExcluding": "1.12.6"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:jquery:jquery:*:*:*:*:*:*:*:*",
+                "versionEndExcluding": "3.4.0"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:drupal:drupal:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "7.0",
+                "versionEndExcluding": "7.66"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:drupal:drupal:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "8.6.0",
+                "versionEndExcluding": "8.6.15"
+              }
+            },
+            {
+              "software": {
+                "id": "cpe:2.3:a:backdropcms:backdrop:*:*:*:*:*:*:*:*",
+                "versionStartIncluding": "1.11.0",
+                "versionEndExcluding": "1.11.9"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "isVirtual": false,
+      "fileName": "bytecode.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\lib\\process\\bytecode.js",
+      "md5": "ba63f58f2046102ccf6bd51e903160e8",
+      "sha1": "0e883b765ed6aa602d511c4994865eb1b3d4ae38",
+      "sha256": "473cc4ac16e536eac1e0d8ca0e1120b071253380f352efbd23e802c1a97636b5",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "index.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\index.js",
+      "md5": "8db5cd987567c881b0edc338abe4d031",
+      "sha1": "d4195eb942b71913b9f6503e258ccadd1101505c",
+      "sha256": "21c7e95da15fe7715d2164d20a619fdc78190e9ae9586c3f040c5153034a2bf0",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "graph-serializer.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\lib\\structure\\io\\graph-serializer.js",
+      "md5": "a4b0639b610de54819d53f4ca04ff1ad",
+      "sha1": "eb75195ec76581ed59d7c977666d83d6810a8c12",
+      "sha256": "20c537746b405a7d9dccea0b4fb61dccd1ced8d25033db86c1cb96dfe8cc34df",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "client.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\lib\\driver\\client.js",
+      "md5": "ed9393ab2fa0b49fd868e73f1c35a17f",
+      "sha1": "99e11addab9143303503da428c39cc52d3a29397",
+      "sha256": "16c6bbc8d855a5a17163b1c39c739807e1172006884e5e970b35d469fc112754",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "sasl-mechanism-base.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-javascript\\src\\main\\javascript\\gremlin-javascript\\lib\\driver\\auth\\mechanisms\\sasl-mechanism-base.js",
+      "md5": "2fcf5c974a604ddf05453c2f9d818f19",
+      "sha1": "bfbb4a44bbe7fe0717886f407bf51322d6735243",
+      "sha256": "883346e261f054964936c2c7d41872f6a88d57eae0875429e53032288b43bd52",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": true,
+      "fileName": "Microsoft.NET.Test.Sdk:15.5.0",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\test\\Gremlin.Net.Template.IntegrationTest\\Gremlin.Net.Template.IntegrationTest.csproj",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Microsoft"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "NET"
+          },
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Microsoft.NET.Test.Sdk"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "NET.Test.Sdk"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "15.5.0"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/Microsoft.NET.Test.Sdk@15.5.0",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "xunit:2.3.1",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\test\\Gremlin.Net.Template.IntegrationTest\\Gremlin.Net.Template.IntegrationTest.csproj",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "LOW",
+            "source": "msbuild",
+            "name": "id",
+            "value": "xunit"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "xunit"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "2.3.1"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/xunit@2.3.1",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "Gremlin.Net:3.5.0-SNAPSHOT",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\src\\Gremlin.Net.Template\\Gremlin.Net.Template.csproj",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Gremlin"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Net"
+          },
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Gremlin.Net"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "3.5.0-SNAPSHOT"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/Gremlin.Net@3.5.0-SNAPSHOT",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "xunit.runner.visualstudio:2.3.1",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\test\\Gremlin.Net.Template.IntegrationTest\\Gremlin.Net.Template.IntegrationTest.csproj",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "xunit"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "xunit.runner.visualstudio"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "runner.visualstudio"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "runner"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "2.3.1"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/xunit.runner.visualstudio@2.3.1",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "Moq:4.7.99",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\test\\Gremlin.Net.UnitTest\\Gremlin.Net.UnitTest.csproj",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "LOW",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Moq"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Moq"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "4.7.99"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/Moq@4.7.99",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "gherkin:5.0.0",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\test\\Gremlin.Net.IntegrationTest\\Gremlin.Net.IntegrationTest.csproj",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "LOW",
+            "source": "msbuild",
+            "name": "id",
+            "value": "gherkin"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "gherkin"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "5.0.0"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/gherkin@5.0.0",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "Microsoft.NET.Test.Sdk:15.3.0",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\test\\Gremlin.Net.IntegrationTest\\Gremlin.Net.IntegrationTest.csproj",
+      "relatedDependencies": [
+        {
+          "isVirtual": true,
+          "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\test\\Gremlin.Net.UnitTest\\Gremlin.Net.UnitTest.csproj",
+          "packageIds": [
+            {
+              "id": "pkg:nuget/Microsoft.NET.Test.Sdk@15.3.0"
+            }
+          ]
+        }
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Microsoft"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "NET"
+          },
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Microsoft.NET.Test.Sdk"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "NET.Test.Sdk"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "15.3.0"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/Microsoft.NET.Test.Sdk@15.3.0",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "xunit.runner.visualstudio:2.2.0",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\test\\Gremlin.Net.IntegrationTest\\Gremlin.Net.IntegrationTest.csproj",
+      "relatedDependencies": [
+        {
+          "isVirtual": true,
+          "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\test\\Gremlin.Net.UnitTest\\Gremlin.Net.UnitTest.csproj",
+          "packageIds": [
+            {
+              "id": "pkg:nuget/xunit.runner.visualstudio@2.2.0"
+            }
+          ]
+        }
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "xunit"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "xunit.runner.visualstudio"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "runner.visualstudio"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "runner"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "2.2.0"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/xunit.runner.visualstudio@2.2.0",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "xunit:2.2.0",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\test\\Gremlin.Net.IntegrationTest\\Gremlin.Net.IntegrationTest.csproj",
+      "relatedDependencies": [
+        {
+          "isVirtual": true,
+          "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\test\\Gremlin.Net.UnitTest\\Gremlin.Net.UnitTest.csproj",
+          "packageIds": [
+            {
+              "id": "pkg:nuget/xunit@2.2.0"
+            }
+          ]
+        }
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "LOW",
+            "source": "msbuild",
+            "name": "id",
+            "value": "xunit"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "xunit"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "2.2.0"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/xunit@2.2.0",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "Microsoft.Extensions.Configuration:1.1.1",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\test\\Gremlin.Net.IntegrationTest\\Gremlin.Net.IntegrationTest.csproj",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Microsoft"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Extensions.Configuration"
+          },
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Microsoft.Extensions.Configuration"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Extensions"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "1.1.1"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/Microsoft.Extensions.Configuration@1.1.1",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "Microsoft.SourceLink.GitHub:1.0.0-beta2-18618-05",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\src\\Gremlin.Net\\Gremlin.Net.csproj",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Microsoft"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "SourceLink"
+          },
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Microsoft.SourceLink.GitHub"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "SourceLink.GitHub"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "1.0.0-beta2-18618-05"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/Microsoft.SourceLink.GitHub@1.0.0-beta2-18618-05",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "Microsoft.Extensions.Configuration.Json:1.1.1",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\test\\Gremlin.Net.IntegrationTest\\Gremlin.Net.IntegrationTest.csproj",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Microsoft"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Extensions.Configuration.Json"
+          },
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Microsoft.Extensions.Configuration.Json"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Extensions"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "1.1.1"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/Microsoft.Extensions.Configuration.Json@1.1.1",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "xunit.runner.console:2.2.0",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\test\\Gremlin.Net.IntegrationTest\\Gremlin.Net.IntegrationTest.csproj",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "xunit"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "xunit.runner.console"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "runner.console"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "runner"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "2.2.0"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/xunit.runner.console@2.2.0",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "Newtonsoft.Json:11.0.2",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\src\\Gremlin.Net\\Gremlin.Net.csproj",
+      "relatedDependencies": [
+        {
+          "isVirtual": true,
+          "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\test\\Gremlin.Net.UnitTest\\Gremlin.Net.UnitTest.csproj",
+          "packageIds": [
+            {
+              "id": "pkg:nuget/Newtonsoft.Json@11.0.2"
+            }
+          ]
+        }
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Newtonsoft"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Json"
+          },
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Newtonsoft.Json"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "11.0.2"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/Newtonsoft.Json@11.0.2",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "OpenCover:4.6.519",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\test\\Gremlin.Net.IntegrationTest\\Gremlin.Net.IntegrationTest.csproj",
+      "relatedDependencies": [
+        {
+          "isVirtual": true,
+          "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\test\\Gremlin.Net.UnitTest\\Gremlin.Net.UnitTest.csproj",
+          "packageIds": [
+            {
+              "id": "pkg:nuget/OpenCover@4.6.519"
+            }
+          ]
+        }
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "LOW",
+            "source": "msbuild",
+            "name": "id",
+            "value": "OpenCover"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "OpenCover"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "4.6.519"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/OpenCover@4.6.519",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "Microsoft.CSharp:4.3.0",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\src\\Gremlin.Net\\Gremlin.Net.csproj",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Microsoft"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Microsoft.CSharp"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "CSharp"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "4.3.0"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/Microsoft.CSharp@4.3.0",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "coveralls.io:1.3.4",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\test\\Gremlin.Net.IntegrationTest\\Gremlin.Net.IntegrationTest.csproj",
+      "relatedDependencies": [
+        {
+          "isVirtual": true,
+          "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\test\\Gremlin.Net.UnitTest\\Gremlin.Net.UnitTest.csproj",
+          "packageIds": [
+            {
+              "id": "pkg:nuget/coveralls.io@1.3.4"
+            }
+          ]
+        }
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "coveralls"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "coveralls.io"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "io"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "1.3.4"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/coveralls.io@1.3.4",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "System.Net.WebSockets:4.3.0",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\src\\Gremlin.Net\\Gremlin.Net.csproj",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "System"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Net"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Net.WebSockets"
+          },
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "System.Net.WebSockets"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "4.3.0"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/System.Net.WebSockets@4.3.0",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "System.Net.WebSockets.Client:4.3.0",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\src\\Gremlin.Net\\Gremlin.Net.csproj",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "System"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Net"
+          },
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "System.Net.WebSockets.Client"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Net.WebSockets.Client"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "4.3.0"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/System.Net.WebSockets.Client@4.3.0",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "System.Reflection.TypeExtensions:4.3.0",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\tinkerpop\\gremlin-dotnet\\src\\Gremlin.Net\\Gremlin.Net.csproj",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "System"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "System.Reflection.TypeExtensions"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Reflection"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Reflection.TypeExtensions"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "4.3.0"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/System.Reflection.TypeExtensions@4.3.0",
+          "confidence": "HIGHEST"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "reportSchema": "1.1",
+  "scanInfo": {
+    "engineVersion": "5.0.0-M2",
+    "dataSource": [
+      {
+        "name": "NVD CVE 2002",
+        "timestamp": "02/11/2019 03:45:26"
+      },
+      {
+        "name": "NVD CVE 2003",
+        "timestamp": "11/10/2019 03:45:37"
+      },
+      {
+        "name": "NVD CVE 2004",
+        "timestamp": "08/10/2019 08:31:14"
+      },
+      {
+        "name": "NVD CVE 2005",
+        "timestamp": "07/11/2019 04:15:21"
+      },
+      {
+        "name": "NVD CVE 2006",
+        "timestamp": "07/11/2019 04:15:21"
+      },
+      {
+        "name": "NVD CVE 2007",
+        "timestamp": "07/11/2019 04:15:21"
+      },
+      {
+        "name": "NVD CVE 2008",
+        "timestamp": "29/10/2019 03:45:27"
+      },
+      {
+        "name": "NVD CVE 2009",
+        "timestamp": "07/11/2019 04:15:20"
+      },
+      {
+        "name": "NVD CVE 2010",
+        "timestamp": "07/11/2019 03:45:24"
+      },
+      {
+        "name": "NVD CVE 2011",
+        "timestamp": "07/11/2019 03:45:24"
+      },
+      {
+        "name": "NVD CVE 2012",
+        "timestamp": "07/11/2019 03:45:24"
+      },
+      {
+        "name": "NVD CVE 2013",
+        "timestamp": "07/11/2019 03:45:24"
+      },
+      {
+        "name": "NVD CVE 2014",
+        "timestamp": "07/11/2019 03:45:24"
+      },
+      {
+        "name": "NVD CVE 2015",
+        "timestamp": "07/11/2019 03:45:24"
+      },
+      {
+        "name": "NVD CVE 2016",
+        "timestamp": "07/11/2019 03:15:18"
+      },
+      {
+        "name": "NVD CVE 2017",
+        "timestamp": "07/11/2019 03:15:18"
+      },
+      {
+        "name": "NVD CVE 2018",
+        "timestamp": "07/11/2019 02:45:18"
+      },
+      {
+        "name": "NVD CVE 2019",
+        "timestamp": "07/11/2019 02:45:18"
+      },
+      {
+        "name": "NVD CVE Checked",
+        "timestamp": "07/11/2019 08:59:53"
+      },
+      {
+        "name": "NVD CVE Modified",
+        "timestamp": "07/11/2019 07:15:18"
+      },
+      {
+        "name": "VersionCheckOn",
+        "timestamp": "1573138793101"
+      }
+    ]
+  },
+  "projectInfo": {
+    "name": "",
+    "reportDate": "2019-11-07T09:06:22.106-0600",
+    "credits": {
+      "NVD": "This report contains data retrieved from the National Vulnerability Database: http://nvd.nist.gov",
+      "NPM": "This report may contain data retrieved from the NPM Public Advisories: https://www.npmjs.com/advisories",
+      "RETIREJS": "This report may contain data retrieved from the RetireJS community: https://retirejs.github.io/retire.js/"
+    }
+  },
+  "dependencies": [
+    {
+      "isVirtual": false,
+      "fileName": "protractor.conf.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\griffin\\ui\\angular\\protractor.conf.js",
+      "md5": "d6c25f64ee28478b8772b0b2953f92e7",
+      "sha1": "2bd4042903b43fad088451446a2991b9445651b2",
+      "sha256": "1c2257213f24423b535e37d1c80b8946e675e584272fef94f05bab7a569d5785",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "main.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\griffin\\ui\\angular\\src\\main.js",
+      "md5": "ee8082918eff848ccc19c6349eb28b31",
+      "sha1": "735a7d980662814a28cd0ff2e11050222c9e633c",
+      "sha256": "dcad4bed1ffc74478865225bdeba0844c9c5b41c167e9c802925b41c9e6c7f56",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "karma.conf.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\griffin\\ui\\angular\\karma.conf.js",
+      "md5": "28cd9996e4b36af1bb55bf6cfdd39269",
+      "sha1": "b0180abf9f164a9bc10f1af7509f89145351b8df",
+      "sha256": "a049adc224779584ec1534e98123cd301b725ea924a4f25dbfaf8d6ac2318712",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "webpack.config.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\griffin\\ui\\angular\\webpack.config.js",
+      "md5": "4fedf2d1de86017cf8c46a3405adf988",
+      "sha1": "5365687e49d652513072527346174dd6e7cf0902",
+      "sha256": "d22a7d750614568863ab43516284d33c3d3cf437d2ae3d7b43161c5cf26315b4",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "app.module.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\griffin\\ui\\angular\\src\\app\\app.module.js",
+      "md5": "ab30fc3aabbfd3457f74c4905cc3cdda",
+      "sha1": "634824d3c960915291979a728fe37267edf9423e",
+      "sha256": "d19b17924d51b0a50d6cade1e684af922c5fb6919b8b2adeee3b20583580975b",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "environment.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\griffin\\ui\\angular\\src\\environments\\environment.js",
+      "md5": "04eccfd25318a3d5d2aca603cd2d3ec1",
+      "sha1": "f44a1e1b7eefdfa74ac909af7659227d1031daf8",
+      "sha256": "c3e059076f3c596e92b4848cf8b68cf31fccef86d0e24f0b9a8cd3e44f65cc33",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "app.component.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\griffin\\ui\\angular\\src\\app\\app.component.js",
+      "md5": "0b539deaf475d1d25177f3fe13730469",
+      "sha1": "23680fbbc30f9f796b35712b54132fcf04839b86",
+      "sha256": "a2aedbbf6ef69cc5ac0091e79b9d9f81a993d80f7e5af7686ce3e1491e7c264f",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    }
+  ]
+}

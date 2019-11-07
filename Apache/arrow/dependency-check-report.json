@@ -1,0 +1,1798 @@
+{
+  "reportSchema": "1.1",
+  "scanInfo": {
+    "engineVersion": "5.0.0-M2",
+    "dataSource": [
+      {
+        "name": "NVD CVE 2002",
+        "timestamp": "02/11/2019 03:45:26"
+      },
+      {
+        "name": "NVD CVE 2003",
+        "timestamp": "11/10/2019 03:45:37"
+      },
+      {
+        "name": "NVD CVE 2004",
+        "timestamp": "08/10/2019 08:31:14"
+      },
+      {
+        "name": "NVD CVE 2005",
+        "timestamp": "07/11/2019 04:15:21"
+      },
+      {
+        "name": "NVD CVE 2006",
+        "timestamp": "07/11/2019 04:15:21"
+      },
+      {
+        "name": "NVD CVE 2007",
+        "timestamp": "07/11/2019 04:15:21"
+      },
+      {
+        "name": "NVD CVE 2008",
+        "timestamp": "29/10/2019 03:45:27"
+      },
+      {
+        "name": "NVD CVE 2009",
+        "timestamp": "07/11/2019 04:15:20"
+      },
+      {
+        "name": "NVD CVE 2010",
+        "timestamp": "07/11/2019 03:45:24"
+      },
+      {
+        "name": "NVD CVE 2011",
+        "timestamp": "07/11/2019 03:45:24"
+      },
+      {
+        "name": "NVD CVE 2012",
+        "timestamp": "07/11/2019 03:45:24"
+      },
+      {
+        "name": "NVD CVE 2013",
+        "timestamp": "07/11/2019 03:45:24"
+      },
+      {
+        "name": "NVD CVE 2014",
+        "timestamp": "07/11/2019 03:45:24"
+      },
+      {
+        "name": "NVD CVE 2015",
+        "timestamp": "07/11/2019 03:45:24"
+      },
+      {
+        "name": "NVD CVE 2016",
+        "timestamp": "07/11/2019 03:15:18"
+      },
+      {
+        "name": "NVD CVE 2017",
+        "timestamp": "07/11/2019 03:15:18"
+      },
+      {
+        "name": "NVD CVE 2018",
+        "timestamp": "07/11/2019 02:45:18"
+      },
+      {
+        "name": "NVD CVE 2019",
+        "timestamp": "07/11/2019 02:45:18"
+      },
+      {
+        "name": "NVD CVE Checked",
+        "timestamp": "07/11/2019 08:59:53"
+      },
+      {
+        "name": "NVD CVE Modified",
+        "timestamp": "07/11/2019 07:15:18"
+      },
+      {
+        "name": "VersionCheckOn",
+        "timestamp": "1573138793101"
+      }
+    ]
+  },
+  "projectInfo": {
+    "name": "",
+    "reportDate": "2019-11-07T09:00:33.049-0600",
+    "credits": {
+      "NVD": "This report contains data retrieved from the National Vulnerability Database: http://nvd.nist.gov",
+      "NPM": "This report may contain data retrieved from the NPM Public Advisories: https://www.npmjs.com/advisories",
+      "RETIREJS": "This report may contain data retrieved from the RetireJS community: https://retirejs.github.io/retire.js/"
+    }
+  },
+  "dependencies": [
+    {
+      "isVirtual": false,
+      "fileName": "index.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\perf\\index.js",
+      "md5": "dcf95500def9085fffcc5c17d98ca621",
+      "sha1": "7a889ddea6f6729acb0efe2bd93b57785def6745",
+      "sha256": "51e16dabd0c0f6e335f88ea4cbb9e976c934e23f251f17a207a0a517f76c5323",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "closure-task.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\gulp\\closure-task.js",
+      "md5": "80adc94a6d6312d691bed7ef3348635d",
+      "sha1": "558d881b9b7be3783b9a400b29c19ae705734728",
+      "sha256": "0597cafcee2e78b1c36c2996b42cc11700a36c73449c3825216092d011e18164",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "FluentBuilderExample.csproj",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\csharp\\examples\\FluentBuilderExample\\FluentBuilderExample.csproj",
+      "md5": "12f9e6f0997dc447bce0743581a9c98d",
+      "sha1": "6b00f9305e88cf5db457e4440b589db658742bd7",
+      "sha256": "8f908f5d5ed7cfd337ea2c3e8a770c9748935e1531763a3dbd104d530b85710b",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "FluentBuilderExample"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "FluentBuilderExample"
+          }
+        ],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "typescript-task.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\gulp\\typescript-task.js",
+      "md5": "90fb31f3655e9a182b47ab1b13c88f70",
+      "sha1": "fc67b04d4c2d332a431a4b4aa642444fef7aabf6",
+      "sha256": "32d8c102c653c449706ab4d50e4a563014a8d82c065e63c9fdb36501450119e0",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "file-to-stream.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\bin\\file-to-stream.js",
+      "md5": "5b4f916abb57f2564cf2978c2f5e7bad",
+      "sha1": "7e15aff55f0ca21565f02572a49149e0cc045ea5",
+      "sha256": "69a119da168a7a3c45b02056ba625909be56a2fe7ec9ba3e8d906a558d0144eb",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "test-task.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\gulp\\test-task.js",
+      "md5": "ba1cd0a68c4e07caa0497afe02700460",
+      "sha1": "2d92fe2ecb86e81a8fad1e653b7be74354813b5d",
+      "sha256": "437c4f3411053aa1a25df5024ac1aaf06b973f4c8db06e8afaac39a6ba693fd6",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "memoize-task.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\gulp\\memoize-task.js",
+      "md5": "374266fb825213fe35d1b1668f63bc20",
+      "sha1": "f07443ed65f6ef337c795c302c25185d5186fecd",
+      "sha256": "3d652b708e268f84926ca851ab3ec9d4eddfeccf4dae19f78dc6d6d629a59a61",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "json-to-arrow.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\bin\\json-to-arrow.js",
+      "md5": "ace46b3ac711801e6d294d6cf43ef63c",
+      "sha1": "6da932bc33cc1ed9491f381eefeda16a11a3d5aa",
+      "sha256": "fc1d7e7fe7071deddfa7d838d8370954c68b7b0be8496104f612adac1257e998",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jira_link.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\.github\\workflows\\pull_request\\jira_link.js",
+      "md5": "327ec6bf1259af6c860cc4fa464e2947",
+      "sha1": "0465f768ea4a8b9f9fc3a9a8efe7a48f775c5cc4",
+      "sha256": "d9a4d1b15eb10df3ace2b36255b9397f833f1817404e39d096ea43bf7749ed66",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "Apache.Arrow.csproj",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\csharp\\src\\Apache.Arrow\\Apache.Arrow.csproj",
+      "md5": "99608a9261c3e4468cf0a11cc0aacbd8",
+      "sha1": "490543e8aaff8ea1af29a443af91e1b919dd1f9c",
+      "sha256": "d7f616483924c5d38e6e51b1f6a50c1e7a5f584b667fc44dfe22b5507971bfbb",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "Apache.Arrow"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "Apache.Arrow"
+          }
+        ],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "argv.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\gulp\\argv.js",
+      "md5": "c0377dc5e5f704445c3e0585618aa6e8",
+      "sha1": "47e7d72256dd75fcd3624e9c69698e3cf495aed8",
+      "sha256": "583a0590cbc76e53d387a032f74ab9b91bc8ab4c837f298ed429a7d55ff51a73",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jest.coverage.config.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\jest.coverage.config.js",
+      "md5": "649e5e6061cb185cc154e93b18f5dac8",
+      "sha1": "d0652df815745480c99710ca700144b6c8504bd0",
+      "sha256": "b4b445b0aff53bbafc49020b8784d1b73b2cc1476b2926b70f6a48024422aefa",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "clean-task.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\gulp\\clean-task.js",
+      "md5": "b845071cbfc283e63c8e0daefc4e9097",
+      "sha1": "d7b439721fc47da24db0aaa10481e6ade954945b",
+      "sha256": "ca5d275d681a6fa537d7730e786c138cdb891432204e38cb7155e4d3afd907c4",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "print-buffer-alignment.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\bin\\print-buffer-alignment.js",
+      "md5": "6eccf94c544dc4cafeba1e2714d52da1",
+      "sha1": "9127ddb017f4cf2e67077e50f3e5fc404733d791",
+      "sha256": "01d68798a561f83af9c031e186a6f04953870b3caedeeef10894ba9170e5b77b",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "util.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\gulp\\util.js",
+      "md5": "7582c9e875b00e3914110f5b3f6ee21b",
+      "sha1": "8be3cbe22da4069302912f573cf5b6f02320ab38",
+      "sha256": "5691e4e1f9fe8ceb804155b8236b0f86e0cc3de6044b388021c90ed858a45fdb",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "Apache.Arrow.Benchmarks.csproj",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\csharp\\test\\Apache.Arrow.Benchmarks\\Apache.Arrow.Benchmarks.csproj",
+      "md5": "13c5e694e4d4cb81594eb7d04a848cbb",
+      "sha1": "86ed463cde5fea2ffbf5672faf4ee0be1ce84318",
+      "sha256": "aafe58f6c691c86da37a66348c2c456f586b7d79ede71e6e6a161770ea639076",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "Apache.Arrow.Benchmarks"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "Apache.Arrow.Benchmarks"
+          }
+        ],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "title_check.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\.github\\workflows\\pull_request\\title_check.js",
+      "md5": "64e8c65ec9d736886b8c4dbc2900e7bd",
+      "sha1": "244db92e0770483c7b8414cf3f18ad6ef97b2f50",
+      "sha256": "62c2c84089123693dd23d7e8e992e3ae35325da3d73db9b1772e455220309d64",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "index.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\index.js",
+      "md5": "f7b02d9722ee767294f8778c41372914",
+      "sha1": "90c63b48b1c10547bc46b1cd46467b538c4a7a33",
+      "sha256": "73577f9bd792c64fd0d7268ad21b5dbb9869c67b7f2bf4111c16c142bc47ec2e",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "integration.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\bin\\integration.js",
+      "md5": "a9b11de480c6a0ac5170065e4a553f8c",
+      "sha1": "c4f18ae9a723f382f81bc6a99caae634e39ae7f6",
+      "sha256": "5948f45245affa3d925affb35651858cd7bad57d13ba3fff1aeb11194e05874e",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "config.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\perf\\config.js",
+      "md5": "421955ed97903ef6e94323d682b4afd7",
+      "sha1": "6042521d7d621f970be7d7d87178a883447c1322",
+      "sha256": "77189c79f3503416c437d4aa60e8253070f46b16adb4fef8bb897b5215b1ca42",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "minify-task.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\gulp\\minify-task.js",
+      "md5": "cd67bb79dddca470053aa219fb09d790",
+      "sha1": "e927581c4ec4c61057ff976b16ffe99ba36429d5",
+      "sha256": "9107c19595d0a9a0d4ed1e177c47f6deb1f9274b2dbb4077701e0a99b3a80824",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "arrow-task.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\gulp\\arrow-task.js",
+      "md5": "1cb3af07ded44310d530d748d9a0c4b5",
+      "sha1": "f37dfc0ba77c74d81e6c096746bd0f5ec0bcfa82",
+      "sha256": "1774200870d59fa99b7c383ac25ecbb7fcd7c3734fb1a0bdf1ed467e492719b7",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "gulpfile.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\gulpfile.js",
+      "md5": "3e9991f4b66f5fa7c18032bdaf28e812",
+      "sha1": "0c0c505935880033d3d10322a9a223bac4b62561",
+      "sha256": "e8cc0f6b064751f95f3e3cd5d3087be9d8982c925a029c52fa0971938b65af71",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "Apache.Arrow.Tests.csproj",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\csharp\\test\\Apache.Arrow.Tests\\Apache.Arrow.Tests.csproj",
+      "md5": "8109f677c5b7cd6cafce76c6c5a86928",
+      "sha1": "22b98eaef3d2820a0f04b4f5d40029faa8231442",
+      "sha256": "9687b1ea6e5debb502e41366e3a64812d2c2c6f6528ad4b691a04409ed5e86e0",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "Apache.Arrow.Tests"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGH",
+            "source": "file",
+            "name": "name",
+            "value": "Apache.Arrow.Tests"
+          }
+        ],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "package-task.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\gulp\\package-task.js",
+      "md5": "2aa39d5ce9ff41e3e25239ec96ca6600",
+      "sha1": "360cc6f21c8b0c242f5408eba0815659fcaf9927",
+      "sha256": "65e601c4fad527a8e3374c60b10b794bca23534850999f507019bfff0cb9fcd9",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "typedoc.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\typedoc.js",
+      "md5": "698d7d0cb2f2ce420c1d5cd64f8d9769",
+      "sha1": "c6f16cb4e9c6a4985f094dcb4f1b9a53405b8d1d",
+      "sha256": "613add2f6f372653f02236b9fb2ca4bc7ab3f21b5ba34a7e1034bcc54ee540f6",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "stream-to-file.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\bin\\stream-to-file.js",
+      "md5": "d9e736c97755532d452fe0ba770bacab",
+      "sha1": "4a352bd29af731a1c663c37e0748f128d55364f3",
+      "sha256": "fccbd34ef6f109b1804f1379a1a5405898526cbf9f808a85b47cda44fd25776c",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "jest.config.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\jest.config.js",
+      "md5": "50fe777457f3485d70f33d50b5917cff",
+      "sha1": "e5cadeededa8b216ad6587106e9c829e6616c4b0",
+      "sha256": "b7075bc6c94c3837ee3d89e4ff89f21f68f625b86eb355ac8f20c8b6d7aec7bf",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "compile-task.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\gulp\\compile-task.js",
+      "md5": "83257cfa8239b21992fb159b5f9eccee",
+      "sha1": "bfe2d8189bf6d791aace9b0e0bf448c3da59088a",
+      "sha256": "b763f4136440529a554f513b67e7261eb72aa9b237a4cd1689f86f7588448496",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "arrow2csv.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\bin\\arrow2csv.js",
+      "md5": "3cb43ff42b2322cc65a3b20613fd5e8a",
+      "sha1": "42beaf95568bab62214da961ca388a60f5a896d2",
+      "sha256": "2e17a8003997fedc03796228d59c479c42b5331be5599f3575a431b6e4b3770a",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": false,
+      "fileName": "table_config.js",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\perf\\table_config.js",
+      "md5": "0229851e95c73cd7925421b57be30a41",
+      "sha1": "a28a9b3c51083edaacfd737d3c0e249c49adc446",
+      "sha256": "9c805e05d0e79cdcbfceb83a3ec1515a238d3dbfc0cfca599bf9fa6ac1c1c4ff",
+      "evidenceCollected": {
+        "vendorEvidence": [],
+        "productEvidence": [],
+        "versionEvidence": []
+      }
+    },
+    {
+      "isVirtual": true,
+      "fileName": "BenchmarkDotNet:0.11.3",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\csharp\\test\\Apache.Arrow.Benchmarks\\Apache.Arrow.Benchmarks.csproj",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "LOW",
+            "source": "msbuild",
+            "name": "id",
+            "value": "BenchmarkDotNet"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "BenchmarkDotNet"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "0.11.3"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/BenchmarkDotNet@0.11.3",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "Microsoft.NET.Test.Sdk:15.8.0",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\csharp\\test\\Apache.Arrow.Tests\\Apache.Arrow.Tests.csproj",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Microsoft"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "NET.Test.Sdk"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "NET"
+          },
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Microsoft.NET.Test.Sdk"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "15.8.0"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/Microsoft.NET.Test.Sdk@15.8.0",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "System.Buffers:4.5.0",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\csharp\\src\\Apache.Arrow\\Apache.Arrow.csproj",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "System"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "System.Buffers"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Buffers"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "4.5.0"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/System.Buffers@4.5.0",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "BenchmarkDotNet.Diagnostics.Windows:0.11.3",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\csharp\\test\\Apache.Arrow.Benchmarks\\Apache.Arrow.Benchmarks.csproj",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "BenchmarkDotNet"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "BenchmarkDotNet.Diagnostics.Windows"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Diagnostics"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Diagnostics.Windows"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "0.11.3"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/BenchmarkDotNet.Diagnostics.Windows@0.11.3",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "System.Memory:4.5.2",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\csharp\\src\\Apache.Arrow\\Apache.Arrow.csproj",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "System"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "System.Memory"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Memory"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "4.5.2"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/System.Memory@4.5.2",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "xunit:2.4.0",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\csharp\\test\\Apache.Arrow.Tests\\Apache.Arrow.Tests.csproj",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "LOW",
+            "source": "msbuild",
+            "name": "id",
+            "value": "xunit"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "xunit"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "2.4.0"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/xunit@2.4.0",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "System.Runtime.CompilerServices.Unsafe:4.5.2",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\csharp\\src\\Apache.Arrow\\Apache.Arrow.csproj",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "System"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "System.Runtime.CompilerServices.Unsafe"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Runtime.CompilerServices.Unsafe"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Runtime"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "4.5.2"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/System.Runtime.CompilerServices.Unsafe@4.5.2",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "xunit.runner.visualstudio:2.4.0",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\csharp\\test\\Apache.Arrow.Tests\\Apache.Arrow.Tests.csproj",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "xunit"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "runner.visualstudio"
+          },
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "xunit.runner.visualstudio"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "runner"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "2.4.0"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/xunit.runner.visualstudio@2.4.0",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "System.Threading.Tasks.Extensions:4.5.2",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\csharp\\src\\Apache.Arrow\\Apache.Arrow.csproj",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "System"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "System.Threading.Tasks.Extensions"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Threading"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Threading.Tasks.Extensions"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "4.5.2"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/System.Threading.Tasks.Extensions@4.5.2",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "Microsoft.SourceLink.GitHub:1.0.0-beta2-19270-01",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\csharp\\src\\Apache.Arrow\\Apache.Arrow.csproj",
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Microsoft"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "SourceLink.GitHub"
+          },
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "id",
+            "value": "Microsoft.SourceLink.GitHub"
+          },
+          {
+            "type": "product",
+            "confidence": "MEDIUM",
+            "source": "msbuild",
+            "name": "id",
+            "value": "SourceLink"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "msbuild",
+            "name": "version",
+            "value": "1.0.0-beta2-19270-01"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:nuget/Microsoft.SourceLink.GitHub@1.0.0-beta2-19270-01",
+          "confidence": "HIGHEST"
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "lodash:4.17.11",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\package-lock.json?lodash",
+      "projectReferences": [
+        "apache-arrow: transitive"
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "HIGH",
+            "source": "package.json",
+            "name": "name",
+            "value": "lodash"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "package.json",
+            "name": "name",
+            "value": "lodash"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "package.json",
+            "name": "version",
+            "value": "4.17.11"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:npm/lodash@4.17.11",
+          "confidence": "HIGHEST"
+        }
+      ],
+      "vulnerabilities": [
+        {
+          "source": "NPM",
+          "name": "1065",
+          "cwes": [],
+          "description": "Versions of `lodash` before 4.17.12 are vulnerable to Prototype Pollution.  The function `defaultsDeep` allows a malicious user to modify the prototype of `Object` via `{constructor: {prototype: {...}}}` causing the addition or modification of an existing property that will exist on all objects.\n\n",
+          "notes": "",
+          "references": [
+            {
+              "source": "Advisory 1065: Prototype Pollution",
+              "name": "- [Snyk Advisory](https://snyk.io/vuln/SNYK-JS-LODASH-450202)"
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:*:lodash:\\<4.17.12:*:*:*:*:*:*:*"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "marked:0.6.2",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\package-lock.json?marked",
+      "projectReferences": [
+        "apache-arrow: transitive"
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "HIGH",
+            "source": "package.json",
+            "name": "name",
+            "value": "marked"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "package.json",
+            "name": "name",
+            "value": "marked"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "package.json",
+            "name": "version",
+            "value": "0.6.2"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:npm/marked@0.6.2",
+          "confidence": "HIGHEST"
+        }
+      ],
+      "vulnerabilities": [
+        {
+          "source": "NPM",
+          "name": "1076",
+          "cwes": [],
+          "description": "Affected versions of `marked` are vulnerable to Regular Expression Denial of Service (ReDoS). The `_label` subrule may significantly degrade parsing performance of malformed input.",
+          "notes": "",
+          "references": [
+            {
+              "source": "Advisory 1076: Regular Expression Denial of Service",
+              "name": ""
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:*:marked:\\>\\=0.4.0\\<0.7.0:*:*:*:*:*:*:*"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "handlebars:4.0.12",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\package-lock.json?handlebars",
+      "projectReferences": [
+        "apache-arrow: transitive"
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "HIGH",
+            "source": "package.json",
+            "name": "name",
+            "value": "handlebars"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "package.json",
+            "name": "name",
+            "value": "handlebars"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "package.json",
+            "name": "version",
+            "value": "4.0.12"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:npm/handlebars@4.0.12",
+          "confidence": "HIGHEST"
+        }
+      ],
+      "vulnerabilities": [
+        {
+          "source": "NPM",
+          "name": "1164",
+          "cwes": [],
+          "description": "Versions of `handlebars` prior to are vulnerable to Prototype Pollution leading to Remote Code Execution. Templates may alter an Objects' `__proto__` and `__defineGetter__` properties, which may allow an attacker to execute arbitrary code through crafted payloads.",
+          "notes": "",
+          "references": [
+            {
+              "source": "Advisory 1164: Prototype Pollution",
+              "name": ""
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:*:handlebars:\\<4.3.0:*:*:*:*:*:*:*"
+              }
+            }
+          ]
+        },
+        {
+          "source": "NPM",
+          "name": "1300",
+          "cwes": [],
+          "description": "Affected versions of `handlebars` are vulnerable to Denial of Service. The package's parser may be forced into an endless loop while processing specially-crafted templates. This may allow attackers to exhaust system resources leading to Denial of Service.",
+          "notes": "",
+          "references": [
+            {
+              "source": "Advisory 1300: Denial of Service",
+              "name": ""
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:*:handlebars:\\>\\=4.0.0\\<4.4.5:*:*:*:*:*:*:*"
+              }
+            }
+          ]
+        },
+        {
+          "source": "NPM",
+          "name": "755",
+          "cwes": [],
+          "description": "Versions of `handlebars` prior to 4.0.14 are vulnerable to Prototype Pollution. Templates may alter an Objects' prototype, thus allowing an attacker to execute arbitrary code on the server.",
+          "notes": "",
+          "references": [
+            {
+              "source": "Advisory 755: Prototype Pollution",
+              "name": ""
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:*:handlebars:\\<\\=4.0.13\\|\\|\\>\\=4.1.0\\<4.1.2:*:*:*:*:*:*:*"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "https-proxy-agent:2.2.1",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\package-lock.json?https-proxy-agent",
+      "projectReferences": [
+        "apache-arrow: transitive"
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "HIGH",
+            "source": "package.json",
+            "name": "name",
+            "value": "https-proxy-agent"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "package.json",
+            "name": "name",
+            "value": "https-proxy-agent"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "package.json",
+            "name": "version",
+            "value": "2.2.1"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:npm/https-proxy-agent@2.2.1",
+          "confidence": "HIGHEST"
+        }
+      ],
+      "vulnerabilities": [
+        {
+          "source": "NPM",
+          "name": "1184",
+          "cwes": [],
+          "description": "Versions of `https-proxy-agent` prior to 2.2.3 are vulnerable to Machine-In-The-Middle. The package fails to enforce TLS on the socket if the proxy server responds the to the request with a HTTP status different than 200. This allows an attacker with access to the proxy server to intercept unencrypted communications, which may include sensitive information such as credentials.",
+          "notes": "",
+          "references": [
+            {
+              "source": "Advisory 1184: Machine-In-The-Middle",
+              "name": "- [HackerOne Report](https://hackerone.com/reports/541502)"
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:*:https-proxy-agent:\\<2.2.3:*:*:*:*:*:*:*"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "jquery:2.2.4",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\package-lock.json?jquery",
+      "projectReferences": [
+        "apache-arrow: transitive"
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "HIGH",
+            "source": "package.json",
+            "name": "name",
+            "value": "jquery"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "package.json",
+            "name": "name",
+            "value": "jquery"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "package.json",
+            "name": "version",
+            "value": "2.2.4"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:npm/jquery@2.2.4",
+          "confidence": "HIGHEST"
+        }
+      ],
+      "vulnerabilities": [
+        {
+          "source": "NPM",
+          "name": "328",
+          "cwes": [],
+          "description": "Affected versions of `jquery` interpret `text/javascript` responses from cross-origin ajax requests, and automatically execute the contents in `jQuery.globalEval`, even when the ajax request doesn't contain the `dataType` option.",
+          "notes": "",
+          "references": [
+            {
+              "source": "Advisory 328: Cross-Site Scripting (XSS)",
+              "name": "- [Issue #2432](https://github.com/jquery/jquery/issues/2432)\n- [Commit #b078a62](https://github.com/jquery/jquery/commit/b078a62013782c7424a4a61a240c23c4c0b42614)\n- [PR #2588](https://github.com/jquery/jquery/pull/2588)"
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:*:jquery:\\>\\=1.4.0\\<\\=1.11.3\\|\\|\\>\\=1.12.4\\<\\=2.2.4:*:*:*:*:*:*:*"
+              }
+            }
+          ]
+        },
+        {
+          "source": "NPM",
+          "name": "796",
+          "cwes": [],
+          "description": "Versions of `jquery`  prior to 3.4.0 are vulnerable to Prototype Pollution. The extend() method allows an attacker to modify the prototype for `Object` causing changes in properties that will exist on all objects.",
+          "notes": "",
+          "references": [
+            {
+              "source": "Advisory 796: Prototype Pollution",
+              "name": "- [HackerOne Report](https://hackerone.com/reports/454365)"
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:*:jquery:\\<3.4.0:*:*:*:*:*:*:*"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "fstream:1.0.11",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\package-lock.json?fstream",
+      "projectReferences": [
+        "apache-arrow: transitive"
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "HIGH",
+            "source": "package.json",
+            "name": "name",
+            "value": "fstream"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "package.json",
+            "name": "name",
+            "value": "fstream"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "package.json",
+            "name": "version",
+            "value": "1.0.11"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:npm/fstream@1.0.11",
+          "confidence": "HIGHEST"
+        }
+      ],
+      "vulnerabilities": [
+        {
+          "source": "NPM",
+          "name": "886",
+          "cwes": [],
+          "description": "Versions of `fstream` prior to 1.0.12 are vulnerable to Arbitrary File Overwrite. Extracting tarballs containing a hardlink to a file that already exists in the system and a file that matches the hardlink will overwrite the system's file with the contents of the extracted file. The `fstream.DirWriter()` function is vulnerable.",
+          "notes": "",
+          "references": [
+            {
+              "source": "Advisory 886: Arbitrary File Overwrite",
+              "name": "- [GitHub Commit](https://github.com/npm/fstream/commit/6a77d2fa6e1462693cf8e46f930da96ec1b0bb22)"
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:*:fstream:\\<1.0.12:*:*:*:*:*:*:*"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "mixin-deep:1.3.1",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\package-lock.json?mixin-deep",
+      "projectReferences": [
+        "apache-arrow: transitive"
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "HIGH",
+            "source": "package.json",
+            "name": "name",
+            "value": "mixin-deep"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "package.json",
+            "name": "name",
+            "value": "mixin-deep"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "package.json",
+            "name": "version",
+            "value": "1.3.1"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:npm/mixin-deep@1.3.1",
+          "confidence": "HIGHEST"
+        }
+      ],
+      "vulnerabilities": [
+        {
+          "source": "NPM",
+          "name": "1013",
+          "cwes": [],
+          "description": "Versions of `mixin-deep` prior to 2.0.1 or 1.3.2 are vulnerable to Prototype Pollution. The `mixinDeep` function fails to validate which Object properties it updates. This allows attackers to modify the prototype of Object, causing the addition or modification of an existing property on all objects.\n\n",
+          "notes": "",
+          "references": [
+            {
+              "source": "Advisory 1013: Prototype Pollution",
+              "name": "- [Snyk Report](https://snyk.io/vuln/SNYK-JS-MIXINDEEP-450212)"
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:*:mixin-deep:\\<1.3.2\\|\\|\\>\\=2.0.0\\<2.0.1:*:*:*:*:*:*:*"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "js-yaml:3.12.1",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\package-lock.json?js-yaml",
+      "projectReferences": [
+        "apache-arrow: transitive"
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "HIGH",
+            "source": "package.json",
+            "name": "name",
+            "value": "js-yaml"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "package.json",
+            "name": "name",
+            "value": "js-yaml"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "package.json",
+            "name": "version",
+            "value": "3.12.1"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:npm/js-yaml@3.12.1",
+          "confidence": "HIGHEST"
+        }
+      ],
+      "vulnerabilities": [
+        {
+          "source": "NPM",
+          "name": "788",
+          "cwes": [],
+          "description": "Versions of `js-yaml` prior to 3.13.0 are vulnerable to Denial of Service. By parsing a carefully-crafted YAML file, the node process stalls and may exhaust system resources leading to a Denial of Service.",
+          "notes": "",
+          "references": [
+            {
+              "source": "Advisory 788: Denial of Service",
+              "name": ""
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:*:js-yaml:\\<3.13.0:*:*:*:*:*:*:*"
+              }
+            }
+          ]
+        },
+        {
+          "source": "NPM",
+          "name": "813",
+          "cwes": [],
+          "description": "Versions of `js-yaml` prior to 3.13.1 are vulnerable to Code Injection. The `load()` function may execute arbitrary code injected through a malicious YAML file. Objects that have `toString` as key, JavaScript code as value and are used as explicit mapping keys allow attackers to execute the supplied code through the `load()` function. The `safeLoad()` function is unaffected.\n\nAn example payload is \n`{ toString: !<tag:yaml.org,2002:js/function> 'function (){return Date.now()}' } : 1` \nwhich returns the object \n{\n  \"1553107949161\": 1\n}",
+          "notes": "",
+          "references": [
+            {
+              "source": "Advisory 813: Code Injection",
+              "name": "- [GitHub PR](https://github.com/nodeca/js-yaml/pull/480)"
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:*:js-yaml:\\<3.13.1:*:*:*:*:*:*:*"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "set-value:2.0.0",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\package-lock.json?set-value",
+      "projectReferences": [
+        "apache-arrow: transitive"
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "HIGH",
+            "source": "package.json",
+            "name": "name",
+            "value": "set-value"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "package.json",
+            "name": "name",
+            "value": "set-value"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "package.json",
+            "name": "version",
+            "value": "2.0.0"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:npm/set-value@2.0.0",
+          "confidence": "HIGHEST"
+        }
+      ],
+      "vulnerabilities": [
+        {
+          "source": "NPM",
+          "name": "1012",
+          "cwes": [],
+          "description": "Versions of `set-value` prior to 3.0.1 or 2.0.1 are vulnerable to Prototype Pollution. The `set` function fails to validate which Object properties it updates. This allows attackers to modify the prototype of Object, causing the addition or modification of an existing property on all objects.\n\n",
+          "notes": "",
+          "references": [
+            {
+              "source": "Advisory 1012: Prototype Pollution",
+              "name": "- [Snyk Report](https://snyk.io/vuln/SNYK-JS-SETVALUE-450213)"
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:*:set-value:\\<2.0.1\\|\\|\\>\\=3.0.0\\<3.0.1:*:*:*:*:*:*:*"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "isVirtual": true,
+      "fileName": "tar:2.2.1",
+      "filePath": "C:\\Users\\mpauk\\GithubData\\SelectedRepositories\\arrow\\js\\package-lock.json?tar",
+      "projectReferences": [
+        "apache-arrow: transitive"
+      ],
+      "evidenceCollected": {
+        "vendorEvidence": [
+          {
+            "type": "vendor",
+            "confidence": "HIGH",
+            "source": "package.json",
+            "name": "name",
+            "value": "tar"
+          }
+        ],
+        "productEvidence": [
+          {
+            "type": "product",
+            "confidence": "HIGHEST",
+            "source": "package.json",
+            "name": "name",
+            "value": "tar"
+          }
+        ],
+        "versionEvidence": [
+          {
+            "type": "version",
+            "confidence": "HIGHEST",
+            "source": "package.json",
+            "name": "version",
+            "value": "2.2.1"
+          }
+        ]
+      },
+      "packages": [
+        {
+          "id": "pkg:npm/tar@2.2.1",
+          "confidence": "HIGHEST"
+        }
+      ],
+      "vulnerabilities": [
+        {
+          "source": "NPM",
+          "name": "803",
+          "cwes": [],
+          "description": "Versions of `tar` prior to 4.4.2 for 4.x and 2.2.2 for 2.x are vulnerable to Arbitrary File Overwrite. Extracting tarballs containing a hardlink to a file that already exists in the system, and a file that matches the hardlink will overwrite the system's file with the contents of the extracted file.",
+          "notes": "",
+          "references": [
+            {
+              "source": "Advisory 803: Arbitrary File Overwrite",
+              "name": "- [HackerOne Report](https://hackerone.com/reports/344595)"
+            }
+          ],
+          "vulnerableSoftware": [
+            {
+              "software": {
+                "id": "cpe:2.3:a:*:tar:\\<2.2.2\\|\\|\\>\\=3.0.0\\<4.4.2:*:*:*:*:*:*:*"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

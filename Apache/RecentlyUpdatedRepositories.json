@@ -1,23 +1,8 @@
 [
   {
-    "ProjectName": "activemq",
-    "Forks": 1087,
-    "Branches": 15
-  },
-  {
     "ProjectName": "oozie",
     "Forks": 398,
     "Branches": 15
-  },
-  {
-    "ProjectName": "logging-log4j2",
-    "Forks": 493,
-    "Branches": 37
-  },
-  {
-    "ProjectName": "commons-bcel",
-    "Forks": 67,
-    "Branches": 5
   },
   {
     "ProjectName": "hadoop",
@@ -48,11 +33,6 @@
     "ProjectName": "griffin",
     "Forks": 312,
     "Branches": 13
-  },
-  {
-    "ProjectName": "plc4x",
-    "Forks": 63,
-    "Branches": 20
   },
   {
     "ProjectName": "plc4x-website",
